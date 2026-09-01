@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Cod oohin ah ayaa ka yimid Xoronaym — baabbi'in iyo jajab weyn.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "oohin (qaylo)"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "Xoronaym (ka)"
+    },
+    {
+      "surface": "שד",
+      "gloss": "baabbi'in"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "jajab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T04:20:43.512604401Z",
+  "model": "glm-5.3"
+}

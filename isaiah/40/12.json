@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Yaa biyaha cabitaaddiisa gacantiisa ku cabiray, ama samada baal-bacaad ku cabbiray, ama afarta qoodha dhulka ciidda isku dhaafee, ama buuraha miisaanka ku qiyaasay, iyo tebabka mizaan ku dhan-yahay?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ku cabiray"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "cabitaaddiisa gacantiisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "baal-bacaad"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ku cabbiray"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "isku dhaafee"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "afarta qoodha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "ku qiyaasay"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "miisaanka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "tebabka"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mizaan ku dhan-yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:41.319325086Z",
+  "model": "glm-5.3"
+}

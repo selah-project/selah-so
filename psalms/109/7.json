@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Marka la xukumo, ha soo baxdo ⟨isagoo⟩ rasho, iyo salaaddiisu ha noqoto dembi.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "marka la xukumo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ha soo baxdo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasho"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "iyo salaaddiisu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ha noqoto"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dembi"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:00.719182743Z",
+  "model": "glm-5.3"
+}

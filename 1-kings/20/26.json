@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markay sanadku ku noqday baa Ben-Hadad ku tirtiray ⟨את⟩ Aram, oo uu kor u guurray Afeek si uu uga dagaallamo Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay noqotay"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ku noqoshada"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ku tirtiray"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "oo uu kor u guurray"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:58.477269757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Indhahaygu ⟨way ku jiraan⟩ kuwa daacadda ah ee dhulka, inay ila fadhiistaan; kan socda jidka oo dhan-buuxa, adigaa ⟨doonaa⟩ inuu i adeego.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "kuwa daacadda ah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ee dhulka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "inay fadhiistaan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kan socda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "oo dhan-buuxa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "inuu i adeego"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:54.328022840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Qofka khesed leh waxaad ku muuqataa khesed, qofka taam ah waxaad ku dhaqantaa taam.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "qofka khesed leh"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "waxaad ku muuqataa khesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qofka taam ah"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "taam"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "waxaad ku dhaqantaa taam"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:53.905796248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ma tan baa idiinku tahay magaalada farxadda leh, oo taariikhdeedu waa tan iyo hore, kaas oo cagtaheedii ay keentay meel fog si ay ugu noolaato(sojourn)?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "farxadda leh"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "taariikhdeedii hore"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "ay keentay"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "cagtaheedii"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "si ay ugu noolaato(sojourn)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:16.215242305Z",
+  "model": "glm-5.3"
+}

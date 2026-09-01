@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 32:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuuse adkaanay, wuxuuna dhisay ⟨את⟩ dhammaan bedweynta ee la gooyay, wuxuuna kor u qaaday burburka ilaa dheerarka, iyo bedweyn kale dibeddeeda, wuxuuna adkaa-yay ⟨את⟩ Meelaha Milloo ee magaalada Daawud, wuxuuna sameeyay mindiyo badan iyo gaashaan-dhowro.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "wuxuuse adkaanay"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan bedweynta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "bedweynta"
+    },
+    {
+      "surface": "הפרוצה",
+      "gloss": "ee la gooyay"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna kor u qaaday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "המגדלות",
+      "gloss": "dheerarka"
+    },
+    {
+      "surface": "ולחוצה",
+      "gloss": "iyo dibeddeeda"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "bedweyn"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuuna adkaa-yay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meelaha Milloo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Meelaha Milloo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mindiyo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ומגנים",
+      "gloss": "iyo gaashaan-dhowro"
+    }
+  ],
+  "timestamp": "2026-09-01T06:46:13.814953984Z",
+  "model": "glm-5.3"
+}

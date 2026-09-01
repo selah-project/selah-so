@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "⟨את⟩ bartamaha miqaaska iyo ⟨את⟩ tiirarkiisa iyo ⟨את⟩ aasaasyadiisa, iyo ⟨את⟩ daboolka iridda miqaaska",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bartamaha miqaaska"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "bartamaha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "miqaaska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarkiisa"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tiirarkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "aasaasyadiisa"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "aasaasyadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daboolka"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "daboolka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "miqaaska"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:46.179285748Z",
+  "model": "glm-5.3"
+}

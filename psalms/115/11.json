@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Kuwa cabsida Yahweh qaba, ku talaxa Yahweh; gargaarkoodii iyo gaashaankoodii waa Isaga.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "kuwa cabsida qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ku talaxa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "gargaarkoodii"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "iyo gaashaankoodii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:37.240428228Z",
+  "model": "glm-5.3"
+}

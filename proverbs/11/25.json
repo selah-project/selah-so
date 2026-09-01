@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Naf barako leh waa la dheelin; kan waraabinna isaguna wuu waraabiyaa.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barako"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "waa la dheelin"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "kan waraabinna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "wuu waraabiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:38.519038666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahweh Elohimkaagu wuxuu guda-gudin doonaa ⟨את⟩ qalbigaaga iyo ⟨את⟩ qalbka farackaaga, si aad u jecelshaan ⟨את⟩ Yahweh Elohimkaaga qalbigaaga oo dhan iyo naf taada oo dhan, si aad nolosha u helato.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "wuxuu guda-gudin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbigaaga"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalbka farackaaga"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "farackaaga"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "si aad u jecelshaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan (qalbigaaga)"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naf taada"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aad u helato"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nolosha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:31.416166737Z",
+  "model": "glm-5.3"
+}

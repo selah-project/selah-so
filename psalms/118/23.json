@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Tan ⟨את⟩ xagga Yahweh bay ka timid, waa wax la yaab ah indhahayaga.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ xagga",
+      "marks": "Tan (waxa Yahweh sameeyay)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bay ka timid"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "wax la yaab ah"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "indhahayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:30.753079636Z",
+  "model": "glm-5.3"
+}

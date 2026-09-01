@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Waxayna yidhaahdeen: Ma oga shaqaysaa ⟨את⟩ walaasheen sidii mid hoosay ah?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Waxayna yidhaahdeen"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "sidii mid hoosay ah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ma oga shaqaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaasheen"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "walaasheen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:33.806569429Z",
+  "model": "glm-5.3"
+}

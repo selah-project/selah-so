@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Adigu waddada diyaari, kala seddexna ⟨את⟩ xadka dhulkaagaa Yahweh Elohimkaagu kuu dhaaxayo, si aysay u noqoto meel qof kastoo diley cararo.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "waddada-diyaari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "kala-seddexna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xadka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xadka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dhulkaagaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aa"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "kuu-dhaaxayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "si-aysay-u-noqoto"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "meel-cararo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qof-kastoo"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "diley"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:49.625116063Z",
+  "model": "glm-5.3"
+}

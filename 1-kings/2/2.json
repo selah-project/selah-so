@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Anigu waxaan tegayaa jidadka dhulka oo dhan; adigase adkays oo noqo nin.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waxaan tegayaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "adkays oo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:10:12.439325896Z",
+  "model": "glm-5.3"
+}

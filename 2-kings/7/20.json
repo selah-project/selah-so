@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuu u noqday sidaas, shacabkii baa iridda ku tuuray ⟨את⟩, wuuna dhintay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "way tuureen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:12:14.480355703Z",
+  "model": "glm-5.3"
+}

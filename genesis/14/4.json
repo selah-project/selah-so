@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Toban-iyo-laba sano waxay adeegsan jireen ⟨את⟩ Kedarlaomer, balse sanadii tobnaad-iyo-saddexaad waxay caasuddeen.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "waxay adeegsan jireen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "balse sanadii saddex"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "waxay caasuddeen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:41.525252353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Waan ku mahadin doonaa dadka geele, Adonay; waan ku qaali-yeelay doonaa bulshooyinka.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "waan ku mahadin doonaa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "dadka geele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "waan ku qaali-yeelay doonaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bulshooyinka"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:57.144117511Z",
+  "model": "glm-5.3"
+}

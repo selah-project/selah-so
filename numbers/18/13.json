@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 18:13",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Midhaha-hore ee wax kasta oo dhulkooda ku yaal, oo ay keenaan Yahweh, waa adiga oo leh; qof kasta oo daahir ah oo gurigaaga ah wuu cuni doonaa.",
+  "tokens": [
+    {
+      "surface": "בכורי",
+      "gloss": "midhaha-hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "dhulkooda ku yaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ay keenaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga oo leh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qof kasta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "daahir ah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga ah"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "wuu cuni doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:30.572389960Z",
+  "model": "glm-5.3"
+}

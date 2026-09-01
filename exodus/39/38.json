@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Iyo ⟨את⟩ alliga dahabka ah, iyo ⟨את⟩ saliidaha subkista, iyo ⟨את⟩ udkaha qumbaha, iyo ⟨את⟩ daaqadda iridda khaymadda",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "alliga dahabka ah"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alliga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saliidaha subkista"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidaha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "udkaha qumbaha"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "udkaha"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "qumbaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daaqadda iridda khaymadda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "daaqadda"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:37.294181238Z",
+  "model": "glm-5.3"
+}

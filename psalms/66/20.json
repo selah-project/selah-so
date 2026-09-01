@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Ammaanay ha ahaato Elohim, kan aan jeedin baryadaydii, khesedkiisana ⟨את⟩ ilayga ka dhaafin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ammaanay ha ahaato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "jeedin"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadaydii"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "khesedkiisana"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ilayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:16.778767666Z",
+  "model": "glm-5.3"
+}

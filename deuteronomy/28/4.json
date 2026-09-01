@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Barako leh tahay midhaha calooshaada, iyo midhaha dhulkaaga (beerkaaga), iyo midhaha xoolahaaga, ilmaha lo'daada iyo waxa adhigaagu dhalayaan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barako leh tahay"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "calooshaada"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "iyo midhaha"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "dhulkaaga (beerkaaga)"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "iyo midhaha"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "xoolahaaga"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "lo'daada"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "iyo waxa dhalayaan"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "adhigaagu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:44.676744083Z",
+  "model": "glm-5.3"
+}

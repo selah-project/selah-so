@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Kiikar dahab tahir baa loo sameyn doonaa ⟨את⟩ (shumaca), iyo ⟨את⟩ dhammaan alaabooyinkan",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kiikar (misaan dahab ah)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tahir"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "loo sameyn doonaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shumaca (ay) — ta loo sameynayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan alaabooyinkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alaabooyinkan (keelada)"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan\/kuwan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:03.531850585Z",
+  "model": "glm-5.3"
+}

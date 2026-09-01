@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Aniguna waxaan ahay sidii zaytuun cagaar ah guriga Elohim gudihiisa; waxaan kalsoonahay khesedka Elohim ilaa iyo weligay iyo waligood.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "sidii zaytuun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "cagaar ah"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga gudihiisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "waxaan kalsoonahay"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "khesedka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ilaa iyo weligay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo waligood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:36.997655154Z",
+  "model": "glm-5.3"
+}

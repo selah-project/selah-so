@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Markii taasi dib kadib, qalbigii Daawud wuu ku garaacay ⟨את⟩ isaga, waayo wuu goostay ⟨את⟩ geeska marada oo ahayd ta Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markii dib kadib"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taasi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuu ku garaacay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbigii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "Daawud laftiisa (qalbigii ayaa garaacay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "goostay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geeska marada"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ahayd"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ta Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:42.122809040Z",
+  "model": "glm-5.3"
+}

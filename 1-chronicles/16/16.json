@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "(Ballankaas) uu la gooyay ⟨את⟩ Abraham, iyo dhaaradiisii uu ku dhaartay Isxaq;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "(Ballankaas) uu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "la gooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "iyo dhaaradiisii"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "uu ku dhaartay Isxaq"
+    }
+  ],
+  "timestamp": "2026-09-01T06:28:15.810786273Z",
+  "model": "glm-5.3"
+}

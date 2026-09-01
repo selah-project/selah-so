@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahweh wuxuu liidataa, wuxuuna hodmin; wuxuu hoos u dhigaa, wuxuuna sar u qaadaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "wuxuu liidataa"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "wuxuuna hodmin"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "wuxuu hoos u dhigaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wuxuuna"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "sar u qaadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:06.423673123Z",
+  "model": "glm-5.3"
+}

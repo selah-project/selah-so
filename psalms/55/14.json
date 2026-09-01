@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Laakiin adigu, nin aan ahay ila-taageere (erey la'aan) — adigu waxaad tahay nin aniga ila eg, saaxiibkaygii iyo kan ii aqoonsanaa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adigu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nin (dhimo-baaban)"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "aniga ila eg"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "saaxiibkaygii"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "iyo kan ii aqoonsanaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:02.993771417Z",
+  "model": "glm-5.3"
+}

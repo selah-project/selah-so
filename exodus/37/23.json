@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ laambaddeeda toddoba, iyo maqasasheeda, iyo saxaradeeda — dahab nadiif ah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laambaddeeda toddoba"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laambaddeeda"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "iyo maqasasheeda"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "iyo saxaradeeda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadiif ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:15.845485140Z",
+  "model": "glm-5.3"
+}

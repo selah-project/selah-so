@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Aniguna waan ku mahadnaqaa qalabka nevel runtaada, Eloahay; waan ku heesaa kinnorka, Quduuska Israa'iil.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "waan ku mahadnaqaa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "runtaada"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waan heesaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorka"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Quduuska"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:14.819298995Z",
+  "model": "glm-5.3"
+}

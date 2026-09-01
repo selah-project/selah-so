@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad samaysaa Farxadda daboolidda [parokhet] midab buluug ah [tekhelet], iyo bunni [argamaan], iyo casaan [tola'at shaani], iyo lin dhogor leh [shesh mashzar]; shuqol disaa ah [ma'aseh khoshev] baa lagu samayn doonaa, ayadoo la samaynayo ⟨את⟩ Keruubiimka.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaysaa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "Farxadda daboolidda [parokhet]"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "midab buluug ah [tekhelet]"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo bunni [argamaan]"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "iyo casaan [tola'at]"
+    },
+    {
+      "surface": "שני",
+      "gloss": "[shaani]"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dhogor leh [mashzar]"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqol"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "disaa ah [khoshev]"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "baa lagu samayn doonaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Keruubiimka"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "Keruubiimka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:49.061975122Z",
+  "model": "glm-5.3"
+}

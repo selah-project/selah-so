@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Waxay baaraan xume; waxay dhammaystireen raad la baaray, iyo gudaha qofka iyo qalbiga qoto dheer.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "waxay baaraan"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "xume"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "waxay dhammaystireen"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "raad"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "la baaray"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "iyo gudaha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qofka"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "iyo qalbiga"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "qoto dheer"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:20.282772123Z",
+  "model": "glm-5.3"
+}

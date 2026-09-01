@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Isagaa dhisay ⟨את⟩ albaabbii sare ee Beytkii Yahweh, oo derbigii HaOofel wuxuu ku dhisay si aad u badan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Isagaa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albaabbii sare ee Beytkii Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabbii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "derbigii"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "HaOofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wuxuu ku dhisay"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "si aad u badan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:43:22.611371907Z",
+  "model": "glm-5.3"
+}

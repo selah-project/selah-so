@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "waxayna dheceen ⟨את⟩ ilaahyadood giddigii, waayo, ilaah ma aha kuwaas, laakiin waa shuqul gacmo aadan ah, geed iyo dhagax, sidaa darteed bay baabbi'iyee.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna dheceen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahyadood"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaahyadood"
+    },
+    {
+      "surface": "באש",
+      "gloss": "giddigii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "waa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadan ah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo dhagax"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "bay baabbi'iyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:46.357929196Z",
+  "model": "glm-5.3"
+}

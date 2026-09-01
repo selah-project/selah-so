@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Eloahay, adiga ayaan kuu hallayaa; ha igu dhigin inaan simmo, cadowdaydana ha u farxina ⟨iyaga⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ayaan kuu hallayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "igu dhigin inaan simmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "u farxina"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.925641082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Iyo Yishmaayah reer Gibe'on, geesi ka mid ah soddonka, oo madax u ah soddonka.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "Iyo Yishmaayah"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "reer Gibe'on"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesi"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "soddonka ka mid ah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo madax u ah"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "soddonka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:26:57.281580106Z",
+  "model": "glm-5.3"
+}

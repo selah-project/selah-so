@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Laakiin sanadda toddobaad waa nasasho buuxda dhulka, nasasho Yahweh; beeradaada ma beerto, beerta canabkaana ma qeeleyayso.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Laakiin sanadda"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "toddobaad"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nasasho"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "buuxda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nasasho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "beeradaada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "beerto"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "beerta canabkaana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "qeeleyayso"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:07.966417905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ilaa intee, Yahweh, waan qaylinayaa oo ma maqashid? Waan qayliyayaa xaggaaga waxgardarro, oo ma badbaashid?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "intee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "waan qaylinayaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "maqashid"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "waan qayliyayaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "xaggaaga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "waxgardarro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "badbaashid"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:33.163818325Z",
+  "model": "glm-5.3"
+}

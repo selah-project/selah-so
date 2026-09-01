@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Sidaas darteed, gawaadheedka dhexdana waan ku mahadnaqayaa, Yahweh, magacaagana hees ku qaadayaa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saabsan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "waan ku mahadnaqayaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gawaadheedka dhexdana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "magacaagana"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hees ku qaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:43.433567354Z",
+  "model": "glm-5.3"
+}

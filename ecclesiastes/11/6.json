@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Subaxi abaarto ⟨את⟩ abuurkaagii, ama galabana ha daalin gacantaada; waayo adigoo aqoon waayey ma garanayso meeqay ku fikrid: kan mise kaa, iyo haddii labaduba ay wada noqdaan kuwo wanaagsan.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "subaxi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abaarto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abuurkaagii"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "abuurkaagii"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ama galabana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "daalin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "adigoo aqoon waayey"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "garanayso"
+    },
+    {
+      "surface": "אי",
+      "gloss": "meeqay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ku fikrid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "או",
+      "gloss": "mise"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo haddii"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labaduba"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ay wada noqdaan"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "kuwo wanaagsan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:54.950469919Z",
+  "model": "glm-5.3"
+}

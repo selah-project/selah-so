@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ballankaygii ⟨את⟩ isla wuxuu ahaa mid nolol iyo nabad ah; waana siiyay cabsi, wuuna i cabsaday, waxaana Magacayga hortii uu cabsaday isagu.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Ballankaygii"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isla",
+      "marks": "isla (la isaga)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolol"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "iyo nabad"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "waana siiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "wuuna i cabsaday"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "waxaana hortii"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Magacayga"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "uu cabsaday"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:07.749335482Z",
+  "model": "glm-5.3"
+}

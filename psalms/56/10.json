@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Markaasaa cadowdaydu dib u noqdaan maalinta aan u dhawaaqo; taas waan ogahay, waayo Elohim wuxuu i la jiraa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "markaasaa"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dib u noqdaan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dib"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aan u dhawaaqo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "taas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wuxuu i la jiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:36.164102291Z",
+  "model": "glm-5.3"
+}

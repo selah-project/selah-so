@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Heeleya Elohim, awoodayada; ka dhawaajiya Elohim-ka Ya'aqob.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Heeleya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "awoodayada"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ka dhawaajiya"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:42.884961304Z",
+  "model": "glm-5.3"
+}

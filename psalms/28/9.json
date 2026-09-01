@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Badbaadi ⟨את⟩ qoomkaaga, oo barakee ⟨את⟩ dhexdaaga (dhaxalkaaga), oo adkaysii iyaga, oo sid iyaga, ilaa weligeed.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Badbaadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoomkaaga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "oo barakee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhexdaaga (dhaxalkaaga)"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhexdaaga (dhaxalkaaga)"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "oo adkaysii iyaga"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "oo sid iyaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:48.511164055Z",
+  "model": "glm-5.3"
+}

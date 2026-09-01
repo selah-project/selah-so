@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Waayo adigu, Yahweh, Elyoon baad ka sarreeysaa dhulka ⟨oo dhan⟩; aad baad u sarreeysay ⟨dhammaan⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeysaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨oo dhan⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad baad u"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "sarreeysay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨dhammaan⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:01.131491222Z",
+  "model": "glm-5.3"
+}

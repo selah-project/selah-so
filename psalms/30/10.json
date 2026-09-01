@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Wax barwaaqo ah ma jiraan ⟨dhiiggayga⟩, markaan aan u deggo boholka miinooyinka? Miyaa huulku ku mahadnaayaa? Miyuu sheegayaa runtaada?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wax ma jiraan"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "barwaaqo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dhiiggayga"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "markaan aan u deggo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boholka u"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "boholka miinooyinka"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Miyaa ku mahadnaayaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "huulka"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Miyuu sheegayaa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "runtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:14.786206959Z",
+  "model": "glm-5.3"
+}

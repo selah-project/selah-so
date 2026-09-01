@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Toos-u-sheegga muuqda wuu ka fiican yahay jacaylka la qariyay.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "wuu ka fiican yahay"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "toos-u-sheegga"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "muuqda"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "jacaylka"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "la qariyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:47.109498594Z",
+  "model": "glm-5.3"
+}

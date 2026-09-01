@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maxaa yeelay, Yahweh wuxuu ⟨gar⟩-qaadaa waddada ⟨gar-yaqaanka-yaqaan; gar ayaa laga yaabaa in si kale loo tarjumo: ogaadaa\/am-aqoonaa⟩ gar-yaqaanka, waddada sharruuna way baabbi'aan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaa yeelay"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wuxuu gar-qaadaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gar-yaqaanka"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharruuna"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "way baabbi'aan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:22.179581974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Shacabkuna wuxuu qaaday ⟨את⟩ qamidihiisa ka hor inta aanay khumeysnayn; weelashii khiishkana (makaanadii qamidiga la dheelay) waa la xir-xiray dharkooda gudaha, waxayna ahaayeen kuwo garabka ku saaran.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "wuxuu qaaday"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qamidihiisa"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "qamidihiisa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ka hor inta aanay"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "khumeysnayn"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "weelashii khiishka"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "waa la xir-xiray"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "dharkooda gudaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saaran"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "garabka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:39.114537565Z",
+  "model": "glm-5.3"
+}

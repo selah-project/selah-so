@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo Axaz wuxuu yidhi: Ma weydiiyo, oo ma tijaabiyo ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Oo wuxuu yidhi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "weydiiyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "tijaabiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:11.829977326Z",
+  "model": "glm-5.3"
+}

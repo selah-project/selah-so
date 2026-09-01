@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Shacabka oo dhan, taqa cududka, u qayliya Elohim cod riino (qayli farxad).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Shacabka"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "taqa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "cududka"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "u qayliya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riino (qayli farxad)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:30.724064358Z",
+  "model": "glm-5.3"
+}

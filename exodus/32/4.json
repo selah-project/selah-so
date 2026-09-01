@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuuna gacmooda ka qaadatay, wuxuuna ⟨את⟩ u qaabaysiiyay qalab qoris, wuxuuna ka dhigay weyl la shubay; waxayna yidhaahdeen: Kuwanu waa ⟨⟩ Elohimkaagii, Israa'iil, kii kaa soo koriyay dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna ka qaadatay"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gacmooda"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "wuxuuna u qaabaysiiyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dahabka"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "qalab qoris"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "wuxuuna ka dhigay"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "weyl"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "la shubay"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhaahdeen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kuwanu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kii"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "kaa soo koriyay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:17.732053914Z",
+  "model": "glm-5.3"
+}

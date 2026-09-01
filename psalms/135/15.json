@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Sanamyada shacabka ⟨waa⟩ lacag (kumi) iyo dahab, shuqullu gacmaha aadamiga.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag (kumi)"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqullu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:15.077846552Z",
+  "model": "glm-5.3"
+}

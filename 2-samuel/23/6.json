@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo kuwa belialka ah — sida qodax la gaysto oo kale bay dhammaantood yihiin, waayo gacan laguma qaadto.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "oo kuwa belialka ah"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "sida qodax"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "la gaysto"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "laguma qaadto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:07:47.330337319Z",
+  "model": "glm-5.3"
+}

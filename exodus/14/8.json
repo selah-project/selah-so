@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahwehna wuxuu adkeesay ⟨את⟩ qalbiga Farcoon boqorka Mitsrayim, wuuna u socday ka dib carruurta Israaiil; carruurtuna Israaiil waxay baxsayeen gacanta sare.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuuna adkeesay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "wuuna u socday ka dib (raacay)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "carruurtuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "waxay baxsayeen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "sare"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:13.165735936Z",
+  "model": "glm-5.3"
+}

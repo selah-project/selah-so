@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaana Muuse kor u kacay buurta, daruurana wuu daboolay ⟨את⟩ buurta.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "waxaana kor u kacay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ilaa⟩"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "wuu daboolay"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "daaruurana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:05.797875889Z",
+  "model": "glm-5.3"
+}

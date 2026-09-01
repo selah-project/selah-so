@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "Heesaha Koritaanka, ee Dabiid. Haddii Yahweh nagu maqan ⟨ahaan⟩, ha yiraahdo Israa'iil hadda:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesaha"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Koritaanka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Dabiid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Haddii maqaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ahaan nagu maqan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ha yiraahdo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:08.438787431Z",
+  "model": "glm-5.3"
+}

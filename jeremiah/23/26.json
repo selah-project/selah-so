@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ilaa goormaa? Ma waxaa qalbiga nebiyada ku jiraa — nebiyada beenta, iyo nebiyada khiyaanada qalbigooda?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma waxaa jiraa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qalbiga ku"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "beenta"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "iyo nebiyada"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "khiyaanada"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbigooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:24.616797113Z",
+  "model": "glm-5.3"
+}

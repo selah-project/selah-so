@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha raacdo cadowga nafsaddayda, oo ha gaadho, oo nolosheyda ha ku tuuro ⟨dhulka⟩ gudaheeda, oo sharafdayda ha uu fadhiisiyo boqollada. selah",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "Ha raacdo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsaddayda"
+    },
+    {
+      "surface": "ושג",
+      "gloss": "oo ha gaadho"
+    },
+    {
+      "surface": "ורמס",
+      "gloss": "oo ha tuuro"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨dhulka⟩ gudaheeda"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nolosheyda"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "oo sharafdayda"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "boqollada"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ha uu fadhiisiyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.068740695Z",
+  "model": "glm-5.3"
+}

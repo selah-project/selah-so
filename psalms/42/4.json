@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Ilgaxyadaydu iigu noqdeen rooti maalinta iyo habeenka, markay laygu dhaheen maalintii oo dhan: Xaggee Elohimaaga?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ilgaxyadaydu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iyo habeenka"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "markay dhaheen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "laygu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Xaggee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:14.945994852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Muuse wuxuu ku yidhi ⟨את⟩ Elohim: Anigu yaa i ah, inaan Farcoon tago, iyo inaan ka bixiyo ⟨את⟩ ubadka Israa'iil ka mid ah Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu i ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tago"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iyo inaan"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ka bixiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubadka Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ka mid ah Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:01.538559835Z",
+  "model": "glm-5.3"
+}

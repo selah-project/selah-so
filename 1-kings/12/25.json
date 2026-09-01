@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna Yaroboam dhisay ⟨את⟩ Shekhem buuraha Efrayim, wuuna ku noolaa; wuxuuna ka soo baxay meeshaas, wuuna dhisay ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuuna ku noolaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuuna ka soo baxay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:02.780878615Z",
+  "model": "glm-5.3"
+}

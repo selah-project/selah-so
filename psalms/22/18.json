@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waan tiri karaa lafooyinkayga oo dhan; iyagu way fiiriyeen, wayna igaga eegaan.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "waan tiri karaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "lafooyinkayga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "way fiiriyeen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "way eegaan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "igaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:21.514006027Z",
+  "model": "glm-5.3"
+}

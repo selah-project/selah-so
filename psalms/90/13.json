@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Noqo, Yahweh, ilaa goormaa, oo ku naxariiso ⟨את⟩ adoomadaaga.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Noqo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "oo ku naxariiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "adoomadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:47.866575596Z",
+  "model": "glm-5.3"
+}

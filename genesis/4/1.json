@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Aadamiguna wuu garabay ⟨את⟩ Xawo xaaskiisii, waxayna uurka qaadday, waxayna dhashay ⟨את⟩ Qayin, waxayna tiri: Waxaan ku guudbay nin ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Aadamiguna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu garabay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xawo"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Xawo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisii"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "waxayna uurka qaadday"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxayna dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tiri"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "waxaan ku guudbay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:58.347670196Z",
+  "model": "glm-5.3"
+}

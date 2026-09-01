@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Daawudna wuxuu weydiiyay Yahweh isagoo odhan: Ma aan tagaa oo ma aan ku dhaawaa Filistiintaan? Yahwehna wuxuu Daawud ku yidhi: Tag, oo ku dhaawa Filistiinta, oo badbaadi ⟨את⟩ Qe'ilah.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wuxuu weydiiyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawudna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo odhan"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ma aan tagaa"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "oo ma aan ku dhaawaa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiintaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(kun)aan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "oo ku dhaawa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiinta"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "oo badbaadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qe'ilah"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qe'ilah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:02.447134016Z",
+  "model": "glm-5.3"
+}

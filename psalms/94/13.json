@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "si loo siiyo ⟨isaga⟩ nabad laga maalmaha sharka, ilaa godka laga dhulo ruuxa sharka badan.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "si loo siiyo nabad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "laga maalmaha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "laga dhulo"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ruuxa sharka badan"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "godka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:04.490408685Z",
+  "model": "glm-5.3"
+}

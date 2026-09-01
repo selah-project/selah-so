@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ka beddeel ceebtayda waxaan ka cabsanayo, waayo xukunkyadaagu wanaagsan yihiin.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "ka beddeel"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ceebtayda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxaan"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ka cabsanayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunkyadaagu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "wanaagsan yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.136656406Z",
+  "model": "glm-5.3"
+}

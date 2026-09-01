@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Salmoon wuxuu dhalay ⟨את⟩ Bo'as, Bo'asna wuxuu dhalay ⟨את⟩ Oobed.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salmoon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bo'as"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bo'as"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Bo'asna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oobed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oobed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:01.335224001Z",
+  "model": "glm-5.3"
+}

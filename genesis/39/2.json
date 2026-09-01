@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Yahwehna waxuu ahaa ⟨את⟩ Yoosef, wuxuuna noqday nin guul leh, wuxuuna ahaa guriga sayidkiisii ee Mitsriga ahaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxuu ahaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna noqday"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "guul leh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna ahaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sayidkiisii"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsriga ahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:58:30.825700105Z",
+  "model": "glm-5.3"
+}

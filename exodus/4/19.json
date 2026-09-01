@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi Midian: teg oo ku noqod Mitsrayim, waayo, dhintay dhammaan ragga doondoolaya ⟨את⟩ naftaada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teg"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ku noqod"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "doondoolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftaada"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:31.494216876Z",
+  "model": "glm-5.3"
+}

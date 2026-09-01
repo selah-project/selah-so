@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waayo, Yahweh wuu jecelyahay caddaaladda, uma tago ⟨את⟩ awliyadiisii — weligay ilaaliyihiin, uurka sharka-luuqadda waa la goyn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jecelyahay"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awliyadiisii"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "awliyadiisii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ilaaliyihiin"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "uurka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka-luuqadda"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "la goyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:16.852860885Z",
+  "model": "glm-5.3"
+}

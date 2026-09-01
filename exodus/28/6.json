@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo waxay sameyn doonaan ⟨את⟩ Efodka — dahab, buluug iyo urur, diid-casaan iyo linx la qasaday, shuqul xirfad leh.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "waxay sameyn doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efodka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "Efodka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluug"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "urur"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diid"
+    },
+    {
+      "surface": "שני",
+      "gloss": "casaan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "linxig"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "la qasaday"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "xirfad leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:23.159111884Z",
+  "model": "glm-5.3"
+}

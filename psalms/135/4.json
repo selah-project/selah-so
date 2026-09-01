@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Waayo Yaaquub ayuu u doortay Yah Israa'iil inuu noqdo hantidiisa gaarka ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquub"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "doortay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "hantidiisa gaarka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:26.609845800Z",
+  "model": "glm-5.3"
+}

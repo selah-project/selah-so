@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Kuna raaxayso Yahweh, oo wuxuu ku siin doonaa wixii laabtaadu weydiisato.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Kuna raaxayso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "oo wuxuu ku siin doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "wixii la yeellido \/ weydiista"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "laabtaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:38.279294637Z",
+  "model": "glm-5.3"
+}

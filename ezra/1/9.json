@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waa tana tirooda: digsiyo dahab ah soddaatan, digsiyo lacag ah kun, mindiyo sagaal iyo labaatan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "waa tana"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "tirooda"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "digsiyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddaatan"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "digsiyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag ah"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "mindiyo"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iyo labaatan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:11:43.269116980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kac, tag magaalada weyn ee Niinewe, oo u dhigi ⟨את⟩ baaqidda aan kugu dhawaaqayo adiga.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "kac"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku soco"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "oo u dhigi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "geddeeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaqidda"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "baaqidda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku dhawaaqayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:09.750239Z",
+  "model": "glm-5.3"
+}

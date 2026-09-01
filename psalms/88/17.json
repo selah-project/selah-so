@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Iga sare ee dhaafay wuu igaga dhaafay xanaaqiisa; cabsitaada iyo argagaxiisa way iga baabi'iyeen.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "way dhaafeen"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "xanaaqaada"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "cabsitaadaada"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "way iga baabi'iyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:29.930881991Z",
+  "model": "glm-5.3"
+}

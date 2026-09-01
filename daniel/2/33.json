@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Lugtiisu waxay ahayd bir (farzel); cagahiisa qaar ka mid ah waa bir ahaa, qaar na waa dhoobo (chasaf).",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "lugtiisu"
+    },
+    {
+      "surface": "די",
+      "gloss": "waa"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "bir (farzel)"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "cagahiisa"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "qaar ka mid ah"
+    },
+    {
+      "surface": "די",
+      "gloss": "waa"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "qaar na"
+    },
+    {
+      "surface": "די",
+      "gloss": "waa"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "dhoobo (chasaf)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:09.949627963Z",
+  "model": "glm-5.3"
+}

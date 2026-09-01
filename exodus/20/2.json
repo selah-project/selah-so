@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Anigu waxaan ahay Yahweh, Elohimkaaga, kan kaa soo bixiyay dhulka Mitsrayim, guriga adoomo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kaa soo bixiyay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "adoomo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:57.604906825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Yahweh wuxuu ka hadlay Muuse iyo Axaron (wuxuu yidhi):",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ka hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ka)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo (ka)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "(wuxuu yidhi)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:14.664645966Z",
+  "model": "glm-5.3"
+}

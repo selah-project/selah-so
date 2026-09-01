@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Siiya xoog ⟨ Elohim-ga ⟩; isla-weynaantiisu waxay ku saraysaa Israa'iil, xoogiisana wuxuu ku dhex jiraa daruuraha.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Siiya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saraysaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "isla-weynaantiisu"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "xoogiisana"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "daruuraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:31.468946757Z",
+  "model": "glm-5.3"
+}

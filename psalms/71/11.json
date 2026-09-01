@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Oo waxay odhan: Elohim wuu tegin; raada oo qabta, waayo ma jiro badbaadiye.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "oo waxay odhan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wuu tegin"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "raada"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "oo qabta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "badbaadiye"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:39.193595675Z",
+  "model": "glm-5.3"
+}

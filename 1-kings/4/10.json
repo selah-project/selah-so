@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "wiilka Chesed, Arubbot; isaga waxay ahayd Sokoh iyo dhulka Chepher oo dhan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Arubbot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:43.387786958Z",
+  "model": "glm-5.3"
+}

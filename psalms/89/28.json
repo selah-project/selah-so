@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Aniguna curad baan ka dhigi doonaa, kan boqorrada dhulka uga sarreeya.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "(aniga)"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "curad"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "baan ka dhigi doonaa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kan uga sarreeya"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:07.343515478Z",
+  "model": "glm-5.3"
+}

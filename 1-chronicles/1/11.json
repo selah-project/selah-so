@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Mitsrayimna wuxuu dhalay ⟨את⟩ Ludiyiinta iyo ⟨את⟩ Anamiinta iyo ⟨את⟩ Lehabiinta iyo ⟨את⟩ Naf-tuchiinta.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimna"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludiyiinta"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludiyiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Anamiinta"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Lehabiinta"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Naf-tuchiinta"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naf-tuchiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:02.770146763Z",
+  "model": "glm-5.3"
+}

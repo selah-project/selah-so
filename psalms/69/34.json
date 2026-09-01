@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waayo, Yahweh wuu maqalkaa miskiinta, oo waajibkiisiiba ⟨את⟩ asirrayadiisi ma wuu dhillin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqalkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "miskiinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asirrayadiisi"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "asirrayadiisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "wuu dhillin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:12.635425392Z",
+  "model": "glm-5.3"
+}

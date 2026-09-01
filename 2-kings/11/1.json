@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Atalyaah, hooyada Axazyahu, markay aragtay in wiilkeedu dhintay, waxay taagtay oo waxay baabbi'isay ⟨את⟩ dhamaan durriyada boqortooyada.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Oo Atalyaah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hooyada"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Axazyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "markay aragtay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wiilkeedu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "waxay taagtay"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "waxay baabbi'isay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan durriyada boqortooyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "durriyada"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "boqortooyada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:28:42.045148305Z",
+  "model": "glm-5.3"
+}

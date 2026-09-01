@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Rewuna wuxuu noolaa laba iyo sodon oo sano ah, wuxuuna dhalay ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo sodon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "oo sano ah"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:53.635857229Z",
+  "model": "glm-5.3"
+}

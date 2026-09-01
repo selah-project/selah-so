@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "I naxariiso, Adonay Yahweh ha ahaado ⟨kan⟩; eeg cilladayda ee ka soo gaadhay cidda i neceb; adigoo i kor qaaday ilaalada geerida.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "I naxariiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "cilladayda"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "cidda i neceb"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "i kor qaaday"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "ilaalada"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geerida"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:20.825512503Z",
+  "model": "glm-5.3"
+}

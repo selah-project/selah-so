@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Haddii la-tuuryadaadu tahay geesaha samada, halkaas baa Yahweh Elohimkaagu kuu soo aruurin doonaa, halkaas buuna kaga soo qaadan doonaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "la-tuuryadaadu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "kuu soo aruurin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "kaga soo qaadan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:45.709611592Z",
+  "model": "glm-5.3"
+}

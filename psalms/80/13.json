@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Maxaad u burburiyay deyddaheed? Oo waxaa goytaa dhammaan kuwa jidka mara.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "burburiyay"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "deyddaheed"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "waxaa goytaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kuwa mara"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:24.759532924Z",
+  "model": "glm-5.3"
+}

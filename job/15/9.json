@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Maxaad tahay waxaad garanaysaan anagoo aan garanayn? Maxaad fahmayso oo aan nala jirin ⟨waxaa⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waxaad garanaysaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anagoo aan"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "waxaad fahmayso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nala jirin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨waxaa⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:43:27.646546131Z",
+  "model": "glm-5.3"
+}

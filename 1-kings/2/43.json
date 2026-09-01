@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo maxaad uga ilaalin weyday ⟨את⟩ balanqaadka Yahweh iyo ⟨את⟩ amarka aan kuugu faray?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Oo maxaad uga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ilaalin weyday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balanqaadka Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "balanqaadka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "amarka"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "faray"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuugu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:12.017510275Z",
+  "model": "glm-5.3"
+}

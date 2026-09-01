@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waad taqaan in adigu adigoo ah sharaf taageeradooda, oo raallinimadaada bay geesahayagu kor u qaadanaysaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waad taqaan in"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "taageeradooda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "oo raallinimadaada"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "kor u qaadanaysaan"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "geesahayagu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.471386765Z",
+  "model": "glm-5.3"
+}

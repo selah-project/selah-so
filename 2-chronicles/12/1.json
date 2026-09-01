@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Markay boqortoyadii Rekhabyaam noqoto mid la aasaasay, oo markuu is adkeeyo, wuu ka tebay ⟨את⟩ Sharciga Yahweh, oo Israa'iil dhan oo dhan (iyagoo) la jirkiisa ah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markay noqoto"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "la aasaasay"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "boqortoyadii"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabyaam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "oo markuu is adkeeyo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "wuu ka tebay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharciga"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la jirkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:36:24.178387392Z",
+  "model": "glm-5.3"
+}

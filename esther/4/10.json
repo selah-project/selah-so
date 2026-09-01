@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Ester waxay tidhi Hathakh, una amartay inuu u gudbiyo Mordekay ⟨hadallada⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tidhi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hathakh"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "una amartay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u gudbiyo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:30.093351132Z",
+  "model": "glm-5.3"
+}

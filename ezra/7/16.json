@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 7:16",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "iyo qalin iyo dahab kastaa oo aad ka helto gobolka Baabel oo dhan, iyo hibada xor ah ee qoomka iyo wadaaddada si xor ah u hibiya baytka Elahooda ee Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... kastaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qalin"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "די",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תהשכח",
+      "gloss": "aad ka helto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "gobolka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "התנדבות",
+      "gloss": "hibada xor ah ee"
+    },
+    {
+      "surface": "עמא",
+      "gloss": "qoomka"
+    },
+    {
+      "surface": "וכהניא",
+      "gloss": "iyo wadaaddada"
+    },
+    {
+      "surface": "מתנדבין",
+      "gloss": "si xor ah u hibiya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "baytka"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "Elahooda"
+    },
+    {
+      "surface": "די",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T06:14:45.304313606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Hagaha wax loo qayshiyo; Dawuud; mizmoor, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha wax loo qayshiyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:55.595872849Z",
+  "model": "glm-5.3"
+}

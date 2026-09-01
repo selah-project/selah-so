@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ma aanan ahayn arrintan aan kuu sheegnay Mitsrayim anagoo odhan: Naga daa inaan u adeegno ⟨את⟩ Mitsrayim? Waayo, khayr bay nahay inaan u adeegno ⟨את⟩ Mitsrayim inaan bahidda ku dhimno.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma aanan ahayn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "arrintan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hadalladan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "kuu sheegnay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "anagoo odhan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "naga daa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "inaan u adeegno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "khayr"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "inaan u adeegno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "in aan dhimno"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bahidda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:41.602038401Z",
+  "model": "glm-5.3"
+}

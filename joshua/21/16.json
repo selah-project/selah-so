@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo ⟨את⟩ Cayin iyo ⟨את⟩ beerkeeda, iyo ⟨את⟩ Yuttah iyo ⟨את⟩ beerkeeda, ⟨את⟩ Beyt-Shemesh iyo ⟨את⟩ beerkeeda — magaalooyin sagaal, ka mid ⟨את⟩ labadan beelood.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Cayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Cayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yuttah"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuttah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka mid"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labadan"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "beelood"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:53.481746171Z",
+  "model": "glm-5.3"
+}

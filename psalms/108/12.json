@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Ma runtii adigaa noo diiday, Elohim? Oo ma bilowgiiba adigoo Elohim ma tegin ciidammadayadii?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma runtii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "noo diiday"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma bilowgiiba"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tegin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ciidammadayadii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:19.264717247Z",
+  "model": "glm-5.3"
+}

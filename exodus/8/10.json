@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo way isku soo ururiyeen ⟨את⟩ dhammaantiin — boos boos, boos boos — oo dhulkii wuu ku xunxunmay.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "way isku soo ururiyeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaantiin (boosaska)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "boos boos"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "boos boos"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "wuu ku xunxunmay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:01.638462275Z",
+  "model": "glm-5.3"
+}

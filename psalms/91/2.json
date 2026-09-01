@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Waxaan odhanayahaa Yahweh: magangalaygiiy ii buuxa-yoolkii; Elohaydii, adiga ayaan kuu hambalyayn karaa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Waxaan odhanayahaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangalaygii"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ii buuxa-yoolkii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohaydii"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ayaan kuu hambalyayn karaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:17.491538514Z",
+  "model": "glm-5.3"
+}

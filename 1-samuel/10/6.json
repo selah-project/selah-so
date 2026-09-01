@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ruuxa Yahweh baa ku soo dhaqaaqi doona, adigoo la nebi-aamin doona, waxaadna noqon doontaa nin kale.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "baa ku soo dhaqaaqi doona"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "adigoo la nebi-aamin doona"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "waxaadna noqon doontaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:20.973588898Z",
+  "model": "glm-5.3"
+}

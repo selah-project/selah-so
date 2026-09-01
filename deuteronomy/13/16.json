@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaad hubaal ku dili doontaa afka seef degganayaasha magaaladdaas; waxaadna u baabi'in doontaa ⟨את⟩ iyada iyo ⟨את⟩ waxa kasta oo gudaheeda ah, iyo ⟨את⟩ xoolahaheedaba afka seef.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ku dili doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degganayaasha magaaladdaas"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganayaasha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "u baabiin doontaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gudaheeda ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolahaheeda"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "xoolahaheeda"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:43.562151589Z",
+  "model": "glm-5.3"
+}

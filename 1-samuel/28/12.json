@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Markay nagtii aragtay ⟨את⟩ Sheemu'elna, cod weyn bay qaylisay; naagtii waxay Shaa'uul ku tidhi, Maxaad i khaldatay? Adiguna Shaa'uul ayaa tahay.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "markay aragtay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sheemu'el"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "qaylisay"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay ku tidhi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "i khaldatay"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:32.248119785Z",
+  "model": "glm-5.3"
+}

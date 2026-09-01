@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Gacan waanu siinay Mitsrayim iyo Ashshur, si aan lahayn u helno khubz (rooti).",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waanu siinay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "si aan lahayn u helno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "khubz (rooti)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:54.220072516Z",
+  "model": "glm-5.3"
+}

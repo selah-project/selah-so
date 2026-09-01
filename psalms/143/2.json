@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Oo ha u galin xukun ⟨את⟩ addoonkaaga, waayo ⟨adiga⟩ ka hor wajigaaga nolosha ah kuma xaq dhigo midna.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Oo ha"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "galin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "xaq dhigo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ka hor wajigaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "midna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nolosha ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:08.975593202Z",
+  "model": "glm-5.3"
+}

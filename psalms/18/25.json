@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Sidaas awgood Yahweh wuxuu ii celiyay sida imaansigayda, sida nadiifinta gacmahayga indhihiisa hortiis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu ii celiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sida imaansigayda"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sida nadiifinta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahayga"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "indhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:25.690153358Z",
+  "model": "glm-5.3"
+}

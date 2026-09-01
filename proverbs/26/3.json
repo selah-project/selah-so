@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Wadar faras, xarig dameer, iyo ul dhabarka nacasada.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Wadar"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "faras"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "xarig"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "dameer"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "iyo ul"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "dhabarka"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nacasada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:59.394650164Z",
+  "model": "glm-5.3"
+}

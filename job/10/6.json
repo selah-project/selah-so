@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "in aad denbigayga u baadhato, oo denbigayga aad ka daba-rogto?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "aad u baadhato"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "denbigayga"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "oo denbigayga"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "aad ka daba-rogto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:07.050702731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waayo, eeyi baa ii hareeraysiiyay; kooxda sharka-lahaa baa ii dheereysay; sidii libaax ⟨oo kale⟩ gacmahayga iyo cagahayga way ii dhow yihiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ii hareeraysiiyay"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "eeyi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kooxda"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sharka-lahaa"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "ii dheereysay"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "sidii libaax"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahayga"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "iyo cagahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:21.513295261Z",
+  "model": "glm-5.3"
+}

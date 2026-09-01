@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Ha ku talin xaq-darrada, ha ku talin tuugashada, ha quusin; haddii maaldu kor u kordhiso, qalbiga ha ku salhin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ku talin"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "xaq-darrada"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "tuugashada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "quusin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maalka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "kor u kordhiso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "ku salhin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:13.829794528Z",
+  "model": "glm-5.3"
+}

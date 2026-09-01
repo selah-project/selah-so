@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Markaad biyaha dhexmarto, aniga waan kula jiraa; webiyaduna kuma dhexmaayaan. Markaad dabka dhexmarto ma lagu guboyn, llamaheesna kuma dhexqodoysaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "aad dhexmarto"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "webiyaduna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "kuma dhexmaayaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "aad dhexmarto"
+    },
+    {
+      "surface": "במו",
+      "gloss": "dhex"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "lagu guboyn"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "llamaheesna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "kuma dhexqodoysaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:11.640073680Z",
+  "model": "glm-5.3"
+}

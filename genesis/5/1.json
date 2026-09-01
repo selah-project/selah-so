@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Kani waa kitaabka tolloodda Aadanka. Maalintii uu Elohim abuuray ⟨את⟩ Aadanka, suur Elohim la mid ah ayuu ka dhigay ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kani"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaabka"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "tolloodda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadanka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "abuuray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadanka"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "suur la mid ah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka dhigay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:15.599829794Z",
+  "model": "glm-5.3"
+}

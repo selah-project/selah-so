@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Maxaadelay degganaan ma garanayaa caloosha; waxa uu doonayay ma badbaadin doono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaadelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayoo"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "degganaan"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "waxa uu doonayay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "badbaadin doono"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:26.213903892Z",
+  "model": "glm-5.3"
+}

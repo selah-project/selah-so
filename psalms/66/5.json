@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Kaalaya oo araga shuqullada Elohim, ah oo cajiib ah ficilladiisu ⟨ee⟩ carruurtii aadamiga.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "oo araga"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ah oo cajiib ah"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ficilladiisu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ee⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurtii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.467335849Z",
+  "model": "glm-5.3"
+}

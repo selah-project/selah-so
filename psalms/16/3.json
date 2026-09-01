@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Quduusiinta dhulka kuwaas bay ahaayeen, iyo kuwa la amaansan — dhammaan raalliyadaydu waxay ku jirtaa ⟨dhexdooda⟩.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "quduusiinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "iyo kuwa la amaansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "raalliyadaydu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:47.776349322Z",
+  "model": "glm-5.3"
+}

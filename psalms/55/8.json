@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Bal, waan fogeyn lahaa socdaal-dhaqso ah; waan deggan lahaa keymmo-dhexdeed. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "waan fogeyn lahaa"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "socdaal-dhaqso ah"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "waan deggan lahaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "keymmo-dhexdeed"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:48.009650507Z",
+  "model": "glm-5.3"
+}

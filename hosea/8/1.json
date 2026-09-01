@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Buunka afkaaga ku rid! Sida gorgor ayuu ah beytkii Yahweh, waayo, axdigaygii way dhaafeen, iyo sharcaygii way ka gudbeen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ku rid"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Buunka"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "Sida gorgor"
+    },
+    {
+      "surface": "על",
+      "gloss": "ah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "way dhaafeen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "axdigaygii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sharcaygii"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "way ka gudbeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:56.774650277Z",
+  "model": "glm-5.3"
+}

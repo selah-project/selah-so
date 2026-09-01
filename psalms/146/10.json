@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Yahweh wuxuu xukumayaa weligiis, Eloohaaga oo ah Kan Ziyoon, iyo dur iyo dur, ee ammaana Yaha.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "wuxuu xukumayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohaaga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "oo ah Kan Ziyoon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iyo dur"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo dur"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ee ammaana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:39.790291463Z",
+  "model": "glm-5.3"
+}

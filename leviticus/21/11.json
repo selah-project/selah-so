@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Naf kasta oo dhintay ha u dhowaadin; aabihiis iyo hooyadiisba ha najaasin.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "naf"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "u dhowaadin"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "aabihiis"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "hooyadiisba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "najaasin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:08.306977052Z",
+  "model": "glm-5.3"
+}

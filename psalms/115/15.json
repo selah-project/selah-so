@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Idinku waa kuwa loo barakaysiiyay Yahweh, sameeyaha samada iyo dhulka.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "kuwa loo barakaysiiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyaha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.027597770Z",
+  "model": "glm-5.3"
+}

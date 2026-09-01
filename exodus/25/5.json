@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "iyo haruud daaliyo la gadooday guduud, iyo haruud tehash (xayawaan) , iyo geedaha shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "iyo haruud"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "daaliyo"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "la gadooday guduud"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "iyo haruud"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tehash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "iyo geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:43.202372506Z",
+  "model": "glm-5.3"
+}

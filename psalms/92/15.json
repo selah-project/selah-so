@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Weli way midhaha dhalin doonaan ggirrarka; waxay noqon doonaan kuwo buuxa iyo kuwo cagaaran.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "way midhaha dhalin doonaan"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ggirrarka"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "kuwo buuxa"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "iyo kuwo cagaaran"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waxay noqon doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:50.936141706Z",
+  "model": "glm-5.3"
+}

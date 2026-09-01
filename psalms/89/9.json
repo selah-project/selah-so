@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim ciidammada, yaa la mid ah adiga, adagga Yah? Iyo daacadnimoadaa ⟨waxay ku wareegtaa⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciidammada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "la mid ah adiga"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "adagga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "iyo daacadnimoadaa"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "⟨waxay ku wareegtaa⟩ adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:34.919982086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Wakiilka u duge; mizmoor Dawuud. Yahweh, waad i baadhisey, waad ogtahay.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wakiilka u duge"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "waad i baadhisey"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "waad ogtahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:23.703650409Z",
+  "model": "glm-5.3"
+}

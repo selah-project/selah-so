@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Samadaada ee madaxaaga ku sugan waxay noqon doontaa nuhas, dhulkana ee hoostaada ah birta bay noqon doontaa.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samadaada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku sugan"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "madaxaaga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nuhas"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhulkana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "hoostaada"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "birta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:37.879860509Z",
+  "model": "glm-5.3"
+}

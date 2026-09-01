@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Halle madan — waan daahirinnay wadnahayga, waxaana ku dhaqay ⟨את⟩ gacmahayga daahinsanaan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "halle"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "madan"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "waan daahirinnay"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wadnahayga"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "waxaana ku dhaqay"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "daahinsanaan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.675206948Z",
+  "model": "glm-5.3"
+}

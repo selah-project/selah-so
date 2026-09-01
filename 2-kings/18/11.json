@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Boqorka Ashurna wuxuu guuriyay ⟨את⟩ Israa'iil Ashuurah, wuuna dejiyay Chalach iyo Chabor, webi Goosan, iyo magaalooyinka Madi",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "wuxuu guuriyay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashuurah"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wuuna dejiyay"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "iyo Chabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "webi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Goosan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "iyo magaalooyinka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madi"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:22.120698607Z",
+  "model": "glm-5.3"
+}

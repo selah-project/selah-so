@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Kan aabbahiis iyo hooyodiis naelayo, mishistiisa waa la daminayaa mugga gudcurka.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "nelayo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbahiis"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "iyo hooyodiis"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "waa la daminayaa"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "mishistiisa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "mugga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gudcurka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:00.092698357Z",
+  "model": "glm-5.3"
+}

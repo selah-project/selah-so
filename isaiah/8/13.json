@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh Tsebaot — ⟨את⟩ Isaga qudsiya; isagana ha ahaado cabsidiinna, isagana ha ahaado argagaxiinna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isaga"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "qudsiya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagana"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "cabsidiinna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagana"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "argagaxiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:14.714080953Z",
+  "model": "glm-5.3"
+}

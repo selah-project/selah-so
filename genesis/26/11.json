@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Abiimelekna wuxuu amray ⟨את⟩ dadka oo dhan, wuxuuna yidhi: cidii taabata ninkaas ama xaaskiisa, dhimasho baa la dilaa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuuna amray"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cidii taabata"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ninkaas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ama xaaskiisa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimasho"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "baa la dilaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:01.011692896Z",
+  "model": "glm-5.3"
+}

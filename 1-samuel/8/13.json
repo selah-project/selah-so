@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu qaadan doonaa ⟨את⟩ gabdhadiinna inay noqdaan kuwa uur-qaadista (liraqqaqoot) iyo kuwa gadjinta iyo kuwa digyada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabdhadiinna"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "gabdhadiinna"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "kuwa uur-qaadista (liraqqaqoot)"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "iyo kuwa gadjinta"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "iyo kuwa digyada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:06.232137898Z",
+  "model": "glm-5.3"
+}

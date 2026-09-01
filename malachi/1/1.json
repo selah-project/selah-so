@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Miisaanka ereyga Yahweh oo ⟨ah⟩ kan Israa'iil, gacanta Mal'akhii (Malaki) baa ku timid.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Miisaanka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo ⟨ah⟩ kan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Mal'akhii (Malaki)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:59:52.314264461Z",
+  "model": "glm-5.3"
+}

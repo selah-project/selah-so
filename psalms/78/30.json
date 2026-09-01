@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Damacoodii lama daalacin, cunnadooduna weli ayaa afkooda ku jirtay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "daalacin"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "damacoodii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "cunnadooduna"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "afkooda ku jirtay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:49.195756253Z",
+  "model": "glm-5.3"
+}

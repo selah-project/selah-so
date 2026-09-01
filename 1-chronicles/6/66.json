@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Iyo ⟨את⟩ Xeshboon iyo ⟨את⟩ beeraha qarsooda, iyo ⟨את⟩ Yaacer iyo ⟨את⟩ beeraha qarsooda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xeshboon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Xeshboon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beeraha qarsooda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beeraha qarsooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yaacer"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaacer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beeraha qarsooda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beeraha qarsooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:03.934089191Z",
+  "model": "glm-5.3"
+}

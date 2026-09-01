@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo Baraq wuxuu ku yidhi, Haddii aad adigu i la socoto, waan socdaa; haddii aadan i la socon, ma socono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "aad la socoto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "i"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "waan socdaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "aad la socon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "socono"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:11.924080274Z",
+  "model": "glm-5.3"
+}

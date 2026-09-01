@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaa dhab ahaan ⟨wuxuu⟩ ilaalinayaa kuwa dhiigga wax ka doondoha ⟨את⟩ iyagoo xusuusata, kargarna u hilmaansan qayloha kuwa muusuqban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa dhab ahaan"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "wax ka doondoha"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagoo xusuusata"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuusata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kargarna"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "u hilmaansan"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "qayloha"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "kuwa muusuqban"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:20.825255117Z",
+  "model": "glm-5.3"
+}

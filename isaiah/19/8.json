@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo dawyrada badduna way barooran doonaan, kuwa aan ka soo ridin xaggaha mariinka dhammaanna way murugooban doonaan, iyo kuwa firdhiya shabakada uu wejiyaha biyaha sokowa waa daal doonaan.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "way barooran doonaan"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "dawyrada badduna"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "way murugooban doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "kuwa aan ka soo ridin"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "mariinka"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "xaggaha"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "kuwa firdhiya"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "shabakada"
+    },
+    {
+      "surface": "על",
+      "gloss": "uu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiyaha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "waa daal doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:05.413489783Z",
+  "model": "glm-5.3"
+}

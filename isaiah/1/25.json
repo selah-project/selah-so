@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaan celin doonaa gacantayada kuugu ⟨kor⟩, waana daabulin doonaa timaantaaga sida ⟨dahab la nadiifiyo⟩, waana ka saari doonaa dhammaan birahaaga dheellitiran.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "waxaan celin doonaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayada"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuugu"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "waana daabulin doonaa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "timaantaaga"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "waana ka saari doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "birahaaga dheellitiran"
+    }
+  ],
+  "timestamp": "2026-09-01T03:36:16.814081462Z",
+  "model": "glm-5.3"
+}

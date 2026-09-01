@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Markay warqaddu ay timaaddo, waxay qadeen ⟨את⟩ wiilashii boqorka, waxayna gowracsadeen toddobaatan nin, waxayna dhigeen ⟨את⟩ madaxahooda dhalooyin, waxayna u direen Yizre'eel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay ahayd"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "markay timaaddo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "warqaddu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashii boqorka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "waxayna gowracsadeen"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "waxayna dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxahooda"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "madaxahooda"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "dhalooyin"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "waxayna u direen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizre'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:28:28.291500062Z",
+  "model": "glm-5.3"
+}

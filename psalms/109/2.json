@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Waayo, afka shar-ku iyo afka khiyaano-tu way iga furmeen; waxay ila hadleen ⟨את⟩ carrab- BEEN ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-ku"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "iyo afka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano-tu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "way furmeen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "waxay hadleen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ila",
+      "marks": "carrab BEEN ah"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carrab"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "BEEN ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:58.755359164Z",
+  "model": "glm-5.3"
+}

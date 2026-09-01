@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Codkayga ayaan Yahweh u qaylinayaa, wuuna i jawaabay ⟨buurta⟩ quduuskiisa ah. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ayaan qaylinayaa"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "wuuna i jawaabay"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuskiisa ah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:08.460187152Z",
+  "model": "glm-5.3"
+}

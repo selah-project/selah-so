@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Laakiin weligiis ma aha — ag dhulka parokadda ma galo, ag gaddiiska ma soo dhawaado, middi ayaa ku qaban; uma nijaaneyo ⟨את⟩ macbadyadayda, waayo Aniga ahay Yahweh kan ka dhigaya qiddimsan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laakiin keliya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ag"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parokadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "galo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ag"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gaddiiska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "soo dhawaado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מום",
+      "gloss": "middi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku qaban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "nijaaneyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macbadyadayda"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "macbadyadayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "kan ka dhigaya qiddimsan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:55.778684369Z",
+  "model": "glm-5.3"
+}

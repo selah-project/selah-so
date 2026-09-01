@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 128,
+  "translation": "Bal eeg, saas ayaa nin lagu barakooleyaa, kan cabsi ka qaba Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "lagu barakooleyaa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kan cabsi ka qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:13.064927867Z",
+  "model": "glm-5.3"
+}

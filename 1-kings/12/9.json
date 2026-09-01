@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna ku yidhi: Maxaad talaynaysaan, oo aan uga jawaabo ⟨את⟩ dadkan oo ii hadlay oo yidhi: Yaree luulka uu aabahay naga saaray?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "talaynaysaan"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "oo aan uga jawaabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jawaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ii hadlay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo yidhi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yaree"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העל",
+      "gloss": "luulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "saaray"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:36.248433248Z",
+  "model": "glm-5.3"
+}

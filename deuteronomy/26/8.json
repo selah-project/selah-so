@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Yahwehna wuxuu naga soo-bixiyay Mitsrayim gacal adag iyo gacan-baaxad leh iyo cabsi weyn iyo calaamooyin iyo yaabo.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "wuxuu naga soo-bixiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacal"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "iyo gacan-baaxad leh"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "baaxad leh"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "iyo cabsi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "iyo calaamooyin"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "iyo yaabo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:18.201420966Z",
+  "model": "glm-5.3"
+}

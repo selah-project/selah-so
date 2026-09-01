@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Ha xishoodaanna oo ha walaacaan ilaa weligood, ha dulqaadaysanna oo halle.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ha xishoodaanna"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "oo ha walaacaan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ha dulqaadaysanna"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "halle"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:11.294879857Z",
+  "model": "glm-5.3"
+}

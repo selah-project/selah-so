@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Oo ha qarin wajigaaga addoonkaaga waqtigaan dhibaato ku jirto; degdeg ii jawaab.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Oo ha"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "addoonkaaga (ka)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhibaato ku jirto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ii jawaab"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:20.629945399Z",
+  "model": "glm-5.3"
+}

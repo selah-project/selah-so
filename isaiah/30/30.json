@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahwehna wuxuu maqeli dhigi doonaa ⟨את⟩ sharafka codkiisa, iyo hoos-u-dhigidda gacantiisa wuu muujin doonaa, xanaaq cad iyo leeb-leeb dab ah oo cunaya; qarax iyo daad-dhuluf iyo dhagax barad ah.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "wuxuu maqeli dhigi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharafka codkiisa"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "sharafka"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "iyo hoos-u-dhigidda"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wuu muujin doonaa"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "xanaaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cad"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "iyo leeb-leeb"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab ah"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "oo cunaya"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "qarax"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "iyo daad-dhuluf"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo dhagax"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "barad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:47:15.391995793Z",
+  "model": "glm-5.3"
+}

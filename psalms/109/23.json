@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Waan tegay sida hoos-u-dhaca munaasabadda dheeraysta; waan la riyaaqay sida jaarad.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "sida hoos-u-dhaca"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "munaasabadda dheeraysta"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "waan tegay"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "waan la riyaaqay"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "sida jaarad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:25.081928908Z",
+  "model": "glm-5.3"
+}

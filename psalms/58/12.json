@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Markaasaa ⟨⟩ nin kasta odhan doonaa: hubaal abaalmarin bay u jirtaa kii xaqda ah; hubaal waxaa jira Elohim oo dhulka xukumaya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "iyo wuxuu odhan doonaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "abaalmarin"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kii xaqda ah"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "oo xukumaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:25.556413054Z",
+  "model": "glm-5.3"
+}

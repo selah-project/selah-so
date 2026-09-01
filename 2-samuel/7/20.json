@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Dawiidna wax dheeri ah ma qoro inuu kuu hadlo? Adigaa addoonkaaga yaqaan, Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "wax dheeri ah ma"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "qoro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeri ah"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inuu hadlo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:25.962172452Z",
+  "model": "glm-5.3"
+}

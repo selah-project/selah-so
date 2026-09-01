@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Adigu waxaad soo kacaysaa, waad u naxariisaa Siyyoon, waayo waqtigii laysku deeqsanno wuu yimid, waayo balanta go'aanka ahayd way timid.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "waxaad soo kacaysaa"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "waad u naxariisaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyyoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "laysku deeqsanno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuu yimid"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "balanta go'aanka ahayd"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:02.895439327Z",
+  "model": "glm-5.3"
+}

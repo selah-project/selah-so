@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Haddana waan muujin doonaa ⟨את⟩ ceebteeda indhaha saaxiibadeed ee jeclaatay, ninna gacantayda lama badbaadin doono.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "waan muujin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceebteeda"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ceebteeda"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "saaxiibadeed ee jeclaatay"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "lama badbaadin doono"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gacantayda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:18.025537654Z",
+  "model": "glm-5.3"
+}

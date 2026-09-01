@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "qaddkiisiina, qadd joogto ah, waxaa loo siiyay ⟨את⟩ boqorka, wax maalin kasta maalintii, inta uu noloshiisa maalmo dhan yahay.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "qaddkiisiina"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "qadd"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "joogto ah"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "waxaa loo siiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "loo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wax"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin kasta"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmo dhan"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "noloshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:14.712798468Z",
+  "model": "glm-5.3"
+}

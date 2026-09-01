@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waxaan odhanayaa, El-iigow, ha i kor qaadin bararta maalmahayga; darmooyinka iyo darmooyin dhan waa sanadkaaga.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Waxaan odhanayaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iigow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "i kor qaadin"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "bararta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmahayga"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "darmooyinka"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "darmooyin dhan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "sanadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:36.290980405Z",
+  "model": "glm-5.3"
+}

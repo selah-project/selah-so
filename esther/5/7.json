@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Esteruna waxay jawaabtay oo waxay tidhi: Codsigayga iyo baryadayduba ⟨waa tan⟩.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "waxay jawaabtay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "oo waxay tidhi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "codsigayga"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "iyo baryadayduba"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:56.643674126Z",
+  "model": "glm-5.3"
+}

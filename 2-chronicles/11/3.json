@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Dheh Rehabeam ina Suleymaan, boqorka Yahuudah, iyo Israa'iil oo dhan ku dhex jira Yahuudah iyo Benyamiin, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ku dhex jira Yahuudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "iyo Benyamiin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:38:31.592736624Z",
+  "model": "glm-5.3"
+}

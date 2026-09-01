@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyadoo Isebelna Yahweh ka hadlay oo odhan: eyuhu waa cuni doonaan ⟨את⟩ Isebel barkadda Yisreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "iyadoo ... na"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "eyuhu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa cuni doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "barkadda"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yisreel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:36.706562976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Markaasaa naafootu waa ay u booddaysaa sida ri' geelaha, carrabka amaahana wuu qayliyaa, waayo biyo baa carrabuurka ka baxay, iyo wabiyo baadiyaha.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaasaa"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "waa ay u booddaysaa"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "sida ri' geelaha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "naafootu"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "wuu qayliyaa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "amaaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "baa ka baxay"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "carrabuurka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "iyo wabiyo"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "baadiyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:53.391667910Z",
+  "model": "glm-5.3"
+}

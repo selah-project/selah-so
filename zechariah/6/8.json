@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna i yeelay (oo ⟨את⟩ igu calaamadeeyay) oo ii hadlay yidhi: Eeg, kuwa socdaa dhulkii waqooyiga way dejiyiyeen ⟨את⟩ ruuxayga dhulkii waqooyiga.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "wuxuuna i yeelay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga (ii)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oo ii hadlay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "kuwa socdaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "waqooyiga"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "way dejiyiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxayga"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxayga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "waqooyiga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:37.386482920Z",
+  "model": "glm-5.3"
+}

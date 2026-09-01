@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuu qaatay oo wuxuu ka gudbisay ⟨את⟩ weboka (wadiiyada), wuxuuna ka gudbisay ⟨את⟩ waxa ay iska lahaayeen.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Wuxuu qaatay"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "wuxuu ka gudbisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weboka (wadiiyada)"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "weboka (wadiiyada)"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wuxuuna ka gudbisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa ay iska lahaayeen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa ay iska lahaayeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iska lahaayeen (isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:32.062847612Z",
+  "model": "glm-5.3"
+}

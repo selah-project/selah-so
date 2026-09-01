@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Elohimow, naga noqo, oo if iyna wajigaaga, waana na badbaadin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "naga noqo"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "oo if iyna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "waana na badbaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:41.098031297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "iyo ⟨את⟩ walaashiinna qaataanna, oo kaca oo u noqda ninkii",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "walaashiinna"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "walaashiinna"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "qaataanna"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "kaca"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "u noqda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:32.223128266Z",
+  "model": "glm-5.3"
+}

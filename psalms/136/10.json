@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Cunuggii ugu horreeyay ee Mitsrayim ku dhuftay, waayo, ilaa iyo weligiis baahuu tahay khesedkiisu.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "ku dhuftay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "cunuggii ugu horreeyay ee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:51.513626935Z",
+  "model": "glm-5.3"
+}

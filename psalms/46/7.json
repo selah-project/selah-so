@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Shacabku way qayilanayaan, boqortooyadu way ruxmayaan; ⟨wuu⟩ codkii ka saaray, dhulkuna waa dhalaalay.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "way qayilanayaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "way ruxmayaan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyadu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨wuu⟩ ka saaray"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "codkii"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "waa dhalaalay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkuna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:02.006648184Z",
+  "model": "glm-5.3"
+}

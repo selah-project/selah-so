@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Dhaqaaq dhulkaaga sidii webi, gabadha Tarshiish; marada weligeed ma jirto.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Dhaqaaq"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sidii webi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshiish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "marada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligee(d)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:41.454364806Z",
+  "model": "glm-5.3"
+}

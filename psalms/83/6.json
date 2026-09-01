@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Waa inay wada taliyeen qalbiga isku mid ahaan; adiga baa ay ballan ka dhigeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa inay"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "wada taliyeen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "isku mid ahaan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "adiga baa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ka dhigeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:28.810645368Z",
+  "model": "glm-5.3"
+}

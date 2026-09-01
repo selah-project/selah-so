@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Hase yeeshe adigu waad na jajirisay meel libaaxyo (waraabaha) ah, waadna na duugsatay hooska geerida.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hase yeeshe"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "waad na jajirisay"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "libaaxyo (waraabaha)"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "waadna na duugsatay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "(na)"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "hooska geerida"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.726615790Z",
+  "model": "glm-5.3"
+}

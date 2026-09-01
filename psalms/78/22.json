@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Ma ahaan markay rumeysan waxba Elohim, oonay ku husnan badbaadadiisii;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma ahaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waxba ma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "rumeysan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oonay"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ku husnan"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "badbaadadiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:29.644195510Z",
+  "model": "glm-5.3"
+}

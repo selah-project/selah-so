@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Waxaan xidhin doonaa kaoYadiisa bashar, run-badihisana waa qaylo-dhaantaan farxad.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "kaoYadiisa"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "waxaan xidhin doonaa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "bashar"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "run-badihisana"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "qaylo-dhaan farxad"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "waa qaylo-dhaantaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:53.434393029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Asher ma saarin ⟨את⟩ degganaha Akko iyo ⟨את⟩ degganaha Tsidon, iyo ⟨את⟩ Axlav iyo ⟨את⟩ Akzib iyo ⟨את⟩ Xelbah iyo ⟨את⟩ Afiq iyo ⟨את⟩ Rexob.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "saarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degganaha Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "degganaha Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Axlav"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Axlav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Akzib"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akzib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xelbah"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Xelbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Afiq"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afiq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Rexob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rexob"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:55.986680608Z",
+  "model": "glm-5.3"
+}

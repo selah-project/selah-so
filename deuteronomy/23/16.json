@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Adoon ha u dhiibin sayidkiis, kan uu ka cararay sayidkiis oo xaggaaga yimid.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha (diid)"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "u dhiibin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sayidkiis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "uu ka cararay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "xaggaaga"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka (xafeed)"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sayidkiis"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:00.425546520Z",
+  "model": "glm-5.3"
+}

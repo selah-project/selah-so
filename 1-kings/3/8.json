@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo addoonkaagu wuxuu dhex joogaa dadkaaga ee aad doortay — dad fara badan, oo aan la tirin karin aanana la koobi karin, farnaantooda darteed.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "oo addoonkaagu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "wuxuu dhex joogaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "aad doortay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fara badan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "la tirin karin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanana"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "la koobi karin"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "farnaantooda darteed"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:26.112718034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna jawaabeen ⟨את⟩ malaa'igtii Yahweh ee ka taagnayd u dhexeeya haadharrada, waxayna yidhaahdeen, Waannu ku socdnay dhulka, oo waxa hubaal ah in dhulka oo dhan ay fadhido ayna deggan tahay.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "waxayna jawaabeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaa'igtii Yahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaa'igtii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ka taagnayd"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "haadharrada"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhaahdeen"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "waannu ku socdnay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo waxa hubaal ah in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka oo"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ay fadhido"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "ayna deggan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:53.638562151Z",
+  "model": "glm-5.3"
+}

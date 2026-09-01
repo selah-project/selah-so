@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo markii weelashu ay buuxsameen, waxay tiri wiilkii: Ii dhoweysi weel kale. Oo wuxuu ku yidhi: Weel kale ma jiro; oo saliidu way istaagday.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oo markii"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "markii ay buuxsameen"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "weelashu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Ii dhoweysi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "weel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "weel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "way istaagday"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "saliidu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:28.624264959Z",
+  "model": "glm-5.3"
+}

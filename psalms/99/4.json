@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Iyo taageerada boqorka caddaalad jeclaato, ⟨adiga⟩ xaqnimo adigoo dhigay, caddaalad iyo sama-sawir Yacquub adigoo sameysay.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Iyo taageerada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jeclaato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "adigoo dhigay"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "xaqnimo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "sama-sawir"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigoo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sameysay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:23.083065131Z",
+  "model": "glm-5.3"
+}

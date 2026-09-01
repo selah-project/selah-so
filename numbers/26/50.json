@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Kuwani waa qoysaskii Naftali sida qoysaskooda, oo tiriistaasooduna waxay ahaydshan lidaha iyo afartan kun iyo afar boqol.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoysaskii"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sida qoysaskooda"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "oo tiriistaasooduna"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:09.928851198Z",
+  "model": "glm-5.3"
+}

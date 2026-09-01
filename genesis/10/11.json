@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu ka soo baxay Ashur ⟨dhalanteed⟩, wuxuuna dhisay ⟨את⟩ Niinweyah iyo ⟨את⟩ Rejowot-Iir iyo ⟨את⟩ Kelaj.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhalanteed"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wuxuu soo baxay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niinweyah"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinweyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Rejowot-Iir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rejowot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iir (magaalo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kelaj"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelaj"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:56.190290999Z",
+  "model": "glm-5.3"
+}

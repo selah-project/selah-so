@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Awgoodii guriga Yahweh Elohim-keenna, waan doondoonaa khayrkaaga.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Awgoodii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "waan doondoonaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "khayrkaaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:48.155332470Z",
+  "model": "glm-5.3"
+}

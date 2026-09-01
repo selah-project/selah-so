@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxayna ku tidhi nimanka: Waan ogyahay in Yahweh idiin siiyay ⟨את⟩ dhulka, iyo in argagaxiinnu na saaray, iyo in dhammaan kuwa deggan dhulka ay dhammaanteedeen idinkoo darteed.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna ku tidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nimanka"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "na saaray"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "argagaxiinnu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "noo dhacay"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "way dhammaanteedeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "idinkoo darteed"
+    }
+  ],
+  "timestamp": "2026-09-01T02:19:35.247824338Z",
+  "model": "glm-5.3"
+}

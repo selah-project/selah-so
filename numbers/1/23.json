@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Lagu taliyay kuwa qabiilka Shim'on oo dhan, waxay ahaayeen sagaal iyo konton kun (kun) iyo saddex boqol.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "lagu taliyay"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo konton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "iyo saddex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:12.354478863Z",
+  "model": "glm-5.3"
+}

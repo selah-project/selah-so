@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ciid aan dhammaad lahayn ayay ka soo kaceyd sancihiisii, oo naar afkiisii waxay lahaaysay; ulul dhexdiisa bay ka gubnaayeen.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "waxay ka soo kaceyd"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ciid aan dhammaad lahayn"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sancihiisii"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "oo naar"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "afkiisii"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "waxay lahaaysay"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ulul"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "bay ka gubnaayeen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dhexdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:51:40.146780887Z",
+  "model": "glm-5.3"
+}

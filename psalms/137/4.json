@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Sidee baynu ku heeysannaa ⟨את⟩ heesta Yahweh dhulka shisheeyay ah?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Sidee"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "baynu ku heeysannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heesta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "heesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "shisheeyay ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:32.378508075Z",
+  "model": "glm-5.3"
+}

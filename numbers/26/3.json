@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Muuse iyo El'azaar oo ah wadaaddu waxay la hadleen ⟨את⟩ iyaga ‹oo ah iyaga oo dhan› oo ku yaal kiimaadaha Mo'aab, Jirowdan agtiisa, agagaarkha Yeriijo, iyagoo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlee (waxay la hadleen)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "iyo El'azaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kiimaadaha Mo'aab \/ iyaga"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "kiimaadaha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "על",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jirowdan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriijo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:06.425530914Z",
+  "model": "glm-5.3"
+}

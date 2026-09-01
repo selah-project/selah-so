@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "iyo ⟨את⟩ mishaaradda iftiinka iyo ⟨את⟩ qaab-aheeda iyo ⟨את⟩ sirshiyadeeda, iyo ⟨את⟩ saliidda iftiinka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "mishaaradda iftiinka"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "mishaaradda"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qaab-aheeda"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "qaab-aheeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sirshiyadeeda"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sirshiyadeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saliidda iftiinka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "iftiinka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:31.204807852Z",
+  "model": "glm-5.3"
+}

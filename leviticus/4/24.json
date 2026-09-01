@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna saari gacantiisa madaxa ri'iga, wuuna gowraci ⟨את⟩ isaga meesha la gowriyo ⟨את⟩ qorshaha ololaha Yahweh hortiis; dambi-qorsho baa",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "saari"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ri'iga"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "gowraci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "ri'iga"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "la gowriyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorshaha ololaha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qorshaha ololaha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dambi-qorsho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa weeye"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:11.030047122Z",
+  "model": "glm-5.3"
+}

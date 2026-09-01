@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Geeduhu wayna ku yidhi canabka: Kaalay, adiga u boqor-noqo na.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wayna ku yidhi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "geeduhu"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "canabka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Kaalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "u boqor-noqo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na (kuwa annaga ah)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:33:08.036554581Z",
+  "model": "glm-5.3"
+}

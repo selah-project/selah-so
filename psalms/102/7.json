@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waxaan la mid ahay doohada miyiga; waxaan noqday sida gooslaha goboobbanaa.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "waxaan la mid ahay"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "doohada"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "miyiga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waxaan noqday"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "sida gooslaha"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "goboobbanaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:49.057480658Z",
+  "model": "glm-5.3"
+}

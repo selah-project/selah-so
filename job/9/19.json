@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Hadday tahay xoog, waa kan xoogga; hadday tahay xukun, yaa ii magacaabi karaa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hadday tahay"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "xoogga (kan xoog badan)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "waa kin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hadday tahay"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "ii magacaabi karaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:31.758649840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Ma jiro ⟨wax⟩ caafimaad ah jidhkayga xanaaqaada awgiis; ma jiro nabad lafahayga dembigayga awgiis.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "caafimaad ah"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "jidhkayga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "awgiis"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "xanaaqaada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "lafahayga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "awgiis"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dembigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:18.865758725Z",
+  "model": "glm-5.3"
+}

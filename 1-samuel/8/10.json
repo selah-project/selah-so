@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu yidhi Shemuëel ⟨את⟩ oo dhan erayada Yahweh dadkii weydiistay ⟨את⟩ xaggiisa boqor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oo dhan (erayada Yahweh)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "weydiistay"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ xaggiisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:13.324356538Z",
+  "model": "glm-5.3"
+}

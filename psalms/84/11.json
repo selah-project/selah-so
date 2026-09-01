@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Ma liibaantahay midda ka horreeya: waayo, maalinni gurigaaga gidaarka (baxsarahaaga) ku maqan waa ka khayr badan tahay kun (maalood) kale; aan doorbido in aan il fadhiyo (soo-foosho) guriga Elohim, ahna in aan deggan ahaado khaymeedyada xaq-darrada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waa ka khayr badan tahay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "baxsarahaaga (gidaarkaaga guriga)"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "kun (maalood) kale"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "aan doorbido"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "in aan il fadhiyo (soo-foosho)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "in aan deggan ahaado"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "khaymeedyada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xaq-darrada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:42.996795672Z",
+  "model": "glm-5.3"
+}

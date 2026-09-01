@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Yahweh ha noqdo xaakiin, oo ha xukumo aniga iyo adiga, oo ha arag oo ha doodo ⟨את⟩ dooddayda, oo ha i xukumo gacantaada.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "xaakiin"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "oo ha xukumo"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "iyo adiga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "oo ha arag"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "oo ha doodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dooddayda"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "dooddayda"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "oo ha i xukumo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gacantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:31.207211223Z",
+  "model": "glm-5.3"
+}

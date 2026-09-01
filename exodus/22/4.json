@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Markay nin beer ama canab-beer cuniyeyso, oo uu sii daayay ⟨את⟩ xoolahiisa, oo ay beer kale ku cunayso, wanaagga beertiisa iyo wanaagga canab-beerkiisaba wuu bixinayaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "markay (haddii)"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "cuniyeyso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beer"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "canab-beer"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "oo uu sii daayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoolahiisa"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "xoolahiisa"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "oo ay ku cunayso"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beer"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "beertiisa"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "iyo wanaagga"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "canab-beerkiisaba"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wuu bixinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:20.551822122Z",
+  "model": "glm-5.3"
+}

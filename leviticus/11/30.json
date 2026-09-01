@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo anaqada, iyo koaxa, iyo letaaha, iyo khometa, iyo tinshemeta.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "anaqada"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "koaxa"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "letaaha"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "khometa"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "tinshemeta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:27.070699140Z",
+  "model": "glm-5.3"
+}

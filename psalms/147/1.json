@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Ammaaniya Yah! Waayo, wanaagsan tahay in la qaayo ammaanka Elohimkeenna; waayo, macaan tahay, waana habboon ammaan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "in la qaayo ammaanka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "macaan tahay"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "waana habboon"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ammaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.900313325Z",
+  "model": "glm-5.3"
+}

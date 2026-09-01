@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "La habaaray kii aabbihii iyo hooyadiis hoos u dhigay; dadka oo dhammuna waxay odhan doonaan: Aamiin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "La habaaray"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "kii hoos u dhigay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihii"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "waxay odhan doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:56.905170982Z",
+  "model": "glm-5.3"
+}

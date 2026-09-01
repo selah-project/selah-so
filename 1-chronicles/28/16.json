@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "iyo ⟨את⟩ dahabga miisaankiisa miisaas-leyda, miisaan miil kasta iyo miil kasta, iyo lacagta miisas-leyda lacagta;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dahabga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabga"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "miisaankiisa"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "miisaas-leyda"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "miisaas-leyda"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "miil kasta"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "iyo miil kasta"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "iyo lacagta"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "miisas-leyda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:33:11.292739435Z",
+  "model": "glm-5.3"
+}

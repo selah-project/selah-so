@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Idinkuse waxad tihiin kuwa Yahweh dajiyay, buurta qadduskayda illowday, kuwa siinaya miis Gad, oo buuxinaya Meni dhanaan isku dhafan.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "idinkuse"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "kuwa dajiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "illowday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qadduskayda"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "kuwa siinaya"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "miis"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "oo buuxinaya"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "dhanaan isku dhafan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:59:20.974077974Z",
+  "model": "glm-5.3"
+}

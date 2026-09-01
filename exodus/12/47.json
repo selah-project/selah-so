@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Dhammaan sharciga Yisraa'iil bay sameyn doonaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "sharciga (jamaca)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bay sameyn doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uu",
+      "marks": "Pesaaxa (xilligan la ammaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:19.936732162Z",
+  "model": "glm-5.3"
+}

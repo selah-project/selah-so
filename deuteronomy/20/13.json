@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yahweh Eloimaaga wuxuu gacantaada ku dhiibayaa, waadna garaacaysaa ⟨את⟩ dhamaan ragga ay qabtaan afka seef.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "wuxuu ku dhiibayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloimaaga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada ku"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "waadna garaacaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan ragga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ragga ay qabtaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:02.805683934Z",
+  "model": "glm-5.3"
+}

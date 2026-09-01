@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaadse subaysaa ⟨את⟩ Axaron iyo ⟨את⟩ wiilashiisa, waxaadna quduusiisaa ⟨את⟩ iyaga inay ii noqdaan wadaaddo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "waxaad subaysaa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "waxaadna quduusiisaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "inay wadaaddo noqdaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:05.949049090Z",
+  "model": "glm-5.3"
+}

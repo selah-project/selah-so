@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaadna qadan doontaa ⟨את⟩ wanaga magal-dajintu, aadna karin doontaa ⟨את⟩ jidhkiisa meel quduus ah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaga magal-dajintu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "wanaga"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "magal-dajintu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "waxaadna qadan doontaa"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "aadna karin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhkiisa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "meel"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:55.460543210Z",
+  "model": "glm-5.3"
+}

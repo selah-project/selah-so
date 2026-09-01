@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Kuwaa la dhoofiyay guriga Yahweh, barwaaqo bay ku noqon doonaan barxamada Eloheimo.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "kuwaa la dhoofiyay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "barxamada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheimo"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "barwaaqo bay ku noqon doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:50.935934469Z",
+  "model": "glm-5.3"
+}

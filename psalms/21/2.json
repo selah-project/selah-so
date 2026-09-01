@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Yahweh, xooggaaga wuu ku farxayaa boqorku, oo badbaadadaada intee ayay weyn tahay farxadiisu!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuu ku farxayaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "oo badbaadadaada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "intee ayay weyn tahay"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "farxadiisu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:39.502735168Z",
+  "model": "glm-5.3"
+}

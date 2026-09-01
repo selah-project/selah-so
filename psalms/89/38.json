@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Siday daaha la aasaasiyey weligeed, oo sidii markhaati amaan ah oo daruurta dhexdeeda ah. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "siday daaha"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "la aasaasiyey"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "oo sidii markhaati"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "daruurta dhexdeeda ah"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "amaan ah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:29.137319491Z",
+  "model": "glm-5.3"
+}

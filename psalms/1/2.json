@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Laakiin raalli ahaanshahiisu waa Torahta Yahweh, oo Torahtiisa buu maalinta iyo habeenkaba ka tuktaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Torahta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "raalli ahaanshahiisu"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Torahtiisa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ka tuktaan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "habeenkaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:32.764042087Z",
+  "model": "glm-5.3"
+}

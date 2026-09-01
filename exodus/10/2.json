@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo si aad uga sheekeyso dhegaha wiilkaaga iyo wiilka wiilkaaga ⟨את⟩ waxa aan ku sameeyay Mitsrayim iyo ⟨את⟩ calaamadahaygii aan ku dhigay, si aad ogaataan in aan ani Yahweh ahay.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Oo si aad u"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "uga sheekeyso"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dhegaha"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "iyo wiilka"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan ku sameeyay Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "aan ku sameeyay"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "calaamadahaygii"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "calaamadahaygii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "aan ku dhigay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gudahood"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "si aad ogaataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:43.514342154Z",
+  "model": "glm-5.3"
+}

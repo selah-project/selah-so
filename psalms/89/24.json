@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaan ka jajabin doonaa cadowadiisa weji hortooda, oo kuwa neceb waxaan ku dhibayn doonaa.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Waxaan ka jajabin doonaa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "weji hortooda"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "cadowadiisa"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "kuwa neceb"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "waxaan ku dhibayn doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:47.552014065Z",
+  "model": "glm-5.3"
+}

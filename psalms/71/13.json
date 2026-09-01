@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Waxay hayn doonaan caynimadii ⟨kuwa naftayda eeday⟩, way baabi'i doonaan; waxay dabooli doonaan ceeb iyo xumo-qeele, ⟨kuwa sharkayda doonaya⟩.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "waxay hayn doonaan"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "way baabi'i doonaan"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "kuwa eeday"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "waxay dabooli doonaan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "iyo xumo-qeele"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doonaya"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sharkayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.797460615Z",
+  "model": "glm-5.3"
+}

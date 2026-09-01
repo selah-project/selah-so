@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Boqorkii Koreshna wuxuu soo saaray ⟨את⟩ qalabka baytkii Yahweh oo Nebukadnetsar ka soo saaray Yeruushaalaym, wuxuuna dhigay gurigii ilahyadiisii.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wuxuu soo saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalabka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ka soo saaray"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ilahyadiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:12:22.084378307Z",
+  "model": "glm-5.3"
+}

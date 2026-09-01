@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ilmihiisu ha noqdaan agoon, oo naagtiisuna ha noqoto guri-lume.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmihiisu"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "agoon"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "oo naagtiisuna"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "guri-lume"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:33.610692930Z",
+  "model": "glm-5.3"
+}

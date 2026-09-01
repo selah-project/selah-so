@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waa oge qalbi, oo adag xoog; yaa isaga la adkaaday oo wuu nabad galay?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "oo adag"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "la adkaaday"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "oo wuu nabad galay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:20.440820838Z",
+  "model": "glm-5.3"
+}

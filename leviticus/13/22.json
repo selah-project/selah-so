@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Haddiise ay si weyn ugu fidiso maqaarka, kaahinku waa cananay ⟨את⟩ isaga — waa dhaawo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddiise"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ay si weyn ugu"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "fidiso"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "waa cananay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaahinku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dhaawo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:51.089408797Z",
+  "model": "glm-5.3"
+}

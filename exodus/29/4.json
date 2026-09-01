@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaad dhoweynaysaa ⟨את⟩ Axaroon iyo ⟨את⟩ wiilashiisa ilaa albaabka Khaymada Kulanka, waxaana ku maydhaysaa biyaha ⟨את⟩ iyagoo dhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axaroon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "waxaad dhoweynaysaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "waxaana ku maydhaysaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagoo dhan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:51.606266696Z",
+  "model": "glm-5.3"
+}

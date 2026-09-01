@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ma waqtigii baa idiin ah in laydin ku noolaataan guryihiinna la-dhululubay, oo gurigana kan uu burburo?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "ma waqtigii baa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "laydin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "in ku noolaataan"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "guryihiinna"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "la-dhululubay"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "oo gurigana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "uu burburo"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:54.281155811Z",
+  "model": "glm-5.3"
+}

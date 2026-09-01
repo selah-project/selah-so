@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Elohim wuxuu arkay ⟨את⟩ waxa oo dhan oo uu sameeyay, oo bal eeg — wanaagsan aad uba weyn; oo galab noqday, oo aroor noqday, maalinta lixaad.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa… oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad uba weyn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "noqday"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galab"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "noqday"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroor"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lixaad"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:58.527116267Z",
+  "model": "glm-5.3"
+}

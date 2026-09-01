@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Dhaawacaydu way wasakhaysan yihiin, wayna dhaawac-dheef yihiin, xagga doqonnimadayda.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "way wasakhaysan yihiin"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "wayna dhaawac-dheef yihiin"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "dhaawacaydu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "doqonnimadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:09.903186614Z",
+  "model": "glm-5.3"
+}

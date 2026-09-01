@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Waarun wuu kaa soo saari doonaa shabakadda ganacsatada, iyo cudurka baabba'inaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waarun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "wuu kaa soo saari doonaa"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ganacsatada"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "cudurka"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "baabba'inaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:17.491745681Z",
+  "model": "glm-5.3"
+}

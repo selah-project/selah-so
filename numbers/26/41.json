@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 26:41",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Kuwani waa curada Binjamin oo ah qoysaskooda, oo lakorkooduna waa shan iyo afartan kun iyo lix boqol.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lakorkooduna"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:57.918444166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Boqorkuna wuxuu fadhiistay guriga jiilaalka, bisha sagaalaad, oo ⟨את⟩ naartu horteeda la shiday.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkuna"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wuxuu fadhiistay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "jiilaalka"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "sagaalaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "naartu"
+    },
+    {
+      "surface": "האח",
+      "gloss": "naartu (dabshada)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "la shiday (gubaysa)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:17:27.403327325Z",
+  "model": "glm-5.3"
+}

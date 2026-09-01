@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ephrayimna waxay noqotay sidii qoolley daallin ah oo qalbi la'aan; Mitsrayim waxay u yeedheen, Ashshuurna waxay tegeen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrayimna"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sidii qoolley"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "daallin ah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "waxay u yeedheen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshuurna"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "waxay tegeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:30.528764615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Boqorkii Daawid wuu maqalay ⟨את⟩ dhamaan erayadaas, wuxuuna aad u xanaqay.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Boqorkii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan erayadaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aas"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "xanaqay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:20.213202951Z",
+  "model": "glm-5.3"
+}

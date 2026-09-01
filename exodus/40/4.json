@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Oo waxaad keeni doontaa ⟨את⟩ miiska, oo waxaad habeysi doontaa ⟨את⟩ habayntiisa, oo waxaad keeni doontaa ⟨את⟩ laampadhigidda, oo waxaad shidi doontaa ⟨את⟩ laampadhigeeda.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "waxaad keeni doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "waxaad habeysi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habayntiisa"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "habayntiisa"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "waxaad keeni doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laampadhigidda"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "laampadhigidda"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "waxaad shidi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laampadhigeeda"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laampadhigeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:53.261877007Z",
+  "model": "glm-5.3"
+}

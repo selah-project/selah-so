@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxay lalgabaysan doonaan sida shimbir oo ka yimid Mitsrayim, iyo sida qoolley oo ka tali dhulka Ashur; waana degsan doonaa guryahooda — sheegta Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "waxay lalgabaysan doonaan"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "sida shimbir"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim ka"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "iyo sida qoolley"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka ka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "waana degsan doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (dushiisa)"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "guryahooda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sheegta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:19.639927063Z",
+  "model": "glm-5.3"
+}

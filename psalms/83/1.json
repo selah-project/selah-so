@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Hees, mizmoor laga yeelay Asaaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "laga yeelay Asaaf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:32.181841718Z",
+  "model": "glm-5.3"
+}

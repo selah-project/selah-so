@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Yotaam wuxuu la seexday aabbayaashiis, waxaana lagu aasay ⟨את⟩ magaalada Daawiid, wuxuuna xilka ka qaday Axaz inankiisa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "wuxuu la seexday"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotaam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "waxaana lagu aasay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada Daawiid"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawiid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wuxuuna xilka qaday"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "xilka ka (beddelkiisa)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:43:07.001054841Z",
+  "model": "glm-5.3"
+}

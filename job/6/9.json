@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo Eloah ha iigo doosto, oo ha i-dulo; ha siideeyo gacantiisa oo ha i-gooyo!",
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "ha iigo doosto"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": "ha i-dulo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ha siideeyo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויבצעני",
+      "gloss": "ha i-gooyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:44.052851197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Waad u keenaysaa aabahaa, wuuna cunayaa, ⟨si⟩ uu ku barakeeyo inta uu dhimin ka hor.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "waad u keenaysaa"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "wuuna cunayaa"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "si"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "uu ku barakeeyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inta ka hor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "uu dhimin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:25.083760197Z",
+  "model": "glm-5.3"
+}

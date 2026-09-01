@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Waa la ceeboobeen dhammaan caabudayaasha sanamka, kuwa faanaya elilimka (sansanyada); dhammaan elohimka (ilaahyada) ha u sujuudaan Isaga.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "waa la ceeboobeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "caabudayaasha"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamka"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "kuwa faanaya"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "elilimka (sansanyada)"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ha u sujuudaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimka (ilaahyada)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:15.725470881Z",
+  "model": "glm-5.3"
+}

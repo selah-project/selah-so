@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 127,
+  "translation": "Si hoodo ah bay idiin tahay inaad waqtigii horreeyay kacaan, habeenkii dheeraa fadhiistaan, cunista rootiga aan qaniinaha lahayn; saasuu u siinayaa kan uu jeclaaday hurdo.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "si hoodo ah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "kuwa waqtigii horreeyay kaca"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kacaan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ka dib (dheeraad ah)"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "fadhiistaan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "cunista"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "aan qaniinaha lahayn (dhib)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saasuu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "u siinayaa"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kan uu jeclaaday"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hurdo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:38.422571960Z",
+  "model": "glm-5.3"
+}

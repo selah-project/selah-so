@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "I geey waddada amarradaada, waayo ⟨halkaas⟩ waan ka heli jiray raaxo.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "I geey"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "waan ka heli jiray raaxo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:51.948389886Z",
+  "model": "glm-5.3"
+}

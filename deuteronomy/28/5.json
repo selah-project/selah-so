@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Baroobaysan yahay tandahaaga iyo saxankaaga (saxanka qasaca).",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Baroobaysan yahay"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "tandahaaga"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "iyo saxankaaga (qasaca)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:00.156576950Z",
+  "model": "glm-5.3"
+}

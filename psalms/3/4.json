@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Adiguse, Yahweh, adigu waa gaashaan iiga dhow, i sharafdayd, iyo kan madaxayga qooqa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "iiga dhow"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "i sharafdayd"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "iyo kan ... qooqa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:45.806053046Z",
+  "model": "glm-5.3"
+}

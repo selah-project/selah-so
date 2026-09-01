@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxayna sameynayaan sanduuq ah geedaha shitim (acacia) — dhererkiisu labo amaah iyo bar, ballaciisu amaah iyo bar, jooggiisuna amaah iyo bar.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "waxayna sameynayaan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ah geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim (acacia)"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "labo amaah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dhererkiisu"
+    },
+    {
+      "surface": "wאמה",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ballaciisu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jooggiisuna"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:22.560626472Z",
+  "model": "glm-5.3"
+}

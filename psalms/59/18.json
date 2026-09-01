@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Ciidankaygii, adiga ayaa ku heesayaa, waayo Elohim waa sarreeyahayga (misgabkaygii), Elohim khesedkaygii.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ciidankaygii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga ayaa ku"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "heesayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "sarreeyahayga (misgabkaygii)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesedkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:55.561745564Z",
+  "model": "glm-5.3"
+}

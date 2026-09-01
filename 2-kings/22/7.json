@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "laakiin lacagta la gacan gelinayo ⟨את⟩ iyaga lama xisaabiyo, waayo amaan-dhowr bay ku shaqeeyaan",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "xisaabiyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "lacagta la gacan gelin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "la gacan gelin"
+    },
+    {
+      "surface": "על",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacantooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amaan-dhowr"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bay"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ku shaqeeyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:34:14.522248225Z",
+  "model": "glm-5.3"
+}

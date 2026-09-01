@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waayo, ninku wuu oggol waayay waxa noqon doona; waayo markuu dhaco, yaa u sheegi karaa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wuu oggol waayay"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oggol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "noqon doona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dhaco"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "u sheegi karaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:51.433791007Z",
+  "model": "glm-5.3"
+}

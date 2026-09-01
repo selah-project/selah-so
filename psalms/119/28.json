@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Nafydaydu waa ruxday murugo iyo dheecaan; i taagi sida hadalkaaga.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "waa ruxday dheecaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafydaydu"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "murugo"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "i taagi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sida hadalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:01.291924070Z",
+  "model": "glm-5.3"
+}

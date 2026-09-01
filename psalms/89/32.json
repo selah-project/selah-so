@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Hadday sharcigyadayda baydhayaan, amarradaydinana ma ilaalinayaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hadday"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sharcigyadayda"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "baydhayaan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "amarradaydinana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ilaalinayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.831917650Z",
+  "model": "glm-5.3"
+}

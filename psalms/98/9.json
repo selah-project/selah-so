@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Horti taal Yahweh, waayo, wuxuu yimid inuu xukumo ⟨את⟩ dhulka; wuxuu xukumi doonaa ⟨את⟩ tebel si sharci-sami ah, iyo ⟨את⟩ shacabka si toos ah.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Horti taal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "inuu xukumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "wuxuu xukumi doonaa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "si sharci-sami ah"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "iyo shacabka"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "si toos ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:39.907208416Z",
+  "model": "glm-5.3"
+}

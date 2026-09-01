@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaad ka dhigtay ⟨inuu⟩ yar yahay Elohim ⟨ka yar⟩, oo sharaf iyo weynaan baad ku taajiraysaa.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "waxaad ka dhigtay inuu yar yahay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax-yar"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "iyo sharaf"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "iyo weynaan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "baad ku taajiraysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.433755315Z",
+  "model": "glm-5.3"
+}

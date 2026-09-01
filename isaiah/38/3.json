@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wuxuuna yidhi: Bal Yahweyow, xusuusnow bal sidaan ku soconayay ⟨את⟩ (waxa aan) hortaa run iyo qalbi buuxa, oo waxa aan la akhriyay indhahaaga waan sameeyay; Chizqiyahu-na ooyis weyn buu ooyay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweyow"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuusnow"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan hortaa ku soconayay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa aan"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ku soconayay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "iyo qalbi"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "buuxa"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "waxa aan la akhriyay"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "waan sameeyay"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "buu ooyay"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizqiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ooyis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:28.942381019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Yehuudahna wuxuu diray ⟨את⟩ gidigii ri'aha gacanta saaxiibkiisii Adullamigii, inuu cusbaynta ka qaado gacanta haweenayda, laakiin ma helin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudahna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gidigii ri'aha"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "gidigii"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ri'aha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiisii"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adullamigii"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "inuu qaado"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "cusbaynta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "haweenayda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "helin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:54.505250935Z",
+  "model": "glm-5.3"
+}

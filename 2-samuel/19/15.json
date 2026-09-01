@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo wuxuu dheellitiray ⟨את⟩ qalbiga nin kasta oo Yahuudah ah sidii nin keliya, oo waxay u direen boqorka: noqo adiga iyo addoonadaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wuxuu dheellitiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sidii nin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "waxay u direen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoonadaada oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:16.974490426Z",
+  "model": "glm-5.3"
+}

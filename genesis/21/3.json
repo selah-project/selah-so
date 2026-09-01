@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Abraahamna magaca wiilkiisii uu dhashay, kan Saaray u dhashay, wuxuu u bixiyay Yitsxaq ⟨את⟩ magaca.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u bixiyay magaca"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraaham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "uu dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:02.209387389Z",
+  "model": "glm-5.3"
+}

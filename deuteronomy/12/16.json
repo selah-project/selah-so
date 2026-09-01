@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Keliya dhiigga ha cunina; dhulka ku shub sida biyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha cunina"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "idinkoo cunaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "shub"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sida biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:45.984019023Z",
+  "model": "glm-5.3"
+}

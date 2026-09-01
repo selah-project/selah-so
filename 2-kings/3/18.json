@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Tani waa wax fudud ⟨oo yar⟩ oo Yahweh dartii, wuuna dhigi doonaa ⟨את⟩ Moab gacantiinna.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "waa wax fudud"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tani"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "oo ... dartii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wuuna dhigi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "gacantiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:28.152987248Z",
+  "model": "glm-5.3"
+}

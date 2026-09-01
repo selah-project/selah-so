@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo saar waranka, oo xir jidka horta kuwa i raacaya; dhihi naftayda: «Aniga ahay badbaadaada.»",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "oo saar"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "waranka"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "oo xir jidka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "horta"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kuwa i raacaya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dhihi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "badbaadaada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:01.146648099Z",
+  "model": "glm-5.3"
+}

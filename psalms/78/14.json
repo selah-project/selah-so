@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu ku hanuuniyay maalintii dhir (daruurta), habeenkii oo dhanna iftiin shidan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wuxuu ku hanuuniyay"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "daruurta"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "באור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "shidan (dhir)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:35.043718204Z",
+  "model": "glm-5.3"
+}

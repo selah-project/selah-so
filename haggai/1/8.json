@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 1:8",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kora buurta, oo geedaha (wood) keena, oo guriga dhisa, oo anigu waan ka raystahay, waana la i sharfaa, ayuu yidhi Yahweh.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "kora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "oo keena"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "oo dhisa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "waan ka raystahay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "waana la i sharfaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:51.936406348Z",
+  "model": "glm-5.3"
+}

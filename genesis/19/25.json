@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuuna badiyay ⟨את⟩ magacyadaas, iyo ⟨את⟩ dhulka bannaan oo dhan, iyo ⟨את⟩ degganayaashii magacyada oo dhan, iyo bisadaha dhulka.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Wuxuuna badiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacyadaas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magacyadaas"
+    },
+    {
+      "surface": "האל",
+      "gloss": "daas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka bannaan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "dhulka bannaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "degganayaashii magacyada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganayaashii"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "iyo bisadaha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:21.565448741Z",
+  "model": "glm-5.3"
+}

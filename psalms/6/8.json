@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Cadhada darteed indhahayga way hooshoodhay; cadowdayda koolkool dhibkooda darteed way duqeysay.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "way hooshoodhay"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "cadhada darteed"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "way duqeysay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koolkool"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "cadowdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:03.473980469Z",
+  "model": "glm-5.3"
+}

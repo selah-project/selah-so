@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waan noqday qosol ⟨ee⟩ dadkeyga dhammaantood, waana noqday heesooda maalintoo dhan.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Waan noqday"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "qosol"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨ee⟩ dadkeyga dhammaantood"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkeyga"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "heesooda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maalintoo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:17.076714603Z",
+  "model": "glm-5.3"
+}

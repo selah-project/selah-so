@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ ha-chasidah-da (shimbir dheer luqad dheer leh), ha-anafah-da iyo nooceeda kasta, iyo ⟨את⟩ ha-duchifat-ka (shimbir oo danab madax ku leh) iyo ⟨את⟩ ha-atallef-ka (habaasaha hurda ee dhulka ku nool)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-chasidah-da"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ha-chasidah-da (shimbir dheer luqad dheer leh)"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ha-anafah-da"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "nooceeda kasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-duchifat-ka"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ha-duchifat-ka (shimbir oo danab madax ku leh)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-atallef-ka"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ha-atallef-ka (habaasaha hurda ee dhulka ku nool)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.120448143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuu Khanuun qaatay ⟨את⟩ addoomaha Daawid, wuxuuna jiiday, wuxuuna gooyay ⟨את⟩ dhararkooda badhtankii ilaa miigsiga, wuxuuna teriyay.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Wuxuu qaatay"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomaha Daawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoomaha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "wuxuuna jiiday"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wuxuuna gooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhararkooda"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "dhararkooda"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "badhtankii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "miigsiga"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wuxuuna teriyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:35.983306239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Afkayga waan ku furanayaa mashaal; waan daadinayaa mooyeen (ereyo makhluuq ah) waqtiyadii hore.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "waan ku furanayaa"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "mashaal"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "waan daadinayaa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "mooyeen (ereyo makhluuq ah)"
+    },
+    {
+      "surface": "מני",
+      "gloss": "laga soo bilaabo"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "waqtiyadii hore"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:39.149011066Z",
+  "model": "glm-5.3"
+}

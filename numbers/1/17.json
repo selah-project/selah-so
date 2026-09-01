@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Muuse iyo Aharonna waxay qaadatay ⟨את⟩ raggaas oo magacyadooda lagu birijiyay.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aharonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raggaas"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "gaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "lagu birijiyay"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "magacyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:40.349168639Z",
+  "model": "glm-5.3"
+}

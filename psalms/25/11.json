@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Magacaaga dartii, Yahweh, dhaaf waxaad sameysay dembigayga, waayo waa weyn yahay.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "waxaad dhaaf sameysay"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:55.411819229Z",
+  "model": "glm-5.3"
+}

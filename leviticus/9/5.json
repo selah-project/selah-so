@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wayna qaadatay ⟨waxa⟩ ⟨את⟩ aan Muuse amaro, hortii teendhada shirka, dhammaanna guddigii wuu dhowaan yimid, waxayna taagan yihiin Yahweh hortiis.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wayna qaadatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan Muuse amaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amaro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "פני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teendhada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "wuu dhowaan yimid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "guddigii"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wayna taagan yihiin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:38.047902645Z",
+  "model": "glm-5.3"
+}

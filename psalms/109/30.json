@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Anigu waan mahad-naqayaa Yahweh afar-markab, afkaygii baa lagu mahad-naqayaa, oo dad badan dhexdooda waan ammaanayaa Isaga.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "waan mahad-naqayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "afar-markab"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afkaygii"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dad badan"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "waan ammaanayaa Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:51.014229869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wayna dhallay, wayna dhashay wiil, wuxuuna u baxshay ⟨את⟩ magaciisa Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wayna dhallay"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wayna dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna u baxshay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:47.882337956Z",
+  "model": "glm-5.3"
+}

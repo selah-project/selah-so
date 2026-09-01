@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu u dhul-lakiyay waddo cadhadiisa; uma sug-in noloshooda mawdku, laakiin nafahooda wuxuu u dhiibay cudurka faaftiinka.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "wuxuu u dhul-lakiyay"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "waddo"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "cadhadiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma-"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "uma sug-in"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mawdku"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "noloshooda"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "nafahooda"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "cudurka faaftiinka"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "wuxuu u dhiibay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:07.893006317Z",
+  "model": "glm-5.3"
+}

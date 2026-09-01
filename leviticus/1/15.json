@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wadaanku wuxuu u soo wedayaa aldaarta, wuxuuna ku goynayaa ⟨את⟩ madaxiisa, wuuna gubayaa aldaarta, dhiiggiisana waa la daayaa dhinaca aldaarta.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "wuxuu soo wedayaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aldaarta"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "wuxuuna ku goynayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxiisa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "wuuna gubayaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "aldaarta"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "waa la daayaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiiggiisu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dhinaca (derbiga)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aldaarta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:41.106710524Z",
+  "model": "glm-5.3"
+}

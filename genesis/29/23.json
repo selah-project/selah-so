@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Markay galabtii tahay, wuxuu qaatay ⟨את⟩ Le'ah gabadhiisa, wuxuuna u keenay ⟨את⟩ ⟨isagii⟩, isaguna wuxuu galay ⟨dhexdeeda⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay tahay"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galabtii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Le'ah gabadhiisa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Le'ah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "gabadhiisa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna u keenay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isagii (Ya'aqob)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isagii"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu galay"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:24.781903617Z",
+  "model": "glm-5.3"
+}

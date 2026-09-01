@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo si aad u kala soocdaan ⟨dhexdooda⟩ waxa quduska ah iyo waxa caadiga ah, iyo waxa nijaaska ah iyo waxa daahirka ah,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "oo si aad u kala soocdaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨dhexdooda⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "waxa quduska ah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waxa caadiga ah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "waxa nijaaska ah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "waxa daahirka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:11.250989640Z",
+  "model": "glm-5.3"
+}

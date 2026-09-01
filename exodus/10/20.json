@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahwehna wuu adkeeyay ⟨את⟩ qalbiga Farcoon, wuuna ka direy waqti ⟨את⟩ ilmihii Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuu adkeeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga Farcoon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wuuna diiday"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "inuu direy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmihii Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:47.408704389Z",
+  "model": "glm-5.3"
+}

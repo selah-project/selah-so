@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "Wakhtigaas bay biyaha isdhaadhsan (biyo cas-aad ah) naftayada kor u gudbi lahaayeen.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Wakhtigaas"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kor u gudbi lahaayeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor u"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naftayada"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "isdhaadhsan (biyo cas-aad ah)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:09.417629968Z",
+  "model": "glm-5.3"
+}

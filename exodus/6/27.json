@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kuwaasu waa kuwa Farcoon boqorka Mitsrayim kula hadlay, si ay uga saaraan ⟨את⟩ wiilasha Israa'iil Mitsrayim; waa kan Muuse iyo Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Kuwaasu"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "waa kuwa kula hadlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "si ay uga saaraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa kan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:40.300030226Z",
+  "model": "glm-5.3"
+}

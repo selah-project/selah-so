@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yahwehna wuxuu soo degay tiirka daruurta, wuxuu taagay iridda ⟨khaymada⟩, wuxuuna u yeeray Aharon iyo Miryam, labadooduna way baxeen.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wuxuu soo degay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "tiirka"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "daruurta"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "wuxuu taagay"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨khaymada⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna u yeeray"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "iyo Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "way baxeen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadooduna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:16.544455741Z",
+  "model": "glm-5.3"
+}

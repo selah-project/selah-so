@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "wuxuuna daahirin doonaa ⟨את⟩ macbadka quduuska ah, ⟨את⟩ khaymaha kulanka iyo ⟨את⟩ altarka wuu daahiri doonaa, wuxuuna u dhaawo-gelin doonaa wadaaddada iyo dadka shirka oo dhan.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "wuxuuna daahirin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macbadka quduuska ah"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "macbadka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "khaymaha kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altarka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "wuu daahiri doonaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wuxuuna u"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "wuu dhaawo-gelin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:08.055168887Z",
+  "model": "glm-5.3"
+}

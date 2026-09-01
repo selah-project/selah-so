@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Aniguna waligay waan sheegi doonaa, waan ammaani doonaa Elohimka Yacquub.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "waan sheegi doonaa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "waligay"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waan ammaani doonaa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:31.561082560Z",
+  "model": "glm-5.3"
+}

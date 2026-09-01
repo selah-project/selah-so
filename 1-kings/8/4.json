@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxayna qaadeen ⟨את⟩ sanduuqa Yahweh iyo ⟨את⟩ khaymada kulanka, iyo ⟨את⟩ dhamaan agabka quduuska ah oo khaymada ku jira; waayadii iyo Lewiyiintii baa ⟨את⟩ waxaas u qaadeen.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Waxayna qaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khaymada kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan agabka quduuska"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "agabka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "khaymada ku jira"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "baa u qaadeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waxaas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "waayadii"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Lewiyiintii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:50.141117686Z",
+  "model": "glm-5.3"
+}

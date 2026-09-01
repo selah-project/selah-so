@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Dhaqso ii jawaabi Yahweh, ruuxaydu way dhammaatay; ha qarin wajigaaga iiga, si aanaan la mid noqon kuwa godka hoos u dhaca.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "dhaqso"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ii jawaabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "way dhammaatay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxaydu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "si aanaan la mid noqon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "u dhaca"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godka hoos"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:53.035541946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Qalabka bakhayluna waa shar; isagu talo xun buu talaali inuu baabi'iyo kuwa dhaqso leh ereyo been ah, iyo inuu diido masaakiinta xaqa.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "iyo qalabka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "shar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "talo xun"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "buu talaali"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "inuu baabi'iyo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kuwa dhaqso leh"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been ah"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "iyo inuu diido"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "masaakiinta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xaqa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:55.704010228Z",
+  "model": "glm-5.3"
+}

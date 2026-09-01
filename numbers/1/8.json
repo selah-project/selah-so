@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yissaskar ee Netanel ina Tsuar.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:19.444756089Z",
+  "model": "glm-5.3"
+}

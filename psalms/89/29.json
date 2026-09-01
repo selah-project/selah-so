@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Ilaa weligay khesedkaygii baan u ilaalin doonaa, iyo ballankaygii runta ah ilkiisuna ⟨wuu taaggi doonaa⟩.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligay"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "baan ilaalin doonaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesedkaygii"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "iyo ballankaygii"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "runta ah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ilkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.831045259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "El aan shishe ahayn ha dhex jirin adiga, El aan shishe ahaynna ha sujuudin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jirin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga dhexdana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "aan shishe ahayn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ... -nna"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sujuudin"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El (u)"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "aan shishe ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:20.431388722Z",
+  "model": "glm-5.3"
+}

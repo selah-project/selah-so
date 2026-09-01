@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Israa'iil waa la liqay; hadda waxay noqdeen kuwo shisheeyada dhexdooda ku jira, sida wax laaki aan cidina raalli ku ahayn.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "waa la liqay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay noqdeen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shisheeyada dhexdooda"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "sida wax laaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "raalli ku ahayn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jirto"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:35.184052410Z",
+  "model": "glm-5.3"
+}

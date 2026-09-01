@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Iftiin mugdiga kuwa toosan wuu ku soo baxay ⟨dheh⟩: kan deeqsi badan, kan raxiimka ah, kan saxa ah.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "wuu soo baxay"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mugdiga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "kan deeqsi badan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kan raxiimka ah"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kan saxa ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:04.967582130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Hadal sarreeya (wanaagsan) ma habboona nacasya; runtiina wax ka badan, dhinacyada beenta ma habboona hodanka (noble).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma habboona"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ma habboona (quruxsan)"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "nacasya"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "hadal (dhinac)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sarreeya\/wanaagsan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wax ka badan (runtiina)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dug"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "hodanka (noble)"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dhinacyada"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:13.302309056Z",
+  "model": "glm-5.3"
+}

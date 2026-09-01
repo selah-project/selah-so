@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ha ayay ammaan magaca Yahweh, waayo' isaga ayaa amray, oo la abuuray.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ha ayay ammaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo'"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "oo la abuuray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:39.232147548Z",
+  "model": "glm-5.3"
+}

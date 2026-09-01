@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo aasaaskuna wuxuu ahaa dhagaxyo qaali ah, dhagaxyo waaweyn, dhagaxyo toban dhegad ah iyo dhagaxyo siddeed dhegad ah.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Oo aasaaskuna"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "qaali ah"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhegad"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "iyo dhagaxyo"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "siddeed"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhegad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:30.934093360Z",
+  "model": "glm-5.3"
+}

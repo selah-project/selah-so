@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Daawudna wuu maqlay geddanka in Nabal jarayayo ⟨את⟩ adhigiisa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawudna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "geddanka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "jarayayo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigiisa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "adhigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:05.876323070Z",
+  "model": "glm-5.3"
+}

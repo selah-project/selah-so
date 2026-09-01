@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Hadda waxaa dhan u qaybi ⟨את⟩ dhulkan dhaxal ahaan sagaal qabiil iyo kala-barkii qabiilka Menashsheh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "u qaybi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "dhaxal ahaan"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "qabiil"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo kala-barkii"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashsheh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:22.227660722Z",
+  "model": "glm-5.3"
+}

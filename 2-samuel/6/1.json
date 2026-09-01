@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Dawud wuxuu kale oo ku daray ⟨את⟩ dhammaan ciidanka la doortay ee Israa'iil, saddex-iyo-toban kun.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wuxuu kale oo ku daray"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ciidanka la doortay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ciidanka la doortay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ee Israa'iil"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "saddex-iyo-toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:29.594646053Z",
+  "model": "glm-5.3"
+}

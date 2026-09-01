@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Boqorradii ciidammadu way cararaan, way cararaan, oo haweenaydii guriga ku joogsatayna way qaybisay dheeha.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorradii"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciidammadu"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "way cararaan"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "way cararaan"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "oo haweenaydii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga ku joogsatay"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "way qaybisay"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "dheeha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:32.344247585Z",
+  "model": "glm-5.3"
+}

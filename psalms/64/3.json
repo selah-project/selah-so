@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "I qari shirkii sirta ah ee kuwa sharka dhigay, iyo kabashada falayaasha xumaanta.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "I qari"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "shirkii sirta ah ee"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kuwa sharka dhigay"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "kabashada"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "falayaasha"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumaanta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:28.622290474Z",
+  "model": "glm-5.3"
+}

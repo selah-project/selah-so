@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Xusuustana mu'jizeyshiisii uu sameeyay, calaamooyinkiisii iyo xukummadiisa afkiisa.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Xusuustana"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mu'jizeyshiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "calaamooyinkiisii"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "iyo xukummadiisa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:06.158238724Z",
+  "model": "glm-5.3"
+}

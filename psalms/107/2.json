@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waxaa la odhan karaa kuwa Yahweh baa kaga badalay, kuwuu gacanta cadowga ka soo furay.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "waxaa la odhan karaa"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "kuwa la badalay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "kuwuu ka soo furay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "cadowga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:00.773967498Z",
+  "model": "glm-5.3"
+}

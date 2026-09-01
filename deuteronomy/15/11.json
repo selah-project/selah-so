@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Maxaa yeelay niyowstii weligeed kama baqbaqi doonto dhulka; sidaas darteed aniga waan ku amaraa, oo odhan: Fur si aad u furto ⟨את⟩ gacantaada walaalka, miskiinkaaga iyo niyowstaaga, dhulkaagii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "weligead"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "kama baqbaqi doonto"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "niyowstii"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ka midka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "waan ku amaraa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fur si aad u"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "furto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "walaalka"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "miskiinkaaga"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "iyo niyowstaaga"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dhulkaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:11.559553320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "(Waa markaas) wiilashayaa nuur la mid ah, aan dhalinyaranimadooda weynaaday, gabdhahayaa lahaallo la dhismeeyay qaabka qasriga.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "(markaas)"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "wiilashayaa"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "nuur la mid ah"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "aan weynaaday"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "dhalinyaranimadooda"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "gabdhahayaa"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "lahaallo la mid ah"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "la dhismeeyay (la laqeeyay)"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "qaabka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "qasriga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:14.792455956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Arfaksadna wuxuu noolaa labatan iyo toban sanad iyo shan, markuu dhashay ⟨את⟩ Shelax.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfaksadna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo toban-iyo-laban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "markuu dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelax"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:27.512985663Z",
+  "model": "glm-5.3"
+}

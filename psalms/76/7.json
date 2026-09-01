@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Malahaankaagii, Elohimii Ya'aqob, gaari-dagaaleedkii iyo faraskii waa la saq-dhaxayshay.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Malahaankaagii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "waa la saq-dhaxayshay"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "gaari-dagaaleedkii"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "iyo faraskii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:21.479412938Z",
+  "model": "glm-5.3"
+}

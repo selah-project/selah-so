@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Abraham waaga hor buu koray, wuxuuna aaday meeshii uu halkaas istaagay ⟨את⟩ wejiga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "waaga hor buu koray"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "waagii hore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wuxuuna aaday"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "uu istaagay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejiga Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:02.667147889Z",
+  "model": "glm-5.3"
+}

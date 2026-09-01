@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 29:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo Akish wuxuu jawaabay oo wuxuu ku yidhi Dawud: waan ogyahay inaad wanaagsan tahay indhahayga, sida malakhigii Elohim; laakiin saraarasha Filistiintii waxay dheheen: lama soo bixin doono naga dagaalka.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu jawaabay"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu ku yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "sida malakhigii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "saraarasha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "waxay dheheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "soo bixin doono"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:21.391321436Z",
+  "model": "glm-5.3"
+}

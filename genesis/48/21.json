@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Wuxuu yidhi Yisraaiel Yuusuf: Bal eeg, waan dhimanayaa, oo Elohim wuxuu idinla jiri doonaa, oo wuxuu ⟨את⟩ idinku celin doonaa dhulkii aabbayaashiin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraaiel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "waan dhimanayaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo wuxuu noqon doonaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "idinla jiri doonaa"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "oo wuxuu celin doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka (adiga iyo ilkahaaga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aabbayaashiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:40.975601983Z",
+  "model": "glm-5.3"
+}

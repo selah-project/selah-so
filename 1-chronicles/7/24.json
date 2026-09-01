@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Gabadhiisii Sheerahna waxay dhisatay ⟨את⟩ Beyt-Choron hoos iyo ⟨את⟩ sare, iyo ⟨את⟩ Uzzen-Sheerah.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "gabadhiisii"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheerah"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "waxay dhisatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Choron hoos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-Choron"
+    },
+    {
+      "surface": "חורון",
+      "gloss": ""
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sare"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzen-Sheerah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen-Sheerah"
+    },
+    {
+      "surface": "שארה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:03.745793160Z",
+  "model": "glm-5.3"
+}

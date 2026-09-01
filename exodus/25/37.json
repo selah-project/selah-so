@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxaad samaysaa ⟨את⟩ laampadeedda toddoba, waxaana la ololiyaa ⟨את⟩ laampadeedda, ay siisaa iftiin ka soo horjeedda wajigeeda.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laampadeedda"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laampadeedda"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "waxaana la ololiyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laampadeedda"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laampadeedda"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ay siisaa iftiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "soo horjeedda"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wajigeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:00.981104285Z",
+  "model": "glm-5.3"
+}

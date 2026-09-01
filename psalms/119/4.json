@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Adigu waad amartay farajiyadaaga in la ilaaliyo si aad u adag.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "waad amartay"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "farajiyadaaga"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "in la ilaaliyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad u adag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:52.993773675Z",
+  "model": "glm-5.3"
+}

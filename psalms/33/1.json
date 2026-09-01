@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Qaylaha ee suuban, kuwa toosan, ka gudha Yahweh; suuban buu u hoggaanowdahay ammaanka.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Qaylaha"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ee suuban"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh (kaga)"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "uu u hoggaanowdahay"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ammaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:24.520027706Z",
+  "model": "glm-5.3"
+}

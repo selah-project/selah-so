@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu dildilay badda oo wuxuu ka dhaafiyay ⟨את⟩ iyaga, wuxuuna ka dhigay biyahu inay taagan yihiin sida dheex.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "wuxuu dildilay"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "oo wuxuu ka dhaafiyay iyaga"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "wuxuuna ka dhigay inay taagan yihiin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyahu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "נד",
+      "gloss": "dheex"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.284813561Z",
+  "model": "glm-5.3"
+}

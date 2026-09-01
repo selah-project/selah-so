@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yoabna wuxuu kacay, wuxuuna tegay Geshuur, wuxuuna keenay ⟨את⟩ Absalom Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuu kacay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuuna tegay"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshuur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T03:02:03.710196063Z",
+  "model": "glm-5.3"
+}

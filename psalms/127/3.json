@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 127,
+  "translation": "Bal eeg! Wiilashiina waa dhaxal ka Y ehweh; midhaha caloosha waa abaalgud.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg!"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaxal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "abaalgud"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midho"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "caloosha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:38.422708650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Maalin lagu dhisayo debedahaada! Maal taas xaduudda waa laga fogayn doonaa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Maalin"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "lagu dhisayo"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "debedahaada"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "waa laga fogayn doonaa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "xaduudda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:02.967657501Z",
+  "model": "glm-5.3"
+}

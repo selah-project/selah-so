@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "(Idinku) waxaad neceb tihiiseen wanaaggana jecel tihiiseen xumaan; kuwa qaadaysa garkooda ⟨ee ka goynaya⟩ garkooda ka mid ah, iyo lihooda ka mid ah lafahooda.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "neceb tihiiseen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "jecel tihiiseen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "kuwa qaadaysa"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "garkooda"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "iyo lihooda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "lafahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:46.297880136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Kolkaas Elohim wuxuu kor u kacay ⟨ee⟩ ka tashi uu meesha uu ⟨את⟩ la hadlay ⟨isaga⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu kor u kacay"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ka tashi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la hadlay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la",
+      "marks": "isaga (Yacquub)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:57.120312810Z",
+  "model": "glm-5.3"
+}

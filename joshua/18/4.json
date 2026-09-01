@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Idinka doorta saddex nin qolo kastaaba, waana idin soo diraa, oo waxay kici doonaan, waxay ku socdaan dhulka, waxayna qori doonaan ⟨את⟩ si waafaqsan dhaxalkooda, markaas bay i soo noqon doonaan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "doorta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "qolo kastaaba"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "waana idin soo diraa"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "waxay kici doonaan"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "waxay ku socdaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "waxayna qori doonaan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka (waxa la qoray)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "si waafaqsan"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "dhaxalkooda"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waxay i soo noqon doonaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T02:25:13.877601575Z",
+  "model": "glm-5.3"
+}

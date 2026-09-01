@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Yahweh wuxuu doonayay in la gedo-gedo, oo la jirranjiyo; hadduu nafsii ka dhigo dambi-qalbin, wuxuu arkuri zurriyad, wuxuu waqti dheereyn; doonista Yahweh gacantiisa bay ku guuleysan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wuxuu doonayay"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "in la gedo-gedo"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "la jirranjiyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ka dhigo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dambi-qalbin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsii"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wuxuu arkuri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zurriyad"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "wuxuu waqti dheereyn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "(maalmaha)"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "doonista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa bay ku"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "guuleysan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:27.358394974Z",
+  "model": "glm-5.3"
+}

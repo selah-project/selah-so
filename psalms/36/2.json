@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Aammuu dambi-caasinka shar-geelka, dhexdeed qalbiga: ma jiro cabsi Elohim hortiisa indhihiisa.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "aammuu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "dambi-caasinka"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "shar-geelka"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdeed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "indhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:23.139013082Z",
+  "model": "glm-5.3"
+}

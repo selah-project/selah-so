@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Iyo laba silsiladood oo dahab daqiq ah; (dhinacyada) qaab la tobnay baad ka sameyn ⟨waxaas⟩, shuqul la xannibo; silsiladaha la tobnayna ku xidh goobaha.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "iyo laba"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "silsilado"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "daqiq (nadiif)"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "(dhinacyada)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "baad ka sameyn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨waxaas⟩ (iyaga)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "la xannibo (la tobnay)"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ku xidh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silsiladaha la tobnay"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "silsiladaha"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "la tobnay (la xanniban)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "goobaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:38.658479676Z",
+  "model": "glm-5.3"
+}

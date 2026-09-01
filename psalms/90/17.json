@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Oo noqdee (raaxada) Adonay Eloheennu inay nagu sugto, oo shuqulkii gacmeheenna nagu aasaan, oo shuqulkii gacmeheenna ku aasaan ⟨isaga⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oo noqdee"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "raaxada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheennu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nagu sugto"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "oo shuqulkii"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "gacmeheenna"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "nagu aasaan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "oo shuqulkii"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "gacmeheenna"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "ku aasaan isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:23.502736389Z",
+  "model": "glm-5.3"
+}

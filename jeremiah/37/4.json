@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yirmiyaahu wuxuu galayaa oo baxayaa wuxuu ahaa dadka dhexdooda, waayo kuma dhigin ⟨את⟩ daaqadda xarigga.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu galayaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "oo baxayaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waayo kuma dhigin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kuma dhigin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daaqadda xarigga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "daaqadda"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "xarigga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:16:46.316455508Z",
+  "model": "glm-5.3"
+}

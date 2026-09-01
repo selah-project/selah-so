@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Attayna wuxuu dhalay ⟨את⟩ Naataan, Naataanna wuxuu dhalay ⟨את⟩ Zabaad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attayna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naataan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naataan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Naataanna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabaad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabaad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:35.643691851Z",
+  "model": "glm-5.3"
+}

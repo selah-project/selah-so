@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo odayasha magaaladaas waxay qaadanka doonaan ⟨את⟩ ninkaas, waxayna ciqaabi doonaan ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "waxay qaadanka doonaan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninkaas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkaas"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "waxayna ciqaabi doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:34.447173796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Boqorkuna wuxuu yidhi: Dedejiya ⟨את⟩ Haamaan inuu sameeyo ⟨את⟩ hadalka Ester. Boqorkii iyo Haamaanna waxay yimaadeen waxshoreedkii ay Ester sameysay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "dedejiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haamaan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu sameeyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "iyo Haamaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elay"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "waxshoreedkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:56.643301073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wuxuuna noqday siduu noo fasiray oo kale, saas bay ahayd: ⟨את⟩ aniga wuxuu ii celiyay jagada, ⟨את⟩ asigana waa la gorgortamay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna noqday"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu... oo kale"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "fasiray"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bay ahayd"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "wuxuu ii celiyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כני",
+      "gloss": "jagada"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "asiga"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "waa la gorgortamay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:14.734943828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Si ay u gartaan bariga qorraxda iyo galibeeda, in aan jirin wax aan anigu ahayn; anigu waxaan ahay Yahweh, oo aan jirin wax kale.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Si ay u"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "gartaan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "iyo galibeeda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "aan anigu ahayn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan jirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax kale"
+    }
+  ],
+  "timestamp": "2026-09-01T03:53:43.839755668Z",
+  "model": "glm-5.3"
+}

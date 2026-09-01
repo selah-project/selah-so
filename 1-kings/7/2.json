@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuuna dhisay ⟨את⟩ Beyt Ya'ar HaLevanon (Beytkii Kaynta Lubnaan) — dhererkiisu midd saab ah, ballaciisiina midd ayay ahayd, sareykiisiina midd ayuu ahaa — af xariif oo tiirar ah oo arar ah, qoryo arar ahna ay ku yaalleen tiirarka.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt Ya'ar HaLevanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Ya'ar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "HaLevanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "midd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dhererkiisu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "midd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ballaciisiina"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "midd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sareykiisiina"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "af"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "xariif"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "oo tiirar ah"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "oo arar ah"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "qoryo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ay ku yaalleen"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:28.859981296Z",
+  "model": "glm-5.3"
+}

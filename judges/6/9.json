@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo waan ⟨את⟩ idinka soo furay gacmitta Mitsrayim iyo gacmitta dhammaan cidiidayaashiin, oo waan ka saaray ⟨את⟩ waajidiin, oo waan idin siyay ⟨את⟩ dhulkooda.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "waan idinka soo furay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "⟨את⟩ + idinka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacmitta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "iyo gacmitta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "cidiidayaashiin"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "waan ka saaray"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ waajidiin",
+      "marks": "⟨את⟩ + waajidiin"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "waajudiin horta"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "oo waan idin siyay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkooda"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:20.622248932Z",
+  "model": "glm-5.3"
+}

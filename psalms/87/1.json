@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Waxaa iska mid ah inaan Caruuri Qorax uga dhigay — majaajillo iyo hees. Aasaaskiisu wuu ku yaal buuraha qaddarka (Aasaaskiisii waa la dhigay buuraha quduuska ah).",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorax"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "majaajillo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "aasaaskiisu"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "wuu ku yaal buuraha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduuska"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:14.614897432Z",
+  "model": "glm-5.3"
+}

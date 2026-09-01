@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 123,
+  "translation": "Waxaa aad u dhergeli lahayd naftayada jees-jeeska kuwa xasilloon, iyo faladhiista kuwa isla-weyn.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Waxaa aad u"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "dhergeli lahayd"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naftayada"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "jees-jeeska"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "kuwa xasilloon"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "iyo faladhiista"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "kuwa isla-weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:37.890905494Z",
+  "model": "glm-5.3"
+}

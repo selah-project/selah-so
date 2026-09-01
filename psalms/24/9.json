@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Ka qaada madaxiinna, irirayaal, oo ka qaada albaabada weligeed ah, oo ha u soo gala boqorka ammaanka.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ka qaada"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "irirayaal"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "madaxiinna"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "oo ka qaada"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed ah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oo ha u soo gala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:49.639380680Z",
+  "model": "glm-5.3"
+}

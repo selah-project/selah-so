@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Yahweh, gacantaada la kor-saaray ma arkaan; way arkaan waxayna ka ceeboobi doonaan xasadka qaranka; saasoo kale naarta cadowgaada baa cuni doonta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "la kor-saaray"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "arkaan"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "way arkaan"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "waxayna ka ceeboobi doonaan"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "xasadka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qaranka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "saasoo kale"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "cadowgaada"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "cuni doonta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:58.038327805Z",
+  "model": "glm-5.3"
+}

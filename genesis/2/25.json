@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxay labadooduba ahaayeen ⟨ahaa⟩ qaawan, Aadam iyo naagtiisii, oo aysan wax xannibaadnin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadooduba"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "qaawan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "iyo naagtiisii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aysan"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "wax xannibaadnin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:44.884306102Z",
+  "model": "glm-5.3"
+}

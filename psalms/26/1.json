@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Wuxuu Duuggoo yahay: I garsoor Yahweh, waayo anigu daacdalladaydii ayaan ku socday, oo Yahweh ayaan kuu talaxay, ma gacan-gelin doono.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Duuggoo"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "i garsoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "daacdalladaydii"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aan ku socday"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "oo Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ayaan kuu talaxay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "gacan-gelin doono"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:35.633012836Z",
+  "model": "glm-5.3"
+}

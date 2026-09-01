@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Dhiganeysatah, iyo mid la guursaday oo la fidey, iyo mid wasakhaysan, iyo zina-falis — ⟨את⟩ kuwan wuu ka qaadi maayoo; laakiin bikro ummaddiisa ka mid ah ayuu naag qaadanayaa.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "dhiganeysatah"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "iyo mid la guursaday oo la fidey"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "iyo mid wasakhaysan"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "iyo zina-falis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maayoo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuu qaadan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bikro"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ummaddiisa ka mid ah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ayuu qaadanayaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:04.467596291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waayo, ka-reebaha toddolyada waa adag, isagaa ay ku murmi doonan ⟨את⟩ murankooda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ka-reebaha toddolyada"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "adag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagaa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ay ku murmi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murankooda"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "murankooda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ku (adiga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:53.589541937Z",
+  "model": "glm-5.3"
+}

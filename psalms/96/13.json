@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Ka hor Yahweh, waayo, wuu yimid, waayo, wuu yimid inuu xukumo ⟨את⟩ dhulka; wuxuu xukumi doonaa ⟨את⟩ tebel (adduunka) caddaalad, iyo ⟨את⟩ shacabka runtiisa.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Ka hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuu yimid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuu yimid"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "inuu xukumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "wuxuu xukumi doonaa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel (adduunka)"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "iyo shacabka"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "runtiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:43.989827593Z",
+  "model": "glm-5.3"
+}

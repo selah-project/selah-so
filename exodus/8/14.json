@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxay sameeyeen sidaas xerta-sixirka le'eg si ay u soo saaraan ⟨את⟩ kinimaha, uma suurtogelin; kinimahuna wuxuu ahaa aadamiga iyo xayawaanka.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "xerta-sixirka le'eg"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "si ay u soo saaraan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "u soo saaraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinimaha"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kinimaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suurtogelin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinimahuna"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "iyo xayawaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:57.327903623Z",
+  "model": "glm-5.3"
+}

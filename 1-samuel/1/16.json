@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ha dhigin ⟨את⟩ addoonadaada inay tahay gabadh beliyaal (gabadh shar ah); waayo, badida murankayga iyo cadhadayda ayaan ka hadlay ilaa xaalkan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dhigin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonadaada"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "addoonadaada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inay tahay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal (shar ah)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "badida"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "murankayga"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "cadhadayda"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ayaan ka hadlay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "xaalkan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:32.733970685Z",
+  "model": "glm-5.3"
+}

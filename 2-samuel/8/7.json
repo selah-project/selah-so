@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo Daa'uud wuu qaatay ⟨את⟩ gaashaanada dahabka ee ay shaqaaluhu lahaayeen Hadadezer, wuxuuna keeno-furay Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuu qaatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaashaanada dahabka"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "gaashaanada"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay lahaayeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "shaqaaluhu"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "wuxuuna keeno-furay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:46.461256488Z",
+  "model": "glm-5.3"
+}

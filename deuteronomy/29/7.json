@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waannoo qaadannay ⟨את⟩ dhulkoodii, waannoo siinnay dhaxal Rueubeeni iyo Gaadi iyo afartii qabiilada ee Manasseh.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "waannoo qaadannay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkoodii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkoodii"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "waannoo siinnay"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dhaxal"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rueubeeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "iyo Gaadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "iyo afartii"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ee Manasseh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:21.339004379Z",
+  "model": "glm-5.3"
+}

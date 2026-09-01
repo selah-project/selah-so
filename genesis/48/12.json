@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Yoosefna wuxuu ka soo bixiyay ⟨את⟩ labada lugi-dhexdadooda aabbihii, isagoo u sujuuday wejigiisa dhulka.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "wuxuu ka soo bixiyay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosefna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labada (wiilasha)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "lugi-dhexdadooda"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "aabbihii (lugahiisa)"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "u sujuuday"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "wejigiisa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:00.611560664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Waxaan ka deyay girgirka bararkiisa; gacmihiisii waa ka gudbay dhalo-dhibada.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Waxaan ka deyay"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "girgirka"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "bararkiisa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "gacmihiisii"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "dhalo-dhibada"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "waa ka gudbay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:44.536000755Z",
+  "model": "glm-5.3"
+}

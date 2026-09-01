@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Markaasaa magaaladu waxay gashay xabbis (mator) ilaa sanadka kow iyo tobankii ee boqorka Tsidqiyahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "waxay gashay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladu"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "xabbis (mator)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kow iyo toban-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ee boqorka"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidqiyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:23:13.893029511Z",
+  "model": "glm-5.3"
+}

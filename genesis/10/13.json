@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Mitsrayimna wuxuu dhalay ⟨את⟩ Ludim iyo ⟨את⟩ Anamim iyo ⟨את⟩ Lehabim iyo ⟨את⟩ Naftuujim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimna"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Naftuujim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuujim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:19.271453599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Sababtoo ah Aram, Efrrayim iyo ina Rimalyahu bay kuu qorsheen xumaan, oo leh:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "bay qorsheen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrrayim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "iyo ina"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Rimalyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:37.058583473Z",
+  "model": "glm-5.3"
+}

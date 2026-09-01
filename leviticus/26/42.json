@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waan xasuustaa ⟨את⟩ ballantaydii Ya'aqob, iyo ⟨את⟩ ballantaydii Isxaaq, iyo ⟨את⟩ ballantaydii Ibraahim waan xasuustaa, dhulkana waan xasuustaa.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "waan xasuustaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballantaydii Ya'aqob"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballantaydii"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballantaydii Isxaaq"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballantaydii"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballantaydii Ibraahim"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballantaydii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "waan xasuustaa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhulkana"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "waan xasuustaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:32.992771228Z",
+  "model": "glm-5.3"
+}

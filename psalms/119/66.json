@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Wanaagga dhammaystiran iyo garasho iigu bar; waayo, amarradaada waan rumeeyay.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "dhammaystiran (dhammaystiran iyo garasho)"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iyo garasho"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "iigu bar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "waan rumeeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:07.712356427Z",
+  "model": "glm-5.3"
+}

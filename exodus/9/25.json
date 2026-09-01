@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Baraddu wuxuu ku dhuftay dhulka Mitsrayim oo dhan ⟨את⟩ waxa beeriga ku jiray oo dhan, laga bilaabo aadanaha ilaa xoolaha; iyo ⟨את⟩ digirta beeriga oo dhan baraddu wuu dhuftay, iyo ⟨את⟩ geedaha beeriga oo dhan wuu jajabay.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuxuu dhuftay"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "baraddu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa beeriga ku jiray oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeriga ku jiray"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "laga bilaabo aadanaha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "digirta beeriga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "digirta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeriga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "baraddu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "geedaha beeriga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeriga"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wuu jajabay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:40.785927116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Heesayaashii waxay hore ugu horreeyeen, kuwa qalabka ciyaarayna waxay ka soo raaceen, dhexdoodana gabdho daadiyinayaal.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "hore bay uga horreeyeen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "heesayaal"
+    },
+    {
+      "surface": "אחר",
+      "gloss": " ka soo raacayaal"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "kuwa qalabka ciyaaraya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "gabdho dhalinyaro ah"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "daadiyinayaal"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:44.472347077Z",
+  "model": "glm-5.3"
+}

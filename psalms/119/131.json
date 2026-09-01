@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Afkaayii waan furfuray oo waan neef-qaadshay, waayo amarradaada ayaan doonaystay.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "afkaayii"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "waan furfuray"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "waan neef-qaadshay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "ayaan doonaystay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:56.781084658Z",
+  "model": "glm-5.3"
+}

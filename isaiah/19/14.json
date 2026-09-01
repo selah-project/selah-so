@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Yahweh wuu dhexdeeda daray ruux baadin, waxayna dhumiyey ⟨את⟩ Mitsrayim shaqiisi oo dhan, sidii sakhraan uu u dhumo matagiisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "wuu daray"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "baadin"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "waxayna dhumiyey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "shaqiisi"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "sidii uu u dhumo"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sakhraan"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "matagiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:34.404033498Z",
+  "model": "glm-5.3"
+}

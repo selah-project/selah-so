@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "I dhegeysta, kuwa caddaaladda raacaya, kuwa Yahweh doondoonaya: eega dhagaxa la idiinku jiray, iyo godka barkada la idiinka qoday.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "I dhegeysta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kuwa raacaya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doondoonaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "eega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "la idiinku jiray"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "godka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "barkada"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "la idiinka qoday"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:02.227989403Z",
+  "model": "glm-5.3"
+}

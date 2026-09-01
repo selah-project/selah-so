@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo kani waa amarka, xeerarka iyo xukunnada, oo Yahweh Elohiin amray in ⟨את⟩ idiin la barto, si aad u dhaqtaan ⟨את⟩ dhulka aad tagaysaan halkaas inaad haysataan.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Oo kani waa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xeerarka"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "iyo xukunnada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "in la barto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idiin (idinka)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si aad u dhaqtaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tagaysaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "inaad haysataan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:18:37.866117370Z",
+  "model": "glm-5.3"
+}

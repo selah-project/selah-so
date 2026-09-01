@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Ammaana u dhigeeya Yah, waayo Yahweh wanaagsan yahay; u qaada muusig magaciisa, waayo waa ku macaan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ammaana u dhigeeya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "u qaada muusig"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ku macaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:26.609731321Z",
+  "model": "glm-5.3"
+}

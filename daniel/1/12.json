@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Imtixaan (tijaabi) haddii aad taqaannaa ⟨את⟩ addoonkaaga maalmaha toban, oo ay noo siiyaan midho-dhirta (khudaarta) aan ku cunno, iyo biyo aan cabbno;",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Imtixaan (tijaabi)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "haddii aad taqaannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adoonkaaga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "adoonkaaga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "oo ay siiyaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "midho-dhirta (khudaarta)"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "midho-dhirta (khudaarta)"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "aan ku cunno"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "iyo biyo"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "aan cabbno"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:53.185287344Z",
+  "model": "glm-5.3"
+}

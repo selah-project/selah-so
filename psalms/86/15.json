@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Laakiin adigu, Adonay, waxaad tahay El naxariis badan oo degdeg-xumo la'aan, dheerigna cadhada, khesed iyo run uma beddelo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adigu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "naxariis badan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "deeq-badan"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerigna"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "cadhada"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "uma beddelo (badan)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo runta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.329440326Z",
+  "model": "glm-5.3"
+}

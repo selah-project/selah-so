@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Jajiir gacanta sharcu-darrada iyo xumaale; xumaantiisana doondoon, midna ha la helin.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "jajiir"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharcu-darrada"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "iyo xumaale"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "doondoon"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "xumaantiisana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "midna"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ha la helin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:51.877369858Z",
+  "model": "glm-5.3"
+}

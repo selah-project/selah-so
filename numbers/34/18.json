@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ood haddana mid madax ah — mid madax ah qolo kasta oo matto ah — ka qaadanteed inay ⟨את⟩ dhulka idinku dhaqmeeyaan.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Ood mid madax ah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "madax"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "qolo kasta oo matto ah ka"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "qaadanteed"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "inay idinku dhaqmeeyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:58:49.689981324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Illahee dhal iyo dhal, runtaada adagta; dhulka waad dhigaysay, wuuna sii taagan yahay.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "dhal iyo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dhal"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "runtaada adagta"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "waad dhigaysay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "wuuna sii taagan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:27.727450993Z",
+  "model": "glm-5.3"
+}

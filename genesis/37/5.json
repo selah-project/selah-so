@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yoosef wuxuu riyoodyay riyo, wuxuuna u sheegay walaalihiis, waxayna ku darin nebci ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "wuxuu riyoodyay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "riyo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuuna u sheegay"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "waxayna ku darin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeraad ah"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nebci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Yoosef)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:21.096520819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ka-qaado xanaaqa qalbigaag, ka-wareeji xumidda jidhkaag, carruurnimadu iyo madow-aannuhu, waa hebel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Ka-qaado"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "xanaaqa"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "qalbigaag"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ka-wareeji"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumidda"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "jidhkaag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waa"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "carruurnimadu"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "madow-aannuhu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:15.607616046Z",
+  "model": "glm-5.3"
+}

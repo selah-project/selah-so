@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Dadka oo dhanna way ogaan doonaan — Efrajim iyo degganaha Shomeroon — kuwa ku hadlay kibir iyo qalbiga weyn, oo odhan:",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "way ogaan doonaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "iyo degganaha"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "kibir"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "iyo weyn"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:47.395697744Z",
+  "model": "glm-5.3"
+}

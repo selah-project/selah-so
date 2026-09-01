@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaa kaloo kula kacay koox isku-qasan oo badan ⟨את⟩ iyaga, iyo ido iyo lo', xoolo aad u tiro badan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "waxaa kaloo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "isku-qasan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "oo badan"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kula kacay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ la",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "iyo ido"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "iyo lo'"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "xoolo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "aad u tiro badan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:57.116158827Z",
+  "model": "glm-5.3"
+}

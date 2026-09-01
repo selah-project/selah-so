@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Dhulkaad gariirisey, waad dildilloosisey — badiyo burburkeeda, waayo way dhaqaaqaysaa.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Dhulkaad gariirisey"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "waad dildilloosisey"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "badiyo"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "burburkeeda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "way dhaqaaqaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:16.436744949Z",
+  "model": "glm-5.3"
+}

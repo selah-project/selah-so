@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wanaagsan labadaba waa ⟨את⟩ kan aan weli jirin, kaasoo aan weli arkın ⟨את⟩ shuqulka xun oo la sameeyo hooska qorraxda.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "labadaba ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan aan weli jirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "weli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqulka xun"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "la sameeyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hooska"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.866738171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuu sameeyay Betsalel ⟨את⟩ sanduuqa geedaha shitiim — laba dhirir iyo bar dheerarkiisii, dhirir iyo bar ball'aciisii, iyo dhirir iyo bar sarkeedisii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuu sameeyay"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitiim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "laba dhirir"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dheerarkiisii"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhirir"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ball'aciisii"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dhirir"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo bar"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sarkeedisii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:06.602904373Z",
+  "model": "glm-5.3"
+}

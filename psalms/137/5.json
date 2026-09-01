@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Haddii aan ku ilaawiyo, Yeruushaalaymow, ha iloobaato gacantayda midig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "aan ku ilaawiyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaymow"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ha iloobaato"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "gacantayda midig"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:45.950290739Z",
+  "model": "glm-5.3"
+}

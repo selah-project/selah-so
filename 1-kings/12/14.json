@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna ka hadlay sida taliskii cururta, oo leh: Aabbahay wuxuu culaysaysay ⟨את⟩ giiggiiigiin, aniguna waan ku idnaanayaa giiggiiigiin; aabbahay wuxuu idin xukumay ⟨את⟩ qaansooyin, aniguna waan idin xukumayaa ⟨את⟩ aan ka sii daranaa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuuna ka hadlay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "la"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "sida taliskii"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "cururta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "wuxuu culaysaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giiggiiigiin"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "giiggiiigiin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "waan ku idnaanayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "giiggiiigiin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wuxuu idin xukumay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "qaansooyin"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qaansooyin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "waan idin xukumayaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "aan ka sii daranaa"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "aan ka sii daranaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:45.211760345Z",
+  "model": "glm-5.3"
+}

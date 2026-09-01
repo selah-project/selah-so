@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Dabayl bannaanka ka soo dhacaysa bay ku jajabisay doonaha Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "dabayl"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "bannaanka ka soo dhacaysa"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "bay ku jajabisay"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "doonaha"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:32.166997089Z",
+  "model": "glm-5.3"
+}

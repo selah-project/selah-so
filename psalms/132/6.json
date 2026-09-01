@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Bal waxaynu maqalnay Efrata, waxayna ka helaynay beeraha Yaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "waxaynu maqalnay"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "waxayna helaynay"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaar"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:41.987191086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Oo wuu ka tegay (wuu iska saftay) hoygii dhaqanka ahaa ee Shiilow, khadigii uu ku dhaqmi jiray dadka (bini-aadamka) dhexdood.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "wuu ka tegay"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "hoygii dhaqanka ahaa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shiilow"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khadigii"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "uu ku dhaqmi jiray"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dadka dhexdood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:50.578176630Z",
+  "model": "glm-5.3"
+}

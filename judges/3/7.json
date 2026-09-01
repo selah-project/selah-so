@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ilmihii Israa'iil waxay sameeyeen ⟨את⟩ sharka indhaha Yahweh, waxay halmaameen ⟨את⟩ Yahweh Elohimkood, waxayna caabudeen ⟨את⟩ Bacalimka iyo ⟨את⟩ Asheroothka.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "waxay halmaameen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkood"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxayna caabudeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bacalimka"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Bacalimka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "Asheroothka"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Asheroothka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:43.192399671Z",
+  "model": "glm-5.3"
+}

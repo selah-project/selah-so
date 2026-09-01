@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yacquubna wuxuu yidhi: maanta iibiso ⟨את⟩ dhashadaaga ugudbowaaday aniga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "iibiso"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhashadaaga ugudbowaaday"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "dhashadaaga ugudbowaaday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:49:47.245996293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Sharraliyuhu waaba laga waayay ilmo-galeenka; caloosha bay ka lumaan, iyagoo sheqeeya been.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "waaba laga waayay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Sharraliyuhu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ilmo-galeenka"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "bay ka lumaan"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "iyagoo sheqeeya"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:32.022185317Z",
+  "model": "glm-5.3"
+}

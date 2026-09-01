@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Ilaa goormaa, yaa Yahweh, miyaad weligaaba carrabtaaysaa? kibritaadu miyaay sidii ⟨dab⟩ u gubaysaa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "carrabtaaysaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligaaba"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "u gubaysaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kibritaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:56.741315160Z",
+  "model": "glm-5.3"
+}

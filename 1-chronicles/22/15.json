@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 22:15",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo adigana waxaa kuu jira badh in badan oo sameeyayaasha shaqada: dhagaxyo-quuraa iyo farsamoyaal dhagax iyo geed (ah); iyo kii kasta oo xariif ah kasta oo shaqada ah.",
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "oo adigana waxaa kuu jira"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in badan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "sameeyayaasha"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "dhagaxyo-quuraa"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "iyo farsamoyaal"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "iyo geed"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo kii kasta oo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xariif ah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta oo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shaqada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:35.562938494Z",
+  "model": "glm-5.3"
+}

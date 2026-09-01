@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Elohimna wuxuu Muuse ku yidhi: Anigu waxaan ahay Waxaan Ahow Waxaan Ahow. Wuxuuna yidhi: Sidaas baad ilmihii Israa'iil ku odhan doontaa: Waxaan Ahow baa ii soo diray ⟨adiga⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Waxaan Ahow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxaan Ahow (relatiif)"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Waxaan Ahow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "baad odhan doontaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Waxaan Ahow"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "baa ii soo diray"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "adiga (xaggaaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:03.841508465Z",
+  "model": "glm-5.3"
+}

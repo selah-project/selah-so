@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Wuu soo degi doonaa sidii roob ku da'aya baloolka la jaray, sidii roobabada waraabiya ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "יירד",
+      "gloss": "wuu soo degi doonaa"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "sidii roob"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גז",
+      "gloss": "baloolka la jaray"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sidii roobabada"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "waraabiya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.648261461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Tanna waa wasaxdiisa dhaqaaqka: haddii jirkiisu ka qubto ⟨את⟩ dhaqaaqkiisa, ama jirkiisu laga xiro dhaqaaqkiisa, wasaxdiisu waa taas.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Tanna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "wasaxdiisa"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "dhaqaaqka"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ka qubto"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jirkiisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaqaaqkiisa"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "dhaqaaqkiisa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "laga xiro"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jirkiisu"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "dhaqaaqkiisa"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "wasaxdiisu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa taas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:46.751291953Z",
+  "model": "glm-5.3"
+}

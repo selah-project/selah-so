@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Kuwaa way halligaan, laakiin adiga waad istaagi doontaa; oo dhammaantood sidii dhar bay daalmaan; sida maro aad ku beddesho bay ahaan doonaan, oo way beddelmi doonaan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Kuwaa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "way halligaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adiga"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "waad istaagi doontaa"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "oo dhammaantood"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sidii dhar"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "bay daalmaan"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sida maro"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "aad ku beddesho"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "way beddelmi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:36.291553430Z",
+  "model": "glm-5.3"
+}

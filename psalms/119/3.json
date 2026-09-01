@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waalay, aan falmin xaq-darro; waddooyinkiisa bay ku socdaan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Waalay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "falmin"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "xaq-darro"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "waddooyinkiisa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ku socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:52.993588859Z",
+  "model": "glm-5.3"
+}

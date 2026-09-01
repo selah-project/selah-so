@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ii sug adiggeengaaga addeecahaaga, kan cabsidaada ku dhasha.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "ii sug"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "addeecahaaga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "cabsidaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.136481789Z",
+  "model": "glm-5.3"
+}

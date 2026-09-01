@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Abraham wuxuu siiyay ⟨את⟩ wax kasta oo uu lahaa Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta oo uu lahaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu lahaa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-09-01T00:49:56.874662952Z",
+  "model": "glm-5.3"
+}

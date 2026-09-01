@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Kuwa sameeyay ⟨waa la mid yihiin⟩ iyaga; sidaasoo kale ⟨waa⟩ kulligii ku kalsoon ⟨kuwa⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "la mid yihiin iyaga"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waa yihiin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "kuwa sameeyay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulligii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa ku kalsoon"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kalsoon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:02.992617169Z",
+  "model": "glm-5.3"
+}

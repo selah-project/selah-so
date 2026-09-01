@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Azarjahna wuxuu dhalay ⟨את⟩ Serajah, Serajahna wuxuu dhalay ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjahna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Serajahna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:02.662227479Z",
+  "model": "glm-5.3"
+}

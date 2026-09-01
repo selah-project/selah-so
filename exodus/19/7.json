@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo Muuse wuxuu yimid, wuxuuna u yeelay odayaasha shacabka, wuxuuna horta ka dhigay ⟨את⟩ dhammaan ereyadan kuwan oo Yahweh uu amray.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna u yeelay"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna horta ka dhigay"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "inta horta ka ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ereyadan kuwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:15.503377659Z",
+  "model": "glm-5.3"
+}

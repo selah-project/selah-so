@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Farcoonna wuxuu yidhi: Yahweh yaa isaga, oo aan maqlo codkiisa, si loo diro ⟨את⟩ Yisraa'iil? Ma garanayo ⟨את⟩ Yahweh, Yisraa'iilna ⟨את⟩ kama dhiibi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "aan maqlo"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "si loo diro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "garanayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "…na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "dhiibi"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:28.678242848Z",
+  "model": "glm-5.3"
+}

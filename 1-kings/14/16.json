@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "wuxuuna dhiibi doonaa ⟨את⟩ Israa'iel sababtoo ah dembiyadii Yerobam, oo uu dembi galay, iyo wuxuu u galshay dembiga ⟨את⟩ Israa'iel.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhiibi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dembiyadii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "uu dembi galay"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wuxuu u galshay dembiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iel"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:17.847748624Z",
+  "model": "glm-5.3"
+}

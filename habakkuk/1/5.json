@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ega ⟨⟨dadyow⟩⟩ dawladaha, oo fiiriya, oo la yaabeenna yaab weyn; maxaaawoo shuqul shuqul ah baa lagu sameynayaa maalmiinna, aanaydaan rumayn doonin marka la warramo.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Ega"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "dawladaha"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "oo fiiriya"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "oo la yaabeenna"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "yaab weyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaaawoo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "shuqul ah"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "maalmiinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanaydaan"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "rumayn doonin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "la warramo"
+    }
+  ],
+  "timestamp": "2026-09-01T04:54:13.731421165Z",
+  "model": "glm-5.3"
+}

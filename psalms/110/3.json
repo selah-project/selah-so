@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Qoomkaagu maalanka ciidankaaga si nadaf ah bay ugu yimaadaan, dhar wanaagsan oo qadduus ah; uurka waabariga waxaa ka soo baxay roodka barbaarnimadaada.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Qoomkaagu"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "si nadaf ah bay ugu yimaadaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalanka"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ciidankaaga"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "dhar wanaagsan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadduus ah"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uurka"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "waabariga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "טל",
+      "gloss": "roodka"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "barbaarnimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.529776028Z",
+  "model": "glm-5.3"
+}

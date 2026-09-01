@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahweh, waxaad ka soo sariftay naf-ta Sheool; waxaad i noolaysay, ka hor kuwa godka ku dhaca.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "waxaad ka soo sariftay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naf-tayda"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "waxaad i noolaysay"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "kuwa ku dhaca"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:39.485712484Z",
+  "model": "glm-5.3"
+}

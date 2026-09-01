@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Xaqnimo mar walba runtuu leeyahay markhaatiyaashaadu; ii fahamsii si aan u noolaado.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "xaqnimo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "markhaatiyaashaadu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mar walba"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ii fahamsii"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "si aan u noolaado"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:16.801254552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 5:3",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Maqla, boqorradii; dhegeysta, odayda waaweyn! Anigu, anigu, waan heesayaa Yahweh; waan qaadayaa hees ammaan Yahweh, Elohimka Israaiil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "dhegeysta"
+    },
+    {
+      "surface": "רזנים",
+      "gloss": "odayda waaweyn"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan heesayaa"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "waan qaadayaa hees ammaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:11.583018630Z",
+  "model": "glm-5.3"
+}

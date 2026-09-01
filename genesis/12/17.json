@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo Yahweh wuxuu ku dhaawacay ⟨את⟩ Farcoon dhaawacyo waaweyn iyo ⟨את⟩ gurigiisa, xaggi dartii Saray, xaaska Abram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "wuxuu ku dhaawacay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farcoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "dhaawacyo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gurigiisa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "xaggi dartii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(xaggi dartii)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xaaska"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:09.920428688Z",
+  "model": "glm-5.3"
+}

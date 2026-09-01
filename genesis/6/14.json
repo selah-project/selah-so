@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Samee adiga sanduuq geedaha gofer (ah); qolal ku samee ⟨את⟩ sanduuqa, adigoona ku dhumaysa ⟨את⟩ gudaha iyo dibaddaaba koofir.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "samee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga (u)"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sanduuq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qolal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ku samee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "adigoona ku dhumaysa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa (gudaha iyo dibadda)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "iyo dibadda"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "koofir"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:39.802936112Z",
+  "model": "glm-5.3"
+}

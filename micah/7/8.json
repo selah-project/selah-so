@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha igu faraxdin, cadowgay; waayo waan dhacay, waana soo kacay; waayo haddaan mugdi ku fadhiyo, Yahweh waa iftiin iigu ah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha...in"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "faraxdin"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "cadowgay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "waan dhacay"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "waana soo kacay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "fadhiyo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mugdi (ku)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:37.467509123Z",
+  "model": "glm-5.3"
+}

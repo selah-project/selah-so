@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Saas ayaa yidhi Yahweh, kan badda gacanta ku siiya wadada, iyo biyaha adag jidka.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "saas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "kan ... ku siiya"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda gacanta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wadada"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "iyo biyaha"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "adag"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:08.267656530Z",
+  "model": "glm-5.3"
+}

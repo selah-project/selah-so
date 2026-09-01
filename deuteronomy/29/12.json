@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "si uu ⟨את⟩ adiga maanta ugu dhiso isaga dad ahaan, oo isagu adiga kuu noqonayo Elohim ahaan, siduu kuu sheegay, iyo siduu ku dhaartay aabayaashaa — Ibraahim, Isxaaq iyo Yacquub.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "uu ugu dhiso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga (waxa la dhisayo)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dad ahaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo isagu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuu noqonayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim ahaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuu sheegay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "iyo siduu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ku dhaartay"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aabayaashaa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "iyo Yacquub"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:22.205266395Z",
+  "model": "glm-5.3"
+}

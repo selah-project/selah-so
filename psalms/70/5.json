@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 70,
+  "translation": "Ha farxeen oo ha soo dhaweeyeen adiga kuwa kuu doonaya oo dhan, oo ha odhaan daaimka ah ha weynaado Elohim kuwa jecel badbaadadaada.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ha farxeen"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "oo ha soo dhaweeyeen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kuwa kuu doonaya"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "oo ha odhaan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daaimka ah"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ha weynaado"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "kuwa jecel"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "badbaadadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:06.023134703Z",
+  "model": "glm-5.3"
+}

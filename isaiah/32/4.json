@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Oo wadnaha kuwa degdegta badan waxay fahmi doonaan aqoon, carrabka kuwa hadalka khaldana wuu degdeggi doonaa inuu si cad uga hadlo.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "wadnaha"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "kuwa degdegta badan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "waxay fahmi doonaan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "kuwa hadalka khaldan"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "wuu degdeggi doonaa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inuu ka hadlo"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "si cad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:57.313494070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha ka cabsanina, xusuusnow si aad u xusuusato ⟨את⟩ waxa Yahweh Elohimkaaga uu sameeyay Farcoonka iyo Mitsrayim oo dhan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka cabsanina"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuusnow"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "si aad u xusuusato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa uu sameeyay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farcoonka"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:05.751065624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Ha qarin wajigaaga iiga bishaar maalintaan dhib ku jihho; u jiidi dhegtii maalintaan ku yeedho, degdeg iga jawaabi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku jihho"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "u jiidi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אזנק",
+      "gloss": "dhegtii"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ku yeedho"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "iga jawaabi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:28.684565719Z",
+  "model": "glm-5.3"
+}

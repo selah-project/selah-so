@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahwehna wuxuu mallaigi dheereeyay codkii, isaguna wuxuu tuuray ⟨את⟩ Yoonis dhulka engegan cogga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "mallaigi dheereeyay"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "wuxuu tuuray (matay)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonis"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cogga"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dhulka engegan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:25.636859706Z",
+  "model": "glm-5.3"
+}

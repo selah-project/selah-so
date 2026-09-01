@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Wuxuuna badbaadin gacanta ciddii necebeyd, wuxuuna furay gacanta cadowga.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "wuxuuna badbaadin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ciddii necebeyd"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "wuxuuna furay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:22.178607233Z",
+  "model": "glm-5.3"
+}

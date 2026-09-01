@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Kadib markaas Laywiyiintay waxay iman doonaan inay adeegaan ⟨את⟩ Khaymda Kulanka, adigana waad daahirin doontaa ⟨את⟩ iyaga, waadna dhaqaaqin doontaa ⟨את⟩ iyaga dhaqaaqin (tenuphah) ahaan.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Kadib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "markaas"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "waxay iman doonaan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laywiyiintay"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "inay adeegaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khaymda Kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "waad daahirin doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "waadna dhaqaaqin doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dhaqaaqin (tenuphah) ahaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:35.147547503Z",
+  "model": "glm-5.3"
+}

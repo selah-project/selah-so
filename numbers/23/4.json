@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Elohimi baa Bilam kula kulmay, isagoon u sheegin: ⟨את⟩ toddobadihii meel-allabariga waan hagay, dibi iyo wanarna waan meel-allabariga kor u qaaday.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "kula kulmay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu u sheegay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toddobadihii meel-allabariga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddobadihii"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "meel-allabariga"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "waan hagay"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "waan kor u qaaday"
+    },
+    {
+      "surface": "פר",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "iyo wanar"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "meel-allabariga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:22.505526529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Adigana waqtigaas ku qiimo dhig oo xidhmo ciidan sida ciidankii kaa tegay, fardo fardo iyo gaari gaari dhan, oo aan ku dagaallagno ⟨את⟩ barxadda — ma anaga baa ka adag nga ma aha? Markaasuu codkoodii maqlay oo sidaas sameeyay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "ku qiimo dhig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "sida ciidankii"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ka tegay"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ kaaga"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "iyo faras"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sida faraskii"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "iyo gaari-dagaalled"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "sida gaarigii"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "oo aan ku dagaallagno"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "barxadda"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ka adag"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka (iyaga)"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "markaasuu maqlay"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "codkoodii"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "oo uu sameeyay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:58.477015445Z",
+  "model": "glm-5.3"
+}

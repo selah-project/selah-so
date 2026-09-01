@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Markay yimaadeenna, wuxuu arkay ⟨את⟩ Eliyaab, wuxuuna yidhi: hubaal Yahweh hortii waa Masiixiisa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "yimaadeenna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyaab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyaab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiixiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:27.161348739Z",
+  "model": "glm-5.3"
+}

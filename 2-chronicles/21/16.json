@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Yahwehna wuxuu Yehooram ku kicisay ⟨את⟩ ruuxa Falastiintiinta iyo Carabta kuwaas oo ag yaalla Kuushiyiinta.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "wuxuu ku kicisay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehooram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxa Falastiintiinta iyo Carabta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Falastiintiinta"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "iyo Carabta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ag yaalla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ag"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kuushiyiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:42:21.334349468Z",
+  "model": "glm-5.3"
+}

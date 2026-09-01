@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Baraqna wuu u dhawaaqay ⟨את⟩ Sebulun iyo ⟨את⟩ Naftali Qedesh, wuxuuna kor u kacday cagahiisa — toban kun oo nin; Deborahna waxay la kacday.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "wuxuuna u dhawaaqay"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna kor u kacday"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "cagahiisa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oo nin"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "waxayna la kacday"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Deborah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:02.163216222Z",
+  "model": "glm-5.3"
+}

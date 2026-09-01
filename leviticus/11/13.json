@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo kuwan shimbiraha ka mid ah waad karahiyeysaan, laguma cuni karo — karahi bay yihiin: ⟨את⟩ ha-Nesher (qaaradda weyn) iyo ⟨את⟩ ha-Peres iyo ⟨את⟩ ha-Azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "waa karahiyeysaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "laguma cuni karo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "karahi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bay yihiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Nesher"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ha-Nesher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ha-Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ha-Azniyah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:09.175745297Z",
+  "model": "glm-5.3"
+}

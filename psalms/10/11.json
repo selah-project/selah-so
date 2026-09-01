@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu qalbigiisa ku yidhi, El wuu ilaobay, wuu qarinayaa wijiisa, weligiis ma arkaa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisa"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "wuu ilaobay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "wuu qarinayaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wijiisa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "weligiis ma"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arkaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:20.561119182Z",
+  "model": "glm-5.3"
+}

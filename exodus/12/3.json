@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ka hadla oo dhan jamciyadda Israa'iil, annagoo leh: Tobanaad ⟨maalinta⟩ bishan qof kasta wuxuu u qaadanayaa seh ehel-guri aabbayaal — seh guri kasta.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Ka hadla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo dhan (u)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamciyadda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "annagoo leh"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Tobanaad ⟨maalinta⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bishan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bishan"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wuxuu u qaadanayaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof kasta"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ehel-guri"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "aabbayaal"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guri kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:18.889654189Z",
+  "model": "glm-5.3"
+}

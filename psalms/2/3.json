@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Aannu goynno ⟨את⟩ xeryahiisa, oo aannu ka tuurno xargahiisa.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Aannu goynno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeryahiisa"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "xeryahiisa"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "oo aannu ka tuurno"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "xargahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:20.471525857Z",
+  "model": "glm-5.3"
+}

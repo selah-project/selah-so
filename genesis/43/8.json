@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Yahuudahna wuxuu yidhi Yishraayel aabbihiis: Dir ilmaha ⟨את⟩ aniga la, oo aan kicino oo aan tagno, aan na noolaanno oon dhimaynin — annagana, adigana, ilmahayagana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yishraayel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "dir"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aniga la",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "aan kicino"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "aan tagno"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "aan na noolaanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oon"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dhimaynin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "annagana"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annaga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "il mahayagana"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "ilmahayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:24.005847255Z",
+  "model": "glm-5.3"
+}

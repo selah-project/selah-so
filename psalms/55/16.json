@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Burbur ha ku dhaco, Sheool ha ka soo dejiyaan nool; waayo, shar baa degganka ka jira, dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ha ku dhaco"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ha ka soo dejiyaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "shar"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "degganka"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:58.656557617Z",
+  "model": "glm-5.3"
+}

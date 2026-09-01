@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sii qayb toddobo, xatta sidii kale sideed, maadaama aadan garan waxa shar ah dhulka ku dhici doona.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Sii"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qayb"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "toddobo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "xatta sidii kale"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "sideed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "aad garan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhici doona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:48.202139975Z",
+  "model": "glm-5.3"
+}

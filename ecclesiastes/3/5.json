@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtiga loo taalayo in lagu tuuro dhagaxyada, iyo waqtiga loo taalayo in lagu waraabiyo dhagaxyada; waqtiga loo taalayo in lagu gudo-maarmo, iyo waqtiga loo taalayo in laga fogaado gudo-maarista.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "in lagu tuuro"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "in lagu waraabiyo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "in lagu gudo-maarmo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "in laga fogaado"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "gudo-maarista"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:16.675759284Z",
+  "model": "glm-5.3"
+}

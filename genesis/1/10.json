@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohim wuxuu u bixiyay ⟨את⟩ barwaaqada dhul, iyo meesha biyuhu ku aruursan yihiin wuxuu ku bixiyay badda; Elohimna wuxuu arkay inay wanaagsan tahay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u bixiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "barwaaqada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "iyo meesha biyuhu ku aruursan yihiin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wuxuu ku bixiyay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:13.939740597Z",
+  "model": "glm-5.3"
+}

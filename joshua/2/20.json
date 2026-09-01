@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo haddii aad sheegto ⟨את⟩ hadalkannoo, waannu ka bannahaynaa dhaartii aad naogu dhaartay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "aad sheegto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkannoo"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "hadalkannoo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "waannu noqonaynaa"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "banno (dhaqan la'aan)"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "dhaartii ka bannahaynaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "noogu dhaartay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:02:15.961327001Z",
+  "model": "glm-5.3"
+}

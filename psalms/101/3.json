@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Waxaan hor mari eiyo ⟨wax aan tarayn⟩ (beliyaal); camalka fasaadiyayaasha waan necebahay; iga ma dhaqaaqi doono.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "waxaan hor mari"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eiyo (hor)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "eiyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wax"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "aan tarayn (beliyaal)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "camalka"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "fasaadiyayaasha"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "waan necebahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "dhaqaaqi doono"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:38.482562085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Elohimna wuxuu furay ⟨את⟩ indhahaheedii, waxayna arkay biyo il, waxayna tagtay, waxayna buxsisay ⟨את⟩ dhalada biyo, waxayna siisay cabitaan ⟨את⟩ ilmaha.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "wuxuu furay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhahaheedii"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "indhahaheedii"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "waxayna arkay"
+    },
+    {
+      "surface": "באר",
+      "gloss": "il"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "waxayna tagtay"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "waxayna buxsisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhalada"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dhalada"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "waxayna siisay cabitaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:27.421374096Z",
+  "model": "glm-5.3"
+}

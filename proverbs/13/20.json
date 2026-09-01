@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ku socda ⟨את⟩ xigmadleyda aad xigmad ledoqaan; laakiin saaxiibkii nacam-yahayaasha dhib baa ku dhici doonaa.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ku socda (aad socoto)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xigmadleyda"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "xigmadleyda"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "aad xigmad ledoqaan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "laakiin saaxiibkii (cayilka)"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nacam-yahayaasha (kishiilada)"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "dhib baa ku dhici doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.279784525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Nin xariif ah waa adkaansho, iyo nin aqoon leh wuu xoojiyaa xoogga.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xariif ah"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "waa adkaansho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoon leh"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "wuu xoojiyaa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xoogga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:10.376278697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wadaadduna wuxuu siiyay sagiyadii boqolaad ⟨את⟩ warankii iyo ⟨את⟩ gaashaandhigyadii oo boqor Dawid ahaa, kuwii ahaa gurigii Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadduna"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sagiyadii"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "boqolaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warankii"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "warankii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gaashaandhigyadii"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "gaashaandhigyadii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwii ahaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:18.229709001Z",
+  "model": "glm-5.3"
+}

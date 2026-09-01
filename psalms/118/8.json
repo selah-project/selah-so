@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Wanaagsan tahay in la dhowrsado Yahweh xaggooda, kana la ficilo adamiga.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "in la dhowrsado"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh xaggooda"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ka la ficilo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "adamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:24.064749436Z",
+  "model": "glm-5.3"
+}

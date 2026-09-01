@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Yahuudah waxay noqotay ⟨qoladiisa⟩ qudduuskiisii, Israa'iil booskiisii booska xoogga leh.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "qudduuskiisii noqotay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "booskiisii booska xoogga leh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:01.814951080Z",
+  "model": "glm-5.3"
+}

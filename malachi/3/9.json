@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Habaar baa idinku taal, idinkuna ⟨את⟩ iiga dhimaysaan — qaranka oo dhan.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "habaar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "laydin taal"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ iiga",
+      "marks": "aniga (iiga dhimaysaan)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinkuna"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "dhimaysaan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "qaranka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:34.046439517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan sameeyay anigaba harooyin biyo ah, si loogu waraabbiyo ka mid ah kayga geedaha oo soo baxa.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "waxaan sameeyay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anigaba"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "harooyin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo ah"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "si loogu waraabbiyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kayga"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "oo soo baxa"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "geedaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:56.134691369Z",
+  "model": "glm-5.3"
+}

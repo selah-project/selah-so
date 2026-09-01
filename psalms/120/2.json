@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Yahweh, nafdayada ii badbaadiyeen carabka beenaanta ah, iyo carrabka khiyaanada ah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ii badbaadiyeen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayada"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "carabka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenaanta ah"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaanada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:15.186000922Z",
+  "model": "glm-5.3"
+}

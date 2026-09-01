@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waaan babaa'ay sida riyo luntay; addoonkaaga raadi, waayo, amarradaada ma illoobay.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "waan babaa'ay"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "sida riyo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "luntay"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "raadi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "illoobay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:19.070737377Z",
+  "model": "glm-5.3"
+}

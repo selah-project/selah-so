@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuuna diray ⟨את⟩ naartiii Wiilasha Israa'iil, waxayna kor u qaadeen allabbari, waxayna xilleeyay xilleyo nabad-gelyo oo ah lo'da Yahweh u ah.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuuna diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naartiii Wiilasha Israa'iil"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "naartiii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "waxayna kor u qaadeen"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "allabbari"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "waxayna xilleeyay"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "xilleyo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nabad-gelyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "lo'da"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:03.946498705Z",
+  "model": "glm-5.3"
+}

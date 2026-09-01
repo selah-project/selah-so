@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Hadda kaca oo idinku dhaafaaca ⟨את⟩ webiga Zered; markaas waxaan dhaafannay ⟨את⟩ webiga Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kaca"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "oo dhaafaaca"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "webiga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "markaas waxaan dhaafannay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "webiga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:50.359669707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaa Shaa'uul u diray rasuullo Yishay, wuxuuna yidhi: Ii dir ⟨את⟩ Dawiid wiilkaaga, kan adigoo leh laanteenna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "waxaa u diray"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "rasuullo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ii dir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawiid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "laanteenna (adhihii)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:28.467303291Z",
+  "model": "glm-5.3"
+}

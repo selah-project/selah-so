@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waa inaad jajabisay ⟨את⟩ xiradda cuntuustiisa iyo ⟨את⟩ ulda cunutiisa, ulda kan xoog-gu dhintay, sida maalinta Midiyaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xiradda cuntuustiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "xiradda"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "cuntuustiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ulda cunutiisa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ulda"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "cunutiisa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ulda"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "kan xoog-gu dhintay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "—"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "jajabisay"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sida maalinta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:27.711246387Z",
+  "model": "glm-5.3"
+}

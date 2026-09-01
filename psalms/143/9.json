@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "I na siifi cadowdayda, Yahweh; adiga ayaan ku maqaaray.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "i na siifi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "aan ku maqaaray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.721847582Z",
+  "model": "glm-5.3"
+}

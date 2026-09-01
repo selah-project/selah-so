@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "I gargaar dhiigga (dambi dhiigga) xaggiyow Elohim, Elohim badbaadaydahay, oo carrabkaygu wuu ammaani doonaa xaqnimadaada.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "i gargaar (ii badbaadi)"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "dhiigga (dambi dhiigga)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "badbaadaydahay"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "wuu ammaani doonaa (wuu qayli doonaa farxad)"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "carrabkaygu"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "xaqnimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:40.865046023Z",
+  "model": "glm-5.3"
+}

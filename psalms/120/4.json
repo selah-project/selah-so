@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Wararka qoryaha geeska ah, oo wata dhibcooda dab-dheeraadka ah ee geedaha retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Wararka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "qoryaha ah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo wata"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "dhibcooda dab-dheeraadka ah"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "geedaha retama"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:15.186352114Z",
+  "model": "glm-5.3"
+}

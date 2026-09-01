@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu kunooloociyay ⟨את⟩ qoomkiisa aad u badan, wuuna ka adkaadiyay cadowadiisii.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "wuxuu kunooloociyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoomkiisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoomkiisa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "wuuna ka adkaadiyay"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "cadowadiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:08.400460694Z",
+  "model": "glm-5.3"
+}

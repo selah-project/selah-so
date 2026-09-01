@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Magaca webiga labaadna waa Gichon; kaasoo wareegaya ⟨את⟩ dhulka Kush oo dhan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "wareegaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Kush oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:58.353349277Z",
+  "model": "glm-5.3"
+}

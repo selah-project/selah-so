@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo anigaba waan neceb qabay ⟨את⟩ dhammaan camalkaygii aan ku daalanayay hoos qoraxda, inaan ka tegi doono cid kasta oo i horreeyso ka dib.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "waan neceb qabay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan camalkaygii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "camalkaygii"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ku daalanayay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ka tegi doono"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "cid kasta oo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "i horreeyso ka dib"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:59.500516527Z",
+  "model": "glm-5.3"
+}

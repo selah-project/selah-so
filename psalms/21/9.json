@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Gacantaadu way heli doontaa cadowadaaga oo dhan, xaggaaga midiguna wuu heli doonaa kuwa neceb yahay.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "way heli doontaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Gacantaadu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowadaaga"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "xaggaaga midiguna"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "wuu heli doonaa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "kuwa neceb yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:50.023070523Z",
+  "model": "glm-5.3"
+}

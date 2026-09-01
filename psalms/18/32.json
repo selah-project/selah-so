@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waayo yaa Eloah Yahweh ala marin, iyo yaa dhagax ma aha oo aan aheyn Elohimay?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ala marin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "iyo yaa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ma aha oo aan aheyn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:12.879829641Z",
+  "model": "glm-5.3"
+}

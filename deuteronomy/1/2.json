@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Toban iyo hal maalmood ayay ahayd socodka laga bilaabo Xoreb, waqoonnada buurta Se'iir, ilaa Qades-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "hal"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "laga bilaabo Xoreb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waqoonnada socodka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qades-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:13.878217570Z",
+  "model": "glm-5.3"
+}

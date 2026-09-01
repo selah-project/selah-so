@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Dawudna wuxuu diray toban wiil-dhalinyaro, Dawudna wuxuu wiil-dhalinyarada ku yidhi: Soo kaca Karmel, oo Nabaal ka gala, oo magacayga ku weydiiya nabad.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "wiil-dhalinyaro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "wiil-dhalinyarada"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "soo kaca"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ו באתם",
+      "gloss": "gala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "weydiiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:43.968453221Z",
+  "model": "glm-5.3"
+}

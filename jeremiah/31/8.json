@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Bal eeg, anigoo keenaya ⟨את⟩ iyaga dhulka woqooyi, oo aan soo aruuriyo dhulka geesaha fog; waxaa ka mid ah indho-la'aan iyo lugla', uurka leh iyo umulaysa wada dheel; koox weyn bay halkan ku soo noqon doonaan.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bal eeg, aniga"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "anigoo keenaya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga — kuwa la soo keenayo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "woqooyi"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "oo aan soo aruuriyo"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "geesaha fog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "waxaa ka mid ah"
+    },
+    {
+      "surface": "עור",
+      "gloss": "indho-la'aan"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "iyo lugla'"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "uurka leh"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "iyo umulaysa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada dheel"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "koox"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bay ku soo noqon doonaan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:13:36.988744492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Hadalka beena ka fogow, oo nabad iyo xaq nimada ha dillin, waayo, shar-geeleya ma aan cadaalin.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beena"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ka fogow"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "nabadda"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "xaq nimada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "dillin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "aan cadaalin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-geeleya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:43.244523581Z",
+  "model": "glm-5.3"
+}

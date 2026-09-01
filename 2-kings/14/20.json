@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxay siiseen ⟨את⟩ ⟨isaga⟩ fardaha kor, wuuna lagu aasay Yeruushaalaym ⟨la⟩ aabbayaashiis, magaaladii Daawud.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "waxay siiseen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "fardaha"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wuuna lagu aasay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaaladii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:18.655362473Z",
+  "model": "glm-5.3"
+}

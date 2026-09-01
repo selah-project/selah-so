@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo haddii qof sanooyin badan noolaado, dhammaanteed ha ku farxo, oo ha xusuustana ⟨את⟩ maalmaha gudcurka, maxaa yeelay badan bay ahaan doonaan; wixii imanaba waa hevel (barbaar aan waxba tarin).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sanooyin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badan"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "noolaado"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "qof"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "dhammaanteed"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ha ku farxo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ha xusuustana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalmaha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "gudcurka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ay ahaan doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wixii"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "imanaba"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (barbaar aan waxba tarin)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:54.950845276Z",
+  "model": "glm-5.3"
+}

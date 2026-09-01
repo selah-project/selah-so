@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wax kastaas keliya way weli denbiyiin, laakiin aajibaadkiisa uma rumeeyin.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wax ... dhan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kastaas"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "way denbiyiin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ... uma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "rumeeyin"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "aajibaadkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:49.196200411Z",
+  "model": "glm-5.3"
+}

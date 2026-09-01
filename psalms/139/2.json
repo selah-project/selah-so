@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Adigu waad ogtahay fadhiistaydii iyo soo-kacaydii; waad kala-soocaysaa fikirraddayda meel fog.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad ogtahay"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "fadhiistaydii"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "iyo soo-kacaydii"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "waad kala-soocaysaa"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "fikirraddayda"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "meel fog"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:23.704091633Z",
+  "model": "glm-5.3"
+}

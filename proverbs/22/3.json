@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Cid gar-qorsheysan waa aragtaa xumidda oo qarsataa; jaahiliintu way sii socdaan oo ciqaab qaataan.",
+  "tokens": [
+    {
+      "surface": "עָרוּם",
+      "gloss": "cid gar-qorsheysan"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "waa aragtaa"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "xumidda"
+    },
+    {
+      "surface": "וַיִּסְתָּר",
+      "gloss": "oo qarsataa"
+    },
+    {
+      "surface": "וּפְתָאיִם",
+      "gloss": "jaahiliintu"
+    },
+    {
+      "surface": "עָבְרוּ",
+      "gloss": "way sii socdaan"
+    },
+    {
+      "surface": "וְנֶעֱנָשׁוּ",
+      "gloss": "oo ciqaab qaataan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:44.872441856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Anigu nabad baan ahay, laakiin markaan hadlo, iyagu dagaal bay u diyaar yihiin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "laakiin markaan"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "hadlo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaal bay u diyaar yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:11.698352514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuu yidhi Yahweh Muuse: U tag dadka, oo maanta iyo berri u quduusi, oo ha dhaqaan dhararooda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u tag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "u quduusi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "iyo berri"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ha dhaqaan"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "dhararooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:57.181824983Z",
+  "model": "glm-5.3"
+}

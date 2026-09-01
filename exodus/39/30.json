@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxayna sameeyeen ⟨את⟩ baaldigii khuddunka quduska ah — dahab nadiif — waxayna ka qoreen korkiisa qorista faro-goynta seal-ka: \"Qudus oo Yahweh u ah.\"",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaldigii"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "baaldigii"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "khuddunka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduska ah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadiif"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "waxayna ka qoreen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "qorista"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "faro-goynta"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "seal-ka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qudus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:42.724439382Z",
+  "model": "glm-5.3"
+}

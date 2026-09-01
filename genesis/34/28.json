@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "⟨את⟩ Adhigooda iyo ⟨את⟩ lo'dooda iyo ⟨את⟩ dameerrahooda iyo ⟨את⟩ waxa magaalada ku yaal iyo ⟨את⟩ waxa beeraha ku yaal waxay qaadatay.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adhigooda"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Adhigooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lo'dooda"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "lo'dooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dameerrahooda"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dameerrahooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waxa magaalada ku yaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada ku yaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waxa beeraha ku yaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeraha ku yaal"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "waxay qaadatay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:39.878812628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ma ahaanine tanba adiga ku dhacaysa, adigoo ka tagay ⟨את⟩ Yahweh Elohimkaagoo wakhtiga uu kuu hoggaaminayay jidka?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma ahaanine"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tanba"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ku dhacaysa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "adigoo ka tagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagoo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakhtiga"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "uu kuu hoggaaminayay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:44.664867888Z",
+  "model": "glm-5.3"
+}

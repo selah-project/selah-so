@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxa jiray horey wuu ahaa, oo waxa noqon doona horey buu ahaa; oo Elohim wuu doondondolaa ⟨את⟩ waxa la raacay.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Waxa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jiray"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "horey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oo waxa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "noqon doona"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "horey"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buu ahaa"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "oo Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "wuu doondondolaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la raacay"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "waxa la raacay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.852966595Z",
+  "model": "glm-5.3"
+}

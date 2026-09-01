@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Markaasuu boqorkii yidhi: Adigu waad dhimanaysaa hubaal, Akhimelekhow, adiga iyo gurigii aabahaaba oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Markaasuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimasho"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "waad dhimanaysaa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekhow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaaba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:55.619133793Z",
+  "model": "glm-5.3"
+}

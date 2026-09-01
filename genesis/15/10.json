@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuuna isaga u qaatay ⟨את⟩ waxyaabahan oo dhan, wuxuuna ⟨את⟩ dhex-jeexay dhexdooda, wuxuuna dhigay qeyb kasta oo ka soo horjeedda qeybta kale, ⟨את⟩ shimbirahana ma uusan jeexin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxyaabahan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxyaabahan"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "wuxuuna dhex-jeexay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhexdooda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qeyb kasta"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "qeybta"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ka soo horjeedda"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkeeda (qeybta kale)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shimbiraha"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "uusan jeexin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:08.474965327Z",
+  "model": "glm-5.3"
+}

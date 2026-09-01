@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Gurigu wuxuu leeyahay maal badan ⟨⟨kan⟩⟩ shaqiliga ah, laakiin dakhliga shar-yeelasha waa la khaldan yahay.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "gurigu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "shaqiliga ah"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "maal"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "laakiin dakhliga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-yeelasha"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "waa la khaldan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:20.641202959Z",
+  "model": "glm-5.3"
+}

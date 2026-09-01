@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo ilaaliya inaad sameysaan ⟨את⟩ dhammaan sharcigyada iyo ⟨את⟩ xukunka aan maanta idinka hortiisinayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Oo ilaaliya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inaad sameysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan sharcigyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sharcigyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunka"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hortiisinayo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "idinka hortiisa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:34.454082286Z",
+  "model": "glm-5.3"
+}

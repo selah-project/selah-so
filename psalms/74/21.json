@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Ha unoqon la-qallalsan mid is-qariyay; cidiiduhu iyo baahuhu ha ammaanaan Magacaaga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "u-noqon"
+    },
+    {
+      "surface": "דך",
+      "gloss": "la-qallalsan"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "is-qariyay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cidiiduhu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo baahuhu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ha ammaanaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:31.391824243Z",
+  "model": "glm-5.3"
+}

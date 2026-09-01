@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Yahweh, ha aan ceeboobin, waayo waan ku dhawaaqay; ha ceeboobaan kuwa sharta ah, oo ha aamusanna ilaa ⟨את⟩ Sheool.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha aan"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ceeboobin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "waan ku dhawaaqay"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ha ceeboobaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kuwa sharta ah"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ha aamusanna"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ilaa Sheool"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:40.323555574Z",
+  "model": "glm-5.3"
+}

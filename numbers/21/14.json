@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Sidaas darteed waxaa lagu yidhi Kitaabka Dagaallada Yahweh: Vaheb ee Suphah iyo ⟨את⟩ godobaha Arnon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "waxaa lagu yidhi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "Kitaabka"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "Dagaallada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vaheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "ee Suphah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "godobaha Arnon"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "godobaha"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:58.953941090Z",
+  "model": "glm-5.3"
+}

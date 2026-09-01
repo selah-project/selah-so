@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Ma waxaas darteed baqaysaa, Yahweh? Ma aamusaysaa oo na dhibaysaysaa si aad u badan?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Ma waxaas darteed"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "baqaysaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "aamusaysaa"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "na dhibaysaysaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:59:18.192683358Z",
+  "model": "glm-5.3"
+}

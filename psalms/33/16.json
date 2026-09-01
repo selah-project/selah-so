@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Boqorka ciidan badani kuma badbaadayo, geesinimuna bad kaalmeys badan laguma badbaadin.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "kuma badbaadayo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesinimuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "laguma badbaadin"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bad kaalmeys"
+    },
+    {
+      "surface": "כח",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:58.599345641Z",
+  "model": "glm-5.3"
+}

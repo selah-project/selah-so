@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Markaasaa indhaha indhooleysan waa la furfuriyaa, dhegaha degganana waa la furaa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaasaa"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "waa la furfuriyaa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "indhooleysan"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dhegaha"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "waa la furaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:53.391363098Z",
+  "model": "glm-5.3"
+}

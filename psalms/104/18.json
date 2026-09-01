@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Buuraha sarreeya waa lo'da duurka; dhagaxyada qarsoonna waa magangalada dagaga-yar.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "sarreeya"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "lo'da duurka"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "dhagaxyada qarsoon"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "magangalada"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "dagaga-yar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:21.659846495Z",
+  "model": "glm-5.3"
+}

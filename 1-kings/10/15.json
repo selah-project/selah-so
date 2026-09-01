@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "waxaa ka soo baxsan ganacsatada socdaalka iyo ganacsigii dukaamyada, iyo boqorradii Carabta dhammaan, iyo gudoomiyadii dhulka.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "waxaa ka soo baxsan"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "ganacsatada"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "socdaalka"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "iyo ganacsigii"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "dukaamyada"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Carabta"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "iyo gudoomiyadii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:22.876454178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Iyo ⟨את⟩ Chiilen iyo ⟨את⟩ merasheeda, ⟨את⟩ Debir iyo ⟨את⟩ merasheeda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chiilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chiilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "merasheeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "merasheeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "merasheeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "merasheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:21.322597013Z",
+  "model": "glm-5.3"
+}

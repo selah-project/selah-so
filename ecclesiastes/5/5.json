@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ha siin afkaaga inuu dembi galinyo ⟨את⟩ jidhkaaga, oo ha odhan malaa'igta hortiisa «waa qalad»; maxayse Elohim u cadhoodaa codkaaga, oo uu baabbi'inayaa ⟨את⟩ shuqulkii gacmahaaga?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkaaga"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "inuu dembi galinyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhkaaga"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jidhkaaga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "odhin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaa'igta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waa"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "qalad"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxayse"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "u cadhoodaa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "codkaaga"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "oo uu baabbi'inayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqulkii gacmahaaga"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:20.685951410Z",
+  "model": "glm-5.3"
+}

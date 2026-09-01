@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Halitaan carrabkaagu wuu qorsheeyaa; sidii mariin la jaray, ⟨adigoo⟩ khiyaano sameeya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "halitaan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "wuu qorsheeyaa"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "carrabkaagu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "sidii mariin"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "la jaray (la dhalaaliyay)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:38.701276361Z",
+  "model": "glm-5.3"
+}

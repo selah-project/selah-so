@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Muuse wuu tirtiray tirooyinka ⟨את⟩ dhammaan curadda wiilasha Israa'iil, sida Yahweh u amartay ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wuu tirtiray tirooyinka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Muuse)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan curadda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "curadda"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:10.037003079Z",
+  "model": "glm-5.3"
+}

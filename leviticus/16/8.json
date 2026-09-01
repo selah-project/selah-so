@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo Axaron wuxuu ku tuuri doonaa qasmiyada labada ri'i lab: qasmid Yahweh u ah, iyo qasmid Asaseel u ah.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "wuxuu ku tuuri doonaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ri'yada lab"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "qasmiyada"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "qasmid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "iyo qasmid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Asaseel u ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:01.580043839Z",
+  "model": "glm-5.3"
+}

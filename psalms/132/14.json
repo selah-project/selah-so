@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Kani waa booska nasiibadayda ilaa weligeed; halkan ayaan degganahaa, waayo waan doonay.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kani"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "booska nasiibadayda"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "פה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "degganahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "waan doonay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:53.433996018Z",
+  "model": "glm-5.3"
+}

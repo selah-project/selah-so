@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Mizmor (qoys) — sheeg dhowr loogu talagalay maalinta Sabadka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sheeg"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabadka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.116298534Z",
+  "model": "glm-5.3"
+}

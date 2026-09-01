@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuna baro dhulka: «Noqo dawo», iyo roobka hoostuu ku dhaco, iyo roobbyada xooggiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wuxuuna"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "dawada"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "baro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Noqo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "iyo roobka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hoostuu ku dhaco"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "iyo roobbyada"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "roobbyada"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "xooggiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:50:11.205385857Z",
+  "model": "glm-5.3"
+}

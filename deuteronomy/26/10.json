@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Hadda bal, waxaan keenay ⟨את⟩ ugu horreeyaha midhaha dhulka aad i sii-day, Yahweh; waadna dhigaysaa horkeed Yahweh Elohimkaaga, waadna u sujuudaysaa horkeed Yahweh Elohimkaaga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "waxaan keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uguhorreeyaha midhaha dhulka"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "uguhorreeyaha"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sii-day"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "waadna dhigaysaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horkeed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "waadna u sujuudaysaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horkeed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:41.622621703Z",
+  "model": "glm-5.3"
+}

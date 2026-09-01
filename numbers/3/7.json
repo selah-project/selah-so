@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo waxay ilaaliyaan ⟨את⟩ ilaalintiisa iyo ⟨את⟩ ilaalinta dadkeena oo dhan agta Khaymaha Kulanka, si ay u qabtaan ⟨את⟩ adeegga Maskaxda.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "waxay ilaaliyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalintiisa"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ilaalintiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ilaalinta dadkeena"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "dadkeena (jamciyadda)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "agta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "si ay u qabtaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegga Maskaxda"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskaxda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:13.848321194Z",
+  "model": "glm-5.3"
+}

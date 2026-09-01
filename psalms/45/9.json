@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Murr iyo ahaalood iyo qadhaha — dhammaan dharkaaga; ka qasnooyinkii iligga ⟨qalabka taranta⟩ baa ku faraxshay.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Murr"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ahaalood"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "qadhaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "dharkaaga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "qasnooyinkii"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iligga"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨qalabka taranta⟩"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "baa ku faraxshay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.825104366Z",
+  "model": "glm-5.3"
+}

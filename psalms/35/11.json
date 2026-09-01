@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Markhaatiyaal dulmi ah baa soo kacaan; waxaanan aqaan wey ii weydiishaan.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "baa soo kacaan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "markhaatiyaal"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dulmi ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waxa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aqaan"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "wey ii weydiishaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.444873520Z",
+  "model": "glm-5.3"
+}

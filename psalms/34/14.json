@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ilaali carrabkaaga sharka, iyo labada dhiigle doomahaaga inay ka hadlaan khiyaano.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "carrabkaaga"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "iyo labada dhiigle doomahaaga"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "inay ka hadlaan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:48.487620841Z",
+  "model": "glm-5.3"
+}

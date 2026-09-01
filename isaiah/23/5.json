@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Sida warkee Mitsrayim u gaadhay oo ay u walbahaaneen, sidaas oo kale warkee Tsoor bay u walbahaan doonaan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "warkeenna"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "way walbahaan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sida warkeenna"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsoor"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:16.214840475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxay u gudiyeen shayaadiin, aan ahayn Eloah — Elohim aan ay aqoon; kuwo cusub oo dhawaan ka yimid, oo aabbayaashiin aysan cabsan.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "waxay u gudiyeen"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shayaadiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ay aqoon"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuwo cusub"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dhawaan (magaalada ka soo dhow)"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ka yimid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aabbayaashiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:17.665820500Z",
+  "model": "glm-5.3"
+}

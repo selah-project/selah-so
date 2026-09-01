@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Waayo, qalbigii baa is-qaaday (khumeys), oo kilyooyinkaygii waan ku garaacay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "is-qaaday (khumeys)"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "qalbigii"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "oo kilyooyinkaygii"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "waan ku garaacay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:33.870751207Z",
+  "model": "glm-5.3"
+}

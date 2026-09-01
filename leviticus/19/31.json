@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha u jeedin kuwa la hadla dhimayaal, iyo kuwa wax-yaqaanna ha ku raadin si aad kuwaas u wasakheysaan; anigu waan Yahweh Elohiin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "u jeedin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "kuwa la hadla dhimayaal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "kuwa wax-yaqaanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ku raadin"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "si aad u wasakheysaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:13.569805359Z",
+  "model": "glm-5.3"
+}

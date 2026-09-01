@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Yacquubna wuu arkay ⟨את⟩ weji Laabcan, oo bal eeg — ma aha la mid sida shalay iyo ka horreeyay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuuse arkay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weji Laabcan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "weji"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laabcan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la mid il"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "sida shalay"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "iyo ka horreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:53.972448867Z",
+  "model": "glm-5.3"
+}

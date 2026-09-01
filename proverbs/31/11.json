@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Wadnaha ninkeeda wuxuu isku halleynayaa iyada, oo hanti ma la'aan doono.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "wuxuu isku halleynayaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Wadnaha"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ninkeeda"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "hanti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "la'aan doono"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:37.042178778Z",
+  "model": "glm-5.3"
+}

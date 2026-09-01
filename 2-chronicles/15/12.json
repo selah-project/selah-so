@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waxayna galeen ballan-qaad inay doondoostaan ⟨את⟩ Yahweh Elohimka aabbayaashood, qalbigooda oo dhan iyo naftooda oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "waxayna galeen"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ballan-qaad"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "inay doondoostaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "aabbayaashood"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "qalbigooda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "naftooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:39:44.076132965Z",
+  "model": "glm-5.3"
+}

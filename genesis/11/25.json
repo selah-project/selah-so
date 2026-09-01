@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Naxor wuxuu noolaa ka dib markuu dhalay ⟨את⟩ Terax toddoba iyo toban sanad iyo boqol sanad, wuxuuna dhalay wiilal iyo gabdho.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "markuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "toddoba iyo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdho"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:32.687763281Z",
+  "model": "glm-5.3"
+}

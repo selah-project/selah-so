@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Iyo ⟨את⟩ udgoonka iyo ⟨את⟩ saliidda — iftiin lagu shido, iyo saliidda subkista, iyo qumbo-dhaca udgoonnada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "udgoonka"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "udgoonka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saliidda"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "iftiin lagu shido"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "iyo saliidda"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkista"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "iyo qumbo-dhaca"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "udgoonnada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:42.096915543Z",
+  "model": "glm-5.3"
+}

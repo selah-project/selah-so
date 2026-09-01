@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Adiga, wuxuu wiiqay qalbigayga: Doorta wajigayga; wajigaaga, Yahweh, waan doortaa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu wiiqay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "doorta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "waan doortaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:51.135317092Z",
+  "model": "glm-5.3"
+}

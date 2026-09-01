@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxay kor u qaadeen ⟨את⟩ sanduuqa iyo ⟨את⟩ khaymaha shirka iyo ⟨את⟩ dhamaan mararka quduuska ah ee ku jira khaymaha; ⟨את⟩ kuwaa waxay kor u qaadeen wadaaddada iyo Lewiyaashiinta.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "waxay kor u qaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khaymaha shirka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan mararka quduuska ah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mararka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ku jira khaymaha"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "waxay kor u qaadeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuwaa",
+      "marks": "wadaaddada iyo Lewiyaashiinta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyaashiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T08:35:22.397603064Z",
+  "model": "glm-5.3"
+}

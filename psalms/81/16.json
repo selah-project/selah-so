@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Kuwa necebYahweh waxay u cadhootaa isqancin been ah, waqtigooduna weligiis buu ahaan lahaa.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "kuwa neceb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "waxay u cadhootaa isqancin been ah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "buu ahaan lahaa"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "waqtigooduna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:29.550062545Z",
+  "model": "glm-5.3"
+}

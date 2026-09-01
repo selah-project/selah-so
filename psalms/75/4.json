@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Dhulku iyo degganayaashiisii oo dhan way dhalaalayaan (way baabbi'aysaan); anigaa istaagay tiirarkiisa. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "way dhalaalayaan (way baabbi'aysaan)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "degganayaashiisii"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigaa"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "istaagay"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tiirarkiisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:19.227697660Z",
+  "model": "glm-5.3"
+}

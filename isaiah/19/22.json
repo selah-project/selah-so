@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxuu Yahweh ku garaaci doonaa ⟨את⟩ Mitsrayim — garaac iyo bogsiin — wayna ilaa Yahweh u noqon doonaan, wuuna ka aqbali doonaa baryadooda, wuuna bogsiin doonaa.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "Waxuu ku garaaci doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "garaac"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "iyo bogsiin"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "wayna u noqon doonaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "wuuna ka aqbali doonaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "baryadooda"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "wuuna bogsiin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:15.366486206Z",
+  "model": "glm-5.3"
+}

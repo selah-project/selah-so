@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Bal, hadduu qabsado, yaa celiyaa? Yaa isa odhan kara: Maxaad sameysaa?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "hadduu qabsado"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "celiyaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "odhan kara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:22.159695754Z",
+  "model": "glm-5.3"
+}

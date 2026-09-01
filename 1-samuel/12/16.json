@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Laakiin haddaba istaaga oo eega ⟨את⟩ shaygan weyn ee Yahweh uu idinkaga hor sameynayo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "istaaga"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "oo eega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaygan weyn"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shaygan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ween"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameynayo"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "idinkaga hor"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:25.282791619Z",
+  "model": "glm-5.3"
+}

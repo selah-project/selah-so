@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "malachi 3:16",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markaa waxay sheegeen kuwa cabsaya Yahweh, mid kasta oo ⟨את⟩ saaxiibkiisa, Yahwehna wuu fiirshay oo wuu maqlay, waxaana la qoray buugga xusidda horay kiisa, kuwa cabsaya Yahweh iyo kuwa qiimaynaya Magaciisa dartii.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaa"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "waxay sheegeen"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kuwa cabsaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiisa (רעהו)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiisa"
+    },
+    {
+      "surface": "ויקשב",
+      "gloss": "wuu fiirshay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "oo wuu maqlay"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "waxaana la qoray"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xusidda"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "horay kiisa"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "kuwa cabsaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולחשבי",
+      "gloss": "iyo kuwa qiimaynaya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:38.817229121Z",
+  "model": "glm-5.3"
+}

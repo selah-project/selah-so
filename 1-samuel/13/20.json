@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo reer Israa'iil dhammaantood waxay u degteen Falastiimiintii in kastoo qofuu hagaajiyo ⟨את⟩ bidixdiisa iyo ⟨את⟩ masaaradiisa iyo ⟨את⟩ faaskiisa iyo ⟨את⟩ gorgortadiisa.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "waxay u degteen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "reer Israa'iil"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Falastiimiintii"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "in loo hagaajiyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kastoo qofuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bidixdiisa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "bidixdiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "masaaradiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "masaaradiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "faaskiisa"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "faaskiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gorgortadiisa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "gorgortadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:57.485916730Z",
+  "model": "glm-5.3"
+}

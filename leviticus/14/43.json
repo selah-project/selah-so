@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Haddii cudurku ku soo noqdo, gurigana uu ku baho, ka dib markii laga saaray ⟨את⟩ dhagaxyada, iyo ka dib markii la qiyeeyay ⟨את⟩ guriga, iyo ka dib markii la dhoobaystay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ku soo noqdo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cudurku"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "uu ku baho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gurigana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "laga saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "iyo ka dib"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "la qiyeeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "iyo ka dib"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "la dhoobaystay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:50.665148712Z",
+  "model": "glm-5.3"
+}

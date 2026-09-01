@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Kii carrabka ku ridda gasiigiis qarsood, ⟨את⟩ waan baabi'inayaa; kii indhaha sarreeya iyo qalbi qalafsan leh, ⟨את⟩ aniga ma ii dulqaadan karo.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "kii carrabka ku ridda"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarsood"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "gasiigiis"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "waan baabi'inayaa (kii carrabka ku ridda)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "waan baabi'inayaa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "sarreeya"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "oo qalafsan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kii indhaha sarreeya iyo qalbi qalafsan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "karo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:54.327632255Z",
+  "model": "glm-5.3"
+}

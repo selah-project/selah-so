@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Markaasay u qayliyeen Yahweh markay cidhiidhi ku jireen, oo meelaha ay cidhiidhiyiinayanna wuu ka soo bixiyay.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Markaasay u qayliyeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "markay cidhiidhi ku jireen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ay ku jireen"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "meelaha ay cidhiidhiyiinayanna"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "wuu ka soo bixiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:07.065252660Z",
+  "model": "glm-5.3"
+}

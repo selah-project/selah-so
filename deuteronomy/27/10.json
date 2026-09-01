@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Oo waxaad maqli doontaa codka Yahweh Elohimkaaga, oo waxaad sameyn doontaa ⟨את⟩ amarradiisa iyo ⟨את⟩ sharcigiisa, kuwaas oo anigu kuu amaro maanta.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "waxaad maqli doontaa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "oo waxaad sameyn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarradiisa"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "amarradiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sharcigiisa"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sharcigiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kuu amaro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:45.513632197Z",
+  "model": "glm-5.3"
+}

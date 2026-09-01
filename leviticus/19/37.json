@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo idinku waad ilaali doontaan ⟨את⟩ dhammaan xeerarkayga iyo ⟨את⟩ dhammaan xukunkayga, oo waad fulin doontaan ⟨את⟩ iyaga; aniigu waxaan ahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waad ilaali doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan xeerarkayga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "xeerarkayga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan xukunkayga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunkayga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "waad fulin doontaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:47.206306019Z",
+  "model": "glm-5.3"
+}

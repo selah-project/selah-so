@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Qurbadda ruuxa kasta oo wadaad ah si buuxda bay noqonaysaa (waa la dhex-gubaa), lama cuni karin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "qurbadda ruuxa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaadka"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "si buuxda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay noqonaysaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "cuni karin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:34.336455725Z",
+  "model": "glm-5.3"
+}

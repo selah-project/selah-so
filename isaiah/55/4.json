@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Bal, markhaati ummadaha waxaan idiin dhiibay, hogaamiye iyo amaar-qaade ummadaha.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "markhaati"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ummadaha"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "waxaan idiin dhiibay"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hogaamiye"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "iyo amaar-qaade"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ummadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:10.787077121Z",
+  "model": "glm-5.3"
+}

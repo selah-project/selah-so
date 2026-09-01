@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxay u noqon doonaan sharku Sheool; dhammaan shacabka, kuwa ilobay Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "u noqon doonaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "kuwa ilobay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:28.495845223Z",
+  "model": "glm-5.3"
+}

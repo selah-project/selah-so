@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Mid dhuftay nin oo uu dhintay, geeri buu la geerinayaa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Mid dhuftay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "oo uu dhintay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geeri"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "la geerinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:45.661940803Z",
+  "model": "glm-5.3"
+}

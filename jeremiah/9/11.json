@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 9:11",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yaa nin xariif ah oo fahmi kara ⟨את⟩ tani? Oo yaa kan afka Yahweh u hadlay inuu sheego? Maxay ⟨sababta⟩ dhulku baabbi'ay, oo sida duurka la gubay, qof dhaqdhaqaaqa la'aan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "xariif ah"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "oo fahmi kara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "yaa kan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "u hadlay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויגדה",
+      "gloss": "inuu sheego"
+    },
+    {
+      "surface": "על",
+      "gloss": "Maxay ⟨sababta⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "baabbi'ay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "la gubay"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sida duurka"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "qof dhaqdhaqaaqa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:04:32.654931177Z",
+  "model": "glm-5.3"
+}

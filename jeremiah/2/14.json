@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ma addoon baa Yisra'eel? Mise gurigii ku dhashay baa? Maxay noqotay ⟨boon⟩ la dhacay?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Ma addoon baa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "ku dhashay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maxay ugu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noqotay"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "boon la dhacay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:05.316700126Z",
+  "model": "glm-5.3"
+}

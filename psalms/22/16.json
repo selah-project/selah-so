@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Awooddaydu way engegtay sida laab-dhoobo, carrabkayguna wuu ilko-dhexeystay ku dhuftay, adigana boqolla dhimashada baa ii dhigaysaa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "way engegtay"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sida laab-dhoobo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "awooddaydu"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "carrabkayguna"
+    },
+    {
+      "surface": "мדבק",
+      "gloss": "wuu ku dhuftay"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ilko-dhexeystay (daankayga)"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "boqolla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "baa ii dhigaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:23.608076064Z",
+  "model": "glm-5.3"
+}

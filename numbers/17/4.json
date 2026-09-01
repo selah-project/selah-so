@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "El'azar oo ah wadaaddana wuxuu qaatay ⟨את⟩ makhaddadaha birta ahaa, kuwaas ay ku dhawaaqeen kuwii la gubay, waxayna u duqeen duug madbacadka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makhaddadaha birta"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "makhaddadaha"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "birta ahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ay ku dhawaaqeen"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "kuwii la gubay"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "waxayna u duqeen"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "duug"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "madbacadka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:19.074077739Z",
+  "model": "glm-5.3"
+}

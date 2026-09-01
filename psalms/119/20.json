@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Naaftaydu waa la jajabisay niyadda ku dhex jirta xukunnadaaga waqti kasta.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "waa la jajabisay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naaftaydu"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "niyadda ku dhex jirta \/ u baahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunnadaaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waqti kasta oo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqti"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:43.625522503Z",
+  "model": "glm-5.3"
+}

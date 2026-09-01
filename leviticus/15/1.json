@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Yahweh weligiis wuxuu la hadlay Muuse iyo ⟨la⟩ Aharon, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ⟨la⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:46.750586497Z",
+  "model": "glm-5.3"
+}

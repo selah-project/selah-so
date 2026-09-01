@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Adonay wuxuu bixiyaa ereyga; war-geeyaasha dhabta ah (haweeneyda) waa ciidan aad u badan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuxuu bixiyaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "war-geeyaasha dhabta ah (haweeneyda)"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aad u badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:14.988402187Z",
+  "model": "glm-5.3"
+}

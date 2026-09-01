@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddiise uu ka saboolsan yahay qiimahaaga, wuxuu hortaagan doonaa ka hor Wadaadda, Wadaadduna wuu qiimeyn doonaa ⟨את⟩ ka; sida ay gacanta Nadarka gaarsiinayso ayuu Wadaaddu u qiimeyn doonaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddiise"
+    },
+    {
+      "surface": "מך",
+      "gloss": "ka saboolsan yahay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uu"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "qiimahaaga"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "wuxuu hortaagan doonaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Wadaadda"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "wuu qiimeyn doonaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaa (qofka la qiimeynayo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Wadaadduna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sida"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ay... gaarsiinayso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sida ay"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "gaarsiinayso"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "Nadarka"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "u qiimeyn doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Wadaaddu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:02.748027726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Gabaca Elohim, gabaca; gabaca boqorkayaga, gabaca.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Gabaca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gabaca"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gabaca"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "boqorkayaga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gabaca"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:44.021575897Z",
+  "model": "glm-5.3"
+}

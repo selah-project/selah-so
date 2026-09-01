@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "iyo magaalooyinka oo dhan ee Sihon, boqorkii Amorriinta, kan xukumayay Xeshbon, ilaa xadka wiilasha Cammon;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorriinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "xukumayay"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Xeshbon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xadka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Cammon"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:38.087969139Z",
+  "model": "glm-5.3"
+}

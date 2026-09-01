@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Shaa'uulna wuu maqlay codka Yehonathan, Shaa'uulna wuu dhaaranay: Yahweh ayaa nool, lama dilayo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "wuu dhaaranay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ayaa nool"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(dhaaran)"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "lama dilayo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:39.770687002Z",
+  "model": "glm-5.3"
+}

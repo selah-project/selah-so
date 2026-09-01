@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo idinku biyo baad ku faraxsan ka dhuftaan ilaha badbaadada.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "idinku baad ka dhuftaan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "faraxsan"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "ilaha (ka)"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "badbaadada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:08.918916295Z",
+  "model": "glm-5.3"
+}

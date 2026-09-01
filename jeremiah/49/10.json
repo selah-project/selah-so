@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Waayo annigaa ka qaaday ⟨את⟩ Esaw, waan muujiyay ⟨את⟩ meelaha qarsoon ee isaga, oo qarsooma ma karo; la baabbi'iyay zer'iisii iyo walaalihiis iyo deriskiis — isagana ma jiro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "annigaa"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ka qaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "muujiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meelaha qarsoon ee isaga"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "meelaha qarsoon ee isaga"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "qarsooma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "la baabbi'iyay"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zer'iisii"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "deriskiis"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "isagana ma jiro"
+    }
+  ],
+  "timestamp": "2026-09-01T04:21:05.050979506Z",
+  "model": "glm-5.3"
+}

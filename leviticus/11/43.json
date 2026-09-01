@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ha naf-dhuxinina ⟨את⟩ naftiinna wax sherxidda ah oo sherxidda, oo ha wasakhaynina naftiinna iyaga, si aadan idiinku wasakh noqon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "naf-dhuxinina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftiinna"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wax"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sherxidda ah"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "oo sherxidda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "wasakhaynina"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "idiinku wasakh noqon"
+    },
+    {
+      "surface": "בם",
+      "gloss": "(iyaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:35.363062379Z",
+  "model": "glm-5.3"
+}

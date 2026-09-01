@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wiil sanad ah (oo ah) Shaa'uul markuu boqorsaday, laba sanadoodna buu Israa'iil ku boqorsaday.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad ah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "markuu boqorsaday"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sanadood"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "buu boqorsaday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:37.148179698Z",
+  "model": "glm-5.3"
+}

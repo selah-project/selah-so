@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Gacanta kuwa dhaqso badan (charutsim) waa xukumaysaa; laakiin dayu-dheeraadku waa noqonaa mushar (lamas).",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "kuwa dhaqso badan (charutsim)"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "waa xukumaysaa"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "laakiin dayu-dheeraadku (remia)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waa noqonaa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mushar (lamas)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:13.640817166Z",
+  "model": "glm-5.3"
+}

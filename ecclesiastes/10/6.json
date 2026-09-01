@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Nacasnimada waxaa la dhigay meelaha sarreeya oo badan, oo hodanka hoos taga way fadhiistaan.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "waxaa la dhigay"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "nacasnimada"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "meelaha sarreeya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "oo badan"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "oo hodanka"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "hoos taga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "way fadhiistaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:35.818051963Z",
+  "model": "glm-5.3"
+}

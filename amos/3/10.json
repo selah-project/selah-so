@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ma aqaani ⟨siday⟩ samaynta saxda ah, ayuu yiri Yahweh — kuwa kaydiya dulmi iyo dhac ku dhac qalcadoohooda.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "aqaani"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "samaynta"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "saxda ah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayuu yiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "kuwa kaydiya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dulmi"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "iyo dhac ku dhac"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "qalcadoohooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:13.030957143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo wadaaddii bixinaysa ⟨את⟩ allabbarigii gubitaanka ee nin — jildigii allabbarigii gubitaanka uu bixiyay — wadaaddaas baa isaga ⟨uu u noqdaan doono⟩.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "oo wadaaddii"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "bixinaysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabbarigii gubitaanka"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "allabbarigii gubitaanka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עור",
+      "gloss": "jildigii"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabbarigii gubitaanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "uu bixiyay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uu u noqdaan doono"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:08.953880453Z",
+  "model": "glm-5.3"
+}

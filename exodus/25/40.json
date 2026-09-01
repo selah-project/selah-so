@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Eeg na, oo samee qaab-dhismeeddooda ee la kuu muujiyay buurta.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Eeg na"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oo samee"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "qaab-dhismeeddooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "la kuu muujiyay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:00.981575683Z",
+  "model": "glm-5.3"
+}

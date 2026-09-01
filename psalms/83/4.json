@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Kuwaaga ku sharan yaal sod (talo-qarso), oo kuwaaga la qariyay ku tala saarayaan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Kuwaaga"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ku sharan yaal"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "oo ku tala saarayaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "kuwaaga la qariyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:32.182709779Z",
+  "model": "glm-5.3"
+}

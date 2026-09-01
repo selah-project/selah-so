@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Boqorkuse wuxuu ku farxayaa Elohim; kulli ciddii Isaga ku dhaartane wuxuu isla ammaanayaa, waayo afka been sheegayaasha waa la xannibaa.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkuse"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuxuu ku farxayaa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "wuxuu isla ammaanayaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ciddii ku dhaarta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "waa la xannibaa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "been sheegayaasha"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:14.506583333Z",
+  "model": "glm-5.3"
+}

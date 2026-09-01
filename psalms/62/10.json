@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Waxay keliya tahay hebel (in makan) — wiilasha aadamiga waa hebel (in makan), wiilasha ninna waa been; markay miisaanka lagu dhigo way kor u kaxaan, iyagoo wada ka yimid hebel (in makan) — waa ka fudud in makan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "waxay keliya tahay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel (in makan)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "miisaanka lagu dhigo"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kor u kaxaan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagoo wada"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "in makan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:44.749774262Z",
+  "model": "glm-5.3"
+}

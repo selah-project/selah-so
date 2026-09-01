@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Ha noqdaan sida cawska saqafyada, oo qallalo ka hor inta aan la soo feydo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sida cawska"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "saqafyada"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ka hor inta"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "aan la soo feydo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "qallalo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:25.485703274Z",
+  "model": "glm-5.3"
+}

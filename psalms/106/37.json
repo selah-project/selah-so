@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waxay u dheceen allabari ⟨את⟩ wiilashooda iyo ⟨את⟩ gabdhahooda shayaadiinta.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Waxay u dheceen allabari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashooda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wiilashooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabdhahooda"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "gabdhahooda"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shayaadiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:28.254628175Z",
+  "model": "glm-5.3"
+}

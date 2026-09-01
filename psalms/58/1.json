@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Gacan-ku-hayaha ha ka mid noqdo; Ha baabbi'in; Dawid ayaa leh; Mikhdaam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Gacan-ku-hayaha ha ka mid noqdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "baabbi'in"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid ayaa leh"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhdaam"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:32.021402609Z",
+  "model": "glm-5.3"
+}

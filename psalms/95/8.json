@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Ha adkeysinina qalbiyadiinna sida Meribah, iyo sidii maalinta Massah gebadda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "adkeysinina"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbiyadiinna"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "sida Meribah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sidii maalinta"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gebadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.916771160Z",
+  "model": "glm-5.3"
+}

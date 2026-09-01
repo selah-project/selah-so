@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo Axaron wuxuu soo bixin doonaa ⟨את⟩ dibiga qurbaadda dembiga ee isaga taal, wuuna dhaawo-gelin doonaa ⟨isagoo⟩ u tukan ⟨eegno⟩ nafiisa iyo u tukan ⟨eegno⟩ reerkiisa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuu soo bixin doonaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibiga"
+    },
+    {
+      "surface": "פר",
+      "gloss": "dibiga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qurbaadda dembiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga taal"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wuuna dhaawo-gelin doonaa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "u tukan nafiisa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "iyo u tukan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "reerkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:01.579758796Z",
+  "model": "glm-5.3"
+}

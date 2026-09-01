@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Boqorkii Mitsrayimna wuxuu u yeedhay dhaliyayaashii, oo wuxuu yidhi: maxaad u sameysayeen sharcigan, oo aad noolaysiiseen ⟨את⟩ ilmaha?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeedhay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "dhaliyayaashii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "u"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "sameysayeen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sharcigan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "aad noolaysiiseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ilmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:28.140620355Z",
+  "model": "glm-5.3"
+}

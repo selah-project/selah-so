@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ninkeeda waa la yaqaan baarxaha magaalada, markuu la fadhiyo odayasha dhulka.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "waa la yaqaan"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "baarxaha magaalada"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ninkeeda"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "markuu la fadhiyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:39.749063870Z",
+  "model": "glm-5.3"
+}

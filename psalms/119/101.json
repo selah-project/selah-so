@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Jidadka sharka kasta waan ka ilaaliyey cagahayga, si aan u ilaaliyo eraygaaga.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kasta ka"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "waan ka ilaaliyey"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aan u"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ilaaliyo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "eraygaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:14.802824181Z",
+  "model": "glm-5.3"
+}

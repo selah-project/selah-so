@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 35:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo hanaanka wuxuu noqon doonaa biyo-il, oo dhulka oollana wuxuu noqon doonaa illo biyo; meesha dofaarada deggana, meeshii ay seexatay, wuxuu noqon doonaa duur canab iyo biyo-xidhxidh iyo qasab.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "השרב",
+      "gloss": "hanaanka"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "biyo-il"
+    },
+    {
+      "surface": "וצמאון",
+      "gloss": "dhulka oollan"
+    },
+    {
+      "surface": "למבועי",
+      "gloss": "illo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "meesha deggan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "dofaarada"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "meeshii ay seexatay"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "duur canab"
+    },
+    {
+      "surface": "לקנה",
+      "gloss": "biyo-xidhxidh"
+    },
+    {
+      "surface": "וגמא",
+      "gloss": "iyo qasab"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:53.391851957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Codkay maqal sida khesedkaaga, Yahweh; sida xukunkaaga i nololee.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "codkay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sida khesedkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "sida xukunkaaga"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "i nololee"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:21.210650462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Yahweh wuu boqortoonayaa ilaa iyo weligii iyo ka badan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "wuu boqortoonayaa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ilaa iyo weligii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo ka badan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:02.242699886Z",
+  "model": "glm-5.3"
+}

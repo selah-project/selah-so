@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Isaga oo igu dhawaaqi doona: Aabbow adigu, El-iisii, iyo dhagaxga badbaadaydii.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "igu dhawaaqi doona"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Aabbow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iisii"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dhagaxga"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "badbaadaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:07.343114905Z",
+  "model": "glm-5.3"
+}

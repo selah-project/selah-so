@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Yeruushaalaymow, ammaan Yahweh ⟨את⟩; Tsiyonow, ammaan Eloheegaaga.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "ammmaan (shabbekhi)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaymow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ammee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloheegaaga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonow"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:09.535471888Z",
+  "model": "glm-5.3"
+}

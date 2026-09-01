@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Hadday wiilashiisu Sharcigaygii ka tegaan, xukunnadaydanana ma ku socdaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hadday"
+    },
+    {
+      "surface": "י עזבו",
+      "gloss": "ka tegaan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Sharcigaygii"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "xukunnadaydanana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ku socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.831659565Z",
+  "model": "glm-5.3"
+}

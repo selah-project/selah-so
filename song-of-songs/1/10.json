@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ladhayadaada waa ⟨ay⟩ quruxsan yihiin xargo ⟨dahab ah⟩, gardenadaada ⟨ay⟩ waa ⟨quruxsan tahay⟩ murqooyin.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "waa quruxsan yihiin"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "ladhayadaada"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "xargo (dahab ah)"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "gardenadaada"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "murqooyin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:42.393575010Z",
+  "model": "glm-5.3"
+}

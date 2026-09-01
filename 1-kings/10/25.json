@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxayna ahaayeen kuwa keena hal nin oo hal nin ah hadyadiisa — alaab lacag ah iyo alaab dahab ah, dhar, hub, foox, faras iyo gamuus — arrin sanad kasta oo sanadka dhan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "kuwa keena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hal nin oo hal nin ah"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "hadyadiisa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alaab"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "iyo alaab"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "hub"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "foox"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "iyo gamuus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "arrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad kasta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "oo sanadka dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:58.585582725Z",
+  "model": "glm-5.3"
+}

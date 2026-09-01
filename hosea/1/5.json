@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo waxay noqon doontaa maalintaas, waan jabi doonaa ⟨את⟩ qaansaha Yisra'iil, dooxada Yizre'el.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "waan jabi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaansaha Yisra'iil"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaansaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "dooxada"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:36.740417886Z",
+  "model": "glm-5.3"
+}

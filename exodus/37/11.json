@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuse ku dul-dhigay ⟨את⟩ dahab nadif ah, wuxuuse u sameeyay darood dahab ah wareeg.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wuxuuse ku dul-dhigay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadif ah"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuse sameeyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "זר",
+      "gloss": "darood"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareeg"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:52.700820111Z",
+  "model": "glm-5.3"
+}

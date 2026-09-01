@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuu dhigay ⟨את⟩ allabariga dahabka ah haayada kulanka gudihiisa, horta parokadda.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wuxuu dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabariga dahabka ah"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "haayada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parokadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:08.582321694Z",
+  "model": "glm-5.3"
+}

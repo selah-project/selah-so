@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Lakabka (tirintoodu) ee qabiilka Binjamin waxay ahaayeen labaatan iyo shan kun iyo afar boqol.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "tirintoodu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo labaatan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:05.978230480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Cod qof baa magaal-lamadegaanka ku dhawaaqaya: Waddada Yahweh ka soo dhisiya, magaal-lamadegaankana waddada toos ah ee Elohiinno ah ka dhiga.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Cod"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "qof baa ku dhawaaqaya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "magaal-lamadegaanka"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ka soo dhisiya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "waddada toos ah ka dhiga"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "magaal-lamadegaanka"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "waddada weyn"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohiinno ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:41.024224579Z",
+  "model": "glm-5.3"
+}

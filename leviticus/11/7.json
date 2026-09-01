@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo ⟨את⟩ doolasha, waayo wuu faarisaa farasada, wuxuuna dildilaa (dildil buuxa buuxa) farasada, laakiin gerraraha ma mariyo, waa nijaas ⟨wuu⟩ idiin yahay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "doolasha"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "doolasha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "wuu faarisaa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "farasada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "wuxuuna dildilaa"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "dildil buuxa buuxa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "farasada"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "laakiin isaga"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerraraha (cunista dibedda loo marinayo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "mariyo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "waa nijaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.537870897Z",
+  "model": "glm-5.3"
+}

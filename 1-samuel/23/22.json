@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 23:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Taga waayo, diyaariya dheeraad ah, ogaada oo fiiriya ⟨את⟩ meeshiisa halka cagtiisu ku noqonto, yaa isaga halkaas arkay, waayo, waxaa la ii sheegay inuu yahay nin kaydi ah, oo kaydi ayaan uu kaydiyaa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Taga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "diyaariya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeraad ah"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ogaada"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "oo fiiriya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeshiisa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "meeshiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ku noqonto"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "cagtiisu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ראהו",
+      "gloss": "isaga arkay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "waxaa la sheegay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nin kaydi ah"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "kaydi ayaan uu kaydiyaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:21:51.397498166Z",
+  "model": "glm-5.3"
+}

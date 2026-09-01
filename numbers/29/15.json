@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo hal tobannaan hal wan yar keliya, afar-iyo-tobankan wan yarba.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "Oo hal tobannaan"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "tobannaan"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "hal wan yar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "wan yar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:37.080346456Z",
+  "model": "glm-5.3"
+}

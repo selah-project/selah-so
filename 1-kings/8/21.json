@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo waxaan halkaas u dhigay meel sanduuqa, halkaas oo ku jirto ballantii Yahweh, oo uu la goostay aabbayaashay markii uu ka bixshay ⟨את⟩ iyaga dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "oo waxaan u dhigay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halkaas oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ku jirto"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballantii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uu la goostay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aabbayaashay"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "markii uu ka bixshay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:20.336863799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Markay fadhayd dameerkii, oo ay ka soo degaysay qarsoorka buurta, bal Daawud iyo raggiisi baa soo degayaan (isla markaas) — iyaduna waxay la kulmatay ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "markay noqotay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "markay fadhayd (la fuushay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "dameerkii"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "oo ay ka soo degaysay"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarsoorka (qar-qar)"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "iyo raggiisi"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "soo degayaan"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ay-soo-dulqaadista (isla markaas)"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "iyaduna waxay la kulmatay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (Daawud iyo raggiisi)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:03.607446596Z",
+  "model": "glm-5.3"
+}

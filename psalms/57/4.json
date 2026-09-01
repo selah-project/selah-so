@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Wuu ka soo diri samada, wuuna i badbaadin doonaa cidii i ceebayso oo i liqata; Selah. Elohim wuu soo diri khesedkiisa iyo runtiisa.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wuu ka soo diri"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "wuuna i badbaadin doonaa"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "cidii i ceebayso"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "oo i liqata"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "wuu soo diri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "iyo runtiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.831938286Z",
+  "model": "glm-5.3"
+}

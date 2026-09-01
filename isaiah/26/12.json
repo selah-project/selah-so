@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Yahweh, Adigu nabad baa noo dhigaysaa; waayo dhammaanba shuqullannada Adigu baa noo sameysay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "noo dhigaysaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dhammaanba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "shuqullannada"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "baa noo sameysay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:58.038507382Z",
+  "model": "glm-5.3"
+}

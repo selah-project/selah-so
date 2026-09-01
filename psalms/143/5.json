@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Waxaan xusuustay maalmihii hore, waxaan ka fekeray shuqulladaagii oo dhan, shuqulka gacmihiinna ayaan ka hadlayaa (si aan qarin).",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "waxaan xusuustay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmihii"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "waxaan ka fekeray"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "shuqulladaagii"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmihiinna"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ayaan ka hadlayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:53.034981493Z",
+  "model": "glm-5.3"
+}

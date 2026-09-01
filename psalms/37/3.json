@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Kalsooni Yahweh u hay, oo wanaag samee; deg dhulka, oo aamin-nimo daa.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "kalsooni u hay"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oo samee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "deg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "oo daa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "aamin-nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:34.814160950Z",
+  "model": "glm-5.3"
+}

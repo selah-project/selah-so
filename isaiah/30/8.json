@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Hadda oo dhan, u tag, ku qor looxa ⟨את⟩ iyaga, oo kitaabka ku qor xaqa — oo noqota maalinta dambe, markhaati ilaa weligood.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda oo dhan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "u tag"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ku qor"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "looxa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "looxa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaabka"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ku qor xaqa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oo noqota"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dambe"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "markhaati ilaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T03:47:07.275072065Z",
+  "model": "glm-5.3"
+}

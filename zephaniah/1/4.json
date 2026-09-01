@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaan gacantayada ku fidnayn doonaa Yahuudah iyo dhammaan kuwa Yeruushaalaym deggan; waxaan ka goyn doonaa meeshan ⟨את⟩ hadhi Ba'al, ⟨את⟩ magaca kemaarada iyo (kan) waayeelka la jira.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "waxaan ku fidnayn doonaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "waxaan goyn doonaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadhi Ba'al"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hadhi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca kemaarada"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemaarada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo la jira"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "waayeelka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:51.085775502Z",
+  "model": "glm-5.3"
+}

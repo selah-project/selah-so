@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Haddii aad si joogto ah ugu noolaataan dhulkan, waan idinka dhisaa, oo ma duminayo; waan idinka beeraa, oo ma baabbi'inayo; waan ka naxay sharciga xumaa ee aan idinku gaystay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "si joogto ah"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ugu noolaataan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "waan idinka dhisaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "duminayo"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "waan idinka beeraa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "baabbi'inayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ka naxay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "sharciga xumaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan idinku gaystay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T08:26:36.583676671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo saddex meel Iridda Suur, iyo saddex meel iridda gadaal Runnarrada, waadna ilaalinaysaan ⟨את⟩ ilaalinta Baytka sidii baar (masaax).",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "iyo saddex meel"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "Iridda"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Suur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "iyo saddex meel"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "Runnarrada"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "waadna ilaalinaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalinta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Baytka"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "sidii baar (masaax)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:39.931987189Z",
+  "model": "glm-5.3"
+}

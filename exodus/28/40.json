@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ilmaha Aharonna waxaad u sameyn doontaa maro (dresses), waxaadna u sameyn doontaa qaado (belts), waxaadna u sameyn doontaa kuwa madax-xiran (bonnets), sharaf iyo qurux dartii.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ilmaha... u"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad sameyn doontaa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "maro"
+    },
+    {
+      "surface": "וועשית",
+      "gloss": "waxaadna u sameyn doontaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "qaado (belts)"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "kuwa madax-xiran"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad u sameyn doontaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "qurux"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:09.174516928Z",
+  "model": "glm-5.3"
+}

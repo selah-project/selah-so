@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Ha odhan ⟨marka laga reebo ogolaansho⟩ qalbigooda, Heex! Naaftayada; ha odhan, La liqay ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha odhan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waxay odhan"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "qalbigooda"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heex!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naaftayada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha odhan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waxay odhan"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "la liqay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:28.674098034Z",
+  "model": "glm-5.3"
+}

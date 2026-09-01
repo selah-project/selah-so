@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Wuu dhammaatay lafdhiigaygii iyo wadnaygii; ⟨laakiin⟩ dhagaxa wadnaygii iyo qaybtaydu waa Elohim, ilaa weligii.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Wuu dhammaatay"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "lafdhiigaygii"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "iyo wadnaygii"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wadnaygii"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "iyo qaybtaydu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:31.969235939Z",
+  "model": "glm-5.3"
+}

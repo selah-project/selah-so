@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Dhagax ⟨iyo⟩ dhagax, eefah ⟨iyo⟩ eefah — labadaba waa isla cadho tahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "⟨iyo⟩ dhagax"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eefah"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "⟨iyo⟩ eefah"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "cadho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "labadaba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:46.369325906Z",
+  "model": "glm-5.3"
+}

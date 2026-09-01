@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Caloosha buu cagaha ku qabsaday ⟨את⟩ walaalkiis, xooggiisiina wuu la dagaallamay ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "buu cagaha ku qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalkiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "xooggiisiina"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "wuu la dagaallamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:34.515968410Z",
+  "model": "glm-5.3"
+}

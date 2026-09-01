@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Nin sab la ah oo dhaawacaya sab-layaal ah waa sida roob dhafoor ah oo aan wax cunto ah keein.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "רש",
+      "gloss": "sab la ah"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "dhaawacaya"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "sab-layaal ah"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "roob"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "dhafoor ah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wax cunto ah keein"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:18.442729558Z",
+  "model": "glm-5.3"
+}

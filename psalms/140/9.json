@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Ha siin, Yahweh, rabitaanka sharliga; sharcigiisa ha hagaajin, si aysan kor u qaadin. Seela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "rabitaanka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharliga"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "sharcigiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "hagaajin"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "kor u qaadin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seela"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.706218852Z",
+  "model": "glm-5.3"
+}

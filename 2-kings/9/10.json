@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo ⟨את⟩ Iisebel waa cuni doonaan eyiisha qaybta Yizreel, oo ma jiro cid aasaysa; oo wuxuu furay albaabka oo wuu cararay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Oo ⟨את⟩",
+      "marks": "Iisebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iisebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa cuni doonaan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "eyiisha"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ma jiro"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "cid aasaysa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "oo wuxuu furay"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "oo wuu cararay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:09.167596033Z",
+  "model": "glm-5.3"
+}

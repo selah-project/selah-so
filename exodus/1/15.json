@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu yidhi boqorka Mitsrayim dhakhaatiirta Cibraaniyadda, oo magaca ⟨midda⟩ koowaad wuxuu ahaa Shifrah, magaca midda labaadna Buwah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "dhakhaatiirta"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Cibraaniyadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "⟨midda⟩ koowaad"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca…na"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "midda labaadna"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Buwah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:39.443697070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Cadowgu kuma dul-maamulo kiisa, wiilka xaq-darrana kuma dhibayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ku-ma"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dul-maamulo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Cadowgu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kiisa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "xaq-darrana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ku-ma"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "dhibayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:47.551779658Z",
+  "model": "glm-5.3"
+}

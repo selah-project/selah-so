@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo waan bixin doonaa calaamooyin samooyinka iyo dhulka: dhiig iyo dab, iyo tiirar qiiq ah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "waan bixin doonaa"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "calaamooyin"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samooyinka"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "iyo dhulka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "iyo dab"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "iyo tiirar"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "qiiq ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:00.277698394Z",
+  "model": "glm-5.3"
+}

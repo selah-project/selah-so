@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuuna gilgilkii horraantayda ku fiday, waxayna ahayd mid ⟨la⟩ qoray hore iyo gadaalba, waxaana ku qoran qinya iyo hegeh iyo hey",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Wuuna ku fiday"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "gilgilkii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horraantayda"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "waxayna ahayd"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "la qoray"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "iyo gadaalba"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "waxaana ku qoran"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qinya"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "iyo hegeh"
+    },
+    {
+      "surface": "והי",
+      "gloss": "iyo hey"
+    }
+  ],
+  "timestamp": "2026-09-01T04:24:17.593536172Z",
+  "model": "glm-5.3"
+}

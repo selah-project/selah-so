@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh waa ⟨wuu⟩ tahay wanaag ⟨dhammaan⟩, oo naxariistiisu waxay ku jirtaa shuqulladiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan (wuxuu u wanaagsan yahay)"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "naxariistiisu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku jirtaa \/ korka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "shuqulladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:15.297704338Z",
+  "model": "glm-5.3"
+}

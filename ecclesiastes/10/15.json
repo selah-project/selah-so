@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Dhibaatada nacasyada way daallisiisaa, ma aqaanaan magaala u socodka.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "nacasyada"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "way daallisiisaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ma aqaanaan)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aqaanaan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "u socodka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "magaala"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:39.253705699Z",
+  "model": "glm-5.3"
+}

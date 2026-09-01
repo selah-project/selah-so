@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ha ooyina maydkii, ha baroorinina isaga; kiise tegey ka ooya oo dhan, waayo weligiis ma noqonayo, mana arki ⟨את⟩ dhulkii uu ku dhashay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha (ma)"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ooyina"
+    },
+    {
+      "surface": "למת",
+      "gloss": "maydkii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hana"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "baroorinina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ooya"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ooya (oo dhan)"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kii tegey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "noqonayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mana arki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "uu ku dhashay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:35.245713973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Waxaan ka fekerayaa shuqullaanimo dhan, oo waxaan ka hadlayaa falayaashaaga.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "waxaan ka fekerayaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "shuqullaaga"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "oo falayaashaaga"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "waxaan ka hadlayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:50.929254403Z",
+  "model": "glm-5.3"
+}

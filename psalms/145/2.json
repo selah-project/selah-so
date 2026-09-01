@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Maal kasta waan adiga barakaynayaa, oo Magacaga waan ammaanayaa weligay iyo weligii.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Maal"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "waan adiga barakaynayaa"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "oo waan ammaanayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:02.103379489Z",
+  "model": "glm-5.3"
+}

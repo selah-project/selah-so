@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ruuxa Mitsrayimna way dhex madhnaan doontaa gudahiisa, taladiisana waan liqi doonaa, waxayna raadi doonaan sanamyada iyo kuwa hadlaya khafiif ah iyo ruhusha dhintay iyo kuwa oga wax la'aan.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "way dhex madhnaan doontaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "gudahiisa"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "taladiisana"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "waan liqi doonaa"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "waxayna raadi doonaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(u)"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "kuwa hadlaya khafiif ah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ruhusha dhintay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "kuwa oga wax la'aan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:48.795623250Z",
+  "model": "glm-5.3"
+}

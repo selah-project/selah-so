@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Markaas Zebul, amiirkii magaalada, wuxuu maqlay ⟨את⟩ hadalkii Ga'al ina Cabed, cadhadiisuna way kululeedday.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "amiirkii"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkii"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Ga'al"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Cabed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "way kululeedday"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadhadiisuna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:33:54.555976027Z",
+  "model": "glm-5.3"
+}

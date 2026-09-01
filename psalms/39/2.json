@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxaan idhi: Jidadkayga waan ilaalin doonaa si aan carrabkayga ugu dembaabin; afkayga waan ilaalin doonaa ⟨xannibid⟩, intuu shar-geelku igu horreeyo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "waan ilaalin doonaa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jidadkayga"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "si aan ugu dembaabin"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "carrabkayga"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "waan ilaalin doonaa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "xannibid"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "intuu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-geelku"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "igu horreeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.029373698Z",
+  "model": "glm-5.3"
+}

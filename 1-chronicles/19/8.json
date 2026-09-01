@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Daawud wuu maqlay, wuuna diray ⟨את⟩ Yoo'aab iyo ⟨את⟩ dhammaan ciidanka adkaatada.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wuuna diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoo'aab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ciidanka adkaatada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "adkaatada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:43.368454915Z",
+  "model": "glm-5.3"
+}

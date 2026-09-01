@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaad u ilaalisay adeeggaaga Daawuud aabbahay ⟨את⟩ waxa aad ku tidhi, oo afkaaga aad ku tidhi, gacantaada aad ku dhammeysay sidii ⟨maanta⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "aad u ilaalisay"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "adeeggaaga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aad ku tidhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "aad ku tidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "oo aad ku tidhi"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "aad ku dhammeysay"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sidii maanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:44:14.697343256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Aniguna, badhtaada khesedkaaga ayaan ku geli doonaa gurigaaga; cabsidaada dhexdeed ayaan u sujuudayaa ⟨el⟩ hoygaaga quduuska ah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "badhtaada"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ayaan ku geli doonaa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ayaan u sujuudayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hoygaaga"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "cabsidaada dhexdeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.514957127Z",
+  "model": "glm-5.3"
+}

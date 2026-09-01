@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxaan arkay addoono fuulay faras, oo madaxdoono ku socda sida addoonada dhulka.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoono"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuulay"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "oo madaxdoono"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ku socda"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "sida addoonada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:35.818189352Z",
+  "model": "glm-5.3"
+}

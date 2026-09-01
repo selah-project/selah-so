@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Suubanaantaada waa suuban ilaa iyo weligii, oo Sharcigaaguna waa run.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Suubanaantaada"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "suuban"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligii"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "oo Sharcigaagu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waa run"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:34.145543065Z",
+  "model": "glm-5.3"
+}

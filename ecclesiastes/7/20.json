@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waayo, aadan caadi ah oo dhulka ku nool ma jiro, mid samayn wanaag oo aan dembi gelin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "caadi ah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka ku nool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "dembi gelin"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:23.605898803Z",
+  "model": "glm-5.3"
+}

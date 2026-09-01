@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Maxaytu dhammaan maalmahaenna way dhaceen xaallada cadhadaada; sanadahaenna waannu dhammaystirnay sida hees-go'an (higge).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaytu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "maalmahaenna"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "way dhaceen"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "xaallada cadhadaada"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "waannu dhammaystirnay"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "sanadahaenna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "hees-go'an (higge)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:35.560718073Z",
+  "model": "glm-5.3"
+}

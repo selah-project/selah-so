@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaana idhi: Waan idin korixin doonaa ⟨את⟩ idin dhibatanida Mitsrayim, oo waxaan idin geeyn dhulka Kanaaniga iyo Xitiga iyo Emoriga iiperiziga iyo Xiviga iye Yebusiga, dhulka caan iyo malab ku socda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "waxaana idhi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "waan idin korixin doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "dhibatanida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo waxaan idin geeyn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "iyo Xitiga"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "iyo Emoriga"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iyo Periziga"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "iyo Xiviga"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "iyo Yebusiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ku socda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "caan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "iyo malab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:06:06.348779139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Ilaa imisa, Yahweh, ayaa adigu is-garisaa waligiis? Xanaaqadaadu miayay sida dab u gubanaysaa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ayaa adigu is-garisaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "waligiis"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "miayay u gubanaysaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "xanaaqadaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:51.465059535Z",
+  "model": "glm-5.3"
+}

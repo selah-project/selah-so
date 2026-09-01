@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "ama qolof-dhabar (gibben), ama aad u gaaban oo jilicsan, ama isku-khalkhal indhihiisa ku jira, ama cudur-gariir (garab), ama hubane (yalefet), ama xoog-laga-diley ah xubnaha taranka.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "qolof-dhabar (gibben)"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "דק",
+      "gloss": "aad u gaaban oo jilicsan"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "isku-khalkhal indhihiisa ku jira"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "indhihiisa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "cudur-gariir (garab)"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "hubane (yalefet)"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "xoog-laga-diley ah"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "xubnaha taranka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:45.143274036Z",
+  "model": "glm-5.3"
+}

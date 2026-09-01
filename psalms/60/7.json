@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Si aad u badbaadin kuwa aad jeceshahay, gargaar midigtaada, oo naga jawaab.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "u badbaadin"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "kuwa aad jeceshahay"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaada"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "oo naga jawaab"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:20.509345958Z",
+  "model": "glm-5.3"
+}

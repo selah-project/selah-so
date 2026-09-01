@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo Luudisii oo ⟨את⟩ Abram la socday waxay lahaayeen adhi iyo loʼ iyo teendo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Oo...isii"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Luudisii"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "socday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waxay lahaayeen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "iyo loʼ"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "iyo teendo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:37.036391867Z",
+  "model": "glm-5.3"
+}

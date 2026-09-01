@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxay cuni doonaan Aharon iyo wiilashiisii ⟨את⟩ jidhka wanaga iyo ⟨את⟩ rootiga saaka ku jira, iridda Khaymada Kulanka agteeda.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "waxay cuni doonaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhka wanaga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jidhka"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rootiga"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "saaka ku jira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:55.460689749Z",
+  "model": "glm-5.3"
+}

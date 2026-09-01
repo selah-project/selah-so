@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ii jeedso oo ii naxariis, waayo keli ah oo sabarleh baan ahay.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Ii jeedso"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i (jero)"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "oo ii naxariis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "oo sabarleh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan ahay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:44.914375977Z",
+  "model": "glm-5.3"
+}

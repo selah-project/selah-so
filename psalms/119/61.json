@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Xargaha sharka ayay ii dheereen ⟨dheereen⟩; Torahtada ma aan illoobin.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "xargaha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ayay ii dheereen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torahtada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aan"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "illoobin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:21.941425937Z",
+  "model": "glm-5.3"
+}

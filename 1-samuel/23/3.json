@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ninkii Daawudna waxay ku yidhaahdeen: Bal eeg, annaga halkan Yahuudah bay nagu cabsi tahay, mana ladoortaa haddii aannu tagnno Qe'ilah, oo aannu u dhaqaaqno safarka ciidamada Filistiinta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay ku yidhaahdeen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Ninkii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawudna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annaga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bay nagu cabsi tahay"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "mana ladoortaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "aannu tagnno"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Qe'ilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u dhaqaaqno"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "safarka ciidamada"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:02.447291940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuuna dhisay ⟨את⟩ Beyt-lekhem iyo ⟨את⟩ Eiitaam iyo ⟨את⟩ Tekooa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-lekhem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eiitaam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eiitaam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekooa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekooa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:03.691814950Z",
+  "model": "glm-5.3"
+}

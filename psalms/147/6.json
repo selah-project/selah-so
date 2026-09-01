@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Yahweh wuxuu taaggiyaa dulqaadka leh; sharalaydana wuu hoosayn ilaa dhulka.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "wuxuu taaggiyaa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dulqaadka leh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "wuu hoosayn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharalayda"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:41.290024381Z",
+  "model": "glm-5.3"
+}

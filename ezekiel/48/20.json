@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 48:20",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Teruumadda oo dhan waxay noqon doontaa shan iyo labaatan kun labaatan iyo shan kun; afartaad ee teruumadda qodsanka ah waxaad qaddimeysaan ⟨את⟩ qaddinta qudsu ah, iyadoo la soo wadayo dhulka la qabsaday ee magaalada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruumadda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "labaatan iyo shan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "afartaad"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "waxaad qaddimeysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaddinta qudsu ah"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruumadda"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qodsanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la soo wadayo"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "dhulka la qabsaday"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:43.959404054Z",
+  "model": "glm-5.3"
+}

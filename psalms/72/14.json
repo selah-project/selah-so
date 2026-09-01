@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Khiyaanada iyo dulqa-darrada wuu ka xoreyn doonaa nafahooda, oo dhiiggoodu qiimo weyn bay lahayn indhihiisa.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "ka khiyaanada"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "iyo dulqa-darrada"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "wuu xoreyn doonaa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafahooda"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "oo qiimo weyn"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dhiiggoodu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "indhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.420750885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Culays middii badda ahayd: sida dabaydhaha Negeb bay u soo dhaqaaqaan; middii badda ahayd bay ka soo timaaddaa, ka dhul cabsi leh.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Culays"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "middii badda ahayd"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "dabaydhaha"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "u soo dhaqaaqaan"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "middii badda ahayd"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bay ka soo timaaddaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dhul"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "cabsi leh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:52.101741202Z",
+  "model": "glm-5.3"
+}

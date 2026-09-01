@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Nin xigmad leh markuu ⟨את⟩ nin doqon xukumo, wuu cadhoodaa iyo wuu qoslaa, nasiib ma jiraan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xigmad leh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "markuu xukumo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nin doqon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "doqon"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "wuu cadhoodaa iyo"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "wuu qoslaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nasiib (xasliid)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:13.502555825Z",
+  "model": "glm-5.3"
+}

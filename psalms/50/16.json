@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Laakiin xunaha waxaa ku yidhi Elohim: Maxaad u leedahay inaad sheegto sharcigyadayda, oo aad afkaaga ku qaadato ballaankyadayda?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Laakiin xunaha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "waxaa ku yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad u leedahay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "inaad sheegto"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "sharcigyadayda"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "oo aad ku qaadato"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballaankyadayda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:28.327313030Z",
+  "model": "glm-5.3"
+}

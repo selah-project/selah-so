@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Dabayshu waxay ku xannibaysay ⟨את⟩ baalaheeda gudaheed, oo way ka ceeboobi doonaan allabariyadooda.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "waxay ku xannibaysay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayshu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "baalaheeda gudaheed (iyada)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "baalaheeda gudaheed"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "way ka ceeboobi doonaan"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "allabariyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:48.943028431Z",
+  "model": "glm-5.3"
+}

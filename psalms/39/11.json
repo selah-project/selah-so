@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Nabarradaada iga ka saar; xooggii gacantaada ayaa ani halaagsanayahay.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ka saar"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "nabarradaada"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "xooggii"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "halaagsanayahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:11.060824185Z",
+  "model": "glm-5.3"
+}

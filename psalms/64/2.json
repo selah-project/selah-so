@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Maqal, Elohim, codkayga oo aan ka sheekaysto; cabsida cadowga waxay ka ilaalin noloshayda.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "oo aan ka sheekaysto"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "waxay ka ilaalin"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:48.879154919Z",
+  "model": "glm-5.3"
+}

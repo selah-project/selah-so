@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuuna Noox geliyay, iyo wiilashiisii, iyo naagiisii, iyo raggii wiilashiisii ⟨את⟩ la,⟨gee⟩ halka safarka, waxay ka carareen biyaha Mabbadda.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna geliyay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noox"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisii"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "iyo naagiisii"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "iyo raggii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la,⟨gee⟩",
+      "marks": "Noox iyo ehellkiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "halka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "safarka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "waxay ka carareen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mabbadda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:29.390169279Z",
+  "model": "glm-5.3"
+}

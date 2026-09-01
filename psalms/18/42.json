@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxay qayliyeen, mana jiro mid gargaara; Yahweh bay u qayliyeen, uma jawaabin.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "waxay qayliyeen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana jiro"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mid gargaara"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "jawaabin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:12.339032952Z",
+  "model": "glm-5.3"
+}

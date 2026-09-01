@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Waan u xidhaa samada madowdheer, oo saq baan dhigaa daboolkeeda.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Waan u xidhaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "madowdheer"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "saq"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "baan dhigaa"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "daboolkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:29.886023366Z",
+  "model": "glm-5.3"
+}

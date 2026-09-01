@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ahaato hadda khesedkaaga inuu ii nasriyeeyo, sidaad u sheegtay adigoo adeeggaaga ah.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ahaato"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "inu ii nasriyeeyo"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sidaad u sheegtay"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "adeeggaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:37.422492647Z",
+  "model": "glm-5.3"
+}

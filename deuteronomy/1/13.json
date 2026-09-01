@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Doorta idinku rag xigmad leh, oo gar leh, oo lagu yaqaan qabiiladiinna, waana idinka dhigaa madaxyadiinna.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Doorta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "rag"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "xigmad leh"
+    },
+    {
+      "surface": "ונבנים",
+      "gloss": "oo gar leh"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "oo lagu yaqaan"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "qabiiladiinna"
+    },
+    {
+      "surface": "ואשימם",
+      "gloss": "waana idinka dhigaa"
+    },
+    {
+      "surface": "בראשיכם",
+      "gloss": "madaxyadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:09.415171928Z",
+  "model": "glm-5.3"
+}

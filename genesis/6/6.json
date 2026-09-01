@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh wuxuu ka naday inuu sameeyay ⟨את⟩ aadamiga dhulka gudaheeda, wuxuuna ka murugooday ilaa qalbigiisa.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wuxuu ka naday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamiga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka gudaheeda"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "wuxuuna ka murugooday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:38.777022851Z",
+  "model": "glm-5.3"
+}

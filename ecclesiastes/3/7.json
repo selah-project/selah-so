@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtiga loo taalayo in la dildillooyo, iyo waqtiga loo taalayo in la tol-tolliyo; waqtiga loo taalayo in la aammino, iyo waqtiga loo taalayo in la hadlo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "in la dildillooyo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "in la tol-tolliyo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "in la aammino"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "in la hadlo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:16.676236967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu arkay markuu arkay inay iyadu adkeysanayso inay la ⟨את⟩ dheed tagto, markaasuu joojiyay inuu ku hadlo iyada.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "adkeysanayso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyadu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inay tagto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "la ⟨את⟩ dheed",
+      "marks": "la dheed (iyada)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "markaasuu joojiyay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inuu hadlo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "iyada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:31.529252401Z",
+  "model": "glm-5.3"
+}

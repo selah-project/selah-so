@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Waxaad ka fogeysay kuwa ii yaqaan ilaa i fog; waxaad ii dhigtay inay noqdaan kuwa igu naca; waan xirnaa, oo aan bixin karin.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Waxaad ka fogeysay"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "kuwa ii yaqaan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ilaa i fog"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "waxaad ii dhigtay"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "wax la naco"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "waan xirnaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "bixin karin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:54.487944228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahweh Elohiimkiin wuu idiin badshay, eedu maanta waxaad tihiin sida xiddigaha samada ⟨את⟩ intooda badan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiimkiin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wuu badshay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idin"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "eedu waxaad tihiin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sida xiddigaha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "intooda badan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:38.919035957Z",
+  "model": "glm-5.3"
+}

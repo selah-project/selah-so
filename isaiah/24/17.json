@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Cabsi, iyo godka, iyo daaqadda, adiga ayay ku dul saaran yihiin, degganaha dhulka.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Cabsi"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "iyo godka"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "iyo daaqadda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "adiga ... ku dul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:51.159759943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Magaalo yar, oo dhalinyaro yar ku jiraa; boqor weynase wuxuu ka yimid, wuxuuna ku wareegay ⟨את⟩, wuxuuna ku dhisay hareero waaweyn.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "oo dhalinyaro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku jiraa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wuxuuna ka yimid"
+    },
+    {
+      "surface": "אליה",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weynaa"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "wuxuuna ku wareegay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "wuxuuna ku dhisay"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "hareero"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "waaweyn"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:53.271159010Z",
+  "model": "glm-5.3"
+}

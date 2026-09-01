@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Hubaal wanaag iyo khesed iigu soo baxaan inta aan noolahay, waananno degganahay guriga Yahweh ilaa mudo dheer.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "iyo khesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "iigu soo baxaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "aan noolahay"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "waananno degganahay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ilaa mudo dheer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:07.284924996Z",
+  "model": "glm-5.3"
+}

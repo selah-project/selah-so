@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Laakiin kuma noqon dembiyada Gurigii Yarob'am, wuxuuna ⟨את⟩ Yisraa'iil ku dembiyay; waana ku socdeen, welina Asherahu wuxuu taagnaa Shomeroon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha (kuma)"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "way ka imaan weydeen"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "dembiyada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Gurigii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(midka)"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "wuxuuna ku dembiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waana socdeen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "welina"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asheraha"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "wuxuu taagnaa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:54.412134467Z",
+  "model": "glm-5.3"
+}

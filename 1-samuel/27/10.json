@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Akiishna wuxuu yidhi: Maanta xaggee baad ku dul-qaadan? Daawudna wuxuu yidhi: Koonfurta Yahuudah, iyo koonfurta Yerachme'eliga, iyo koonfurta Keyniga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiish"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "maanta xaggee baad ku dul-qaadan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "על",
+      "gloss": "koonfurta"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koonfurta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koonfurta"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerachme'eliga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koonfurta"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keyniga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:20.685392971Z",
+  "model": "glm-5.3"
+}

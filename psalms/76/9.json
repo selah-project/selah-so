@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Samada ka dibbaad dhigay Xukun; dhulkuu wuu cabsaday, wuu na deggan yahay.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "samada ka"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "waxaad dhigay"
+    },
+    {
+      "surface": "דין",
+      "gloss": "Xukun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wuu cabsaday"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "wuu na deggan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:30.428259762Z",
+  "model": "glm-5.3"
+}

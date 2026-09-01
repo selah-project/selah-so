@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Waayo, El weyn baa Yahweh, boqor weyn ⟨ahaansho⟩ ka sarreeya ilaahyada oo dhan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:58.127454570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Laambaa ⟨ah⟩ ⟨ee⟩ cagiitayda ereygaagii, oo iftiinaa jidadayda.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "laamba"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "cagiitayda"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ereygaagii"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "oo iftiin"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "jidadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:51.045234951Z",
+  "model": "glm-5.3"
+}

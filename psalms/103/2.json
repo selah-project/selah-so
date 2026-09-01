@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Nafdayow, ammaan u bax ⟨את⟩ Yahweh, ha illaawin dhammaan wanaagiisa.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ammaan u bax"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafdayow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... (diid)"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "illaawin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "wanaagiisa (gargaaraysigiisa)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:45.875473111Z",
+  "model": "glm-5.3"
+}

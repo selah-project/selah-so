@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Chizqiyahu boqorkiina waqtigii subaxdii ayauu soo kacay, wuxuuna soo ururiyay ⟨את⟩ hoggaamiyayaasha magaalada, wuxuuna kor u kacay baytkii Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "waqtigii subaxdii ayauu soo kacay"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizqiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkiina"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "wuxuuna soo ururiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoggaamiyayaasha magaalada"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna kor u kacay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:45:12.137738955Z",
+  "model": "glm-5.3"
+}

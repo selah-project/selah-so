@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "iyo cudurka midaabada ku socda, iyo baabba'inta celcelcel\/barqo ku baxda.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "cudurka"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "midaabada"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ku socda"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "baabba'inta"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ku baxda"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "celcelcel (barqo)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:00.900784222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxayna ku tidhi Ibraahim: Keen in la saaro addoonaddan iyo ⟨את⟩ inkeeda, waayo, inka addoonaddan lama dhaxli karo inkan iyo igu Yitsxaq.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna ku tidhi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Keen in la saaro"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "addoonaddan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "inkeeda"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inkeeda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "dhaxli karo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "addoonaddan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "igu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:47.043968599Z",
+  "model": "glm-5.3"
+}

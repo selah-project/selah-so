@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Markaas wiilashii Israa'iil waxay qayliyeen xagga Yahweh, iyagoo leh: Waxaanu denbi kuu galnay, waayo waxaanu ka tagnay ⟨את⟩ Elohim-keenna, waxaannu caabudnay ⟨את⟩ Beecim-ka.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "waxay qayliyeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "waxaanu denbi galnay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "waxaanu ka tagnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-keenna"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "waxaannu caabudnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beecim-ka"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Beecim-ka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:43.077125983Z",
+  "model": "glm-5.3"
+}

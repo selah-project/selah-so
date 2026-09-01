@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo waxay ogaan doonaan in aan aniga ahay Yahweh, markaan faafsho ⟨את⟩ shacabka ummaddaha dhexdooda, oo aan fidsho ⟨את⟩ shacabka wadannda dhulka hoostiisa.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "waxay ogaan doonaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga ahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "markaan faafsho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka (ummaddaha dhexdooda)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ummaddaha dhexdooda"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "oo aan fidsho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka (wadannda dhulka hoostiisa)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "wadannda dhulka hoostiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:27:27.274819789Z",
+  "model": "glm-5.3"
+}

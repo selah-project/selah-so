@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Oo Yahwey, waayo anigu adigoo addoon ah baan ahay, addoonkaaga baan ahay, wiilka addoonadaada; waad furrtay xeryahayga.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adigoo addoon ah baan ahay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan ahay"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "addoonadaada"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "waad furrtay"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "xeryahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:27.652369415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuu i soo saaray ⟨את⟩ meel bannaan, wuxuu i badbaadinay, waayo, wuxuu igu raalliyahay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu soo saaray"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "meel bannaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga (i)"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wuxuu i badbaadinay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wuxuu raalliyahay (jecel yahay)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "igu (i)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:46.103259977Z",
+  "model": "glm-5.3"
+}

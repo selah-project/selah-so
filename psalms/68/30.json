@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Ka macbadkaaga, ku ⟨upon⟩ saabsan Yeruushaalaym; boqorradii waxay kuu keeni doonaan hadhyo.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Ka macbadkaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "waxay keeni doonaan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hadhyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:14.082420654Z",
+  "model": "glm-5.3"
+}

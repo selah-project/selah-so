@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo qabiilada Daan: ⟨את⟩ Elteqeh iyo ⟨את⟩ beerkeedii, ⟨את⟩ Gibbethon iyo ⟨את⟩ beerkeedii.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qabiilada"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibbethon"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibbethon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:32.847341737Z",
+  "model": "glm-5.3"
+}

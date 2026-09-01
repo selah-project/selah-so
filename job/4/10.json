@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Qayladda libaaxa iyo codka libaaxa xoongan, ilkaha ilmaha libaaxana waa la jajabiyaa.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "qayladda"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "libaaxa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "iyo codka"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "libaaxa xoongan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ilkaha"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ilmaha libaaxa"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "waa la jajabiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:06.096864195Z",
+  "model": "glm-5.3"
+}

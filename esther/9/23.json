@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yehuudiguna way aqbashay ⟨את⟩ waxay bilaabeen inay sameeyaan, iyo ⟨את⟩ wax Mordekay ku qoray.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "way aqbashay"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehuudiguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxay bilaabeen inay sameeyaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxay"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "bilaabeen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inay sameeyaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wax Mordekay ku qoray"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wax"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "qoray"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:39.797118468Z",
+  "model": "glm-5.3"
+}

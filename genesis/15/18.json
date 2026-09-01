@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Maalintaas Yahweh wuxuu la jaray Axbram ballan, isagoo leh: Zurriyadaada waxaan siyay ⟨את⟩ dhulkan, Wabiga Mitsrayim ilaa Wabiga weyn, Wabiga Perath.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wuxuu la jaray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axbram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Axbram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Zurriyadaada"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan siyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "Wabiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Wabiga"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Wabiga"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perath"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:49.925872064Z",
+  "model": "glm-5.3"
+}

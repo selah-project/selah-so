@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Yahweh waa la sarreeyay, waayo wuxuu deggan yahay ⟨meesha⟩ sare; wuxuu Siyoon ku buuxshay xeer iyo caddaalad.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "waa la sarreeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wuxuu deggan yahay"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "meesha sare"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wuxuu ku buuxshay"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xeer"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "iyo caddaalad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:18.002272225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuu taagnaa, wuuna duceeyay ⟨את⟩ dhammaan shirka Israaiil cod weyn, wuxuuna yidhi:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Wuu taagnaa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuuna duceeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan shirka Israaiil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wuxuuna yidhi"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:19.423359989Z",
+  "model": "glm-5.3"
+}

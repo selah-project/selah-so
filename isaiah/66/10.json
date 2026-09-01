@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Kula farxa ⟨את⟩ Yeruushaalaym, oo kula geeysta kuwa dhan ee jeclahay; kula farxa ⟨את⟩ farxad dhan, kuwa dhan ee u ooyey.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Kula farxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "oo kula geeysta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(keeda)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwa dhan"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ee jeclahay"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "kula farxa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "farxad dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwa dhan"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "ee u ooyey"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "(keeda)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:59:31.640927374Z",
+  "model": "glm-5.3"
+}

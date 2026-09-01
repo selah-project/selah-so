@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh waa ⟨dhow⟩ dhammaan kuwa caawiyay, dhammaan kuwa caawiyay xaqdaro (runta ahaan).",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dhow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "kuwa caawiyay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "caawiyay"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "xaqdaro (runta ahaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:35.786240518Z",
+  "model": "glm-5.3"
+}

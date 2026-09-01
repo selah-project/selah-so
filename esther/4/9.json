@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hathakh wuxuu yimid, wuuna sheegay Ester ⟨את⟩ hadallada Mordekay.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wuuna sheegay"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadallada"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadallada"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:30.092976193Z",
+  "model": "glm-5.3"
+}

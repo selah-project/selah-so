@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Oo aadanaha sharaf ha sii dhowran, wuxuu la mid yahay bahallaha (xoolaha) ee la baabi'iyay.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Oo aadanaha"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "sii dhowran"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "wuxuu la mid yahay"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "bahallaha (xoolaha)"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "la baabi'iyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:07.200536342Z",
+  "model": "glm-5.3"
+}

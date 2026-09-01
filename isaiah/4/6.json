@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Guri-dulsaarna waxay noqon doontaa hoos-dul maalintii, (si looga ilaaliyo) kulaylka, iyo magangal iyo meel qarin (si looga ilaaliyo) daadaha iyo roobka.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Guri-dulsaarna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "hoos-dul"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "(si looga ilaaliyo) kulaylka"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "iyo magangal"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "iyo meel qarin"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "(si looga ilaaliyo) daadaha"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "iyo roobka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:36.809391522Z",
+  "model": "glm-5.3"
+}

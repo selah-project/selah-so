@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Sida caqligaaga samee, oo oodkii madaxiisa ha u dhigin Sheool nabadda dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "samee"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "sida caqligaaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "u dhigin inuu hoos u dhigo"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "oodkii madaxiisa"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "nabadda dhexdeeda"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheool"
+    }
+  ],
+  "timestamp": "2026-09-01T03:10:14.285276508Z",
+  "model": "glm-5.3"
+}

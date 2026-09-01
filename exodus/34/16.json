@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "oo waxaad qaadataysaa gabdhadiisa inaad u guuriso wiilashaaga, markaas gabdhadiisu waxay zinayn doonaan xagga ilaahyahooda, oo waxay dhiiri-gelin doonaan ⟨את⟩ wiilashaaga inay zinayaan xagga ilaahyahooda",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "oo waxaad qaadataysaa"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "gabdhadiisa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "wiilashaaga"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "waxay zinayn doonaan"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "gabdhadiisu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ilaahyahooda"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "waxay dhiiri-gelin doonaan zinayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashaaga"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaaga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ilaahyahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:49.037802048Z",
+  "model": "glm-5.3"
+}

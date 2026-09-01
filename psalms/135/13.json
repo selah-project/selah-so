@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Yahweh, magacaagu ilaa weligii; Yahweh, xusitaankaagu ilaa qarni iyo qarni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaagu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "xusitaankaagu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ilaa qarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo qarni"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:15.077383117Z",
+  "model": "glm-5.3"
+}

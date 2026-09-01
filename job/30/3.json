@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Baahidii iyo gaajadii darteed way baahsan yihiin; dhulka engeggaa waxay quutaan, meeshii hore burbur iyo holac.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "baahidii darteed"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "iyo gaajadii"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "way baahsan yihiin"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "waxay quutaan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dhulka engegga"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "meeshii hore"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "iyo holac"
+    }
+  ],
+  "timestamp": "2026-09-01T05:48:32.003678916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Suleymaanna wuxuu u sheegay ⟨את⟩ waxa kasta oo ay weydiiyay; ma jirin eray la qariyay oo boqorka ka maqan oo aan u sheegin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuu u sheegay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u (si)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa kasta"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "oo ay weydiiyay (hadalladeedii)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma (jirin)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ahaa (jiray)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eray"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "la qariyay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka (laga maqan)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "u sheegin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u (si)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:07.097866926Z",
+  "model": "glm-5.3"
+}

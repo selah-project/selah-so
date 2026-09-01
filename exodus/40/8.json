@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Oo waxaad dhigaysaa ⟨את⟩ barxadda hareeraheeda, oo waxaad dhigaysaa ⟨את⟩ saadada iridda barxadda.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "oo waxaad dhigaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barxadda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hareeraheeda"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "oo waxaad dhigaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saadada iridda barxadda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "saadada"
+    },
+    {
+      "surface": "שער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:37.045929140Z",
+  "model": "glm-5.3"
+}

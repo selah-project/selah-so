@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "iyo ⟨את⟩ miiska iyo ⟨את⟩ qalabkiisa, iyo ⟨את⟩ laambadda nadiifka ah (menorada dahabka ah) iyo ⟨את⟩ qalabkeeda oo dhan, iyo ⟨את⟩ allbaariga indhaha;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalabkiisa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "laambadda nadiifka ah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "laambadda"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nadiifka ah (dahabka ah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalabkeeda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "qalabkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "allbaariga indhaha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allbaariga"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "indhaha (qalabka lamaanaha)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:32.786314549Z",
+  "model": "glm-5.3"
+}

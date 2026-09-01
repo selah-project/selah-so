@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Oo wuxuu cunay dhirta daaqsinka oo dhan dhulkooda gudihiisa, oo wuxuu cunay midhaha carrada ayagood.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Oo wuxuu cunay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "dhirta daaqsinka"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "dhulkooda gudihiisa"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "oo wuxuu cunay"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "carrada ayagood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:09.210077053Z",
+  "model": "glm-5.3"
+}

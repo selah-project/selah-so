@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Aniguna waan waxbaray, waan adkeeyay gacmohooda, waase xume bay iigu tashadeen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "waan waxbaray"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "waan adkeeyay"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bay tashadeen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xume"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:50.953402290Z",
+  "model": "glm-5.3"
+}

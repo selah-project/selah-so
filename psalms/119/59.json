@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan fiiriyay jidadkayga, oo cagahayga waxaan u celiyay markahadaaga.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "waxaan fiiriyay"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jidadkayga"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "waxaan u celiyay"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "markahadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:56.079136826Z",
+  "model": "glm-5.3"
+}

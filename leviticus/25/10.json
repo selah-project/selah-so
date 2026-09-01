@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxaad dhaqan gelinaysaan ⟨את⟩ sannadka kontonaad ee sanadka, waxaana ku dhawaaqi doontaan xorriyad dhulka ugu dhan degganayaashiisa; Yubili bay idiin noqonaysaa, waxaadna ku noqonaysaan nin kasta oo ah milkihiisii, iyo nin kasta oo qoyskiisa ah.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "waxaad dhaqan gelinaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sannadka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sannadka"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "kontonaad"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "waxaana ku dhawaaqi doontaan"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "xorriyad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ugu dhan"
+    },
+    {
+      "surface": "יוביה",
+      "gloss": "degganayaashiisa"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubili"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "noqonaysaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "waxaadna ku noqonaysaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "milkihiisii"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "qoyskiisa"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "waxaad ku noqonaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:17.212846947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wuxuu yimid Daawud Nobe, Aximelekh wadaadda, oo Aximelekh uu gariiray markuu la kulmay Daawud, wuxuuna ku yidhi: Maxaad adigu keliya tahay, oo ninna ⟨את⟩ aan la jirin?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wuxuu yimid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo (uu u yimid)"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelekh"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "uu gariiray"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelekh"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "markuu la kulmay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "keliya tahay"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "oo ninna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aan la jirin",
+      "marks": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:41.758833717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yehooshuuca wuxuu ku yidhi, «Ha cabsanina ha niyad-jabinina; adkaa oo istaaga, waayo sidaas buu Yahweh u sameyn doonaa cadowadiinna oo dhan ee ayaad ⟨את⟩ kuwaas la dagaallamaysaan.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "cabsanina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "niyad-jabinina"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "adkaa"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "istaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "u sameyn doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowadiinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ayaad"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "la dagaallamaysaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kuwaas",
+      "marks": "kuwaas (magac-u-yaal: cadowadiinna)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:23.420235287Z",
+  "model": "glm-5.3"
+}

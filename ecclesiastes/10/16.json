@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Balay laguu baahay dhulkoow, markay boqorku yahay curur, oo odayaashu subaxna cunaan!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "balay laguu baahay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "laguu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkoow"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "markay boqorku"
+    },
+    {
+      "surface": "נער",
+      "gloss": "curur"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "oo odayaashu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "cunaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:39.253831842Z",
+  "model": "glm-5.3"
+}

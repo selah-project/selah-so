@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Waxay diyaariyeen ⟨את⟩ hadhiyada ilaa Yoosef uu yimid gehinni, maadaama ay maqleen in halkaas ay cuni doonaan roodhi.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Waxay diyaariyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadhiyada"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadhiyada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "uu yimid"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "gehinni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ay maqleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ay cuni doonaan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roodhi"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:28.472614912Z",
+  "model": "glm-5.3"
+}

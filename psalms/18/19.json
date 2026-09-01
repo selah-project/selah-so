@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxay i horay dhaceen maalinta cilddaydii, oo Yahweh na wuxuu ahaa taageeradaydii.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "waxay i horay dhaceen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "cilddaydii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo wuxuu ahaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "taageero"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:29.500230278Z",
+  "model": "glm-5.3"
+}

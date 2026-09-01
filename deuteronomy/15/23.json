@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Kaliya dhiigiisa ha cunin; dhulka ku daadi sidii biyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigiisa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiigiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha cunin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "(cuni)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "daadi"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sidii biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:49.608383058Z",
+  "model": "glm-5.3"
+}

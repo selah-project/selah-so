@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxay ceebayeen kuwa shaqeeya basbariinta la qalajiyey iyo durrayaasha marada cad.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "waxay ceebayeen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kuwa shaqeeya"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "basbariin"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "la qalajiyey"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "iyo durrayaasha"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "marada cad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:19.685936215Z",
+  "model": "glm-5.3"
+}

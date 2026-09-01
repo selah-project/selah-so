@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Waxaan ku idhi Yahweh: Adiga waxaad tahay Elkay; dhegeysi, Yahweh, codka baryadayda.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Waxaan ku idhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elkay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeysi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "baryadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:26.976222939Z",
+  "model": "glm-5.3"
+}

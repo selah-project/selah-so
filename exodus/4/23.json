@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaana ku idhi: Dhaaf wiilkayga inuu i caabudo; adiguse waad diiday inaad dhaaftid. Bal eeg, anigoo diliaya ayaan ah, waanan dili doonaa ⟨את⟩ wiilkaaga, ilmo-gacmeedkaaga.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Waxaana ku idhi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Dhaaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilkayga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkayga"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "inuusan i caabudo"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "waad diiday"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "inaad dhaaftid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dili doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilkaaga"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ilmo-gacmeedkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:12.040162513Z",
+  "model": "glm-5.3"
+}

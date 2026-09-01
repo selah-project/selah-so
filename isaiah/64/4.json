@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Waxaad la kulantay ⟨את⟩ kan faraxsan oo xaqqa sameeya, kuwa wadooyinkaaga ku xusa; bal, adigu waxaad cadhootay, oo waxaan dembaynay; kuwaas dhexdooda waa ⟨waqti dheer⟩, oo waa la badbaadin doonaa.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "waxaad la kulantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan faraxsan oo xaqqa sameeya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "faraxsan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oo sameeya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "xaqqa"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "wadooyinkaaga"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "ku xusa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "waxaad cadhootay"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "oo waxaan dembaynay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas dhexdooda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waqti dheer (oolam)"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "oo waa la badbaadin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:36.862322683Z",
+  "model": "glm-5.3"
+}

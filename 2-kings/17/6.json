@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Sannadkii sagaalaad ee Hooshea'e, boqorkii Ashshur wuu qabsaday ⟨את⟩ Shomeron, wuxuuna guuriyay ⟨את⟩ Israa'iil Ashshur, wuxuuna degsiyay ⟨את⟩ kuwaas Halax iyo Xaboor, webi Gozaan, iyo magaalooyinka Maadi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sannadkii"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "sagaalaad"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hooshea'e"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "wuu qabsaday"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "wuxuuna guuriyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna degsiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (Halax iyo Xaboor)"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halax"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "iyo Xaboor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "webi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozaan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "iyo magaalooyinka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maadi"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:46.687299904Z",
+  "model": "glm-5.3"
+}

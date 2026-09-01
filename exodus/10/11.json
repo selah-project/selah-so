@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Maya, saas ma aha; haada, raggii aada oo ⟨את⟩ Yahweh caabuda, waayo ⟨את⟩ idinka ayaa doondonnaan; wuxuunase ka eryay ⟨את⟩ iyaga ⟨את⟩ ka hor wajiga Farcoon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Maya, saas ma aha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "aada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "haada"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "raggii"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "oo caabuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ayaa doondonnaan"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wuxuunase ka eryay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka hor",
+      "marks": "wajiga Farcoon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:01.902228976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Eloyim ku eed soo saar; ha u dhacaan talaabadooda; fara badnaanta khiyaanadooda ka eryi, waayo adiga ayay ku caayeen.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ku eed soo saar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloyim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ha u dhacaan"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "talaabadooda"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "fara badnaanta"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "khiyaanadooda"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ka eryi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ayay ku caayeen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:24.313797556Z",
+  "model": "glm-5.3"
+}

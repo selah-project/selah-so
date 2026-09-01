@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 117,
+  "translation": "Ammaantiya Yahweh, shacabka oo dhan; ammaantiya ⟨את⟩ Yahweh, dadka oo dhan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaantiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ammaantiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:08.267845339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaa loo sheegay Shaa'uul in Daawiid yimid Qeeylaah; Shaa'uulna wuxuu yidhi: ⟨את⟩ isaga wuu ii gudbiyay Elohim gacantayda, waayo waa la xiray inuu galo magaalo albaabo iyo biriq leh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxaa loo sheegay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yimid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawiid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeeylaah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wuu ii gudbiyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Daawiid)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "waa la xiray"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "inuu galo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "albaabo"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "iyo biriq"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:35.218607079Z",
+  "model": "glm-5.3"
+}

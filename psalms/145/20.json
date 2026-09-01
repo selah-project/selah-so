@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh wuu ilaaliyaa ⟨את⟩ dhammaan kuwa jeclahay, oo ⟨את⟩ dhammaan sharka falayaasha wuu baabbi'in doonaa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "wuu ilaaliyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan kuwa jeclahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kuwa jeclahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan sharka falayaasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "sharka falayaasha"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "wuu baabbi'in doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:35.786614828Z",
+  "model": "glm-5.3"
+}

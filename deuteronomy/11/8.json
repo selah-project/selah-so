@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo haddaba ilaaliya ⟨את⟩ amarka oo dhan oo aan idinku amro maanta, si aad adaggi nootaan, oo aad gartaan, oo aad dhaxashaan ⟨את⟩ dhulka aad u gudbaysoona inaad dhaxashaan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "idinku amro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "aad adaggi nootaan"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "oo aad gartaan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "oo aad dhaxashaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "adiga (iyaal)"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "u gudbaysoona"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "inaad dhaxashaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:05.691526543Z",
+  "model": "glm-5.3"
+}

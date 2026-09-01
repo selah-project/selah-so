@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Boqorradii Tarshish iyo jazeeruhu qadarkin bay soo celinayaan, boqorradii Sheba iyo Seba hadiyuhu baa soo dhoweynayaan.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "iyo jazeeruhu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "qadarkin"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bay soo celinayaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "iyo Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "hadiyuhu"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "baa soo dhoweynayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.167283348Z",
+  "model": "glm-5.3"
+}

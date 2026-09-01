@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Waxaas waad sameysay, aniguna waan aamusay; waxaad moodday inaan ⟨ahay⟩ mid la mid ah adiga — waan ku cunnaysiin doonaa, waxaana hortaada kuu diyaarin doonaa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waad sameysay"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "aniguna waan aamusay"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "waxaad moodday"
+    },
+    {
+      "surface": "היות",
+      "gloss": "inaan ⟨ahay⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨ahay⟩"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mid la mid ah adiga"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "waan ku cunnaysiin doonaa"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "waxaana kuu diyaarin doonaa"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "hortaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:23.845790611Z",
+  "model": "glm-5.3"
+}

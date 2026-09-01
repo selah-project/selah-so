@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuu u beddelay ⟨את⟩ biyahooda diid (dhiig), wuuna dilay ⟨את⟩ mallaayadahooda.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Wuu u beddelay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyahooda"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "biyahooda"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "diid (dhiig)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallaayadahooda"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "mallaayadahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:46.232272753Z",
+  "model": "glm-5.3"
+}

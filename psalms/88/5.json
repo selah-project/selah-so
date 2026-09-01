@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Waxaa laygu tiriyay kuwa godka hoos u dhaca, waan noqday sida nin aan lahayn xoog.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "laygu tiriyay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kuwa u dhaca"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godka"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waan noqday"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "sida nin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan lahayn"
+    },
+    {
+      "surface": "איל",
+      "gloss": "xoog"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.558259996Z",
+  "model": "glm-5.3"
+}

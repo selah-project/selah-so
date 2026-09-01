@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo kii xado nin ama kii iibiyay, ama laga helo gacantiisa, hubaal waa la dili doonaa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "kii xado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ama kii iibiyay"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ama laga helo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hubaal waa la dili doonaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dili doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:13.753284756Z",
+  "model": "glm-5.3"
+}

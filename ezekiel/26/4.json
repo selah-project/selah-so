@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo waxay baabi'in doonaan derbiyada Tsor, oo waxay dumeyn doonaan qalcaddaheeda, oo waan ka diini doonaa carradeeda ka, oo waxaan ⟨את⟩ ka dhigi doonaa dhagax bannaan oo saaran.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "waxay baabi'in doonaan"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "derbiyada"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "waxay dumeyn doonaan"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "qalcaddaheeda"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "waan ka diini doonaa"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "carradeeda"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan ka dhigi doonaa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (Tsor)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "bannaan oo saaran"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dhagax"
+    }
+  ],
+  "timestamp": "2026-09-01T04:34:19.978168556Z",
+  "model": "glm-5.3"
+}

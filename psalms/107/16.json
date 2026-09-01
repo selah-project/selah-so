@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waayo, albaabada biraha nuuraad wuu jajabay, giiryaha birta wuu gooyay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wuu jajabay"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "biraha nuuraad"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "giiryaha"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "birta"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "wuu gooyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:50.777881374Z",
+  "model": "glm-5.3"
+}

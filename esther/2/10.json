@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ester ma sheegin ⟨את⟩ qokeedii iyo ⟨את⟩ qabiilkeedii, waayo Mordochay ayay ku amray in aanay sheegin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "sheegin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qokeedii"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "qokeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qabiilkeedii"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "qabiilkeedii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ku amray"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanay"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "sheegin"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:53.264695405Z",
+  "model": "glm-5.3"
+}

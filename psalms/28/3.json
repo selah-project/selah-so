@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ha iigi dheerin kootada xummiin iyo kuwa falaya shar, kuwa ka hadlaya nabado la saaxiibadooda iyagoo qaba shar, inuu wadnooda ku dhex jiro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "iigi dheerin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la (kootada)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xummiin (kootada xummiin)"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "iyo la"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa falaya"
+    },
+    {
+      "surface": "און",
+      "gloss": "shar (wax maran)"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kuwa ka hadlaya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabado"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "saaxiibadooda"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "iyagoo qaba shar (shar ahna)"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "wadnooda ku dhex jiro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:54.604600997Z",
+  "model": "glm-5.3"
+}

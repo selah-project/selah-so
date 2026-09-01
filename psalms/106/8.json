@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Laakiin wuxuu badbaadin wuxuu magaciisa u dartay, si uu u muujiyo ⟨את⟩ xooggiisa.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "wuxuu badbaadin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "u dartay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "si uu u muujiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xooggiisa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "xooggiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.206666381Z",
+  "model": "glm-5.3"
+}

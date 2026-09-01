@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Haweenaydu wixii ay weydiiso deriskeedii iyo cid ku soo-nooshahay gurigeedaa, alaab nuurad ah iyo alaab dahab ah iyo dhar; waad dhigi doontaan wiilashiinna iyo gabdhahiinna, waad ku soo-baadin doontaan ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "wixii ay weydiiso"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haweenaydu"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "deriskeedii"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "iyo cid ku soo-nooshahay"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gurigeedaa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alaab"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nuurad"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "iyo alaab"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhabad"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "iyo dhar"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "waad dhigi doontaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wiilashiinna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "gabdhahiinna"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "waad ku soo-baadin doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:57.497648804Z",
+  "model": "glm-5.3"
+}

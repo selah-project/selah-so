@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Dariiqadiisu mar walba way adag tahay; xukunnadaagu waa sarreeyihiin ⟨marka laga eego⟩; cadowyiisa oo dhan wuu uu sii boodayaa.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "way adag tahay"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dariiqadiisu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mar walba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "waa sarreeyihiin"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunnadaagu"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "marka laga eego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "cadowyiisa"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "wuu uu sii boodayaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:52.531057523Z",
+  "model": "glm-5.3"
+}

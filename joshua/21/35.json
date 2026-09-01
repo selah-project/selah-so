@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna iyo ⟨את⟩ beerteeda, ⟨את⟩ Nahalal iyo ⟨את⟩ beerteeda — afar magaalo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerteeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerteeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerteeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerteeda"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:34.975329472Z",
+  "model": "glm-5.3"
+}

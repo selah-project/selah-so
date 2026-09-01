@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Muuse wuxuu dhisay allabarri, oo magaciisana wuxuu ugu bixiyay Yahweh-Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuu dhisay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabarri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu ugu bixiyay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (Calamdigayga)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:30.711588448Z",
+  "model": "glm-5.3"
+}

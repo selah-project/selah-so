@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Shacabku markay maqleen ⟨את⟩ odayshan xun, way u awaal-baxeen, ninna ma xidhin qurmeysiisa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "markay maqleen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Shacabku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odayshan xun"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "odayshan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "way u awaal-baxeen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ninna ma"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "xidhin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "qurmeysiisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:44.198310072Z",
+  "model": "glm-5.3"
+}

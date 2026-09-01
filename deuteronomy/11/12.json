@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Dhul oo Yahweh Elohimkaaga daryeelayo ⟨את⟩ — markasta indhaha Yahweh Elohimkaaga ku yaallaan, laga bilaabo bilowgii sanadka ilaa dhamaadkeeda.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Dhul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "daryeelayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (dhulka)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "markasta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "laga bilaabo bilowgii"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhamaadkeeda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanadka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:40.612662296Z",
+  "model": "glm-5.3"
+}

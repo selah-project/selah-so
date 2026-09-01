@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Geesaha madaxiinna ha dhufinina, geesaha gadhunkiinana ha baabinina ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha ... ahayn"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ha dhufinina (goynina)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "madaxiinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha ... ahayn"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ha baabinina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geesaha gadhunkiisa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "gadhunkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:07.987844884Z",
+  "model": "glm-5.3"
+}

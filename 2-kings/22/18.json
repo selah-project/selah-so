@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Laakiin boqorka Yahuudah ee idinku soo diray inaad ⟨את⟩ Yahweh ka weydiistaan, sidaan baad ugu odhan doontaan: Sidaas ayaa Yahweh, Elohimka Israa'iil, yidhi: Ereyada Aad Maqashay —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Laakiin… u"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "ee idinku soo diray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idinku (boqorka ayaa idin soo diray)"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "inaad ka weydiistaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "baad ugu odhan doontaan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Ereyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(wixii)"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Aad Maqashay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:03.645637318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 3:8",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kuwa naarta maalinta, kuwa diyaar u ah in ay kiciyaan Livyatan, ha naaraan ⟨habeenkaas⟩.",
+  "tokens": [
+    {
+      "surface": "יקבהו",
+      "gloss": "ha naaraan"
+    },
+    {
+      "surface": "אררי",
+      "gloss": "kuwa naarta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "העתידים",
+      "gloss": "kuwa diyaar u ah"
+    },
+    {
+      "surface": "ערר",
+      "gloss": "in ay kiciyaan"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:41.283569818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu kacay Ezraa, wuxuu u dhaaranayiyay ⟨את⟩ madaxda wadaaddada, Lefiyyiinta iyo dhammaan Israa'iil inay sameeyaan sida ⟨את⟩ ereygan; wayna dhaaraneeen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuu kacay"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezraa"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "wuxuu u dhaaranayiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxda wadaaddada"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lefiyyiinta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inay sameeyaan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "wayna dhaaraneeen"
+    }
+  ],
+  "timestamp": "2026-09-01T06:14:47.460550613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Dhammaantood way u dhaqaaqeen (ershigii), wada dhib-qabow bay noqdeen; ma jiro mid samaysta wanaag, ma jiro xatta mid.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Dhammaantood"
+    },
+    {
+      "surface": "סר",
+      "gloss": "way u dhaqaaqeen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "dhib-qabow bay noqdeen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mid samaysta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "xatta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:53.863438200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahwehna wuxuu yidhi safaxaantanka: Xaggee baad ka timid? Safaxaantankuna wuxuu jawaabay ⟨את⟩ Yahweh, wuxuuna yidhi: Waxaan ka soo tegay dhex-gaduudka dhulka, oo ku socodka dhexdiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השטן",
+      "gloss": "safaxaantanka"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "xaggee"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "baad ka timid"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu jawaabay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "safaxaantankuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "dhex-gaduudka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "oo ku socodka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:51.214673152Z",
+  "model": "glm-5.3"
+}

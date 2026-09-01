@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Maalinta aad gowracsataan ⟨waa⟩ la cuni, iyo berri taqaalka, waxaase ka hadha ilaa maalinta saddexaad, naar dab lagu gubto.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "aad gowracsataan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la cuni"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "iyo berri taqaalka"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "waxaase ka hadha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "באש",
+      "gloss": "naar dab"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "lagu gubto"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:57.652031553Z",
+  "model": "glm-5.3"
+}

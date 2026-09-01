@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Boqorkii Israa'iil wuxuu yidhi: Hooy! Waayo, Yahweh wuu u yeedhay boqoradan saddex ah in lagu siiyo ⟨את⟩ gacanta Mo'aab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Hooy!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wuu u yeedhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "saddex ah"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqoradan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "in lagu siiyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "gacanta Mo'aab"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:16.792541901Z",
+  "model": "glm-5.3"
+}

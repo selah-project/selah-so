@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo ⟨את⟩ lugta midigba si aad u siiso wadaahuda siiyiin gaar ah, ka mid ah allabariyada nabadgelyadiinna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lugta midig"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lugta"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "midig"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "si aad u siiso"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "siiyiin gaar ah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wadaahuda"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ka mid ah allabariyada"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "nabadgelyadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:30.886418089Z",
+  "model": "glm-5.3"
+}

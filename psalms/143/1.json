@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Mizmoor oo Dawuud ah: Yahwehow, maqal baxdii, dhegeyso baryooyinkayda; runtaada i jawaabi, xaqnimadaada dhexdeed.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawuud ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baxdii"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeyso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "baryooyinkayda"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "runtaada"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "i jawaabi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "xaqnimadaada dhexdeed"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:08.975369901Z",
+  "model": "glm-5.3"
+}

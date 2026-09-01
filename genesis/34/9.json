@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Oo xaas-la-dhiga ⟨את⟩ annaga; gabdhahiina noo siiya, ⟨את⟩ gabdhahayagana naftiinna qabata.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "xaas-la-dhiga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ annaga",
+      "marks": "xaas-la-dhiga annaga"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "gabdhahiina"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "siiya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabdhahayaga"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "gabdhahayaga"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "qabata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "naftiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:36.662285193Z",
+  "model": "glm-5.3"
+}

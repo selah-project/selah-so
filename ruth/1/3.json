@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elimelek, ninkeedii Nacmi, wuu dhintay; iyaduna waa la reebay ⟨iyada iyo⟩ labadeeda wiil.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninkeedii"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Nacmi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "waa la reebay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyaduna"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "labadeeda"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wiil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:38.978457464Z",
+  "model": "glm-5.3"
+}

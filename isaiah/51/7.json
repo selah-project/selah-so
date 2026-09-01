@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "I maqla kuwa xaqnimada oga, qolka sharcigayga qalbiga ka yaal; ha ka cabsatina caayada dadka, caydadoodana ha ka walbahaarinina.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "I maqla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kuwa oga"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "xaqnimada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qolka"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sharcigayga"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "qalbiga ka yaal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ka cabsatina"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "caayada"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "caydadoodana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ka walbahaarinina"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:20.088494404Z",
+  "model": "glm-5.3"
+}

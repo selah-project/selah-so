@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuu faray Yirmiyaah ⟨את⟩ Baarukh inuu yidhaahdo: Aniga waa la i xiray, ma karo inaan galo guriga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "Wuxuu faray"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baarukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baarukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inuu yidhaahdo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "waa la i xiray"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "inan galo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:16:00.965962138Z",
+  "model": "glm-5.3"
+}

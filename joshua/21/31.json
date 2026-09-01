@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat iyo ⟨את⟩ beerahaheed, iyo ⟨את⟩ Rechob iyo ⟨את⟩ beerahaheed — magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahaheed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerahaheed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Rechob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahaheed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerahaheed"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:39.666747837Z",
+  "model": "glm-5.3"
+}

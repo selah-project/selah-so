@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Madaxa gabayada — \"Muut Laben\" (geeridii Laben) — mazmoor (gabay) oo Daawud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madaxa gabayada"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "\"Muut Laben\""
+    },
+    {
+      "surface": "לבן",
+      "gloss": "(geeridii Laben)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmoor (gabay)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:14.560286042Z",
+  "model": "glm-5.3"
+}

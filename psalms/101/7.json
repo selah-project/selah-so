@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Kii fasahaadka sameeya gurigayga dhexdiisa kuma fadhiysi doono; kii been sheega, indhahayga hortood uma sii socon doono.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kuma fadhiysi doono"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gurigayga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kii sameeya"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fasahaadka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kii sheega"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "been"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sii socon doono"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "hortood"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:54.328271496Z",
+  "model": "glm-5.3"
+}

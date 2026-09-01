@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Yaa islahan, boqorka ammaanka? Yahweh Sabaoth — Adigaa boqorka ammaanka u yahay. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "islahan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Adigaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:49.641777840Z",
+  "model": "glm-5.3"
+}

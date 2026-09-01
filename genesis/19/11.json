@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo ⟨את⟩ ragta agta albaabka guriga way ku garaaceen sanweriim (indho-la'), yar iyo weynba, oo way daaleen helitaanka albaabka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "ragta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "way ku garaaceen"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "sanweriim (indho-la')"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weynba"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "way daaleen"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "helitaanka"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "albaabka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:18.578441266Z",
+  "model": "glm-5.3"
+}

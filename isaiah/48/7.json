@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Hadda baa la abuuray, oo laga soo abaabul ⟨waagii hore⟩, ka hor maalintaana aadan maqlin; si aadan u odhan: Bal eeg, waan aqaan.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "baa la abuuray"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo laga soo abaabul"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "⟨waagii hore⟩"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalintaana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "maqlin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "waan aqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:53:25.265246018Z",
+  "model": "glm-5.3"
+}

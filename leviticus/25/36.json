@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ha qaadin xaggiisa ⟨את⟩ riba iyo kordhin, oo ka cabsow Elohimkaagaa, walaalkaana ha noolaado adiga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qaadin"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ xaggiisa",
+      "marks": "riba iyo kordhinta"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "iyo kordhin"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "oo ka cabsow"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimkaagaa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ha noolaado"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:28.245724601Z",
+  "model": "glm-5.3"
+}

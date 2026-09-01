@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Mid ba× mid bay isu dhowaan, oo neefna dhexdooda ma soo galaan.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ba× mid"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "bay isu dhowaan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "oo neefna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "soo galaan"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:44.584867991Z",
+  "model": "glm-5.3"
+}

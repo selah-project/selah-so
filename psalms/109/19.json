@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ha noqoto Isi (loo) sida dhar uu gashado, iyo sida suun si joogto ah uu ku marsado.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Ha noqoto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isi (loo)"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sida dhar"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "uu gashado"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "iyo sida suun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "si joogto ah"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "uu ku marsado"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:20.643981803Z",
+  "model": "glm-5.3"
+}

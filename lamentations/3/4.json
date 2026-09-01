@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuu hargeeyay laydkayga iyo maqaarkayga, wuuna jebiyay lafahayga.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Wuu hargeeyay"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "laydkayga"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "maqaarkayga"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wuuna jebiyay"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "lafahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:37.135472258Z",
+  "model": "glm-5.3"
+}

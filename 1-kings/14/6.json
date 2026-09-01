@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Markuu Axiyahu maqlay ⟨את⟩ codka cagtaheeda markay soo gashay albaabka, wuxuu yidhi: Soo gal, naagta Yarabʿaam! Maxaad u isqaraysaa, anigoo lagu soo diray am murugsan?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "maqlay"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Axiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codka cagtaheeda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "cagtaheeda"
+    },
+    {
+      "surface": "באה",
+      "gloss": "markay soo gashay"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "באי",
+      "gloss": "soo gal"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabʿaam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "זה",
+      "gloss": "(arrin)"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "isqaraysaa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "anigoo"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "lagu soo diray"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "am murugsan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:24.757015233Z",
+  "model": "glm-5.3"
+}

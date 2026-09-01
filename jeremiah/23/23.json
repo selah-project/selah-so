@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ma Elohim ii ah miyaa kan soo dhow, ne'unimii Yahweh, oo aan ahayn Elohim kan waxoogaa fog?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohim ma... ah miyaa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kan soo dhow"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ne'unimii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan ahayn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kan waxoogaa fog"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:33.953587827Z",
+  "model": "glm-5.3"
+}

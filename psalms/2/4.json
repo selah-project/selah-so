@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Kii samada fadhiya wuu qoslaa; Adonay wuu ku jees-jeesayaa.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Kii fadhiya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "wuu qoslaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "wuu ku jees-jeesayaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:20.471678753Z",
+  "model": "glm-5.3"
+}

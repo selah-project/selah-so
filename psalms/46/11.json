@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Is-joojiya, ogaada aniga oo ah Elohim; waxaan la sarreeyaa shucuurada dhexdooda, waxaan la sarreeyaa dhulka.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Is-joojiya"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ogaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "waxaan la sarreeyaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shucuurada dhexdooda"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "waxaan la sarreeyaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:15.694501696Z",
+  "model": "glm-5.3"
+}

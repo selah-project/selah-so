@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waayo, adigu waxaad barakeysaa ⟨את⟩ kan caddaaladda leh, yaa Yahweh; sida gaashaan raalliyinnimad ayaad ku dhex xeraysaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "waxaad barakeysaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan caddaaladda leh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "sida gaashaan"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "raalliyinnimo"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "ayaad ku dhex xeraysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:15.434804950Z",
+  "model": "glm-5.3"
+}

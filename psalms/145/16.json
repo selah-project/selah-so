@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Waxaad furataa ⟨את⟩ gacantaada, waxaadna taajinaysaa dhammaan wax nool oo raalli ahaansho.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "waxaad furataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "waxaadna taajinaysaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wax nool"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "raalli ahaansho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:37.838429284Z",
+  "model": "glm-5.3"
+}

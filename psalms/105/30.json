@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Dhulkoodii wuu ku soo booday (wuu ku taray) jooggaararka, qolalka alaabta boqorradooda gudeheeda.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "wuu ku soo booday (wuu ku taray)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "Dhulkoodii"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "jooggaararka"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "qolalka alaabta ... gudeheeda"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "boqorradooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:46.232571140Z",
+  "model": "glm-5.3"
+}

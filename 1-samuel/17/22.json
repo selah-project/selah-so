@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo Daa'uud wuxuu ka dejiyay ⟨את⟩ alaabta meesha ka sarreysay gacaha ilaalaha alaabta, oo wuxuu oraday safkii dagaalka, wuxuuna yimid, wuxuuna walaalihiis ka weydiiyay nabadtooda.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "wuxuu ka dejiyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alaabta"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alaabta"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "meesha ka sarreysay"
+    },
+    {
+      "surface": "על",
+      "gloss": "gacaha"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacaha"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ilaalaha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "alaabta"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "wuxuu oraday"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "safkii dagaalka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "wuxuuna ka weydiiyay"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabadtooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:16.956208779Z",
+  "model": "glm-5.3"
+}

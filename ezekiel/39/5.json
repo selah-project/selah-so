@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxaad ku dhici doontaa barxadda bannaanka ah, waayo aniga waan hadlay — bay-ahaansho Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "barxadda bannaanka ah"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "waad dhici doontaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "waan hadlay"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bay-ahaansho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:39:43.570596285Z",
+  "model": "glm-5.3"
+}

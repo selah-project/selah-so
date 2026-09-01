@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Yahweh wuu ilaalinayaa, wuuna noolaynayaa; wuu barakaysan yahay ⟨dhulka⟩; oo ha ku dhiibin noloshiisa cadowdiisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "wuu ilaalinayaa"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "wuuna noolaynayaa"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "wuu barakaysan yahay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dhulka⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ku dhiibin"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "noloshiisa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:42.092038623Z",
+  "model": "glm-5.3"
+}

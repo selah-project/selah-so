@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay ka qaataan dhiigga, waxayna ku dhiggaan labada albaab-dhinac iyo boosha sare, guryaha ay ku cunaan ⟨את⟩ isu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "waxay qaataan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna dhiggaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "albaab-dhinacyada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo ku"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "boosha sare"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "guryaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ku cunaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "isu (wedarka)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:43.565725633Z",
+  "model": "glm-5.3"
+}

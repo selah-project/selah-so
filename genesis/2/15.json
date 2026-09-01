@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahweh Elohimguna wuxuu qaatay ⟨את⟩ aadanaha, wuxuuna u gamciyay beerka Ceeden inuu ka adeego oo ilaaliyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadanaha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "wuxuuna u gamciyay"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Ceeden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "inuu ka adeego"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "oo ilaaliyo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:58.354379171Z",
+  "model": "glm-5.3"
+}

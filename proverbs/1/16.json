@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waayo, cagahoodu waa xumaa ku ordaan, waxayna ku degdegaan inay dhiig daataan (diidaan)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "cagahoodu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "xumaa"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ku ordaan"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "waxayna ku degdegaan"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "inay ... daataan (diidaan)"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiig"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:08.444291365Z",
+  "model": "glm-5.3"
+}

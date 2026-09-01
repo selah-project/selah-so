@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Macbadkana ha ka bixin, ⟨את⟩ macbadka Elohiisna ha waajisin, maxaayeelay nadarka saliidda subkidda Elohiis ayaa kiisa kor taal; ani waan ahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "Macbadka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bixin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "waajisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macbadka"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "macbadka"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaayeelay"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nadarka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "subkidda"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kiisa kor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:08.307117653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Dhaar-buu-dhigasho iyo beeni-geyn iyo dil iyo xatooyo iyo sinnaan-buu-xumeys; waxay gubteen xaaddad, iyo dhiig dhiig baa taabtay.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dhaar-buu-dhigasho"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "iyo beeni-geyn"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "iyo dil"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "iyo xatooyo"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "iyo sinnaan-buu-xumeys"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "waxay gubteen xaaddad"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "iyo dhiig"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "baa taabtay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:48.146014162Z",
+  "model": "glm-5.3"
+}

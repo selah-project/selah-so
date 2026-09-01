@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Yahweh, adiga miyaad tahay boqorka ammaanka? Yahweh, adiga oo awood badan, Yahweh, adigoo geesi ah dagaalka.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "miyaad tahay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "awood badan"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "geesi ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:22.798375428Z",
+  "model": "glm-5.3"
+}

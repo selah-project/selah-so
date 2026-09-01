@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "adiguna maqal samooyinka, oo samee, oo xukun ada addoonadaagaa ⟨את⟩ — in lagu xumeeyo xumeeye, si loo bixiyo waddadiisa madaxiisa, oo in lagu cadaawo cadaale, si loo siiyo sida cadaaladdiisa",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samooyinka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "oo samee"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "oo xukun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonadaagaa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoonadaagaa"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "in lagu xumeeyo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xumeeye"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si loo bixiyo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "waddadiisa"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "oo in lagu cadaawo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cadaale"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si loo siiyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "sida cadaaladdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:28.896180771Z",
+  "model": "glm-5.3"
+}

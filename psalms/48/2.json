@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Waa weyn Yahweh, waana lagu ammaanaa aad u badan, magaalada Elohim-keenna, buurta qaddarkankeeda.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "waana lagu ammaanaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddarkankeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:56.101404067Z",
+  "model": "glm-5.3"
+}

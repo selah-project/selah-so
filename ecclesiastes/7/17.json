@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha sameyn xaq-darro aad u badan, oo ha ahaan nacas; maxaad ku dhiman lahayd waqtigaaga ⟨ka hor⟩?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "xaq-darro sameyn"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ahaan"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "nacas"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ku dhiman lahayd"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "⟨ka hor⟩"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "waqtigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:23.604995122Z",
+  "model": "glm-5.3"
+}

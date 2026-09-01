@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Loo qoray Du'aale. Xaggaaga, Yahweh, nafadayda ayaan saarayaa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Loo qoray Du'aale"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Xaggaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadayda"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ayaan saarayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.920808417Z",
+  "model": "glm-5.3"
+}

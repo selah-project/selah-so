@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad cuni doontaan duq dheeraha, oo duqaha waaweyn baad ka bixin doontaan horraanta cusubta.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Waxaad cuni doontaAN"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "duq"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "dheeraha (waaweyn)"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "duqaha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "horraanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusubta"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "baad ka bixin doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:44.079577220Z",
+  "model": "glm-5.3"
+}

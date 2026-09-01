@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Laakiin ⟨את⟩ dahabka iyo ⟨את⟩ lacagta, ⟨את⟩ biraha birta ah, ⟨את⟩ birta, ⟨את⟩ dalaga, iyo ⟨את⟩ curuudda —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dahabka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lacagta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biraha birta ah"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "biraha birta ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "birta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalaga"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "curuudda"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "curuudda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:33.878226778Z",
+  "model": "glm-5.3"
+}

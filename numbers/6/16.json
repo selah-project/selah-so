@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo wadaanku wuxuu u dhoofinayaa Yahweh hortiis, wuxuuna sameeyaa ⟨את⟩ dembi-allabariiskiisa iyo ⟨את⟩ gubistiisa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuu u dhoofinayaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wuxuuna sameeyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembi-allabariiskiisa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dembi-allabariiskiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gubistiisa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "gubistiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:43:25.486221876Z",
+  "model": "glm-5.3"
+}

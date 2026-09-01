@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Cunto aan abirrada ahayn wuu cunay ⟨nin kasta⟩; cunmo buu u soo diray inay dheeraadlaawayaan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "abirraday"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wuu cunay"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "cunmo"
+    },
+    {
+      "surface": "שׁלח",
+      "gloss": "buu u soo diray"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ayaga"
+    },
+    {
+      "surface": "לשׂבע",
+      "gloss": "inay dheeraadlaawayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:42.836225118Z",
+  "model": "glm-5.3"
+}

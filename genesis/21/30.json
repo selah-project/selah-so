@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wuxuuna yidhi: Waayo adiga ⟨את⟩ toddobahan laxood da' ah gacantayda baad ka qaadanaysaa, si ay ii noqoto markhaati inaan qoday ⟨את⟩ cebigii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toddobahan laxood da' ah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddobahan"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "laxood da' ah"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "aad ka qaadanaysaa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "si ay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ay noqoto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "markhaati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "aan qoday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cebigii"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "cebigii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:16.672754880Z",
+  "model": "glm-5.3"
+}

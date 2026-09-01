@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxay noqotay galabta, waxay noqotay subaxa — maalinta saddexaad.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galabta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaxa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "saddexaad"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:14.766641780Z",
+  "model": "glm-5.3"
+}

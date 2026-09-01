@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dahabka dhulkaasna wanaagsan yahay; halkaas waxaa ku jira bedolax iyo dhagaxga shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Dahabka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkaasna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolax"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "dhagaxga shoham"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:59.086753574Z",
+  "model": "glm-5.3"
+}

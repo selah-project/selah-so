@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Yahweh wuxuu la hadlay Muuse isagoo odhan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la (u)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo odhan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:26.951455497Z",
+  "model": "glm-5.3"
+}

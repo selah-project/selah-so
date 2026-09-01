@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "wuxuuse u taagay Ya'aqoob sharci, iyo Israa'iil axdi wel-waay ah;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "wuxuuse u taagay"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sharci"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "axdi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wel-waay ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:15.638362662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxay fuuliyeen fardaha, waxayna aaseen ⟨את⟩ guud ahaan aabayaashiisii magaalada Yehuudah.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "waxay fuuliyeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (sare)"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "fardaha"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "waxayna aaseen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "guud ahaan (isaga)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabayaashiisii"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:36:18.219847022Z",
+  "model": "glm-5.3"
+}

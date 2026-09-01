@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Aamusaya kuwa ku nool jasiiradda; ganacsatada Tsidon, kuwa badda dhex mara, ⟨adigaa⟩ la buuxiyay.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Aamusaya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa ku nool"
+    },
+    {
+      "surface": "אי",
+      "gloss": "jasiiradda"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "ganacsatada"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kuwa badda dhex mara"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "la buuxiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:57.399246936Z",
+  "model": "glm-5.3"
+}

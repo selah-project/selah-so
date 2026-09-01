@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu baxay Noax, iyo wiilashiisii, iyo naagtiisii, iyo dumarka wiilashiisii ⟨את⟩ la.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisii"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "iyo naagtiisii"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "iyo dumarka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la",
+      "marks": "Noax iyo ehelkiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:12.917443845Z",
+  "model": "glm-5.3"
+}

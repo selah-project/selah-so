@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wax kasta oo gacantaadu ku qabato samee xooggaaga; ma jirto camal, naqshad, gar iyo xikmad Sheool — meeshaaad u socoto.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ku qabato"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaadu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "samee"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samee"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "camal"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "naqshad"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "gar"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "meeshaaad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "u socoto"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:42.201336068Z",
+  "model": "glm-5.3"
+}

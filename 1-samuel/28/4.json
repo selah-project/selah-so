@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo Pelishtiimtu waxay isku qabteen, waxayna yimaadeen, waxayna gooshiyeen Shunem; Shaa'uulna wuu kulmiyay ⟨את⟩ Israa'iil oo dhan, waxayna gooshiyeen Gilbo'ada.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "waxay isku qabteen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiimtu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waxayna yimaadeen"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna gooshiyeen"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wuu kulmiyay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna gooshiyeen"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilbo'ada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:44.500028868Z",
+  "model": "glm-5.3"
+}

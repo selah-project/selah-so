@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ma jiraan tiro ciidankiisii? iyo yaa iftiinkiisu aan ⟨soo bixin⟩?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "ciidankiisii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo kuma"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨soo bixin⟩"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "iftiinkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:46:21.128205127Z",
+  "model": "glm-5.3"
+}

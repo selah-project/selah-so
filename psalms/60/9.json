@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Gilcad waa kan aniga, iyo Menashshe waa kan aniga; Efrawiin waa xoogga madaxayga; Yahuudah waa sharciga-jebiyaha aniga.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "waa kan aniga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilcad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "iyo waa kan aniga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "iyo Efrawiin"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "sharciga-jebiyaha aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:05.780016360Z",
+  "model": "glm-5.3"
+}

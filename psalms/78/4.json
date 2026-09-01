@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Lama qarin doonno carruurtooda; jiilka dambe waxaannu ka sheekeynaynaa ammaanada Yahweh iyo xoogiisa iyo mucjisooyinkiisa uu sameeyay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "qarin doonno"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "carruurtooda"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "jiilka"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dambe"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "waxaannu ka sheekeynaynaa"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "amaanada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "iyo xoogiisa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo mucjisooyinkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:39.149419183Z",
+  "model": "glm-5.3"
+}

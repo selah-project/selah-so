@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Aniguna waan nacnac (jaahil) ahay oo aan wax garanayn; waan bahal ahay adiga agtaada.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nacnac (jaahil)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "wax garanayn"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "bahal"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waan ... ahay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adiga agtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:33.871092829Z",
+  "model": "glm-5.3"
+}

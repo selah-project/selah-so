@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 70,
+  "translation": "Haatan dib u noqdaan cunasarka walaacooda kuwa odhanaya: Heex! Heex!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "dib u noqdaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "cunasarka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "raantii"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "walaacooda"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kuwa odhanaya"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heex"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heex"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:36.497061185Z",
+  "model": "glm-5.3"
+}

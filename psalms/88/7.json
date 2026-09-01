@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Waxaad ii dhigtay godka hooseeya, hoos masaafaha ah, hoos maayayaasha.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "waxaad ii dhigtay"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "godka"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "hooseeya"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "hoos masaafaha ah"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "hoos maayayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.558875838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuna yidhi: ⟨את⟩ walaalahay baan raadinayaa; ii sheeg hada haysataan meeyay daaqsanayaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalahay"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalahay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "raadinayaa"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ii sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "meeyay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "haysataan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "daaqsanayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:51.981159877Z",
+  "model": "glm-5.3"
+}

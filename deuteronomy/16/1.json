@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Ilaali bisha Aviiv, oo Samee Pesax oo ah kan Yahweh Elohimkaaga, waayo, bisha Aviiv baa Yahweh Elohimkaagu kaa soo bixiyay ⟨את⟩ adiga Mitsrayim habeenkii.",
+  "tokens": [
+    {
+      "surface": "שָׁמוֹר",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "bisha Aviiv"
+    },
+    {
+      "surface": "חֹדֶשׁ",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "הָאָבִיב",
+      "gloss": "Aviiv"
+    },
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "oo Samee"
+    },
+    {
+      "surface": "פֶּסַח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "oo ah kan Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בְּחֹדֶשׁ",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "הָאָבִיב",
+      "gloss": "Aviiv"
+    },
+    {
+      "surface": "הוֹצִיאֲךָ",
+      "gloss": "kaa soo bixiyay"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לָיְלָה",
+      "gloss": "habeenkii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:40.185789158Z",
+  "model": "glm-5.3"
+}

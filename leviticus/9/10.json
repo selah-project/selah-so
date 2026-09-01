@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "⟨את⟩ baruurta iyo ⟨את⟩ kilyaha iyo ⟨את⟩ dheemanka ka mid ah jigarkeena xagga dhibcootta ayuu gubay allabariiga safrada, siduu Yahweh amartay ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kilyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "dheemanka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigarkeena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dhibcootta"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ayuu gubay (safrada)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "allabariiga safrada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:26.447379519Z",
+  "model": "glm-5.3"
+}

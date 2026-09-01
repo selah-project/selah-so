@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Qaad ⟨את⟩ Leviimta dhexda curka Israa'iil, oo adigu daahiraysii ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Qaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviimta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviimta"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "oo adigu daahiraysii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga (Leviimta)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:10.408128205Z",
+  "model": "glm-5.3"
+}

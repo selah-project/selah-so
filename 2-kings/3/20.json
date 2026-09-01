@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markii subaxa ah, markii allabariiska subax la bixinayay, bal eeg — biyo ayaa ka yimid jidka Edom, dhulkuna wuu ka buuxsmaa ⟨את⟩ biyaha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markii ah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxa"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "markii la bixinayay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "allabariiska subax"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ayaa ka yimid"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "wuu ka buuxsmaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyaha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:28.153322024Z",
+  "model": "glm-5.3"
+}

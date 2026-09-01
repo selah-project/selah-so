@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxayna yimaadaan halkaas, waxayna ka saari doonaan ⟨את⟩ dhan waxyaalaha la nacay iyo ⟨את⟩ dhan waxyaalaha la cardaansho ka gudaheeda.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Waxayna yimaadaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "waxayna ka saari doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhan waxyaalaha la nacay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "waxyaalaha la nacay eekeed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhan waxyaalaha la cardaansho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "waxyaalaha la cardaansho eekeed"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ka gudaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:28:06.916079414Z",
+  "model": "glm-5.3"
+}

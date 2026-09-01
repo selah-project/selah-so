@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Hadalkiisu waa jilcasho subag ka khayr badan, qalbigiisuna waa dagaal; erayadiisuna waa ka jilceeyeen saliid, iyagoo ah seefo la soo saaray.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "waa jilcasho"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "subag"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hadalkiisu"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "qalbigiisuna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "waa ka jilceeyeen"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "erayadiisuna"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "saliid"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iyagoo ah"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "seefo la soo saaray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:21.524038744Z",
+  "model": "glm-5.3"
+}

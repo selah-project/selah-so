@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Wadnihaygii wuu socodsiiyay erey wanaagsan, waxaan sheegayaa shuqulladayda oo ku saabsan boqorka; carrabkay waa qalin uu qoraa degdeg ah.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "wuu socodsiiyay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnihaygii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "waxaan sheegayaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shuqulladayda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "carrabkay"
+    },
+    {
+      "surface": "עט",
+      "gloss": "qalin"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "qoraa"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "degdeg ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:47.566900383Z",
+  "model": "glm-5.3"
+}

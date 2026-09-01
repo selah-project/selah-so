@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Waxaad Elohim u godbaysaa mahadnoqdaan, oo waxaad El Elyon u dhammaystirtoo nadaradaada.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "u godbaysaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "mahadnoqdaan"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "oo u dhammaystirtoo"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nadaradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:28.326877602Z",
+  "model": "glm-5.3"
+}

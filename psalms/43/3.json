@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Iftinkaaga iyo runtaada dir; iyagu igu hanuuniyaan; waxayna igu keenaan buurtaada quduuska ah iyo mishkannadaaga.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dir"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "iftinkaaga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "oo runtaada"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "igu hanuuniyaan"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "igu keenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuskaaga ah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ila"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "mishkannadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:54.148316746Z",
+  "model": "glm-5.3"
+}

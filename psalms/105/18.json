@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Cagahiisa xirxiraha birta ahayd bay ku dhaawacayeen; birtay nafsheydii gashay.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bay ku dhaawacayeen"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "xirxiraha"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "cagahiisa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "birta"
+    },
+    {
+      "surface": "באה",
+      "gloss": "gashay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsheydii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:29.790929352Z",
+  "model": "glm-5.3"
+}

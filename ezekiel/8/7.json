@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu ⟨את⟩ ii keenay ilaa iridda barxadda, waana arkay, oo bal waxaa jiray god keliya oo ku jira derbiga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu ii keenay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ii",
+      "marks": "aniga (calaamadda walxada)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "waana arkay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal"
+    },
+    {
+      "surface": "חר",
+      "gloss": "god"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "derbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:21:34.069481177Z",
+  "model": "glm-5.3"
+}

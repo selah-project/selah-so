@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 15:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waxaad keenaysaa ⟨oo⟩ aad ku beertaa buurta dhaxalkaaga, macbud fadhigaaga, waxaad sameysay, Yahweh, qudus-da, Adonay, gacmihaada ay dhisteen.",
+  "tokens": [
+    {
+      "surface": "תבאמו",
+      "gloss": "waxaad keenaysaa"
+    },
+    {
+      "surface": "ותטעמו",
+      "gloss": "aad ku beertaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaxalkaaga"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "macbud fadhigaaga"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "fadhigaaga"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "waxaad sameysay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "qudus-da"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ay dhisteen"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmihaada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:02.242493906Z",
+  "model": "glm-5.3"
+}

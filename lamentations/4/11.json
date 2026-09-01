@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Yahweh wuu dhammeestiray ⟨את⟩ cadhoodkiisa, wuu daadiyay kulaylanka wajigiisa, wuxuu shiday dab Tsiyuon, dabkuna wuu cuniyay aasaasahaheed.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "wuu dhammeestiray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadhoodkiisa"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "cadhoodkiisa"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "wuu daadiyay"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kulaylanka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wajigiisa (xanaaquiisa)"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "wuxuu shiday"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyuon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wuu cuniyay"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "aasaasahaheed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:42.183091545Z",
+  "model": "glm-5.3"
+}

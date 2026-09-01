@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Qof kastaa oo qaadanxa wax ka mid ah maydkooda wuu maydhayaa dhararkiisa, oo wuu najaas ahdeen ilaa galabta.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Qof kastaa oo"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "qaadanxa"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "wax ka mid ah maydkooda"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wuu maydhayaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dhararkiisa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "oo wuu najaas ahdeen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.786473457Z",
+  "model": "glm-5.3"
+}

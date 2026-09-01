@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma maalmahaagu ⟨waa⟩ sida maalmaha ahaanmisha ah baa yihiin, mise sanadahaagu sida sanadaha geesiga?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "sida maalmaha"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "ahaanmisha ah"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "maalmahaagu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "sanadahaagu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida sanadaha"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "geesiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:07.050469373Z",
+  "model": "glm-5.3"
+}

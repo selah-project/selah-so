@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Waayo, wuu ii heshay jacayl (chashaq), waana badbaadin doonaa; waana sarreeyin doonaa, waayo, wuu garanayaa Magacayga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wuu heshay jacayl"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "waana badbaadin doonaa"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "waana sarreeyin doonaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu garanayaa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Magacayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:05.778293568Z",
+  "model": "glm-5.3"
+}

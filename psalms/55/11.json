@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Maalinta iyo habeenka bay ku wareegayaan debeddeeda, iyo xadgudub iyo dhib dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iyo habeenka"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "bay ku wareegayaan"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "debeddeeda"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "iyo xadgudub"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "iyo dhib"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:52.310401476Z",
+  "model": "glm-5.3"
+}

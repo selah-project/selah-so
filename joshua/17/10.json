@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Koonfurna ⟨waa⟩ Efryiim, waqooyina ⟨waa⟩ Menashshe, badduna waxay ahayd xuduuddiisa; Asherna way la kulmaan ⟨dhan⟩ waqooyiga, Yissaskharna bariga.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "koonfurna"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efryiim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "waqooyina"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badduna"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "xuduuddiisa"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "Asherna"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "way la kulmaan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "waqooyiga"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "Yissaskharna"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bariga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:25:21.025540056Z",
+  "model": "glm-5.3"
+}

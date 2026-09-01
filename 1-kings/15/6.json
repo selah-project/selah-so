@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo dagaal ahna wuu jiray ⟨u dhexeeya⟩ Rakhabeam iyo Yarobcam maalmahiisa noloshiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Oo dagaal ahna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wuu jiray"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨u dhexeeya⟩"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rakhabeam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobcam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmahiisa"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "noloshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:12.903181145Z",
+  "model": "glm-5.3"
+}

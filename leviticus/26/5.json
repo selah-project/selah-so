@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxay idin gaadhi doontaa birta-geyntu ⟨את⟩ midhista canabka, iyo midhistadu canabka waxay gaadhi doontaa ⟨את⟩ waqtiga abuurista; waad cuni doontaan rooti kiina si aad dherer u gaadhaan, waadna deggan doontaan ammaan dhulkiinna.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "waxay gaadhi doontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "birta-geynta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhista canabka"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "midhista canabka"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "iyo midhistada canabka"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "waxay gaadhi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waqtiga abuurista"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "waqtiga abuurista"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "waad cuni doontaan"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "rooti kiina"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "si aad dherer u gaadhaan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "waadna deggan doontaan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "dhulkiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:55.278051490Z",
+  "model": "glm-5.3"
+}

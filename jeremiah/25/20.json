@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "iyo ⟨את⟩ dhammaan dadka isku-dhex-milman, iyo ⟨את⟩ dhammaan boqorrada dhulka Cuuts, iyo ⟨את⟩ dhammaan boqorrada dhulka Falastiintiin, iyo ⟨את⟩ Ashqelon iyo ⟨את⟩ Ghazzah iyo ⟨את⟩ Eqron, iyo ⟨את⟩ hadhii Ashdod;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dadka isku-dhex-milman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "dadka isku-dhex-milman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "boqorrada dhulka Cuuts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Cuuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "boqorrada dhulka Falastiintiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastiintiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ashqelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ghazzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ghazzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Eqron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hadhii Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hadhii"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:46.419330785Z",
+  "model": "glm-5.3"
+}

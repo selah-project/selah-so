@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 27:19",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "oo hor taagi ⟨את⟩ isaga Elacaar wadaanka horta iyo kooxda oo dhan horta, oo far amarka indhahooda horta.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "hor taagi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yehooshuuca)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elacaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanka"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "iyo horta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kooxda"
+    },
+    {
+      "surface": "וצויתה",
+      "gloss": "far amarka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yehooshuuca)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "indhahooda horta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:37.240853010Z",
+  "model": "glm-5.3"
+}

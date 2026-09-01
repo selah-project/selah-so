@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Waxaan ku mahadinaynaa ⟨adiga⟩, Elohim, waxaan ku mahadinaynaa, waayo magacaagu wuu dhow yahay; wahyooyinkaagaa ayay sheegayaan.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "waxaan ku mahadinaynaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨adiga⟩ ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "waxaan ku mahadinaynaa"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "wuu dhow yahay"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaagu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ayay sheegayaan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "wahyooyinkaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:19.227353173Z",
+  "model": "glm-5.3"
+}

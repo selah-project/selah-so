@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Adiga ayaan ku tiirsanahay ilaa caloosha; adiga ayaa ii goostay caloosha hooyaday; ammaantaydu waa adiga, had iyo jeer.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "adiga (ku tiirsanahay)"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "aan ku tiirsanahay"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ilaa caloosha"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ayaa ii goostay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga (waa)"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ammaantaydu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:15.651469101Z",
+  "model": "glm-5.3"
+}

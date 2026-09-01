@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Waxaan xusaa Rahab iyo Baabal kuwa ii yaqaan; bal eeg — Falastiin iyo Suur, oo wata Kush: kan ⟨halkan⟩ waa la dhashay.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "waxaan xusaa"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "iyo Baabal"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "kuwa ii yaqaan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falastiin"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "iyo Suur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo wata"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "waa la dhashay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨halkan⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:14.615599046Z",
+  "model": "glm-5.3"
+}

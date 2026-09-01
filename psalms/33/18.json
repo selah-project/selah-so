@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Bal eeg! Indhaha Yahweh waxay ku taal kuwa cabsiisha; kuwa sugaya khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg!"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indha(-ha)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku taal \/ ku"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuwa cabsiisha"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kuwa sugaya"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:05.047344806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Nafdaayada wuu soo celinayaa, wuu i hanuuninayaa wadararka ⟨eedarada⟩ xaqnimada, awgood Magaciisa.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nafdaayada"
+    },
+    {
+      "surface": "יְשׁוֹבֵב",
+      "gloss": "wuu soo celinayaa"
+    },
+    {
+      "surface": "יַנְחֵנִי",
+      "gloss": "wuu i hanuuninayaa"
+    },
+    {
+      "surface": "בְמַעְגְּלֵי",
+      "gloss": "wadararka"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "xaqnimada"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "Magaciisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:43:00.075924605Z",
+  "model": "glm-5.3"
+}

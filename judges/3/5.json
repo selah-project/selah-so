@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ilmihii Israa'iil waxay dhex degayeen ⟨את⟩ Kancaani, Xitti, Emori, Firizi, Xiwiyi iyo Yebuusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "waxay dhex degayeen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kancaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "iyo Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iyo Firizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "iyo Xiwiyi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "iyo Yebuusi"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:43.191821057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Oo anigu waxaan ahay sida dhegoolaha, aan maqalin, oo sida suma-cagga ah, aan afkiisa furin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Oo anigu"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sida dhegoolaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "oo sida suma-cagga ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "furin"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:03.727033793Z",
+  "model": "glm-5.3"
+}

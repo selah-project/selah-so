@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 128,
+  "translation": "Heesta Ascensionada (maqaamadaha). Aad bay barwaaqo u tahay kasta oo cabsi ka qaba Yahweh, kan ku socda dariiqooyinkiisa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ascensionada (maqaamadaha)"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Aad bay barwaaqo u tahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cabsi ka qaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kan ku socda"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dariiqooyinkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:13.064106116Z",
+  "model": "glm-5.3"
+}

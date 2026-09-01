@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Kan noloshaada ka badbaadinaya shahunada, kan ku taajinaya khesed (xeel-dheerad) iyo naxariis.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Kan ... ka badbaadinaya"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "shahunada ka"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "noloshaada"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "kan ku taajinaya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "iyo naxariis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:45.875832265Z",
+  "model": "glm-5.3"
+}

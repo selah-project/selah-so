@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Darartu waxay socon doontaa markay duqayso duqsi, iyo godobka waxaa hoos u dhici doontaa magaalada.",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "darartu"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "markay duqayso"
+    },
+    {
+      "surface": "היער",
+      "gloss": "duqsi"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "iyo godobka"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "waxaa hoos u dhici doontaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:46.972649228Z",
+  "model": "glm-5.3"
+}

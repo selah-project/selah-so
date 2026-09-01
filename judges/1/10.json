@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Markaas Yahudaha waxay u socdeen Kanaanigii deggan ⟨את⟩ Khebron — magaca Khebron hore wuxuu ahaa Qiryath-Arba — waxayna garaaceen ⟨את⟩ Sheshay iyo ⟨את⟩ Aximan iyo ⟨את⟩ Talmay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Markaas waxay u socdeen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanigii"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "hore"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryath"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna garaaceen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aximan"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aximan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Talmay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:09.994368846Z",
+  "model": "glm-5.3"
+}

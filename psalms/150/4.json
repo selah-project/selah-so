@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 150,
+  "translation": "Ha ammaaniho dambiga iyo ciyaarka; ha ammaaniho xarigaha taranka iyo qumbaha.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ha ammaaniho"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dambiga"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "iyo ciyaarka"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ha ammaaniho"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "xarigaha taranka"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "iyo qumbaha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:40.016367989Z",
+  "model": "glm-5.3"
+}

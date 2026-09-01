@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaa soo korida mid burburiya oo hortaada ah; ilaali xayndaabka, socodka dhageyso, dhexda ku adkee, xooggaaga aad u adkee.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "waxaa soo korida"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "mid burburiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ah (wajigaaga)"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "xayndaabka"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "dhageyso"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "socodka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ku adkee"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "dhexda (lanjahaaga)"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "adkee"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T08:43:05.307808017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Sinnaantaadu ⟨waxay tahay⟩ sida buuraha El; xukuumadaaduna ⟨waa⟩ tiirisyada weyn; aadamiga iyo duugga baad badbaadinaysaa, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "sinnaantaadu"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "sida buuraha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "xukuumadaadu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tiirisyada"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "iyo duugga"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "badbaadinaysaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:21.451151994Z",
+  "model": "glm-5.3"
+}

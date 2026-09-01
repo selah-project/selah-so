@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Wuxuu noqday Shaleem xarigiisii, iyo degsiisa Siyoon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Shaleem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "xarigiisii"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "iyo degsiisa"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:01.137066463Z",
+  "model": "glm-5.3"
+}

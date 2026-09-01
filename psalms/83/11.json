@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Waxaa la baabi'iyey Eyn-Door; waxay noqdeen wasakh dhulka.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "waxaa la baabi'iyey"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "Eyn (qeybta magaca)"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Door"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay noqdeen"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "wasakh (caro lagu qalajiyo)"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:12.269027892Z",
+  "model": "glm-5.3"
+}

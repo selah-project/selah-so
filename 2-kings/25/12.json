@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo ka mid ah kuwa ugu liidata dhulka wuu ka tegay madaxa ciidamada fulinta inay noqdaan beeraley canab iyo beeraley dhulka.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "ka mid ah kuwa ugu liidata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "wuu ka tegay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ciidamada fulinta"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "inay noqdaan beeraley canab"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "iyo beeraley dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:45.634164148Z",
+  "model": "glm-5.3"
+}

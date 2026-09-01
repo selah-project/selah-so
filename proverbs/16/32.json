@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Kan cadadka dheer wuxuu ka wanaagsan yahay geesi; kan ruuxiisa xoogga leh wuxuu ka wanaagsan yahay magaalo qaada.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka wanaagsan yahay"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "cadadka"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "geesi"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "xoogga leh"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruuxiisa"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "qaada"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:58.226861217Z",
+  "model": "glm-5.3"
+}

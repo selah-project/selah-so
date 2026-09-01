@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "waayo, mar kan anigu waxaan ku soo dirayaa ⟨את⟩ dhammaan cuduradayda laabtaada iyo addoomadaada iyo dadkaaga, si aad u ogaato inaan jirin ila ah dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "mar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "waxaan ku soo dirayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan cuduradayda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "cuduradayda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laabtaada ku dhaca"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "laabtaada"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "iyo addoomadaada"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "iyo dadkaaga"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ogaato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "ila ah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhulka oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:58.303639060Z",
+  "model": "glm-5.3"
+}

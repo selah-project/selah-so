@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Iyo ⟨את⟩ Raamoth iyo ⟨את⟩ beerahiisa, iyo ⟨את⟩ Aneem iyo ⟨את⟩ beerahiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Raamoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Aneem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Aneem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:10.215982058Z",
+  "model": "glm-5.3"
+}

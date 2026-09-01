@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waa cod-dheerayd iyo caasiyaysi; gurigeedaba cagahaedu ma helaan nasasho.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "cod-dheerayd"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa (adi)"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "caasiyaysi"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "gurigeedaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "helaan (nasasho)"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "cagahaedu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:50.376736176Z",
+  "model": "glm-5.3"
+}

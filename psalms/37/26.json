@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Maalintoo dhan wuu u naxariisaa, wuuna amaahiyaa, uurkiisana barakad bay noqotaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "naxariisaa"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "amaahiyaa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "uurkiisa"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "barakad bay noqotaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:16.849034164Z",
+  "model": "glm-5.3"
+}

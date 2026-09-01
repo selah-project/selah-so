@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Wuxuu duceeyay Ya'aqob ⟨את⟩ Farcoon, wuxuuna ka baxay hortii Farcoon.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Wuxuu duceeyay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farcoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuuna ka baxay"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:46.969842893Z",
+  "model": "glm-5.3"
+}

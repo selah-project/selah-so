@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Mesha, boqorka Moab, wuxuu ahaa ilaaliye adhi, wuxuuna u dhiibay boqorka Israa'iil boqol kun oo waneyaal iyo boqol kun oo ri', ⟨woolka⟩.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "ilaaliye adhi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "wuxuuna u dhiibay"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "oo waneyaal"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "oo ri'"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "woolka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:11.418671221Z",
+  "model": "glm-5.3"
+}

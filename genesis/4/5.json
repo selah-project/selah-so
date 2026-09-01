@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laakiin Kajin iyo hadhiyigiis lama uu eegin, Kajinna wuu aad u xanaaqay, wajigiisna wuu dhacay.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "hadhiyigiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "eegin"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wuu xanaaqay"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajinna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "wuu dhacay"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisna"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:53.493558853Z",
+  "model": "glm-5.3"
+}

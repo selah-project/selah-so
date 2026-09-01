@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Keluubna, walaalkii Shuuchah, wuxuu dhalay ⟨את⟩ Mexiir; kaasi wuxuu ahaa aabaha Eshtoon.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Keluubna"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkii"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuuchah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mexiir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mexiir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaasi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabaha"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshtoon"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:49.655391063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Qaado dhaq-dhaqaaqa ina-reebista wiilasha Israaiil ⟨את⟩ ka ah Midiyaaniga; kaddib waxaa la wadaami doontaa ⟨adiga⟩ qolkaga.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Qaado dhaq-dhaqaaqa ina-reebista"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ina-reebista"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midiyaaniga"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midiyaaniga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kaddib"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "waxaa la wadaami doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "qolkaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:22.120805049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Ma loo yeeri doonaa mar dambe sharmoogga deeq-badane, iyo bakhaylka lama odhan doono hodde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "loo yeeri doonaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "sharmoogga"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "deeq-badane"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "iyo bakhaylka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "lama odhan doono"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "hodde"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:55.703526328Z",
+  "model": "glm-5.3"
+}

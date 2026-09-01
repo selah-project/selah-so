@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Adiga waxaad neceb tahay cawinkeeda, oo ereyaday baad gadaashood ku tuurtay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "waxaad neceb tahay"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "cawinkeeda"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "baad ku tuurtay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyaday"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "gadaashood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:45.465151477Z",
+  "model": "glm-5.3"
+}

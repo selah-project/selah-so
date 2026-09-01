@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Maxaan Dawiid kuu darin karaa sharaf awgood ⟨את⟩ addoonkaaga? Adigana ⟨את⟩ addoonkaaga waad taqaan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ku darin karaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax kale"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sharaf awgood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad taqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:55.590678455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waan faraxsanahay, waana ku dhiirranahay adiga; waan ku heesayaa magacaaga, Elyon (Sare).",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Waan faraxsanahay"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "waana ku dhiirranahay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waan ku heesayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Sare)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:14.561613072Z",
+  "model": "glm-5.3"
+}

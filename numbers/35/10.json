@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "U hadal ilmaha Israa'iil, waxaadna ku odhan: Marka aad gudubtaan Webiga Yarden ⟨את⟩ dhulka Kanaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "waxaadna ku odhan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ilaa (to them)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Marka (when)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aad"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "gudubtaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:58:55.797367753Z",
+  "model": "glm-5.3"
+}

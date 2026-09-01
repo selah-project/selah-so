@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wuxuu duceeyay Abrahamaam Elohim, wuuna bogsiiyay Elohim ⟨את⟩ Abiimelekh iyo ⟨את⟩ naagiisa iyo addoonadiisii dumarka ah, wayna dhashay.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "wuxuu duceeyay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamaam"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "wuuna bogsiiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "naagiisa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagiisa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "iyo addoonadiisii dumarka ah"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "wayna dhashay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:28.519820649Z",
+  "model": "glm-5.3"
+}

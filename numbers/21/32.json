@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Muuse wuxuu diray baadhise ⟨את⟩ Ya'ezer, waxay qabsadeen tuulooyinkiisii, waxayna ka saaray ⟨את⟩ Emoriga joogay meeshaas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "baadhise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'ezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'ezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "waxay qabsadeen"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "tuulooyinkiisii"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "waxayna ka saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriga"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joogay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "meeshaas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:52.958104930Z",
+  "model": "glm-5.3"
+}

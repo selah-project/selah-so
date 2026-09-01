@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Waxay bixiyeen ⟨את⟩ jirkii adoomahaaga cunto u ah shimbiraha samada; baruurka kuwa khesedkaaga ah u ah duurjoogta dhulka.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "waxay bixiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jirkii"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "jirkii"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "adoomahaaga"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "cunto u ah"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "baruurka"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "kuwa khesedkaaga ah"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "u ah duurjoogta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:58.711702066Z",
+  "model": "glm-5.3"
+}

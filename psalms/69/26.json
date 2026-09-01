@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Dhul-habennadoodu ha noqdo meel baaba'ay, oo khaymadahooda ha dagan qof.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "dhul-habennadoodu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "meel baaba'ay"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "khaymadahooda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהי",
+      "gloss": ""
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qof dagan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:10.102049058Z",
+  "model": "glm-5.3"
+}

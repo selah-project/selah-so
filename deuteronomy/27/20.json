@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Nabaddoon ha ahaado kan seexanaya ⟨את⟩ naagta aabihis; waayo wuu ka qariyey shaashadda aabihis; oo dadka oo dhan waxay odhan doonaan Aamiin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Nabaddoon ha ahaado (la cararay)"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kan seexanaya (la seexanaya)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wuu ka qariyey (wuu qaaday"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "shaashadda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihis"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "oo waxay odhan doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:12:47.477376915Z",
+  "model": "glm-5.3"
+}

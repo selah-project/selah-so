@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Miiska gawaaridana waxaad u samayn kartaa alwaado alwaado geedaha shitiin ah, waxaana ku dul dushi kartaa ⟨את⟩ biraa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waad samayn kartaa"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "alwaado"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "miiska gawaarida"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "alwaado"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitiin ah"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "waana ku dul dushi kartaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "biraa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "biraa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:23.817209293Z",
+  "model": "glm-5.3"
+}

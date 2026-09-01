@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Codka daruurkaaga baa galgal-ka ku jiray; biriqqada adduunka way iftiimiyeen; dhulku wuu gariiray, wuu ruxmay dhulkii.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "daruurkaaga"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "galgal-ka ku jiray"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "way iftiimiyeen"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "biriqqada"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adduunka"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "wuu gariiray"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "wuu ruxmay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:25.520130209Z",
+  "model": "glm-5.3"
+}

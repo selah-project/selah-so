@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Gacantiisa badda baan ku dhigi, oo midigtiisana webiyada.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "baan ku dhigi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda (ku)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Gacantiisa"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "midigtiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:07.342762316Z",
+  "model": "glm-5.3"
+}

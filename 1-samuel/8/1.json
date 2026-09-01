@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waqtiyey markii Shemu'el uu waayo aragno ku noqday, wuxuu dhigay ⟨את⟩ wiilashiisa inay yihiin garooye ⟨Il Mazruuca ama Xukun. This reads as product copy. Sticking to source text only: xukuumeyaal⟩ u ah Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waqtiyey markii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markii"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "uu waayo aragno ku noqday"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "garooye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "u ah Yisra'el"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:38.871784162Z",
+  "model": "glm-5.3"
+}

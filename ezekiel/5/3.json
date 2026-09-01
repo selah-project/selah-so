@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo halkaas ka qaad wax yar tiro ahaan, oo ku xidh ⟨את⟩ kuwaas gogoxahaaga.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "oo ka qaad"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "tiro ahaan"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "oo ku xidh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (waxa yar)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "gogoxahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:26:26.333251146Z",
+  "model": "glm-5.3"
+}

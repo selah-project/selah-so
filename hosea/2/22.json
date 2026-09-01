@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo waan kugu dalbanayaa aniga igu amaan (daacadnimo); oo adigu waad garan doontaa ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "waan kugu dalbanayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga igu"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amaan (daacadnimo)"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "waad garan doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:06.913901631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Inagoonna nidhi Adonay-ii: Wiilkani ma karo inuu ka tago ⟨את⟩ aabbahiis; haddiise uu ka tago ⟨את⟩ aabbahiis, wuu dhimanayaa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "inagoonna nidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Adonay-ii)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay-ii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wiilkani"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "inuu ka tago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbahiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbahiis"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "haddiise uu ka tago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbahiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbahiis"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wuu dhimanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:24.156290454Z",
+  "model": "glm-5.3"
+}

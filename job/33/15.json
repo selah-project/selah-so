@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Riyada, muuqidda habeenkii, marka hurdada dhuubtu dadka ku dhacdo, marka huristada ku jirto sariirta.",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "riyada"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "muuqidda"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "ku dhacdo"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "hurdada dhuubtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "huristada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku jirto"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "sariirta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:48:48.441640807Z",
+  "model": "glm-5.3"
+}

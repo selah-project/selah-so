@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 13:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Haddana waxay denbiga ku sii kordhiyeen, waxayna iskaga sameeyeen sanam biyo-lubitaan ah oo lacagtooda ka samaysan, — sawirrada fahamkooda ku dhisnaa, shuqulkii farsamoyaqaannada baa dhammaanteed; kuwaas waxay odhan: Kuwa dadka u gowraca waa inay busaaska af-dheereeyaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ku sii kordhiyeen"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "denbiga"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iskaga"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "sanam biyo-lubitaan ah"
+    },
+    {
+      "surface": "מכספם",
+      "gloss": "lacagtooda ka samaysan"
+    },
+    {
+      "surface": "כתבונם",
+      "gloss": "fahamkooda"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "sawirrada"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "farsamoyaqaannada"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dhammaanteed"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "way"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kuwa u gowraca"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "busaaska"
+    },
+    {
+      "surface": "ישקון",
+      "gloss": "af-dheereeyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:49.185440345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxay u qaybiyeen ⟨את⟩ dhulka inay ku wareeggaan; Axab wuxuu tegay jid keliya isaga oo keliya, Ciibad-Yahwehna wuxuu tegay jid keliya isaga oo keliya.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Waxay u qaybiyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "inay ku wareeggaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wuxuu tegay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "isaga oo keliya"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Ciibad-Yahwehna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wuxuu tegay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "isaga oo keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:06.198709512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Adiguna waxaad qaadaysaa flawar nadiif ah, waxaadna ku dhaxlaysaa ⟨את⟩ laba iyo toban rooti; laba cisheroon ah ayaa ⟨את⟩ rootiga kasta oo keli ah uu noqonayaa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "waxaad qaadaysaa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flawar nadiif ah"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "waxaadna ku dhaxlaysaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "laba iyo toban rooti"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "cisheroon ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uu noqonayaa"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "kasta oo keli ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:11.461188969Z",
+  "model": "glm-5.3"
+}

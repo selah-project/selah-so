@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Malaggii Yahweh wuxuu ku goo-gooyaa kuwa cabsada Isaga, oo wuu badbaadinayaa.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "wuxuu ku goo-gooyaa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaggii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kuwa cabsada Isaga"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "oo wuu badbaadinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:07.888525189Z",
+  "model": "glm-5.3"
+}

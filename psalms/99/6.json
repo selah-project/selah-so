@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Muuse iyo Haaruun kiiskoodii wadaadada, iyo Shemuuel kuwa magaciisa ku dhawaaqay; waxay dhawaaqeen Yahweh, isagoo ka jawaabay.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Haaruun"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "kiiskoodii wadaadada"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "iyo Shemuuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kuwa ku dhawaaqay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "waxay dhawaaqeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(hoy)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ka jawaabay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:31.408384800Z",
+  "model": "glm-5.3"
+}

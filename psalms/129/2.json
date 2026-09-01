@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Badan bay i-cuneen ilaa ay ka nagaadeen, laakiin ii-guul ma gaarin.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Badan"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "bay i-cuneen"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ilaa ay ka nagaadeen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gaarin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i-lan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:23.824521638Z",
+  "model": "glm-5.3"
+}

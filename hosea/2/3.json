@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dheh walaalahaagi Ammi (qoloday), iyo walaalahi Ruhamah (laxawsatay).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dheh"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "walaalahaagi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (qoloday)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "iyo walaalahi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (laxawsatay)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:41.330848665Z",
+  "model": "glm-5.3"
+}

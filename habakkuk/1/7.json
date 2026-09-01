@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Qolo cabsi leh oo baqdin leedahay; xukunkiisii iyo sar taalliisiisaba wuxuu ka soo baxaa iyaga qudhaa.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "cabsi leh"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "oo baqdin leedahay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka soo baxaa iyaga qudhaa"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "xukunkiisii"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "iyo sar taalliisiisaba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wuxuu ka soo baxaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:54:13.731814963Z",
+  "model": "glm-5.3"
+}

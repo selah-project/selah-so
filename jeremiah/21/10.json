@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 21:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waayo, aniga waxaan u dhigay wejikeyga magaalandan xume, aanannahay wanaagsan, ayadoo neunka ah Yahweh; gacanta boqorka Baabylon ayaa lagu dhiibay, na lagu gubay dab.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "waxaan u dhigay"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejikeyga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalandan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan (magaalandan)"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "xume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanannahay"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayadoo neunka ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabylon"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "lagu dhiibay"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "na lagu gubay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    }
+  ],
+  "timestamp": "2026-09-01T04:08:37.173510454Z",
+  "model": "glm-5.3"
+}

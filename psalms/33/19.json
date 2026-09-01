@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Si nafahooda la badbaadinyo geeri, oo si la nooleeyo abaarta.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "si la badbaadinyo"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "geerta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafahooda"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "oo si la nooleeyo"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "abaarta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:05.053400842Z",
+  "model": "glm-5.3"
+}

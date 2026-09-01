@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 44:15",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Markaasaa waxay ka jawaabeen ⟨את⟩ Yirmiyaah dhammaan ragga ogaada in haweenkoodu u xuuraan Elohim kale, iyo dhammaan haweenka taagan — ama weyn oo jama ah — iyo dhammaan dadka deggan dhulka Mitsrayim, dalka Pathros, iyagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Markaasaa waxay ka jawaabeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmiyaah"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "הידעים",
+      "gloss": "ogaada in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "מקטרות",
+      "gloss": "u xuuraan"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "haweenkoodu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "haweenka"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ama (jama)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בפתרוס",
+      "gloss": "dalka Pathros"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:19:34.870926765Z",
+  "model": "glm-5.3"
+}

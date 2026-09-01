@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Iyo Kiryataayim, iyo Beyt-Gamul, iyo Beyt-Meon.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Gamul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    }
+  ],
+  "timestamp": "2026-09-01T04:20:58.879267378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Markaan adiga ku xuso sariirtayda, iyo waqtigayda ilaalinnada habeenka waan kuu ooyooxaa (waan ka fekerayaa).",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "markaan (markii aan)"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ku xuso adiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (sariirtayda)"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "sariirtayda"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "waqtigayda ilaalinnada habeenka"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "waan kuu ooyooxaa (waan ka fekerayaa)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.360492114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Haddii aysan taasi noqon, yaa i beenyeelaya, oo ereyadayda ⟨wuxuu ka dhigi⟩ wax ma aha?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "taasi (hadduu sidaa noqon)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "i beenyeelaya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "oo uu dhiga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "wax ma aha"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "ereyadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:46:00.729614645Z",
+  "model": "glm-5.3"
+}

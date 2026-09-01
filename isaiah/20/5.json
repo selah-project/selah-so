@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo way cabsadeen oo waxay xishoodaan Kush, rajadeenna ⟨waxay ahayd⟩, iyo Mitsrayim, waanada ay ku maaweeyeen.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "way cabsadeen"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "waxay xishoodaan"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "rajadeenna"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "waanada ay ku maaweeyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:43.811039366Z",
+  "model": "glm-5.3"
+}

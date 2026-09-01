@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Si ay u dhaqan-geliyaan ⟨את⟩ hadhagii Edom iyo dhammaan shucuuraha magacaygu ku baxay, ayaa odhanayo Yahweh, sameeyaha waxaas.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Si ay u"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "dhaqan-geliyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadhagii Edom"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hadhagii"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shucuuraha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ku baxay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacaygu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayaa odhanayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyaha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waxaas"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:49.897507417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 128,
+  "translation": "Waxay cuni doontaa taageerada gacmaheeda; barwaaqo bay kuu tahay, oo wanaag bay kuu noqonaysaa.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "taageerada (shaqada gacanta)"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "gacmaheeda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨maadaama⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "Waxay cuni doontaa"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "barwaaqo bay kuu tahay"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:13.064407297Z",
+  "model": "glm-5.3"
+}

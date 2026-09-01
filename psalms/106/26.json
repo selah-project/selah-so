@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Markaa wuxuu kor u qaaday gacantiisii iyagii ⟨wuxuu ku dhaartay⟩, inuu la soo diyrido ⟨את⟩ iyagaa waqooyiga dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "wuxuu kor u qaaday"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyagii"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "inuu la soo diyrido"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagaa waqooyiga dhexdeeda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "waqooyiga dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:59.198953806Z",
+  "model": "glm-5.3"
+}

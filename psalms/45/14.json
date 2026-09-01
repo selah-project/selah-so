@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Gabadha boqorka dhammaanteed waa weynaysaa gudaha ⟨qasriga⟩; dharkeedu waa dahab la tolay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaanteed"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "sharafta \/ weynaysaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "mosaajillo (la tolay)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "dharkeedu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:57.845595204Z",
+  "model": "glm-5.3"
+}

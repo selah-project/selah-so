@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Iska sarreeyso, Adigoo ah garoowaha ⟨את⟩ dhulka; ku celi abaalgudka kuwa islaweynaya.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Iska sarreeyso"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "garoowaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ku celi"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "abaalgudka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kuwa islaweynaya"
+    }
+  ],
+  "timestamp": "2026-09-01T08:44:50.529922920Z",
+  "model": "glm-5.3"
+}

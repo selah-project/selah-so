@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Iyo ⟨את⟩ Yeuts iyo ⟨את⟩ Sakhya iyo ⟨את⟩ Mirmah; kuwani waa wiilashiisii, madaxda aabayaal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Sakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "aabayaal"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:16.171382057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha doondoondan nabadooda iyo wanaaggooda, inta maalmahaada ah, ilaa iyo weligood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "doondoondan"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "nabadooda"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "iyo wanaaggooda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "maalmahaada ah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:06.576997447Z",
+  "model": "glm-5.3"
+}

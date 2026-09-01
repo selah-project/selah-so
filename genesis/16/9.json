@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Malaa'igta Yahweh waxay ku tidhi: Ku noqo gadhadheertaada, oo naftaada hoos u dhig gacantaheeda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay ku tidhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaa'igta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Ku noqo"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "gadhadheertaada"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "oo naftaada hoos u dhig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "gacantaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:17.735079331Z",
+  "model": "glm-5.3"
+}

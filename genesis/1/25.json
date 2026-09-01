@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Elohim wuu sameeyay ⟨את⟩ duur-joogtada dhulka ay noocdeeda tahay, iyo ⟨את⟩ xoolaha ay noocdeeda tahay, iyo ⟨את⟩ xuub-xuubayaasha cadceeda dhan ay noocoodii ahayd; oo Elohim wuu arkay inay wanaagsan tahay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuu sameeyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duur-joogtada"
+    },
+    {
+      "surface": "חית",
+      "gloss": "duur-joogtada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ay noocdeeda tahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolaha"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ay noocdeeda tahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xuub-xuubayaasha dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "xuub-xuubayaasha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "cadceeda"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ay noocoodii ahayd"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:07.580165475Z",
+  "model": "glm-5.3"
+}

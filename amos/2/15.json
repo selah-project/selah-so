@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo qabataha gaantana ma istaagi doono, oo kan cagihiisa degdegga ahina ma badbaadi doono, oo fuulaha faraskana nafdiisa ma badbaadin doono.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "qabataha"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "gaanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "istaagi doono"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "kan degdegga ahina"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "cagihiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "badbaadi doono"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "fuulaha"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "faraskana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "badbaadin doono"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:47:59.491582829Z",
+  "model": "glm-5.3"
+}

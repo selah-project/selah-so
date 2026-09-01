@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "laakiin geedka aqoonta wanaagsan iyo xumaan, ha ka cunin; waayo maalinta aad ka cunto, dhimis baad dhiman doontaa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "laakiin geedka"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "aqoonta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "iyo xumaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka cunin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "aad ka cunto"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimis"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "baad dhiman doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:27.474178719Z",
+  "model": "glm-5.3"
+}

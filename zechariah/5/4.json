@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 5:4",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaan ka soo bixiyay, tanaasulka Yahweh Tsevaot, waxayna gelayssa guriga tuugga, iyo guriga kan magacayga beeni ku dhaaranaya, waxayna ku degeysa gurigiisa dhexdiisa, waxayna halaabisaa, iyo ⟨את⟩ geedi-dhalaalihiisa iyo ⟨את⟩ dhagaxyadiisa.",
+  "tokens": [
+    {
+      "surface": "הוצאתיה",
+      "gloss": "Waxaan ka soo bixiyay"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tanaasulka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "waxayna gelayssa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galo (toward)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "tuugga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo (galo)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kan dhaaranaya"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "beeni"
+    },
+    {
+      "surface": "ולנה",
+      "gloss": "waxayna ku degeysa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "וכלתו",
+      "gloss": "waxayna halaabisaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "geedi-dhalaalihiisa"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "geedi-dhalaalihiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyadiisa"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "dhagaxyadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:58:03.855590138Z",
+  "model": "glm-5.3"
+}

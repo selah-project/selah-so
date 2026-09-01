@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo iyadu nafteedu markay ka dhib badan tahay, way duceysatay Yahweh, oo iyadoo ooyaysa bay aad u ooyday.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "oo iyadu"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "markay ka dhib badan tahay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafteedu"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "way duceysatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ugu)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "oo iyadoo ooyaysa"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "bay aad u ooyday"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:07.063672790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Midkoodna ha laga helin adiga: mid gubiya wiilkiisa ama gabadhiisa dabka, mid tiraaya tiraamo (qesem), fallaaye, muraad-falaaye, iyo sixirle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "lagu helin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "gubiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisa"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ama gabadhiisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "tiraaya"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "tiraamo"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "fallaaye"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "muraad-falaaye"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "iyo sixirle"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:22.353580827Z",
+  "model": "glm-5.3"
+}

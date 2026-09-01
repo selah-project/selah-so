@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Kor iyo hoos ‹aad› ku dukaameysaa libaaxa iyo maska; waad ku tudaysaa kurayga iyo taninka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kor iyo hoos"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "libaaxa"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "iyo maska"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ku dukaameysaa"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "waad ku tudaysaa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "kurayga"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "iyo taninka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:05.778068591Z",
+  "model": "glm-5.3"
+}

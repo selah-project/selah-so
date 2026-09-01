@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Furista ereyadaagu waxay iftiin siisaa; fahansiisaa ⟨kuwa⟩ layda.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "furista"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ereyadaagu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "waxay iftiin siisaa"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "fahansiisaa"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "layda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:56.780808203Z",
+  "model": "glm-5.3"
+}

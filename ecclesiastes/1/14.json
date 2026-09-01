@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaan arkay ⟨את⟩ dhammaan shuqullada la sameeyay hoosha qoraxda, oo bal eeg — dhammaantiis waa hebel (madnaan) iyo raadinta dabaysha.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan shuqullada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "la sameeyay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "dhammaantiis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel (madnaan)"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo raadinta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabaysha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:42.393979122Z",
+  "model": "glm-5.3"
+}

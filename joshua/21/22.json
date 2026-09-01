@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo ⟨את⟩ Kibtsayim iyo ⟨את⟩ beerkeedii, iyo ⟨את⟩ Beyth-Choron iyo ⟨את⟩ beerkeedii — magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Beyth-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyth"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:32.846721704Z",
+  "model": "glm-5.3"
+}

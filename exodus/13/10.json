@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Adigana ilaali ⟨את⟩ sharcigan wakhtiigiisii la go'o, laga bilaabo maalmaha ilaa maalmaha.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "adigana ilaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharcigan"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "sharcigan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "wakhtiigiisii la go'o"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "laga bilaabo maalmaha"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ilaa maalmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:25.637273619Z",
+  "model": "glm-5.3"
+}

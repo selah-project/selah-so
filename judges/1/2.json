@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahwehna wuxuu yidhi: Yahuudah ha koro; bal egee, waxaan dhiibay ⟨את⟩ dhulka gacantiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ha koro"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal egee"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan dhiibay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:30.989795984Z",
+  "model": "glm-5.3"
+}

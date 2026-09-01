@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dadkuna way ka cabsadeen Yahweh cabsi weyn, wayna Yahweh u gowriceen gowrac, wayna dhaareen dhaaro.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "way ka cabsadeen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wayna u gowriceen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "gowrac"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "wayna dhaareen"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "dhaaro"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:06.258442654Z",
+  "model": "glm-5.3"
+}

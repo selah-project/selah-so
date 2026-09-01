@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxay u dhaweeyeen Luut, waxayna ku dheheen: Xaggee waxay yihiin ragga habeenkii kuu yimaadday? Soo bixi ilmo-nagala soo bixin si aan u gartanno ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "waxay u dhaweeyeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luut"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna ku dheheen"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "איה",
+      "gloss": "xaggee"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "באו",
+      "gloss": "yimaadday"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "soo bixi ilmo-nagala soo bixin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ilmo-nagala horay naga"
+    },
+    {
+      "surface": "וונדעה",
+      "gloss": "si aan u gartanno"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ragga (ilmo-nagala soo bixin rabba)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:50.503070517Z",
+  "model": "glm-5.3"
+}

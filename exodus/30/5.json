@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaad samaysaa ⟨את⟩ tiirarka geedaha shitti, waxaadna ku daboolaa ⟨את⟩ dahab.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitti"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "waxaadna ku daboolaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dahab"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:10.171834109Z",
+  "model": "glm-5.3"
+}

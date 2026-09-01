@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Waxaad samaysaa ⟨את⟩ barxadda Maskanka; dhinaca koonfureed, oo koonfur ah, waa dukaammo (curtains) barxadda oo ah maro shesh mudhdhaqay (twined) — boqol amaah dherer ah dhinaca keliya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barxadda Maskanka"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskanka"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koonfureed"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "oo koonfur ah"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dukaammo (curtains)"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "maro shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mudhdhaqay"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dherer ah"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:54.188440849Z",
+  "model": "glm-5.3"
+}

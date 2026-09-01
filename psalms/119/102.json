@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Xukunnadaaga kama teegsan, waayo adigu baa ii baray.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "Xukunnadaaga ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "teegsan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu baa"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ii baray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:14.803203311Z",
+  "model": "glm-5.3"
+}

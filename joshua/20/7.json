@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waxay qudsiyeen ⟨את⟩ Qedes ee Gaalil, buurta Naftali, iyo ⟨את⟩ Shekhem buurta Efrayim, iyo ⟨את⟩ Kiryat-Arba, taas oo ah Khevron, buurta Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "waxay qudsiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedes"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ee Gaalil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "taas oo ah"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:27:29.769294171Z",
+  "model": "glm-5.3"
+}

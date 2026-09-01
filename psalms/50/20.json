@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Waxaad fadhiisaa, walaalkiina baad ku hadashaa, wiilka hooyadaana waxaad ku shubaysaa cadeyn-darro.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "waxaad fadhiisaa"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "walaalkiina"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "baad ku hadashaa"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waxaad ku shubaysaa"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "cadeyn-darro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:45.465910297Z",
+  "model": "glm-5.3"
+}

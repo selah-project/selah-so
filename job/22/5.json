@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ma waa weyn tahay sharkaagu, oo aysan jirin dhamaad dariiqaaduu xad-gudubyadaa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma waa"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sharkaagu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "weyn tahay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aysan jirin"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "dhamaad"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "dariiqaaduu xad-gudubyadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:13.891406571Z",
+  "model": "glm-5.3"
+}

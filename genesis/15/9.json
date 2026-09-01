@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuuna ku yidhi: Igu qaad dhig saddex-sano-jirsan, iyo ri' saddex-sano-jirsan, iyo wan saddex-sano-jirsan, iyo qoolley-tor, iyo qoolley-yar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu (iiga)"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "saddex-sano-jirsan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iyo ri'"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "saddex-sano-jirsan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "iyo wan"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "saddex-sano-jirsan"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "iyo qoolley-tor"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "iyo qoolley-yar"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:08.474674694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxayna dadkii ku yidhaahdeen: gudba, ku wareegga ⟨את⟩ magaalada, oo ciidanku wuu hortii u gudbayaa sanduuqa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna ku yidhaahdeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gudba"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ku wareegga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "oo ciidanku"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "wuu hortii u gudbayaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:19:10.824794587Z",
+  "model": "glm-5.3"
+}

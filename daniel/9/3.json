@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaan u jeediyay ⟨את⟩ wajiyaga Adonay Elohiga si aan u raadsano tuki iyo baryo, soon iyo dhar-saacid iyo boodhadh.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Waxaan u jeediyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiyaga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiyaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (jeedi)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohiga"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "si aan u raadsano"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tuki"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "iyo baryo"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "soon"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "iyo dhar-saacid"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "iyo boodhadh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:10:02.597898133Z",
+  "model": "glm-5.3"
+}

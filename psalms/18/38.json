@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waan raacayaa cadowdayda oo waan gaadhayaa, oo aanan ku noqonin inta aan ka dhammaystirin.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Waan raacayaa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "oo waan gaadhayaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanan"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ku noqonin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inta"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "aan ka dhammaystirin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:29.964279213Z",
+  "model": "glm-5.3"
+}

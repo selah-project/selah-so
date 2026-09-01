@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo idinku waad tirin doontaan idinkoo ka bilaabmaya berri xigta ⟨ta⟩ Shabbadda, maalintaad keenteen ⟨את⟩ omerkii la-ruuxiyay: toddoba Shabbadood oo dhan oo buuxa bay ahaan doontaan.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "waa tirin doontaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "berri xigta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨ta⟩ Shabbadda"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "aad keenteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerkii la-ruuxiyay"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "la-ruuxiyay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabbadood"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "oo dhan oo buuxa"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "bay ahaan doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:43.149223622Z",
+  "model": "glm-5.3"
+}

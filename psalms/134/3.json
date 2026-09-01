@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 134,
+  "translation": "Yahweh ha ku barakee Tsiyoon ka, kan sameeyay samada iyo ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ha ku barakee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyoon ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan sameeyay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.285669957Z",
+  "model": "glm-5.3"
+}

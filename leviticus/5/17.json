@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo haddii nefesh ay dembaabto, oo ay sameyso mid ka mid ah amarrada Yahweh ee dhan ee aan la sameyn karin, oo isagoo aan garan, wuu aqmay, oo wuxuu dhaafaa cuunkiisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "dembaabto"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "oo ay sameyso"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka mid ah dhammaan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarrada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "la sameyn karin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garan"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "wuu aqmay"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "oo wuxuu dhaafaa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "cuunkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:38.116668396Z",
+  "model": "glm-5.3"
+}

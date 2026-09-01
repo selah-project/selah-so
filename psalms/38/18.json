@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waxaan ahay mid diidmo u diyaar ah, oo xanuunkayguba wuu i hor joogaa had iyo goor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaan ahay (maxaa yeelay)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "diidmo u diyaar ah"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "diyaar ah"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "oo xanuunkayguba"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "i hor"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo goor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.233850050Z",
+  "model": "glm-5.3"
+}

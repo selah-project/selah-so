@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo il baa ka soo kacay dhulka, oo waxa uu dhammaan ⟨את⟩ wejiga carrada biyo siyay.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "oo il"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ka soo kacay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "oo biyo siyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan wejiga carrada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "carrada"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:25.001749063Z",
+  "model": "glm-5.3"
+}

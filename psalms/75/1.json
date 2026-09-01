@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Hagaha taageerada — ⟨ha baabin⟩ — mazmoor Asaaf, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha taageerada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "baabin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:19.227076020Z",
+  "model": "glm-5.3"
+}

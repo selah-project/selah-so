@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Markaasay i yeeri doonaan, oo aanan ka jawaabi doonin; i doondoon doonaan, oo i heli mayso.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "markaasay"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "i yeeri doonaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanan"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ka jawaabi doonin"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "i doondoon doonaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "i heli mayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:20.526491255Z",
+  "model": "glm-5.3"
+}

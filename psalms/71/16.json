@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Waxaan imaan doonaa xoogagga Adonay Yahweh, waanan xusayaa xaqnimadaada — adiga keliya.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "waxaan imaan doonaa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "xoogagga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "waanan xusayaa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "adiga keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.798402644Z",
+  "model": "glm-5.3"
+}

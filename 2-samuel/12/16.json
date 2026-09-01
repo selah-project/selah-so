@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Daawudna wuxuu baryay ⟨את⟩ Elohim dartii ilmahaas; Daawudna wuu soomay soomo, wuuna gurigii galay, wuuna seexshay dhulka ku jiifa.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "wuxuu baryay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmahaas"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "wuu soomay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "צום",
+      "gloss": "soomo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wuuna gurigii galay"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "wuuna halliyay (seexshay)"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "wuuna jiifay"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:44.949589770Z",
+  "model": "glm-5.3"
+}

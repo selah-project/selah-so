@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Kan sameeya caddaaladda lagu dulmayay, kan siinaya cunto gaajaysanayaasha; Yahweh wuxuu furaa kuwa xidhan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "lagu dulmayay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siinaya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "gaajaysanayaasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "furaa"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "kuwa xidhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:52.118032215Z",
+  "model": "glm-5.3"
+}

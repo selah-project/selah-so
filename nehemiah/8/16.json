@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 8:16",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dadku waxay baxeen, waxayna keeneen, waxayna isku sameeyeen guryo qasab (sukkot), nin kasta oo ku (sattya) saqafkisa gurigiisa, iyo barxaddooda, iyo barxaddaha baytkaa Elohim, iyo wadaarta albaabka biyaha, iyo wadaarta albaabka Efrahaym.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "waxay baxeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadku"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waxayna keeneen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna isku sameeyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isku"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "guryo qasab (sukkot)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "saqafkisa gurigiisa"
+    },
+    {
+      "surface": "ובחצרתיהם",
+      "gloss": "iyo barxaddooda"
+    },
+    {
+      "surface": "ובחצרות",
+      "gloss": "iyo barxaddaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkaa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "iyo wadaarta"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "iyo wadaarta"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrahaym"
+    }
+  ],
+  "timestamp": "2026-09-01T06:19:14.587154421Z",
+  "model": "glm-5.3"
+}

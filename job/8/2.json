@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ilaabee dheer aa ku hadashaa waxaas, oo ereyada afkaagaa sidii dabayl adag?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaabee dheer"
+    },
+    {
+      "surface": "אן",
+      "gloss": "aa"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "ku hadashaa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "oo sidii dabayl"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "adag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:36.430248392Z",
+  "model": "glm-5.3"
+}

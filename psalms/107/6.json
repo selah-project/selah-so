@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Markaasay Yahweh u qaylimeen dhibatadooda, xaggii adagayaddoodana wuu ka badbaadin",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Markaasay u qaylimeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dhibatadooda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(ay) ka"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "xaggii adagayaddooda"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wuu ka badbaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:55.835499464Z",
+  "model": "glm-5.3"
+}

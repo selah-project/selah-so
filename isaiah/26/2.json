@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Iyada albaabada, oo ha soo gala qowl adag oo ammaan ilaaliya.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Iyada"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oo ha soo gala"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "qowl"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adag"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ammaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:16.728275491Z",
+  "model": "glm-5.3"
+}

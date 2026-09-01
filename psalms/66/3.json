@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Dhehi Elohim: intee ayay cabsi le'eg yihiin shuqulladaada! Aadkaa xooggaaga, cadowyaashaaku way ku been-abuuri doonaan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dhehi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "intee"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "cabsi le'eg"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqulladaada"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "aadkaa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "way ku been-abuuri doonaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowyaashaaku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:25.572954913Z",
+  "model": "glm-5.3"
+}

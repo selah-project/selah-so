@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyana Elohim wuxuu yidhi: Biyaha hoos samooyinka ha wada midooba meel keli ah, oo dhulka engegegu ha muuqdo; oo si aan baa noqday.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ha wada midooba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Biyaha"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samooyinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galay"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "oo ha muuqdo"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dhulka engegegu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo … noqday"
+    },
+    {
+      "surface": "כן",
+      "gloss": "si aan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:02.467288720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Qoomaanka aabahaa iyo qoomaanka hooyadaa adigu ma muujinayso; hooyadaa ⟨waa⟩ iyadu — qoomaankeeda ma muujinayso.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "qoomaanka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "iyo qoomaanka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "muujinayso"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyadu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "muujinayso"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "qoomaankeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:04.911899686Z",
+  "model": "glm-5.3"
+}

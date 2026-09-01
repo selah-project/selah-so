@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ha samayn adigoo leh sanam la jarjaray, miyir kasta oo muuqda wax kasta oo samada ku sugan ∙ sare, iyo waxa dhulka ku yaal ∙ hoose, iyo waxa biyaha ku dhex yaal hoos dhulkii.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha samayn"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigoo leh"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanam la jarjaray"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "muuqda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada ku sugan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo waxa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka ku yaal"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoose"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo waxa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha ku dhex yaal"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:46.338435792Z",
+  "model": "glm-5.3"
+}

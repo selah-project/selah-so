@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "⟨את⟩ Esavna waan necbahay, waxaana dhigay ⟨את⟩ buurahiisii inay noqdaan burburiy, iyo ⟨את⟩ dhaxalsigiisii inay ahaadaan meel lagu waayay ee ay libaaxyadu degto",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "waan necbahay"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "waxaana dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurahiisii"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "buurahiisii"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "burburiy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhaxalsigiisii"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaxalsigiisii"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "in libaaxyadu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ay degtaan meel lama degel ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:59:52.314740472Z",
+  "model": "glm-5.3"
+}

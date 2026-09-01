@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Wuxuuna ku celin doonaa ⟨dushooda⟩ ⟨את⟩ xumeedooda, oo xumeedadooda ku baabbi'in doonaa; wuu baabbi'in doonaa — Yahweh, Elohimkeenna.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku celin doonaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨dushooda⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xumeedooda"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "xumeedooda"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "oo xumeedadooda ku"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "baabbi'in doonaa"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "wuu baabbi'in doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.202031978Z",
+  "model": "glm-5.3"
+}

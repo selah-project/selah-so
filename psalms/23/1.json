@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Mizmor (tumo) liddawit (muusig) David Yahweh waa cawiyayga, wax ma waayaan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor (tumo muusig)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "cawiyayga waa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "waayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:07.677898032Z",
+  "model": "glm-5.3"
+}

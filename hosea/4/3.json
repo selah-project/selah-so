@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 4:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sidaas darteed ⟨dhulku⟩ wuxuu baroorayaa, iyo kulli deggan dhulkaas wuu daalayaa, ⟨waxaana saarna⟩ bahalaha beertaba iyo shimbiraha samadaba, iyo kaluunkana badda waa la aruuriyaa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "wuxuu baroorayaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨dhulku⟩"
+    },
+    {
+      "surface": "ואמלל",
+      "gloss": "iyo wuu daalayaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhulkaas"
+    },
+    {
+      "surface": "בחית",
+      "gloss": "⟨waxaana saarna⟩ bahalaha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beertaba"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "iyo shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samadaba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo kaluunkana"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "kaluunka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "waa la aruuriyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:48.146433314Z",
+  "model": "glm-5.3"
+}

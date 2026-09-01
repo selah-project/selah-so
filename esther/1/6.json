@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "(Xidhiidh) maro cad, maro wanaagsan iyo mid buluug ah ayaa xidhnaa xariirtyo budhcad iyo bunni ah, wareeggoy lacag ah iyo tiirar marmar ah; sariiro dahab iyo lacag ah waxay yaallieen sagxadda dhagax cad iyo marmar iyo (aalad) dheeya iyo (munaafaq) mid madoow — qol dhexdiisa.",
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "maro cad"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "maro wanaagsan"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "iyo mid buluug ah"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "xidhnaa"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "xariirtyo"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "budhcad"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo bunni ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "wareeggoy"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "lacag ah (dhawaaqo)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "iyo tiirar"
+    },
+    {
+      "surface": "שש",
+      "gloss": "marmar ah"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "sariiro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "iyo lacag ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "sagxadda"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "dhagax cad (farshaxan)"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "dhagax cad iyo (farshaxan) marmar la mid"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo marmar"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo dheeya (farshaxan)"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "iyo mid madoow (farshaxan)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:48.944030717Z",
+  "model": "glm-5.3"
+}

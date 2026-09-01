@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh wuxuu ku yidhi Nuuḥ: Adiga oo ⟨adiga⟩ iyo gurigagii oo dhan kaalaya teendhooyada, waayo adiga baan ku arkey ⟨⟨adiga⟩⟩ inaad ⟨adiga⟩ tiir ahayd waajib hortayda ololkan gurigan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Nuuḥ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kaalaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigagii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaalaya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teendhooyada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "baan ku arkey"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tiir ahayd waajib"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ololkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gurigan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:07.289009006Z",
+  "model": "glm-5.3"
+}

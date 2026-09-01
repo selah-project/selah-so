@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Ballan waan goysiiyay la midigayga doortay; waxaan ku dhaartay Daawuud addoonkayga.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "waan goysiiyay (ballanka)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "la midigayga doortay"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "waan ku dhaartay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:03.898793879Z",
+  "model": "glm-5.3"
+}

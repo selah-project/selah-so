@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Saas ayay Yahweh Sevaot odhan: bal eeg, waan badbaadin doonaa ⟨את⟩ qolkayga dhulka bari iyo dhulka galabka qorraxdu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Saas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "waan badbaadin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qolkayga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkayga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bari"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "iyo dhulka"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "galabka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxdu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:43.863273858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Ha u dhigin qalbigayga erey shar ah, inaan ku sameeyo falal shar falaya ⟨את⟩ ragga falaya wax maqnaan (awen); aanana cunin waxyaabahooda macaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תט",
+      "gloss": "u dhigin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "erey shar ah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "inaan ku sameeyo"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "falal shar"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "falaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragga falaya wax maqnaan"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "falaya"
+    },
+    {
+      "surface": "און",
+      "gloss": "wax maqnaan (awen)"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "aanana"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "במנעמיה׸",
+      "gloss": "waxyaabahooda macaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:06.607990539Z",
+  "model": "glm-5.3"
+}

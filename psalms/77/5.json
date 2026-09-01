@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Waxaad qabatay qofacaha ilmeeyahay; waan lalabmay oo aan hadli karin.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "waxaad qabatay"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "qofacaha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ilmeeyahay"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "waan lalabmay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "hadli karin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:42.381828609Z",
+  "model": "glm-5.3"
+}

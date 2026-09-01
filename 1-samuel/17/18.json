@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo ⟨את⟩ toban dhaldhalaal oo candhuustan ah waxaad u keenaa sarkaalka ee ciidanka kunaad, oo ⟨את⟩ walaalahaa waxaad ku eegaysaa nabad, iyo ⟨את⟩ maraatiigooda waxaad qaadaneysaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toban dhaldhalaal"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "toban"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "dhaldhalaal"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "candhuusta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "waxaad u keenaa"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "sarkaalka"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ciidanka kunaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "walaalahaa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalahaa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "waxaad ku eegaysaa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maraatiigooda"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "maraatiigooda"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "waxaad qaadaneysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:42:28.309737066Z",
+  "model": "glm-5.3"
+}

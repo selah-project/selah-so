@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Seefahoodu waxay geli doontaa qalbigooda, qawasahooduna waa la jabin doonaa.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Seefahoodu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "waxay geli doontaa"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "qalbigooda"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "qawasahooduna"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "waa la jabin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:38.010773264Z",
+  "model": "glm-5.3"
+}

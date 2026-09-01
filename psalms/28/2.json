@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Maqal codka baryadayda markaan Aadiga ku qayliyo, markaan gacmahayga ku qaadayo dhanka qolka quduuska ah ee dhexkiisa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "baryadayda"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "markaan ku qayliyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "markaan ku qaadayo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhanka"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "qolka quduuska ah ee dhexkiisa (debir)"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuskaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:54.602817097Z",
+  "model": "glm-5.3"
+}

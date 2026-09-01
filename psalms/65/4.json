@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Arrimaha dambiyooyinku way iga adkaadeen; caasiyaannadeenna adiga waad asturaysaa.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Arrimaha"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dambiyooyinku"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "way adkaadeen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "caasiyaannadeenna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "waad asturaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:44.510193257Z",
+  "model": "glm-5.3"
+}

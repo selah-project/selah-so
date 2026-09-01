@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Bilowgii 12:2 — Shiinahaan waa idiin madaxa bilaha; waa kan ugu horreeya idiin, ka bilaha sanadka. — Sheekada Selah: Ha-shiinahaan idinku waa madax bilaha; kan ugu horreeya baa uu idiin yahay, ka bilaha sanadka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "shiinahaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan\/taan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bilaha"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "kan ugu horreeya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa uu yahay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ka bilaha"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sanadka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:12.829648245Z",
+  "model": "glm-5.3"
+}

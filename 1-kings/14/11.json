@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "kii Yarobcaam ka dhinta magaalada waa eyda ku cuni, oo kii beerta ku dhinta waa shimbiraha samada ku cuni, waayo Yahweh ayuu ka hadlay.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kii dhinta"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarobcaam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa ku cuni"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "eyda"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "oo kii dhinta"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa ku cuni"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ayuu ka hadlay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:22.168801287Z",
+  "model": "glm-5.3"
+}

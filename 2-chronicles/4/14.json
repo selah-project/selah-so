@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ saldhigyada; wuxuu kaloo sameeyay ⟨את⟩ haanadaha saldhiggyada dheer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Wuxuuna sameeyay ⟨את⟩",
+      "marks": "saldhigyada"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saldhigyada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wuxuu kaloo sameeyay ⟨את⟩",
+      "marks": "haanadaha"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "haanadaha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saldhiggyada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:19.506280919Z",
+  "model": "glm-5.3"
+}

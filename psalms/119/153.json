@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Eeg ⟨⟨dhibaataydii⟩⟩ tahriibadayda oo i gargaar, waayo sharcigaa ma iloobay.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Eeg"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "tahriibadayda"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "oo i gargaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sharcigaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "iloobay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:43.872565026Z",
+  "model": "glm-5.3"
+}

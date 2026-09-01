@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Raggaagu ⟨את⟩ seef bay ku dhici doonaan, iyo xooggaagaagana dagaalka bay ku dhici doonaan.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "raggaagu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef bay ku"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dhici doonaan"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "iyo xooggaagaagana"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaalka bay ku dhici doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:34.606755006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Xataa saaxiibkaygii nabad-iilayahay ee aan ku hallyacay, cunayaa kibiskaygii buu ahaa — sungalkiisii buu ii weynaa­yay.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "qof"
+    },
+    {
+      "surface": "שָׁלוֹמִי",
+      "gloss": "nabad-iilayahay"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בָּטַחְתִּי",
+      "gloss": "aan ku hallyacay"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אוֹכֵל",
+      "gloss": "cunayaa"
+    },
+    {
+      "surface": "לַחְמִי",
+      "gloss": "kibiskaygii"
+    },
+    {
+      "surface": "הִגְדִּיל",
+      "gloss": "buu weynaa­yay"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עָקֵב",
+      "gloss": "sungalkiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.244031080Z",
+  "model": "glm-5.3"
+}

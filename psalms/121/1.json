@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Hees lahaanshaha. Waxaan qaadtaa indhahayga ⟨ilaa⟩ buuraha — meeqay imanaysaan gargaarkaygii?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "lahaanshoha (maqaamada kor u qaadista)"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaadtaa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "meeqay"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "imanaysaan"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "gargaarkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:14.791986952Z",
+  "model": "glm-5.3"
+}

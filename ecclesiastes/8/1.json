@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yaa la mid ah xigmadlihii, yana yaqaan fasirka hadalka? Xigmadda aadamigu wejiisa bay ifaysaa, oo xoogga wejiisana waa la beddelaa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "la mid ah xigmadlihii"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yana yaqaan"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "fasirka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Xigmadda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamigu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "bay ifaysaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wejiisa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "oo xoogga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wejiisana"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "waa la beddelaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:25.208873280Z",
+  "model": "glm-5.3"
+}

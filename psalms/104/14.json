@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Wuxuu ka bixintaa dhirta daaqada xoolaha, oo gedoona adeegga aadamaha, si uu u soo saaro roodhka dhulka.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "wuxuu ka bixintaa dhirta"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "daaqada"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "oo gedo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaha"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "si uu u soo saaro"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roodhka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:26.880714277Z",
+  "model": "glm-5.3"
+}

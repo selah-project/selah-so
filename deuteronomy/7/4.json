@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waa inuu ka iili doonaa ⟨את⟩ inankaaga aniga iiga waxba hoos u dhaqan doonaan iloahyo kale; markaasay cadho Yahweh idinku qaadi doontaa, idinkana si degdeg ah baabbi'in doontaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa inuu"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ka iili doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inankaaga"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "inankaaga"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "aniga iiga (wixii dambe)"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "hoos u dhaqan doonaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iloahyo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "cadho qaadi doontaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadhada (sananka)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "idinkana baabbi'in doontaa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "si degdeg ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:25.099068630Z",
+  "model": "glm-5.3"
+}

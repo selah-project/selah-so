@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Doondooniya ⟨את⟩ Yahweh oo noolaada; waxay tahay inuu sida dab u qarxmo dhanka ehelka Yoosef, oo uu qaado, ayna jirin mid dammin Beith-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Doondooniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "oo noolaada"
+    },
+    {
+      "surface": "פן",
+      "gloss": "waxay tahay inuu ... mo"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "qarxmo"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sida dab u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ehelka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "oo uu qaado"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aanay jirin"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "mid dammin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beith-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(El)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:25.902662807Z",
+  "model": "glm-5.3"
+}

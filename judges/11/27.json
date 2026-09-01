@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 11:27",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Aniguna kuma denbiyay adiga, adiguse wax xun baad ⟨את⟩ igala sameynaysaa adigoo i dagaallanaya. Yahweh, Xaakinku, ha xukumo maanta u dhexeeya carruurta Israaiil iyo carruurta Ammon.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kuma denbiyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baad sameynaysaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ igala",
+      "marks": "wax xun (aniga loo sameeyay)"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wax xun"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "adigoo dagaallanaya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ha xukumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "Xaakinku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-01T02:36:02.115166675Z",
+  "model": "glm-5.3"
+}

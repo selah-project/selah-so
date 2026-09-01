@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Ma adigoo noqonaysaa ma naga nooleysaysaa, si ⟨⟨shacabkaaga⟩⟩ kuu farxaan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigoo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "noqonaysaa"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "naga nooleysaysaa"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "iyo shacabkaaga"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kuu farxaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.082531038Z",
+  "model": "glm-5.3"
+}

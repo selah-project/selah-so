@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahweh nafii waa gar ma qalmo in uu gaajaysiiyo; laakin hawada shar-yaabta ah wuu ka dhigaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "gaajaysiiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafii"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gar ma qalmo"
+    },
+    {
+      "surface": "והות",
+      "gloss": "laakin hawada shar-yaabta ah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yaabto"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ka dhigaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:42.053042328Z",
+  "model": "glm-5.3"
+}

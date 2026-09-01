@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 29:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "iyo ri geyri ah hal qof, macdan (qurbo) dembi ah, marka laga reebo olasha joogtada ah, qurbo-geddeedeeda iyo cabitaankeeda.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "iyo ri geyri ah"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "geyri ah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hal (qof)"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "macdan dembi ah"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "marka laga reebo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olasha"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "joogtada ah"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "qurbo-geddeedeeda"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "iyo cabitaankeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:02.776690628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Afkaayu wuxuu ka hadli doonaa xikmado, oo fikirka qalbigaygu ⟨waa⟩ fahmo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Afkaayu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wuxuu ka hadli doonaa"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "xikmado"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "oo fikirka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaygu"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "fahmo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:19.240369170Z",
+  "model": "glm-5.3"
+}

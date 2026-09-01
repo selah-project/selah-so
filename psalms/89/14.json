@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Adigaa leh gacan ⟨la wada⟩ xoog; gacantaada way adag tahay, midigtaadana way kor u taal.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Adigaa leh"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨la wada⟩"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "way adag tahay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "way kor u taal"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaadana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.044609372Z",
+  "model": "glm-5.3"
+}

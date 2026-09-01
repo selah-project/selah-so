@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Waxay dhaahaan dhaadhamays, waxay hadlaan islweyn; dhammaan kuwa fala xumeentu way is-masaafuriyaan.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "waxay dhaahaan dhaadhamays"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "waxay hadlaan"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "islweyn"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "way is-masaafuriyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumeentu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:37.770364893Z",
+  "model": "glm-5.3"
+}

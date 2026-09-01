@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yahweh wuxuu ku hadlay Muuse isagoo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:05.139462722Z",
+  "model": "glm-5.3"
+}

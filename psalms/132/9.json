@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Kohanniintaagu seddex ha xidhaan, khuseedkaaguna ha rayraayaan.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "kohanniintaagu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ha xidhaan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "seddex"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "khuseedkaaguna"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ha rayraayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.663211715Z",
+  "model": "glm-5.3"
+}

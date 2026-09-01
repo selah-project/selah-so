@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Waxaa la siiyay ⟨את⟩ sharlayda qodkishii, iyo ⟨את⟩ taajirka dhimashiisii; ulaxad ma samayn, khiyaanana afkiisa kuma jirtoon.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "waxaa la siiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharlayda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharlayda"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qodkishii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "taajirka"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "taajirka"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "dhimashiisii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ulaxo (maxsuuso ahaan)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ulaxad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afkiisa kuma jirtoon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:27.358026461Z",
+  "model": "glm-5.3"
+}

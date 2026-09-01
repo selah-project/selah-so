@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 12:31",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "⟨את⟩ dadkii magaalada ku sugnaa wuxuu soo bixiyay, wuxuuna dhigay mindhicirka iyo goynta birta iyo faashooyinka birta, wuxuuna ka mariyay ⟨את⟩ malin-tiinleyda; sidaas buu ku sameeyay magaalooyinka ubadka Camuun oo dhan, Dawud iyo dadka oo dhan na waxy ku noqday Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dadkii magaalada ku sugnaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku sugnaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wuxuu soo bixiyay"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "mindhicirka"
+    },
+    {
+      "surface": "ובחרצי",
+      "gloss": "goynta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "birta"
+    },
+    {
+      "surface": "ובמגזרת",
+      "gloss": "faashooyinka"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "birta"
+    },
+    {
+      "surface": "והעביר",
+      "gloss": "wuxuuna ka mariyay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "malin-tiinleyda"
+    },
+    {
+      "surface": "במלכן",
+      "gloss": "malin-tiinleyda"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buu ku sameeyay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Camuun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "waxy ku noqday"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dadka oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "(dadka)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T03:01:02.335044149Z",
+  "model": "glm-5.3"
+}

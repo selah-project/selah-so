@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ma lumin miyaa kuwa shar qorsheeya? laakiin khesed iyo run waxaa ku jira kuwa wanaag qorsheeya.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma ... miyaa"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "lumin"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kuwa ... qorsheeya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kuwa ... qorsheeya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:30.146352320Z",
+  "model": "glm-5.3"
+}

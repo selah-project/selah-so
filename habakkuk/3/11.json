@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Qorraxda iyo dayaxa way istaageen booskoodii; iftiinka tiirarkaaga way ku socdaan, iftiinka birqadda ee warankaaga.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "dayaxa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "way istaageen"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "booskoodii (meel ay deggan yihiin)"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tiirarkaaga"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "way ku socdaan"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "iftiinka birqidda"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "birqadda"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "warankaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:12.656354489Z",
+  "model": "glm-5.3"
+}

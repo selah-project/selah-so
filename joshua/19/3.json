@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Iyo Chatsar-Shual, iyo Balah, iyo Etsem.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "iyo Chatsar-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Shual"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "iyo Balah"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "iyo Etsem"
+    }
+  ],
+  "timestamp": "2026-09-01T02:25:35.145405561Z",
+  "model": "glm-5.3"
+}

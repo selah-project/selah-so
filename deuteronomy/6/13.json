@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweh Elohimkaaga waad cabsanaysaa, ⟨את⟩⟨isaga⟩ waad adeegaysaa, oo magaciisa ayaad ku dhaaranaysaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "waad cabsanaysaa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩⟨isaga⟩ waad"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "adeegaysaa"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "oo magaciisa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ku dhaaranaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:45.200612702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "si ⟨u⟩ ammaantaydu kuu qaadiso ⟨את⟩ oo aan aamino, yahweh Eloahaygii, weligay baad ku mahadnaqaysaa",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "kuu qaadiso"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaantaydu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aamino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahaygii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "baad ku mahadnaqaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:45.566703552Z",
+  "model": "glm-5.3"
+}

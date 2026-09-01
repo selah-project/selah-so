@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yoabna wuxuu ka noqod raacista Abner, wuxuuna kulmiyay ⟨את⟩ dadka oo dhan, markay tirsadeenna waxaa ka maqnaa addoomaha Dawid sagaal iyo toban nin iyo Asahel.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoabna"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wuxuu ka noqod"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "raacista"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wuxuuna kulmiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "markay tirsadeenna"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ka maqnaa addoomaha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sagaal iyo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asahel"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:14.162150733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuuna walaalihiis dhigay: Xagguu yahay? Maxaad ugu tegeysaan ninkan? u yeedha, haddana ha cuno cunto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "gabadhiisi"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "xagguu yahay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad ugu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "tegeysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "u yeedha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ha cuno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:10.082525799Z",
+  "model": "glm-5.3"
+}

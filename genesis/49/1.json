@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Jaakobna wuxuu u yeeray wiilashiisii, wuxuuna yidhi: Kulmiya, waana idiin sheegi ⟨את⟩ waxa ⟨את⟩ idin la kulmi doono dhamaadka maalmaha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeeray"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Kulmiya"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "waana idiin sheegi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa (wixii la sheegayo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "idin la kulmi doono"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin (wiilasha)"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "dhamaadka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:46.273514366Z",
+  "model": "glm-5.3"
+}

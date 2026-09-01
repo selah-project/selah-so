@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay gooyeen ⟨את⟩ madaxiisa, waxay qaadeen ⟨את⟩ qalabkiisa, waxayna soo dirtay dhulka Filistiintii si aad u baahsan tahay guryaha sanamyadooda iyo ⟨את⟩ shacabka.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "waxay gooyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxiisa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "waxay qaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalabkiisa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "waxayna soo dirtay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "si aad u baahsan"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "u baahsid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guryaha"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanamyadooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:15.168113029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo ⟨את⟩ dibigii iyo ⟨את⟩ maqaarkiisa iyo ⟨את⟩ cadkadkiisa iyo ⟨את⟩ saxaradiisa wuxuu gubiyeey dhulka dab ahaan, ka bireeb miiska; sida uu Yahweh faray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dibigii"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dibigii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "maqaarkiisa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "maqaarkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "cadkadkiisa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "cadkadkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saxaradiisa"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "saxaradiisa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wuxuu gubiyeey"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka bireeb"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu faray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:46.048167762Z",
+  "model": "glm-5.3"
+}

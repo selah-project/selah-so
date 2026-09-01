@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo waxaad xirtay adigoo xoog i siiyay dagaalka; waxaad dhigatay ka soo kacayayaashayda hoostayda.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "waxaad xirtay adigoo xoog i siiyay"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "waxaad dhigatay"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ka soo kacayayaashayda"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "hoostayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:29.964954078Z",
+  "model": "glm-5.3"
+}

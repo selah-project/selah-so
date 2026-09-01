@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "waayo way maqleen ⟨את⟩ Magacaaga weyn iyo ⟨את⟩ gacantaada adag iyo cududdaada la fiday, oo uu yimaado oo uu u duceo gurigaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "way maqleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Magacaaga weyn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada adag"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "cududdaada"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "la fiday"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "oo uu yimaado"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "oo uu u duceo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:56.405169648Z",
+  "model": "glm-5.3"
+}

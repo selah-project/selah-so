@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wiilkayow, Sharcigayga ha illoobin, oo amarradaydu wadaha qabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wiilkayow"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Sharcigayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "illoobin"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "oo amarradaydu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "qabo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:02.701094332Z",
+  "model": "glm-5.3"
+}

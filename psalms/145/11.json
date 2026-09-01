@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Ammaananka boqortooyadaada way sheegi doonaan, oo xooggaaga way ka hadli doonaan.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "amaananka (culayska)"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "boqortooyadaada"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "way sheegi doonaan"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "oo xooggaaga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "way ka hadli doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:15.298226795Z",
+  "model": "glm-5.3"
+}

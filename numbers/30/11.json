@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Haddii guriga ninkeeda ay nadarto, ama ay ku xirato xirid nafteeda oo ay ku dhaarto.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ninkeeda"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "ay nadarto"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ay ku xirato"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "xirid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nafteeda"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "oo ay ku dhaarto"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:50.381931359Z",
+  "model": "glm-5.3"
+}

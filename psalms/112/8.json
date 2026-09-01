@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Qalbigiisu waa la taageeray, ma cabsado, ilaa uu arkayo cadowgiisa ⟨oo la adkaanay⟩.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "la taageeray"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "cabsado"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arkayo"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "cadowgiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:28.893238555Z",
+  "model": "glm-5.3"
+}

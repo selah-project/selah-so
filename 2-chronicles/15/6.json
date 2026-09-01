@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Qoom qoomka kale lagu jabiyo, magaalo magaalada kale lagu jabiyo, waayo, Elohim baa ku dhulaynayay dhib kasta.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "lagu jabiyo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "qoom"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "qoomka kale"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada kale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "baa ku dhulaynayay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta (ku)"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhib"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:48.317812632Z",
+  "model": "glm-5.3"
+}

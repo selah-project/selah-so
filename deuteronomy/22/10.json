@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ha dhaqin adigoo isticmaalaya sageega iyo dameerka wadida.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ha dhaqin (beer-beer)"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "sagtega"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "iyo dameerka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wadida"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:37.927938704Z",
+  "model": "glm-5.3"
+}

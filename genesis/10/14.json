@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ Patrusim iyo ⟨את⟩ Kaslujim, kuwaas oo ka soo baxay Filistiinti, iyo ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kaslujim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslujim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ka soo baxay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:19.271727608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Ceebta walaashee aabahaa ha dhaarin; waa ⟨⟨lahjad⟩⟩ barwaaqo aabahaa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ceebta"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "walaashee"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dhaarin"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "barwaaqo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:11.773311154Z",
+  "model": "glm-5.3"
+}

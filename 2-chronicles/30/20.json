@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Oo Yahweh wuu maqalku dhigay Hisqiyaahu, oo wuu bogsiiyay ⟨את⟩ dadka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqalku dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ugu)"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hisqiyaahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "wuu bogsiiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:46:44.148993535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehna wuxuu yidhi: Sababtoo ah way ka tegeen ⟨את⟩ Sharcigayga aan hortooda dhigay, oo codkey ma maqlin, kuorna ma socon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sababtoo ah"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "way ka tegeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharcigayga"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Sharcigayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aan dhigay"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqlin"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "codkey"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuorna ma"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "socon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T04:04:32.655170334Z",
+  "model": "glm-5.3"
+}

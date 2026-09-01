@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Filiistiigu wuxuu Daawud ku yidhi: Iigoosoo, waana ku siin doonaa ⟨את⟩ baruurkaaga shimbiraha samada iyo duullaalka beeraha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filiistiigu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "iigoosoo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waana ku siin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurkaaga"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "baruurkaaga"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "iyo duullaalka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:57.778422341Z",
+  "model": "glm-5.3"
+}

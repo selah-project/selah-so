@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Naagtii waxay naašashii ku tidhi: Midhaha geedaha beerta waannu cunannaa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tidhi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "naašashii"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "waannu cunannaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:37.081302199Z",
+  "model": "glm-5.3"
+}

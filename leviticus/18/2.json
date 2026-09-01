@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "U hadal wiilasha Israa'iil, oo waxaad ku dhahdaan: Anigu waa ahay Yahweh Elohiintiin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo waxaad ku dhahdaan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku dhahdaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiintiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:47.004294598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Gaath ha ku sheegina, ooya ha ooyinina; Beyt-le-Afrah, ciidda ku jiidada.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gaath"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ku sheegina"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ooya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ooyinina"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ku jiidada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:59.229154907Z",
+  "model": "glm-5.3"
+}

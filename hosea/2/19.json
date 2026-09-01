@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaana ka saari doonaa ⟨את⟩ magacyada Baallada afkeeda, oo aan lagu xusin magacyadooda mar dambe.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "waxaana ka saari doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacyada Baallada"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallada"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "afkeeda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "lagu xusin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "magacyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:08.148536723Z",
+  "model": "glm-5.3"
+}

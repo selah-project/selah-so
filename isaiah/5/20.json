@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Hooy kuwa odhanaya sharka waa wanaag, iyo wanaagga waa shar; kuwa dhigaya mugaasha iftiin iyo iftiinka mugaasha; kuwa dhigaya qadhaadhka macaan iyo macaanka qadhaadh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hooy"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kuwa odhanaya"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waa wanaag"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "iyo wanaagga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "waa shar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kuwa dhigaya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugaasha"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "oo iftiinka"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "mugaasha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kuwa dhigaya"
+    },
+    {
+      "surface": "מר",
+      "gloss": "qadhaadhka"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "macaan"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "iyo macaanka"
+    },
+    {
+      "surface": "למר",
+      "gloss": "qadhaadh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:44.232524482Z",
+  "model": "glm-5.3"
+}

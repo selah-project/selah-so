@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Keliya ila Elohim nafteydii way aamusaysaa; badbaadaydii waxay Xaggiisa ka timaaddaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "way aamusaysaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafteydii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Xaggiisa ka"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "badbaadaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.280510784Z",
+  "model": "glm-5.3"
+}

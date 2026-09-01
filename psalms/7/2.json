@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh Elohimay, adiga ayaan ku magan galay; i badbaadi dhammaan ciddii i raacdo, oo i gargaar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ayaan ku magan galay"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ciddii i raacdo"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "oo i gargaar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:23.021482605Z",
+  "model": "glm-5.3"
+}

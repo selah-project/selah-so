@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Cadaalad iyo xukun ⟨waa⟩ saldhigga carshigaaga; khesed iyo run waa hortaada ku horreeyaan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cadaalad"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "saldhigga"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "carshigaaga"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo run"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ku horreeyaan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hortaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.044829740Z",
+  "model": "glm-5.3"
+}

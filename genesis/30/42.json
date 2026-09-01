@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Alaabta dhaqatana markay daciifto, wuxuu galin waayay qoryaha; markaas kuwa daciifta ⟨waa⟩ Lavan ahaa, kuwa adagna ⟨waa⟩ Yaakov ahaa.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "markay daciifto"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "alaabta dhaqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma... waayay"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "wuxuu galin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "markaas noqoto"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "kuwa daciifta"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Laban (isaga)"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "kuwa adagna"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov (isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:49.447505452Z",
+  "model": "glm-5.3"
+}

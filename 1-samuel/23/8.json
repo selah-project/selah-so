@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Shaa'uulna wuxuu isugu yeedhay ⟨את⟩ dadka oo dhan dagaal, inay u degtan Qeeylaah si ay ugoortaan Daawiid iyo raggiisa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu isugu yeedhay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "inay u degtan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeeylaah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "si ay ugoortaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawiid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "raggiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:35.218797063Z",
+  "model": "glm-5.3"
+}

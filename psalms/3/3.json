@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wax badan baa naftayda ku dhayaaliyaa: Ma jirto badbaado ugu takalustay xaggii Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Wax badan"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "baa ku dhayaaliyaa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ma jirto"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ugu takalustay"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "xaggii Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:09.445726926Z",
+  "model": "glm-5.3"
+}

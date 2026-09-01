@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Idol la' waad sameyn doontaan, oo sanam la taallo iyo tiir la taagto idiin ma taagi doontaan, oo dhagax naqshad leh dhulkenna ma dhigi doontaan inaad ku sujuutaan, waayo aniga waxaan ahay Yahweh Elohiin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "waad sameyn doontaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "idol la' (sanan)"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "iyo sanam la taallo"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "iyo tiir la taagto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "taagi doontaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo dhagax"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "naqshad leh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dhigi doontaan"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "dhulkenna"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "inaad sujuutaan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:40.442483097Z",
+  "model": "glm-5.3"
+}

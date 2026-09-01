@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo waxaanu duceynay ⟨u⟩ Elohimay, oo waxaanu dhignay ilaaliye ⟨dushooda⟩ maalinta iyo habeenka, cawgood.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "waxaanu duceynay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "waxaanu dhignay"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ilaaliye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dushooda"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iyo habeenka"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "cawgood"
+    }
+  ],
+  "timestamp": "2026-09-01T07:40:41.223431903Z",
+  "model": "glm-5.3"
+}

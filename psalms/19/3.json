@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Maalin maalintii kale bay daadacdaa hadal, iyo habeen habeenka kale wuu muujinaa aqoonta.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Maalin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalintii kale"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "bay daadacdaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "ו לילה",
+      "gloss": "iyo habeen"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "habeenka kale"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "wuu muujinayaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoonta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:31.482793943Z",
+  "model": "glm-5.3"
+}

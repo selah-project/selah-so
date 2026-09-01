@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Aniguna waan arkay in xoog le'eg tahay xigmadda ka badan nacayb-siinta, sida xoogga iftiinka uu ka badan yahay mugaaska.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "waan arkay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "in tahay"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "xoog le'eg"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "xigmadda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka badan"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "nacayb-siinta"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "sida xoogga"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka badan yahay"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mugaaska"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:07.025085412Z",
+  "model": "glm-5.3"
+}

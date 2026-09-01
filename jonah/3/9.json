@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yaa og, waxaa lahaa inuu jeesjeesto oo la naxariisto Elohim, oo uu ka jeesjeesto wanjaladdiisa cadceeda, si aanayno halaagiin.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "og"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "jeesjeesto"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "la naxariisto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ka jeesjeesto"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "wanjaladda"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadceediisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanayno"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "halaagiin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:28.611101861Z",
+  "model": "glm-5.3"
+}

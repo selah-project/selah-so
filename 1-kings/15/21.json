@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Markii uu Baasha maqlay, wuu joojiyay inuu dhiso ⟨את⟩ Raamah, wuuna degay Tirtsah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markii uu... markaas"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "maqlay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "wuu joojiyay"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "inuu dhiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Raamah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuuna degay"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:47.570360623Z",
+  "model": "glm-5.3"
+}

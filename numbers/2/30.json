@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Iyo ciidankiisa iyo tiradiisa, saddex iyo konton kun iyo afar boqol.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Iyo ciidankiisa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "iyo tiradiisa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo konton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:45.466515806Z",
+  "model": "glm-5.3"
+}

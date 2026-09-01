@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo dagaal ⟨is⟩ ka jiray dhexdooda Asa iyo dhexdooda Baasha boqorka Israa'iil, inta maalmahoodaoba.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Oo dagaal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨is⟩ ka jiray"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo dhexdooda"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "maalmahoodaoba"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:53.788286066Z",
+  "model": "glm-5.3"
+}

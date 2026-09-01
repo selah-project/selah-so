@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Walaahi wax ii gefan tahay, waayo, anigoo safriyay baan Meshekh degganahay, waxaanan degganahay teendhooyinka Qedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Walaahi wax ii gefan tahay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "anigoo safriyay"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshekh"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "waxaanan degganahay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "teendhooyinka"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:11.697701120Z",
+  "model": "glm-5.3"
+}

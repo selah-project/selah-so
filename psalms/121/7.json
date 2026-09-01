@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Yahweh wuu kuu ilaalin doonaa shar kasta; wuu ilaalin doonaa ⟨את⟩ naftaada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "wuu kuu ilaalin doonaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "shar kasta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "wuu ilaalin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftaada"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:39.316112037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markaas waad socon doontaa jidkaaga ammaanagga ⟨la'an⟩, iyo lugahaagu ma dhaqaaqi doonaan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaas"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "waad socon doontaa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ammmaanagga ⟨la'an⟩"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jidkaaga"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "iyo lugahaagu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "dhaqaaqi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:27.261734470Z",
+  "model": "glm-5.3"
+}

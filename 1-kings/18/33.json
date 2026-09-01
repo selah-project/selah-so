@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuuna diiday ⟨את⟩ alwaaxa, wuxuuna kala jaray ⟨את⟩ dhibicaha, wuxuuna dhigay alwaaxa.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "wuxuuna diiday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alwaaxa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "wuxuuna kala jaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibicaha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dhibicaha"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "alwaaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:44.580717422Z",
+  "model": "glm-5.3"
+}

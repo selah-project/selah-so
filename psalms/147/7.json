@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Heysta Yahweh la mahadnaq; qaada muusigga Elohimkeenna kinnoorka.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Heysta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "la mahadnaq"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "qaada muusigga"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnoorka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:39.329358223Z",
+  "model": "glm-5.3"
+}

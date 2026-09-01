@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Afartan iyo hal sanad buu Yeruushaalaym ku boqorsaday; magaca hooyadiis wuxuu ahaa Maakhah, gabadh Abiishaalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "afartan iyo"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "hal"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "buu boqorsaday"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abiishaalom"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:42.854520108Z",
+  "model": "glm-5.3"
+}

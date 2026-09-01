@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaa loo dhalay toddoba wiil iyo saddex gabdhood.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "waxaa loo dhalay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "loo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "iyo saddex"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:50.103596969Z",
+  "model": "glm-5.3"
+}

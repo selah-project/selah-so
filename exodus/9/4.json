@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehna wuxuu kala saari doonaa ⟨u dhexeeya⟩ xoolaha Israa'iil iyo xoolaha Mitsrayim, xoolaha wiilasha Israa'iil middina weligeed ma dhiman doonto.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "wuxuu kala saari doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨u dhexeeya⟩"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "weligeed ma"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dhiman doonto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "middina"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "walax (xoolo)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:47.907063161Z",
+  "model": "glm-5.3"
+}

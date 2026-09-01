@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Daawudna wuxuu arkay in Shaa'uul ka baxay si uu udoondoondo ⟨את⟩ noloshiisa, Daawudna wuxuu ahaa bariga Siif, Baxorashaa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uu ka baxay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "si uu u raado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noloshiisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "noloshiisa"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawudna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Baxorashaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:19.355420361Z",
+  "model": "glm-5.3"
+}

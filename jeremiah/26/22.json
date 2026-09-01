@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo boqorkii Yehowyaqiim wuxuu u diray ninno Mitsrayim ⟨את⟩ Elnaataan in Akhbor, iyo niman ⟨את⟩ la socda, ilaa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu u diray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehowyaqiim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ninno"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnaataan in Akhbor"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnaataan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akhbor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "iyo niman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la socda",
+      "marks": "Elnaataan iyo ninkiisii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:30.187001229Z",
+  "model": "glm-5.3"
+}

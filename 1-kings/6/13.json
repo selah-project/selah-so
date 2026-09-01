@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo waxaan degganaan doonaa dhexda wiilashta Israa'iil, oo qoomkeyda Israa'iil keliya ma dhaafayo.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "oo waxaan degganaan doonaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "dhaafayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoomkeyda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qoomkeyda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:10.637470564Z",
+  "model": "glm-5.3"
+}

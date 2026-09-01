@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Sannadkii laba-iyo-tobnaad ee boqorkii Yarobcam ina Nebat, wuxuu xilka qabtay Abiyaam boqorka Yahuudah.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "iyo sannadkii"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo-tobnaad"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ee boqorkii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobcam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuxuu xilka qabtay"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abiyaam"
+    },
+    {
+      "surface": "על",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:42.280250144Z",
+  "model": "glm-5.3"
+}

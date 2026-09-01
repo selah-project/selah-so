@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Ma waxaa la dhaqaaqaa Shadday? Kan Elohaha ka eed-sheegana ha jawaabo.",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ma waxaa la dhaqaaqaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la (dhexdhexaad)"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "waxaa la baraa"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "eed-sheege"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ha jawaabo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:05.427848255Z",
+  "model": "glm-5.3"
+}

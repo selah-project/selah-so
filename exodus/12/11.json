@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Saas ayaad ku cuni doontaan ⟨את⟩: qolalkiina la-xirran, kabahiina cagihiiina, uliina gacantiina; waxaadna ku cuni doontaan ⟨את⟩ si degdeg ah; waa Fasaxa uu yahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "saas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ayaad ku cuni doontaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la cunayo (waniga)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "qolalkiina"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "la-xirran"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "kabahiina"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "cagihiiina"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "uliina"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "gacantiina"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "waxaadna ku cuni doontaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la cunayo (waniga)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "si degdeg ah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Fasaxa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu yahay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:21.991958951Z",
+  "model": "glm-5.3"
+}

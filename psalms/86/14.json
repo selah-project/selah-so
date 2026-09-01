@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Elohimow, dadka kibriga badan waxay ii kacdeen, kooxda dulliga ah waxay doondoonatay nafayda, oo adiga kuma dhigin ⟨iyaga⟩ hortooda.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "dadka kibriga badan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "waxay ii kacdeen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii (dheeraad)"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "kooxda"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "dulliga ah"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "waxay doondoonatay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafayda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ku dhigin adiga"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "hortooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.329174837Z",
+  "model": "glm-5.3"
+}

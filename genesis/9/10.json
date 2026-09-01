@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Iyo ⟨את⟩ naf kasta oo nool oo xag la' ah ⟨the one⟩ oo ⟨את⟩ idinla jirto — shimbiro, xoolo, iyo duurjoog kasta oo dhulka ah oo ⟨את⟩ idinla jira — wax kasta oo ka baxay doonta, ilaa duurjoog kasta oo dhulka ah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naf kasta oo nool"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinla jirto"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "shimbiro"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "xoolo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo duurjoog kasta"
+    },
+    {
+      "surface": "חית",
+      "gloss": "duurjoog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinla jira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wax kasta oo ka"
+    },
+    {
+      "surface": "יצצאי",
+      "gloss": "baxay"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "doonta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ilaa duurjoog kasta"
+    },
+    {
+      "surface": "חית",
+      "gloss": "duurjoog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:24.520758379Z",
+  "model": "glm-5.3"
+}

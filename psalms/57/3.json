@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Waxaan u dhawaaqayaa El Elyon, Elka ii dhammaystiraya.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Waxaan u dhawaaqayaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elka"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ii dhammaystiraya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.831721690Z",
+  "model": "glm-5.3"
+}

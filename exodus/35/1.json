@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Wuxuu kulmiyay Muuse ⟨את⟩ dhamaan tayada ilma Israa'iil, wuxuuna ku yidhi: Kuwani waa ereyada uu Yahweh amray in la sameeyo ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "wuxuu kulmiyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan tayada ilma Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tayada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "in la sameeyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:43.368320794Z",
+  "model": "glm-5.3"
+}

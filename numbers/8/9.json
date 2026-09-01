@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo waxaad dhoweyn doontaa ⟨את⟩ Leewiyiinta horraantii Khaymada Kulanka, oo waxaad kulmin doontaa ⟨את⟩ dhamaan tayoshada ubadka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "waxaad dhoweyn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leewiyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiyiinta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horraantii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "waxaad kulmin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan tayoshada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tayoshada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:44:47.308998902Z",
+  "model": "glm-5.3"
+}

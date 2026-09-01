@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Shuqligu wuxuu ahaa ku filan dhammaan shuqliga si ⟨את⟩ loo sameeyo, oo wuu dheeraa.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Shuqligu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ku filan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "shuqliga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si loo sameeyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shuqliga (wixii la sameeyay)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "wuu dheeraa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:56.997729276Z",
+  "model": "glm-5.3"
+}

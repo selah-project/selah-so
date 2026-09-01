@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha degdeggin ruuxaada inaad cadhooddo, waayo cadhadu joolka nacasyada ayay ku xasishaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "degdeggin"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ruuxaada"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "inaad cadhooddo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "cadhadu"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "joolka"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nacasyada"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ayay ku xasishaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:53.260588084Z",
+  "model": "glm-5.3"
+}

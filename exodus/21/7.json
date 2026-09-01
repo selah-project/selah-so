@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo haddii nin iibiyo ⟨את⟩ gabadhiisa inay noqoto addoonad, ma baxayso sida bixidda addoonta (ragga).",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "iibiyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhiisa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "gabadhiisa"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "inay noqoto addoonad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baxayso"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "sida bixidda"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "addoonta (ragga)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:39.798343173Z",
+  "model": "glm-5.3"
+}

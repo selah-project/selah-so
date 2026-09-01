@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Daaqada bilowga ah ee mariinka, gebiisa mariinka, iyo wax la beeray mariinka oo dhan waa qallalan doonaan, waa la dirid doonaa, oo ma jiri doonaan.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "daaqada bilowga ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "mariinka"
+    },
+    {
+      "surface": "על",
+      "gloss": "gebiisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "..."
+    },
+    {
+      "surface": "יאור",
+      "gloss": "mariinka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wax la beeray"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "mariinka"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "waa qallalan doonaan"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "waa la dirid doonaa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ma jiri doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:05.413340381Z",
+  "model": "glm-5.3"
+}

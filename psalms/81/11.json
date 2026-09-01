@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Anigoo ah Yahweh Elohimkaaga, kan kuu soo kiciyay dhulka Mitsrayim; fur afkaaga ballaaran, waana buuxiyaa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Anigoo ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kan kuu soo kiciyay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "fur ... ballaaran"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "waana buuxiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:20.431619148Z",
+  "model": "glm-5.3"
+}

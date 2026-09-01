@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxa magaaladda ka haray burbur iyo barbarno; albaabkana waa la jajabiyay.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "waxa ka haray"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaaladda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "iyo barbarno"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "waa la jajabiyay"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:58.459811993Z",
+  "model": "glm-5.3"
+}

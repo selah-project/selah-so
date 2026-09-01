@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Maro-dhulayska barxadda oo dhan, oo hareeraha ku wareegsan, wuxuu ahaa lin dadban.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "maro-dhulayska"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku wareegsan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dadban"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:35.360917124Z",
+  "model": "glm-5.3"
+}

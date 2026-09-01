@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo waxay dhigeen ⟨את⟩ sanduuqa Yahweh gaadhigii, iyo ⟨את⟩ sanduuqii dahabka, iyo ⟨את⟩ jiirarka dahabka, iyo ⟨את⟩ sawirrada budadooda.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "waxay-dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaadhigii"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo-⟨את⟩",
+      "marks": "sanduuqii dahabka"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "sanduuqii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo-⟨את⟩",
+      "marks": "jiirarka dahabka"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "jiirarka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo-⟨את⟩",
+      "marks": "sawirrada budadooda"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "sawirrada"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "budadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:19.922122763Z",
+  "model": "glm-5.3"
+}

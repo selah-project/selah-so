@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Dawudna wuxuu sidaas sameeyay sidii Yahweh u amray; waxaana uu ku dhuftay ⟨את⟩ Filistiintiya midda ka Geeba ilaa ⟨adiga⟩ oo aad timaado Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "waxaana uu ku dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiintiya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintiya"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "midda ka Geeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "⟨adiga⟩ oo aad timaado"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:39.270304737Z",
+  "model": "glm-5.3"
+}

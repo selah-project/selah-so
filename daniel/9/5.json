@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaan denbi galnay, waxaan xume falnay, waxaan shar falnay, waxaan caasiyaynay, waxaan ka jeesannay amarradaada iyo xukuumadaada.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "denbi galnay"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "waxaan xume falnay"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "waxaan shar falnay"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "waxaan caasiyaynay"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "waxaan ka jeesannay"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "iyo xukuumadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:08:56.311501492Z",
+  "model": "glm-5.3"
+}

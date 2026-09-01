@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Markaan lug-tagaray bay ku farxeen, oo isu soo aruureen; dhaawacyaashiinii way isugu yimaadeen igu soo soo hor yeedhay, anigoo aan garan; way i dildillaaciyeen oo kuma dhegin.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "markaan lug-tagaray"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "bay ku farxeen"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "oo isu soo aruureen"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "way isugu yimaadeen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu soo soo hor yeedhay"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "dhaawacyaashiinii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "garan"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "way i dildillaaciyeen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhegin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:00.503875412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Hadda waan ogyahay in Yahweh uu badbaadinayo Masiixiisa; waxaa ka jawaabi doona samada la qudsaynayo, oo xagjirnimada gacanta midigiisa ayaa badbaadin.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "uu badbaadinayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiixiisa"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "waxaa ka jawaabi doona"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "samada"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la qudsaynayo"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "xagjirnimada"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ayaa badbaadin"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "gacanta midigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:23.014529879Z",
+  "model": "glm-5.3"
+}

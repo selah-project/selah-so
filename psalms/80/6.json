@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Waxaad siisay habeen keliya u helay ⟨את⟩ rooti ooyin ah, waxayna cabbayeen ooyin si xoogan.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Waxaad siisay . . . u helay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ooyin ah"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "waxayna cabbayeen"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ooyin"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "si xoogan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:40.863283219Z",
+  "model": "glm-5.3"
+}

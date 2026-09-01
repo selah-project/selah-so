@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Wuu u beddelin, kumana badalo ⟨את⟩ — wanaag xun laguma beddelo, ama xun wanaag laguma beddelo; oo hadduu runtii beddelo xayawaan (behemah) xayawaan kale, isaga iyo beddelkiisuba ⟨waa⟩ muqaddas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "uu u beddelin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo uma"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "badalin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wanaag\/xun (xayawaanka)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "xun laguma beddelo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wanaag laguma beddelo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oo hadduu"
+    },
+    {
+      "surface": "המר",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "beddelo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "xayawaan"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "xayawaan kale"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo wuxuu noqonaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "iyo beddelkiisuba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:16.040328093Z",
+  "model": "glm-5.3"
+}

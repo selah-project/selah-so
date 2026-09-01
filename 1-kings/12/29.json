@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuu dhigay ⟨את⟩ kii koowaad beyt-el, waxaana ⟨את⟩ kii labaad dhigay Daan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kii koowaad"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kii koowaad"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "beyt-el (gurigii)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "waxaana ⟨את⟩",
+      "marks": "kii labaad"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kii labaad"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Daan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:20.869868238Z",
+  "model": "glm-5.3"
+}

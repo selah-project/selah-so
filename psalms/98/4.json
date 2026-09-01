@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Dhawaaqaysta Yahweh, dhulka oo dhan; hoosista oo itaada qayli oo heesa.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Dhawaaqaysta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "hoosista"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "oo itaada qayli"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "oo heesa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:32.113225968Z",
+  "model": "glm-5.3"
+}

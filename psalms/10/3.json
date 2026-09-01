@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waayo, shar-luumaha wuxuu faaneeyaa damaca nafiisa, oo kan faa'iido-doonasha ah wuu barakeeyaa (oo) wuu caayaayaa Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "wuxuu faaneeyaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-luumaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "damaca"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafiisa"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "oo kan faa'iido-doonasha ah"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wuu barakeeyaa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "wuu caayaayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:01.504807709Z",
+  "model": "glm-5.3"
+}

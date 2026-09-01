@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Weydiiya nabadka Yeruushaalaym; kuwa jecel ⟨yahay⟩ ha nasiiyaan.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Weydiiya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ha nasiiyaan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "kuwa jecel"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.751908811Z",
+  "model": "glm-5.3"
+}

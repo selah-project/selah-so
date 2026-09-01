@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 127,
+  "translation": "Wanaagsan (axsan) waa geesiga aan lahayn — barakaysan waa geesiga aan lahayn oo uu buuxiyay ⟨את⟩ qugeesiisa iyagoo dhan; waynan habaabinaynaa markay ⟨את⟩ la hadlaan cadowyada albaabka agtiisa.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "wanaagsan\/barakaysan"
+    },
+    {
+      "surface": "הַגֶּ֗בֶר",
+      "gloss": "geesiga"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "aan lahayn (oo)"
+    },
+    {
+      "surface": "מִלֵּ֥א",
+      "gloss": "buuxiyay"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "qugeesiisa"
+    },
+    {
+      "surface": "אַשְׁפָּת֗וֹ",
+      "gloss": "qugeesiisa"
+    },
+    {
+      "surface": "מֵ֫הֶ֥ם",
+      "gloss": "iyagoo dhan"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "waynan"
+    },
+    {
+      "surface": "יֵבֹ֑שׁוּ",
+      "gloss": "habaabinaynaa"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "markay (markuu)"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "la hadlaan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ la"
+    },
+    {
+      "surface": "אוֹיְבִ֣ים",
+      "gloss": "cadowyada"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "albaabka agtiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:37.092242265Z",
+  "model": "glm-5.3"
+}

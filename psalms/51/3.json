@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "I naxariiso, Elohim, sida khesed-kaaga; sida badnaanta raxmadaaga ⟨ha⟩ tirtir caasiyaadayda.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "I naxariiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sida khesed-kaaga"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sida badnaanta"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "raxmadaaga"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ha tirtir"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "caasiyaadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.902526576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Tobnaad-kowaad (kow-iyo-tobnaad) waa Azar'el, wiilashiisa iyo walaalihiis, laba-iyo-toban.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "kow-iyo-toban-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Azar'el"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "iyo walaalihiis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo-toban"
+    }
+  ],
+  "timestamp": "2026-09-01T06:31:33.307278977Z",
+  "model": "glm-5.3"
+}

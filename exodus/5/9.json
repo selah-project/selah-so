@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Shuqulkii ha ka culays culayso dadka saaran, hana ku dadaalaan, yeyna ha dagqaanin ⟨erayo⟩ been ah.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ha ka culays culayso"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "על",
+      "gloss": "saaran"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hana ku dadaalaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yeyna"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ha dagqaanin"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "erayo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:10.546588347Z",
+  "model": "glm-5.3"
+}

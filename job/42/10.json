@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yahwehna wuu u celiyay ⟨את⟩ dib-u-celinta Ayuub markuu u duceeyay saaxiibadiis; waana ku daray Yahweh ⟨את⟩ waxa dhan oo Ayuub leh laban-laab.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wuu u celiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dib-u-celinta"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "dib-u-celinta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "markuu u duceeyay"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "u"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibadiis"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "waana ku daray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ayuub leh"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "laban-laab"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:27.142900230Z",
+  "model": "glm-5.3"
+}

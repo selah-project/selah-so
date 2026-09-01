@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Kan dulay shacab badan, oo diley boqorro adag.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Kan dulay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacab"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "oo diley"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorro"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "adag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:52.088971074Z",
+  "model": "glm-5.3"
+}

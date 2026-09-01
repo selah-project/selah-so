@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Adigase aniga waan kuu hawlay, Yahweh; waxaan idhi, Eloahyow, adiga ⟨adigoo⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "adigase aniga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "waan hawlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahyow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:31.347049796Z",
+  "model": "glm-5.3"
+}

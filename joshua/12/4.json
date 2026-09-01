@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Iyo xadhkii Oog, boqorka Bashan, ka mid ah hadhiyeydka Rafa'iimta, kan ku noolaa Ashdaroot iyo Edrei.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Iyo xadhkii"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "ka mid ah hadhiyeydka"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Rafa'iimta"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kan ku noolaa"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Ashdaroot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "iyo Edrei"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:15.829606312Z",
+  "model": "glm-5.3"
+}

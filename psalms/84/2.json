@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Immisa ayaa loo jecel yahay degaannadaada, Yahweh Ciidammaha!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "immisa ayaa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "loo jecel yahay"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "degaannadaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ciidammaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.743577018Z",
+  "model": "glm-5.3"
+}

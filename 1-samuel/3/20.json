@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo dhammaan Israa'iil, ⟨laga bilaabo⟩ Dan ilaa Be'er-Sheba', waxay ogaadeen in Sheemuueel loo xaqiijiyay nebi uu Yahweh u yahay.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "waxay ogaadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "laga bilaabo Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "loo xaqiijiyay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sheemuueel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "nebi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uu Yahweh u yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:26.784184767Z",
+  "model": "glm-5.3"
+}

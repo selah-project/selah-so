@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Sidaas darteed, nin wuu tagayaa ⟨את⟩ aabbiis iyo ⟨את⟩ hooyadiis, wuuna ku dhegtamaanayaa naagiisa, waxayna noqonayaan baruur keli ah.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "wuu tagayaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hooyadiis"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "wuuna ku dhegtamaanayaa"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "naagiisa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "waxayna noqonayaan"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "baruur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keli ah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:20.123497551Z",
+  "model": "glm-5.3"
+}

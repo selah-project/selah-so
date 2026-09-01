@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Elohim-keennu wuu imaanayaa, uma carrabin; dab hortiisa cuni doono, gagiirarkiisana wuu si daran u duufaansanayaa.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "wuu imaanayaa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keennu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "carrabin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "cuni doono"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "gagiirarkiisana"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "wuu u duufaansanayaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si daran"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:45.288281214Z",
+  "model": "glm-5.3"
+}

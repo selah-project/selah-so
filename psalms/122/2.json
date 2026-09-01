@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Cagahayagu way taagan yihiin albaabadaada gudihiisa, Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "way yihiin"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Cagahayagu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "albaabadaada gudihiisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:56.590240077Z",
+  "model": "glm-5.3"
+}

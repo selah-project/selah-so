@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waxbariddu waa xun tahay kan ka tegey jidka, oo kan neceb yahay canaantuna wuu dhimanayaa.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "waxbariddu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "waa xun tahay"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kan ka tegey"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kan neceb yahay"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "canaanta"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wuu dhimanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:40.624372936Z",
+  "model": "glm-5.3"
+}

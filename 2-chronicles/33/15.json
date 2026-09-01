@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "wuxuuna ka saaray ⟨את⟩ ilaahaya shisheeye iyo ⟨את⟩ sanamka guriga Yahweh, iyo dhammaan meelaha allabari ee uu dhisay buurta guriga Yahweh iyo Yeruushaalaym, wuxuuna tuuray dibedda magaalada.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wuxuuna ka saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahaya shisheeye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahaya"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "shisheeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanamka"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "sanamka"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "meelaha allabari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uu dhisay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "iyo Yeruushaalaym"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wuxuuna tuuray"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:46:22.688367514Z",
+  "model": "glm-5.3"
+}

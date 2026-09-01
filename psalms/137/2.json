@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Geedaha biraawishka ah dhexdooda baynu ku ridnay kinnarrootayada.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "geedaha biraawishka ah"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "baynu ridnay"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinnarrootayada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:32.378054139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaadna sameyn doontaa konton qancumo oo nuqas (bir danab) ah, waadna gelin doontaa ⟨את⟩ qancumaha dalaacyada dhexdooda, aadna isku-xiri doontaa ⟨את⟩ khaymadda, noqontana mid keli ah.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waad sameyn doontaa"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "qancumo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nuqas (bir danab)"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "konton"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "waadna gelin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qancumaha"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "qancumaha"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "dalaacyada dhexdooda"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "aadna isku-xiri doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaymadda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "noqontana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid keli ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:42.214934599Z",
+  "model": "glm-5.3"
+}

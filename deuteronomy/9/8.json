@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo Choreb-na waxaad kadhsiiseen ⟨את⟩ Yahweh, markaas Yahweh cadhooday idinkoo ah si uu idin baabi'iyo ⟨את⟩ idinka.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Oo Choreb-na"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "waxaad kadhsiiseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "markaas cadhooday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinkoo ah"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "si uu idin baabi'iyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:27.143555828Z",
+  "model": "glm-5.3"
+}

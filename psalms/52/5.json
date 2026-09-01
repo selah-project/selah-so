@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Waxaad jeceshahay sharka ka badan wanaagga, been ka badan hadalka caddaadda. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "waxaad jeceshahay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ka badan wanaagga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ka badan hadalka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaadda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:18.060206982Z",
+  "model": "glm-5.3"
+}

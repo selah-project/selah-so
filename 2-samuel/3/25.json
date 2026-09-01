@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaad taqaan ⟨את⟩ Abner inka Ner in uu yimid si uu ku khiyaameeyo, iyo in la ogaado ⟨את⟩ bixitaankaaga iyo ⟨את⟩ gelitaankaaga, iyo in la ogaado ⟨את⟩ wax kasta oo adiga samaynayso.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Waxaad taqaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ku khiyaameeyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uu yimid"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "iyo in la ogaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bixitaankaaga"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "bixitaankaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gelitaankaaga"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "gelitaankaaga"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "iyo in la ogaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samaynayso"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:00.872934786Z",
+  "model": "glm-5.3"
+}

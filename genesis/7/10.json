@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxay dhacday toddobaadkii maalmaha ka dib, biyaha Mabbuuggu dhulka waxay ahaayeen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay dhacday"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "toddobaadkii"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mabbuugga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (watay)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:19.925781405Z",
+  "model": "glm-5.3"
+}

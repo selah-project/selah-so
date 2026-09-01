@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo halkaas baad ku keentaan ololahiinna iyo allabbarihiinna iyo ⟨את⟩ tobannihiinna iyo ⟨את⟩ quudinta gacantiinna, iyo nadarradiinna iyo tabarrucahiinna, iyo dhashirta lo'diinna iyo adhigiinna.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Oo baad ku keentaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "ololahiinna"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "iyo allabbarihiinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tobannihiinna"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "tobannihiinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "quudinta gacantiinna"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "quudinta"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "gacantiinna"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "iyo nadarradiinna"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "iyo tabarrucahiinna"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "iyo dhashirta"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "lo'diinna"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "iyo adhigiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:30.565979797Z",
+  "model": "glm-5.3"
+}

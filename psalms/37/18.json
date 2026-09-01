@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yahweh wuu ogyahay maalmaha dhammaystiranowda, dhaxaldooduna weligeed bay ahaanaysaa.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "wuu ogyahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "dhammaystiranowda"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "dhaxaldooduna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay ahaanaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.820464413Z",
+  "model": "glm-5.3"
+}

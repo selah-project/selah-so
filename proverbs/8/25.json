@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ka hor inta buuraha la dhuminayeen, ka hor teeloyada waxaan la dhashey.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ka hor inta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "la dhuminayeen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "teeloyada"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "waxaan la dhashey"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:31.168937935Z",
+  "model": "glm-5.3"
+}

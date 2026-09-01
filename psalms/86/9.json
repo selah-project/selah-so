@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Dhammaan shacabka uu Adonay adigu sameysay waxay yimaadii doonaan oo hortaada sujuudi doonaan, Adonay, oo Magacaaga ammaani doonaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "adigu sameysay"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "waxay yimaadii doonaan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oo sujuudi doonaan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "oo ammaani doonaan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:18.769173435Z",
+  "model": "glm-5.3"
+}

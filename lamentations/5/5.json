@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Luqunadeena waxaa lagu raacay raad; waan daalaynay, nasasho lama siinin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku (raacay)"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "luqunadeena"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "waxaa lagu raacay raad"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "waan daalaynay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "lama siinin (nasasho)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:54.219773222Z",
+  "model": "glm-5.3"
+}

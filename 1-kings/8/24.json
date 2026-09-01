@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Kan oo ilaalinay adigoo adeeggaaga Daawuud aabbahay waxa uu ku yidhi ⟨את⟩ waxa aad u sheegtay, adiguna afkaaga ayaad ku tidhi, gacantaada ayaad ku dhammaystirtay sidii maanta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kan oo"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ilaalinay"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "adeeggaaga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa uu ku yidhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "aad u sheegtay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "adiguna afkaaga ayaad ku tidhi"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ku dhammaystirtay"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sidii maanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:47.670014684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxaana Dawiid boqorku ku barbaaray Yahweh ⟨את⟩ kuwaas, oo wata lacagta fiddiga ah iyo dahabka uu ka qaaday dhammaan shucuurada — Edom iyo Moab iyo caruurta Cammoon iyo Filistiinta iyo Camaleq.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "waxaana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (walxaha la barbaaray)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ku barbaaray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo wata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta fiddiga ah"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "iyo dahabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "qaaday"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shucuurada"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "iyo Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "iyo caruurta"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Cammoon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "iyo Filistiinta"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "iyo Camaleq"
+    }
+  ],
+  "timestamp": "2026-09-01T08:35:51.416941284Z",
+  "model": "glm-5.3"
+}

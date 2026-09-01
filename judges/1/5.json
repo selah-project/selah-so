@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna helteen ⟨את⟩ Adoni-Bezek kiisa Bezek, wayna la dagaallameen, waxayna dilaayeen ⟨את⟩ Kanaaniga iyo ⟨את⟩ Periziga.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "waxayna helteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "kiisa Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wayna la dagaallameen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "la (isaga)"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna dilaayeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaniga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Periziga"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Periziga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:07.746434368Z",
+  "model": "glm-5.3"
+}

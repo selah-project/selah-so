@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaana aan diri doonaa dab guriga Khazael, wuuna baabi'in doonaa dhismedaha Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Waxaana aan diri doonaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "wuuna baabi'in doonaa"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "dhismedaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:27.969711027Z",
+  "model": "glm-5.3"
+}

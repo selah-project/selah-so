@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wuuna cabbiray ⟨את⟩ dhererkeeda toddoba iyo labaatán dheer, iyo ballac toddoba iyo labaatán dheer, horta heerkolka; wuxuuna igu yidhi: Kani waa qidduska qiddusyada.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "wuuna cabbiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhererkeeda"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dhererkeeda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "toddoba iyo labaatán"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "iyo ballac"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "toddoba iyo labaatán"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "horta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heerkolka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "igi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qidduska"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qiddusyada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:23.456711077Z",
+  "model": "glm-5.3"
+}

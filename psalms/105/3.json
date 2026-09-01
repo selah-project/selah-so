@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Magaca qaddadkiisa kaga sinaadayaa, qalbiga kuwa doondoona Yahweh ha u farxo.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "kaga sinaadayaa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qaddadkiisa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ha u farxo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doondoona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.181438203Z",
+  "model": "glm-5.3"
+}

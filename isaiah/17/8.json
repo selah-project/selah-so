@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Uma eegi doono dannabaha shuqulka gacmihiis, waxay farahiisu sameeyeen wuu arkayn doonaa — Alwaadaha iyo sanamyada shamsiga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "eegi doono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u-⟩"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dannabaha"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiis"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyeen"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "farahiisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arkayn doonaa"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "Alwaadaha"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "sanamyada shamsiga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:16.675404242Z",
+  "model": "glm-5.3"
+}

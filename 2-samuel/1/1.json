@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna noqotay kadib geeridii Shaa'uul, Daa'uudna wuu soo noqday garaacista ⟨את⟩ Camaleq, Daa'uudna wuu degganaa Ziglaag labo maalmood.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geeridii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daa'uudna"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wuu soo noqday"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "garaacista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camaleq"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Camaleq"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuu deggan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Ziglaag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "labo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:30.227977162Z",
+  "model": "glm-5.3"
+}

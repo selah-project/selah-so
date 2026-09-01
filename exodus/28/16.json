@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Laydi afagood ah oo la laabmay ⟨ayaa noqon doonta⟩; jir dhererkiisa, iyo jir ba balaciiisa.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "laydi afagood ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ayaa noqon doonta⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "la laabmay"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "jir"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dhererkiisa"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "iyo jir"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "balaciiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:38.659096426Z",
+  "model": "glm-5.3"
+}

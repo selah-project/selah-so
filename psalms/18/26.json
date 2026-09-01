@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "La qof khesed ah, adigu khesed baad u tahay; la qof tamam ah, adigu tamam baad u tahay.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "qof khesed ah"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "khesed baad u tahay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qof"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tamam ah"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tamam baad u tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:25.690645922Z",
+  "model": "glm-5.3"
+}

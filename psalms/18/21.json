@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh wuxuu ii galabsiiyay sida ilbaxnimbaydii; sida nadiifinta gacmahaygii buu ii soo celiyay.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "wuxuu ii galabsiiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sida ilbaxnimbaydii"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sidii nadiifinta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahaygii"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "buu soo celiyay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:32.592258060Z",
+  "model": "glm-5.3"
+}

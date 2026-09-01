@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yehoonaataanna iyo Daawiid waxay dhaaween berit (ballan), maxaa yeelay wuxuu jeclaa ⟨את⟩ isaga sidii nafiisa.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "waxay dhaaween"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonaataan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "iyo Daawiid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit (ballan)"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "maxaa yeelay wuxuu jeclaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Daawiid)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sidii nafiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:08.963285723Z",
+  "model": "glm-5.3"
+}

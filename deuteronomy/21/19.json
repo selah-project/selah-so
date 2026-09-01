@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxaana ay qabsadaan isaga aabihis iyo hooyadiis, oo ay ka soo bixiyaan ⟨את⟩ga ilay odayaasha magaaladiisa iyo ilay iridda meeshiisa;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ay qabsadaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihis"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ka soo bixiyaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaaladiisa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ilay"
+    },
+    {
+      "surface": "שער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "meeshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.608162973Z",
+  "model": "glm-5.3"
+}

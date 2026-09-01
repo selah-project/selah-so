@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxayna sameeyeen balastiirar (fandhaal) dahab nadiif ah, waxayna dhigeen ⟨את⟩ fandhaallada dhexdooda rumaanada, hoosha dhaqaaqka (jeebka) mararka dhexdiisa, wareegga ah, rumaanada dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna sameeyeen"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "fandhaallada"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhabka"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadiifka ah"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "waxayna dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fandhaallada"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "fandhaallada"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "rumaanada"
+    },
+    {
+      "surface": "על",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "dhaqaaqka (jeebka)"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "mararka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareegga ah"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "rumaanada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:31.138304120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Abimelek wuxuu fadhiistay ⟨את⟩ Aruumah, iyo Zebool wuxuu eryay ⟨את⟩ Gaal iyo ⟨את⟩ walaalihiis inaysan ku noolaan Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu fadhiistay"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "Aruumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wuxuu eryay"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebool"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "inaysan ku noolaan"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:30.750897707Z",
+  "model": "glm-5.3"
+}

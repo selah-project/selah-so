@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Waxaad dibedda u dhigtay xuskaada — albaabka iyo tiirarka albaabka; waayo ⟨את⟩ aniga bay ka baxsadeen, waad muujisay, waadna kor u guurtay, waad ballaariso sariirtaada, waxaadna iyaga la ballan ku galisay; sariirta ayaa waxaad jeellaysatay, gacantaadna arkaysay.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "iyo tiirarka albaabka"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "waxaad dhigtay"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "xuskaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ aniga (iga)"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "waad muujisay (qarxisay)"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "waad kor u guurtay"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "waad ballaariso"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "sariirtaada"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "waad ballan ku galisay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iyaga ka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "waad jeellaysatay"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "sariirtooda"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "aad arkaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:15.400002126Z",
+  "model": "glm-5.3"
+}

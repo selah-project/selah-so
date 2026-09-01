@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Mizmor, heesta hanuukadda ⟨guriga⟩ Daawuud.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "heesta"
+    },
+    {
+      "surface": "חֲנֻכַּת",
+      "gloss": "hanuukadda"
+    },
+    {
+      "surface": "הַבַּיִת",
+      "gloss": "⟨guriga⟩"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "Daawuud"
+    }
+  ],
+  "timestamp": "2026-09-01T08:42:35.645752210Z",
+  "model": "glm-5.3"
+}

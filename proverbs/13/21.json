@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Sharru wuu raac-dhacaa dambiilayaasha; oo khayrkuna wuxuu ku celayaa ⟨את⟩ gar-yaqaanka.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "dambiilayaasha"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "wuu raac-dhacaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sharru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gar-yaqaanka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gar-yaqaanka"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wuxuu ku celayaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "khayrkuna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:39.218296378Z",
+  "model": "glm-5.3"
+}

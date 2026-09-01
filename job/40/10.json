@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Isku xidh hadda taajin iyo sarancin, oo iska huwi ammaan iyo qurux.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "Isku xidh"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "taajin"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "iyo sarancin"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "oo ammaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "iyo qurux"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "iska huwi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:50:47.282397325Z",
+  "model": "glm-5.3"
+}

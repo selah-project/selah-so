@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waayo, waxay dhigeen shar korkaaga; waxay qorsheeyeen sharr dheeraad ah, laakiin ma karaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "waxay dhigeen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "korkaaga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "waxay qorsheeyeen"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "sharr dheeraad ah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "karaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:50.025485565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Fikirro dahqan oo dheergo ah keliya waa keena waxbadan, laakiin kii dhaqso badani keliya waa ku dhaca waayid.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "fikirro dahqan oo dheergo ah"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "dheergo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "keena waxbadan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "laakiin kii dhammaan"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "dhaqso badani"
+    },
+    {
+      "surface": "אך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ku dhaca waayid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:40.778755581Z",
+  "model": "glm-5.3"
+}

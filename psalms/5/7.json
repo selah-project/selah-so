@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaad baabbinaysaa kuwa sheega been; nin dhiigga daadisa iyo khiyaanada, Yahweh wuu ka nacayaa.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Waxaad baabbinaysaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kuwa sheega"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigga daadisa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "iyo khiyaanada"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "wuu ka nacayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.514766653Z",
+  "model": "glm-5.3"
+}

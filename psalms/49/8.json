@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Walaal qof lama furto (lana iibsado); lama siinayo Elohim fidnintiisa.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "walaal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "lama furto"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "lana iibsado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lama siinayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "fidnintiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:25.977345391Z",
+  "model": "glm-5.3"
+}

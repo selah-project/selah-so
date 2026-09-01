@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Saaray waxay uuraysatay, waxayna dhashay Abraaham in lil-geydoonta, waqtiga la go'ay ee uu ⟨את⟩ Elohim ku hadlay.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "waxay uuraysatay"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxayna dhashay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraaham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "lil-geydoonta"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "waqtiga la go'ay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu ku hadlay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:02.209254261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Doondoola Yahweh intuu la heli karo, u dhawaaqa intuu dhulka joogo.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Doondoola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "intuu la heli karo"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "u dhawaaqa"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "intuu joogo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dhulka (dhaw)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:58.580650113Z",
+  "model": "glm-5.3"
+}

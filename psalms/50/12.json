@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Haddii aan gaajaysanahay, kuma sheego; waayo, adduunka iyo waxa ku buuxsamaba waa ii khuseeya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "aan gaajaysanahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sheego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii khuseeya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adduunka"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "iyo waxa ku buuxsamaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:37.514607793Z",
+  "model": "glm-5.3"
+}

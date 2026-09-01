@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Kii lamahe la dhufay (la dhaawacay) iyo kii la gooyay shubidda ma galo jamaacadda Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma (diidmo)"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "galo"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "la dhaawacay"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "la dhufay (la jajabay)"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "oo la gooyay"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "shubidda"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamaacadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:28.938696867Z",
+  "model": "glm-5.3"
+}

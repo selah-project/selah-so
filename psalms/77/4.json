@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Elohim waan xusay oo waan walwalay; waan dhex-fekeray, oo ruuxday baabbi'aysay. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "waan xusay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "oo waan walwalay"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "waan dhex-fekeray"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "baabbi'aysay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxday"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:22.659426879Z",
+  "model": "glm-5.3"
+}

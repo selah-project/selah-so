@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yahweh waxuu ka gargaarayaa, waxuuna ka badbaadinayaa — wuu ka badbaadinayaa sharka, wuuna badbaadinayaa, waayo iyagu xaggisa bay magan galayeen.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "waxuu ka gargaarayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "waxuuna ka badbaadinayaa"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "wuu ka badbaadinayaa"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "wuuna badbaadinayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "magan galayeen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "xaggisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:08.236364278Z",
+  "model": "glm-5.3"
+}

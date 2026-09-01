@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Geesi iyo nin dagaal, xukun-ficile iyo nebi, iyo falsada-sameeye, iyo oday dhexdhexaad ah.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Geesi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "xukun-ficile"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "iyo nebi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "iyo falsada-sameeye"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "iyo oday dhexdhexaad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:04.062098151Z",
+  "model": "glm-5.3"
+}

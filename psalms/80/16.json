@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "iyo kan ay gacantaada midigta beertay, iyo ⟨wiilka⟩ aad adkeysay adiga amaaha.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "iyo kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan ay"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "beertay"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "gacantaada midigta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨wiilka⟩"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "adkeysay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga amaaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:24.760393860Z",
+  "model": "glm-5.3"
+}

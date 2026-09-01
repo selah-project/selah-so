@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "⟨את⟩ waxaabaan arkay maalmadeyda hebel-ka ah; waxaa jira mid xaqa ah oo baabba'aya xaakii ahaan, waxaana jira mid xun oo dheeraadaya xumahiisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxaaba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "waxaaba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aan arkay"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "maalmadeyda"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hebel-ka ah"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mid xaqa ah"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "baabba'aya"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "xaakii ahaan"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "waxaana jira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mid xun"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "dheeraadaya"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "xumahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:55.947418287Z",
+  "model": "glm-5.3"
+}

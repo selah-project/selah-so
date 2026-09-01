@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Taladaada ayaad i hanuuninaysaa, kadibna sharaf (kabood) ayaad ii qaadaysaa.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Taladaada"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ayaad i hanuuninaysaa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kadibna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sharaf (kabood)"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ayaad ii qaadaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:33.871574705Z",
+  "model": "glm-5.3"
+}

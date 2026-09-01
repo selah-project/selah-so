@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahweh Eloahay, waan ku qaylimay, oo waad i bogaysay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "waan ku qaylimay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "oo waad i bogaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:39.484403057Z",
+  "model": "glm-5.3"
+}

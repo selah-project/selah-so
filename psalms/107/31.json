@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Ha aqaan oo ay Yahweh u mahad-naadeeyaan khesedkiisa, iyo yaabkiisa (wanaagyiisa) oo uu u sameeyay wiilasha aadamiga.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ha aqaan oo ay u mahad-naadeeyaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo yaabkiisa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:42:38.755681875Z",
+  "model": "glm-5.3"
+}

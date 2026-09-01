@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Oo Tsiyon waxaa lagu odhan doonaa: nin iyo nin ⟨wuu⟩ ku dhashay; oo Elyon (Kan ugu Sarreeya) isagaa dhisaa.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "oo Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "waxaa lagu odhan doonaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuu ku dhashay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo isaga"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "wuu dhisaa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Kan ugu Sarreeya)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:30.353401375Z",
+  "model": "glm-5.3"
+}

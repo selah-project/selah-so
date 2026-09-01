@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Waayo, haddaan dheerateen, waqtigan hadda labaad baan la noqon lahayn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "dheerateen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waqtigan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "la noqon lahayn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "baan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:06.264659922Z",
+  "model": "glm-5.3"
+}

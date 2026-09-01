@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Cadowdaydu waxay ku cebeeyeen, waxayna hoos u dhigeen gacantooda.",
+  "tokens": [
+    {
+      "surface": "וילחצומום",
+      "gloss": "waxay ku cebeeyeen"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "waxayna hoos u dhigeen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacantooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.595377059Z",
+  "model": "glm-5.3"
+}

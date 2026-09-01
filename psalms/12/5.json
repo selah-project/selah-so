@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Kuwaas oo yidhi, Carrabkeenaa baan ku adkaan doonnaa; afkennu ⟨את⟩ nala wada yahay; yee nagu ah Sayid?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kuwaas oo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "carrabkeenaa"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "baan ku adkaan doonnaa"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "afkennu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nala wada",
+      "marks": "nala wada yahay (afkennu)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yee"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Sayid"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nagu ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:48.801502491Z",
+  "model": "glm-5.3"
+}

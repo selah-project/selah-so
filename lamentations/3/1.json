@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Anigu waa ninkii arkay dhibka qoriga cadhadiisa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhibka"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "qoriga"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "cadhadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:37.134778258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Sidii dab u shido keyliga, iyo sidii olol u shidoo buuraha.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Sidii dab"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "u shido"
+    },
+    {
+      "surface": "יער",
+      "gloss": "keyliga"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "iyo sidii olol"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "u shidoo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:23.450053301Z",
+  "model": "glm-5.3"
+}

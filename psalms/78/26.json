@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu socodsiyay dabaylaha bari oo ⟨ku jirta⟩ samada, oo xooggiisii wuxuu ka hanuunshay dabaylaha konfur.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "wuxuu socodsiyay"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "dabaylaha bari"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "oo ku jirta samada"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "wuxuu ka hanuunshay"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "xooggiisii"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "dabaylaha konfur"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:42.836748832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Waa maxay sababta? Waayo innaga leh Elohim, anagguna nahay shacabka daaqsadiisa iyo adhiga gacantiisa. Maanta, haddii codkiisa maqashaan —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "innaga leh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "anagguna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "daaqsadiisa"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "iyo adhiga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "maqashaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.916481783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahweh, Elohiimka aabbayaashiin, ha idiin darsiyo kun jeer sidii waxaad tihiin, oo ha idiin barakee sida uu idinku hadlay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiimka"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ha darsiyo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "sidii waxaad tihiin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "jeer"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "oo ha barakee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu hadlay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:38.919222448Z",
+  "model": "glm-5.3"
+}

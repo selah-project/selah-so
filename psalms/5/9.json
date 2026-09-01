@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Yahweh i hanuni xaqnimadaada, ciddi cayaartay dartood; hanooji waddadaada xaagiisha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "i hanuni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "למען",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ciddi cayaartay"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "hanooji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "xaagiisha"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "waddadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:24.313398797Z",
+  "model": "glm-5.3"
+}

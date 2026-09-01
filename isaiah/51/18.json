@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 51:18",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Wax hagaya ma jiro, wiilashii ay dhashay oo dhan; iyo wax gacanta qabanaya ma jiro, wiilashii ay kor dhisay oo dhan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מנהל",
+      "gloss": "hagaya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo dhan ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ay dhashay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo ma jiro"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "qabanaya"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo dhan ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ay kor dhisay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:55.738765096Z",
+  "model": "glm-5.3"
+}

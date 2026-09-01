@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Cabsi iyo gariir baa ii soo galay, oo argagax baa i dul-saatay.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "iyo gariir"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "baa ii soo galay"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "baa i dul-saatay"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "argagax"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:48.009110937Z",
+  "model": "glm-5.3"
+}

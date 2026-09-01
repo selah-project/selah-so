@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Dhegeysiiso Yahweh baryadayda, oo si fiican u dhagey codka baryooyinkayga.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeysiiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadayda"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "oo si fiican u dhagey"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "baryooyinkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.979524547Z",
+  "model": "glm-5.3"
+}

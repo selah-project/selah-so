@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Maqlaya kan, idinkoo liqi liqaya baahida, iyo kuwa baabbi'inaya saboolka dhulka.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqlaya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "liqi liqaya"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "baahida"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "iyo kuwa baabbi'inaya"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:35.954830307Z",
+  "model": "glm-5.3"
+}

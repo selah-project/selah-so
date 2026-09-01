@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "inuu ahaa ilmahii Abishua, ilmahii Pinechas, ilmahii Elazar, ilmahii Aharon oo ah wadaadda madaxa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "madaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:13:08.265821482Z",
+  "model": "glm-5.3"
+}

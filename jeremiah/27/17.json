@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Ha dhageysannin waxay odhanayaan; u adeega ⟨את⟩ boqorka Baabel, oo noolaada; bal maxay magaaladani u noqon lahayd burbur?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dhageysannin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "waxay odhanayaan (u)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "u adeega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka Baabel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "oo noolaada"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxay u tahay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "noqon lahayd"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladani"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "burbur"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:50.407684690Z",
+  "model": "glm-5.3"
+}

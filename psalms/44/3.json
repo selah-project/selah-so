@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Adiga — gacantaada quruun adaad ka degsatay, ⟨waxa aad beeray⟩; shacabka waad burburisay, ⟨waxa aad baabbi'isay⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruun"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "adaad ka degsatay"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "⟨waxa aad beeray⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "waad burburisay"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "⟨waxa aad baabbi'isay⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:01.542723418Z",
+  "model": "glm-5.3"
+}

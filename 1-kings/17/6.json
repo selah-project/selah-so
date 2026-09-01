@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Tuloodduuna waxay u keeniyeen rooti iyo hilib subaxdii, iyo rooti iyo hilib galabtii; webokana wuu ka cabbay.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "tuloodduuna"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "waxay keeniyeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "iyo hilib"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "iyo rooti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "iyo hilib"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galabtii"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "weboka"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "wuu cabbay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:21.117680121Z",
+  "model": "glm-5.3"
+}

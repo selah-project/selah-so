@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna kadib xukumay ⟨את⟩ Israa'iil Abtsan oo ka mid ahaa Beyt-lexem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wuxuuna kadib xukumay"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Abtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka mid ahaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beyt-lexem"
+    }
+  ],
+  "timestamp": "2026-09-01T02:35:47.474417616Z",
+  "model": "glm-5.3"
+}

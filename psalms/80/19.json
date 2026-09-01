@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Oo aanannu kaa noqonno ma aha; na noolee, oo magacaaga aan ku baryanno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "oo... ma aha"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ka noqonno"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "na noolee"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "oo magacaaga"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "aan ku baryanno"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:34.869374828Z",
+  "model": "glm-5.3"
+}

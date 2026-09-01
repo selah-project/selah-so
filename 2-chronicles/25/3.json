@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Markay boqortooyadu ku adkaatay, wuxuu dilay ⟨את⟩ addoomadiisii, kuwii diley ⟨את⟩ boqorkii aabihis.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markay noqotay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ku adkaatay"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "boqortooyadu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "xisigiis"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wuxuu dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadiisii"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisii"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kuwii diley"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorkii aabihis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:44:42.334405754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Iyo kan aan dhigin qalbigiisa ⟨ereyga⟩ Yahweh, wuxuu ka teagay ⟨את⟩ addoomahiisa iyo ⟨את⟩ xoolahiisa beerka.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "iyo kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhigin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "wuxuu ka teagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomahiisa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomahiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolahiisa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "xoolahiisa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:15.408456670Z",
+  "model": "glm-5.3"
+}

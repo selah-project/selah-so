@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Waa in Yahweh, El Elyon, cabsi le'eg yahay, boqor weyn oo ⟨dhan⟩ dhulka ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "cabsi le'eg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨dhan⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.789131897Z",
+  "model": "glm-5.3"
+}

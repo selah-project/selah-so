@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Ma kursigii baabi'uu kula xiriiraa, kan shar ⟨xeer⟩ ku sameeya?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "kula xiriiraa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursigii"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "baabi'uu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kan sameeya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "shar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חק",
+      "gloss": "xeer"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.747164515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 4:9",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaan ⟨את⟩ idinku garaacay baabì' (shidafon) iyo duxul (yerakon); badnaanshaha beerooyinkiin iyo kormadiinnii, tiintiinna iyo saydaashiinna ayaa gaasankii cunay, oo aadan ilayn aniga la noqon, ayuu yidhi Yahweh.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "waxaan garaacay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "baabì' iyo duxul"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "baabì' (shidafon)"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "iyo duxul (yerakon)"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "badnaanshaha"
+    },
+    {
+      "surface": "גנותיכם",
+      "gloss": "beerooyinkiin"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "iyo kormadiinnii"
+    },
+    {
+      "surface": "ותאניכם",
+      "gloss": "iyo tiintiinna"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "iyo saydaashiinna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ayaa cunay"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gaasankii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "la noqon"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilayn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:36.312934978Z",
+  "model": "glm-5.3"
+}

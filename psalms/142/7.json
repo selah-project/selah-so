@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Dhegeyste qaylitayda, waayo aad bay i daciifisay; i badbaadi raacayadayda, waayo iga adag bay yihiin.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Dhegeyste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(eeg)"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "qaylitayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "i daciifisay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "raacayadayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "adag yihiin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:55.500812597Z",
+  "model": "glm-5.3"
+}

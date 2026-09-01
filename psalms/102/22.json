@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Si loo sheego magaca Yahweh Tsiyoon, iyo ammaantiisa Yeruushaalaym;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "si loo sheego"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "iyo ammaantiisa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:44.573094756Z",
+  "model": "glm-5.3"
+}

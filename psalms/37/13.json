@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Adonay wuu ku qoslaa ⟨isaga⟩, waayo, wuu arkay in maalintiisii ay timaado.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "wuu qoslaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨isaga⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ay timaado"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "maalintiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:38.005069538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo wuxuu gawraceey, iyo Muuse wuxuu daadiyey ⟨את⟩ dhiigga dhulka miigga isagoo dhexdhexaad ah.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wuxuu gawraceey"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "wuxuu daadiyey"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miigga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "isagoo dhexdhexaad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:46.048867420Z",
+  "model": "glm-5.3"
+}

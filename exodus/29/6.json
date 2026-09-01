@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaad saartaa middaha madaxa kiisa ah, waxaadna saartaa ⟨את⟩ taajka quduska ah middaha.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "waxaad saartaa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "middaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kiisa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "waxaadna saartaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taajka quduska ah"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "taajka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduska ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "middaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:53.724991348Z",
+  "model": "glm-5.3"
+}

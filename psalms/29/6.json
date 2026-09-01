@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Wuxuuna u raqsiyeeyaa sida weyl; Lubnaan iyo Sirion sida wiilka ri'yo duuga ah.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Wuxuuna u raqsiyeeyaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "weyl"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnaan"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "iyo Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ri'yo duuga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:15.622010067Z",
+  "model": "glm-5.3"
+}

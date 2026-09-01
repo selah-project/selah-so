@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Seexo seeftaada lugta (cagta) gaashaanku, geesi adagow; sharaftaada iyo jaalusaddaada.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Seexo"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "seeftaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lugta"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesi adagow"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sharaftaada"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "iyo jaalusaddaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:05.578023668Z",
+  "model": "glm-5.3"
+}

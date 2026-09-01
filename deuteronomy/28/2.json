@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxayna kuu iman doonaan barakooyinkani oo dhan, waxayna kuu gaadhi doonaan, maadaama aad maqasho codka Yahweh Elohimkaaga.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Waxayna kuu iman doonaan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "barakooyinka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "waxayna kuu gaadhi doonaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "aad maqasho"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:44.676444648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo Yahweh wuu idinku soo diray ⟨את⟩ addoomadiisii nebiyada oo dhan, isagoo waqtigii hore soo kacaya oo soo diraya, laakiin idinku ma dhageysan, sideedaba ma laabtiin ⟨את⟩ dhegtiinna si aad u dhageysataan.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "wuu soo diray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadiisii nebiyada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisii"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "isagoo waqtigii hore soo kacaya"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "oo soo diraya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ... ma"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "dhageysan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sideedaba ma"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "laabtiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhegtiinna"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "dhegtiinna"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "si aad u dhageysataan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:44.521721571Z",
+  "model": "glm-5.3"
+}

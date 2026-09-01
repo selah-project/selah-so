@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuu yidhi: Tag nabad iyo ammaan. Wuxuu tegay ⟨את⟩ isaga markii uu ka tegay — kiibarath oo dhul ah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(isagii)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabad iyo ammaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tegay"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Elisha)"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "kiibarath (miisaan aan la garanayn)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:54.635820959Z",
+  "model": "glm-5.3"
+}

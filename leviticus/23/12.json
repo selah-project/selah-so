@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Maalinta aad dhaqaajineysaan ⟨את⟩ cammarka, waxaad samayn doontaan wan gabay (idan) oo jirr ah, sano jir, olol-qor (olol-samiin) loogu talagal Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "waxaad samayn doontaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "aad dhaqaajineysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cammarka"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "cammarka"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "wan gabay (idan)"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "jirr ah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "jir"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "sano"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olol-qor (olol-samiin)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "loogu talagal Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:13.877961625Z",
+  "model": "glm-5.3"
+}

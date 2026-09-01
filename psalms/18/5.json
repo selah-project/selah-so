@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Xeryaha dhimashada waxay ii wareegeen, oo webiyada beliyaal (sharra-diidayaasha) waxay ii cabsi galiyeen.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "waxay ii wareegeen"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "xeryaha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "oo webiyada"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "waxay ii cabsi galiyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:05.208974553Z",
+  "model": "glm-5.3"
+}

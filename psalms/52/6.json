@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Waxaad jeceshahay ⟨ereyada⟩ dhammaan la liidsan, carrabka khiyaano badan!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "waxaad jeceshahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "la liidsan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:18.060521853Z",
+  "model": "glm-5.3"
+}

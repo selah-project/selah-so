@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Nadarka dhiga oo dhammaystira Yahweh, Elohiinkiin; dhammaan kuwa hareerihiisa ah ha keenaan hadyo Kan la cabsado.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Nadarka dhiga"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "oo dhammaystira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinkiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "kuwa hareerihiisa ah"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ha keenaan"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hadyo"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "Kan la cabsado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:30.429025776Z",
+  "model": "glm-5.3"
+}

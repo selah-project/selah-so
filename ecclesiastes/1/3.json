@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maxay tahay waxa insaanku ka korayo dadaalkiisa oo dhan oo uu ku dadaalo hoosha qoraxda?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maxay tahay"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "waxa koraya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "insaanku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "dadaalkiisa"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "uu ku dadaalo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:38.457574680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxay sameeyeen ⟨את⟩ dhagaxyada shoham, oo ku wareegsan goobo dahab ah, oo lagu qoray (qoris) sida muruqa sida magacyada wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyada shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "ku wareegsan"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "goobo (dahab)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "lagu qoray"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "qoris"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "muruq"
+    },
+    {
+      "surface": "על",
+      "gloss": "sida"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:45.591302748Z",
+  "model": "glm-5.3"
+}

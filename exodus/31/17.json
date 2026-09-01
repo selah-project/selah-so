@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Dhexdeenna iyo dhexda ilmaha Israa'iil waa calaamad weligeed ah, waayo lix maalmood bay Yahweh sameeyay ⟨את⟩ samada iyo ⟨את⟩ dhulka, maaladda toddobaadna wuu nasashay oo wuu nafta hareeyay.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "dhexdeenna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אות",
+      "gloss": "calaamad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "weligeed ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "lix"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "maaladda"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "toddobaadna"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wuu nasashay"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "wuu nafta hareeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:17.336437305Z",
+  "model": "glm-5.3"
+}

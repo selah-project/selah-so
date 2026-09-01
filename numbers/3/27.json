@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Qabiilada Qehat: qabiilka Camrami, qabiilka Yitsari, qabiilka Cebroni, iyo qabiilka Uziyeli; kuwanu waa qabiilada Qehati.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "Camrami"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "Yitsari"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Cebroni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "Uziyeli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwanu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Qehati"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:25.178344931Z",
+  "model": "glm-5.3"
+}

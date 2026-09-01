@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Elohim wuxuu noo yahay ⟨magangal⟩ iyo xoog, gargaar dhibaatooyinka lagu helo si aad ah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "magangal"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iyo xoog"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dhibaatooyinka lagu helo"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "si aad ah lagu helo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:58.604010872Z",
+  "model": "glm-5.3"
+}

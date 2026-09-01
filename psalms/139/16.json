@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Goombigayga aan qaab-dhismeed lahayn indhahaagu way arkeen, oo kitaabkaaga dhammaantood waa la qoray — maalmaha la sameeyay, midkoodna weli ma jirin.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Goombigayga aan qaab-dhismeed lahayn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "way arkeen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaagu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitaabkaaga"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "waa la qoray"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "la sameeyay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "midkoodna weli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "midkood"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ma jirin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:21.730853223Z",
+  "model": "glm-5.3"
+}

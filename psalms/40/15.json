@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxay ahaadaan kuwa ceebtay oo hoos-u-dhaca wada ah, kuwa raadaya nafedayda si ay u tirtiraan; ha dib uga noqdaan oo ha la ceebaan kuwa doonaya sharkayda.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "waxay ahaadaan kuwa ceebtay"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "oo hoos-u-dhaca"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada ah"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa raadaya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafedayda"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "si ay u tirtiraan"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ha dib uga noqdaan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dib"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "oo ha la ceebaan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kuwa doonaya"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sharkayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:47.416675619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh wuxuu la hadlay Muuse iyo Aharon, wuxuuna ku amray ⟨iyaga⟩ ilmaha Yisraa'iil iyo Farcoon, boqorka Mitsrayim, inay ka soo saaraan ⟨את⟩ ilmaha Yisraa'iil dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "wuxuuna ku amray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iyaga⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "inay ka soo saaraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha Yisraa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:54.784122372Z",
+  "model": "glm-5.3"
+}

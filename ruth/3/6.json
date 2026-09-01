@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wayna degtay goobta miraha, waxayna sameysay sida waxa dhan ay abaartay sodohdeed.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "wayna degtay"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "goobta miraha"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "waxayna sameysay"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "abaartay"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sodohdeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:38.663001684Z",
+  "model": "glm-5.3"
+}

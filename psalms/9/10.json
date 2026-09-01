@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahweh wuxuu noqon qalcad lixdullayaasha, qalcad waqtiyada dhibaatada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "qalcad"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "lixdullayaasha"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "qalcad"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "waqtiyada"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dhibaatada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.417678192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Ka baxa dhexdeeda, qolkeygii, oo kastaa ⟨את⟩ naftiisa ha badbaadiyo xanaaqinta gadoodka Yahweh.",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "Ka baxa"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkeygii"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "oo ha badbaadiyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kastaa (qof kasta)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftiisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "naftiisa"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "xanaaqinta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gadoodka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:23:29.229799900Z",
+  "model": "glm-5.3"
+}

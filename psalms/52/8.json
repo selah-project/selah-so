@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Wuxuuna arkayaa cadow-xumidi waxa dhacay, xaqaheenna way cabsi qaadeen, kuna qosleen isaga.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "way arkayaa(n)"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "xaqaheenna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "way cabsi qaadeen"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "qosleen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:18.060983263Z",
+  "model": "glm-5.3"
+}

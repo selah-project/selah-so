@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ma maalintii dhan qodayaa qodaa si uu u abuuro? Ma furiyaa oo shubaa dhulkiisa?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ma… dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "qodayaa"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "qodaa"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "si uu u abuuro"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Ma furiyaa"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "oo shubaa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dhulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:50.204431851Z",
+  "model": "glm-5.3"
+}

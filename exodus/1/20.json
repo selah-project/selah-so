@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohimna wuxuu dhaliyayaasha u samafallooyay, dadkuna wuxuu is-badiyay, oo aad bay u weynaadeen.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wuxuu u samafallooyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "dhaliyayaasha"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "wuxuu is-badiyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "aad bay u weynaadeen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:28.140953386Z",
+  "model": "glm-5.3"
+}

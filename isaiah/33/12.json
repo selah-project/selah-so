@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Dadweynnadu waxay noqon doonaan sida gululka nuxaalka loo gubo; sida qodaxyada la gooyay, dab baa lagu shuban doonaa.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "noqon doonaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dadweynnadu"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "gulul"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "nuxaalka loo gubo"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "qodaxyada"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "la gooyay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "lagu shuban doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:35.639005578Z",
+  "model": "glm-5.3"
+}

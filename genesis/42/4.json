@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Laakiin Binyaamiin, walaalkii Yoosef, Yaakob ma u dirin ⟨את⟩ walaalihiis, waayo, wuxuu yidhi: Bal aan walbaqi doonid dhegcuffadeed ku dhicin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyaamiin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyaamiin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "u dirin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo, wuxuu yidhi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Bal aan"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "walbaqi doonid dhegcuffadeed ku dhicin"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "dhegcuffadeed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:09.975273900Z",
+  "model": "glm-5.3"
+}

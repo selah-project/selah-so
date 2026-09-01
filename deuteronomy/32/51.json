@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "deuteronomy 32:51",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Sababtoo ah waxaad ila khiyaanooteen, dhexda wiilasha Israa'iil, biyaha Meribadh-Qadesh, duullaadda Tsiin; sababtoo ah maad ⟨את⟩ aniga ila qaddasheen dhexda wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "waxaad ila khiyaanooteen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iila"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "במי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "מריבת",
+      "gloss": "Meribadh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "duullaadda"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maad"
+    },
+    {
+      "surface": "קדשתם",
+      "gloss": "ila qaddasheen"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:14.539231950Z",
+  "model": "glm-5.3"
+}

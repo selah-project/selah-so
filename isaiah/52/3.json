@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Waayo, sidaas ayuu Yahweh yidhi: bilaa waxba baa laydiin iibiyay, mana lacag baa laydiin guri-doon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bilaa waxba"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "la idin iibiyay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "laydiin guri-doon"
+    }
+  ],
+  "timestamp": "2026-09-01T07:17:07.157634914Z",
+  "model": "glm-5.3"
+}

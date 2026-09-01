@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Nacasigu wuxuu isku dheereynayaa ⟨את⟩ gacmihiisa, wuxuuna cunaa ⟨את⟩ jidhkiisa.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Nacasigu"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "wuxuu isku dheereynayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmihiisa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "וֹאכל",
+      "gloss": "wuxuuna cunayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhkiisa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.747758829Z",
+  "model": "glm-5.3"
+}

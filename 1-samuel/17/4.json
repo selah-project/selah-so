@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxaana ka soo baxay nin dhexdood-duulloobay ka mid ah goortii Falistiin, magaciisuna Golyaath, ka Golyaath-Gath; dhererkiisuna wuxuu ahaa todoba-tan iyo todobo dhudhun iyo faras (six cubits and a span).",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Waxaana ka soo baxay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "dhexdood-duulloobay"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "goortii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiin"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyaath"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisuna"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ka Gath"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dhererkiisuna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "todobo (six)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhudhun (cubits)"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "iyo faras (a span)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:53.011081409Z",
+  "model": "glm-5.3"
+}

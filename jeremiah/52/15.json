@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Qasaaraha bulshada iyo ⟨את⟩ hadhaagii bulshada magaalada ka hadhay, iyo ⟨את⟩ kuwa isaga tegey ee boqorka Baabel u tegey, iyo ⟨את⟩ hadhaagii dad-weynaha — kuwan Nebuusaradaan, madaxa ilaalada, wuu qaxootiyay.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "qasaaraha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bulshada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hadhaagii bulshada"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "hadhaagii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bulshada"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ka hadhay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kuwa isaga tegey"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kuwa isaga tegey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "u tegey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boqorka u"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hadhaagii dad-weynaha"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "hadhaagii"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "dad-weynaha"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "wuu qaxootiyay"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuusaradaan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ilaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:23:50.055526685Z",
+  "model": "glm-5.3"
+}

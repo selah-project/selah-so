@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Aniguna waan qosli doonaa marka habaar idinku timaado, waan soo-jeedin doonaa markay argagaxiinnu yimaado.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "marka habaar idinku"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "waan qosli doonaa"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "waan soo-jeedin doonaa"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "markay ... yimaado"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "argagaxiinnu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:20.526051846Z",
+  "model": "glm-5.3"
+}

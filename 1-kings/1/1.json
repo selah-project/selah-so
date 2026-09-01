@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Boqorka Dawudna wuu geeystay, wuxuuna yimid ⟨dhexdooda⟩ maalmaha, waxaana lagu dul daboolay dhar, laakiin kulul uma helin.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Boqorkana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wuu geeystay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "waxaana lagu dul daboolay"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "kulul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uma helin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:47.899051689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Uriyah wuu seexday horfurka guriga boqorka, ⟨את⟩ addoonada oo dhan ee sayidkiis, oo uusan u deg-in gurigiisa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "wuu seexday"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "horfurka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonada"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sayidkiis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo uusan ... -in"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "u deg-in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:00.316729805Z",
+  "model": "glm-5.3"
+}

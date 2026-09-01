@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Si loo lumiyo xukunka dadka liidata, iyo loo dhuto xaqqa masaakiintii qolkayga, si ay dulman-naqayaadu u noqdaan bahashooda, iyo ⟨את⟩ agoonnaba ay dhacaan.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "si loo lumiyo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dadka liidata"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "iyo loo dhuto"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xaqqa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "masaakiintii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkayga"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "si ay u noqdaan"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dulman-naqayaadu"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "bahashooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "agoonnama"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "agoonnama"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ay dhacaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:55.669779370Z",
+  "model": "glm-5.3"
+}

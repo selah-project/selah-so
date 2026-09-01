@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Gacan ilaa gacan, sharku waa lama nafaqaynayo, iyo faraca ⟨את⟩ shaadiixiintuna waa la badbaadinayaa.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ilaa gacan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "nafaqaynayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "iyo faraca"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "shaadiixiintuna"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "waa la badbaadinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:58.538791308Z",
+  "model": "glm-5.3"
+}

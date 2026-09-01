@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Waaayo Yahweh wuxuu xukumi doonaa ⟨umadiisa⟩, iyo adigoo adeegyadiisa ku naxariisan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waaayo"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "wuxuu xukumi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umadiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo adigoo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adeegyadiisa"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ku naxariisan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:15.077672493Z",
+  "model": "glm-5.3"
+}

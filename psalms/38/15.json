@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Oo waxaan noqday sida nin aan maqlin, oo afkiisa dibideeda ma jiraan canaano.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Oo waxaan noqday"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sida nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan (diidmo)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqlin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afkiisa dibideeda"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "canaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:03.728529851Z",
+  "model": "glm-5.3"
+}

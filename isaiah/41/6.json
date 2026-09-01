@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Nin kasta wuxuu gargaaray ⟨את⟩ asxaabkiis, oo walaalkiisna wuxuu ku odhan: Adkaado.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asxaabkiis"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "asxaabkiis"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "wuxuu gargaaray"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "oo walaalkiis"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wuxuu ku odhan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Adkaado"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:45.726745142Z",
+  "model": "glm-5.3"
+}

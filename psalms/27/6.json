@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddana madaxayga ayaa la sarreeyin doonaa cadowdayday dhowraha i go'doon, waanan wax gelin doonaa teendhadiisa allabbariyaal farxad qaylo ah; waan heesaa, waana ciyaaraa (waan ammaanaa) Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "la sarreeyin doonaa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayday"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "dhowraha i go'doon"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "waanan wax gelin doonaa"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "teendhadiisa"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "allabbariyaal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "farxad qaylo ah"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan heesaa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "waana ciyaaraa (waan ammaanaa)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:51.131838976Z",
+  "model": "glm-5.3"
+}

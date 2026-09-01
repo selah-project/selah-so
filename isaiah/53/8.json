@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Ciidanka iyo xukunkaa laga qaaday, waana ⟨את⟩ durkiisii la qaaday, yaa ka sheegi kara? Maadaama dambiga shacabkayga baa laga goy dhulka nolosha, baabbi'in awgood.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "Ciidanka"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "iyo xukunkaa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "laga qaaday"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "durkiisii"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "durkiisii"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ka sheegi kara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "baa laga goy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "dambiga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "shacabkayga"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "baabbi'in"
+    },
+    {
+      "surface": "למו",
+      "gloss": "awgood"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:09.125392680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 19:25",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Raggii wey diiday inay maqlaan; ninkeenu ayaa dillo diisa ku qabsaday, oo iyaga u soo bixiyay dibedda; weyna yaqaan ⟨את⟩ iyada, weyna iyada ku dul daalacsaday habeenkii oo dhan ilaa aroorta, markay subaxdu soo baxaysayna wey u dhaafsiiyay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "waa diiday (ma aha)"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "diiday inay waantoobaan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "raggii"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "inay maqlaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo (xaaggiisa)"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ku qabsaday"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkeenu"
+    },
+    {
+      "surface": "בפילגשו",
+      "gloss": "dillo diisa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "u soo bixiyay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "weyna yaqaan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (dillo diisa)"
+    },
+    {
+      "surface": "ויתעללו",
+      "gloss": "ku dul daalacsaday"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iyada ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilhaa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aroorta"
+    },
+    {
+      "surface": "וישלחוה",
+      "gloss": "u dhaafsiiyay"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "markay soo baxaysay"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "subaxdu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:38:33.229242369Z",
+  "model": "glm-5.3"
+}

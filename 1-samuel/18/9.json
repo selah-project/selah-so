@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu Sha'uul ahaa mid eegaya ⟨את⟩ Daawud, maalkaas ka dib iyo horta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "eegaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "maalkaas ka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dib"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "iyo horta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:12.404078745Z",
+  "model": "glm-5.3"
+}

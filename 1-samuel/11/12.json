@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Dadkii waxay dheheen Shemu'el: Yaa odhan Shaa'uul inuu nagu boqorno? Siidaaya niman-kaasi waanna dilnaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay dheheen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "inuu nagu boqorno"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": ""
+    },
+    {
+      "surface": "תנו",
+      "gloss": "siidaaya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "niman-kaasi"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "waanna dilnaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:45.970552765Z",
+  "model": "glm-5.3"
+}

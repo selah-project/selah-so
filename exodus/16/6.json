@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Muuse iyo Aaroonna waxay dhihibeen ilmo Israa'iil dhammaantood u: Galab ayaydaan ogaan doonaan in Yahweh ⟨את⟩ idin soo saaray dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay dhihibeen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aaroonna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Galab"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ayaydaan ogaan doonaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "soo saaray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:43.793712339Z",
+  "model": "glm-5.3"
+}

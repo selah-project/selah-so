@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Markaasay ku tidhi Eliyahu: Maxaan aniga iigu taallaa adiga, ninkii Elohim? Ma ila timid inaad xusuusiso ⟨את⟩ dembigayga oo aad disho ⟨את⟩ inankayga?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Markaasay tidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga iigu taallaa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ma waxaad timid"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "inaad xusuusiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembigayga"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "oo aad disho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inankayga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "inankayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:15.074328352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Doorda dhoodaada la ⟨את⟩ saaxiibkaaga, qarsoodka qof kale ha soo-bandhigin.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "dhoodaada"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "door"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkaaga"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "qarsoodka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qof kale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "soo-bandhigin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:19.149534482Z",
+  "model": "glm-5.3"
+}

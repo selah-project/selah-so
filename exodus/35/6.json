@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "iyo ⟨midabka buluugga⟩ (tekhelet), iyo aragmaan (midab bunni ah), iyo doqoni cas (shani), iyo lin fiiqan, iyo timo ri'yo.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "iyo midabka buluugga (tekhelet)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo aragmaan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "iyo doqoni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cas (shani)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lin fiiqan"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "iyo timo ri'yo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:27.652634977Z",
+  "model": "glm-5.3"
+}

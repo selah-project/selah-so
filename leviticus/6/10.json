@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Lama dabaalo khamiir; qaybtoodii baan ka dhigay allabaryadaydii dabka (ishyada); quduska qudusaha bay tahay, sida qurbaanka dembiga iyo sida qurbaanka denbiga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dabaalo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "khamiir"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "qaybtoodii"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "baan ka dhigay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "allabaryadaydii dabka (ishyada)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "allabaryadaydii dabka (ishyada)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduska"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qudusaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay tahay"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sida qurbaanka dembiga"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "iyo sida qurbaanka denbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:37.539815145Z",
+  "model": "glm-5.3"
+}

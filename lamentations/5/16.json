@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Taajkeenna madaxennana wuu dhacay; balayo naga warran, waayo waannu denbi galnay.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "wuu dhacay"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taajkenna"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "madaxennana"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "balayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "warran"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "waannu denbi galnay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:56.550276344Z",
+  "model": "glm-5.3"
+}

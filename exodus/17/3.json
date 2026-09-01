@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Markaasaa dadka halkaas biyo dheeraad ah bay u baahooday, oo dadkuna wuxuu Muuse ka cadeeyay, oo waxay yidhaahdeen: Maxaad noo kaxaysay noo soo saaray Mitsrayim inaad ⟨את⟩ aniga iyo ⟨את⟩ wiilashay iyo ⟨את⟩ xoolahayga ay ku dhintaan oon biyo laheyn?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "markaasaa u baahooday biyo dheeraad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "למים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "wuxuu ka cadeeyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo waxay yidhaahdeen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "noo kaxaysay noo soo saaray"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "inaad ku dhintaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolahayga"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "xoolahayga"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "biyo la'aan (oon biyo laheyn)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:03.366025547Z",
+  "model": "glm-5.3"
+}

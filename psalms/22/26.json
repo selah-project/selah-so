@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ka ⟨את⟩ adiga ammaanaydu waxay ka timaaddaa jamaaca weyn; ballanahaygana waan oofinayaa ka hor kuwa ka cabsada.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "Ka ⟨את⟩ adiga",
+      "marks": "adiga"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ammaanaydu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamaaca"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ballanahayga"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "waan oofinayaa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuwa ka cabsada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:27.649531237Z",
+  "model": "glm-5.3"
+}

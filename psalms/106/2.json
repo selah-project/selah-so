@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Yaa sheegi kara geesinimaha Yahweh, yaa muujin kara ammaaniddiisa oo dhan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "sheegi kara"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "geesinimaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "yaa muujin kara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaaniddiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:44.850704900Z",
+  "model": "glm-5.3"
+}

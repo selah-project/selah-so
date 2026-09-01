@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waayo, waxaan ilaaliyay waddooyinka Yahweh, oo xum ma u falin Elohayga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "waxaan ilaaliyay"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "waddooyinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma u falin"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "xum"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:32.592646621Z",
+  "model": "glm-5.3"
+}

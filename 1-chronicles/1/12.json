@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "iyo ⟨את⟩ Pathrusiyiinta, iyo ⟨את⟩ Casluchiinta — kaasoo ka soo baxay Filistiinta — iyo ⟨את⟩ Kaphtoriinta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Pathrusiyiinta"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusiyiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Casluchiinta"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Casluchiinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ka soo baxay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kaphtoriinta"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaphtoriinta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:02.770283454Z",
+  "model": "glm-5.3"
+}

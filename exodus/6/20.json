@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Amram wuxuu qaatay ⟨את⟩ Yokebed edaadeediis xaas u qaadays, iyaduna waxay u dhashay ⟨את⟩ Aaro iyo ⟨את⟩ Muuse; sanooyinka nolosha Amram waxay ahaayeen toddoba iyo soddon iyo boqol sano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "edaadeediis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xaas"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxay u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaro"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iyo sanooyinka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo soddon"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:46.016742977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sharaartu waxay ii dhigeen foosh, ⟨laakiin⟩ amarradaaga lama geddin.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "waxay ii dhigeen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharaartu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "foosh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "⟨laakiin⟩ amarradaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ma geddin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:32.045178625Z",
+  "model": "glm-5.3"
+}

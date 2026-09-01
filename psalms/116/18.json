@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Nadarradayda waxaan Yahweh ku oofinayaa, waana halgamee hortaada, dhammaan dadkaaga.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Nadarradayda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "waxaan ku oofinayaa"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waana halgamee"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:09.985873570Z",
+  "model": "glm-5.3"
+}

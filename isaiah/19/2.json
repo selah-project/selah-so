@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxaan dhex-gelin doonaa Mitsrayim khalad-ficil Mitsrayim kala-geddin, waxayna is-dhaqaaqaan nin walaalkiis iyo nin deriskiis, magaalo magaalo la dagaallamaysa, boqortooyo boqortooyo la dagaallamaysa.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "waxaan dhex-gelin doonaa kala-geddin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim khalad-ficil"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "waxayna is-dhaqaaqaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "deriskiis"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalo la dagaallamaysa"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "boqortooyo"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "boqortooyo la dagaallamaysa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:39.927446348Z",
+  "model": "glm-5.3"
+}

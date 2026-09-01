@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Noqo dammaanad adeegagaaga wanaag; ha i quudhsanina wenleyda.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "noqo dammaanad"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adeegagaaga"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha…(diidmo)"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ha i quudhsanin"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "wenleyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:55.160848158Z",
+  "model": "glm-5.3"
+}

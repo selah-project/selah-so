@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxayna shaacu duceeyay dhammaan ragga is-abeeyay inay deggaan Yeruushaalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "waxayna duceeyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shaacu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "is-abeeyay"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "inay deggaan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T06:20:54.152085993Z",
+  "model": "glm-5.3"
+}

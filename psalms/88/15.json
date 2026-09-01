@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Maxaad u tuuraysaa nafadayda, Yahweh? Maxaad wax u qaraysaa wejiigaaga iga?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tuuraysaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadayda"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "wax u qaraysaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wejiigaaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:11.457191783Z",
+  "model": "glm-5.3"
+}

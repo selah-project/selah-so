@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Ha u farxo quminaha ee Yahweh, oo ha magan galaan ⟨isaga⟩; oo ha ammaanaan dhammaan kuwa toosan qalbiga ah",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ha u farxo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "quminaha"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "oo ha magan galaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨isaga⟩"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "oo ha ammaanaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan kuwa"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:14.394578770Z",
+  "model": "glm-5.3"
+}

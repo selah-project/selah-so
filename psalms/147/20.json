@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Uma samayn sidaas ummad kasta, oo xukuummada ma aqaan iyaga. Ammaana Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ummad kasta"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ummad"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "oo xukuummada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "aqaan iyaga"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ammaana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:31.289844787Z",
+  "model": "glm-5.3"
+}

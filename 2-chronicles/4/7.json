@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ toban mishiin-ifeed (menooro) oo dahab ah sida xukunkoodii, wuxuuna dhigay qolka dhexe shan middig iyo shan bidix.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toban mishiin-ifeed oo dahab ah"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "mishiin-ifeed (menooro)"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sida xukunkoodii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "qolka dhexe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "middig"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "bidix"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:19.143364897Z",
+  "model": "glm-5.3"
+}

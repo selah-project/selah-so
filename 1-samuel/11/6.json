@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ruuxa Elohim si awood leh ayuu ku soo dhacay Shaa'uul markuu maqlay ⟨את⟩ ereyadaas, cadhadiisuna si aad ah ayay u gubatay.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "si awood leh ayuu ku soo dhacay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuxa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "markuu maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ayay u gubatay"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadhadiisuna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:04.156368057Z",
+  "model": "glm-5.3"
+}

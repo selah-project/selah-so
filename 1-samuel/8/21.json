@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Saamuu'el wuxuu maqlay ⟨את⟩ erayada dadka oo dhan, wuxuuna ku sheegay dhagihii Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Saamuu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "wuxuuna ku sheegay"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dhagihii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:11.146226125Z",
+  "model": "glm-5.3"
+}

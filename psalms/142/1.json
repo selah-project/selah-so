@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Maschiil (sheeko waxbarasho) oo Dawiid laga dhigay, markuu godka ku jiray — baryo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "maschiil (sheeko waxbarasho)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawiid laga dhigay"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "markuu ku jiray"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "godka"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "baryo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:48.644029320Z",
+  "model": "glm-5.3"
+}

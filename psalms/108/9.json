@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Giladh waa iligii, Menashsheh iligii; EfRAYIM waa adkaa madaxayga, Yehuudah waa sharcigeeyo.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "iligii"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iligii"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshah"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "iyo EfRAYIM"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "adkaa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "sharcigeeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:19.264000336Z",
+  "model": "glm-5.3"
+}

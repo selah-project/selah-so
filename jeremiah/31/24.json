@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 31:24",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay ku noolaan doonaan halkaas Yahuudah iyo magaalooyinkiisa oo dhan wada, beeraley iyo kuwa rer-xoolaha la socda.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Waxay ku noolaan doonaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "magaalooyinkiisa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "beeraley"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "iyo kuwa socda"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "rer-xoolaha la"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:27.863324540Z",
+  "model": "glm-5.3"
+}

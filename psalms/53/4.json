@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Dhammaantood way laabteen, waxay wada nijaasoween, ma jiro mid sama falaya, ma jiro ilaa mid keliya.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Dhammaantood"
+    },
+    {
+      "surface": "סג",
+      "gloss": "way laabteen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "way nijaasoween"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mid falaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:05.779847566Z",
+  "model": "glm-5.3"
+}

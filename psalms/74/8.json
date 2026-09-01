@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Waxay qalbigooda ku yidhaahdeen: Aannu si wada baabi'inno; waxay gubeen dhammaan goobaha shirarka ee El ee dhulka.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "waxay yidhaahdeen"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "qalbigooda"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "aannu baabi'inno"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "si wada"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "waxay gubeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "goobaha shirarka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:57.041079476Z",
+  "model": "glm-5.3"
+}

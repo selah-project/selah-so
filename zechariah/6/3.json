@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Markabta saddexaadna faras cad ah, markabta afraadna faras doog ah oo awood badan.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "markabta saddexaadna"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "cad ah"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "markabta afraadna"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "afraad"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "doog ah"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "oo awood badan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:47.039618968Z",
+  "model": "glm-5.3"
+}

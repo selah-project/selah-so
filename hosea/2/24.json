@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dhulkuna wuu ka jawaabi doonaa ⟨את⟩ giroshka iyo ⟨את⟩ khamriga cusub iyo ⟨את⟩ saliidaha; iyaguna waxay ka jawaabi doonaan ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dhulkuna"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wuu ka jawaabi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giroshka"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "giroshka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khamriga cusub"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "khamriga cusub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saliidaha"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "saliidaha"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iyaguna"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "waxay ka jawaabi doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:15.509125515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Maalintaan u dhawaaqay, waad i jawaabtay; waad i dhiirrigelisay, nafayga xoog maad dhisay.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "u dhawaaqay"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "waad i jawaabtay"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "waad i dhiirrigelisay"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nafayga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:52.153184993Z",
+  "model": "glm-5.3"
+}

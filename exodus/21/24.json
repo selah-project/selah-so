@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Indho bedelkeed indho, ilig bedelkeed ilig, gacan bedelkeed gacan, lug bedelkeed lug.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Indho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bedelkeed"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bedelkeed"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilig"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bedelkeed"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lug"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bedelkeed"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lug"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:49.173874768Z",
+  "model": "glm-5.3"
+}

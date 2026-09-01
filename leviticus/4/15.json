@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo odayaasha taydhintu waxay saaraan ⟨את⟩ gacmooda madaxa baqalka hortiisa Yahweh, oo baqalka waa la gowracaa hortiisa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "oo ay saaraan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "taydhinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmooda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "baqalka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "oo la gowracoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baqalka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "baqalka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:16.660859880Z",
+  "model": "glm-5.3"
+}

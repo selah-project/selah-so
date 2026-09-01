@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo kuwannaa waa kuwiinii Yeruushaalaym lagu dhashay: Shiim'aa, iyo Showbab, iyo Naataan, iyo Shelomoo — afar — Bashuwa', gabadha Ammi'eel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Oo kuwannaa"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "waa lagu dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shiim'aa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "iyo Showbab"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "iyo Naataan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "iyo Shelomoo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "⟨gabadha⟩ Bashuwa'"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bashuwa'"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammi'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:52.085141192Z",
+  "model": "glm-5.3"
+}

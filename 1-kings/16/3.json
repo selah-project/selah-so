@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Bal, waan baabi'inayaa Baashaa iyo guri kiisa, waana dhigi ⟨את⟩ gurigaaga sida gurigii Yarab'aam ina Nebat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "waan baabi'inayaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "guri kiisa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waana dhigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurigaaga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sida gurigii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarab'aam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:14.034871018Z",
+  "model": "glm-5.3"
+}

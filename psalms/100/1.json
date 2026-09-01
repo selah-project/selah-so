@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 100,
+  "translation": "Mizmor (qasuucid) ah oo mahad ah. Dhiiba dhawaaq Yahweh, dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (qasuucid)"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "mahad ah"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "dhiiba dhawaaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:16.262967701Z",
+  "model": "glm-5.3"
+}

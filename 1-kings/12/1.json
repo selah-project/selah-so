@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuu tegey Rejaboam ⟨את⟩ Shekhem, waayo Shekhem ayaa u yimid dhammaan Israa'iil inay boqorsiiyaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tegey"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejaboam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "u yimid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "inay boqorsiiyaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Rejaboam)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:49.212945948Z",
+  "model": "glm-5.3"
+}

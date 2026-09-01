@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Dawiid wuxuu tiriyay ⟨את⟩ dadka ⟨את⟩ la jiray, wuxuuna dul dhigay sareeye kunno ah iyo sareeye boqollo ah.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wuxuu tiriyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ka) ah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la jiray"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna dul dhigay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sareeye"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kunno ah"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "iyo sareeye"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqollo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:03:51.046700711Z",
+  "model": "glm-5.3"
+}

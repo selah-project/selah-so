@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Wadhigaygu wuxuu dhuuxaa gudahay iiga; cabsitayaasha geeridu way ii dhaceen.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "wadhigaygu"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wuxuu dhuuxaa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "gudahay iiga"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "cabsitayaasha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geeridu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "way ii dhaceen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:48.008589388Z",
+  "model": "glm-5.3"
+}

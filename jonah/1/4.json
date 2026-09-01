@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahwehna wuu tuuray dabayl weyn ⟨dhexdeeda⟩ badda, waxaana noqday duufaan weyn badda, doonnana waxay moodday inay burburo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "wuu tuuray"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayl"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxaana noqday"
+    },
+    {
+      "surface": "סער",
+      "gloss": "duufaan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "doonnana"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "waxay moodday"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "inay burburo"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:41.171207256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Oo Fiinxaas wuu istaagay oo wuu xukunka fuliyay, oo cudurka waa la joojiyay.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wuu istaagay"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Fiinxaas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "wuu xukunka fuliyay"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "waa la joojiyay"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "cudurka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:01.902785292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Shetna isaguna waxaa loo dhashay wiil, wuuna ugu magac-dhay Enosh. Markaasaa bilaabmay in Magaca Yahweh lagu baryo.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "Shetna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isaguna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "waxaa loo dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuuna ugu magac-dhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אז",
+      "gloss": "markaasaa"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "bilaabmay"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "in lagu baryo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:12.391293977Z",
+  "model": "glm-5.3"
+}

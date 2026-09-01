@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waa la garayay Yahweh, xukun ayuu sameeyay; shuqulkii gacmihiisa baa ku qansaxday sharliyaha. Higayoon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "waa la garayay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayuu sameeyay"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "ku qansaxday"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharliyaha"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:28.495222743Z",
+  "model": "glm-5.3"
+}

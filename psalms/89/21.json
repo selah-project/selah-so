@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaan ka helay Daawud addoonkayga; saliiddayda qadduunka ah baan ku masiihay.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Waxaan ka helay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonkayga"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliiddayda…ku"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qadduunka ah"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "baan ku masiihay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:47.551192942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Boqortooyadaadu waa boqortooyo dhammaan wakhtiyada, oo xukunkaagu wuxuu ka jiraa jiil kasta iyo jiil.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "boqortooyadaadu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "boqortooyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "wakhtiyada"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "oo xukunkaagu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jiil kasta"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo jiil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:37.837295037Z",
+  "model": "glm-5.3"
+}

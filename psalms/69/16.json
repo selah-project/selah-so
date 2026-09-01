@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Ha i daelin socod biyo inay ii soo dul-saaraan, ha i lijin macaluulka, oo ha xirin ilka afkeeda iyo adiga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha i daelin"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "inay ii soo dul-saaraan"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "socod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha i lijin"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ijin"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "macaluulka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha xirin"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "xirin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iyo adiga"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ilka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:30.252820032Z",
+  "model": "glm-5.3"
+}

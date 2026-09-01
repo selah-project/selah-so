@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wuxuu yidhi Daawud Aximelekh wadaadda: Boorku amar buu ii saaray, wuxuuna ii yidhi: Ninka ha ogaan waxba ⟨את⟩ amarka aan ku soo dirayo iyo waxa aan ku amray; ⟨את⟩na wiilasha waan ka ogeysiiyay meesha falan iyo falan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Aximelekh"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boorku"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "amar buu ii saaray"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(amar)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ii yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ninka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ogaan"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waxba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ku soo dirayo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo waxa"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "aan ku amray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩na",
+      "marks": "wiilasha"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "waan ka ogeysiiyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(oo)"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "falan"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "iyo falan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:41.759051220Z",
+  "model": "glm-5.3"
+}

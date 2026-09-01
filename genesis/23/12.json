@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Abrahamna wuu u sujuuday hortii dadka dhulka.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "wuu u sujuuday"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:57.544739144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Aniguna waxaan u ahay sidii balanbaalan Efrayim, iyo sidii cuncun reerkii Yahuudah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sidii balanbaalan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "iyo sidii cuncun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "reerkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:59.815617136Z",
+  "model": "glm-5.3"
+}

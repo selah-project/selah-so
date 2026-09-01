@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Anniga waxaan idhi degdegadaydii: dhamaan dadka waa beenaale.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "anniga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "degdegadaydii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "waa beenaale"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:12.404114165Z",
+  "model": "glm-5.3"
+}

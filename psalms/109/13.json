@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ha ahaato dhammaadkiisu in la gooyo; ee jiilka kale magacooda ha la tirtiro.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ha ahaato"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "dhammaadkiisu"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "in la gooyo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "jiilka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ha la tirtiro"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "magacooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:56.606333792Z",
+  "model": "glm-5.3"
+}

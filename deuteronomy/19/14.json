@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 19:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha dhaqaaqin xuddudda deriskaaga ee kuwii hore ku dhigay, dhaxalkaaga aad ka dhaqato dhulka uu Yahweh Elohimkaaga kuu siiyo inaad degto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תסיג",
+      "gloss": "dhaqaaqin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xuddudda"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "deriskaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "ku-dhigay"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "kuwii-hore"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "dhaxalkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "aad-ka-dhaqato"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "inaad-degto"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:39.687957134Z",
+  "model": "glm-5.3"
+}

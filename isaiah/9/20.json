@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Menashshe wuu cunaa ⟨את⟩ Efprayim, Efprayimna wuu cunaa ⟨את⟩ Menashshe; iyagoo wada ah Yihooda bay ka soo horjeeddaan. Dhammaan kan oo dhan cadhadiisa uma soo noqonto, gacantiisuna weli waa fiirsan tahay.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efprayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efprayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efprayimna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashshe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "iyagoo wada ah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka soo horjeeddaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yihooda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan... oo dhan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "soo noqonto"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadhadiisa"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisuna"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "waa fiirsan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:00.187744371Z",
+  "model": "glm-5.3"
+}

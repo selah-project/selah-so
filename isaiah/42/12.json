@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Ha u bixiyaan Yahweh ammaan (kabood), jasiiradahana ha sheegaan ammaantiisa.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "ha u bixiyaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan (kabood)"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "iyo ammaantiisa"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "jasiiradaha"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ha sheegaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:41.580205013Z",
+  "model": "glm-5.3"
+}

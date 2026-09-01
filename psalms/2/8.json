@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "«I weydii, waana ku siin doonaa shacabka dhulka dhexdiisa oo dhaxlahaaga, oo qabsashadaada waxay noqon doontaa dhulka daridyadiisa».",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "I weydii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "aniga i"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waana ku siin doonaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaxlahaaga"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "qabsashadaada"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "daridyadiisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.287480466Z",
+  "model": "glm-5.3"
+}

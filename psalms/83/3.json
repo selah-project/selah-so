@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Waayo, bal, cadowadaadu way buuqayaan, oo kuwa ku neceb yahay waxay madaxa kor u qaadeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "cadowadaadu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "way buuqayaan"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "oo kuwa ku neceb yahay"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "waxay kor u qaadeen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:32.182488363Z",
+  "model": "glm-5.3"
+}

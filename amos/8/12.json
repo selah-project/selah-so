@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxay dagdaagi doonaan badda ilaa badda, waqooyi ilaa bariga; waxay dhaqaaq-dhaqaaqi doonaan si ay u raadiyaan ⟨את⟩ ereyga Yahweh, laakiin ma heli doonaan.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "waxay dagdaagi doonaan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "waxay dhaqaaq-dhaqaaqi doonaan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "si ay u raadiyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyga Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "heli doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:57.824563454Z",
+  "model": "glm-5.3"
+}

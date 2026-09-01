@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wadaadduuna wuxuu ka bixin doonaa khariibadda, wadaadduuna wuxuu eegi doonaa, oo bal eeg, haddii ay ku daallin tahay in cudurka tsaraatu uu ka bogay kan qabow-dhilloo ku dhacyay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu ka bixin doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka bixin (khariibadda)"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "khariibadda"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wuxuu eegi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ay ku daallin tahay in uu bogay"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "cudurka (dhaawaca)"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraatu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "kan qabow-dhilloo ku dhacyay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:52.750193649Z",
+  "model": "glm-5.3"
+}

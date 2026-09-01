@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo ka sii dheer waxaas, wiilay, iska nawow: sameynta buugag badan dhamaad ma laha, oo akhris badani daal-jirid bay tahay jidhka.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Oo ka sii dheer"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilay"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "iska nawow"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "sameynta"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "buugag"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma laha"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "dhamaad"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "oo akhris"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badani"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "daal-jirid"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jidhka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:16.313371101Z",
+  "model": "glm-5.3"
+}

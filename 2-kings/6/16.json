@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna yidhi: Ha cabsan, waayo kuwa ⟨את⟩ nala jira waxay ka badan yihiin kuwa ⟨את⟩ la jira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "waxay ka badan yihiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nala jira"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ la jira"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:40.645839795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Sababtoo ah codka cayaheenna iyo canaantaha, xagga cadowga iyo cunugga aargoosada.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Sababtoo ah codka"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "cayaheenna"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "canaantaha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "cunugga aargoosada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.725823163Z",
+  "model": "glm-5.3"
+}

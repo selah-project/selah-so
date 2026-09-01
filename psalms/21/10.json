@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxaad dhigi doontaa sidii dab-dhillo markii wajigaagu muuqdo, Yahweh; xaggiisa cadcaduna wuu liqi doonaa, dabkuna wuu cuni doonaa.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Waxaad dhigi doontaa"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sidii dab-dhillo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab ah"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "markii"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaagu muuqdo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "xaggiisa cadcaduna"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "wuu liqi doonaa"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "wuu cuni doonaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabkuna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:50.023921962Z",
+  "model": "glm-5.3"
+}

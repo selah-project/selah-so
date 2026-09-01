@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaas Ester waxay u dhawaaqday Hatakh, oo ka mid ah sarwiisyada boqorka (kasriisiyiinta) uu hor taal uga dhigay, waxayna amar ku sirtay inuu u tago Mordekhay, si uu u ogaado waa maxay tan iyo maxay sababta tan.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "waxay u dhawaaqday"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "sarwiisyada (kasriisiyiinta)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "uu hor taal uga dhigay"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "waxayna amar ku sirtay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "si uu u ogaado"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo maxay sababta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:33.111026165Z",
+  "model": "glm-5.3"
+}

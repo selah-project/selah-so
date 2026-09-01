@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "⟨את⟩ Farcoon boqorka Mitsrayim, iyo ⟨את⟩ addoomadiisa, iyo ⟨את⟩ odayadiisa, iyo ⟨את⟩ dhammaan qoomkiisa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farcoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "addoomadiisa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "odayadiisa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "odayadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan qoomkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoomkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:46.419123828Z",
+  "model": "glm-5.3"
+}

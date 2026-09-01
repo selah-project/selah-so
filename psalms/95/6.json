@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Kaalaya, aannu sujuudno oo aannu hormoodno, aannu astaanno hor Yahweh ee sameeyaha noo ah.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "kaalaya"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "aannu sujuudno"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "oo aannu hormoodno"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "aannu astaanno"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "sameeyaha noo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.916226981Z",
+  "model": "glm-5.3"
+}

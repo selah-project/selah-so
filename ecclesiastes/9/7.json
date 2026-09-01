@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Tee, cun si farxad leh rootigaga, oo khamrigaagana cab qalbi wanaagsan, waayo hadda wuxuu ka raalli noqday Elohim ⟨את⟩ shuqullkaaga.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cun"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "si farxad leh"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rootigaga"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "oo cab"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "khamrigaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ka raalli noqday"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqullkaaga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqullkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:35.788644003Z",
+  "model": "glm-5.3"
+}

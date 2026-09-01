@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waayo, Yahweh Elohimkiin baa ⟨wuxuu⟩ idinla socda, inuu idinka hor dhaqaaqo cunaqabataynta (dagaalka) idiinka geysto cadowdiin, inuu idinka badbaadiyo ⟨את⟩ idinka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,."
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "baa wuxuu idinla socda"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "idinla"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "inuu dagaalka idiinka geysto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la (tidiin)"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowdiin"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "inuu idinka badbaadiyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka (baahida ugu weyn — idinka)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:15.894045401Z",
+  "model": "glm-5.3"
+}

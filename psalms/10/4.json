@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Sharcabbuuraha, qaadaysna wejigiisu, ma doondoonto ⟨wax⟩; dhammaan talaabihiisu waa: ma jiro Elohim.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "Sharcabbuuraha"
+    },
+    {
+      "surface": "כְּגֹבַהּ",
+      "gloss": "qaadaysna"
+    },
+    {
+      "surface": "אַפּוֹ",
+      "gloss": "wejigiisu"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יִדְרֹשׁ",
+      "gloss": "doondoonto"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מְזִמּוֹתָיו",
+      "gloss": "talaabihiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:07.116789857Z",
+  "model": "glm-5.3"
+}

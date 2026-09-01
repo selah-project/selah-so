@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Kuwa goorta ag taalla waa qabiilkii Yissaskar, oo madaxa wiilasha Yissaskar waa Netanel ina Tsu'ar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "kuwa goorta ag taalla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ag ta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabiilkii"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsu'ar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:42.353928236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Musibooyin bay dhexdeeda ku jiraan, taangoo iyo khiyaanona meelaha waaweyn ee bannaan laga teagi maayo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "musibooyin"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "dhexdeeda ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "laga teagi"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "meelaha waaweyn ee bannaan"
+    },
+    {
+      "surface": "תך",
+      "gloss": "taangoo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "iyo khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:52.310596349Z",
+  "model": "glm-5.3"
+}

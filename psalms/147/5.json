@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Weyn baa Adonay noo tahay, xoog na badan; garashadiisa ⟨ma jirto⟩ soke (tirin).",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Weyn"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonay noo tahay"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "oo xoog ahaan badan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "garashadiisa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "soke (tirin)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:41.289717961Z",
+  "model": "glm-5.3"
+}

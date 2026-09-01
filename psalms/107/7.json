@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Wuuna ku soo hagay jid toosan, inay galaan magaalo lagu deggan yahay",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Wuuna ku soo hagay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jid"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inay galaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(galaan)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "lagu deggan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:55.835686514Z",
+  "model": "glm-5.3"
+}

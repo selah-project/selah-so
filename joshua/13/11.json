@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 13:11",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "iyo Gilead, iyo xadka Geshuri iyo Maakathi, iyo buurta Hermon oo dhan, iyo Bashan oo dhan ilaa Salkah;",
+  "tokens": [
+    {
+      "surface": "והגלעד",
+      "gloss": "iyo Gilead"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "iyo xadka"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshuri"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "iyo Maakathi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:38.088245943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Dhulka waan nafiintay ee yara uun, anigunauma aan ka tagin farajadaada.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "yara uun"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "waan nafiintay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma aan"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ka tagin"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "farajadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:03.702332365Z",
+  "model": "glm-5.3"
+}

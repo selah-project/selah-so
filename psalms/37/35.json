@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waxaan arkay shar daroorsi ah, oo is-fidiya sidii geed gurihiis ah oo cagaaran.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "daroorsi ah"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "oo is-fidiya"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "sidii geed gurihiis ah"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "cagaaran"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:01.536178094Z",
+  "model": "glm-5.3"
+}

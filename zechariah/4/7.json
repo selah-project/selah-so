@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 4:7",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Adigu yaa tahay, gees-weyn, hortooda Zerubbabel — ⟨adigu⟩ waxaad noqon doontaa dhul-baan; wuxuu soo saari ⟨את⟩ dhagaxa madaxa ah; qaylo baa la taagi: Xaafad, xaafad loo bixiyaa ⟨dhexdeed⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa tahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gees-weyn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "למישר",
+      "gloss": "dhul-baan"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "wuxuu soo saari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxa madaxa ah"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "הראשה",
+      "gloss": "madaxa ah"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "qaylo baa la taagi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "Xaafad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xaafad"
+    },
+    {
+      "surface": "לה",
+      "gloss": "loo bixiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:10.803259152Z",
+  "model": "glm-5.3"
+}

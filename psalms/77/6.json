@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Waxaan ka fekeray maalmihii hore, sanadaha wakhtiyadiii duqoobay.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "waxaan ka fekeray"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmihii"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sanadaha"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wakhtiyadiii duqoobay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:42.382262639Z",
+  "model": "glm-5.3"
+}

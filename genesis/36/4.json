@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Oo Cadah waxay dhashay ⟨את⟩ Elifaz oo u dhalay Ceysav, Bosmathna waxay dhashay ⟨את⟩ Ruuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Cadah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "oo u dhalay Ceysav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "Bosmathna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Ruuel"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:48.909626027Z",
+  "model": "glm-5.3"
+}

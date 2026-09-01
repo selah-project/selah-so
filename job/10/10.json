@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma sidii caano baad igu shubtay, oo sidii caano-cufay (geeb) baad iigu cufaysay?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sidii caano"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "baad igu shubtay"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "oo sidii caano-cufay"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "baad iigu cufaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:00.629271445Z",
+  "model": "glm-5.3"
+}

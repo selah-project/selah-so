@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Taasina Yahweh ka wanaagsan bay tahay dooro weyn oo gees leh oo lug-cabir leh.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ka wanaagsan bay tahay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dooro"
+    },
+    {
+      "surface": "פר",
+      "gloss": "weyn oo"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "gees leh"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "lug-cabir leh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:50.637640066Z",
+  "model": "glm-5.3"
+}

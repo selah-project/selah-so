@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuna ku noqday walaalihiis, wuxuuna yidhi: Ilmuhu ma jiro, aniyo — xaggey baan tegeyaa?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku noqday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Ilmuhu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniyo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "xaggey"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tegeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:33.155987600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Haddaba dir, ugu soo urur ii ⟨את⟩ dadka Israa'iil oo dhan buurta Karmel, iyo ⟨את⟩ nebiyada Baalax boqol iyo konton, iyo nebiyada Asheerada oo boqol ah, kuwa cunta miiska Iisebel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dir"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "ugu soo urur ii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka Israa'iil oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nebiyada Baalax"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalax"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "boqol iyo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "konton"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "konton"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "iyo nebiyada"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asheerada"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol ah"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "kuwa cunta"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iisebel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:32.270657408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha daalin inaad hodanaato; ka jooji fahamkaaga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "daalin"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "inaad hodanaato"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "fahamkaaga"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ka jooji"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:08.825071790Z",
+  "model": "glm-5.3"
+}

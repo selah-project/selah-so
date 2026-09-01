@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "To the one who conducts ⟨the choir⟩ — a song, a mizmor. Dhawaaqa u qaadsla Elohim, dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kan hageya (muusig)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "dhawaaqa u qaadsla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:25.572446915Z",
+  "model": "glm-5.3"
+}

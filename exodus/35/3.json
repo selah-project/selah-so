@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Ha shidina dab guriga kasta oo idinka mid ah maalinta Sabtida.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "shidina"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "guriga kasta"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "oo idinka mid ah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabtida"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:43.368696362Z",
+  "model": "glm-5.3"
+}

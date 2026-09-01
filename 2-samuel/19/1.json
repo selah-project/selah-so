@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 19:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Boqorkii wuu ganaaxay oo wuxuu kor u kacay qolka sare ee albaabka isagoo ooyaya, oo wuxuu sidaa yidhi markuu socodka ahaa: Wiilkaygii Abshaluwm, wiilkaygii, wiilkaygii Abshaluwm! Yaa i siin lahaa inaan aniga adiga lagu dhinto, Abshaluwm, wiilkaygii, wiilkaygii!",
+  "tokens": [
+    {
+      "surface": "וירגז",
+      "gloss": "wuu ganaaxay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu kor u kacay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "qolka sare"
+    },
+    {
+      "surface": "השער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "isagoo ooyaya"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "markuu socodka ahaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaluwm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaluwm"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "siin lahaa"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "in aan dhinto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "adiga lagu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaluwm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:03.419740425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo nimankii waxay sameeyeen sidaas; waxayna qaaddeen laba sac oo naaska bisinaya, waxayna ku xireen gaadhiga, ⟨את⟩ weylashedana waxay ku xannibeen guriga.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay-sameeyeen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nimankii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "waxayna-qaaddeen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "sac"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "naaska-bisinaya"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "waxayna-ku-xireen"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "gaadhiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "weylasheda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "weylasheda"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "waxay-ku-xannibeen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:19.921929357Z",
+  "model": "glm-5.3"
+}

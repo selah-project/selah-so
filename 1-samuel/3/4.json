@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yahwehna wuxuu u dhawaaqay Shemu'el, wuxuuna yidhi: Hinneni, waan joogahay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u dhawaaqay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hinneni, waan joogahay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:48.774239731Z",
+  "model": "glm-5.3"
+}

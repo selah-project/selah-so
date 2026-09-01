@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "iyo Oog, boqorkii Baashaan, waayo, waqtiga dheeriga ah wuxuu sii jiraa khesedkiisii.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "iyo Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baashaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waqtiga dheeriga ah"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.435603574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna u dhoweeyay ⟨את⟩ allabarka-gubista, wuxuuna sida xukunka sameeyay.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuuna u dhoweeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabarka-gubista"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabarka-gubista"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sida xukunka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.427547372Z",
+  "model": "glm-5.3"
+}

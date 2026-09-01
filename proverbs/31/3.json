@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ha siinin haweenayada xooggaaga, iyo jidadkaaga wax baabi'iya boqorroy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siinin"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "haweenayada"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "iyo jidadkaaga"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "wax baabi'iya"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "boqorroy"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:48.154861254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Samadu waxay sheegtay ⟨את⟩ xaqiisigiisa, oo shacabka oo dhan way arkay ammaantiisa.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "waxay sheegtay"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samadu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "xaqiisigiisa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "oo way arkay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ammaantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T09:02:07.399016865Z",
+  "model": "glm-5.3"
+}

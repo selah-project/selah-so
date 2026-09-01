@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuuna diyaariyay ⟨את⟩ gaadiidkiisii, oo ⟨את⟩ ciidankiisii wuxuu la qaaday.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "wuxuuna diyaariyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaadiidkiisii"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "gaadiidkiisii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ciidankiisii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ciidankiisii"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuxuu la qaaday"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "(la)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:13.165480225Z",
+  "model": "glm-5.3"
+}

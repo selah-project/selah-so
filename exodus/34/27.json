@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: Qor adiga ⟨את⟩ ereyadaan; waayo, sida ereyadaan ayay tahay ballanka aan ⟨את⟩ ⟨adiga⟩ iyo ⟨את⟩ Israaiil kula go'ay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Qor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(aan)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sida"
+    },
+    {
+      "surface": "פי",
+      "gloss": "(afka)"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "aan go'ay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨adiga⟩ iyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:42.398717111Z",
+  "model": "glm-5.3"
+}

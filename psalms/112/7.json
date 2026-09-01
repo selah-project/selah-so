@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "War xun ma cabsado; qalbigiisu waa mid sugan, isagoo aaminsan Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "War"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "cabsado"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "waa mid sugan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "isagoo aaminsan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:28.893032506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxaana tihineen durriyada Yitsxaq inka Abraham: Abrahamna wuxuu dhalay ⟨את⟩ Yitsxaq.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "waxaana tihineen"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "durriyada"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:23.431593141Z",
+  "model": "glm-5.3"
+}

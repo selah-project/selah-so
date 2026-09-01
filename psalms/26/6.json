@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan maydhayaa gacmahayaga daahir ahaan, oo waxaan wareejinayaa ⟨את⟩ allbaarigaga, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Waxaan maydhayaa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "daahir ahaan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahayaga"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "oo waxaan wareejinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allbaarigaga"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "allbaarigaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:26.819300188Z",
+  "model": "glm-5.3"
+}

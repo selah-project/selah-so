@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "inannu narnu la mid noqonno dadyowga oo dhan, oo boqorkayaa naga xukumo, hortenna ka soo baxo, oo dagaalladayada ⟨את⟩ dagaalamo.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "inannu noqonno"
+    },
+    {
+      "surface": "גם",
+      "gloss": "narnu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "la mid oo dhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dadyowga"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "naga xukumo"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "boqorkayaa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ka soo baxo"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "hortenna"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "dagaalamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagaalladayada"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "dagaalladayada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:10.008816963Z",
+  "model": "glm-5.3"
+}

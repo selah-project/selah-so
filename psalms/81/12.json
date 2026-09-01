@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Laakiin shacabkaygii ma maqalin codkaygii, Israa'iilna i ma diidin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Laakiin ... ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "shacabkaygii"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "codkaygii"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "diidin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:20.431808154Z",
+  "model": "glm-5.3"
+}

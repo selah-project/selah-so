@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Adiga adigoo xoogkiisa ku jabin badda, waxaad jabiseen madaxa bahalada badda oo ku dhex jira biyaha.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "waxaad jabiseen"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "adigoo xoogkiisa ku"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "waxaad jebisey"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "bahalada badda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex jira"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:02.424096208Z",
+  "model": "glm-5.3"
+}

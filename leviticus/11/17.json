@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ ha-kkos-ka (shimbiro habaas ah) iyo ⟨את⟩ ha-shalakh-ka (shimbir badda ah) iyo ⟨את⟩ ha-yanshuuf-ka (shimbiro weyn habaas ah)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-kkos-ka"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ha-kkos-ka (shimbiro habaas ah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-shalakh-ka"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ha-shalakh-ka (shimbir badda ah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-yanshuuf-ka"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ha-yanshuuf-ka (shimbiro weyn habaas ah)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.120069082Z",
+  "model": "glm-5.3"
+}

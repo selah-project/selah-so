@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ibraahim wuxuu ku daray oo wuu qaaday naag, magaceedana waa Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wuxuu ku daray"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oo wuu qaaday"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "magaceedana"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:25.290797423Z",
+  "model": "glm-5.3"
+}

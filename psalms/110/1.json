@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Mizmoor Daa'uud. Oraqii Yahweh ee ⟨lagu yidhi⟩ Adonayga: Fadhiiso midigtaaday, ilaa aan ka dhigo cadowdaada carshi ⟨lugahaaga⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oraqii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Fadhiiso"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "midigtaaday"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "aan ka dhigo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowdaada"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "carshi"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "lugahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.527093759Z",
+  "model": "glm-5.3"
+}

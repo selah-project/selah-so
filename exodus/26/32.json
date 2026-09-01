@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Wa waxaad dhigaysaa ⟨את⟩ dushooda afarta tiirar oo ah alalka shittim, oo lagu dheelay dahab, iyo feerooyinkoodu waa dahab, oo ku salaysan afar aasaas oo fiddi ah.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "waxaad dhigaysaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dushooda (pardeedda)"
+    },
+    {
+      "surface": "על",
+      "gloss": "dushooda"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar (tiirar)"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "tiirar"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "alalka shittim"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "lagu dheelay (dahab)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku salaysan"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aasaas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fiddi"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:35.419155736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo wadaanku wuu kor u qaadi doonaa ⟨את⟩ ololaha iyo ⟨את⟩ hadyada biiirka, oo wadaanku wuu u dheef-shubi doonaa, oo wuu nadiifi doonaa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "wuu kor u qaadi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ololaha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ololaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hadyada"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadyada"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "biiirka"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wuu u dheef-shubi doonaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "wuu nadiifi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:47.545399427Z",
+  "model": "glm-5.3"
+}

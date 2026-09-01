@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Shar buu ku qorsheeyaa sariirtiisa; wuxuu istaagaa waddada ⟨aan⟩ wanaagsanayn; xumaanna ma diido.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "shar"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "qorsheeyaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "sariirtiisa"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "istaagaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "saaran"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsanayn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "diido"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:21.448664803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Meeshaas qabiiladu ay koraan, qabiilada Yah, markhaati u ah Israa'iil, in lagu mahadinayo Magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Meeshaas"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ay koraan"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "qabiiladu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "markhaati"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "u ah Israa'iil"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "in lagu mahadinayo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:56.590686260Z",
+  "model": "glm-5.3"
+}

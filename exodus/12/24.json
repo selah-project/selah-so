@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo idinkoo ah oo ilaaliyaanna ⟨את⟩ ereygan sharciguna idiin yahay idinkoo ah iyo carruurtiinna ilaa weligood.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "oo idinkoo ah oo ilaaliyaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sharciguna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "idiinku"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "iyo carruurtiinna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:53.946489979Z",
+  "model": "glm-5.3"
+}

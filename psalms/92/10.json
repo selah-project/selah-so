@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Waayo, eegno, cadowgaaga, Yahweh; waayo, eegno, cadowgaaga way baabbi'i doonaan; dhammaan kuwa fala xume waa la kala cararin doonaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eegno"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eegno"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "baabbi'i doonaan"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "la kala cararin doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "און",
+      "gloss": "xume"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.180004008Z",
+  "model": "glm-5.3"
+}

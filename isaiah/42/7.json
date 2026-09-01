@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "si loo furto indhaha indho-la', si loo soo saaro xabiisi xabsiga gudaheeda, iyo kuwa fadhida mugdiga guriga xabsiga.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "si loo furto"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "indho-la'"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "si loo soo saaro"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "xabsiga gudaheeda"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "xabiisi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "xabsiga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa fadhida"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdiga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:43.769537543Z",
+  "model": "glm-5.3"
+}

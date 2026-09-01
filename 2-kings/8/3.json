@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Markay dhammaatay toddoba sanadood, haweenaydu waxay ku noqotay dhulka Filistiinta, waxayna soo baxday si ay u qaylo-dhaantato boqorka, ilaa gurigeeda iyo ilaa beerteeda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markay dhammaatay"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhammaadka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sanadood"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "waxay ku noqotay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "haweenaydu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dhulka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinta"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "waxayna soo baxday"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "si ay u qaylo-dhaantato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gurigeeda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ilaa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beerteeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:55.360141284Z",
+  "model": "glm-5.3"
+}

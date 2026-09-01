@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo ⟨את⟩ Beyt-suur iyo ⟨את⟩ Sokoo iyo ⟨את⟩ Adullam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Beyt-suur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "צור",
+      "gloss": "suur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sokoo"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adullam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:03.691970220Z",
+  "model": "glm-5.3"
+}

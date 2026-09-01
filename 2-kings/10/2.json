@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo hadda, markay warqaddani idinmaanto — idinkoo dhex jira wiiladii sayidkiin iyo ⟨את⟩ gaadiidka iyo ⟨את⟩ fardaha, iyo magaalo la xiray iyo qalabka dagaanka —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "oo hadda"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "markay... maanto"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "warqaddani"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "wiiladii sayidkiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiiladii"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sayidkiin"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "gaadiidka iyo fardaha"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "gaadiidka"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "fardaha"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "la xiray"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "qalabka dagaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:07.950160144Z",
+  "model": "glm-5.3"
+}

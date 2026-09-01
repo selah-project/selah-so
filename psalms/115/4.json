@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Sanamyadoodu waa lacag iyo dahab, shuqulkii gacmaha aadanaha.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Sanamyadoodu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:05.671461485Z",
+  "model": "glm-5.3"
+}

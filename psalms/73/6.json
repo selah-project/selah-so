@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Sidaas darteed isla-weynigu wuxuu u yahay qoonsi ⟨dheexdooda⟩, oo gardarradu waxay u dhuuntaantay dhar.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "wuxuu u yahay qoonsi"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "isla-weynigu"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "waxay u dhuuntaantay"
+    },
+    {
+      "surface": "שית",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gardarradu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨dheexdooda⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:00.712904871Z",
+  "model": "glm-5.3"
+}

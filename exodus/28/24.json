@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaadna dhigi doontaa ⟨את⟩ labada silsiladood ee dahabka ah labada lanqah, darafyada xunduurtii dhego-la'u.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "waxaadna dhigi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada silsiladood"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "silsiladood"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "lanqah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(dhaafe)"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "darafyada"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xunduurtii dhego-la'u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:57.995981879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Labaan wuxuu ka dambeeyay ⟨את⟩ Yacquub; Yacquubna wuxuu taalay ⟨את⟩ teendhadiisa buurta, Labaanna wuxuu taalay ⟨את⟩ walaalihiis buurta Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "wuxuu ka dambeeyay"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yacquub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yacquubna"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "wuxuu taalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teendhadiisa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "teendhadiisa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Labaanna"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "wuxuu taalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:08.395204258Z",
+  "model": "glm-5.3"
+}

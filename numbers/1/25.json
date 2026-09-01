@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Lakiriskoodii qabiilka Gad waxay ahaayeen shan iyo afartan kun iyo lix boqol iyo konton.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "lakiriskoodii"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo konton"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:16.419133018Z",
+  "model": "glm-5.3"
+}

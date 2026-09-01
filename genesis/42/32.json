@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Toban-iyo-laban walaal nahay, wiilal uu dhalay aabbahay; midkenna ma jiro, kan yarna maanta wuxuu la jiraa ⟨את⟩ aabbahay dhulka Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "toban-iyo-laban (labo)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "walaal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midka"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "kan yarna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbahay"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:13.770311321Z",
+  "model": "glm-5.3"
+}

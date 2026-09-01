@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Dadkiina wuxuu baxay, waxayna dhacaan ⟨את⟩ kampii Aram; saac udubo ahna waxay noqotay qiimo shekel, laba saac oo gadhudh ahna shekel, sida ereyga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkiina"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "waxayna dhacaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampii Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "saac"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "udubo ah"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "qiimo shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "laba saac"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "oo gadhudh ahna"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:10.350171495Z",
+  "model": "glm-5.3"
+}

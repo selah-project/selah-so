@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Markii uu Shaa'uul arkay ⟨את⟩ kampiga Filistiintii, wuu cabsaday, oo wadnahiisuna aad buu u gariiray.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Markii uu arkay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampiga Filistiintii"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampiga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuu cabsaday"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "uu u gariiray"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "wadnahiisu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:50.976657477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Madaxa muusigga; mizmoor laga qoray Dawuud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madaxa muusigga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "laga qoray Dawuud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:31.480109431Z",
+  "model": "glm-5.3"
+}

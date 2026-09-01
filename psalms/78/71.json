@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Gadaal labdhaha nuujisa wuu ka keenay, inuu dhaqo Ya'aqob qoomkiis iyo Israa'iil dhaxalkiis.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "labdhaha nuujisa"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wuu keenay"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "inuu dhaqo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoomkiis"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "iyo Israa'iil"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaxalkiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:05.081966710Z",
+  "model": "glm-5.3"
+}

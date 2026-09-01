@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "iyo Yehud, iyo Bene-berak, iyo Gath-Rimon.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "iyo Yehud"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iyo wiilasha"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak (Bene-berak)"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "iyo Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon (Gath-Rimon)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:37.380208306Z",
+  "model": "glm-5.3"
+}

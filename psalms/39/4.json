@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Wadnaydu wuu gubay gudahay; markaan miirayo naartii way shidmay, carrabkaygii ayaan ku hadlay.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "wuu gubay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnaydu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "gudahay"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "markaan miirayo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "way shidmay"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naartii"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ayaan ku hadlay"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "carrabkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.044838015Z",
+  "model": "glm-5.3"
+}

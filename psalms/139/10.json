@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Xataa halkaas gacantaadu i hanuuninaysaa, iyo midigtaadu i qabataysaa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Xataa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaadu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "i hanuuninaysaa"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "i qabataysaa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:35.835058859Z",
+  "model": "glm-5.3"
+}

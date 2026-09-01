@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Makhaziinnadeennu waa buuxaan, waxay soo saaraan nooc ilaa ⟨nooc⟩; adhigennu waxay dhashaa kuno, toban-kun wadaoyinkayagii.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "makhaziinnadeennu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "buuxaan"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "soo saarayaan"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "nooc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "זן",
+      "gloss": "⟨nooc⟩"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "adhigennu"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "kun-kun dhasha"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "toban-kun"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "wadaoyinkayagii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:24.125868599Z",
+  "model": "glm-5.3"
+}

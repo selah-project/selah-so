@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo kuwan waa tolledooto Terax: Terax wuxuu dhalay ⟨את⟩ Abrham, ⟨את⟩ Naxor iyo ⟨את⟩ Haarana, Haaranana wuxuu dhalay ⟨את⟩ Luut.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Oo kuwan"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "waa tolledooto"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Haarana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haarana"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Haaranana"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luut"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luut"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:32.688476Z",
+  "model": "glm-5.3"
+}

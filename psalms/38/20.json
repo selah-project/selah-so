@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Laakiin cadowdaydu waa nool yihiin oo aad u adag, kuwa i neceba si been ah baa badan.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "laakiin cadowdaydu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool yihiin"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "aad u adag"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bay badan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kuwa i neceba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "si been ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.237224231Z",
+  "model": "glm-5.3"
+}

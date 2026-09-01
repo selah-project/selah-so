@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxaa loo warramay Daawud ⟨את⟩ waxa Ritspah gabadha Aiyah, surkiinta Shaa'uul, ay sameesay.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxaa loo warramay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa ay sameesay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ay sameesay"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aiyah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "surkiinta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T03:06:00.765994364Z",
+  "model": "glm-5.3"
+}

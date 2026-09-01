@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Tiirarkiisuna waa fidiin, gogosheedu waa dahab, fadhigiisuna waa argamaan, dhexdiisana jacayl baa lagu qurxiyay ⟨gacmaha⟩ gabdhaha Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "tiirarkiisuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fidiin"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "gogosheedu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "fadhigiisuna"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "argamaan"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "dhexdiisana"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "baa lagu qurxiyay (la tessellate)"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "jacayl"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:40.428561646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxaana maqlay ⟨את⟩ codka erayadiisa, oo markaan maqlay ⟨את⟩ codka erayadiisa, aniguna waan seexday si liidata wajiyayga awgood, wajigyaduna dhulka ahaa.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "waxaana maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "erayadiisa"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "markaan maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "erayadiisa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waan ahaa"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "seexday si liidata"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiyayga"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "wajigyaduna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:51.606106503Z",
+  "model": "glm-5.3"
+}

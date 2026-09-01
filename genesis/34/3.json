@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ruuxiisuna waxay ku dhuftay Dina gabadha Yaaqob, wuuna jeclaaa ⟨את⟩ gabadha dhalinyarada ah, wuuna gabadha dhalinyarada ah uga hadlay qalbiga.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "waxay ku dhuftay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruuxiisuna"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "wuuna jeclaaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadha dhalinyarada ah"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gabadha dhalinyarada ah"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuu uga hadlay"
+    },
+    {
+      "surface": "על",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gabadha dhalinyarada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:37.616149072Z",
+  "model": "glm-5.3"
+}

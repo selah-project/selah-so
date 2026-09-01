@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Azarjahna wuxuu dhalay ⟨את⟩ Amarjah, Amarjahna wuxuu dhalay ⟨את⟩ Axitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amarjahna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axitub"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:02.661579159Z",
+  "model": "glm-5.3"
+}

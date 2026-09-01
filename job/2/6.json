@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahwehna wuxuu ku yidhi hasatan: bal waa gacantaada ku jira; laakiin ⟨את⟩ naftiisa ilaali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "bal waa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada ku jira"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftiisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "naftiisa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaali"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:26.323355434Z",
+  "model": "glm-5.3"
+}

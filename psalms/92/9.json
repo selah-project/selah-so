@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Laakiin adigu, Yahweh, ⟨wad⟩ tahay sarreeye weligaa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adigu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sarreeye"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.179554542Z",
+  "model": "glm-5.3"
+}

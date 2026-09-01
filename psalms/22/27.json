@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Dullaystu waxay cunaan, waayana hernimad; kuwa doondoola Yahweh waxay ammaanaan; qalbigiinu ha noolaado weligiin.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "waxay cunaan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dullaystu"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "waayana hernimad"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "waxay ammaanaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "kuwa doondoola"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ha noolaado"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbigiinu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:27.649765295Z",
+  "model": "glm-5.3"
+}

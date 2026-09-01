@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Naga faraxsiisii maalmihii aad naga dhibaysay, iyo sanamyadiii aan arkagnay shar.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Naga faraxsiisii"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "maalmihii kale oo"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "aad naga dhibaysay"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iyo sanamyadii"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "aan arkagnay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:47.867185641Z",
+  "model": "glm-5.3"
+}

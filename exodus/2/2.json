@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Haweenaydii way uuraysay, wayna dhashay wiil; markay aragtay ⟨את⟩ inuu wanaagsan yahay, waxay qarsisay saddex bilood.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "way uuraysay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "haweenaydii"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wayna dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "markay aragtay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wiilka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uu"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "waxay qarsisay"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "bilood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:52.172741527Z",
+  "model": "glm-5.3"
+}

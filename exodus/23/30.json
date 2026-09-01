@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yar yar baan ka saarayaa waajahan hortaada, ilaa aad abuur-tarto, oo dhulka dhisto.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "baan ka saarayaa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "waajahan hortaada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "abuur-tarto"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "oo dhulka dhisto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:00.831250931Z",
+  "model": "glm-5.3"
+}

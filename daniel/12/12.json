@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wanaag iyo barakaysan yahay kan sugaya oo gaadha kun saddex boqol sodon iyo shan maalmood.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wanaag iyo barakaysan yahay"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "kan sugaya"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "oo gaadha"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "iyo shan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:11:05.372239216Z",
+  "model": "glm-5.3"
+}

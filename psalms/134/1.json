@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 134,
+  "translation": "Heesaha Maqaalaha. Bal eega, barakeeya ⟨את⟩ Yahweh, addoonada Yahweh oo dhan, kuwa taagan guriga Yahweh habeenkii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Maqaalaha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barakeeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kuwa taagan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "habeenkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:43.637329194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Eliyaahuuna jawaabay, wuxuuna ku hadlay: Haddii aan nahay nin ⟨ha⟩ Elohim, dab ha ka soo deggo samada, oo ha cunto ⟨את⟩ adiga iyo ⟨את⟩ kontankaaga; dabka Elohimna wuu ka soo degay samada, wuxuuna cunay ⟨את⟩ isaga iyo ⟨את⟩ kontankiisii.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuuna jawaabay"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuuna ku hadlay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ha ka soo deggo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "oo ha cunto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kontankaaga"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "kontankaaga"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "wuu ka soo degay"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wuxuuna cunay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kontankiisii"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "kontankiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:39.270412868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtigii dhalasho, iyo waqtigii geeri; waqtigii beerid, iyo waqtigii la jiido mid la beeray.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "dhalasho"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "למות",
+      "gloss": "geeri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "beerid"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "la jiido"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "mid la beeray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:26.407754843Z",
+  "model": "glm-5.3"
+}

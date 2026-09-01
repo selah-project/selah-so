@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Wuxuu u ogeysiiyaa jidadkiisa Muuse, wiiladii Yisraa'iilna falimihiisa.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Wuxuu u ogeysiiyaa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jidadkiisa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiiladii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "falimihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:03.870025569Z",
+  "model": "glm-5.3"
+}

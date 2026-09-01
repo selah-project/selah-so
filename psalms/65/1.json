@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Hogaamiyaha ⟨lamuusiga⟩, masmoor Daawud, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hogaamiyaha ⟨lamuusiga⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "masmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:44.509398606Z",
+  "model": "glm-5.3"
+}

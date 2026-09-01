@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waalan baan ahay ooyahayga dartii, cunuggaygii wuu engejiyay, indhahaygii way dhammaadeen, anigoo sugaya Elohimay.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Waalan baan ahay"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ooyahayga dartii"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "wuu engejiyay"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "cunuggaygii"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "way dhammaadeen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygii"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "anigoo sugaya"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:56.706324566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Daawuudna wuu qabtay dharriisii, wuu dhuftay, sidoo kale ragii ⟨את⟩ la jiray oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuu qabtay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "dharriisii"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la",
+      "marks": "ragii la jiray"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:28.788772649Z",
+  "model": "glm-5.3"
+}

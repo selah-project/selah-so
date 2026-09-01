@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Lab iyo dheddig ayuu abuuray, wuxuuna barakeeyay ⟨את⟩ iyaga, wuxuuna ku magacaabay ⟨את⟩ magacooda Aadan, maalintii laga abuuray.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lab"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "iyo dheddig"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "abuuray"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuuna barakeeyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna ku magacaabay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacooda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "magacooda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "laga abuuray"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:15.600223522Z",
+  "model": "glm-5.3"
+}

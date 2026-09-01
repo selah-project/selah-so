@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahweh na wuxuu ii odhan: Ha odhan, Wiil yar baan ahay, waayo, meel kasta oo aan ku diray adigaa tegeyso, oo ⟨את⟩ wax kasta oo aan ku amro adigaa sheegaysa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu na odhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha odhan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wiil yar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan ahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "meel kasta oo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "aan ku diray"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "adigaa tegeyso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta oo aan ku amro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "aan ku amro"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "adigaa sheegaysa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:00.424184927Z",
+  "model": "glm-5.3"
+}

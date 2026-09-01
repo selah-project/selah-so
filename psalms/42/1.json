@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Madaxa-reebaha (laamaha) u: si-hagaris (maanso baraysa), ee wiilasha Qoraach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madaxa-reebaha (laamaha) u"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "si-hagaris (maanso baraysa)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ee wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraach"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:28.707255898Z",
+  "model": "glm-5.3"
+}

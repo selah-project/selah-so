@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Gudcurkuna xataa adiga kama qarso, habeenkuse sida maalinta wuu iftiinmaanayaa; gudcurku sida iftinka ⟨waa u eg yahay⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gudcurkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "ka qarso"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "habeenkuse"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sida maalinta"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "wuu iftiinmaanayaa"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "gudcurku sida"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "iftinka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:05.619268512Z",
+  "model": "glm-5.3"
+}

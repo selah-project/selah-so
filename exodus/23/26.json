@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Dhulkiina lagama soo daalin doono mid ilmo-dhaca iyo mid maandhow ah; ⟨את⟩ tirada maalmahiinna waan dhammaystiri doonaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jiri doonto"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "mid ilmo-dhaca"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "iyo mid maandhow ah"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dhulkiina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirada maalmahiinna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tirada"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "maalmahiinna"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "waan dhammaystiri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:34.908255432Z",
+  "model": "glm-5.3"
+}

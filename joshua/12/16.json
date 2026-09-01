@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Boqorkii Makedah, mid; boqorkii Beyt-El, mid;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:18.364572131Z",
+  "model": "glm-5.3"
+}

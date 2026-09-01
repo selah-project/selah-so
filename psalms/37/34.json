@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Sug Yahweh, oo ilaali waddadiisa, wuuna kaa sarreeyin doonaa inaad dhulka dhaxasho; marka sharku la gooyo, waad arkaysaa.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Sug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweh (u)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "oo ilaali"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "waddadiisa"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "wuuna kaa sarreeyin doonaa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "inaad dhaxasho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "marka la gooyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "waad arkaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:01.534521247Z",
+  "model": "glm-5.3"
+}

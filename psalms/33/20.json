@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Nafahayagu waxay sugaysay Yahweh; gacan-geenadayadii iyo gaashaandhigkeeno waa Isaga.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nafahayagu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "waxay sugaysay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "gacan-geenadayadii (caawiyadeenna)"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "gaashaandhigkeeno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:05.070981397Z",
+  "model": "glm-5.3"
+}

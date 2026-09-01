@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Xaqnimadaada i badbaadiyoo i gargaar; dhegtaada i jiib oo i badbaadi.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Xaqnimadaada"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "i badbaadiyoo"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "i gargaar"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "i jiib"
+    },
+    {
+      "surface": "אלי",
+      "gloss": ""
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegtaada"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "i badbaadi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:04.413420194Z",
+  "model": "glm-5.3"
+}

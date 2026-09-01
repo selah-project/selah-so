@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Iyo nin au sameeyo sinanta ⟨את⟩ naag nin ah, ama uu sameeyo sinanta ⟨את⟩ naagta deriskiisa, sinanlahaa iyo sinanladiiba waa la dilaa si loo dilo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Iyo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "au"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "sameeyo sinanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naag nin ah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ama uu"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "sameeyo sinanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagta deriskiisa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "deriskiisa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "waa la dilaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "si loo dilo"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "sinanlahaa"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "iyo sinanladiiba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:06.156140590Z",
+  "model": "glm-5.3"
+}

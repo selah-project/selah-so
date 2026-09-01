@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Aniga, aniga igah ah ⟨kan⟩ idin qosla; adiga yaa tahay inaad cabsato nin dhimanaya, iyo inanka aadamaha oo caws loo sameeyaa?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "igah ah"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "idin qosla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa tahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga",
+      "marks": "aad cabsato"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "aad cabsato"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dhimanaya"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "iyo inanka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamaha"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "caws"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "loo sameeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:17:36.634249589Z",
+  "model": "glm-5.3"
+}

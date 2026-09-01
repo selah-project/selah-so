@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo ilaaliya ⟨את⟩ ilaalintayda, si aadan u samayn wax ka mid ah xuquuyada nacasaha ah ee la sameeyay hortii, oo aadan ku wasakhayn naftiinna kuwaas; anigu waxaan ahay Yahweh Elohiin.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "oo ilaaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalintayda"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ilaalintayda"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "wax ka mid ah xuquuyada"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "nacasaha ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "la sameeyay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ku wasakhayn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:03.285002186Z",
+  "model": "glm-5.3"
+}

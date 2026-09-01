@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Sidaas darteed, bal eeg: waan xannibayaa ⟨את⟩ jidkaaga kelli, waan dhisaa ⟨את⟩ derbideed, jidadkeedana ma heli doonto.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal eeg (waxaan ahay)"
+    },
+    {
+      "surface": "שך",
+      "gloss": "waan xannibayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidkaaga"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jidkaaga"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "waan dhisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derbideed"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "derbi (derbideed)"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "jidadkeedana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "heli doonto"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:39.490687488Z",
+  "model": "glm-5.3"
+}

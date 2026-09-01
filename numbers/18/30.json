@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxaadna ku odhan doontaa: Markaad ka kicisaan ⟨את⟩ codkii ka midkiisa, waxaa loo tirin doonaa Laawiyiinta sida waxa beerta-diidanka soo saarto iyo sida waxa dhalo-wiishka soo saarto.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "waxaadna ku odhan doontaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "markaad ka kicisaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkii"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "codkii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka midkiisa"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "waxaa loo tirin doonaa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Laawiyiinta"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "sida waxa soo saarto"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "beerta-diidanka"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "iyo sida waxa soo saarto"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "dhalo-wiishka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:55.477828342Z",
+  "model": "glm-5.3"
+}

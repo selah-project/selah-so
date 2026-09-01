@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Jaakobna wuxuu degay dhulka soo-galidda aabbihiis — dhulka Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu degay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "soo-galidda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:14.237130180Z",
+  "model": "glm-5.3"
+}

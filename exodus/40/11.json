@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxaad siddeysaa shidaalka iyo lafdhabarta kiisa, waxaadna u quduusiyeysaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "waxaad siddeysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shidaalka"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "shidaalka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lafdhabarta kiisa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "lafdhabarta kiisa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "waxaadna u quduusiyeysaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kiisa (shidaalka)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:05.944924468Z",
+  "model": "glm-5.3"
+}

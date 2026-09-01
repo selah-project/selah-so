@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Fahamada haddaan, idinkow illowshay Eloah, haddaa kale waan idin goyn doonaa, oo aan cidina idin badbaadin doonaa.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "fahamada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "idinkow illowshay"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "haddaa kale"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "waan idin goyn doonaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan cidina"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "idin badbaadin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:23.846257609Z",
+  "model": "glm-5.3"
+}

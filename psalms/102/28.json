@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Laakiin adiga ⟨adiga⟩ baa tahay, oo sanadkaaga weligood ma dhammaadayso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Laakiin adiga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨adiga⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "oo sanadkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "weligiis ma"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "dhammaadayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:36.291732728Z",
+  "model": "glm-5.3"
+}

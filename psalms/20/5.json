@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ha ku siiyo sida wadnadaadu tahay, oo ha dhammaystiro taladaadu oo dhan.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Ha ku siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "sida wadnadaadu tahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "taladaadu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ha dhammaystiro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:23.013206692Z",
+  "model": "glm-5.3"
+}

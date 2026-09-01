@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Boqorkii Mitsrayimna wuxuu ku yidhi: Maxaad u furfuranaysaan ⟨את⟩ dadka shuqulkooda? Aada culayskiinna (shaqadiinnii).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Boqorkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad u"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Axaron"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "furfuranaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "shuqulkooda"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Aada"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "culayskiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:28.678546614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Adigu waad cuni doontaa laakiin ma dhererin doontaa, oo hanqaraaradaadu waa dhexdaaga joogta; waad dhaqaaqaysaa laakiin ma badbaadin kartaa, waxaad badbaadinna seyshka baan siyaa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "waad cuni doontaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "dhererin doontaa"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "hanqaraaradaadu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "waa dhexdaaga joogta"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "waad dhaqaaqaysaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "badbaadin kartaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waxaad"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "badbaadinna"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "seyshka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "baan siyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:59.971001144Z",
+  "model": "glm-5.3"
+}

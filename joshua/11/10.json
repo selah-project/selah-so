@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waqtigaas Yehooshuuca wuu ku noqday, wuxuuna qabsaday ⟨את⟩ Xatsor, ⟨את⟩ boqorkiisana wuu kulay dhuftay seef; waayo Xatsoorey hore wuxuu ahaa madaxa boqortooyadihii aas oo dhan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuu ku noqday"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "aas"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wuxuuna qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boqorkiisa"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "boqorkiisa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wuu kulay dhuftay"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "wakhtigii hore"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "boqortooyadihii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aas"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:12.034130045Z",
+  "model": "glm-5.3"
+}

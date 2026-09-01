@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waddadkoodu ha ahaato mugdi iyo (dulcad), oo malakigii Yahweh ha ku raacdo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ha ahaato"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "Waddadkoodu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "iyo (dulcad)"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "oo malakigii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ha ku raacdo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:19.987709350Z",
+  "model": "glm-5.3"
+}

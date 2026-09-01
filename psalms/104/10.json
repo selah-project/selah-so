@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Kan sii daaya ilo biyo waaweyn waadiiyada gudahood; buuraha dhexdood bay ku socdaan.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Kan sii daaya"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ilo biyo waaweyn"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "waadiiyada gudahood"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdood"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bay ku socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:02.615067305Z",
+  "model": "glm-5.3"
+}

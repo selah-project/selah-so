@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Waa inuu taagto (Yahweh) gacanta midigta ee miskiinka inuu ka badbaadinyo xukumayaasha noloshiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa inuu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "taagto"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "gacanta midigta"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "miskiinka"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "inuu ka badbaadinyo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukumayaasha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "noloshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:51.014994904Z",
+  "model": "glm-5.3"
+}

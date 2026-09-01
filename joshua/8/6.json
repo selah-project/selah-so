@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxayna nagu soo baxaan soo dhan, intaanu ka goyno ⟨את⟩ iyaga ⟨את⟩ magaalada, waayo, waxay odhanayaan, Waa carar hortooda sida markii hore, oo waannu cararaaynaa hortooda.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Waxayna soo baxaan"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "nagu soo dhan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inta"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "aanu ka goyno"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga magaalada ka mid ah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waxay odhanayaan"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "Waa carar"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "markii hore"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "waannu cararaaynaa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "hortooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:40.979849409Z",
+  "model": "glm-5.3"
+}

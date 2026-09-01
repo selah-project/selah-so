@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Iyo ciidankiisii iyo tiradii la tirsaday: afartan iyo toban kun iyo afar boqol.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ciidankiisii"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "tiradii la tirsaday"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo toban-kun (afartan iyo toban)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:42.354264338Z",
+  "model": "glm-5.3"
+}

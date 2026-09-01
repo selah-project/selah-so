@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kuwa sariiro ilig ah ku seexanaya, oo sariiroodii ku dhammaan qoorna, waxay cunaan wan daraadda iyo moosayaal dhexda maqaarka!",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "kuwa ku seexanaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "sariiro"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilig ah"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "ku dhammaan qoorna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "sariiroodii"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "waxay cunaan"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "daraadda"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "iyo moosayaal"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "maqaarka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:56.559617258Z",
+  "model": "glm-5.3"
+}

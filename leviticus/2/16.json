@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo wadaanku wuxuu gubi doonaa ⟨את⟩ xuskeeda — geresheeda iyo saliidadeeda — oo lubaanteeda dhan; waa qurbaan dab Yahweh loo gudoonsiiyo.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "wuxuu gubi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xuskeeda"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "xuskeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "geresheeda"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "iyo saliidadeeda"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "lubaanteeda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qurbaan dab"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:06.995008148Z",
+  "model": "glm-5.3"
+}

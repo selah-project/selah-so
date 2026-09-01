@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaad quduusiisaa ⟨את⟩ iyaga, oo waxay noqon doonaan quduus quduusaha; cid kastoo taabata ⟨waxay⟩ quduusi doontaa.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "waxaad quduusiisaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduusaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cid kastoo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taabata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "(iyaga)"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "quduusi doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:05.948801552Z",
+  "model": "glm-5.3"
+}

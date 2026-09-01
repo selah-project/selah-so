@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Iyo xoolahaaga iyo duuryo-beeraha dhulkaaga ku nool — waxa dhulku soo saaraba oo dhan waxaa la cuni doonaa.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "iyo xoolahaaga"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "iyo duuryo-beeraha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku nool"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxaa noqon doontaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "waxa dhulku soo saaraba"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "la cuni doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:45.067899159Z",
+  "model": "glm-5.3"
+}

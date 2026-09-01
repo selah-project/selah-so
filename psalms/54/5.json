@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Waayo, shisheeyayaal ii kaceen, xoog-falayaalna bay nafdayda doondoonayaan; Elohim uma dhigin iyaga hortooda. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "shisheeyayaal"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ii kaceen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "(iigo)"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "xoog-falayaalna"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "doondoonayaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dhigin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "iyaga hortooda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:03.475658314Z",
+  "model": "glm-5.3"
+}

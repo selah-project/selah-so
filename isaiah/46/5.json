@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Yaa ayaad ila eegyeesaysaan, ila simaysaan, ila barbardhuraysaan, inaan ⟨isna⟩ isla mid noqanno?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ila eegyeesaysaan"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "ila simaysaan"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "ila barbardhuraysaan"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "isla mid noqanno"
+    }
+  ],
+  "timestamp": "2026-09-01T03:53:40.443032508Z",
+  "model": "glm-5.3"
+}

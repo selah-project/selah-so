@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waan aamusan oo ayaan-daa'; waan naceystay xataa ka wanaagsan, oo xanuunkaygii waa dhaqaaqay.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "waan aamusan"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "oo ayaan-daa'"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "waan naceystay"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "xataa ka wanaagsan"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "oo xanuunkaygii"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "waa dhaqaaqay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.038561543Z",
+  "model": "glm-5.3"
+}

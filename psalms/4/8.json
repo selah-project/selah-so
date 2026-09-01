@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaad dhigtay farax wadnaydii, ka waqti ay gheelkoodu iyo khamrigoodu ⟨ay⟩ badnaayeen.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Waxaad dhigtay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farax"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "wadnaydii"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ka waqti"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gheelkoodu"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "iyo khamrigoodu"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "badnaayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:36.892485508Z",
+  "model": "glm-5.3"
+}

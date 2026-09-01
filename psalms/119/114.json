@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Adiga baa ila ah hoyga iyo gaashaanka; ereygaaga waan sugayaa.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "hoyga (qarsoodka) iigu ah"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "oo gaashaankayga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ereygaaga"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "waan sugayaa (raaxi beyd)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:52.516511788Z",
+  "model": "glm-5.3"
+}

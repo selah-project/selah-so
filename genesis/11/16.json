@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Eber wuxuu noolaa afar iyo sodon sano, oo wuxuu dhalay ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo sodon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:31.501593307Z",
+  "model": "glm-5.3"
+}

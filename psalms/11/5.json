@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yahweh wuxuu imtixaamiyaa ⟨⟨kan⟩⟩ suubanna, oo xaq-darrada iyo kan jecel dulliga, nafiisa way ka neceb tahay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan suuban"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "wuxuu imtixaamiyaa"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "oo xaq-darrada"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "iyo kan jecel"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dulliga"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "way ka neceb tahay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:38.811278183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Naaridda quustaha ah saar, markaasay khilaafku baxaysaa, iyo waxa isku xigxiga ah iyo ceebtuba way joojbi doontaan.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "saar"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "quustaha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "way baxaysaa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "khilaafku"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "way joojbi doontaan"
+    },
+    {
+      "surface": "דין",
+      "gloss": "waxa isku xigxiga ah"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ceebtu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:36.406408390Z",
+  "model": "glm-5.3"
+}

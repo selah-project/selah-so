@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxna bara ⟨את⟩ iyaga ⟨את⟩ wiilashiinna inaad ka hadashaan markaad fadigid gurigaaga, markaad socod jidka, markaad seexato iyo markaad kacdo.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "waxna bara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiinna"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wiilashiinna"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inaad ka hadashaan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "markaad fadigid"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "markaad socod"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "markaad seexato"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "markaad kacdo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:15.096588895Z",
+  "model": "glm-5.3"
+}

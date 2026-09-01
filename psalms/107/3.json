@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Oo wuxuu dhulalka ka soo kulmiyey, bari iyo galbeed, waqooyi iyo badda.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "oo dhulalka ka"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "wuxuu soo kulmiyey"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bari"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "iyo galbeed"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "iyo badda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:00.774197923Z",
+  "model": "glm-5.3"
+}

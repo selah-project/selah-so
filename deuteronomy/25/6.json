@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxaana noqon doontaa in wiilka ugu horreeya ay dhashay magaca walaalkiis dhintay uu taagi doono, magaciisuna Israaiil laga tirtirin doono.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Waxaana noqon doontaa"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "wiilka ugu horreeya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ay dhashay"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "uu taagi doono"
+    },
+    {
+      "surface": "על",
+      "gloss": "salaamaha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "המת",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "la tirtirin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisuna"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israaiil laga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:37.479184629Z",
+  "model": "glm-5.3"
+}

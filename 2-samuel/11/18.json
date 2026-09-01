@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yoo'aabna wuu soo diray, wuxuuna u sheegay Daawud ⟨את⟩ dhamaan arrimaha dagaalka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuu soo diray"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuu u sheegay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan arrimaha dagaalka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "arrimaha"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:40.338006431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Ha noqdo shaahidaydu mid la aqbalo ⟨dushii⟩; annigoo ah, waan ku farxayaa Yahweh.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "ha noqdo mid la aqbalo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨dushii⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "shaahidayda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "annigoo ah"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "waan ku farxayaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.999078481Z",
+  "model": "glm-5.3"
+}

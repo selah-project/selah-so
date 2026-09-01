@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waa amarku amarka, amarku amarka; xariijadu xariijada, xariijadu xariijada; wax yar halkan, wax yar halkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amarku"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amarku"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xariijadu"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "xariijada"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xariijadu"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "xariijada"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:23.719495941Z",
+  "model": "glm-5.3"
+}

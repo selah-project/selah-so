@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Oo ku celi deriskeenna, toddoba-laab, jeenadooda gudaheed, dulligooda waxay ku dulliyay Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "ku celi"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "deriskeenna"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "toddoba-laab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "jeenadooda gudaheed"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "dulligooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ku dulliyay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:35.819053067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha u jeeddina sanamyada, oo ilaahyinka shuban ha ku sameysina naftiinna; ani Yahweh Elohimkiin baan ahay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "u jeeddina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (ladh)"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "oo ilaahyinka"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "shuban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysina"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:21.177850863Z",
+  "model": "glm-5.3"
+}

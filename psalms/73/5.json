@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Dhibaatada bani-aadamka kuma jiraan, oo la midka aadanaha lama taabtaan.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bani-aadamka"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "kuma jiraan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo la midka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "taabtaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:00.712592794Z",
+  "model": "glm-5.3"
+}

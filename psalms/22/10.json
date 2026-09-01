@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waayo, adigu uurkii ayaad ila soo saartay; naasyada hooyaday ayaad i adkeysiisay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "waxaad ila soo saartay"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uurkii"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "aad i adkeysiisay (kalsooni siisay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "naasyada"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:47.743188287Z",
+  "model": "glm-5.3"
+}

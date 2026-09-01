@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Erayga Yahweh oo gacanta Khagay nebiga ku timid ayaa odhanaya:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Khagay"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebiga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "odhanaya"
+    }
+  ],
+  "timestamp": "2026-09-01T07:28:32.758422370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Moowaab waa dhegaha maydhayga; Edom waxaan ku tuuray kabahayga; Filistiin waxaan ku qayliyaa (oo aan ku guuleysto).",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moowaab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "dhegaha"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "maydhayga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "waxaan ku tuuray"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kabahayga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiin"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "waxaan ku qayliyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:19.264330992Z",
+  "model": "glm-5.3"
+}

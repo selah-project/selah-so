@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 150,
+  "translation": "Wuxuu ammaan ee ha ammaaniho shafka (shofar) dhaawaaqa; wuxuu ammaan ee ha ammaaniho kanbaraha iyo kinnuusha.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ha ammaaniho"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "dhaawaaqa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shafka (shofar)"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ha ammaaniho"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "kanbaraha"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "iyo kinnuusha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:40.016150346Z",
+  "model": "glm-5.3"
+}

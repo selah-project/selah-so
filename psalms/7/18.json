@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waan mahadnaqayaa Yahweh sidii saxdaansigiisa ah, waxaana aan gabay ku ammaanayaa magaca Yahweh El Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "waan mahadnaqayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "sidii saxdaansigiisa ah"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "waxaana aan gabay ku ammaanayaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:17.633813912Z",
+  "model": "glm-5.3"
+}

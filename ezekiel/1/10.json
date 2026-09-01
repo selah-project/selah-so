@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Muqaalka wajiyadooduna ⟨waa⟩ wajiga nin, iyo wajiga libaax oo midigta u ah afartoodu, iyo wajiga dibi oo bidixda ah afartoodu, iyo wajiga gorgor oo afartoodu ah.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "muqaalka"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wajiyadooduna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "iyo wajiga"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "libaax"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "midigta"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "afartoodu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "iyo wajiga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "bidixda"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "afartoodu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "iyo wajiga"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "gorgor"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "afartoodu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:23:32.428355621Z",
+  "model": "glm-5.3"
+}

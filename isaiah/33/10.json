@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "«Imminka waan kacayaa», waxay dhahday Yahweh; «imminka waan sarayaa, imminka waan iska qaadayaa.»",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "imminka"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "kacayaa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "waxay dhahday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "imminka"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "sarayaa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "imminka"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "iska qaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:35.638677996Z",
+  "model": "glm-5.3"
+}

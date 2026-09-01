@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waan u qorayaa tobanaan kumeel oo ah sharcigayga, laakiin waxay loo tixgeliyeen sida wax shisheeye ah.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "waan u qorayaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tobanaan kumeel"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sharcigayga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wax shisheeye ah"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "waxay loo tixgeliyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:27.551654636Z",
+  "model": "glm-5.3"
+}

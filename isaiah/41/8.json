@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Adiguna, Israa'iil, adigu waa addoonkaygii; Yacquub, kan aan doortay, farcanka Ibraahiim, kaan aan jeclahay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonkaygii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan (aan)"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "aan ku doortay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farcanka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "kaan aan jeclahay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:45.727106391Z",
+  "model": "glm-5.3"
+}

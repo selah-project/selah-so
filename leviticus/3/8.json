@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna saari doonaa ⟨את⟩ gacantiisa madaxa allabariisa, wuuna gowraci doonaa ⟨את⟩ hortii khaymada kulanka, wiilasha Axaroona waxayna daadi doonaan ⟨את⟩ dhiigiisa miiska allabariga wareeg gaar ah.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "wuxuuna saari doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantiisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "allabariisa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wuuna gowraci doonaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(ibaxa) hortii khaymada kulanka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "waxayna daadi doonaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaroona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigiisa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiigiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miiska allabariga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareeg gaar ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:19.919557323Z",
+  "model": "glm-5.3"
+}

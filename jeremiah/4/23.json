@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaan arkay ⟨את⟩ dhulka, oo bal eeg — tohu wa-bohu (meel madhan oo waxba la'aan); waxaan eegay ⟨את⟩ samadana, oo iftiinkeed ma jiro.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "wa-bohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "waxaan eegay"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samadana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "iftiinkeed"
+    }
+  ],
+  "timestamp": "2026-09-01T04:02:58.258056066Z",
+  "model": "glm-5.3"
+}

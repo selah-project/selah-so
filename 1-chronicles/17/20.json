@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Yahweh, ⟨waligii⟩ ma jiro mid la mid ah adiga, Elohim kalena ma jiro aan adiga ahayn, wax kasta oo aan maqalnay dhegtayaashayada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mid la mid ah adiga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kalena ma jiro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "aan adiga ahayn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "aan maqalnay"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "dhegtayaashayada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:55.591196720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Qalbigoodu wuxuu noqday barar (caqli-darrada) sida subagga; anigu Sharcigaaga ayaan ku farxayaa.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "wuxuu noqday barar (caqli-darrada)"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sida subagga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbigoodu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ayaan ku farxayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.858501041Z",
+  "model": "glm-5.3"
+}

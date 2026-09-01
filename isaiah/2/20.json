@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Maalintaas bini-aadamku wuu tuuri doonaa ⟨את⟩ sanamyada littaankiisa iyo ⟨את⟩ sanamyada dahabkiisa, oo ay u sameeyeen inay u sujuudaan, iyagoo u tuuraya digaaga iyo haba-roonaadka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "wuu tuuri doonaa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bini-aadamku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamyada littaankiisa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "littaankiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sanamyada dahabkiisa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "dahabkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ay sameeyeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "inay u sujuudaan"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "digaaga"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "iyagoo u tuuraya"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "iyo haba-roonaadka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:07.309841158Z",
+  "model": "glm-5.3"
+}

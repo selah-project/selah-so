@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Addoonkayga Ya'aqob dartii, iyo Israa'iil doortaygii, waan kuu magacaabay magacaaga, waan ku naanaysay, laakiin aadan iiga aqoon.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Addoonkayga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "iyo Israa'iil"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "doortaygii"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "waan kuu magacaabay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "waan ku naanaysay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin aadan"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "iiga aqoon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:08.638416902Z",
+  "model": "glm-5.3"
+}

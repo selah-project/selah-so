@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yehooshuucona waqooyigii buu kacay, wuxuuna soo dhoweeyay ⟨את⟩ Israa'iil qabiiloodiisa dartood, waxaana la qabsaday qabiilkii Yahuudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "waqooyigii buu kacay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuuna soo dhoweeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "qabiiloodiisa dartood"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "waxaana la qabsaday"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:21:09.843238826Z",
+  "model": "glm-5.3"
+}

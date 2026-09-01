@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 93,
+  "translation": "Carshigaa waa la sugay illaa iyo hadda, laga bilaabo waqtiyadiii hore, adiga waxaad ka jirtaa weliga.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "waa la sugay"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "carshigaa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "illaa iyo hadda"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "laga bilaabo waqtiyadii hore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:09.068360681Z",
+  "model": "glm-5.3"
+}

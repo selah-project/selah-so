@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 1:7",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dhammaan sanamyadeeda la qoray waa la jabin doonaa, dhammaan qadarkedeeda waxaa la gubi doonaa daarulka, dhammaan sanamyadeeda kale waxaan dhigi doonaa inay noqoto meel bannaan (burbur); maxeey, qadarkii dumaar ayay ka urursatay, ilaa qadarkii dumaar bay ku noqon doonaan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פסיליה",
+      "gloss": "sanamyadeeda la qoray"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "waa la jabin doonaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אתנניה",
+      "gloss": "qadarkedeeda"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "waxaa la gubi doonaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "daarulka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עצביה",
+      "gloss": "sanamyadeeda kale"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "waxaan dhigi doonaa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "meel bannaan (burbur)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxeey"
+    },
+    {
+      "surface": "מאתנן",
+      "gloss": "qadarkii"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "dumaar"
+    },
+    {
+      "surface": "קבצה",
+      "gloss": "ay ka urursatay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "qadarkii"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "dumaar"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bay ku noqon doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:20.146549987Z",
+  "model": "glm-5.3"
+}

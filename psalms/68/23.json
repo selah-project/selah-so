@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Adonay ayaa yidhi: Bashan waan ka soo celin doonaa, waan soo celin doonaa qoto-dheeraha badda.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ayaa yidhi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bashan ka"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "waan soo celin doonaa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "waan soo celin doonaa"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "qoto-dheeraha ka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:12.478669271Z",
+  "model": "glm-5.3"
+}

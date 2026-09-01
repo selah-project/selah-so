@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Maaddaama sarraysuuqda samadu ay ka saraysay dhulka, sidaas ayuu khesedkiisu u adkaaday kuwa ka cabsada",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maaddaama"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sarraysuuqda"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samadu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka saraysay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "u adkaaday"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    },
+    {
+      "surface": "על",
+      "gloss": "u (sare u saaray)"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuwa ka cabsada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:21.294648576Z",
+  "model": "glm-5.3"
+}

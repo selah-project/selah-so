@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Iyo nin uu seexo ⟨את⟩ sniintii wiilkiis (caruurtiisa), labadooduba waa la dilaa si loo dilo; waxay sameeyeen tebel (wax isdho xun); dhiigooduba waxay saaran yihiin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Iyo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "seexo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sniintii wiilkiis"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sniintii wiilkiis (caruurtiisa)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "waa la dilaa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "si loo dilo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadooduba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel (wax isdho xun)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "dhiigooduba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "saaran yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:06.156492127Z",
+  "model": "glm-5.3"
+}

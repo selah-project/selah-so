@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Waxay ii wareejiyeen xargaha dhimashada, iyo cufnaanta Sheool way i helaayeen; dhib iyo murugo baan arkay.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "waxay ii wareejiyeen"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "xargaha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "iyo cufnaanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "way i helaayeen"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "iyo murugo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "baan arkay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.923627200Z",
+  "model": "glm-5.3"
+}

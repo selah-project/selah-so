@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Sharafta weyn ee kaboodkaaga iyo ereyada waxyaabahaaga la yaab leh waan ka fekerayaa (waan ka hadlayaa).",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "sharafta weyn"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaboodkaaga"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "muuqda weyn ee oolaaddaaga"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "iyo ereyada"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "waxyaabahaaga la yaab leh"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "waan ka fekerayaa (waan ka hadlayaa)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:21.019015802Z",
+  "model": "glm-5.3"
+}

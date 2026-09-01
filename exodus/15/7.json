@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Iyo oo ay xagasha weynidaadu tahay inaad burburisid kuwa kula soo kacay, waxaad dirtay xeelduunkaaga oo wuu si cadow u cunay sida bus.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "Iyo oo ay weynidaadu"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "xagasha"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "inaad burburisid"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "kuwa kula soo kacay"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "waxaad dirtay"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "xeelduunkaaga"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "wuu si cadow u cunay"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sida bus"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:04.794863927Z",
+  "model": "glm-5.3"
+}

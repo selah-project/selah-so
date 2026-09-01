@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahweh wuu adkeeyay ⟨את⟩ qalbiga Farcoon, uma maqalay, sidii Yahweh ugu hadlay Muuse.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuu adkeeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqalay"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "–"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ugu hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:29.352093940Z",
+  "model": "glm-5.3"
+}

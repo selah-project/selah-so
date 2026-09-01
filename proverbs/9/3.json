@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxay soo dirtay gabdhaha adeegtooda ah, waxay ka dhawaaqaysaa meelaha ugu sarreeya ee magaalada, iyadoo leh:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "waxay soo dirtay"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "gabdhaha adeegtooda ah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "waxay ka dhawaaqaysaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "meelaha"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ugu sarreeya"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:43.717823551Z",
+  "model": "glm-5.3"
+}

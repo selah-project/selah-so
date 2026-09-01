@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Markaasuu wuxuu diray ⟨את⟩ walaalihiis, wayna tegeen; wuxuuna ku yidhi: Ha murmin safarka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wayna tegeen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "murmin"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "safarka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:01:23.871495609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Farcoonna markuu maqlay ⟨את⟩ hadalkan, wuxuu doonay inuu dilo ⟨את⟩ Muuse; Muusena wuu ka cararay wejiga Farcoon, wuxuuna ku noolaa dhulka Midiyaan, wuxuuna ku fadhiistay ceelka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "markuu maqlay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hadalkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "wuxuu doonay"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "inuu dilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wuu ka cararay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku noolaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku fadhiistay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ceelka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:37.360429189Z",
+  "model": "glm-5.3"
+}

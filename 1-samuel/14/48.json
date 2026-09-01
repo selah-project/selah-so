@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuuna sameeyay geesinimo, wuuna ku dhuftay ⟨את⟩ Camaleq, wuuna badbaadinayay ⟨את⟩ Israa'iil gacanta ku gumeysatay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "geesinimo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuuna ku dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Camaleq"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "wuuna badbaadinayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "ku gumeysatay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:07.960201526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waannu qabsannay ⟨את⟩ magaalooyinkiisa oo dhan waqtigaas; magaalo ma jirin oo aan ka qaadin ⟨את⟩ xaggooda; lixdan magaalo, gobolka Argob oo dhan, boqortooyadii Og ee Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "waannu qabsannay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalooyinkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "magaalooyinkiisa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqti"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "jirin"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ka qaadin"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ xaggooda"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "lixdan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "gobolka"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "boqortooyadii"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ee Bashan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:41.973659601Z",
+  "model": "glm-5.3"
+}

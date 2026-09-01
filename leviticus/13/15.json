@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuu arkayaa wadaadda ⟨את⟩ lahada cunta ah, wuxuuna nijaas ka dhigaa; lahada cunta ah waa nijaas — waa cudud.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "wuxuu arkaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahada cunta ah"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lahada"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cunta ah"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "wuxuuna nijaas ka dhigaa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lahada"
+    },
+    {
+      "surface": "החי",
+      "gloss": "cunta ah"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "waa nijaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "waa cudud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:09.892398185Z",
+  "model": "glm-5.3"
+}

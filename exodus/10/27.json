@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahwehna wuxuu adkaa dhigay ⟨את⟩ qalbiga Farcoon, oo aanu diiday inuu sii daayo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuu adkaa dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanu"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "diiday"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "inuu sii daayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:37.153221091Z",
+  "model": "glm-5.3"
+}

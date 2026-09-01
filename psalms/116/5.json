@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Yahweh wuu ⟨ahaan⟩ channuun (naxariis badan) oo caadil ah, oo Elohimayoow wuu naxariistaa.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "channuun (naxariis badan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "oo caadil ah"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "oo Elohimayoow"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "wuu naxariistaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.105422611Z",
+  "model": "glm-5.3"
+}

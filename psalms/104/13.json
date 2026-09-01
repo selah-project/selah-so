@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Wuxuu waraabiyaa buuraha qolaladiisa kor taal oo dhan; dhulkuna wuxuu ka helaa midho shuqulladaagaba inuu ka bexo.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "wuxuu waraabiyaa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "qolaladiisa kor taal oo dhan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "midho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqulladaada"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wuxuu ka helaa inuu ka bexo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:26.880398918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Boqortooyada dhulka hooy, ku heesaya Elohim, ku naqaasta Adonay — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Boqortooyada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hooy, ku heesaya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku naqaasta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:31.467791904Z",
+  "model": "glm-5.3"
+}

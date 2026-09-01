@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Sidee baan anigu keliya u qaadi karaa culayskiinna iyo mashquulkiinna iyo khilaafkaafiinna?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Sidee"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "baan qaadi karaa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "anigu keliya"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "culayskiinna"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "iyo mashquulkiinna"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "iyo khilaafkaafiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:38.919394412Z",
+  "model": "glm-5.3"
+}

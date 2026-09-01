@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Maalintii Yahweh wuxuu amraa khesedkiisii, oo habeenkii heesiisu ⟨waa⟩ ⟨la⟩ igu jirtaa, tuko ⟨l⟩ El noloshayda.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Maalintii"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "wuxuu amraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisii"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "oo habeenkii"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "heesiisu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "igu (la)"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tuko"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:51.124675107Z",
+  "model": "glm-5.3"
+}

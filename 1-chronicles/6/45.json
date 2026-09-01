@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo qolo Binjamin ka mid ah ⟨את⟩ Geba iyo ⟨את⟩ dooxyadeeda, iyo ⟨את⟩ Alemeth iyo ⟨את⟩ dooxyadeeda, iyo ⟨את⟩ Anathoth iyo ⟨את⟩ dooxyadeeda — magaalooyinkooda oo dhan laba iyo toban magaalo ayaa ah, qoysaskooda awgood.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qolo... ka mid ah"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dooxyadeeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dooxyadeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Alemeth"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dooxyadeeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dooxyadeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dooxyadeeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dooxyadeeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "magaalooyinkooda"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "laba iyo toban (sadex-iyo-toban)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…iyo toban"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "qoysaskooda awgood"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:55.672190397Z",
+  "model": "glm-5.3"
+}

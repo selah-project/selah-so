@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Saasu baan ku arkay ⟨⟨את⟩⟩ meesha qodobka ah, si aan u arko adiga awoodaada iyo ammaantaada.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "saasu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "meesha qodobka ah"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "baan ku arkay"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "si aan u arko"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "awodaada"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "iyo ammaantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:40.892422264Z",
+  "model": "glm-5.3"
+}

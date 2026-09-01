@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Codka Yahweh waxaa ku ⟨jira⟩ biyaha; Elaha ammaanta wuxuu onkoday; Yahweh wuxuu ku ⟨jira⟩ biyo badan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku ⟨jira⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanta"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "wuxuu onkoday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku ⟨jira⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:35.434287866Z",
+  "model": "glm-5.3"
+}

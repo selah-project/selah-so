@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "adiguna samada meesha aad ku nooshahay waxaad maqleysaa ⟨את⟩ baryadooda iyo ⟨את⟩ khudbadooda, waxaadna samaynaysaa xukunkooda.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "waxaad maqleysaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "aad ku nooshahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baryadooda"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "baryadooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khudbadooda"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "khudbadooda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waxaadna samaynaysaa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "xukunkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:54.732470987Z",
+  "model": "glm-5.3"
+}

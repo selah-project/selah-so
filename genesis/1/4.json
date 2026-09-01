@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohimna wuxuu arkay ⟨את⟩ iftiinka inuu wanaagsan yahay, Elohimna wuxuu kala saaray iftiinka iyo mugdiga.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iftiinka"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inuu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "wuxuu kala saaray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kala"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mugdiga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:57.750898569Z",
+  "model": "glm-5.3"
+}

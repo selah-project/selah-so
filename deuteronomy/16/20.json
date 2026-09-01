@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Cadaalad, cadaalad ku raacso, si aad u noolaato, aadna dhaxasho ⟨את⟩ dhulka ee Yahweh Elohimkaagu kuu siinayo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cadaalad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ku raacso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aad"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "u noolaato"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "aadna dhaxasho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kuu siinayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:38.080050591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Anigu waan sheegayaa xaqnimadaada iyo ⟨את⟩ camalladaada, laguma tari doonaan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "waan sheegayaa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "xaqnimooyinkaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "camalladaada"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "camalladaada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lagma"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "tari doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:40.132902729Z",
+  "model": "glm-5.3"
+}

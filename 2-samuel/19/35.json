@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Barzillayna wuxuu boqorkii ku yidhi: Immisa ayaa ah maalmaha sanooyinka noloshayda, inaan ⟨את⟩ boqorka la koro Yeruushaalaym?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Immisa ayaa ah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sanooyinka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaan"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "la koro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:55.557746299Z",
+  "model": "glm-5.3"
+}

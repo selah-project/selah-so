@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxayna tidhi: ⟨את⟩ Abishag oo Shunaami ah ha loo dhiibo Adoniyahu, walaalkaa, in ay noqoto naagtiis.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ha loo dhiibo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "oo Shunaami ah"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniyahu (u)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in ay noqoto naagtiis"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:20.009594899Z",
+  "model": "glm-5.3"
+}

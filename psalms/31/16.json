@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Gacantaada ayaa waqtiyaday ku jiraan; i gargaar gacanta cadowdayda iyo kuwa i raacda.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "waqtiyaday"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "i gargaar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "iyo kuwa i raacda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:31.349615497Z",
+  "model": "glm-5.3"
+}

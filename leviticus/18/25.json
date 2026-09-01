@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Dhulkuna wuu wasakhowday, waana cabbaaray dembigiisa korkiisa, dhulkuna wuu matagay ⟨את⟩ kuwii ku noolaa.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "wuu wasakhowday"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "waana cabbaaray"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dembigiisa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "wuu matagay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwii ku noolaa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "kuwii ku noolaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:59.904616665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna ii baray, wuxuuna igu yidhi: erayadeyga qalbigaaga ku qabo, amarkaygana ilaali, oo noolow.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "wuxuuna ii baray"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ku qabo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayadeyga"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarkayga"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "oo noolow"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:25.408301014Z",
+  "model": "glm-5.3"
+}

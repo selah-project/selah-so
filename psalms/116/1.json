@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Waxaan jeclahay, maxay tahay Yahweh wuxuu maqlayaa ⟨את⟩ codkayga, baryadaydii.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "waxaan jeclahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxay tahay"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wuxuu maqlayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkayga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "baryadaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.923117875Z",
+  "model": "glm-5.3"
+}

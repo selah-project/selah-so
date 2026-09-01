@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yahweh Elohim wuxuu Beerka (Adan) Edegan ka saaray, inuu ⟨את⟩ dhulka fardo ka shaqeeyo, kaasoo laga soo qaatay meeshii.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "wuxuu ka saaray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "(Adan) Edegan ka"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edegan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "inuu fardo ka shaqeeyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "laga soo qaatay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "meeshii"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:48.674487696Z",
+  "model": "glm-5.3"
+}

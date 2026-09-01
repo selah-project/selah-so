@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 2:4",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Maalintaas waxaa laydiin soo qaadi doonaa maahmaah, iyo oyo ooyin aad u xun, ayayna odhan: Waa la baabi'iyay; qaybta dadkay waa la beddelay; sidee bay ii lumiye! Kuwa noqda (noqoshada) beerradayadii wuu u qaybiyay.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "wuu qaadi doonaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "laydiin"
+    },
+    {
+      "surface": "משל",
+      "gloss": "maahmaah"
+    },
+    {
+      "surface": "ונהה",
+      "gloss": "iyo ooyin"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ooyin xun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "baabi' (burbur)"
+    },
+    {
+      "surface": "נשדנו",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkay"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "waa la beddelay"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sidee"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "lumiye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "kuwa noqda (noqoshada)"
+    },
+    {
+      "surface": "שדינו",
+      "gloss": "beerradayadii"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "wuu u qaybiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:18.543505554Z",
+  "model": "glm-5.3"
+}

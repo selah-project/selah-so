@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ha laabanina ilaahyo kale, ilaahyada shacabka ee hareeraha idiin yaalla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "laabanina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib (laaban)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ilaahyada"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "hareeraha idiin yaalla"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:45.201074670Z",
+  "model": "glm-5.3"
+}

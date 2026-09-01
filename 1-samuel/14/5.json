@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Dhagaxdii midii waqooyi bay taal Mikmaash horteeda, iyo midii kalena koonfur bay taal Geba horteeda.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ilkaha (dhagaxda)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midii"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "dhagax dhaadheer (tiir)"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmaash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "iyo midii kalena"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "koonfur"
+    },
+    {
+      "surface": "מול",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:34.875843091Z",
+  "model": "glm-5.3"
+}

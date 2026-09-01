@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Gebal iyo Cammuun iyo Camalek, Filistiintii iyo kuwa degnaa Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "iyo Cammuun"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "iyo Camalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa degnaa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:28.811051738Z",
+  "model": "glm-5.3"
+}

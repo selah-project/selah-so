@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waayo, seeftooda ma ay dhulka ku degsan, oo cagaha-madaxa-toodana ma ay tarin; laakiin xagtaada middigta iyo cagaha-madaxaada iyo iftiinka wajigaada — waayo, adigaa ka raalli noqday.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "seeftooda"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ku degsan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "cagaha-madaxa-toodana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ay tarin"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "tarin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin waayo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "xagtaada middigta"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "cagaha-madaxaada"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "adigaa ka raalli noqday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:01.542971375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Gacmohooda wa way leeyihiin laakiin ma taabtaan; cagahooda wa way leeyihiin laakiin ma soconaan; ma gooyaan habaar dhiigooda ku dhawaaqan.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "taabtaan"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "cagahooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "soconaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "gooyaan habaar"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "dhiigooda ku dhawaaqan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:02.992247328Z",
+  "model": "glm-5.3"
+}

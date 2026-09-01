@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Haddiise aadan i dhegeysan, aanadna samayn ⟨את⟩ dhammaan amarradan kuwan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddiise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "i dhegeysan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanadna"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan amarradan kuwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amarradan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:12.068506147Z",
+  "model": "glm-5.3"
+}

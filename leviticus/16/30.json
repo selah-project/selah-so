@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waayo maalintaa waa laydiin dhaafi doonaa, si laydiin daahiriyo ⟨את⟩ idinka dhammi dembiyadiinna; Yahweh horteedda waad daahir noqon doontaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "waa la dhaafi doonaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "laydiin"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "si laydiin daahiriyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammi"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dembiyadiinna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteedda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "waad daahir noqon doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:27.201512589Z",
+  "model": "glm-5.3"
+}

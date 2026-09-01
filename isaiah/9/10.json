@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Sidaas darteed Yahweh wuxuu sarreejiyay ⟨את⟩ dhibaatada Retsiin ka dhan ⟨Israel⟩, iyo ⟨את⟩ cadowwiisana wuxuu ⟨kicshiyay⟩.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Sidaas darteed wuxuu sarreejiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibaatada Retsiin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsiin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka dhan ⟨isaga⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cadowwiisa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowwiisa"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "wuxuu kicshiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:06.038094337Z",
+  "model": "glm-5.3"
+}

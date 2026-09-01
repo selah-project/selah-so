@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waxay arkayeen camalladiisa Yahweh, iyo yaabahaafi qiyyo dhexdeed.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "waxay (iyagu)"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arkayeen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "camalladiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo yaabahaafi"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "qiyyo dhexdeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:32.697284306Z",
+  "model": "glm-5.3"
+}

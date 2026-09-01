@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Muujiširkoodii wuxuu madow noqday ka madow dhulka-lacagta (baraf-caarta); suuqyadanna lama garanayo; maqaarkoodu wuxuu la dhejmay lafahooda; wuu engebay, wuxuu noqday sida geed.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "wuxuu madow noqday"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "ka madow (dhulka-madowda)"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "muujiširkoodii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "la garanayo"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "suuqyadda"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "wuxuu la dhejmay"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "maqaarkoodu"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "lafahooda"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wuu engebay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "sida geed"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:54.999749745Z",
+  "model": "glm-5.3"
+}

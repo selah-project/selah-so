@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ha noqdaan kuwaaga keliya, oo aan waxba jirin ⟨את⟩ ajnabiga la ah adiga.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwaaga"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan waxba jirin"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ajnabiga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:12.856649602Z",
+  "model": "glm-5.3"
+}

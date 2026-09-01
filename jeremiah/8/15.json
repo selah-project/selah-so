@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaan la sugnay nabar, oo wanaag ma jiro; (markii) waqtiga bogsashada, oo bal eeg — argagax!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Waxaan la sugnay"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ... ma jiro"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "bogsashada (daawada)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "argagax"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:04.363574379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Laakiin ma uu diiday inuu maqlo codkeeda, wuxuuna ka adkaaday, wuxuuna dulleeyay, wuxuuna la seexday ⟨את⟩ iyada.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "diiday"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "inuu maqlo"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "codkeeda"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuuna ka adkaaday"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "wuxuuna dulleeyay"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "wuxuuna la seexday"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:13.186366644Z",
+  "model": "glm-5.3"
+}

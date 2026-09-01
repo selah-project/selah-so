@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo Yahweh wuu maqlay codka Yisraaiel, wuxuuna dhiigay ⟨את⟩ Kanaaniga, wuxuuna xaarumeeyay ⟨את⟩ iyaga iyo ⟨את⟩ magaalooyinkooda, oo magaca meeshaasna waxaa loo bixiyay Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraaiel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhiigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaniga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "wuxuuna xaarumeeyay"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "magaalooyinkooda"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "magaalooyinkooda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna u bixiyay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:45.356222596Z",
+  "model": "glm-5.3"
+}

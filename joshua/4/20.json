@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laba-iyo-tobanka dhagaxaanas oo ⟨את⟩ ka soo qaadeen Yardenda, Yehooshuuca wuxuu Gilgaal ku taagay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "laba-iyo-tobanka dhagaxaana"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laba-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo-tobanka"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxaana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dhagaxaanas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ka soo qaadeen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenda"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "wuxuu ku taagay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgaal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:38.434292083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Sannadkii labaad ee Yoash ina Yoo'aḥaz, boqorka Israa'iil, Amatsyahu ina Yoash, boqorka Yahuudah, wuu boqor noqday.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sannadkii"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoo'aḥaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor noqday"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:57.936032756Z",
+  "model": "glm-5.3"
+}

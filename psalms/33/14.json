@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Meesha fadhigiisa wuxuu ka tuuray arag-xif, wuxuu fiiriyaa dhamaan kuwa deggan dhulka.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "meesha fadhigiisa ka"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "fadhigiisa"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "wuxuu ka tuuray arag-xif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wuxuu fiiriyaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:58.597006317Z",
+  "model": "glm-5.3"
+}

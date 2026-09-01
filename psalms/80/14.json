@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Doofaarka kaynta baa la cunaa, oo dubarta beertana way daa daa u caysaa.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "la cunaa"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "doofaarka"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "kaynta"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "oo dubarta beerta"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "way caysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:24.759862533Z",
+  "model": "glm-5.3"
+}

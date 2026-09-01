@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Magacaaga Abram ⟨את⟩ mar dheer kuma bixin doonaan; magacaagu wuxuu noqon doonaa Abraham, waayo aabaha tafiirta ummadaha baan ku dhigay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "loogu bixin doonaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dheer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacaaga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaagu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "aabeha"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tafiirta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ummadaha"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ku dhigay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:23.048340237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahweh wuxuu ku lifaaqi doonaa ⟨את⟩ haddabroda, ilaa uu ⟨את⟩ adiga kaa dhammeeyo dhulka aad timaado halkaas aad ku degto.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "wuxuu ku lifaaqi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haddabroda"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haddabroda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "uu kaa dhammeeyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "timaado"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "aad ku degto"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:37.878656971Z",
+  "model": "glm-5.3"
+}

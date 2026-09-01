@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuuna dhigay ⟨את⟩ jirkii qabrigiisa, waxayna ooyeen xaaggiisa, iyagoo leh: Hoy, walaalkay!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jirkii"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jirkii"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "qabrigiisa"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "waxayna ooyeen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "xaaggiisa"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:58.786299959Z",
+  "model": "glm-5.3"
+}

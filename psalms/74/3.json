@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Qaado talaabooyinkaagoo u soco burburkii weligaa ee dhammaaday; cadowgu wuxuu dhammaystiray xumaan ⟨dhexdeeda⟩ waligii la ammaanay.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Qaado"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "talaabooyinkaagoo"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "u soco burburrada"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wuxuu dhammaystiray xumaan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowgu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "waligii la ammaanay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:32.177130887Z",
+  "model": "glm-5.3"
+}

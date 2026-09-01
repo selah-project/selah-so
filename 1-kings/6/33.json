@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Sidoo kale wuxuu u sameeyay iridda heykaalka laamasha alwaan-geedka ah, ⟨את⟩ afarta-gees.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Sidoo kale"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heykaalka"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "laamasha"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedka ah"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "alwaan-"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "afarta-gees"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "afarta-gees"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:27.498126053Z",
+  "model": "glm-5.3"
+}

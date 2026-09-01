@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo Daa'uud wuu barakaystay ⟨את⟩ Yahweh horfurkii shirka oo dhan, oo Daa'uudna wuxuu yidhi: Barakaysan ⟨adigaa⟩, Yahweh, Elohimka Israa'iil aabbahankeed, iyo hore iyo tan iyo weligeedba.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wuu barakaystay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "horfurkii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daa'uudna"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barakaysan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨adigaa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aabbahankeed"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "iyo hore"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo tan iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeedba"
+    }
+  ],
+  "timestamp": "2026-09-01T07:43:07.423313342Z",
+  "model": "glm-5.3"
+}

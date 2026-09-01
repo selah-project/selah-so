@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Xumaantu waxay dishaa dembilaysha, kuwa neceb sida ahna way denbi-dhan yihiin.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "waxay dishaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dembilaysha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaantu"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "kuwa neceb"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sida ah"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "way denbi-dhan yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:31.350042028Z",
+  "model": "glm-5.3"
+}

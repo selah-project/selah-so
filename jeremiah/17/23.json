@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Laakiin ma dhegeysan, deggana ma tuurin ⟨את⟩ dhegahooda, oo ay adaggaadeen ⟨את⟩ luqaddooda si aan u maqal, si aan u qaadanina waxbaro.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Laakiin ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhegeysan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tuurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhegahooda"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "dhegahooda"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "adaggaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luqaddooda"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "luqaddooda"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "u maqal"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "si aan u"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "qaadanina"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "waxbaro"
+    }
+  ],
+  "timestamp": "2026-09-01T04:08:14.794449049Z",
+  "model": "glm-5.3"
+}

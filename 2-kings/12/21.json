@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayna kiciyeen addoommihiisii, waxayna dhigeen shir-xumeed, waxayna dhufteen ⟨את⟩ Yoo'aash guriga Millo, kan hoos u socda Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "waxayna kiciyeen"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoommihiisii"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "waxayna dhigeen shir-xumeed"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "shir-xumeed"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna dhufteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoo'aash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoo'aash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "kan hoos u socda"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-01T08:23:21.281774888Z",
+  "model": "glm-5.3"
+}

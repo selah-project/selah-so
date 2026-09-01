@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Addoomaha Shaa'uulna waxay ku yidhaahdeen: Bal eeg, ruux xun oo Elohim ka timaadda ayaa ku cabsi gelinaysaa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay ku yidhaahdeen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoomaha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xun"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "ku cabsi gelinaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:06.411762556Z",
+  "model": "glm-5.3"
+}

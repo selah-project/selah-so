@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo Kehatimi way socdaadeen iyagoo qaadbaya waxyaraha quduuska ah, oo ⟨kuwa kale⟩ waxay taagi jireen ⟨את⟩ Masaajidka ilaa ay yimaadaan.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "way socdaadeen"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatimi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "qaadbaya"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "waxyaraha quduuska ah"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "waxay taagi jireen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masaajidka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Masaajidka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ay yimaadaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:14.912986435Z",
+  "model": "glm-5.3"
+}

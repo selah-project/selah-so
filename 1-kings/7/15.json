@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuu dhisiyay ⟨את⟩ tiirarka laba ee naxaasta; sinni iyo sideed ayaa ahayd dhererka tiirka kowaad, oo xarig laba iyo toban sinni ah ayaa ku wareegay ⟨את⟩ tiirka labaad.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "Wuxuu dhisiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka laba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaasta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sideed"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo sinni"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sinni"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "dhererka"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiirka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kowaad"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "oo xarig"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sinni"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ku wareegay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirka labaad"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiirka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:38.288731702Z",
+  "model": "glm-5.3"
+}

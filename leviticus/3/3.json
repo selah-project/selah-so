@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu ka dhowaanjin doonaa allabariga nabad-gelyada olol-qurbaan u ah Yahweh: ⟨את⟩ baruurta dul-saarta ⟨את⟩ caloosha (dhexdheeraha), iyo ⟨את⟩ baruurta dhan ee caloosha ku dhow.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuu dhowaanjin doonaa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ka allabariga"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "nabad-gelyada"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olol-qurbaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "dul-saarta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caloosha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "caloosha (dhexdheeraha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "baruurta dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "caloosha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:56.819283140Z",
+  "model": "glm-5.3"
+}

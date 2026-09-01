@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waqtigaas waanu ⟨את⟩ garoorkiinna amray, oo aan idhi: Maqla doodaha dhexdooda walaalihiin, oo caddaalad u xukma dhexdooda nin iyo walaalkiis iyo soo-joogga isaga la jira.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "waanu amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garoorkiinna"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "garoorkiinna"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "gaas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo aan idhi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "walaalihiin"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "oo u xukma"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "soo-joogga isaga la jira"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:09.419451660Z",
+  "model": "glm-5.3"
+}

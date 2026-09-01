@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Boqorka Babiliyana wuu garaacay ⟨את⟩ iyagoo diley Riblah, dhulka Camath; Yehuudahna waa la saaray dhulkoodi ka.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuu garaacay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagoo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiliyana"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "diley"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Riblah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Camath"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "waa la saaray"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudahna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dhulkoodi"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:10.589249084Z",
+  "model": "glm-5.3"
+}

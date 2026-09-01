@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "iyo gorgorta, iyo ⟨את⟩ ganuuga, iyo boorka noociisa;",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "iyo gorgorta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ganuuga"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ganuuga"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "iyo boorka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "noociisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:08.350159100Z",
+  "model": "glm-5.3"
+}

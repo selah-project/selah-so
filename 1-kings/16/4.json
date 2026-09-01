@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Kii Baashaa ka dhinta magaalada waa lay cuni doonaa ⟨ee⟩ shinni, kii-na beerka dhinta waa lay cuni doonaa shimbiraha samada.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kii… dhinta"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "Baashaa ka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa lay cuni doonaa"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "shinni"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kii-na… dhinta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka (isaga)"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "waa lay cuni doonaa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:14.035475474Z",
+  "model": "glm-5.3"
+}

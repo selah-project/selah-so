@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ester ma sheegin qoyankeeda iyo ⟨את⟩ qoomkeeda, sida Mordekay ugu amray; ⟨את⟩ amarkii Mordekay Ester way fulinaysay, sidii ay ku jirtay ilaalintiisa ⟨la⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma sheegin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "waxay sheegaysay"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "qoyankeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoomkeeda"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "qoomkeeda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ugu amray"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "(korkiisa)"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amarkii Mordekay"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "amarkii"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "way fulinaysay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay ku jirtay"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ilaalintiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (la)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:02.024431062Z",
+  "model": "glm-5.3"
+}

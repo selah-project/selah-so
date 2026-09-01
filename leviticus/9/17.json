@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuu soo dhoweyyay ⟨את⟩ qurbaadda biiqa, wuxuu ka buxshay cabbigiisa gacanta, wuxuuna ku shiday guddiga allabariga, waxaana ka baxsan olasha subaxda.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "soo dhoweyyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaadda biiqa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "qurbaadda biiqa"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ka buxshay"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "cabbigiisa gacanta"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ku shiday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guddiga allabariga"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "waxaana ka baxsan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olasha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaxda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:47.911375716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxay dagaallameen ⟨את⟩ Bera boqorka Sodom iyo ⟨את⟩ Birsha boqorka Camorah, Shinab boqorka Admah, iyo Shemeber boqorka Tseboyiim, iyo boqorka Bela — waana Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Waxay dagaallameen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera boqorka Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Birsha boqorka Camorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Camorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "iyo Shemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboyiim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "iyo boqorka"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waana"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:41.524842421Z",
+  "model": "glm-5.3"
+}

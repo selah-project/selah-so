@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Haddii aad dadkan ku dishay sidii nin keliya, quruuntu waxay odhan kuwa maqlay magacaaga iyo sheekadaada, iyagoo leh:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "ku dishay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sidii nin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "waxay odhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "quruuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheekadaada"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "magacaaga iyo sheekadaada"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:44.373253620Z",
+  "model": "glm-5.3"
+}

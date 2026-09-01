@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waqtigii Yahweh uu wax qabto ayaa yimid, waayo waxay jebin waxaa sharcigaaga ah.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wax qabto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "waxay jebin"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sharcigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.466066030Z",
+  "model": "glm-5.3"
+}

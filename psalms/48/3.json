@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Waa qurux badan korkeedu, farxad dhammaan dhulka, buurta Tsiyon, dhinacyada waqooyiga, magaalo boorka weyn.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "qurux badan"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "korkeedu"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "dhinacyada"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "waqooyiga"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boorka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:56.101623108Z",
+  "model": "glm-5.3"
+}

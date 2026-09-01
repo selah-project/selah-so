@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Dabku wuu cunay dhalinyarradiisii, oo gabdhadiisii dhoqomyo ahaan lama amaanin.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "dhalinyarradiisii"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "wuu cunay"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabku"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "oo gabdhadiisii dhoqomyo ahaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "amaanin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:13.687819441Z",
+  "model": "glm-5.3"
+}

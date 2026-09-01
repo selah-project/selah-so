@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo calaamadihiisa iyo falahiisii uu sameeyay gudaha Mitsrayim, Farcoonkii boorkii Mitsrayim iyo dhulkiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "calaamadihiisa"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "calaamadihiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "falahiisii"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "falahiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farcoonkii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boorkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dhulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:23.042080739Z",
+  "model": "glm-5.3"
+}

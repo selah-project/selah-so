@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahweh wuxuu ka goyn doonaa Yisra'iil ⟨את⟩ madaxa iyo ⟨את⟩ dheeriga, laanta haruudda iyo qasabaha, hal maalin.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "wuxuu ka goyn doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "iyo dheeriga"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "laanta haruudda"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "iyo qasabaha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:20.733100472Z",
+  "model": "glm-5.3"
+}

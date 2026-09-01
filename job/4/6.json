@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Ma cabsadaadu miyay tahay kalsoodaadaa, rajadaaduna miyay tahay ⟨waa⟩ daaqa jidkaadaa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "cabsadaadaa"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "kalsoodaadaa"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "rajadaadaa"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "daaqa"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jidkaadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:02.267612109Z",
+  "model": "glm-5.3"
+}

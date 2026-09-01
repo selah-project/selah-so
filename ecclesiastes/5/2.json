@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waayo, riydada shaqo badan baa keenta, codka nacaska na ereyo badan baa muujiya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keenta"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "riydada"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "badan baa"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nacaska"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "badan baa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ereyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:18.824795530Z",
+  "model": "glm-5.3"
+}

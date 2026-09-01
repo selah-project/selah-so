@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Kan dhaafaya dhammaan denbigaaga, kan daawaynaya dhammaan cudurradaada.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Kan dhaafaya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "denbigaaga"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "kan daawaynaya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "cudurradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:45.875652618Z",
+  "model": "glm-5.3"
+}

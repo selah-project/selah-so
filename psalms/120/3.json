@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Maxaad la siin doontaa, oo maxaana lagu darnaa, carrabta khiyaanada ah?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maxaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "la siin doontaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "oo maxaa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lagu darnaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carrabta"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaanada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:15.186185528Z",
+  "model": "glm-5.3"
+}

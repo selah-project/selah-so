@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo waxay markii barigu yimid ka baxeen; Ben-Hadadna wuxuu ahaa mid cabbaya sakhraan dabaqyada, isaga iyo boqorrada, laba-iyo-sodon boqor oo caawiya ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "waxay ka baxeen"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "markii barigu yimid"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "cabbaya"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sakhraan"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "dabaqyada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "boqorradana"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "iyo laba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "oo caawiya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:22:08.866856722Z",
+  "model": "glm-5.3"
+}

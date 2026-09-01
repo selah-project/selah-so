@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Dawud wuxuu yimid Ornaan ilaa, Ornaanna wuu eegay, wuuna arkay ⟨את⟩ Dawud, wuuna ka baxay goryinka (beerkii gurunka), wuuna u sujuuday Dawud wejigiis dhulka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornaan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "wuu eegay"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornaan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuuna arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawud"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuuna ka baxay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "goryinka (beerkii gurunka)"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wuuna u sujuuday"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "wejigiis"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:21.342977517Z",
+  "model": "glm-5.3"
+}

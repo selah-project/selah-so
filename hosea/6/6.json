@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waayo, khesed baan doonay oo ma allabari, iyo aqoonta Elohim ka badan allabari olol ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "baan doonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iyo aqoonta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "allabari olol ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:07.500697672Z",
+  "model": "glm-5.3"
+}

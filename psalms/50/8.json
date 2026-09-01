@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Allabarigaaga ma ku eedeeyo, oo holacadaada way i hortaagan weligood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "allabarigaaga"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "eedeeyo"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "holacadaada"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "i hortaagan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.731908979Z",
+  "model": "glm-5.3"
+}

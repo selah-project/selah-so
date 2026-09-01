@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxayna noqotay markay dhamaatay labaatan sano oo Sulaymaan dhisay ⟨את⟩ labada guri, ⟨את⟩ baytkii Yahweh iyo ⟨את⟩ baytkii boqorka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "markay dhamaatay"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaymaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada guri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "guri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baytkii Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baytkii boqorka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:53.365581797Z",
+  "model": "glm-5.3"
+}

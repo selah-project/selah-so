@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 20:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ben-Hadadna wuxuu u soo diray, wuxuuna yidhi: Ha sameeyo Elohim igu sidaas, oo ha sii darno haddii cusubta Shomeroon ay ku filnaato gacan-qaadis ⟨⟨ah⟩⟩ dadka oo dhan ee cagayadayda juura.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu u soo diray"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ha sameeyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "oo ha sii"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "darno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ישפק",
+      "gloss": "ay ku filnaato gacan-qaadis"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "cusubta"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "לשעלים",
+      "gloss": "gacan-qaadis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "cagayadayda juura"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:48.870282804Z",
+  "model": "glm-5.3"
+}

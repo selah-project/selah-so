@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Aniguna waan adkeysin doonaa ⟨את⟩ qalbiga Farcoon, waana badalin doonaa ⟨את⟩ calaamadayda iyo ⟨את⟩ yaabahayga dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "waan adkeysin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga Farcoon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "waana badalin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calaamadayda"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "calaamadayda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "yaabahayga"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "yaabahayga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:19.218808193Z",
+  "model": "glm-5.3"
+}

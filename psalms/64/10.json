@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Waxay cabsadeen dadka oo dhan, waxayna sheegeen shuqulkii Elohim, camalkiisana waxay garowsadeen.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "waxay cabsadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "waxayna sheegeen"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "camalkiisana"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "waxay garowsadeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:55.913473566Z",
+  "model": "glm-5.3"
+}

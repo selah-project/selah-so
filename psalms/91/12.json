@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Gacmaha sare bay ku qaadayaa, si aad ugu dhicin lugtaaga dhagaxa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sare"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "bay ku qaadayaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aad ugu dhicin"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ugudhicin"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lugtaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:30.673206129Z",
+  "model": "glm-5.3"
+}

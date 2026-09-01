@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Aniguna had iyo jeer waan kula jiraa; adigoo gacantayda midig iga qabtay.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "waan kula jiraa"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "adigoo ... iga qabtay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan(ta)"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "gacantayda midig"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:33.871344349Z",
+  "model": "glm-5.3"
+}

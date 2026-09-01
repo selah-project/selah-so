@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yahwehow, ddaji (badbaadi); Boqorku ha iiga jawaabo maalinta aan u dhawaaqo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "badbaadi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorku"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ha iiga jawaabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "aan u dhawaaqo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:31.172926832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Adiga ayay ku qayliyeen, oo waxay la badbaadeen; adiga aawaday waxay talax-taagleen, oo ma ay xannibeennaan.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Adiga ayay"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ku qayliyeen"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "oo waxay la badbaadeen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga aawaday"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "waxay talax-taagleen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ay xannibeennaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:40.420456024Z",
+  "model": "glm-5.3"
+}

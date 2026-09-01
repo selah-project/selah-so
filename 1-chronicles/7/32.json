@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Xeberna wuxuu dhalay ⟨את⟩ Yafleet iyo ⟨את⟩ Shoomer iyo ⟨את⟩ Xootam iyo ⟨את⟩ Shu'aa walaashood.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Xeberna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafleet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yafleet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shoomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shoomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xootam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Xootam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shu'aa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shu'aa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "walaashood"
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:18.489263002Z",
+  "model": "glm-5.3"
+}

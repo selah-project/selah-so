@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 100,
+  "translation": "Adeeca ⟨את⟩ Yahweh farxad ku jirta; ka yimaada taagi hortii isagoo rinji la ah.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Adeeca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "farxad ku jirta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ka yimaada"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "taagi hortii"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "rinji la ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:16.263277124Z",
+  "model": "glm-5.3"
+}

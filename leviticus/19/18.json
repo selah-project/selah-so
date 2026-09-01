@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha aargoosin, oo xumaan ha u haynin ⟨את⟩ wiilasha dadkaaga; laacibkaaga naftaada kale u jeclaado — anigaa ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "aargoosin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo xumaan ha u haynin"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "xumaan u haynin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha dadkaaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "u jeclaado"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "laacibkaaga"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "naftaada kale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigaa ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:31.366023121Z",
+  "model": "glm-5.3"
+}

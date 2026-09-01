@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Waxay arkeen, sidaas darteed way la yaabeen; waxay gilgileen, oo degdeg bay u carareen.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Iyagu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "way arkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "way la yaabeen"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "waxay gilgileen"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "degdeg bay u carareen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:32.166621101Z",
+  "model": "glm-5.3"
+}

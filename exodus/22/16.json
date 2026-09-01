@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii aabbahay si cad ugu diido inuu u siin waxaa uu miisaawiyaa lacag sida maharka gabdhaha dhallanka ah.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "si cad ugu diido"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "wuu diido"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "inuu u siin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "wuu miisaawiyaa"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "sida maharka"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "gabdhaha dhallanka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:37.255504030Z",
+  "model": "glm-5.3"
+}

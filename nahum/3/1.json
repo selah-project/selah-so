@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Hooy, magaalada dhiigga! Been iyo tuugo ayaaba dhankeeda buuxsantahay; ulleyda ⟨lamana⟩ dumayo waligay.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hooy"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dhankeeda"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "been"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "tuugo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "buuxsantahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "dumayo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ulleyda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:47.734577751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Nebiyi ahaan Yahweh wuxuu kor keenay ⟨את⟩ Israa'iil Mitsrayim, nebiyi ahaanna waa la ilaaliyay.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "nebiyi ahaan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wuxuu kor keenay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "nebiyi ahaanna"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "waa la ilaaliyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:18.880278537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Waa maxay kun san oo indhahaaga ah — waa sida shalay markay dhaafto, iyo sida il-lalley ah habeenkii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxay"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga ah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sida maalin"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "shalay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "dhaafto"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "iyo il-lalley"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:29.753541919Z",
+  "model": "glm-5.3"
+}

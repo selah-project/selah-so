@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Haddii ruuxa taliyaha korkaaga koro, meelaada ha ka tagin, waayo deganaansho (marphee) baa dembiyo waaweyn dhaawacaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "taliyaha"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "koro"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "korkaaga"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "meelaada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ka tagin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "(marphee) deganaansho baa"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "dhaawacaya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dembiyo"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "waaweyn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:56.345434692Z",
+  "model": "glm-5.3"
+}

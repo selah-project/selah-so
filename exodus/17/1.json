@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Dhammaan tayada ubadka Israa'iil waxay tegeen midbahda Siin, socodkaceeda, oo ah sida afka Yahweh ku odhan; waxayna xayiimeen Refidiim, mana jirin biyo dadku cabbo.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "waxay tegeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tayada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "midbahda Siin"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Siin"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "socodkaceeda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ah sida"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna xayiimeen"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "Refidiim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana jirin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "cabbo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadku"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:30.478274498Z",
+  "model": "glm-5.3"
+}

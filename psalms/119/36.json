@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "U dhig qalbigaaga markhadigaada, oo ha u dhigin doonista lacag xaraan ah.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "U dhig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "markhadigaada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha u dhigin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "doonista lacag xaraan ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:51.948567787Z",
+  "model": "glm-5.3"
+}

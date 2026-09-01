@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oo dadkuna waxay jawaabeen oo waxay yidhaahdeen: Naga fogeysow inaan ka tagno ⟨את⟩ Yahweh si aan u adeegno ilo kale.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waxay jawaabeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo waxay yidhaahdeen"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Naga fogeysow"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "inaan ka tagno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "si aan u adeegno"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:10.650430627Z",
+  "model": "glm-5.3"
+}

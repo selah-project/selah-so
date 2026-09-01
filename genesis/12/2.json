@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaan kaa dhigi doonaa qowl weyn, waana ku barakadaynayaa, waana weynayn magacaaga; adiguna noqo barako.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Waxaan kaa dhigi doonaa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "qowl"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "waana ku barakadaynayaa"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "waana weynayn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "adiguna noqo"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barako"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:27.989299331Z",
+  "model": "glm-5.3"
+}

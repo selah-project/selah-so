@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Boqorkii Shelomahna wuxuu jeclaa naago shisheey ah oo badan, iyo ⟨את⟩ gabadhii Farcoon: Mo'aabiyaal, Camaaniyaal, Adoomiyaal, Sidooniyaal iyo Xithiyaal.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wuxuu jeclaa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naago"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "shisheey ah"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhii Farcoon"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Mo'aabiyaal"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Camaaniyaal"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Adoomiyaal"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidooniyaal"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Xithiyaal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:57.612523172Z",
+  "model": "glm-5.3"
+}

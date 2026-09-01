@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waayo, adiga awgad baan gallaad qaaday; waxa qarannaa wajigayga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "adiga awgad"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "baan qaaday"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "gallaad"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "waxa qarannaa"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "arbeesa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.635991248Z",
+  "model": "glm-5.3"
+}

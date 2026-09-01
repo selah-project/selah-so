@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Noqo ilii dhagax magan ah, meel aan had iyo jeer u galo; adigoo amartay in lay i badbaadiyo, waayo adigaa ilii dhagaxa iyo qalcada.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Noqo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilii"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhagax magan ah"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "meel"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "aan u galo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "adigoo amartay"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "in lay i badbaadiyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ilii dhagaxa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "qalcada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:04.414428019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waad tahay dhagxaankaygii iyo qalcaddaydii; magacaaga dartii ii hanuuni oo ii hag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waad"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dhagxaankaygii"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "iyo qalcaddaydii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ii hanuuni"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "oo ii hag"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:37.535633440Z",
+  "model": "glm-5.3"
+}

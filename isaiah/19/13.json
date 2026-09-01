@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Madaxdii Tsoan waxay noqdeen doqonimo, madaxdii Nof waa laga shubay; iyagu waxay dhumiyey ⟨את⟩ Mitsrayim, iyagoo ah geesha qabiilooyinkeed.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "noqdeen doqonimo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxdii"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "waa laga shubay"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxdii"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "waxay dhumiyey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "geesha"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "qabiilooyinkeed"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:34.403744820Z",
+  "model": "glm-5.3"
+}

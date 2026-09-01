@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Laakiin innaga waannu barakaynaynaa Yah, laga bilaabo hadda iyo ilaa weligiis. Halleysoosaha Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "laakiin innaga"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "waannu barakaynaynaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "laga bilaabo hadda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleysoosaha"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:10.809053949Z",
+  "model": "glm-5.3"
+}

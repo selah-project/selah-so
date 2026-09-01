@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Markaasaa dab ka soo dhacay Yahweh, wuuna cunay ⟨את⟩ allabari oo dhan iyo ⟨את⟩ geedaha iyo ⟨את⟩ dhagaxyada iyo ⟨את⟩ ciidda, wuuna dheelay ⟨את⟩ biyaha ka mid ah dhoollada.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "markaasay soo dhacday"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wuuna cunay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabari (ha'ollada)"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "geedaha"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhagaxyada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ciidda"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "biyaha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "dhoollada"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "wuuna dheelay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:27.300413832Z",
+  "model": "glm-5.3"
+}

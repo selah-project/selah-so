@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Aabihii suxaagga ahaa wuu farxay farxad weyn, kii dhalay xariifna wuu ku farxay.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "farxad weyn"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "wuu farxay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "suxaagga ahaa"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "kii dhalay"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xariif"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "wuu ku farxay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:58.205678202Z",
+  "model": "glm-5.3"
+}

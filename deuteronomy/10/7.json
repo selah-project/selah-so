@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Halkaaseen waxay u safreen Gadgadah; Gadgadahna waxay ka safreen Yotbatah, dhul wabiyo biyo leh.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "halkaaseen"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "waxay u safreen"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gadgadah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gadgadahna"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "Yotbatah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "wabiyo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:43.849881010Z",
+  "model": "glm-5.3"
+}

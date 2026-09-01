@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Kuwo i-raacaya badan iyo cadowyo badan ⟨ayaa jira⟩; markhaatiyaaga ma aan seegin.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kuwo i-raacaya"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "iyo cadowyo"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "markhaatiyaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "aan seegin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:17.190010251Z",
+  "model": "glm-5.3"
+}

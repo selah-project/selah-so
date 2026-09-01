@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Iyo seddexda eefodka oo ku xiran, kaas oo kor ku yaal, wuxuu ka mid ahaa ⟨isagoo ka mid ah⟩ sida sameyskiisa: dahab, bulaaq-madow (tekhelet), muruq (argamaan), diid-cun (toolaat shani), iyo lin taran (shesh mashzar), sida Yahweh uu ku amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "iyo seddexda"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "eefodka kiis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaas oo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kor ku yaal"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mid ahaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sida sameyskiisa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo argamaan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "iyo toolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mashzar (taran)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu ku amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:45.590927879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waxayna dhaheen nimanka Yahuudah: Maxaad noo soo kacdeen? Waxayna dhaheen: Inaan ku xirno Shimshoon baan noo soo kacnay, inaan gallaadno ⟨את⟩ Shimshoon sida uu na galladay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna dhaheen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nimanka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "soo kacdeen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna dhaheen"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "Inaan ku xirno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshoon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshoon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "Inaan gallaadno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(si uga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu galladay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T02:36:06.826132367Z",
+  "model": "glm-5.3"
+}

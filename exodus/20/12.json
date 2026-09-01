@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Aabahaa iyo hooyadaa ker, si ay u dheeraadaan maalmahaadu ⟨dhexdaha⟩ dhulka aawadiis, kaas oo Yahweh Eloahaga ku siiyo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aabahaa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Aabahaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hooyadaa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aawadiis"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ay u dheeraadaan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "maalmahaadu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhexdaha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaas oo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloahaga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ku siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:28.619423164Z",
+  "model": "glm-5.3"
+}

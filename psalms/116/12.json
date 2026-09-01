@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Maxaan ku celin Yahweh, wuxuu i siiyay dhamaan sama fadhiigiisa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ku celin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "sama fadhiigiisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wuxuu i siiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:12.404329783Z",
+  "model": "glm-5.3"
+}

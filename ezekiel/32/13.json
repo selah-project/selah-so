@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 32:13",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxaana baabi'in doonaa ⟨את⟩ dhammaan xayawaankeeda laga bilaabo ciddi biyo badan, oo cagi dad ah mar dambe ma dheelin doonto, na ciddiyaha xayawaan na ma dheelin doontaan.",
+  "tokens": [
+    {
+      "surface": "והאבדתי",
+      "gloss": "waxaana baabi'in doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan xayawaankeeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "xayawaankeeda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "laga bilaabo ciddi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "dheelin doonto"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "cagi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dad ah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "ופרסות",
+      "gloss": "na ciddiyaha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "xayawaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "dheelin doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:37:27.475130855Z",
+  "model": "glm-5.3"
+}

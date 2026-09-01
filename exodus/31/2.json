@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Eegee, waxaan magaciisa kugu yeeray Betsalel inna Urri, inna Chur, qabiilkii Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Eegee"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "waxaan yeeray"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inna"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inna"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:42.703711508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Wuxuu siiyaa cunto ⟨את⟩ dhamaan bararka (lahjad: barar = Flesh), waayo ilaa iyo weligiis bay tahay khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Wuxuu siiyaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bararka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:51.391139728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Hadda ha wayga fogaan waana ⟨את⟩ zinadayada iyo ⟨את⟩ jirarkeyaga boqorradooda, anigoo dhexdeeda degaya weligay.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "יְרַחֲקוּ",
+      "gloss": "ha wayga fogaan waana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "zinadayada"
+    },
+    {
+      "surface": "זְנוּתָם",
+      "gloss": "zinadayada"
+    },
+    {
+      "surface": "וּפִגְרֵי",
+      "gloss": "iyo jirarkeya"
+    },
+    {
+      "surface": "מַלְכֵיהֶם",
+      "gloss": "boqorradooda"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "וְשָׁכַנְתִּי",
+      "gloss": "anigo dhexdeeda degaya"
+    },
+    {
+      "surface": "בְּתוֹכָם",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "weligay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:10.848829659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxaan ogahay inaad wax kasta karto, oo aan midna qorshe adiga ka maqan.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Waxaan ogahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "karto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan midna"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "maqan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga ka"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "qorshe"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:56.551272576Z",
+  "model": "glm-5.3"
+}

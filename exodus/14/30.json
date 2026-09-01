@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Sidaasaa Yahweh maalintaa uu badbaadiyay ⟨את⟩ Israa'iil gacanta Mitsrayim, oo Israa'iilna wuxuu arkay ⟨את⟩ Mitsrayim oo dhintay ee xeebta badda ku taal.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Sidaasaa... badbaadiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oo dhintay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee... ku taal"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "xeebta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:00.351190236Z",
+  "model": "glm-5.3"
+}

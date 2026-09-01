@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Waxaan ⟨את⟩ idin barayaa ⟨את⟩ gacanta El; waxa la jira Shadday ma qarinayo.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Waxaan barayaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la jira"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "qarinayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:46:20.314084107Z",
+  "model": "glm-5.3"
+}

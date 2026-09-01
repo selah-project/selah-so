@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Kuwani yaa kuwa ah kuwa sida daruur u duulaya, iyo sidii qamadiyada dhinacyadooda u guraya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "sida daruur"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "u duulaya"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "iyo sidii qamadiyada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "dhinacyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:48.630302702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Mahadiya Yahweh, magaciisa ka baraan bariya, shmahiisa u sheega ummadaha.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mahadiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ka baraan bariya"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "u sheega"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ummudaha"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "shmuhiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.180919099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Waxaan aniga ku luuqi doonaa Yahweh inta noloshaydu jirto; waxaan u qasacad doonaa Eloahay inta aan noolahay.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "waxaan ku luuqi doonaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "inta noloshaydu jirto"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waxaan u qasacad doonaa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "inta aan noolahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.998775973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuu noolaa Enosh toddobaatan sano, wuxuuna dhalay ⟨את⟩ Keynaan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Wuxuu noolaa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keynaan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:25.741171225Z",
+  "model": "glm-5.3"
+}

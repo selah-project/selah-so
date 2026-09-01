@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waxaad naga dhigaysaa ceeb oo ah dhinacyada agtooda, istaag iyo qosol dadka na wareegto.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Waxaad naga dhigaysaa"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "dhinacyada agtooda"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "istaag"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "qosol"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "dadka na wareegto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:12.812105918Z",
+  "model": "glm-5.3"
+}

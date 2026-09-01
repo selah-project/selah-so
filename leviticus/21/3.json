@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo walaashiis dhiddinta, kan u dhow ee aan nin la ahayn — iyada ⟨keliya⟩ ayuu u wasakhmayaa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "iyo walaashiis"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "dhiddinta"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "kan u dhow"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lahayd"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ayuu u wasakhmayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:14.343193473Z",
+  "model": "glm-5.3"
+}

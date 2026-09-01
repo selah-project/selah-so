@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 15:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Xadkana wuxuu ka wareegay Baalah galbeed u ilaa buurta Sejiir, wuxuuna dhaafay ilaa garabka buurta Yejarim waqooyi — iyadu ⟨waa⟩ Keslon — wuxuuna ku degtay Beit Shemesh, wuxuuna dhaafay Timnah.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "wuxuuna ku wareegay"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "xadka"
+    },
+    {
+      "surface": "מבעלה",
+      "gloss": "Baalah"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "galbeed u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Sejiir"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "wuxuuna dhaafay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "garabka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yejarim"
+    },
+    {
+      "surface": "מצפונה",
+      "gloss": "waqooyi u"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyadu"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Keslon"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wuxuuna ku degtay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "wuxuuna dhaafay"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "Timnah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:24:24.586738873Z",
+  "model": "glm-5.3"
+}

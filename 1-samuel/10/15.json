@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Adeerkii Shaa'uulna wuxuu yidhi: Ii sheeg oo aan ahay, maxaad ku idmaamay Shemuuel?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Adeerkii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ii sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "oo aan ahay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ku idmaamay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:01.244000425Z",
+  "model": "glm-5.3"
+}

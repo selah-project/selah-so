@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "U kordhi qoryaha, shid dabka, dhammaystir hilibka, oo isku qas qashinka, laftunase ha gubnaan.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "u kordhi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "qoryaha"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "shid"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "התם",
+      "gloss": "dhammaystir"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "oo isku qas"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "qashinka"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "laftunase"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "ha gubnaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:32:49.033740928Z",
+  "model": "glm-5.3"
+}

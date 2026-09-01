@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Ma insaan baa isaga u samaysaa ilaalo, iyaguna ilaalo ma aha?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Ma... baa u samaysaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaalo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iyaguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaalo"
+    }
+  ],
+  "timestamp": "2026-09-01T04:07:31.735261836Z",
+  "model": "glm-5.3"
+}

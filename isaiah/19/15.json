@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Shaqona uma jirto Mitsrayim uu sameyn karo — madax iyo dabo, beer haanteed iyo qasab.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uma jirto…ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uma jirto"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim u"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu…karo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameyn karo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madax"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "iyo dabo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "beer haanteed"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "iyo qasab"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:34.404211747Z",
+  "model": "glm-5.3"
+}

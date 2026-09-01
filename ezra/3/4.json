@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxayna sameeyeen ⟨את⟩ ciidda Daaqiiqooyinka sida ay qoran tahay, iyo allabari maalinlaha ah tiro ahaan sida sharcigu yahay, amarka maalinta maalinteeda.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Waxayna sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciidda Daaqiiqooyinka"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Daaqiiqooyinka"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sida ay qoran tahay"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "iyo allabari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinlaha ah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinlaha"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "tiro ahaan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sida sharcigu yahay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "maalinteeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:13:13.063279741Z",
+  "model": "glm-5.3"
+}

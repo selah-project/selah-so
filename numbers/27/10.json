@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddiise aan lahayn inuu leeyahay walaalo, waxaad siyneysaan ⟨את⟩ dhaxalkiisa walaalada aabbihiis.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddiise"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan lahayn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu leeyahay"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "walaalo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "waxaad siyneysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaxalkiisa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaxalkiisa"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "walaalada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:54:41.060282451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaanan u siiyay Isxaaq ⟨את⟩ Yacquub iyo ⟨את⟩ Ceesaw, waxaanan u siiyay Ceesaw ⟨את⟩ buurta Se'iir inuu haysto, Yacquub iyo wiilashiisuna way hoos u dhaceen Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "waxaanan u siiyay"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yacquub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ceesaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ceesaw"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "waxaanan u siiyay"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ceesaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta Se'iir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buur"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "inuu haysto"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yacquubna"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisa"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "way hoos u dhaceen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:02.912602830Z",
+  "model": "glm-5.3"
+}

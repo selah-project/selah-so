@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Markuu dhammeeyo dhaqaajinta ⟨את⟩ quduuska iyo ⟨את⟩ teendhada kulanka iyo ⟨את⟩ allabariga, wuxuuna soo dhigaa ⟨את⟩ sha'iirka nool.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "markuu dhammeeyo"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "dhaqaajinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quduuska"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduuska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "teendhada kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teendhada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "allabariga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuuna soo dhigaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sha'iirka nool"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "sha'iirka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nool"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:14.520846343Z",
+  "model": "glm-5.3"
+}

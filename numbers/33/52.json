@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 33:52",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waxaadna ka saari doontaan ⟨את⟩ dhammaan degganaha dhulka idinka hortooda, waxaadna baabi'in doontaan ⟨את⟩ dhammaan sawirradooda la qoray, iyo ⟨את⟩ dhammaan sanamyadda la dhalliyay waad baabi'in doontaan, iyo ⟨את⟩ dhammaan boosaskooda sarreeya waad dumin doontaan.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "Waxaadna ka saari doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan degganaha dhulka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "idinka hortooda"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "waxaadna baabi'in doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan sawirradooda la qoray"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משכיתם",
+      "gloss": "sawirradooda la qoray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan sanamyadda la dhalliyay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "sanamyadda"
+    },
+    {
+      "surface": "מסכתם",
+      "gloss": "la dhalliyay (bir)"
+    },
+    {
+      "surface": "תאבדו",
+      "gloss": "waad baabi'in doontaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan boosaskooda sarreeya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "boosaskooda sarreeya (bamot)"
+    },
+    {
+      "surface": "תשמידו",
+      "gloss": "waad dumin doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:07.353701294Z",
+  "model": "glm-5.3"
+}

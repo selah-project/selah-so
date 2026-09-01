@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Gabadhii Farcoonna waxay ku tidhi: Aad. Gabadhii dhalinyaradu way tegay, waxayna soo waramsay ⟨את⟩ hooyadiis ilmaha.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay ku tidhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoonna"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "aad"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "way tegay"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "gabadhii dhalinyaradu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxayna soo waramsay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hooyadiis ilmaha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:28.981182032Z",
+  "model": "glm-5.3"
+}

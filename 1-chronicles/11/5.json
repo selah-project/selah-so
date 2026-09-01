@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxay dhaheen dadka deggan Yebuus ↔ kuwa deggan Yebuus: «Ma timaado halkan», Laakiin Daawuud wuu qabsaday ⟨את⟩ xarunta Tsiyoon — taasina waa magaalada Daawuud.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay dhaheen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan (dadka deggan)"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebuus"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "timaado"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wuu qabsaday"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xarunta Tsiyoon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "xarunta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "taasina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuud"
+    }
+  ],
+  "timestamp": "2026-09-01T08:35:07.787350786Z",
+  "model": "glm-5.3"
+}

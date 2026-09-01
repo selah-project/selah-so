@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Sanado dahab ah soddaatan, sanado lacag ah oo nooca labaad ah afar boqol iyo toban, alaab kale oo kun ah.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "sanado"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "soddaatan"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "sanado"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag ah"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "nooca labaad ah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "alaab"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:11:43.269374645Z",
+  "model": "glm-5.3"
+}

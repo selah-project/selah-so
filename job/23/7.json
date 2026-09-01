@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 23:7",
+  "book": "job",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Halkaa kan toosan wuu la doodaami karaa, annigana weligayga waan ka bixin doonaa garkayga ⟨xukunkayga garabka⟩.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kan toosan"
+    },
+    {
+      "surface": "נוכח",
+      "gloss": "wuu la doodaami karaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    },
+    {
+      "surface": "ואפלטה",
+      "gloss": "waan ka bixin doonaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligayga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "garkayga ⟨xukunkayga garabka⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:46:03.666414851Z",
+  "model": "glm-5.3"
+}

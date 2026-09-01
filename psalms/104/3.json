@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Kan saaraya alalka qolalkiisa sare biyaha, kan dhigaya daruuraha gaadhigiis, kan socda\/geerarka ah oo ku wareegaya baalasha dabaysha.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "kan saaraya alalka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "qolalkiisa sare"
+    },
+    {
+      "surface": "השם",
+      "gloss": "kan dhigaya"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "daruuraha"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "gaadhigiis"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "kan socda\/geerarka ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baalasha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabaysha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:29.931470140Z",
+  "model": "glm-5.3"
+}

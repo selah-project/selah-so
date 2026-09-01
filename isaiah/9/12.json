@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo shacabkuna ma uusan la-noqdin kuwa gablay, iyo ⟨את⟩ Yahweh Tsevaot kama soo-doondhiseen.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Oo shacabkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "uusan la-noqdin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "gablay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "soo-doondhiseen"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:06.038410185Z",
+  "model": "glm-5.3"
+}

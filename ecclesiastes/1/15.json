@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxa la xardhay ⟨lama⟩ toosi karin, oo waxa maqan ⟨lama⟩ tiri karin.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "waxa la xardhay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karin"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "toosi"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "oo waxa maqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karin"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "tiri"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:42.394268777Z",
+  "model": "glm-5.3"
+}

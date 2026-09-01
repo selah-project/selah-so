@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Bal eeg, maalmuhu soo socdaan, waanna goyn ⟨את⟩ gacantaada iyo ⟨את⟩ gacanta guriga aabahaaga, in oday gurigaaga ma jiro.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmuhu"
+    },
+    {
+      "surface": "באים",
+      "gloss": "soo socdaan"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "waanna goyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gacanta guriga aabahaaga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaaga"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "in"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oday"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga (ma jiro)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:47.932589227Z",
+  "model": "glm-5.3"
+}

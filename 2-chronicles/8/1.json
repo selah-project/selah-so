@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuse noqday markay dhammaatayshan toddoba iyo toban sano oo Shelomah ku dhisay ⟨את⟩ beytka Yahweh iyo ⟨את⟩ beytkiisaba,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuse noqday"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "markay dhammaatayshan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "toddoba iyo toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ku dhisay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beytka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beytkiisaba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "beytkiisaba"
+    }
+  ],
+  "timestamp": "2026-09-01T06:38:06.259195252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Waa maalinta Yahweh ciqaabta ah, iyo sannadka abaalgudka, si loo gaarsiiyo (doono) muranka Tsiyon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ciqaabta ah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sannadka"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "abaalgudka"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "si loo gaarsiiyo (doono) muranka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:47.351999802Z",
+  "model": "glm-5.3"
+}

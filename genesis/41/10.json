@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Farcoon wuu cadhooday addoonkiisa, wuuna geliyay aniga ⟨את⟩ xariga guriga sar-ka jabiyayaasha — aniga iyo ⟨את⟩ sar-ka dubistayaasha.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "wuu cadhooday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoonkiisa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuuna geliyay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "aniga ⟨את⟩",
+      "marks": "xariga"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "xariga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar-ka"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "jabiyayaasha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga iyo sar-ka dubistayaasha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sar-ka dubistayaasha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar-ka"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "dubistayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:58:19.135527398Z",
+  "model": "glm-5.3"
+}

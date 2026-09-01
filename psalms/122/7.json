@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Ahaado nabad gidaarkaagii, iyo tasalli gudaarkaaga dheer.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ahaado"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "gidaarkaagii"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "tasalli"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "gudaarkaaga dheer"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.752184498Z",
+  "model": "glm-5.3"
+}

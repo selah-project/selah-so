@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuuna sugay weli toddoba maalmood kale, wuuna mar laba ku celiyay inuu soo saaro ⟨את⟩ gumbarada doonidda.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "wuuna sugay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "wuuna mar laba ku celiyay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "inuu soo saaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumbarada"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "gumbarada"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "doonidda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:24.120063544Z",
+  "model": "glm-5.3"
+}

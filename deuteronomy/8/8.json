@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dhul qamadi iyo sayr ah, iyo canab iyo tin iyo rummaan; dhul eytoon saliid ah iyo malab.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Dhul"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "qamadi"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "iyo sayr"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "iyo canab"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "iyo tin"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "iyo rummaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "זית",
+      "gloss": "eytoon"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliid"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "iyo malab"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:40.802825455Z",
+  "model": "glm-5.3"
+}

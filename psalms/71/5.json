@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Waad tahay rajeeydayda, Adonay Yahweh, kalsoonadaydii ilmo-gurasho ka dib",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waad tahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "rajeeydayda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "kalsoonadaydii"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ilmo-gurasho ka dib"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:24.984973973Z",
+  "model": "glm-5.3"
+}

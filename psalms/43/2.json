@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "waayo adiga ayaa ah Elohim taageeradayd; maxaad i diiday? maxaan u dhexmaraa murug cidhiidhii cadowga?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "taageeradayd"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "i diiday"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "u dhexmaraa murug"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "uu ku socdaa"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "cidhiidhiga"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:54.147397137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Geedaha Yahweh way ka bexeen (dhirrin buuxsantahay); arzeda Lubnaan, kuwaas uu beeray.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "way ka bexeen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arzeda"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "uu beeray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:26.881225069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxay qaadateen ⟨את⟩ Lood iyo ⟨את⟩ hantidiisa, ina walaalkii Aabraam, waxayna tegeen; isagoo ku deggan Seddom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaadataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lood"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hantidiisa"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hantidiisa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkii"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Aabraam"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "waxayna tegeen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ku deggan"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Seddom"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:38.361046161Z",
+  "model": "glm-5.3"
+}

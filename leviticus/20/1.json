@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yahweh waxuu la hadlay Muuse isagoo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "waxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la (ela)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:39.907107103Z",
+  "model": "glm-5.3"
+}

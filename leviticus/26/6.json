@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo waxaan idinka dhigayaa nabadgelyo ⟨dhexdooda⟩ dhulka, ood setaan oo aan cabsi gelinaye waayo, oo waxaan joojinayaa duul xun ⟨ah⟩ dhulka, oo seef ayay ku gudhin doontaa dhulkayagina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Oo waxaan idinka dhigayaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadgelyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dhexdooda⟩ dhulka"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "ood setaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "cabsi gelinaye waayo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "oo waxaan joojinayaa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "duul xun"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨ah⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "oo seef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ayay ku gudhin doontaa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "dhulkayamina"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:44.554560768Z",
+  "model": "glm-5.3"
+}

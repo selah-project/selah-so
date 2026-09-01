@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Ruuxa Yahwehna waxay ka tegtay Shaa'uul, ruux xun oo ⟨את⟩ Yahweh ka timaaddana waxay cabsi geliyay ⟨isaga⟩.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "waxay ka tegtay"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "waxayna cabsi geliyay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... ka timaadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:06.411636832Z",
+  "model": "glm-5.3"
+}

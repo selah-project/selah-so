@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Waxaa loo soo conin doonaa boqorka iyadoo ku dhar rinji-qasan (raqam); bikrooyinka gadaasheed iyo saaxiibaddeedu waxaa lagu soo conin doonaa ⟨adiga⟩.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "dhar rinji-qasan (raqam)"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "waa loo soo conin"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bikrooyin"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "gadaasheed"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "saaxiibaddeedu"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "waa lagu soo conin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:57.845809425Z",
+  "model": "glm-5.3"
+}

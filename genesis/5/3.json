@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuu noolaa Aadanka sodon iyo boqol sano, wuxuuna dhalay wiil suurtiisa la mid, sawirkiisana raac, wuxuuna ku magacaabay ⟨את⟩ magaciisa Sheydh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Wuxuu noolaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadanka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "suurtiisa la mid"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "sawirkiisana raac"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna ku magacaabay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheydh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:15.600451433Z",
+  "model": "glm-5.3"
+}

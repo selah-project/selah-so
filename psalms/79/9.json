@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Naga gargaar, Elohim-yo nabad-gelyadayada, awgood ammaanka Magacaaga, oo naga sakoow oo dhaawi dhaawooyinnaga, awgood Magacaaga.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "naga gargaar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-yo"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "nabad-gelyadayada"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "oo naga sakoow"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "oo dhaawi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "dhaawooyinnaga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:35.818026105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Dawiidna wuxuu tegi jiray oo Shaa'uul ka laabtay, inuu daajsto ⟨את⟩ adhigii aabbihiis Beyt-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawiidna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tegi jiray"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "laabti jiray"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "daajista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigii"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhigii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:39.749090272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuu ahaa markii boqorkii Chizqiyahu maqlay, wuu dildilay ⟨את⟩ dhararkiisii, wuuna isu duubay sagxadh (baqsho), wuuna galay baytkii Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa markii"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "markii uu maqlay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizqiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wuu dildilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhararkiisii"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dhararkiisii"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "wuuna isu duubay"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "sagxadh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuuna galay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:52.676163052Z",
+  "model": "glm-5.3"
+}

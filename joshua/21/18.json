@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Canaatoth iyo ⟨את⟩ beerkeedii, iyo ⟨את⟩ Camon iyo ⟨את⟩ beerkeedii — magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Canaatoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Canaatoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Camon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Camon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:37.743173184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Sanduuqa Yahweh wuxuu ahaa ⟨⟨in⟩⟩ beeraha Filistiintii bilaha toddoba ah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bilaha ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:25.279646843Z",
+  "model": "glm-5.3"
+}

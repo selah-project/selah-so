@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yehooshuuca waaryo hore buu soo kacay, wuuna tiriyay ⟨את⟩ barxaaska, wuuna kacay isaga iyo odayaasha Israa'iil barxaaska horta ka hor Caayi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "waaryo hore buu soo kacay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wuuna tiriyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barxaaska"
+    },
+    {
+      "surface": "העם",
+      "gloss": "barxaaska"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuuna kacay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "iyo odayaasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "barxaaska"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Caayi"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:13.829683673Z",
+  "model": "glm-5.3"
+}

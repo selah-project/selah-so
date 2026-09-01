@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "El aad loo cabsado waa shirka quduuska ah ee weyn, oo cabsi leh kuwa ka soo jeeda oo dhan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "aad loo cabsado"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "waa shirka"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ee weyn"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "oo cabsi leh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuwa ka soo jeeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "kuwa ka soo jeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.907391031Z",
+  "model": "glm-5.3"
+}

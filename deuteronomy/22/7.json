@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waa adiga baa dhaafin doontaa hoosta, carruurtana adigu waad qaadan doontaa, si ay ku wanaagsanto, aadna cimri dheeraysato.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "waa... dhaafin"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "dhaafin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoosta"
+    },
+    {
+      "surface": "האם",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "carruurtana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "carruurtana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qaadan doontaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ku wanaagsanto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "cimri dheeraysato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "(cimri)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:51.179206491Z",
+  "model": "glm-5.3"
+}

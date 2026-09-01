@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kabso Yahweh ⟨את⟩ hantidaada, iyo birkii koowaad ee dhammaan waxa soo noqda oo dhan.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kabso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "hantidaada"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "iyo birkii koowaad ee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "waxa soo noqda oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:25.862431116Z",
+  "model": "glm-5.3"
+}

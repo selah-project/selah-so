@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Laakiin ma dhegeysteen, waxayna adkeeyeen ⟨את⟩ qoysheenna sida qooshka aabbayaalkooda, kuwaas oo aan rumaysnayn Yahweh Elohimkooda.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Laakiin ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhegeysteen"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "waxayna adkeeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoosheenna"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "qoosheenna"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "sida qooshka"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabbayaalkooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "rumaysnayn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:51:44.559988864Z",
+  "model": "glm-5.3"
+}

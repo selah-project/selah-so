@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Halka aan lo'do lahayn, malkabaddu waa nadiif, oo wax-soo-saarka badan wuxuu ka yimaadaa awooda dhiigga.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "halka aan lahayn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "lo'do"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "malkabaddu"
+    },
+    {
+      "surface": "בר",
+      "gloss": "nadiif"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "oo ... badan"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "wax-soo-saarka"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "awooda"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dhiigga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:12.230419387Z",
+  "model": "glm-5.3"
+}

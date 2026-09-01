@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Bal eeg, waxaan ka dhigay ⟨את⟩ wajigaaga mid adag ka hor wajigooda, iyo ⟨את⟩ jabbadaada mid adag ka hor jabbadooda.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan ka dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "mid adag"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wajigooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jabbadaada"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "jabbadaada"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mid adag"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "jabbadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:25:53.849773033Z",
+  "model": "glm-5.3"
+}

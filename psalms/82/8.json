@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 82,
+  "translation": "I soo kac, Elohim, dhulka gaadho xukun, adigaa dhaxlay dhammaan shacabka.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "I soo kac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "gaadho xukun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "dhaxlay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:48.712414729Z",
+  "model": "glm-5.3"
+}

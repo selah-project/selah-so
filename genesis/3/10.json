@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna yidhi, Codkaaga waan maqlay beerigii, waanna cabsaday, waayo, qaawan baan ahay, waanna isqariyay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkaaga"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "codkaaga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "waan maqlay"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "beerigii"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "waanna cabsaday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "qaawan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan ahay"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "waanna isqariyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:45.803121003Z",
+  "model": "glm-5.3"
+}

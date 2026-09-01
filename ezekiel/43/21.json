@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Waxaadna qaadaneysaa ⟨את⟩ dhibicda dembiga (eyga dembiga) waxaana la gubi meesha loo cadeeyay guriga, dibedda macbadka.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "waxaadna qaadaneysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibicda dembiga (eyga dembiga)"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "eyga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "waxaana la gubi"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "meesha loo cadeeyay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "macbadka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:25:29.414049664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Kii xaqda ah wuu farxonayaa markuu arko ⟨את⟩ aargashada; cagihiisa wuu ku dhaqayaa dhiigga kii xun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "wuu farxonayaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kii xaqda ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "arko"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "aargashada"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "cagihiisa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "wuu ku dhaqayaa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kii xun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:25.556222860Z",
+  "model": "glm-5.3"
+}

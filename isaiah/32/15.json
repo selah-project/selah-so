@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "ilaa ruuxii laga shubo korkayna kor sare, markaasaa abaabulku wuxuu noqon doonaa beer-carwo, beer-carwkana wuxuu loo tiri doonaa kayn.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "laga shubo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "korkayna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxii"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kor sare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "markaasaa wuxuu noqon doonaa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "abaabulku"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "beer-carwo"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "beer-carwkina"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "kayn"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "wuxuu loo tiri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:59.848578622Z",
+  "model": "glm-5.3"
+}

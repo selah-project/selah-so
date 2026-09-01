@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Ha gaboobina kuwa kuu sugaya adiga, Adonay Yahweh Tseva'ot; ha sharmoodina kuwa ku doondoonaya adiga, Elohim-ka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha ... ina"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "gaboobina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "kuwa kuu sugaya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ... ina"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "sharmoodina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kuwa ku doondoonaya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.635657449Z",
+  "model": "glm-5.3"
+}

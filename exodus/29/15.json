@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaad qaadataa ⟨את⟩ wanalkii koowaad, waxayna dhigi doonaan Aharon iyo wiilashiisu ⟨את⟩ gacmohooda madaxa wanalka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanalkii koowaad"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanalkii"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qaadataa"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dhigi doonaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "wiilashiisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmohooda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanalka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:51.230927480Z",
+  "model": "glm-5.3"
+}

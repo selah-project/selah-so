@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Shaqo farsamo-qumeen ah oo dhagax ah, faro-qorid sidii seaal, waxaad ku faraysaa ⟨את⟩ labada dhagax magacyada wiilasha Israa'iil; goobo dahab ah oo mareegsan ayaa ka dhigi doontaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "farsamo-qumeen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "faro-qorid"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "seaal"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "waxaad ku faraysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada dhagax"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "mareegsan"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "goobo (milix-qaad)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad ka dhigi doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labada dhagax"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:46.925856080Z",
+  "model": "glm-5.3"
+}

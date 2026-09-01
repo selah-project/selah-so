@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Lab kasta oo ka mid ah kohanniinta wuu cuni doonaa ⟨את⟩; waa qaddus-Qaddoosiin (qadduska qaddusyada).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "oo ka mid ah kohanniinta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wuu cuni doonaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isti\/qurbaanka (waxa la cunayo)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Qaddoosiin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:04.036633602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Cadowdaydu way ii neef ula jiidaan maalinta oo dhan, waayo waxaa jira badan oo ii duullanaya, kan sarreeya (El Elyon).",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "way ii neef ula jiidaan"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "oo ii duullanaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kan sarreeya (El Elyon)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:15.358991352Z",
+  "model": "glm-5.3"
+}

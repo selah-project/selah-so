@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuuna sameeyay ulo geedaha shitiim ah, wuuna ku duubay ⟨את⟩ dahab.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuuna sameeyay"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitiim ah"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wuuna ku duubay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dahab"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:06.603411742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo Samu'uul wuxuu xukumay ⟨את⟩ Israa'iil inta maalmood oo dhan oo noloshiisa.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wuxuu xukumay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samu'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta...oo dhan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "noloshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:32.250617139Z",
+  "model": "glm-5.3"
+}

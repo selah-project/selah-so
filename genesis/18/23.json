@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Ibraahim wuu soo dhowaaday, wuxuuna yidhi: Ma runtii baad baabi'in doontaa kan caddaaladda leh oo wajiga daalimka ah?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wuu soo dhowaaday"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ma runtii"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "baabi'in doontaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan caddaaladda leh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo wajiga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "daalimka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:19.086022331Z",
+  "model": "glm-5.3"
+}

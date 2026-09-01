@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waayo, adigaa naga badbaadin tayey cadowyadayada, oo kuwa nacíbaynaana waad ceebaynaysay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "adigaa naga badbaadin tayey"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "cadowyadayada"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "kuwa nacíbaynaana"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "waad ceebaynaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:55.696404222Z",
+  "model": "glm-5.3"
+}

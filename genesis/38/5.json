@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Oo waxay kale-kale-carry ah: waxay dheeraatay wax-dheeraad ah, waxay dhashay wiil, waxay u magac- bixisay ⟨את⟩ magaciisa Shelah; oo markay dhashay ⟨את⟩ isaga, wuxuu ahaa ⟨wuxuu ahaa⟩ Cheziib.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "waxay dheeraatay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax-dheeraad ah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxay u magac-bixisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Cheziib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "markay dhashay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:44.758620237Z",
+  "model": "glm-5.3"
+}

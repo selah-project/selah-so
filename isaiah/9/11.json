@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Araam ⟨bannaanka ka hor⟩, iyo Falastiin ⟨gadaal⟩, oo waxay qadeen ⟨את⟩ Israaiil afka oo dhan; tani oo dhan xaggiisana cadhadiisu ma uusan la-noqdin, gacantiisuna weli waa ta bannaan.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bannaanka ka hor"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "iyo Falastiin"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "oo waxay qadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israaiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "afka oo dhan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "af"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "la-noqdin"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadhadiisu"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisu"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "waa ta bannaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:06.038260713Z",
+  "model": "glm-5.3"
+}

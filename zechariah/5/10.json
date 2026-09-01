@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Markaasaan ku idhi malaggii ii hadlaya, Xaggee bay ku sidayeenayaan ⟨את⟩ haanka?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Markaasaan ku idhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaggii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ii hadlaya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Xaggee"
+    },
+    {
+      "surface": "המha",
+      "gloss": "bay"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ku sidayeenayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haanka"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "haanka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:56:46.543530786Z",
+  "model": "glm-5.3"
+}

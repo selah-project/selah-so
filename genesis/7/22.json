@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wax kastoo neefta nolosha ah ee sanka ku jirtay, dhammaan waxa dhulka engeggu ka mid ahaa, way dhinteen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wax kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "neefta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "neefta nolosha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sanka ku jirtay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan waxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "dhulka engeggu ka mid ahaa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "way dhinteen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:58.664412473Z",
+  "model": "glm-5.3"
+}

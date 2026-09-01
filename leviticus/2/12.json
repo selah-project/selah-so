@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Hadhka biloow ah ayaa ⟨את⟩ kaasu aad u dhowaystaan Yahweh; laakiin altaarka kuma koraan si udgoon nasiixo ah.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "hadhka"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "biloow ah"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "aad u dhowaystaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaasu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "koraan"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "si udgoon"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nasiixo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:12.977496393Z",
+  "model": "glm-5.3"
+}

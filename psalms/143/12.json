@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Khesedkaaga dartii na baabihi cadowdayda, oo baabihi dhammaan kuwa naftayda cabsi-geliya, waayo anigu addoonkaagaa ahaa.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Khesedkaaga dartii"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "na baabihi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "oo baabihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "kuwa ... cabsi-geliya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.722881180Z",
+  "model": "glm-5.3"
+}

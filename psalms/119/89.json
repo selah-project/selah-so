@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ilaa weligay, yaa Yahweh, ereyagaagu wuxuu taagan yahay samooyinka.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Ilaa weligay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ereyagaagu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "wuxuu taagan yahay"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samooyinka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:27.727138707Z",
+  "model": "glm-5.3"
+}

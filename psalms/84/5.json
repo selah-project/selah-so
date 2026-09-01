@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Immisa barwaaqo ah kuwa ku dhaqan ⟨gurigaaga⟩, weligood bay ku ammaanayaan. Selaah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "immisa barwaaqo ah"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa ku dhaqan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "bay ku ammaanayaan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:25.403862169Z",
+  "model": "glm-5.3"
+}

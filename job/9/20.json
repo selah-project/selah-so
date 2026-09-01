@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Haddaan caddeyo naftayda, afkay baa i demee; haddaan dhaqanlaawan ahay, wuu i xumeeyaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "caddeyo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkay baa"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "i demee"
+    },
+    {
+      "surface": "תם",
+      "gloss": "dhaqanlaawan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan ahay"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "wuu i xumeeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:31.758831092Z",
+  "model": "glm-5.3"
+}

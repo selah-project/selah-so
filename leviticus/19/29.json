@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha celuulin ⟨את⟩ gabadhaa si loo ganaysto, aanay dhulkuna ganaysan, oo aan dhulku ku dhammaan nacas xun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "celuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhaa"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "gabadhaa"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "si loo ganaysto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanay"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ganaysan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ku dhammaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nacas xun"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:13.569387538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ilmaha Israel waxay midho-dhalleen, oo si badan u taray, oo isbadal balaadhan sameeyeen, oo aad u xoog yeeshay, aad iyo aad; oo dhulkii wuxuu ku shubmay ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "midho-dhalleen"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "si badan u taray"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "isbadal balaadhan sameeyeen"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "aad u xoog yeeshay"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "aad iyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "wuxuu ku shubmay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:50.337092587Z",
+  "model": "glm-5.3"
+}

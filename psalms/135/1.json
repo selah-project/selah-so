@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Ammaana u dhigeeya Yah, ammaana u dhigeeya ⟨את⟩ magaca Yahweh, ammaana u dhigeeya, addoontiisii Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ammaana u dhigeeya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ammaana u dhigeeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ammaana u dhigeeya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoontiisii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:26.609249935Z",
+  "model": "glm-5.3"
+}

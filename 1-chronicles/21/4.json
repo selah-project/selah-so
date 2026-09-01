@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Laakiin hadalkii boqorku wuu adkaaday Yoo'aab, Yoo'aabna wuxuu baxay, wuxuuna ku socday dhammaan ⟨gudaha⟩ Israa'iil, wuxuuna yimid Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wuu adkaaday"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "wuxuuna ku socday"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan ⟨gudaha⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:57.830382530Z",
+  "model": "glm-5.3"
+}

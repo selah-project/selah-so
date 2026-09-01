@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Muuse wuxuu u diray ⟨את⟩ iyagoo baaraya ⟨את⟩ dhulka Kanaan, wuxuuna ku yidhi: Kaca tan dhinaca Nageebka (koofurta), idinkuna kacdaan ⟨את⟩ buurta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse wuxuu diray iyaga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "baarya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "kaca"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Nageebka"
+    },
+    {
+      "surface": "וַעֲלִיתֶם",
+      "gloss": "idinkuna kacdaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:55.882320024Z",
+  "model": "glm-5.3"
+}

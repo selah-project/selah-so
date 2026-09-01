@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Jar naf darteed ma gelinseenna jidhkiinna, oo qoraal jar-jar ahna ma gelinseenanna naftiinna; ani waxaan ahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "jar (jajab)"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "naf darteed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... ahayn"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ha gelin"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "jidhkiinna"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "oo qoraal"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "jar-jar (qaanso)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... ahayn"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ha gelin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:07.988001550Z",
+  "model": "glm-5.3"
+}

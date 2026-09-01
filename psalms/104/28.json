@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Waxaad siisaa way aruursadaan; gacantaada waad furaysaa, wanaag bay ka shuqmaan.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "waxaad siisaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "way"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "aruursadaan"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "waad furaysaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "way ka shuqmaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.994304187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Nabalku wuxuu qalbigiisii ku yidhi: ma jiro Elohim. Waxay baabi'iyeen, waxay qalloocshahooda ku nashaadeen, ma jiro mid sama falaya.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabalku (nijaasan)"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "waxay baabi'iyeen"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "waxay ku nashaadeen"
+    },
+    {
+      "surface": "עול",
+      "gloss": "qalloocsho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mid falaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sama"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:05.779425200Z",
+  "model": "glm-5.3"
+}

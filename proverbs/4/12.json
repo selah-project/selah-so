@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaad socoto, talaalkaagu ma dhuunnoonaan; haddaad oroddo, ma lumi doontid.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "markaad socoto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dhuunnoonaan"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "talaalkaagu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo haddaad"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "oroddo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "lumi doontid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:46.987900465Z",
+  "model": "glm-5.3"
+}

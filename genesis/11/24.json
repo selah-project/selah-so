@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Nahor wuxuu noolaa sagaal iyo labaatan oo sano, wuxuuna dhalay ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iyo labaatan oo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:21.379409491Z",
+  "model": "glm-5.3"
+}

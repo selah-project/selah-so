@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuunase ku yidhi: Yahweh ha idinla jiro sidii aan ⟨את⟩ idinka iyo ⟨את⟩ carruurtiinna dirayo; eega, waayo shar baa wajiyiinna horta yaal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuunase ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha ahaado"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ha idinla jiro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "aan dirayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "carruurtiinna"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "carruurtiinna"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "eega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "horta"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "wajiyiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:01.902009446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Naa muddooyin dhammaantood waa la amaanayaa Yahweh. Aamiin, iyo Aamiin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "waa la amaanayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "naa muddooyin dhammaantood"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "iyo Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:20.406239077Z",
+  "model": "glm-5.3"
+}

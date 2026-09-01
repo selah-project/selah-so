@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Toban-meel u dhismaan (asharaa) waxaa dhan ⟨את⟩ waxa abuura middkaaga, waxa beerxa dhexda ka soo baxa, sannad kasta sannad kasta.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "asharaa"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ashar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa dhan waxa abuura middkaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa dhan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "waxa abuura"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "middkaaga"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "dhexda ka soo baxa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beerxa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sannad"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sannad kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:37.151656115Z",
+  "model": "glm-5.3"
+}

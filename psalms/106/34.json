@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Uma baabi'in ⟨את⟩ shacababka ee Yahweh ku yidhi ⟨in ay baabi'iyaan⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "baabi'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacababka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacababka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨in ay baabi'iyaan⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:39.843024032Z",
+  "model": "glm-5.3"
+}

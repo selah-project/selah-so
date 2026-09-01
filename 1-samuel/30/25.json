@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Wuxuuse ahaa ⟨wuxuu ahaa⟩ maalkaas iyo wixii ka dambeeya, wuxuu ka dhigay shardi iyo xukun Israa'iil ilaa maantadan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuse ahaa"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "maalkaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(maalkaas)"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "iyo wixii ka dambeeya"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "wuxuu ka dhigay"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "shardi"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(maanta)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:22.202659422Z",
+  "model": "glm-5.3"
+}

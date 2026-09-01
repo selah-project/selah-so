@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kushna wuxuu dhalay ⟨את⟩ Nimrod; isagoo ah kii bilaabay inuu noqdo geesi ⟨dhexdii⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushna"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagoo ah"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bilaabay"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "inuu noqdo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dhexdii⟩ dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:02.770022994Z",
+  "model": "glm-5.3"
+}

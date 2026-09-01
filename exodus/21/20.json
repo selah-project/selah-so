@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo haddii nin uu dhuunto addoonkiisa ⟨את⟩ ama addoon-tariisiisa ⟨את⟩ ul, oo uu dhinto gacantiisa hoosteed, ciqaab ha la ciqaabo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "uu dhuunto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkiisa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "addoonkiisa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoon-tariisiisa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "addoon-tariisiisa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "oo uu dhinto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosteed"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ciqaab"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "ha la ciqaabo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:50.817288237Z",
+  "model": "glm-5.3"
+}

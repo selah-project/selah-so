@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna diray ⟨את⟩ kiyaha xaggiisa ka dib, si uu u arko haddii biyuhu yareen ka wejiga dhulka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wuxuuna diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyaha"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kiyaha"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "xaggiisa ka dib ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "si uu u arko"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "haddii ... yareen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:53.293836796Z",
+  "model": "glm-5.3"
+}

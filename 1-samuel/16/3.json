@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo Yishay ugu warami allabariga, anigoona waan kuu sheegayaa ⟨את⟩ waxa aad qabanayso; oo ii ku subay ⟨את⟩ kan aan kuu dhaho.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "oo ugu warami"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "anigoona"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "waan kuu sheegayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aad qabanayso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aad qabanayso"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "oo ii ku subay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan aan kuu dhaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aan kuu dhaho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:14.791454403Z",
+  "model": "glm-5.3"
+}

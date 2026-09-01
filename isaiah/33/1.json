@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Hoyga burburiyaha, adigana lama burburiyin; hoyga khiyaanayaha, lama khiyaanayn ⟨adiga⟩; markaad dhammayso burbinta, burburiyaha, waa la burburiyaa; markaad khiyaanada dhamaystirto, way ku khiyaanaylaan.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyga"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "burburiyaha"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "burburiyin"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "khiyaanayaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "khiyaanayn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨adiga⟩"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "markaad dhammayso"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "burburiyaha"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "waa la burburiyaa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "markaad khiyaanada dhamaystirto"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "khiyaanada"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "way ku khiyaanaylaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T03:47:25.109871861Z",
+  "model": "glm-5.3"
+}

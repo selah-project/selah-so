@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 17:16",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Haddaba degdeg u dir oo u sheega Daawud dhehi: Ha seegin habeenkan beanaha bannaanka ee keymmaha, laakiin dhab ahaan gudbo, si boqorka iyo dadka oo dhan ⟨את⟩ isagu la jira aan laga liqi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "u dir"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "oo u sheega"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dhehi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "seegin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenkan"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "beanaha bannaanka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "keymmaha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "laakiin dhab ahaan"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "gudbo"
+    },
+    {
+      "surface": "תעבור",
+      "gloss": "gudbo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "laga liqi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo dadka oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isagu la jira",
+      "marks": "boqorka iyo dadka isagu la jira"
+    }
+  ],
+  "timestamp": "2026-09-01T08:22:18.757428585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "iyo Remeth, iyo Eyn-Gannim, iyo Eyn-Chaddah, iyo Beyt-Fatses.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "iyo Remeth"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "iyo Eyn"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Gannim"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "iyo Eyn"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Chaddah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo Beyt"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Fatses"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:07.118973889Z",
+  "model": "glm-5.3"
+}

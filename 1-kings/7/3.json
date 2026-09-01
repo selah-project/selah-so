@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waa la saffay birrash ka kor ah, dhinacyada ku yaal tiirarka, afartan iyo shan ⟨tiir⟩, shan iyo toban saf kasta.",
+  "tokens": [
+    {
+      "surface": "וְסָפֻ֣ן",
+      "gloss": "waa la saffay"
+    },
+    {
+      "surface": "בָּאֶ֗רֶז",
+      "gloss": "birrash"
+    },
+    {
+      "surface": "מִמַּ֨עַל֙",
+      "gloss": "ka kor ah"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "הַצְּלָעֹת֙",
+      "gloss": "dhinacyada"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "הָֽעַמּוּדִ֔ים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "אַרְבָּעִ֖ים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "וַחֲמִשָּׁ֑ם",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "חֲמִשָּׁ֥ה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עָשָׂ֖ר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "הַטּֽוּר",
+      "gloss": "safka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:22:39.686102895Z",
+  "model": "glm-5.3"
+}

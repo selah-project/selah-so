@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 131,
+  "translation": "Hees hindaha, ee Dabiid. Yahweh, wadankeygu ma sarreeyin, indhahayguna ma sarreeyin, waanana tegnin waxyaalaha waaweyn iyo cajiibbadan iga sarreeya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hindaha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Dabiid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "sarreeyin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadankeygu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "sarreeyin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayguna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "waanana tegnin"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "waxyaalaha waaweyn"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "cajiibbadan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga sarreeya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:03.881178731Z",
+  "model": "glm-5.3"
+}

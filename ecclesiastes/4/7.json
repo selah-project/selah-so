@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaana dib ugu noqday ani, oo arkay hebel ⟨hoos⟩ qoraxda.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "waxaana dib ugu noqday"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "oo arkay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.748210250Z",
+  "model": "glm-5.3"
+}

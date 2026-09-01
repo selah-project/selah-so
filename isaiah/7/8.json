@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waayo, madaxa Aram waa Dimashq, madaxa Dimashqna waa Retsiin; oo muddo lixdan iyo shan sano ka dib, Efrrayim waa la jabin, in aan ummad noqon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashq"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashqna"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsiin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "muddo... ka dib"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "lixdan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "waa la jabin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrrayim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "in aan ummad noqon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:37.059740837Z",
+  "model": "glm-5.3"
+}

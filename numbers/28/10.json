@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Allabarii (olah) Sababadda Sababadkeedii, waxa ka dheeraa allabarigii joogtadaa (hatamid) iyo nisaankiisu.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Allabarii (olah)"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sababadda"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "Sababadkeedii"
+    },
+    {
+      "surface": "על",
+      "gloss": "waxa ka dheeraa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "joogtadaa (hatamid)"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "iyo nisaankiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:54:49.093233789Z",
+  "model": "glm-5.3"
+}

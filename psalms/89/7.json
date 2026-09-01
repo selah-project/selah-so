@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waa maxaan oo ka mid ah daruuraha la eg yahay Yahweh? Yaa la mid yahay Yahweh wiilasha Adkaadaha dhexdood?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxaan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ka mid ah daruuraha"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "la eg yahay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "Yaa la mid yahay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wiilasha dhexdood"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Adkaadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.907251966Z",
+  "model": "glm-5.3"
+}

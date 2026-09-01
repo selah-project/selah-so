@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Faras waa khiyaano (sheko) manta-wanaagsan (badbaado); oo awooddiisa badan waxba ma siiftirto.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "khiyaano (sheko)"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "faraska"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "oo badnaanta"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "awooddiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "siiftirto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:05.022156907Z",
+  "model": "glm-5.3"
+}

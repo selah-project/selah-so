@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Kac! Maxaad seexanaysaa, Adonay? Kaca, ha na diidin weligaaba.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Kac!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "seexanaysaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Kaca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "na diidin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligaaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.968208339Z",
+  "model": "glm-5.3"
+}

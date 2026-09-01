@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Markaasaan idhi, Bal eeg, waan imid; guddigii kitaabka waxaa ii qoran.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaas"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aan idhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "waan imid"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "guddigii"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitaabka"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "waxaa qoran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:49.313143979Z",
+  "model": "glm-5.3"
+}

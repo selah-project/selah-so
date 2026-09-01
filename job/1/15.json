@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Saba'iintii waxay soo boodeen, waxayna qabsadeen, ⟨את⟩ addoomadiina waxay garaaceen af seef; aniga oo keliya baa naafada ka baxsaday inaan kuu sheego.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "waxay soo boodeen"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba'iintii"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "waxayna qabsadeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "addoomada"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "addoomada"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "waxay garaaceen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "baa naafada ka baxsaday"
+    },
+    {
+      "surface": "רק",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "inaan sheego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:30.457702911Z",
+  "model": "glm-5.3"
+}

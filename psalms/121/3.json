@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Ha u oggolin ⟨inuu⟩ lugtaada dhaafo; ha seexin ilaaliyahaaga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha (diidmo)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "oggolin"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "inuu dhaafo (lugtaada)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lugtaada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha (diidmo)"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "seexin (qadhaadh-qaadhis)"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ilaaliyahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:14.792552783Z",
+  "model": "glm-5.3"
+}

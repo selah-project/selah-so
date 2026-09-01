@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wadaankii qalladda bixiyay ⟨את⟩ wuu cuni doonaa ⟨isaga⟩; meel quduus ah baa lagu cunaa, barxadda khaymaha ⟨sharciga⟩ kulanka.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "wadaankii"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "qalladda bixiyay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la cunay (qalladda)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "wuu cuni doonaa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus ah"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "lagu cunaa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:26.797652459Z",
+  "model": "glm-5.3"
+}

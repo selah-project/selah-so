@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo wuxuu qaadan doonaa ⟨את⟩ labada ri'i lab, wuuna taagi doonaa ⟨את⟩ ⟨iyaga⟩ horfaceda Yahweh, iridda Khaymada Kulanka.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada ri'i lab"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ri'yada lab"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "wuuna taagi doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨iyaga⟩",
+      "marks": "labada ri'i lab"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horfaceda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:01.579911830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Falastiintii waxay hormarsameen, oo mar dambe ma u soo galin xuduudaha Israa'iil, oo gacanta Yahweh waxay ahayd ku shaqaysa Falastiintii inta maalmood oo dhan oo ah maalinta Samu'uul.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "waxay hormarsameen"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Falastiintii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "u soo galin (mar dambe)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "galin"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "xuduudaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oo waxay ahayd"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ku shaqaysa Falastiintii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta...oo dhan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "maalinta Samu'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:32.250121295Z",
+  "model": "glm-5.3"
+}

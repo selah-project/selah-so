@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waayo meesha ay guuriyeen ⟨את⟩ isaga halkaas ayuu dhimanayaa, ⟨את⟩ dhulkanase weligiis ma arki doonaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "guuriyeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ayuu dhimanayaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arki doonaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:35.246063767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ilmahiinnii waxaad dheheen inay noqon lahaayeen bahdi (wax la qabsado), waanan keeni doonaa ⟨את⟩ iyaga, waana ogaan doonaan ⟨את⟩ dhulka aad diiddanteen.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "ilmahiinnii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "dheheen"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "bahdi (wax la qabsado)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqon lahaayeen"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "waanan keeni doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (ilmaha)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "waana ogaan doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "diiddanteen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(xaq u ah isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:17:25.499513172Z",
+  "model": "glm-5.3"
+}

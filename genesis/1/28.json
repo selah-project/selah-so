@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohim wuxuu barakaystay ⟨את⟩ iyaga, Elohimna wuxuu ku yidhi: Dheereeya oo badmaata, oo buuxshaa ⟨את⟩ dhulka oo qabsada, oo xukuma kalluunyada badda iyo shimbiraha samada iyo xayawaanka nool ee dhulka ku socda.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuu barakaystay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "adamka iyo naaggiisa (להם)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "dheereeya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "oo badmaata"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "oo buuxshaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "oo qabsada"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "oo xukuma"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "kalluunyada"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "iyo shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "xayawaanka nool"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ee ku socda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:51.142762369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Amaradaada oo dhan ⟨waa⟩ run, been bay ii raaceen; i gargaar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amaradaada"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "⟨waa⟩ run"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "bay ii raaceen"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "i gargaar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:03.702112347Z",
+  "model": "glm-5.3"
+}

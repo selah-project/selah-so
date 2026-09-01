@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Adigu garab birqab tahay, yaa Yahweh, oo ⟨waa⟩ toosan xukumnadaada.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "garab birqab tahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahweh"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "oo ⟨waa⟩ toosan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukumnadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:00.808997907Z",
+  "model": "glm-5.3"
+}

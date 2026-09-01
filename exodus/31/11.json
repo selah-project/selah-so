@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Iyana ⟨את⟩ saliidaha subkidda iyo ⟨את⟩ qura'uudka uunka tan iyo qodsanka, sida waxa kasta oo aan ku amray baaba way sameynayaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saliidaha subkidda"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidaha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qura'uudka uunka"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qura'uudka"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "uunka"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "tan iyo qodsanka"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida waxa kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "aan ku amray"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "baaba way sameynayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:05.752991480Z",
+  "model": "glm-5.3"
+}

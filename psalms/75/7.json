@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Waayo, sar-qaad ma ka imaan bannaanka-bari iyo bannaanka-galbeed, mana ka imaan meel-bannaanka buuraha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "bannaanka-bari (bixitaanka)"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "iyo bannaanka-galbeed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "meel-bannaanka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:09.808386838Z",
+  "model": "glm-5.3"
+}

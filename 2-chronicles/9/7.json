@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Nasiib wanaagsan oo idiin ah raggaada, oo nasiib wanaagsan oo u ah addoonadaasu kuwan ingiri fadhiya hortaa had iyo goor, oo maqlaya ⟨את⟩ xigmaddaada.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nasiib wanaagsan oo ... ah"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "raggaada"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "oo nasiib wanaagsan oo u ah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoonadaada"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ingiri fadhiya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo goor"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "oo maqlaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xigmaddaada"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "xigmaddaada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:38:22.188007399Z",
+  "model": "glm-5.3"
+}

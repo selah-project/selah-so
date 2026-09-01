@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Yahweh wuxuu raalli noqdaa ⟨את⟩ cabsi-qaadihiisa, ⟨את⟩ kuwa sugaya khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "wuxuu raalli noqdaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cabsi-qaadihiisa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cabsi-qaadihiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa sugaya khesedkiisa"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "kuwa sugaya"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:09.535238808Z",
+  "model": "glm-5.3"
+}

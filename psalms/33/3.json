@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Isaga ku gadmada hees cusboon; fiican u dhaqaajisa dhawaaq weyn oo faraxsan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ku gadmada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusboon"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "fiican u dhaqaajisa"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "(tumbursho)"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "dhawaaq weyn oo faraxsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:24.523730309Z",
+  "model": "glm-5.3"
+}

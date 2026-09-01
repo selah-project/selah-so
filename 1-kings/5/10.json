@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Xikmaddii Sulaymaanna waxay ka weynayd xikmada dhammaan carruurtii bariga, iyo dhammaan xikmadda Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "waxay ka weynayd"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "xikmaddii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaymaan"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ka xikmada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurtii"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "xikmadda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:22.107292382Z",
+  "model": "glm-5.3"
+}

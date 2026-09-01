@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaan la kulmi doonaa iyaga ⟨sida⟩ dheged da' ah, waxaan dili doonaa laabtooda (qolof wadnaha), waxaan cuni doonaa ⟨iyaga⟩ halkaas sida laba', xayawaanka beeralayda ayaa diid-mayn doona ⟨iyaga⟩.",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "waxaan la kulmi doonaa iyaga"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "sida dheged"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "da' ah (oo uur la')"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "waxaan dili doonaa"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "laabta (qolof wadnaha)"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wadnahooda"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "waxaan cuni doonaa iyaga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "sida laba' (dameer-weyneed)"
+    },
+    {
+      "surface": "חית",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeralayda"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "ayaa diid-mayn doona iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:37.203551669Z",
+  "model": "glm-5.3"
+}

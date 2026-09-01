@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wuxuuna ururiyay ⟨את⟩_da gurigii xabsiga saddex maalmood.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "wuxuu ururiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dadkii (walaalahiinnii)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "xabsiga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:33.700295654Z",
+  "model": "glm-5.3"
+}

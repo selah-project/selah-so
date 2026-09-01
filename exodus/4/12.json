@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hadda eeg, tag, oo aniga waan la jiri doonaa afkaaga, waanna barayaa waxa aad sheegayso.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda eeg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "waan la jiri doonaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "waanna barayaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "aad sheegayso"
+    }
+  ],
+  "timestamp": "2026-09-01T01:06:13.593678803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dadkuna way dheereyeen (si adag) inay ugu noqdaan dhulka engegga, laakiin way awoodi waayeen, waayo baddu way socodheeraysay oo ay ku dhex kacaysay iyaga.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "way dheereyeen (si adag)"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "inay ugu noqdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dhulka engegga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "awoodin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baddu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "way socodheeraysay"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "oo ay ku dhex kacaysay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:06.257732868Z",
+  "model": "glm-5.3"
+}

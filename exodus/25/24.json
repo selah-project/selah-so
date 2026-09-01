@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo waxaad ku dhuqi doontaa ⟨את⟩ dahab nadif ah, waxaana u sameyn doontaa taaj dahab ah oo wareeg ah.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "waxaad ku dhuqi doontaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dahab nadif ah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadif"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waxaad sameyn doontaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "זר",
+      "gloss": "taaj wareeg"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareeg"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:37.317674868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Öo waxaad dhowaysan doontaa ⟨את⟩ wiilashiisa, waadna tidhiibi doontaa ⟨את⟩ iyaga kutanno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "waxaad dhowaysan doontaa"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "waad tidhiibi doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutanno"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:01.796714225Z",
+  "model": "glm-5.3"
+}

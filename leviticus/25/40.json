@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Sida kiradle, sida deggeen ah buu kula noqon doonaa; ilaa sanadka Yubelka buu kula shaqayn doonaa.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "Sida kiradle"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "sida deggeen ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "buu noqon doonaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yubelka"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "buu shaqayn doonaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kula"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:54.216056163Z",
+  "model": "glm-5.3"
+}

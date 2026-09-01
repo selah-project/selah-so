@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Boqorkii Ashshurna wuuga maqlay, boqorkii Ashshurnana wuu kacay agtii Damashiq, wuu qabsaday, wuu u guuriyay Qir, ⟨את⟩ Retsinna wuu dilay.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u(ga)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuu kacay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agtii"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashiq"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "wuu qabsaday"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "wuu u guuriyay"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Qir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wuu dilay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:24.074164399Z",
+  "model": "glm-5.3"
+}

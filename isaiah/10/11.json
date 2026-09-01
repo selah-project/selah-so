@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma aan sidii aan u sameeyay Shomeroon iyo sanamyadeeda, sidoo kale ugu sameyn Yeruushaalaym iyo sanamyadeeda?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma aan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan u sameeyay"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "iyo sanamyadeeda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aan ugu sameyno"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "iyo sanamyadeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:12.645496910Z",
+  "model": "glm-5.3"
+}

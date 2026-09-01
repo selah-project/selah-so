@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Sabti nasasho buu idinku yahay, oo naftiinna ha dhibisaan ⟨את⟩; toddobaadka tobnaad ee bisha, galab, laga bilaabo galabkii ilaa galabkaSabtiinniina ha dhawrstaan.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabti"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nasasho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu yahay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "oo ha dhibisaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftiinna"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "tobnaadka"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bisha"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galab"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "laga bilaabo galabkii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galabka"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "ha dhawrstaan"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Sabtiinniina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:11.751184263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Ha yidhaahdeen hadda baytkii Aharon: ki l'olam khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ha yidhaahdeen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "l'olam"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:15.852105402Z",
+  "model": "glm-5.3"
+}

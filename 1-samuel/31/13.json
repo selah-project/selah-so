@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay qaaddeen ⟨את⟩ lafoodayaashooda, waxayna aasaaseen hoosha geedka aashlayaasha ah ee Yabesh, waxayna sooureen toddoba maalmood.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Waxay qaaddeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafoodayaashooda"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "lafoodayaashooda"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "waxayna aasaaseen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "geedka aashlayaasha ah"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ee Yabesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "waxayna sooureen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:38.716690328Z",
+  "model": "glm-5.3"
+}

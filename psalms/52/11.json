@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Waxaan ku mahadinayaa ilaa iyo weligay, waayo adigaa wax sameeyay; Magacaagana waan sugayaa, waayo wanaagsan yahay xagga adaadownaaga cabsadaa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "waxaan ku mahadinayaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "adigaa wax sameeyay"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "waan sugayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "adaadownaaga cabsadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:37.000541590Z",
+  "model": "glm-5.3"
+}

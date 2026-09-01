@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuuna ku rogay daadigii si ay u cunaan, khudaarta samadana wuu siiyay iyaga.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Wuuna ku rogay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daadigii"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "si ay u cunaan"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "khudaarta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samadana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuu siiyay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iyaga",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.285245216Z",
+  "model": "glm-5.3"
+}

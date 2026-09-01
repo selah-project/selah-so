@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Biyo joogto ah oo daata, maalinta roob dararka, iyo naag muran badan ⟨waa la isla eg⟩.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "biyo daata"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "joogto ah oo socda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "roob darar ah"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "iyo naag"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "muran badan"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "⟨waa la isla eg⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:30.331586118Z",
+  "model": "glm-5.3"
+}

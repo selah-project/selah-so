@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Hanokh wuxuu la socday ⟨את⟩ Elohim, ma jirin, waayo Elohim wuxuu qaatay ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "wuxuu la socday"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:38.531763305Z",
+  "model": "glm-5.3"
+}

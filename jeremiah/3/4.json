@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Miyaadan waqtigan ka dib igu yeedhin: Aabbow, adigaa ah gacaliyayga dhalinyarada?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Miyaadan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "waqtigan ka dib"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "igu yeedhin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Aabbow"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "gacaliyayga"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "dhalinyarada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:01:01.559470303Z",
+  "model": "glm-5.3"
+}

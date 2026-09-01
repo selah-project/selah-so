@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Yahweh waa ⟨kuu ilaaliyaha⟩aga, Yahweh waa hooyadaagii gacanta midigtaaga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "kuu ilaaliyahaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "hooyadaagii"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:39.315582456Z",
+  "model": "glm-5.3"
+}

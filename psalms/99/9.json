@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Sare qaadiya Yahweh Elohim-keenna, oo ka hor sujuuda buurta ⟨quduuskiisa⟩, waayo, quduus buu ⟨yahay⟩ Yahweh Elohim-keenna.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Sare qaadiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "oo ka hor sujuuda"
+    },
+    {
+      "surface": "להר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuskiisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:41.359027627Z",
+  "model": "glm-5.3"
+}

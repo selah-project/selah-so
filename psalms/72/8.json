@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Wuu xukumi doonaa badda ilaa badda kale, iyo ⟨wabiga⟩ ilaa geesyada dhulka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wuu xukumi doonaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda kale"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "iyo wabiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "geesyada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.649088312Z",
+  "model": "glm-5.3"
+}

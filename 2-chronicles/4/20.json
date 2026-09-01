@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Iyo ⟨את⟩ nuhu-rarka iyo laambadahooda si ay u gubaan sida sharcigu yahay, hortooda qolka quduuska ah, dahab la nadiifiyay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "nuhu-rarka"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "nuhu-rarka"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "laambadahooda"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "si ay u gubaan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sida sharcigu yahay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "qolka quduuska ah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "la nadiifiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:08.795643180Z",
+  "model": "glm-5.3"
+}

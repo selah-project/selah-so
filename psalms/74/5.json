@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Waa la yaqaan sida mid kor u soo bixiyaba — gebi-doog qoryo ah — qooro.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "waa la yaqaan"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "sida mid soo bixiya"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kor"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "gebi-doog (dhexdiisa)"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "qoryo"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "qooro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:57.040375696Z",
+  "model": "glm-5.3"
+}

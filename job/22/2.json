@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ma El nin (geber) wax u tari karaa; ma in ruux gar-qabta ah nafsinta wax u tari karaa?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Ma El"
+    },
+    {
+      "surface": "יססכן",
+      "gloss": "wax u tari karaa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nin (geber)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma in"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "wax u tari karaa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "nafsinta"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ruux gar-qabta ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:04.838388311Z",
+  "model": "glm-5.3"
+}

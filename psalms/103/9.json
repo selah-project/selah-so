@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Ilaa iyo weligii ma uu doodian, oo ilaa iyo abidda ma uu ilaaliyo cadaddiis ⟨isagoo⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ilaa iyo weligii"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "uu doodian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo abidda"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "uu ilaaliyo cadaddiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:54.394586387Z",
+  "model": "glm-5.3"
+}

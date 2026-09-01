@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ereydaygan ku dhiga ⟨את⟩ qalbigiinna iyo nafahiinna, ku xidhana ⟨את⟩ iyaga calaamad ah gacantiinna, ahaanaana iyaga loox-waji (totafot) u dhexeeya indhahiinna.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "ku dhiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereydaygan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereydaygan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbigiinna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nafahiinna"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ku xidhana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "calaamad ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "gacantiinna"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "gacantiinna"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ahaanaana"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "loox-waji (totafot)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "indhahiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:15.096304339Z",
+  "model": "glm-5.3"
+}

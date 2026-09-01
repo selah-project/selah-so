@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 21:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Way tegtay, wayna iskeed fadhiisatay ka fog, siddii masaafad qawska la riixay, waayo waxay tidhi, Anigu ha iga daynin inaan arko dhimashada ilmihii; wayna fadhiisatay ka fog, codkeedana ayay kor u qaaday, ooydana.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "way tegtay"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "wayna fadhiisatay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iskeed"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ka fog (hor)"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "fog"
+    },
+    {
+      "surface": "כמטחוי",
+      "gloss": "siddii masaafad la riixay"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qawska"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "waxay tidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "in aan arko"
+    },
+    {
+      "surface": "במות",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "wayna fadhiisatay"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ka fog"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ayay kor u qaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkeeda"
+    },
+    {
+      "surface": "קלה",
+      "gloss": "codkeeda"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "ooydana"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:32.829463085Z",
+  "model": "glm-5.3"
+}

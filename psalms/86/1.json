@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Tukasho laha (oo ah) Dawiid. Yahwehow, dhig dhegihtaada, iiga jawaab, waayo, ani waa mid tabar-la'aan iyo baahan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tukasho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "(oo ah) Dawiid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegihtaada"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "iiga jawaab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mid tabar-la'aan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo baahan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:31.968229902Z",
+  "model": "glm-5.3"
+}

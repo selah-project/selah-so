@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "khesedkayga iyo ⟨⟨dhisayskayga⟩⟩, meesha sarreeysa iyo kan ii gargaara, gaashaankayga, oo ⟨gudihiisa⟩ aan ku talaxtagay, kan dadkayga ii hoos dhiga.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "khesedkayga"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "iyo dhisayskayga"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meesha sarreeysa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "iyo kan ii gargaara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "gaashaankayga"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "oo gudihiisa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aan ku talaxtagay"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "kan ii hoos dhiga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkayga"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "hoos"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:00.617232122Z",
+  "model": "glm-5.3"
+}

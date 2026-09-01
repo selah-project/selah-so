@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Muuse iyo Axaroon waxay sameeyeen ⟨את⟩ muujimooyinkan oo dhan hortii Farcoon, Laakiin Yahweh wuxuu adkeeyay ⟨את⟩ qalbigii Farcoon, oo aanuu soo dirin ⟨את⟩ wiilasha Israa'iil dhulkii ka baxsan.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Axaroon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muujimooyinkan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "muujimooyinka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuu adkeeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbigii Farcoon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbigii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanuu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "soo dirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dhulkii ka baxsan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:55.697827146Z",
+  "model": "glm-5.3"
+}

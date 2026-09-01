@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Wuxuu canaantay Badda Suf, way engegtay, wuxuuna ku dhex mariyay siyaamaha (tiirarka) sida duulka.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "wuxuu canaantay"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "way engegtay"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "wuxuuna ku dhex mariyay"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "siyaamaha (tiirarka)"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sida duulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:22.178236135Z",
+  "model": "glm-5.3"
+}

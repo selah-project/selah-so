@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Wuxuu balaarshay, wuxuu siiyay ⟨את⟩ saboolka; suubannimiisiisu taagan tahay ⟨iyo⟩ weligeed; geesigiisu waa la kor-qaadayaa sharaf.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "wuxuu balaarshay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "suubannimiisiisu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "taagan tahay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "welligeeds"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "geesigiisu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "la kor-qaadayaa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sharaf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:16.599137713Z",
+  "model": "glm-5.3"
+}

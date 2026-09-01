@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaan dhigi Yeruushaalaym ⟨את⟩ tuulooyin ah, hoyga duurgoyga; magaalooyadii Yehuudahna waxaan dhigi ⟨את⟩ barbaarin, qof deggan la'aan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Waxaan dhigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "tuulooyin ah"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "hoyga"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "duurgoyga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "magaalooyadii Yehuudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyadii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "waxaan dhigi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "barbaarin"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "qof deggan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:04:32.654670019Z",
+  "model": "glm-5.3"
+}

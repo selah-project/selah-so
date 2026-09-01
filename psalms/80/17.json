@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "La gubtay ⟨dabka⟩, la gooyay; cadhaanta wajigaaga way baabbi'een.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "la gubtay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨dabka⟩"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "la gooyay"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "cadhaanta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "way baabbi'een"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:34.868623273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ka dib waxyaalahan, markay dhammaatay xanaaqadii boqorka Axashwerosh, wuu xusay ⟨את⟩ Washtii iyo ⟨את⟩ waxay sameysay iyo ⟨את⟩ waxa lagu goostay iyaga.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "waxyaalahan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "markay dhammaatay"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "xanaaqa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wuu xusay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Washtii"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washtii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxay sameysay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa lagu goostay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "lagu goostay"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:19.843744308Z",
+  "model": "glm-5.3"
+}

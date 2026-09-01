@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Yahweh ha idin ku darsado, idinkoo idinkoo ⟨ha ku darsado⟩ iyo caruurtiinna.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ha idin ku darsado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinkoo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinkoo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "caruurtiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.027411069Z",
+  "model": "glm-5.3"
+}

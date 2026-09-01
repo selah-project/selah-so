@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Ha ku soo uruurin naftayda oo la jirka dambiilayaasha, noloshaydana oo la jirka ragga dhiigga daadan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ha ku soo uruurin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo la jirka"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dambiilayaasha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo la jirka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigga daadan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshaydana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:08.421815649Z",
+  "model": "glm-5.3"
+}

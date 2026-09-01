@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxaana ka buuxshay ⟨את⟩ ruuxa Elohim — xigmad iyo fahmo iyo aqoon iyo shuqul kasta oo farsamo ah.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Waxaana ka buuxshay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxa Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "xigmad"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "iyo fahmo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "iyo aqoon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo shuqul kasta"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "oo farsamo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:42.703878862Z",
+  "model": "glm-5.3"
+}

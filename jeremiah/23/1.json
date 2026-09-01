@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Hooy! dhaqayaasha ⟨את⟩ adhigga daaqsigayga halaayaya oo kala-fiddaya — baaqii Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hooy!"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dhaqayaasha"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "halaayaya"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "oo-kala-fiddaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigga"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhigga"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "daaqsigayga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "baaqii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:19.083704382Z",
+  "model": "glm-5.3"
+}

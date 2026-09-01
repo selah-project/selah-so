@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Yuusufna wuxuu walaalihiis ku yidhi: Ii soo dhowaada hadda. Wayna soo dhowaadeen. Wuxuuna yidhi: Anigu waan ahay Yuusuf walaalkiinna, kan aad ⟨את⟩ aniga iibiseen Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "soo dhowaada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "wayna soo dhowaadeen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "walaalkiinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "aad iibiseen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga (Yuusuf)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:07.796461305Z",
+  "model": "glm-5.3"
+}

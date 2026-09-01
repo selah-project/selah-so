@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waa inuu marsiinta (hebel) ku yimaado, gudaha muggana uu tegto, oo magiciisana mugga lagu daboolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa inuu"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "marsiinta (hebel) ku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yimaado"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "gudaha muggana"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "uu tegto"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "mugga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisa"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "lagu daboolo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:58.764244164Z",
+  "model": "glm-5.3"
+}

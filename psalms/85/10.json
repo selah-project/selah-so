@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Hubaal badbaadadiisu ⟨waa⟩ ku dhow tahay kuwa cabsidiisa ah, si sharafu ugu degto dhulkayaga.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hubaal"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ku dhow"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kuwa cabsidiisa ah"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "badbaadadiisu"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "si uu ugu degto"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "dhulkayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.477707639Z",
+  "model": "glm-5.3"
+}

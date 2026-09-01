@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo siiyo adiga ⟨את⟩ barakadda Abraham — adiga iyo uurriiladaada ⟨את⟩ adiga — inaad dhaxasho ⟨את⟩ dhulkii deganaanshahaada, oo ⟨את⟩ kan Elohim uu siiyay Abraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Oo siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barakadda Abraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakadda"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "iyo uurriiladaada"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ (adiga la jira)"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "inaad dhaxasho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii deganaanshahaada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "deganaanshahaada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uu siiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abraham"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:30.528697085Z",
+  "model": "glm-5.3"
+}

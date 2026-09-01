@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Veel ⟨את⟩ qolka weyn wuxuu ku duubay alwaaxa biruush, wuxuuna ku duubay dahab wanaagsan, wuxuuna korkiisa saaray timoriro (tiinfarolla ah) iyo silsilado.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qolka weyn"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "qolka"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "wuxuu ku duubay"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "biruush (alwaax biruush ah)"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "wuxuuna ku duubay"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna saaray"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "tiinfarollo (tiinfarolla ah)"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "iyo silsilado"
+    }
+  ],
+  "timestamp": "2026-09-01T07:43:17.660073997Z",
+  "model": "glm-5.3"
+}

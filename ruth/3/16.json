@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo markay timid agteed seydeed, waxay tiri: Adigu yaa tahay, gabadhaydii? Oo waxay u sheegtay ⟨את⟩ wax kasta oo ninkii u sameeyay.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Oo markay timid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agteed"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "seydeed"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tiri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa tahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "gabadhaydii"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Oo waxay u sheegtay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:55:12.128054474Z",
+  "model": "glm-5.3"
+}

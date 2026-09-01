@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Maalinta aan cabsanno, adiga ayaan kuu hufnaanayaa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aan cabsanno"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ayaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga kuu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "hufnaanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:15.359138240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Iyo wanaaggii dalagyada qorraxda, iyo wanaaggii waxa dayaxa soo saaro.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "iyo wanaaggii"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "dalagyada"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "iyo wanaaggii"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "waxa soo saaro"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "dayaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:11.883836301Z",
+  "model": "glm-5.3"
+}

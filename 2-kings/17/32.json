@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxayna ahaayeen kuwo cabsanaya ⟨את⟩ Yahweh, waxayna u sameeyeen ka dhamaadkooda wadaaddo meelaha sare, iyagoo gudaha guryaha meelaha sare u falaya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "kuwo cabsanaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna u sameeyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "ka dhamaadkooda"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "wadaaddo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "meelaha sare"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "u falaya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "meelaha sare"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:16.305865707Z",
+  "model": "glm-5.3"
+}

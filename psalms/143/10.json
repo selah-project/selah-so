@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "I bar inaan sameeyo raalli-ahaankaada, waayo adigu adigoo ah Eloah-igay ayaa tahay; ruuxaaga wanaagsan i hanuuni dhulka aan siman.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "i bar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inaan sameeyo"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "raalli-ahaankaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah-igay"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruuxaaga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "i hanuuni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "aan siman"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.722293765Z",
+  "model": "glm-5.3"
+}

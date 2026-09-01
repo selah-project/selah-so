@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Bal eeg, aniga waan dirayaa malak adiga hortaada, inuu ku ilaaliyo jidka, oo ku geliyo ⟨meesha⟩ aan anigu diyaarinayo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "waan dirayaa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "adiga hortaada"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "inuu ku ilaaliyo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "oo ku geliyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨geliyo⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "aan diyaarinayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:40.153708354Z",
+  "model": "glm-5.3"
+}

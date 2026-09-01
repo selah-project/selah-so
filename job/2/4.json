@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ha-saatanna wuxuu ka jawaabay ⟨את⟩ Yahweh, wuxuuna yidhi: Maqaal baabbi'idda maqaal, waxa nin haystaba wuu bixiyaa noloshiisa darteed.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuuna ka jawaabay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-saatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaal"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "baabbi'idda"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "waxa nin haystaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuu bixiyaa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "noloshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:55.024520672Z",
+  "model": "glm-5.3"
+}

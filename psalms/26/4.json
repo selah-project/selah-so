@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Lama fadhiistin nacasyo beenta ah, oo la khufiyaalaysanaya lagama galayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "fadhiistin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nacasyo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "beenta ah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo la"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "khufiyaalaysanaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "galayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:35.638599083Z",
+  "model": "glm-5.3"
+}

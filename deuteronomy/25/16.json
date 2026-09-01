@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waayo, waxa Yahweh Elohim-kaagu karahay waa qof kasta oo sameeya waxyaabahan, qof kasta oo sameeya xaq-darran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "waxa karahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-kaagu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qof kasta oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxyaabahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qof kasta oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "עול",
+      "gloss": "xaq-darran"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:30.802183885Z",
+  "model": "glm-5.3"
+}

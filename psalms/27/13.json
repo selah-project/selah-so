@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddaanan rumaysnayn inaan arkoon wanaagga Yahweh dhulka nolosha.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "haddaanan"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "rumaysnayn"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inaan arkoon"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:53.331287416Z",
+  "model": "glm-5.3"
+}

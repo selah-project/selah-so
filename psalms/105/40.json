@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Way weydiiyeen, wuxuuna keenoay shalammaduul, iyo rootiga jannada wuu ku dhereriyaa.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "way weydiiyeen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna keenoay"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "shalammaduul"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "iyo rootiga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "jannada"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "wuu ku dhereriyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:27.550079384Z",
+  "model": "glm-5.3"
+}

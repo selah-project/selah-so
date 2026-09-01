@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 2:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan qalbiga ku baarbaystay in aan lafaha khamriga ku jiido ⟨את⟩, qalbiguuna xikmad hanuuniyo, aanna walido wax ku qabato si aan u arko in ay tahay meeshu wanaag uu yahay binu-aadamka in ay falaan hoosta samada, inta ay tahay tirada maalmaha noloshooda.",
+  "tokens": [
+    {
+      "surface": "תרתי",
+      "gloss": "waxaan baarbaystay"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "למשוך",
+      "gloss": "in aan jiido"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "khamriga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafaha (בשרי)"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "qalbiguuna"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "hanuuniyo"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "ולאחז",
+      "gloss": "aanna walido"
+    },
+    {
+      "surface": "בסכלות",
+      "gloss": "wax aan caqli ahayn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si aan u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aan arko"
+    },
+    {
+      "surface": "אי",
+      "gloss": "in ay tahay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "meeshu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "binu-"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in ay"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "falaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tirada"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "noloshooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.207397713Z",
+  "model": "glm-5.3"
+}

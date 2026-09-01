@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Adiguna — dembiga ballaankaaga dartii waan soo diray maxaabiistaada ka ceel aan biyo ku jirin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Adiguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga",
+      "marks": "dembiga ballaankaaga"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ballaankaaga dartii"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "waan soo diray"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "maxaabiistaada"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ka ceel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jirin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:58:59.169936260Z",
+  "model": "glm-5.3"
+}

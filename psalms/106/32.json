@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Oo waxay Ka xanaajisay biyaha Meribah, oo Muuse wuxuu u xumaaday sababtoo ahaa iyaga.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "way Ka xanaajisay"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "wuxuu u xumaaday"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "sababtoo ahaa iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:01.903210381Z",
+  "model": "glm-5.3"
+}

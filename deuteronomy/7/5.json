@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Laakiin sidaas bay idinka tahay inaad u sameysaan: meelaha-allabaroodaooda waa la dhumin, tiirarooda na waa la jabin, Asherimkooda na waa la goyn, sanamyadooda na waa la gubay ololka dhexdiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii kale"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "meelaha-allabaroodaooda"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "waa la dhumin"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "tiirarooda"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "waa la jabin"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "Asherimkooda"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "waa la goyn"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "sanamyadooda"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "waa la gubay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ololka dhexdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:28.791630127Z",
+  "model": "glm-5.3"
+}

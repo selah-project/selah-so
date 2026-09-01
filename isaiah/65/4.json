@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Kuwa qubuuraha dhex jira, meelaha qarsoonaa waxay seexdaan, kuwa cuna lahooda doofaarka, maraqa waxaa xun ka mid ah waa weelashooda.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "kuwa qubuuraha dhex jira"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "qubuuraha"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "meelaha qarsoonaa"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "waxay seexdaan"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "kuwa cuna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lahooda"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "doofaarka"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "maraqa"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "waxaa xun"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "weelashooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:59:46.754811835Z",
+  "model": "glm-5.3"
+}

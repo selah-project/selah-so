@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Maalinta ballanqaadka maxaad sameynaysaan, iyo maalinta ciidda Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameynaysaan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ballanqaadka"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "iyo maalinta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:45.579254042Z",
+  "model": "glm-5.3"
+}

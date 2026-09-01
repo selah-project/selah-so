@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxaana ku fidhi doonaa Yeruushaalaym kor taaha ⟨את⟩ Shomeroon iyo ⟨את⟩ miisaanka guriga Axab, waana tirtiri doonaa ⟨את⟩ Yeruushaalaym siduu tirtirto ⟨את⟩ saxanka tirtiraya oo geliya wejigeeda hoos.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "waxaana ku fidhi doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor taaha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taaha Shomeroon"
+    },
+    {
+      "surface": "קו",
+      "gloss": "taaha"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "miisaanka guriga Axab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "miisaanka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "waana tirtiri doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu... u"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "tirtirto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saxanka"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "saxanka"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "tirtiraya"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "oo geliya"
+    },
+    {
+      "surface": "על",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wejigeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:34:37.738817832Z",
+  "model": "glm-5.3"
+}

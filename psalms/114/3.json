@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Baddu way aragday, wayna carartay; Uurdunku wuu u socday gadaashiis.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Baddu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "way aragday"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "wayna carartay"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Uurdunku"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "wuu u socday"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "gadaashiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:01.815522220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Dhegeysta oo maqla codkayga; eega oo dhegeysta hadalkayga.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Dhegeysta"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "oo maqla"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "eega"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "oo dhegeysta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hadalkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:50.204308850Z",
+  "model": "glm-5.3"
+}

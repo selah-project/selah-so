@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo wadaanku wuu sameyn doonaa ⟨את⟩ dembi-qorshada (haataat), oo wuu u dheef-shubi doonaa ninka la nadaynayo wasakhnimoodiis, ka dibna wuu gowraci doonaa ⟨את⟩ ololaha.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "wuu sameyn doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembi-qorshada (haataat)"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dembi-qorshada (haataat)"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wuu u dheef-shubi doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ninka la nadaynayo"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "wasakhnimoodiis"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ka dibna"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "wuu gowraci doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ololaha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ololaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:47.545204693Z",
+  "model": "glm-5.3"
+}

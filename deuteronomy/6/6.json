@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ereyadan aan maanta ku amro adiga, waa inay ahaadaan ⟨ay⟩ qalbigaaga sagasta.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "waa inay ahaadaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨dan⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ku amro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sagasta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:41.829853460Z",
+  "model": "glm-5.3"
+}

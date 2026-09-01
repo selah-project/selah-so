@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Samee naftaada laba boqombal oo lacag ah; shaqo la dhulay (makaakiil) baa lagu sameeyaa, waxayna noqon doontaa adiga ag taal oo lagu yeedho shirka iyo sidii la safriyo laamaha ⟨את⟩ xeryaha. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Samee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "boqombal"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag ah"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "shaqo la dhulay (makaakiil)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "baa lagu sameeyaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "boqombalaha laba ee lacagta ah"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "waxayna noqon doontaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga ag taal"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "lagu yeedho shirka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "sidii la safriyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeryaha"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "xeryaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:39.802711934Z",
+  "model": "glm-5.3"
+}

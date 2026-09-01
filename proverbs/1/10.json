@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wiilkayow, haddii demilayaashu ku lumaan (ku qanciyaan), ha aqbalin.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wiilkayow"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ku lumaan (ku qanciyaan)"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "demilayaashu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "aqbalin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:42.944681989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Dad khalad-dhaqan ah baan u dirayaa, oo dad xanaaqtayda ah baan u amaraa inuu qaarado qaniimo uu qaatay, dhul-baqo uu baqsaday, oo uu ku tuko sida dhoobo wadooyinka.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "dad khalad-dhaqan ah baan u"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "khalad-dhaqan"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "dirayaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "xanaaqtayda ah"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "baan u amaraa"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "ina uu qaarado"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qaniimo"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "uu baqsaday"
+    },
+    {
+      "surface": "בז",
+      "gloss": "dhul-baqo"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "oo uu ku tuko"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "tuko"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "sida dhoobo"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "wadooyinka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:48.129848310Z",
+  "model": "glm-5.3"
+}

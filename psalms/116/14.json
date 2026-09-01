@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Nadarkayga Yahweh waan oofinayaa, waana bixinayaa horta dhammaan dadkiisa.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Nadarkayga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "waan oofinayaa"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "horta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:27.652013055Z",
+  "model": "glm-5.3"
+}

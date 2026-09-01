@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "in la gaadhsiiyo kuwa qarsoon ⟨dhexdooda⟩ kan daacadan ah; si lama filayn ah bay iyagu u gaadhsiiyaan, oo cabsi maayaqaanaan.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "in la gaadhsiiyo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "kuwa qarsoon dhexdooda"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kan daacadan ah"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "si lama filayn ah"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "iyagu u gaadhsiiyaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "cabsi yaqaanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:50.825199176Z",
+  "model": "glm-5.3"
+}

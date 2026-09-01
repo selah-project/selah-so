@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Sidoo kale dhammaan ereyada ay ka hadlaan ha ugelin qalbigaaga, si aadan u maqalin addoonkaagii ku naelaya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ka hadlaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ugelin"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonkaagii"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaagii"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ku naelaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:45.386729931Z",
+  "model": "glm-5.3"
+}

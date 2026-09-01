@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaa dhammaaday samada iyo dhulka iyo ciidankooda oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Waxaa dhammaaday"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "iyo dhulka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ciidankooda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:27.308177642Z",
+  "model": "glm-5.3"
+}

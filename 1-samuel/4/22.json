@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxayna odhan: «Kaboodu waa laga tegey Israa'iil, waayo, sanduuqa Elohim waa la qaadatay.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna odhan"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "waa laga tegey"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kaboodu"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "waa la qaadatay"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:50.227235738Z",
+  "model": "glm-5.3"
+}

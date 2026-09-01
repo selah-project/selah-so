@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu dhigay ⟨את⟩ Badda dhinaca midigtii, bariga ka hor, horteeda koonfuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Badda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "midigtii"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bariga ka hor"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "koonfuta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:05.932532982Z",
+  "model": "glm-5.3"
+}

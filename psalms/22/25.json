@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waayo, uma dheleyn uma nacay adoonsiga dullaysta, uma qarin wajigiis ka tali; markuu u qaylinayana wuu maqlay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dheleyn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "nacay"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "adoonsiga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dullaysta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiis"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka tali"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "markuu u qaylinayana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqlay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:27.649155528Z",
+  "model": "glm-5.3"
+}

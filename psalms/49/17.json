@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Ha baqin marka nin dheeraad helayo, marka sharafta gurigiisa ay sii bato.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "baqin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "nin dheeraad helayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "sii bato"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sharafta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:41.882474750Z",
+  "model": "glm-5.3"
+}

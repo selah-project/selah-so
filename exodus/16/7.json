@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Aroornina waxaydaan arki doonaan ⟨את⟩ ammaanka Yahweh, markuu maqlo ⟨את⟩ cadeynyadiinna ee ka dhan Yahweh; annagase maxaan nahay, inaad naga cadeynaysaan?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Aroornina"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "waxaydaan arki doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ammaanka Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "markuu maqlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadeynyadiinna"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "cadeynyadiinna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka dhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "annagase"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "aad cadeynaysaan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:43.793924046Z",
+  "model": "glm-5.3"
+}

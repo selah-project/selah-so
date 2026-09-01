@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uts oo ah ilkigii koowaad, iyo ⟨את⟩ Buus walaalkiis, iyo ⟨את⟩ Kemuel aabaha ⟨את⟩ Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ilkigii koowaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Buus"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabaha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:10.589304579Z",
+  "model": "glm-5.3"
+}

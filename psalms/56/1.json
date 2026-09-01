@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Madaxa heesaha lagu hanuuniyay, waxay ku saabsan tahay dowga aaminka ee ka fog (yonath elem rechokim), gabayga Daa'uud, miktam, markay ⟨את⟩ Daa'uud qabsadeen Falistiintii, Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "madaxa heesaha lagu hanuuniyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "waxay ku saabsan tahay"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "dowga"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "aaminka"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "ka fog"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "markay qabsadeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Daa'uud"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiintii"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:15.358541675Z",
+  "model": "glm-5.3"
+}

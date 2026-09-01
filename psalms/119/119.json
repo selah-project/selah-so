@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sifidh aad ka dhigaysay dhammaan sharfalada dhulka; sidaas darteed run-buurarkaaga waan jeclahay.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "sifidh"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "aad ka dhigaysay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "sharfalada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "waan jeclahay"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "run-buurarkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:45.905543131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Sida masaafada bari ka galbeedka, sidaas buu ka fogeeyey ⟨את⟩ xadgudubyadeenna.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "sida masaafada"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bari"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ka galbeedka"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "uu ka fogeeyey"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xadgudubyadeenna"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "xadgudubyadeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:54.395471210Z",
+  "model": "glm-5.3"
+}

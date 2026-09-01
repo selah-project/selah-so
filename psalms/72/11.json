@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Oo boqoradu dhammaantood waxay u sujuudi doonaan, shacabku dhammaantoodna waxay adeegi doonaan.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "oo...waxay u sujuudi doonaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqoradu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantoodna"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "waxay adeegi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.167494216Z",
+  "model": "glm-5.3"
+}

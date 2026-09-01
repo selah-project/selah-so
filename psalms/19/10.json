@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Cabsidii Yahweh waa nadiif, waxayna taagan tahay ilaa iyo weligood; xukunkii Yahweh waa run, wanaag bay u dhammaadayreen.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Cabsidii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "nadiif"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "taagan tahay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ilaa iyo weligood"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "wanaag bay u dhammaadayreen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wanaag bay u dhammaadayreen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:30.879784417Z",
+  "model": "glm-5.3"
+}

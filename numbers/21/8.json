@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markaasaa Yahweh Muuse ku yidhi: Samee naftaada masas guban, oo dhig ⟨את⟩ taas calan sare, waxaana noqon doonaa mid kastoo la sifiyay, haddii uu arko ⟨את⟩ taas, wuxuu noolaanayaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Markaasaa ... ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "masas guban"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "oo dhig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "taas (masaska)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נס",
+      "gloss": "calan sare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waxaana noqon doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mid kastoo"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "la sifiyay"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "haddii uu arko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "taas (masaska)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "wuxuu noolaanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:22.408654938Z",
+  "model": "glm-5.3"
+}

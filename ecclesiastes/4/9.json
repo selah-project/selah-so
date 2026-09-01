@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laba waa ka wanaagsan ⟨mid⟩ keliya, maxaa yeelay waa jira abaal-marin wanaagsan oo cuditooda dartood.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "waa ka wanaagsan"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mid keliya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waa jira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ay leeyihiin⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "abaal-marin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "cuditooda dartood"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:54.330294370Z",
+  "model": "glm-5.3"
+}

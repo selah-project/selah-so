@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Boqorrada dhulka iyo dhammaan shacabka, odayaasha iyo dhammaan garooyinka dhulka",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "garooyinka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:17.146472163Z",
+  "model": "glm-5.3"
+}

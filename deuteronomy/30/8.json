@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Adigu waad laaban doontaa, waadna dhegeysan doontaa codka Yahweh, waadna samayn doontaa ⟨את⟩ amarradiisa oo dhan aan kuu amro maanta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "waad laaban doontaa"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "waadna dhegeysan doontaa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waadna samayn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarradiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amarradiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan (kuu amro)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kuu amro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:31.416476649Z",
+  "model": "glm-5.3"
+}

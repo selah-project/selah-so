@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Neeftaada ayaad ku dhaaftay, baddu way dib u dabooltay; sida dirirta ayay ku dhaceen biyaha waaweyn.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "ayaad ku dhaaftay"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "neeftaada"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "way dib u dabooltay"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baddu"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ayay ku dhaceen"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "sida dirirta"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "waaweyn"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:39.144030716Z",
+  "model": "glm-5.3"
+}

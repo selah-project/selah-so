@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "qalbigaagana kor loo qaado, aadna hilmaato ⟨את⟩ Yahweh Elohimkaaga, kan kaa soo bixinayey dhulka Mitsrayim, guriga addoomada.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "kor loo qaado"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaagana"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "aadna hilmaato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "kan kaa soo bixinayey"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoomada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:06.017374288Z",
+  "model": "glm-5.3"
+}

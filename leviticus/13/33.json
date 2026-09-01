@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waa la jinnoconayaa, laakiin ⟨את⟩ furunka ma jinnooco; wadaaddanna wuxuu isgoosiyay ⟨את⟩ furuhu leh toddoba maalmood labaad.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "Waa la jinnoconayaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "furunka"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "furunka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "jinnooco"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wuxuu isgoosiyay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "furuhu leh (qofka)"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "furuhu leh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "labaad"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:52.272012623Z",
+  "model": "glm-5.3"
+}

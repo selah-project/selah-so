@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Naataanna wuxuu teagay gurigiisii. Yahwehna wuu dhaawacay ⟨את⟩ ilmaha uu dhalyay haweeneydii Uuriyey uu Darwin Daawud, wuuna aad u xanuunsaday.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu teagay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisii"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "wuu dhaawacay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan uu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhalyay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haweeneydii"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyey"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uu Darwin Daawud"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "wuuna aad u xanuunsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:44.949432544Z",
+  "model": "glm-5.3"
+}

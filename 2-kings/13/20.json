@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo Elisha wuxuu dhintay, waxaana la aasay; kooxaha Mo'aab waxay soo galaan dhulkii waqtigii gelitaanka sannadka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuxuu dhintay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "waxaana la aasay"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "kooxaha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "waxay soo galaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "waqtigii gelitaanka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sannadka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:47.467590387Z",
+  "model": "glm-5.3"
+}

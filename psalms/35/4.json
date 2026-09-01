@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Yaheenna inay ceeboobaan oo lagu sharmuuto kuwa raadiya naftayda; ha laabtaan gadaal, yaheenna inay xiiso-la'aan lahaadaan kuwa qorsheeya xumeyda.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ceeoobaan"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "lagu sharmuuto"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa raadiya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "laabtaan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "xiiso-la'aan lahaadaan"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "kuwa qorsheeya"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "xumeyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:01.148971568Z",
+  "model": "glm-5.3"
+}

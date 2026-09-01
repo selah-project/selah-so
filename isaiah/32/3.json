@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Oo indhaha kuwa arkaa lagama indho-tirtiri doono, dhegtaha kuwa maqalkana way dhegeysi doonaan si taxaddar leh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laga ma"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "indho-tirtiri doono"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "kuwa arkaa"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dhegtaha"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "kuwa maqalka"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "way dhegeysi doonaan si taxaddar leh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:57.313346134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo tobankii beri xigay dhammaan wadaaddada ilma Israa'iil waxay cabbaarayeen Muuse iyo Aharon, iyagoo leh: Adigu waad dishay ⟨את⟩ dadka Yahweh.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "waxay cabbaarayeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "beri xigay"
+    },
+    {
+      "surface": "על",
+      "gloss": "cabbaarayeen (ka hor)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "waad dishay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:49:35.542830459Z",
+  "model": "glm-5.3"
+}

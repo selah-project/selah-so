@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Khesed iyo run ha kaga tagin, ku xidh cunahaaga, ku qor looxa wadahaaga.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo run"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kaga tagin"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ku xidh"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "cunahaaga"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ku qor"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "לוח",
+      "gloss": "looxa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wadahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:02.701622586Z",
+  "model": "glm-5.3"
+}

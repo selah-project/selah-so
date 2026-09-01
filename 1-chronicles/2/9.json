@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wiilashiinnii Chetsron ee uu dhalay waxay ahaayeen ⟨את⟩ Yerachmeel iyo ⟨את⟩ Raam iyo ⟨את⟩ Kelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "wiilashiinnii"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "uu dhalay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Raam"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Raam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:23.833284795Z",
+  "model": "glm-5.3"
+}

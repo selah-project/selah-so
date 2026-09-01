@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan weynaa shuqulladaydii; guryo aan naftaydii u dhisay; beero canab ah aan naftaydii u beeray.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "waxaan weynaa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shuqulladaydii"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "aan u dhisay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naftaydii"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "aan u beeray"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naftaydii"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "beero canab ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.207597335Z",
+  "model": "glm-5.3"
+}

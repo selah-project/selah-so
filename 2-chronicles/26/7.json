@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Elohimna wuu u gargaaray Filistiintii iyo Carabta ku noolaa Gur-Baal iyo Me'uuniintii.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "wuu u gargaaray"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuwaas oo kelidda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "Carabta"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ku noolaa"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "iyo Me'uuniintii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:44:15.585908691Z",
+  "model": "glm-5.3"
+}

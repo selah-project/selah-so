@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Mitsrayimna waxay ogaan doonaan in aan anigu ahay Yahweh, markaan gacantayda ku fidido Mitsrayim, waana soo saari doonaa ⟨את⟩ ilmaha Israa'iil dhexdooda.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "waxay ogaan doonaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "markaan ku fidido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantayda"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "waana soo saari doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:00.024035288Z",
+  "model": "glm-5.3"
+}

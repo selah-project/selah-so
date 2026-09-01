@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Yahweh, waxaan jeclahay hoyga gurigaga, iyo meesha dayriga ammaantaada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "waxaan jeclahay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "hoyga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaga"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "iyo meesha"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "dayriga"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ammaantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:26.822813087Z",
+  "model": "glm-5.3"
+}

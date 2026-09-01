@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Markaasay Bat-Sheba u gashay boqorkii qolka gudihiisa, boqorkiina wuu oday aad u dheeraa, Abiishag reer Shuuneemina waxay adeegaysay ⟨את⟩ boqorka.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "markaasay u gashay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "loo gudbay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "qolka gudihiisa"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkiina"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wuu oday"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Abiishagna"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "reer Shuuneemina"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "waxay adeegaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:32.883684990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ereygii Yahweh waxaa u yimid Yoonah, ina Amiitay, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaaday"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereygii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amiitay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:41.170649038Z",
+  "model": "glm-5.3"
+}

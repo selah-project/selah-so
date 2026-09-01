@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Dawid-na wuxuu yidhi Yehonatan: Yaa ii sheegayaa? Mise haddii aabahay kugu jawaabo xag-xag dheeraad ah?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yehonatan (u)"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ii sheegayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "או",
+      "gloss": "mise"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay hadduu"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "kugu jawaabo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "xad-dhaaf ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:59.214442347Z",
+  "model": "glm-5.3"
+}

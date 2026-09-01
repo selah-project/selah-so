@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waayo, gardaradu waxay waalintaa chakamga, geddintuna waxay baabiisaa ⟨את⟩ qalbiga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "gardaradu"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "waxay waalintaa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "chakamga"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "geddintuna waxay baabiisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "geddintu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:48.316750391Z",
+  "model": "glm-5.3"
+}

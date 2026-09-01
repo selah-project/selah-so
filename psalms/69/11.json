@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Oo anigu ooyay bay nafteydu soonkotay, waxayna noqotay ilmo-cun iigu ah.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Oo anigu ooyay"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "soonkotay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafteydu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ilmo-cun iigu ah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:11.006950948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Yeoaaxazna wuxuu waafajiyey ⟨את⟩ wejiyada Yahweh, Yahwehna wuu maqlay; waayo, wuxuu arkay ⟨את⟩ cabsida Israa'iil, waayo, boqorka Aram baa cabsiiyey ⟨את⟩ kuwaas.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "wuxuu waafajiyey"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeoaaxaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejiyada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiyada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cabsida"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "cabsiiyey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuwaas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T03:30:17.880032678Z",
+  "model": "glm-5.3"
+}

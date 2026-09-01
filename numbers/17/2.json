@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxaad dhahdaa El'azar, ina Aaruun oo ah wadaadda: Ha ka soo qaadin ⟨את⟩ makhaddadaha laga gubay markaas kaga soo sarif, ⟨את⟩ dabkuna meel fog u tuur, waayo way qudusmeen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "waxaad dhahdaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "El'azar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaruun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ha ka soo qaadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makhaddadaha"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "makhaddadaha"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "laga"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "gubay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dabka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "u tuur"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "way qudusmeen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:19.073613676Z",
+  "model": "glm-5.3"
+}

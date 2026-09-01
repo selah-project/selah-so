@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waa inay igu khiyaameen khiyaamo aad u weyn reer Israaiil iyo reer Yahuudah, sheekada Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa inay"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "khiyaamo aad u weyn"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "igu khiyaameen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo reer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sheekada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:02:29.158362427Z",
+  "model": "glm-5.3"
+}

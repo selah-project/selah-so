@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Oo ma igelin gacanta cadowga; cagayda waad taallee meel ballaaran.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Oo ma"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "igelin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "waad taallee"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "meel ballaaran"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:17.529325336Z",
+  "model": "glm-5.3"
+}

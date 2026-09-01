@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxaad ku hadashaa ilmaha Israa'iil isagoo leh: Dufanka sacabka iyo laxaha iyo adhigaba ha cunina.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "waxaad ku hadashaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "dufanka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sacabka"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "iyo laxaha"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iyo adhigaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cunina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:58.784373685Z",
+  "model": "glm-5.3"
+}

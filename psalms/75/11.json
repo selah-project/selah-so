@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Iyo magacyada (geeso) dhammaanna shar-geellyada waan goyn doonaa, geesaha suugaalaha (gar-yeellaha) waa la sarreeyin doonaa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-geellyada"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "waan goyn doonaa"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "waa la sarreeyin doonaa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "suugaalaha (gar-yeellaha)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:31.561257178Z",
+  "model": "glm-5.3"
+}

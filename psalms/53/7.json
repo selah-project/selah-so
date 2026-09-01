@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Yaa ka keeni Miitsiyoon badbaadada Israa'iil? Marka Elohim uu celinayo socdaalka dadkiisa, waqtigaas Ya'aqob wuu farxayaa, Israa'iilna wuu hoyaysaa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "keeni"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Miitsiyoon ka"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Marka... celinayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "socdaalka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "wuu farxayaa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuu hoyaysaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:00.420518195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo, idinkaa dhaafaysa ⟨את⟩ Webiga Yarden si aad u gashaan ⟨את⟩ dhulkii Yahweh Elohiin kiin siiyo, oo aad ka dhaarsan doontaan ka, oo aad ka deggi doontaan gudaheeda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinkaa"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "dhaafaysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "si aad u gashaan u"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "inaad qabsataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kiin"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "oo aad ka dhaarsan doontaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ (keed)",
+      "marks": "dhulkaas (ka)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "oo aad deggi doontaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gudaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:34.453840895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 20:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo markay Elohim ii guuriyeen ⟨את⟩ [anniga] ka soo baxay gurigii aabbahay, waxaan ku idhi iyada: Kan waa khesedkaaga ee aad iila sameynayso, meel kasta oo aan gaarno igu oddo: Waa walaalkay baa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oo markay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markay"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ii guuriyeen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gurigii ka soo baxay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "waxaan ku idhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "aad sameynayso"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "iila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "[ilaa]"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "aan gaarno"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "igu oddo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Waa ... baa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:40.483830875Z",
+  "model": "glm-5.3"
+}

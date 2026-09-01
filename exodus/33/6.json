@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Carruurtii Yisraai'il markaas bay ka soo qaadeen ⟨את⟩ qashiidahoodii buurta Xoreb ka dib.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "bay ka soo qaadeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Carruurtii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraai'il"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qashiidahoodii"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "qashiidahoodii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Xoreb"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:04.772091647Z",
+  "model": "glm-5.3"
+}

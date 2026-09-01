@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kuwanina waa saldhigyadii uu Shelomah dhigay inuu dhiso ⟨את⟩ beytka Elohim — dhererkiis amaah-cibraani (dhirigii hore) wuxuu ahaa lixdan amaah, iyo ballaciis labaatan amaah.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuwanina"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "uu dhigay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inuu dhiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beytka Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "dhererkiis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaah-cibraani"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "dhirigii hore"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "lixdan"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ballaciis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:57.579429754Z",
+  "model": "glm-5.3"
+}

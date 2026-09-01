@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Bal eeg, kuwan waxay ka iman doonaan meel fog; oo bal eeg, kuwan waqooyi iyo galbeed (bada), oo kuwan waxay ka iman doonaan dhulka Siniim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "waxay ka iman doonaan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "galbeed (bada)"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "oo kuwan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Siniim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:57.393533653Z",
+  "model": "glm-5.3"
+}

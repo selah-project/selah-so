@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waayo, sharro aan la tiri karin baa igu wareegay, dembiyadaydu wey ii gaadheen, oo aan karin inaan arko; waxay ka badan yihiin timaha madaxayga, oo wadhigaygu ii teageen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "bay igu wareegay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "sharro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aan la tiri karin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "wey ii gaadheen"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "dembiyadaydu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "karin"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inaan arko"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "waxay ka badan yihiin"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "timaha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "oo wadhigaygu"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ii teageen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:27.881623010Z",
+  "model": "glm-5.3"
+}

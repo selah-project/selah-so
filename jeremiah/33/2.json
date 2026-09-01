@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Sidaas ayuu yidhi Yahweh, kan ⟨את⟩ sameeyay; Yahweh, kan ⟨את⟩ qaabaynayaa si uu u diyaariyo; Yahweh baa magiciisu yahay.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "kan qaabaynayaa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "(kan la sameeyay \/ la qaabaynayaa)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "si uu u diyaariyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:26:15.431835802Z",
+  "model": "glm-5.3"
+}

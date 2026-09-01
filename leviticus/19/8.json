@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Cunilihiisuna dembiigiisaa uu qaadanayaa, waayo ⟨את⟩ qodshee Yahweh buu xadillaaday, nafartaasuna dadkeeda ka go'aysaa.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Cunilihiisuna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dembiigiisaa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uu qaadanayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qodshee Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodshee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "buu xadillaaday"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ka go'aysaa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafartaasuna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dadkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:57.652326305Z",
+  "model": "glm-5.3"
+}

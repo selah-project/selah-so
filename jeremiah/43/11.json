@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Wuu yimaadi doonaa, oo wuu garaaci doonaa ⟨את⟩ dhulka Mitsrayim; kuwa geerida loo qoray geeri, kuwa jirka loo qoray jirid, kuwa seefta loo qoray seef.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Wuu yimaadi doonaa"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "wuu garaaci doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "geerida loo qoray"
+    },
+    {
+      "surface": "למות",
+      "gloss": "geeri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "jirka loo qoray"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "jirid"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "seefta loo qoray"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T04:19:26.309262792Z",
+  "model": "glm-5.3"
+}

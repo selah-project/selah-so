@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Bir iyo bir cas baa ah budaddadaada ⟨qeex: ilaalaha albaabkaaga⟩, iyo sida maalmahaaga ⟨sidaas⟩ dabarkeega.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "iyo bir cas"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "budaddadaada (qeex: ilaalaha albaabkaaga)"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "iyo sida maalmahaaga"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "dabarkeega"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:16.081119769Z",
+  "model": "glm-5.3"
+}

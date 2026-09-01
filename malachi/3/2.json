@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yaa adkeysan karaa maalinta ⟨את⟩ imintiisa, iyo yaa taagi karaa marka la muujiyo? Waayo, waa sidii dab dhalayaha, iyo sidii saabuunta dharka dhulaya.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "adkeysan karaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalinta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "imitiisa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "iyo yaa"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "taagi karaa"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "marka la muujiyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sidii dab"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "dhalayaha"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "iyo sidii saabuunta"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "dharka dhulaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:49.884725919Z",
+  "model": "glm-5.3"
+}

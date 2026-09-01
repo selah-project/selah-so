@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ha ay wadaaddadu iska qaataan, qof kasta ⟨את⟩ macquunkiisa, iyaguna ha ay adkeeyaan ⟨את⟩ burburka guriga, meel kasta oo burbur halkaas laga helo.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ha ay qaataan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iska"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddadu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof kasta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "macquunkiisa"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "macquunkiisa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iyaguna"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ha ay adkeeyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burburka"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "burburka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "meel kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "laga helo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "burbur"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:32.294985843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Xusuuso ⟨את⟩ waxa Yahweh Elohimkaagu uu sameeyay Miiryaam, waddada, markaad ka baxdayso Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Xusuuso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa...sameeyay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miiryaam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "markaad ka baxdayso"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:26.706083487Z",
+  "model": "glm-5.3"
+}

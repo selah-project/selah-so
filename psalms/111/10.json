@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Xilligii bilowga xigmadu waa cabsada Yahweh; garaad wanaagsan waxay leeyihiin dhammaan kuwa sameeya oo dhan; ammaantiisu waxay taagan tahay ilaa iyo weligeed.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Xilligii bilowga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmada"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "cabsada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "garaad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "kuwa sameeya oo dhan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "waxay taagan tahay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ilaa iyo weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:15.686452758Z",
+  "model": "glm-5.3"
+}

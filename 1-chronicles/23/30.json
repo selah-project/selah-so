@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Iyo inay istaagaan subax kasta si ay ugu mahadnaadaan oo ugu ammaanaan Yahweh, oo sidaas oo kale galabti.",
+  "tokens": [
+    {
+      "surface": "וְלַעֲמֹד֙",
+      "gloss": "inay istaagaan"
+    },
+    {
+      "surface": "בַּבֹּ֣קֶר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "בַּבֹּ֔קֶר",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "לְהֹד֥וֹת",
+      "gloss": "si ay ugu mahadnaadaan"
+    },
+    {
+      "surface": "וּלְהַלֵּ֖ל",
+      "gloss": "oo ugu ammaanaan"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְכֵ֖ן",
+      "gloss": "oo sidaas oo kale"
+    },
+    {
+      "surface": "לָעָֽרֶב",
+      "gloss": "galabti"
+    }
+  ],
+  "timestamp": "2026-09-01T06:32:20.249447319Z",
+  "model": "glm-5.3"
+}

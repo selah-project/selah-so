@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Xaaskii Elohimna waxay korkooda kacday, wuxuuna ku diley miyigoodii, dhalinyarada Yisra'iilna wuu suuliyay.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Xaaskii ... na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "waxay korkooda kacday"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wuxuuna ku diley"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "miyigoodii"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "dhalinyarada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "wuu suuliyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:49.195999112Z",
+  "model": "glm-5.3"
+}

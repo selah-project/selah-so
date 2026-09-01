@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Boqorka iyo dadka oo dhan waxay gudbiyeen allabbari Yahweh hortiis.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo...oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "waxay gudbiyeen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabbari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:36:31.177317626Z",
+  "model": "glm-5.3"
+}

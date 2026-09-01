@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wuxuuna yidhi: ma dhaafayso. Edomna wuxuu u soo baxay ciidan tiro badan iyo gacan adag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "dhaafayso"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuuna soo baxay"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "u"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tiro badan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:17.267293320Z",
+  "model": "glm-5.3"
+}

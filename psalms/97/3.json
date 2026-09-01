@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Dab ayaa hortiisa socda, waxayna gubaysaa cadowgiisa dhinac walba.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "socda"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "waxayna gubaysaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhinac walba"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "cadowgiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:26.011770040Z",
+  "model": "glm-5.3"
+}

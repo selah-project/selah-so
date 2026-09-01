@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Si ay u ilaaliyaan sharcigiisa iyo axkaamtiisa ay dhowraan. Ammaana Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Si ay u"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ilaaliyaan"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sharcigiisa"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "iyo axkaamtiisa"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ay dhowraan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ammaana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:00.661140785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Yahweh Adonay, awoodda badbaadayday, Adiga waxaad maqtay madaxayga maalinta dagaalka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "awoodda"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "badbaadayday"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Adiga waxaad maqtay"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:26.976786954Z",
+  "model": "glm-5.3"
+}

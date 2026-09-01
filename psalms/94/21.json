@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Waxay isbahaysi dhigeen ku ⟨dhan⟩ nafda xaqnimada, iyo dhiig daahiran ah waxay ku xukumeen ⟨inuu yahay dembi⟩.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "waxay isbahaysi dhigeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku ⟨dhan⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafda"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "xaqnimada"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "iyo dhiig"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "daahiran"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "waxay ku xukumeen ⟨inuu yahay dembi⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.201458253Z",
+  "model": "glm-5.3"
+}

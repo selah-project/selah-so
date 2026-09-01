@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Laakiin mataka Lewi ha tiriin, iyo madaxoodana ha dhaarinso dhexda wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataka Lewi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tiriin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "madaxooda"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "madaxooda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dhaarin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:33.944499707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo lix sano ayaad beeran doontaa ⟨את⟩ dhulkaaga, waxaadna ururin doontaa ⟨את⟩ midhaha kiisa.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Oo lix"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ayaad beeran doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkaaga"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "waxaadna ururin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaha kiisa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "midhaha kiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:09.502257722Z",
+  "model": "glm-5.3"
+}

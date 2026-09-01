@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Ya'aqoobna wuu u adeegay Raahel toddoba sano, waxayna indhihiisa ahaayeen sida maalmo yar-yar, jeclahaygiisa ⟨את⟩ dartii.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "wuu u adeegay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Raahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "indhihiisa"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "sida maalmo"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "yar-yar"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jeclahaygiisa dartii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (Raahel)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:44.481879576Z",
+  "model": "glm-5.3"
+}

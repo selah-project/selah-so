@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Maraggaga waan dhaxlay ⟨ilaa weligeed⟩, waayo faraxa wadnahayga bay yihiin.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "waan dhaxlay"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Maraggaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligeed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ששושן",
+      "gloss": "faraxa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnahayga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bay yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:32.045391310Z",
+  "model": "glm-5.3"
+}

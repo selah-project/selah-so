@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Sheeg waan baryayaa adiga walaashay tahay, si aan laygu wanaajiyo adiga awgood, oo naftaydu ay noolaato adiga awgiis.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan baryayaa"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "walaashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "laygu wanaajiyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "adiga awgood"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "oo ay noolaato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "adiga awgiis"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:00.439711343Z",
+  "model": "glm-5.3"
+}

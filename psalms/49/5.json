@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Waxaan dheelayaa dhagayga matal (maahmaah) ahaan; kinnuurra ku furayaa macalluunkayga.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "waan dheelayaa"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "matal (maahmaah) ahaan"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "dhagayga"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "waan furayaa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnuurra ku"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "macalluunkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:25.976306623Z",
+  "model": "glm-5.3"
+}

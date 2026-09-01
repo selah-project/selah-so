@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaadna ka samaynaysaa ⟨את⟩ uunsi — isku-darka khayraanka, shuqolkii rakixaha, milix ku qarqooman (la dhexmilan), nadif, quduus.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaadna samaynaysaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uunsi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uunsi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "isku-darka khayraanka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqolkii"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "rakixaha"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "milix ku qarqooman"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadif"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:46.945385105Z",
+  "model": "glm-5.3"
+}

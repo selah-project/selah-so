@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Wuu tiriyyaa tirada tracker-yada — lagu tiriyaa xiddigaha; magacyadooda oo dhan wuu u magacaabayaa.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Wuu tiriyyaa — wuu qiyaasaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tirada — tiro ahaan"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "xiddigaha"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wuu u magacaabayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.900950610Z",
+  "model": "glm-5.3"
+}

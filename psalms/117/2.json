@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 117,
+  "translation": "Waayo, khesedkiisu wuu nagu adag tahay, runta Yahwehna waxay sii joogtaa weligeed; ammaantiya Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wuu nagu adag tahay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "runta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ammaantiya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:08.268328890Z",
+  "model": "glm-5.3"
+}

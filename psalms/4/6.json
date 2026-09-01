@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Gowraanna waaweyn oo ah udhiska cadaaladda, oo aad ku talaxturo Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Gowraanna waaweyn"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "waaweyn oo ah udhiska"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaaladda"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "oo aad ku talaxturo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:39.590430972Z",
+  "model": "glm-5.3"
+}

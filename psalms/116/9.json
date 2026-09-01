@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Waxaan cabsan iyo guri la'aan ku socon doonaa Yahweh horteeda, ⟨dhulka⟩ nolosha ku jira.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "waxaan socon doonaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dhulka ku jira"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolosha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:12.403522211Z",
+  "model": "glm-5.3"
+}

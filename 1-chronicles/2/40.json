@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Elcaasahna wuxuu dhalay ⟨את⟩ Sismaay, Sismaayna wuxuu dhalay ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elcaasahna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismaay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismaay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "Sismaayna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:22.415714559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hooyonno naga! Yaa na badbaadin gacantii Elohimyada waaweyn ee kale? Kuwan waa Elohimyadii ku dhibay ⟨את⟩ Mitsrayim dhib kasta baadiyada.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Hooyonno"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "na badbaadin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacantii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimyada"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ee kale"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kuwan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimyadii"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ku dhibay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "baadiyada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:09.693363717Z",
+  "model": "glm-5.3"
+}

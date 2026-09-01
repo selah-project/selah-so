@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Culaaysa ⟨את⟩ Midiyanka, oo idinku garaaca ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Culaaysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midiyanka"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midiyanka"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "oo idinku garaaca"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:45.875573569Z",
+  "model": "glm-5.3"
+}

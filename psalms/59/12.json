@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Ha dillin, si aan dadkaydu hilmaamin; xooggaaga ku gurguriyow, hoos u dhig, Adonay, gaashaankayagii.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "dillin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "hilmaamin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkaydu"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ku gurguriyow"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "hoos u dhig"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "gaashaankayagii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:04.629398498Z",
+  "model": "glm-5.3"
+}

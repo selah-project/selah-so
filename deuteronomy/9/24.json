@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Caasiyaan ah waxaad ahaateen la Yahweh, ilaa maalintaan bilaabay inaan ⟨את⟩ idin garto.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "caasiyaan ah"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "waxaad ahaateen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "maalintaan"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "aan idin garto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:47.926004660Z",
+  "model": "glm-5.3"
+}

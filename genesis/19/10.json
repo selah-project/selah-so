@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Laakiin raggu way dhiibeen gacantooda, oo keenay ⟨את⟩ Lood agtooda guriga, oo ⟨את⟩ albaabka way xidheen.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "way dhiibeen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "raggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantooda"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacantooda"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "oo keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lood"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lood"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "agtooda"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "albaabka"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "way xidheen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:18.578267836Z",
+  "model": "glm-5.3"
+}

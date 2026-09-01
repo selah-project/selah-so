@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu amraa wadaaddu, waxaana la gowracay ⟨את⟩ shimbirihii midkood, weel dhoobo (qasac) ku dhinta biyo nool.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "wuxuu amraa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "la gowracay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shimbirihii midkood"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "shimbirihii"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "midkood"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku dhinta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "weel"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dhoobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:35.583437416Z",
+  "model": "glm-5.3"
+}

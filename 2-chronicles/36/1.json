@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Dadka ⟨את⟩ dhulkii waxay qaatay Yeho'achaz ina Yoshiaahu, waxayna dhaartay inuu boqor noqdo meeshii aabbihii Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaatay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeho'achaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiaahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "waxayna dhaartay inuu boqor noqdo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "meeshii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihii"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T06:48:48.735419107Z",
+  "model": "glm-5.3"
+}

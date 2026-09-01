@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wanaagsan inaad ku qabsato kani, oo kaasna ⟨את⟩ gacantaada ha daalin; waayo, kan cabsiisha Elohim ah wuu ka bixin doonaa ⟨את⟩ dhammaan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ku qabsato"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "oo sidoo kale"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "daalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kan cabsiisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ka bixin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dhammaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:23.605420910Z",
+  "model": "glm-5.3"
+}

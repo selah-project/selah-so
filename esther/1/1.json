@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu noqday maalmahaas Axashwerosh — isaga Axashwerosh boqorka ka taliyaya laga bilaabo Hodu ilaa Kush, toddoba iyo labaatan iyo boqol gobol —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wuxuu noqday"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "maalmahaas"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "laga bilaabo Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iyo labaatan"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "gobol"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:50.466765105Z",
+  "model": "glm-5.3"
+}

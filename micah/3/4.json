@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markaa waxay qayli doonaan Yahweh u hortii, isaguna ma ka jawaabi doono ⟨את⟩ iyaga, wuuna qarin doonaa wejiisa ka tagey waqtigaas, sida ay u xumeeyeen falimahooda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaa"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "waxay qayli doonaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u hortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isaguna ma"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ka jawaabi doono"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "wuuna qarin doonaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wejiisa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka tagey"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "gaar ahaan (waqtigaas)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "ay u xumeeyeen"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "falimahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:45.922743476Z",
+  "model": "glm-5.3"
+}

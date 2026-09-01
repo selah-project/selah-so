@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Halka uu erayga boqorku awood tahay ⟨waa xukun⟩, yana yuu ku idhi Maxaad sameynaysaa?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Halka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "awood\/xukun"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yana yuu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ku idhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameynaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:25.209649071Z",
+  "model": "glm-5.3"
+}

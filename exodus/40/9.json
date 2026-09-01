@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxaad qaadaysaa saliidda subitaanka, waxaadna subaysaa ⟨את⟩ Maskanka iyo ⟨את⟩ wax kasta oo ku jiro gudihiisa, waadna quduusiyeysaa ⟨את⟩ isaga iyo ⟨את⟩ agabkiisa oo dhan, wuxuuna noqon qudus.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "waxaad qaadaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saliidda subitaanka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subitaanka"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "waxaadna subaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maskanka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wax kasta oo ku jiro gudihiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jiro gudihiisa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "waadna quduusiyeysaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Maskanka)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "agabkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "agabkiisa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuuna noqon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudus"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:15.822040018Z",
+  "model": "glm-5.3"
+}

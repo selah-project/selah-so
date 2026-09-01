@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo waxaan siinay wadahayga inuu ogaado xikmadda, iyo inuu ogaado walwallada iyo nacasyada; waan ogaaday in tanuna ay tahay raadinta dabayl.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "waxaan siinay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadahayga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "inuu ogaado"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmadda"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iyo inuu ogaado"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "walwallada"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "nacasyada"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogaaday"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "in tanuna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tanuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ay tahay"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "raadinta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayl"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:50.819653058Z",
+  "model": "glm-5.3"
+}

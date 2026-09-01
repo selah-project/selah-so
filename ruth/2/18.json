@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo waxay qaaddatay, waxayna u soo gaadhay magaalada, seeddigeedna wuu arkay ⟨את⟩ waxay urursatay; waxayna soo bixisay, uguna siiyay ⟨את⟩ waxay ka hartay cunto aad u dhimatay.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "waxay qaaddatay"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "waxay u soo gaadhay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "seeddigeed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxay urursatay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxay"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "urursatay"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "waxayna soo bixisay"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "uguna siiyay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxay ka hartay cunto aad u dhimatay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxay"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "ka hartay"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "cunto aad u dhimatay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:55:46.631461035Z",
+  "model": "glm-5.3"
+}

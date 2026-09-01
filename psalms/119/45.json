@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan ku socdaalaa meel ballaaran ⟨waayo⟩ amarradaaga baan doondoonayay.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "waxaan ku socdaalaa"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "meel ballaaran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "amarradaaga"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "baan doondoonayay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:06.222438161Z",
+  "model": "glm-5.3"
+}

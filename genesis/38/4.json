@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wayna dhallay mar kale, wayna dhashay wiil, wayna u baxdishay ⟨את⟩ magaciisa Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wayna dhallay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar kale"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wayna dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wayna u baxdishay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:47.882462353Z",
+  "model": "glm-5.3"
+}

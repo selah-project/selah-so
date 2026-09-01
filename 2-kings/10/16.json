@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna yidhi: Ii la caawa, oo arag sidaan u gargaarayo ⟨את⟩ Yahweh. Waxayna saareen ⟨את⟩ isaga gaadhihiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ii la caawa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ila"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo arag"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "sidaan u gargaarayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "waxayna saareen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "gaadhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:15.490038281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Elohimna wuu arkay ⟨את⟩ dhulka, waana eebbay, waayo, dhamaan nudaha bay khalkhulaayeen ⟨את⟩ jidkooda dhulka ku dhex yaal.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "waana eebbay"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "khalkhulmay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "khalkhulaayeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nudaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidkooda"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jidkooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex yaal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:47.149252771Z",
+  "model": "glm-5.3"
+}

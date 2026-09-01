@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waxaana ka badbaadin doonaa gacanta boqorka Ashuur adiga iyo ⟨את⟩ magaaladan, waxaana ka ilaalin doonaa magaaladan.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "Waxaana ka badbaadin doonaa adiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "magaaladan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(tan)"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "waxaana ka ilaalin doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(tan)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:04.206048833Z",
+  "model": "glm-5.3"
+}

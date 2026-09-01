@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu ka dhigay roobabkooda baraf-daad (baraf kulul), iyo naar leh lehabeysa dhulkooda gudaheed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Wuxuu ka dhigay"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "roobabkooda"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "baraf-daad (baraf kulul)"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naar"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "leh lehabeysa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "dhulkooda gudaheed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:46.232962563Z",
+  "model": "glm-5.3"
+}

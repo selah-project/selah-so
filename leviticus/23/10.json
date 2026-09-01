@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "U hadal ilmaha Israa'iil, oo ku dhoh: Marka aad kaalmo dhulkii aan idin siinayo, oo aad goysaan ⟨את⟩ beertii, waa inaad keentaan ⟨את⟩ guri-gaalkii (cammarka) horreeya ee beertiinna, wadaadda.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo ku dhoh"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Marka"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "aad kaalmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siinayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "oo aad goysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beertii (qasadka beertii)"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "beertii"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "waa inaad keentaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cammarka (guri-gaal)"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "guri-gaal (cammar)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "horreeya"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "ee beertiinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:13.877561475Z",
+  "model": "glm-5.3"
+}

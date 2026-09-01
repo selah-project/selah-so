@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxayna dhiseen curadii Ra'uubeen ⟨את⟩ Xeshboon iyo ⟨את⟩ El'ale iyo ⟨את⟩ Kiryataayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "curadii"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ra'uubeen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "waxayna dhiseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xeshboon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Xeshboon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "El'ale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "El'ale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kiryataayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:52.275724501Z",
+  "model": "glm-5.3"
+}

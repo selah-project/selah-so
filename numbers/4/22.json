@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Qaatanaa ⟨את⟩ madaxa wiilasha Gershon, iyaguna ⟨waa la tirinayaa⟩, guryo awoodahooda iyo qoysaskooda",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "qaatanaa (madaxa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyaguna"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guryo (awooda)"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "awoodahooda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:43.449785236Z",
+  "model": "glm-5.3"
+}

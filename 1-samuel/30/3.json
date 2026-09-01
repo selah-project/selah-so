@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Dawid iyo raggiisii waxay yimaadeen magaalada, bal eeg, waa la gubay dab; naagaheenna iyo wiilashoodii iyo gabadhoodii waa la qabsaday.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "iyo raggiisii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ay u yimaadeen)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "waa la gubay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "naagaheenna"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "iyo wiilashoodii"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "iyo gabadhoodii"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "waa la qabsaday (dhoofiyay)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:14.449941164Z",
+  "model": "glm-5.3"
+}

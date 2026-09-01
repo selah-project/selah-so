@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 30:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Oo haddii ay noqoto ⟨⟨ mid⟩⟩ nin la ah, nadaradeedana ay ku dhaafaan, ama hadal il awgiis oo afuufan oo ay ku xidhay nafteeda —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "oo haddii"
+    },
+    {
+      "surface": "היו",
+      "gloss": "haddii ay noqoto"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ay noqoto"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin la ah"
+    },
+    {
+      "surface": "ונדריה",
+      "gloss": "nadaradeedana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ay ku dhaafaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "hadal afuufan"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "ilkeeda awgiis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ay ku xidhay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nafteeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:54.702151372Z",
+  "model": "glm-5.3"
+}

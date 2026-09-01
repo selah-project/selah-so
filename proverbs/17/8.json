@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Hadhi (lacag bixin ah) waa dhagax (qurux badan) oo jecel yahay (indhaha) eeyesha isaga leh; meel kastoo uu u jeedo wuu falgala.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "חן",
+      "gloss": "qurux badan (jecel)"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "Hadhi (lacag bixin ah)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "eeyesha isaga leh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meel kastoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "u jeedo (u soo jeedo)"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "wuu falgala (wuu hufnaa)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:13.302529492Z",
+  "model": "glm-5.3"
+}

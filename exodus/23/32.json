@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Lama heshiisiinayso iyaga iyo ilaahahooda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "lama heshiisiinayso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "iyo ilaahahooda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "heshiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:00.831700886Z",
+  "model": "glm-5.3"
+}

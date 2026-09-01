@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yehooshuuca iyo Israa'iil oo dhan way iska fexeen ⟨sidii laynay⟩ hortooda, wayna carareen jidka baadiyaha.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "way iska fexeen sidii laynay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wayna carareen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baadiyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:27.845148170Z",
+  "model": "glm-5.3"
+}

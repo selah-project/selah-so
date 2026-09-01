@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Maxaad gacantaada ku celinaysaa, xataa midigtaada? Ka soo saar gudaha hoosadaada ⟨oo baabbi'i⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ku celinaysaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "xataa midigtaada"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gudaha ka soo saar"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "hoosadaada"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨oo baabbi'i⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:45.826022638Z",
+  "model": "glm-5.3"
+}

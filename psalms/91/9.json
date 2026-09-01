@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Maxaa yeelay adiga, Yahweh, adigaa ah magangalayga, Adigoo ah Elyon, adigaa dhigay ⟨⟨deggaankaaga⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangalayga"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "adigaa dhigay"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "deggaankaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:30.672337231Z",
+  "model": "glm-5.3"
+}

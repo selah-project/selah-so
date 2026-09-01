@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Gar-qaaddu waxay ilaalisaa ⟨dhammaystiran⟩ waddada, xumaantuse waxay baabi'aysaa dambiilaha.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "gar-qaaddu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "waxay ilaalisaa"
+    },
+    {
+      "surface": "תם",
+      "gloss": "dhammaystiran"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "xumaantuse"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "waxay baabi'aysaa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dambiilaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.506331562Z",
+  "model": "glm-5.3"
+}

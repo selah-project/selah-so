@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wax beliyaa' (ah) bay ku shubayaan: kan sii jiifayna mar dambe ma kiciyoo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "wax (erey)"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaa' (sharr aan faa'ido lahayn)"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "bay ku shubayaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sii jiifay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mar dambe (kiciyo)"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kiciyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.242255494Z",
+  "model": "glm-5.3"
+}

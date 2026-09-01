@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Mizmoor. Heela Yahweh hees cusub, waayo wuxuu sameeyay yaabab; gacantiisa midig iyo gacanta quduuska ah baa u keentay ⟨badbaadad⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Heela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "yaabab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "baa u keentay badbaadad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "gacantiisa midig"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:32.112317746Z",
+  "model": "glm-5.3"
+}

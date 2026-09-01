@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh waa weyn yahay, oo aad loo ammaano, oo weynaantiisa wax ba lama baadhi karo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "oo aad loo ammaano"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "oo weynaantiisa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wax ba lama"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "baadhi karo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:02.103550894Z",
+  "model": "glm-5.3"
+}

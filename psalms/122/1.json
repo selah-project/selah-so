@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Heesaha koritaadda, ee Dawiid. Waan farxay markay igu dheehan ⟨iyo⟩ iyagoo leh: Aqalka Yahweh ayaan tegaynaa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesaha"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "koritaadda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Dawiid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Waan farxay"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "markay dheehan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Aqalka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tegaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:56.589829795Z",
+  "model": "glm-5.3"
+}

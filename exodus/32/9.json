@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Yahweh wuxuu yidhi Muuse: Waxaan arkay ⟨את⟩ dadkan, oo bal eeg, dad adag dahcigood ah bay ahaanayaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "dahcigood"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay ahaanayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:59.403535167Z",
+  "model": "glm-5.3"
+}

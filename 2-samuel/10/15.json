@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Markaas Aram markay arkatay in loo adkeeyay hor Israa'iil, way wada soo aruureen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "markay arkatay"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "loo adkeeyay (la jabiyay)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "way wada soo aruureen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada (hal meel)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:35.423358992Z",
+  "model": "glm-5.3"
+}

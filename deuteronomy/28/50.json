@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ummad weji adag, oo aan weji u qaadin odayga, aanana u xilsaarayn (naxariisin) dhallinyarada.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ummad"
+    },
+    {
+      "surface": "עז",
+      "gloss": "adag"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "weji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "u qaadin"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "weji"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "odayga"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "dhallinyarada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "u xilsaarayn (naxariisin)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:36.418754930Z",
+  "model": "glm-5.3"
+}

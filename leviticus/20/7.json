@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo idinku quduusiya naftiinna, oo quduus ahaada; waayo aniga waxaan ⟨ahay⟩ Yahweh Elohiin.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "quduusiya naftiinna"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "quduus ahaada"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:01.061848955Z",
+  "model": "glm-5.3"
+}

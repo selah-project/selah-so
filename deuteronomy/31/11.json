@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Markay dhammaan Israa'iil yimaadaan inay muujiyaan ⟨את⟩ weji Yahweh Elohimkaaga meeshuu doorto, adigu waxaad akhrisaa ⟨את⟩ Sharcigan dhammaan Israa'iil hortooda, dhegtahooda gudaheed.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Markay... yimaadaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inay muujiyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weji"
+    },
+    {
+      "surface": "פני",
+      "gloss": "weji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "doorto"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "waxaad akhrisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharcigan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dhegtahooda gudaheed"
+    }
+  ],
+  "timestamp": "2026-09-01T07:02:15.778294912Z",
+  "model": "glm-5.3"
+}

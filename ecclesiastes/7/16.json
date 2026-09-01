@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ha noqon mid xaqa ah aad u badan, ha is-xikmeyna aad u sarreeya; maxaad u baaba'aysaa?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "noqon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mid xaqa ah"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "is-xikmeyna"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "aad u sarreeya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "baaba'aysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:55.947651436Z",
+  "model": "glm-5.3"
+}

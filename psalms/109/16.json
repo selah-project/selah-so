@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Sababtoo ah ma xusuustin inuu sameeyo khesed, laakiin wuu raacay nin tabarta la' iyo saboolka, iyo kan qalbiga laga jabo, si loo dilo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuustin"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "sameeyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "laakiin wuu raacay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tabarta la'"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo saboolka"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "iyo kan laga jabo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "si loo dilo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:15.899291019Z",
+  "model": "glm-5.3"
+}

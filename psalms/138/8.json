@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Yahweh wuu igu dhammayn doonaa; Yahweh, khesedkaagu weligiis baa jira; shaqooyinka gacmahaaga ha daynin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "wuu igu dhammayn doonaa"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis baa jira"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shaqooyinka"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmahaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "daynin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:51.659881229Z",
+  "model": "glm-5.3"
+}

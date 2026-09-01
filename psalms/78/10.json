@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Ma ilaalin xildhigga Elohim, oo xaggiisa Sharciga diideen inay ku socdaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "xildhigga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "oo xaggiisa Sharciga"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "diideen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inay ku socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:29.845204020Z",
+  "model": "glm-5.3"
+}

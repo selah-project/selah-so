@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Iyo rooti aan khamiir lahayn, iyo flaafo aan khamiir lahayn oo saliidda lagu daray, iyo raqaad aan khamiir lahayn oo saliidda lagu subay, — beddada qamadida fiican waxaad ka samayn doontaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "iyo rooti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "aan khamiir lahayn"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "iyo flaafo"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "aan khamiir lahayn"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "oo saliidda lagu daray"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "iyo raqaad"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "aan khamiir lahayn"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "oo lagu subay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "beddada"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "qamadida"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad ka samayn doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "— (waxa calaamadeeyay oo ka maqan: shaleyda rootiyada)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:53.389271677Z",
+  "model": "glm-5.3"
+}

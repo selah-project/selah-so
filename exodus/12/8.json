@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay cunaan ⟨את⟩ hilibka habeenkaas, oo lagu shiilay dab; waxayna la cunaan ⟨את⟩ isu maado iyo dhir qadhaadh.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "waxay cunaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hilibka"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "anas"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "shiilan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "maado"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "dhir qadhaadh"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ku cunaan isu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.289818321Z",
+  "model": "glm-5.3"
+}

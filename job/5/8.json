@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Laakiin aniga waxaan El u doondoonayaa, oo Elohim baan u gudbiyaa codshayga.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "waxaan u doondoonayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "baan u gudbiyaa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "codshayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:09.488680090Z",
+  "model": "glm-5.3"
+}

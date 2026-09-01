@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Markii Nabi Neetaan uu yimid xaggiisa, markii uu galay gurigii Bath-Sheba (Batsheba).",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Markii uu yimid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Neetaan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "Nabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uu galay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:33.225522061Z",
+  "model": "glm-5.3"
+}

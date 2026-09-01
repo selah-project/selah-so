@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxa ⟨taagan⟩ jiray waa waxa soo noqon doona, iyo waxa la sameeyay waa waxa la sameyn doona; oo wax cusub ma jiro hoos ka ah qorraxda.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jiray"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "soo noqon doona"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "iyo waxa"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "la sameeyay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "la sameyn doona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ma jiro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos ka ah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:40.740362253Z",
+  "model": "glm-5.3"
+}

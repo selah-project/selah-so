@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Bal eeg, dacwo ayaa la ii dhashay, denbina hooyaday ayaa ii dhashay.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "dacwo"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "la ii dhashay"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "denbina"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "hooyaday ayaa ii dhashay"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:43.271812331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh Adonay, magacaagu wuxuu aad u weyn yahay dhulka oo dhan!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wuxuu aad u"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "weyn yahay"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaagu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:02.338687137Z",
+  "model": "glm-5.3"
+}

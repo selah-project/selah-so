@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 70,
+  "translation": "Haatan walaacaan oo ay shan la noqdaan kuwa doondoonaya nafdayda; haatan dib uga noqdaan oo ay ayee ka noqdaan kuwa raalliyahay sharkeyda.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "walaacaan"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "shan la noqdaan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doondoonaya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "dib uga noqdaan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dib"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ayee ka noqdaan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kuwa raalliyahay"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sharkeyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:36.496279805Z",
+  "model": "glm-5.3"
+}

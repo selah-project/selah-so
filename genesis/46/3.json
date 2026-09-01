@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Wuxuuna yidhi: Anigu waan ahay El, Elohima aabaha; ha cabsanin inaad Mitsrayim ku degtid, waayo qoom weyn baan kuu dhigayaa halkaas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ... -nin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsanin"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "inaad ... ku degtid"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "qoom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "baan kuu dhigayaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:01:44.535472034Z",
+  "model": "glm-5.3"
+}

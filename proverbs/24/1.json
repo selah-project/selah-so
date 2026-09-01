@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Ha kibrin xumaan-falayaasha, oo ha rabina inaad ahaataan ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ku kibrin"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "xumaan-falayaasha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ha rabina"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "inaad ahaataan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:45.237720287Z",
+  "model": "glm-5.3"
+}

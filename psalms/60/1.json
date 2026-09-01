@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Hagaha muusiikada, oo ku jira sheekada Shushan-Eduth, mikhdaam (qasaa'ad la qoray dhagax), ee Dawid, si loo barto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha muusiikada"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku jira"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan-Eduth"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "sheekada Shushan-Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhdaam (qasaa'ad la qoray dhagax)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "si loo barto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:16.436005407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ya'aqobna wuxuu istaagay, wuxuu saaray ⟨את⟩ wiilashiisa iyo ⟨את⟩ naagahiisa geelaha.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuu istaagay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wuxuu saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "naagahiisa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "naagahiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "geelaha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:34.024229524Z",
+  "model": "glm-5.3"
+}

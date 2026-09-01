@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Oo magaca Yahweh ayaan u dhawaaqay: haaye Yahweh, i badbaadi nafdayda.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "oo magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ayaan u dhawaaqay"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "haaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.923831433Z",
+  "model": "glm-5.3"
+}

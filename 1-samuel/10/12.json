@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Nin ka mid ah meeshaasna wuxuu jawaabay oo wuxuu yidhi: Yaa ah aabahood? Sidaa darteed waxay noqotay matal: Ma Shaa'uulbaa nebiyada ku jiraa?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu jawaabay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ka mid ah meeshaas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "aabahood"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "matal"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ma …baa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "nebiyada ku jiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:17.268404245Z",
+  "model": "glm-5.3"
+}

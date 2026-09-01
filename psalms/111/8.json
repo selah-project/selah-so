@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Waa la taageeray weligaa iyo waligoodba, waxaana lagu sameeyay run iyo toogasho.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "waa la taageeray"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyo waligoodba"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "waxaana lagu sameeyay"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "iyo toogasho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:53.555154652Z",
+  "model": "glm-5.3"
+}

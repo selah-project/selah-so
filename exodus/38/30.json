@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wuxuuna ku sameeyey ⟨את⟩ salalka iridda Khaymaha Kulanka, iyo ⟨את⟩ alwaaxa nahaaska iyo ⟨את⟩ shabakadda nahaaska ee u hoggaraysay, iyo ⟨את⟩ dhamaan qalabka alwaaxa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuuna ku sameeyey"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salalka iridda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "salalka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "alwaaxa nahaaska"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nahaaska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shabakadda nahaaska"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nahaaska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u hoggaraysay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan qalabka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alwaaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:26.076059631Z",
+  "model": "glm-5.3"
+}

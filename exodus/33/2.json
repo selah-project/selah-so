@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waana soo diri doonaa malag hortaada, waana eri doonaa ⟨את⟩ Kanaanigii, Emoriigii, Xittigii, Periziigii, Xiwiigii iyo Yebusiigii.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Waana soo diri doonaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malag"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "waana eri doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanigii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanigii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriigii"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Xittigii"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Periziigii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Xiwiigii"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusiigii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:44.198004422Z",
+  "model": "glm-5.3"
+}

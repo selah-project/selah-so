@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Waayo, adigu Adonay waxaad tahay ⟨kan⟩ wanaagsan oo dhaafaya, oo khesed fara badan leh dhamaan kuwa ku barya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "oo dhaafaya"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "oo fara badan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "kuwa ku barya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.979224763Z",
+  "model": "glm-5.3"
+}

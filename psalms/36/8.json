@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Intee buu qaali u yahay khesedkaaguu, Elohim; sidaas darteed caruurka aadamiga hooska baalashaada bay magan galaan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Intee buu... u yahay"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "qaali"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "caruurka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "hooska"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baalashaada"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "magan galaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:21.452121753Z",
+  "model": "glm-5.3"
+}

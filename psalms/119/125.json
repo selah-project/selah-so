@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Aniga adiigoo addoonkaa ah ii fahansii, si aan uga yaqaan markhaatiyadaaga.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ii fahansii"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "si aan uga yaqaan"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "markhaatiyadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.465744943Z",
+  "model": "glm-5.3"
+}

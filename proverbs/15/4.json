@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Carab hareeriya waa geed nololeed, laakiin curyaanidda ku jirta ⟨dhexdeeda⟩ waa jabo ruuxda.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "hareeriya"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carab"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nololeed"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "laakiin curyaanidda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "jabo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:00.186210234Z",
+  "model": "glm-5.3"
+}

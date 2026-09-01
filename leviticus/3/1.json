@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo haddii allabarigiisu yahay zebedh nabad-gelyo, hadduu ka soo bixiyay lo'da — dhig ama dhedig — mid dhan (aan naqsi lahayn) buu u dhowaanjin doonaa Yahweh hortiis.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "iyo haddii"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nabad-gelyo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbaankiisu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "uu dhowaanjinayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "dhedig"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mid dhan"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "buu u dhowaanjin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:56.818863988Z",
+  "model": "glm-5.3"
+}

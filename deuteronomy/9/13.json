@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuse Yahweh ii yidhi oo leh: Waan arkay ⟨את⟩ shacabkan, oo bal eeg — shacab luqunta adag ayuu yahay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuse... yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Waan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabkan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacab"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "luqunta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ayuu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:00.639795126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Yahwehna wuxuu Yisraa'iil siiyay badbaadiye, wayna ka baxeen gacanta Aram; curuurka Yisraa'iilna waxay ku noolaayeen khaimadahooda ⟨sida⟩ shalay iyo kahor.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "badbaadiye"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "wayna ka baxeen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka (hoosteeda)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "waxay ku noolaayeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curuurka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "khaimadahooda"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "sida shalay"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "iyo kahor"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:54.411761693Z",
+  "model": "glm-5.3"
+}

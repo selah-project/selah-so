@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaana ka adkaaday dadka raacay Omri ⟨את⟩ dadka raacay Tibni ina Giinath, markaasuu Tibni dhintay, Omrina wuu boqor ahaaday.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Waxaana ka adkaaday"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raacay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka raacay Tibni ina Giinath"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raacay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Giinath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "markaasuu dhintay"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wuu boqor ahaaday"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrina"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:50.796751144Z",
+  "model": "glm-5.3"
+}

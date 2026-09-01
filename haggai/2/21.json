@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dheh Zerubabel, gudoomiyaha Yahuudah: Aniga waan gilgilayaa ⟨את⟩ samada iyo ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "gudoomiyaha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "(anoo dhehaya)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "waan gilgilayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:56:02.997736484Z",
+  "model": "glm-5.3"
+}

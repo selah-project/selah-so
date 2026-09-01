@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Laabtadaa gaadhaya kun buu ku dhici doonaa, iyo toban kunna midigtaada, laakiin adiga kuma dhawaan doonto.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "buu ku dhici doonaa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "laabtadaa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "iyo toban kun"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "midigtaada"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "laakiin... kuma"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "dhawaan doono"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:02.097448436Z",
+  "model": "glm-5.3"
+}

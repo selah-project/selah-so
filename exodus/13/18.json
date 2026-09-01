@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo Elohim wuxuu wareejiyay ⟨את⟩ dadka jidka barbaaraha ah ee Badda Suf (qudhunta); oo ilmihii Israa'iil bannaan (qalab ku xidhan) bay ka soo baxeen dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wuxuu wareejiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "barbaaraha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf (qudhun)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "bannaan (qalab ku xidhan)"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bay ka soo baxeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:20.981866262Z",
+  "model": "glm-5.3"
+}

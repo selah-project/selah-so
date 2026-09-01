@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Qaada siyaallo Yahweh kinnuur, kinnuur iyo cod gabay (siyaallo).",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "qaada siyaallo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnuur"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnuur"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "iyo cod"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "gabay (siyaallo)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:06.197618463Z",
+  "model": "glm-5.3"
+}

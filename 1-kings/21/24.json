@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Kan Axab ka mid ah oo magaalada ku dhinta, eyuhu bay cuni doonaan; kan beerta ku dhintana, shimbiraha samada bay cuni doonaan.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kan ... ku dhinta"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Axab ka mid ah"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bay cuni doonaan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "eyuhu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "kan ... ku dhintana"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bay cuni doonaan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:36.706699247Z",
+  "model": "glm-5.3"
+}

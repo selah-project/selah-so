@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxaana noqon doontaa qaylo weyn oo dhammaan dhulka Mitsrayim ka dhan ah, kaasoo la mid ah oo aan waligiis la jirin, oo aan waligiis mar dambe la mid noqon doonin.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "waxaana noqon doontaa"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "qaylo"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "la mid ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "waligiis la jirin"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "oo la mid ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan waligiis mar dambe"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "la mid noqon doonin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:51.739861270Z",
+  "model": "glm-5.3"
+}

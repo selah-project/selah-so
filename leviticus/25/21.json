@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waana idinku amrayaa ⟨את⟩ barakaddayda sanadda liixaad, oo waxay sameyn ⟨את⟩ beeritaanka saddexdii sanad.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "waana amrayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barakaddayda"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "barakaddayda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sanadda"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "liixaad"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "oo waxay sameyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beeritaanka"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "beeritaanka"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "saddexdii"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "sanad"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:31.305498929Z",
+  "model": "glm-5.3"
+}

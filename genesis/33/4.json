@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Esuuse wuu orday laabtiisii, wuuna seexay qoorta aawadiis, wuuna shubaan-qoorteed ku dhufay, wuuna dhowrhay, wayna ooyeen.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "wuu orday"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esuuse"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "laabtiisii"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "wuuna seexay"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wuuna ku dhufay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "qoorta"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "wuuna dhowrhay"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "wayna ooyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:06.035613145Z",
+  "model": "glm-5.3"
+}

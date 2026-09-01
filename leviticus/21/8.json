@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waana waxaad quduusinaysaa, waayo ⟨את⟩ cuntada Elohaadaa buu bixiyaa; quduus buu kuu ahaanayaa, waayo aniga waxaan ahay Yahweh, quduus ahaan, ee idinka quduusinaya.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "waxaad quduusinaysaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuntada Elohaadaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cuntada"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohaadaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bixiyaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "buu ahaanayaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus ahaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "idinka quduusinaya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:24.229307625Z",
+  "model": "glm-5.3"
+}

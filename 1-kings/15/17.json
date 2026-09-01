@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Baasha boqorka Israa'iil wuu kor u kacay Yehuudah, wuuna dhisay ⟨את⟩ Raamah, si aan loo siin cidna soo bax iyo galin Asa boqorka Yehuudah.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuu kor u kacay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (kacay)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Raamah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "תת",
+      "gloss": "loo siin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "soo bax"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "iyo galin"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:46.361664987Z",
+  "model": "glm-5.3"
+}

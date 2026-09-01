@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ma waxaad xukumaysaa ⟨את⟩ iyaga? Ma waxaad xukumaysaa, ilmo-aadanow? Xun-xunnooyinkii aabbayaashood u sheeg ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "ma waxaad xukumaysaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "ma waxaad xukumaysaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xun-xunnooyinkii aabbayaashood"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "xun-xunnooyinkii"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabbayaashood"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "u sheeg"
+    }
+  ],
+  "timestamp": "2026-09-01T04:31:49.454687148Z",
+  "model": "glm-5.3"
+}

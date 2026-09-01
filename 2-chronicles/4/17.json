@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Bananka Urdun baa boqorku ku shubay, carrada dhoobo leh, u dhexeeya Sukkot iyo Tseredah.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "bananka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "ku shubay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "carrada dhoobo leh"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "carro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Tseredah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:08.794723574Z",
+  "model": "glm-5.3"
+}

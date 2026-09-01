@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Adigaa leh ⟨את⟩ samada, adigaa kalena leh ⟨את⟩ dhulka; tebel iyo buuxdiisaba adigaa aasaasay.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "adigaa leh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kalena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigaa leh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel (adduunka la degan)"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "iyo buuxdiisaba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "aasaasay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:20.446968576Z",
+  "model": "glm-5.3"
+}

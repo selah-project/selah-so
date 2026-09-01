@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Wayna ka baxay kii koowaad — mid gacal-dheel (admoni), oo dhanba sida maro timo-leh; wayna u bixiyeen magaciisii Esaw.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu ka baxay"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kii koowaad"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "gacal-dheel (admoni)"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "oo dhanba"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "sida maro"
+    },
+    {
+      "surface": "שער",
+      "gloss": "timo-leh"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "wayna u bixiyeen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:30.039855337Z",
+  "model": "glm-5.3"
+}

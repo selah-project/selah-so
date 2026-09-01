@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Farcoon wuxuu Yuusuf ku yidhi: Markii Elohim ⟨את⟩ adiga ku ogeysiiyay ⟨את⟩ waxyaabahan oo dhan, ma jiro qof wax fahamsan oo xigmad leh oo kale oo la mid ah adiga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ... ku yidhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Markii"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "ku ogeysiiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxyaabahan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waxyaabahan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "wax fahamsan"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "oo xigmad leh"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "oo la mid ah adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:14.268326756Z",
+  "model": "glm-5.3"
+}

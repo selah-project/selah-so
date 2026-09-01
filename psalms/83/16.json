@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Saasaa aad ku raacdo adagoon dhaqsaha, iyo adagoon onkodkaaga aad ka gelysid argagax.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Saasaa"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "aad ku raacdo adagoon"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "dhaqsahaaga"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "iyo onkodkaaga"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "aad ka gelysid argagax"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:23.450375296Z",
+  "model": "glm-5.3"
+}

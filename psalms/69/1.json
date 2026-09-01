@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Hoggaamiyaha [muusigga lagu hayo], oo ku saabsan Shoshannim (lily-yada); gabaygii Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hoggaamiyaha [muusigga lagu hayo]"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim (lily-yada)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "gabaygii Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:56.704683367Z",
+  "model": "glm-5.3"
+}

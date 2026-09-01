@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Muuse wuxuu u noqday Yahweh, wuxuuna yidhi: Adonay, maxaad u xumeysay shacabkan, maxaad dheh ila dirtay?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu u noqday"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "u xumeysay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dheh"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "ila dirtay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:35.796468290Z",
+  "model": "glm-5.3"
+}

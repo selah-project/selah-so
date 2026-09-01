@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wuxuu istaagay ⟨u dhexeeyay⟩ ⟨ah⟩ dhimashada iyo ⟨ah⟩ nolosha, oo baaqsku waa la joojiyay.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wuxuu istaagay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeyay"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo u dhexeeyay ⟨ah⟩"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "waa la joojiyay"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "baaqsku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:58.865722492Z",
+  "model": "glm-5.3"
+}

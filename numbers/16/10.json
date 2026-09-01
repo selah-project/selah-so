@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo wuxuu soo dhibay ⟨את⟩ adiga iyo ⟨את⟩ walaalahiiba oo dhan, wiilasha Leefi, ⟨la jirkaaga⟩; miyeydnaan doonaysaan sidoo kale wadaadnimada?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "oo wuxuu soo dhibay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "walaalahiiba oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalahiiba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leefi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la jirkaaga ⟨את⟩",
+      "marks": "H854 'la' — ma aha calaamadda walaxa"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "miyeydnaan doonaysaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "wadaadnimada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:58:04.367461579Z",
+  "model": "glm-5.3"
+}

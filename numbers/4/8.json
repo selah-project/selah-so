@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxayna ku fidiyaan dhar casaan ah (tolaat shani), waxayna ku dabiqaan maqaar tachaash ah, waxayna dhigaan ⟨את⟩ ulahiisa.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "waxayna fidiyaan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "waxayna dabiqaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daboolka"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "daboolka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachaash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "waxayna dhigaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulaha"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ulahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:18.922833179Z",
+  "model": "glm-5.3"
+}

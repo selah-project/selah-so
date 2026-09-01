@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Xigmad gurigu waa lagu dhisaa, oo faham-siin waa lagu degganaystaa.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "xigmad"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "waa lagu dhisaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "oo faham-siin"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "waa lagu degganaystaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:45.238314193Z",
+  "model": "glm-5.3"
+}

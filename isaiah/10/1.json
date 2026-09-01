@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Hoy kuwa sharcyo shar ah sharixaya, iyo kuwa qoraya dhib bay qoraan!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "kuwa sharixaya"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "sharcyo"
+    },
+    {
+      "surface": "און",
+      "gloss": "shar ah"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "iyo kuwa qoraya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "bay qoraan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:55.669503055Z",
+  "model": "glm-5.3"
+}

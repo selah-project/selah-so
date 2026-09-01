@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Oo ka soo bixiyay Israa'iil dhexdooda, waayo, ilaa iyo weligiis baahuu tahay khesedkiisu.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "oo ka soo bixiyay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:51.513811750Z",
+  "model": "glm-5.3"
+}

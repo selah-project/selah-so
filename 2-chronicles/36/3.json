@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Boqorkii Mitsrayim ayuu ku eryay Yeruushaalaym, waxayna ku dhigtay ⟨את⟩ dhulkii boqol kiishaar oo lacag ah iyo kiishaar dahab ah.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "ayuu ku eryay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "waxayna ku dhigtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kiishaar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag ah"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "iyo kiishaar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:48:48.736097741Z",
+  "model": "glm-5.3"
+}

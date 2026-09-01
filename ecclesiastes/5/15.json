@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Kanuna waa xanuun shar ah: sida uu yimid, saas buu u tegaa; maxuuna tariiri inuu u dhaqaaqo ruuxa?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kanuna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "xanuun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sida oo dhan"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "sida"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "uu yimid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "uu u tegaa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maxuu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "tariiri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "u dhaqaaqo"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ruuxa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:43.391516852Z",
+  "model": "glm-5.3"
+}

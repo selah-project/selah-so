@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kuwani waa kuwa laga yeedhay ⟨oo ah⟩ golaha shirka, madaxda qabiilada aabayaashood, iyagoo ah madaxda kunrada Israa'iil.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "kuwa laga yeedhay"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "golaha shirka"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabayaashood"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "kunrada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iyagoo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:02.972062029Z",
+  "model": "glm-5.3"
+}

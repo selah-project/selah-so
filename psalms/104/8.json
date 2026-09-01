@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Buuraha way kor u kacaan, waaweynaanna hoos u dhacaan, meesha aad siyay inay joogaan.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "way kor u kacaan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Buuraha"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "hoos u dhacaan"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "waaweynaanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siyay"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "siyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "inay joogaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:17.701760229Z",
+  "model": "glm-5.3"
+}

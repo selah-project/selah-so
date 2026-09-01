@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Sharciga Yahweh waa dhan-yahay, naf-jiidaya; markhaatiggu Yahweh waa aamin-yahay, wax fudud-yahay xigmiyeya.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "dhan-yahay"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "naf-jiidaya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "markhaatiggu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "aamin-yahay"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "xigmiyeya"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "wax fudud-yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:35.976965193Z",
+  "model": "glm-5.3"
+}

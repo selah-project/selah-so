@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Ha la baabi'iyaan awgeed ceebtooda, kuwa igu odhanaya: He'aax, He'aax.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ha la baabi'iyaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgeed"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "awgeed (laba-dar iyo ceeb)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ceebtooda"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kuwa odhanaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He'aax"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He'aax"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:47.416868047Z",
+  "model": "glm-5.3"
+}

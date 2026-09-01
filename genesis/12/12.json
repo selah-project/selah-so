@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayse noqon doontaa markay arkaan ⟨את⟩ adiga reer Mitsrayim, inay odhan: Waa xaaskiisii tan; waxyiise i dileen ⟨את⟩ aniga, adigana way noolaysiin doonaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Waxayse noqon doontaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "arkaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga (xaaskiisii)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "reer Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "inay odhan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisii"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "i dileen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga (Abram)"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "iyo ⟨את⟩ adiga",
+      "marks": "adiga (xaaskiisii)"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "noolaysiin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:48.306000890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Kuwaas waxaa ka mid ah hoggaamiyayaal oo shaqada baytkii Yahweh mas'uul ah labaatan iyo afar kun; oo shaqaale-xisbi iyo garooyaal ah lix kun.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Kuwaas waxaa ka mid ah"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hoggaamiyayaal"
+    },
+    {
+      "surface": "על",
+      "gloss": "mas'uul ah"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "shaqaale-xisbi"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "garooyaal"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "lix"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:30.132701919Z",
+  "model": "glm-5.3"
+}

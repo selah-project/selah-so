@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Sunnahooda (chiitaanka) wuxuu u eegahay sida sunnaha mas; sida mas dhagooleysa oo dhegta xirata,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "sunnaha (chiitaanka)"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wuxuu u eegahay"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "sida"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sunnaha"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "mas (dheeman)"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dhagooleysa"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "dhegta xirata"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "dhegta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:24.445079431Z",
+  "model": "glm-5.3"
+}

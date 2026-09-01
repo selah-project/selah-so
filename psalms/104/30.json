@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Ruuxaaga aad dirtid way abuuraan, oo wajiga dhulka aad cusboonaysiisaa.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "aad dirtid"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Ruuxaaga"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "way abuuraan"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "aad cusboonaysiisaa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.604984536Z",
+  "model": "glm-5.3"
+}

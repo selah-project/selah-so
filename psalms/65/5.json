@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Waa barakaysan kan aad doorato oo aad dhoweyso, inuu deggo barxaddaada; waan dherernaa wanaagga baytkaaga, ⟨iyo⟩ qaddarka haykaalkaaga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Waa barakaysan"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "aad doorato"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "oo aad dhoweyso"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "inuu deggo"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "barxaddaada"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "waan dherernaa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "baytkaaga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddarka"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "haykaalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:52.252067534Z",
+  "model": "glm-5.3"
+}

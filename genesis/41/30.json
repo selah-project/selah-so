@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Waxaana ka soo kacaya toddoba sanood oo abaarta kadib, barwaaqada oo dhan waa la ilaawayaa dhulka Mitsrayim, abaartuna waxay baabi'inaysaa ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Waxaana ka soo kacaya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sanood"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "abaar"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "waa la ilaawayaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "barwaaqada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "waxay baabi'inaysaa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "abaartuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:58:47.835758149Z",
+  "model": "glm-5.3"
+}

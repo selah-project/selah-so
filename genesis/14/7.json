@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wayna laabteen, waxayna yimaaddeen Ein-Mishpat — kaas oo ah Kadesh — waxayna ku dhufeeneen ⟨את⟩ dhulka beeraha Camaaleq oo dhan, iyo sidoo kale ⟨את⟩ Cemuudiga ku noolaa Chatsetson-Tamar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "wayna laabteen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waxayna yimaaddeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugsan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaas oo ah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna ku dhufeeneen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka beeraha Camaaleq oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dhulka beeraha"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Camaaleq"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemuudiga ku noolaa Chatsetson-Tamar"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Cemuudiga"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ku noolaa"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Chatsetson"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:24.299387383Z",
+  "model": "glm-5.3"
+}

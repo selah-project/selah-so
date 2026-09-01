@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuu yidhi Farcoon: Bal, shacabka dhulka hadda waa tiro badan, idinkuna waad ka joojisay ⟨את⟩ ulahooda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tiro badan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "waad ka joojisay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ulahooda"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ulahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:37.311090795Z",
+  "model": "glm-5.3"
+}

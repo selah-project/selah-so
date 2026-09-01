@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waayo Yahweh wuu soo celinayaa ⟨את⟩ sharafka Yacquub sida sharafka Israa'iil; waayo baabi'ayaal baa ka baabi'iyeen, qaansadaha canabkoodana waa halaabsiiyeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wuu soo celinayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharafka"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sharafka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "sida sharafka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ka baabi'iyeen"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "baabi'ayaal"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "qaansadaha canabkoodana"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "waa halaabsiiyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:54:30.052546706Z",
+  "model": "glm-5.3"
+}

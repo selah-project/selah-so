@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Saas buu boqorka Ashshur u wadi doonaa ⟨את⟩ qabadkii Mitsrayim iyo ⟨את⟩ guurguurkii Kush, dhalinyaro iyo odayaal, dhunkan iyo cag-bannaan, dhabarrar xadhig ah — ceebtii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Saas"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "buu u wadi doonaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabadkii Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "qabadkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guurguurkii Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "guurguurkii"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dhalinyaro"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "iyo odayaal"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "dhunkan"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "cag-bannaan"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "dhabarrar xadhig ah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "dhabarka"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ceebtii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:19.398987097Z",
+  "model": "glm-5.3"
+}

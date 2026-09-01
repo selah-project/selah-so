@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Keliya Isagu waa dhagaxaygii iyo badbaadaydii; qalqalyadaydii; lama dhaqaaqi doono.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isagu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaxaygii"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "iyo badbaadaydii"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "qalqalyadaydii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "dhaqaaqi doono"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:46.348499337Z",
+  "model": "glm-5.3"
+}

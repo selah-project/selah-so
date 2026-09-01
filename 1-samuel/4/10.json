@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Way dagaallameen Filistiintii, oo Israa'iil la garaacay, oo nin kastaa teendihiisii uu u cararay; oo garaajisu aad bay u weynayd, oo waxaa ka dhintay Israa'iil sodon kun oo ciidan lugaystaal ah.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Way dagaallameen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "la garaacay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "uu u cararay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kastaa"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "teendihiisii"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "aheed"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "garaajisu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad bay u"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "waxaa ka dhintay"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ciidan lugaystaal ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:20:47.873210123Z",
+  "model": "glm-5.3"
+}

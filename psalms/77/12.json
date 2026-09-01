@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Waxaan xusuutinayaa falalkii Yah; waayo, waan xusuusnaan doonaa wakhtigii hore la yaabkaaga.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Waxaan xusuutinayaa"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "falalkii"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "waan xusuusnaan doonaa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "wakhtigii hore"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "la yaabkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:56.638555832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 2:24",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Imminka, sida Yahweh nool yahay — kan i diidaariyey oo ii fadhiisiyay carshigii Dawiid aabbahay, oo kan ii sameeyay ⟨gur⟩ sidauu yidhi — waayo maanta laayahay Adoniyahu waa la dileynaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Imminka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool (sida... nool yahay)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הכינני",
+      "gloss": "i diidaariyey"
+    },
+    {
+      "surface": "ויושיביני",
+      "gloss": "oo ii fadhiisiyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "(carshiga ku)"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "carshigii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oo kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ii sameeyay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨gur⟩ (qoys)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidauu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta laayahay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dileynaa"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:20.010243778Z",
+  "model": "glm-5.3"
+}

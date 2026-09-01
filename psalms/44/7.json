@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waayo, gamashayda kuma ridday kalsooni, seefedaydana igama soo badbaadinayso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "gamashayda"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "kuma ridday kalsooni"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "seefedaydana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "igama soo badbaadinayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:55.695683399Z",
+  "model": "glm-5.3"
+}

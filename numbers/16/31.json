@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Markuu dhammeeyay hadalkii dhan ee ⟨את⟩ ereyadaas oo dhan, waxaa dhulka ka dildillaacay ⟨את⟩ dhulkii hoos tagay iyaga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "dhammeeyay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaas oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "waxaa ka dildillaacay"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "hoos tagay iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:04.553754002Z",
+  "model": "glm-5.3"
+}

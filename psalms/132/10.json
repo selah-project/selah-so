@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Sababtoo ah Dawuud adoonkaagii, ha celin wajiga Masiixkaaga.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adoonkaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ... in"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "celin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Masiixkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.663521417Z",
+  "model": "glm-5.3"
+}

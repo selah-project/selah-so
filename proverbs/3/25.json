@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ha cabsan cabsi dhakhso leh, iyo burburinta shar-yeellada markay timaado.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "dhakhso leh"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "iyo burburinta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yeellada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "timaado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:01.635439629Z",
+  "model": "glm-5.3"
+}

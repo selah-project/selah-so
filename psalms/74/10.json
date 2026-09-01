@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Ilaa goormaa, Elohim, cadawgu caayadi doonaa; cadaawuhu ku naasi doonaa mise magacaaga weligiis?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "illa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "caayadi doonaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "cadawgu"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ku naasi doonaa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadaawuhu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:45.825785088Z",
+  "model": "glm-5.3"
+}

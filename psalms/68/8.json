@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Elohim, markii aad dadkaaga hor kiciyay, markii aad ku socday.keyd bannaanka-dhulka (bahwada), Seelaa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "markii aad... kiciyay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "markii aad ku socday.keyd"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "bannaanka-dhulka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seelaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:06.741245358Z",
+  "model": "glm-5.3"
+}

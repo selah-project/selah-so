@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Elohim wuu xukumay ⟨dhaqaalaha⟩ shacabka, Elohim wuu fadhiistay ⟨kursigii⟩ qudduska ⟨kiisa⟩.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wuu xukumay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wuu fadhiistay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursigii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qudduska kiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:02.663739154Z",
+  "model": "glm-5.3"
+}

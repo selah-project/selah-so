@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Kadibna walaalkiisii uu gacanta ku lahaa dunyada cas baa soo baxay, oo magaciisa waxaa loo bidey Zarax.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Kadibna"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baa soo baxay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "dunyada cas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waxaa loo bidey"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zarax"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:07.507211562Z",
+  "model": "glm-5.3"
+}

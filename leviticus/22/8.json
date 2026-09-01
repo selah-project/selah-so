@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Baqlid la dhintay iyo mid la jiiday wuu cunmayn, si aanuu ku wasakhayn; Aniga ayaa Yahweh.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "baqlid la dhintay"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "iyo mid la jiiday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wuu ... mayn"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cunayo"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "si aanuu ku wasakhayn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga ayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:17.551074536Z",
+  "model": "glm-5.3"
+}

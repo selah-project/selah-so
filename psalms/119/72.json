@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Wanaagsan ii tahay Sharciga afkaaga ka badan kun laab ah dahab iyo lacag.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii tahay"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ka badan kun laab ah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "iyo lacag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.858949530Z",
+  "model": "glm-5.3"
+}

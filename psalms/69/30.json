@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Aniguna waan tabanahay oo xanuunsanahay; badbaadadaada, Elohim, wey i sara siisaa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "waan tabanahay"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "oo xanuunsanahay"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "badbaadadaada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "wey i sara siisaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:50.636815869Z",
+  "model": "glm-5.3"
+}

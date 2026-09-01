@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Abrahamna wuxuu soo dhaafay ⟨את⟩ gacantiisa, wuxuuna qaatay ⟨את⟩ mindida, inuu gowracsado ⟨את⟩ inankiisa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu soo dhaafay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantiisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindida"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "mindida"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "inuu gowracsado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inankiisa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:04.845016014Z",
+  "model": "glm-5.3"
+}

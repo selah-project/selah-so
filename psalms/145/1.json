@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Tahli ⟨taallo⟩ Daawuud. Waan adiga ku sarreeyin, Eloahay, Boqorkayow, oo Magacaga waan barakaynayaa weligay iyo weligii.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tahli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Waan adiga ku sarreeyin"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorkayow"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "oo waan barakaynayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:02.103093465Z",
+  "model": "glm-5.3"
+}

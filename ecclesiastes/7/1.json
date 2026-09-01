@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Magac wanaagsan baa khayr ka mishan wanaagsan, iyo maalinta geerida ⟨baa khayr ka⟩ maalinta dhalashadiis.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan (khayr)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magac"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mishan wanaagsan"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "iyo maalinta"
+    },
+    {
+      "surface": "המות",
+      "gloss": "geerida"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ka maalinta"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "dhalashadiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:27.433382744Z",
+  "model": "glm-5.3"
+}

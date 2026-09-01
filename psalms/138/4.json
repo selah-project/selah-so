@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Waan ku mahadnaqayaa, Yahweh, boqorrada dhulka oo dhan, waayo way maqleen erayada afkaaga.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Waan ku mahadnaqayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "way maqleen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:52.153377561Z",
+  "model": "glm-5.3"
+}

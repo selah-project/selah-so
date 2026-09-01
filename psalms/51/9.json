@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Ezowb iga daahiri, waanan ⟨noqon⟩ daahir; ilabari iga dhaq, waanan ⟨noqon⟩ baraf ka cad.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "iga daahiri"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "Ezowb"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "waanan noqon daahir"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ilabari iga dhaq"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "baraf ka cad"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "waanan noqon cad"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:06.557207214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Oo wuxuu ku yidhi: Anigu waan arkay ⟨את⟩ wajiga aabahiin, inuu ii ahaan sidii shalay iyo (ka hor); oo Elohim aabahay wuu i la jiray.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "waan arkay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiga aabahiin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "aabahiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ahan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "sidii shalay"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "iyo (ka hor)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "oo Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuu ahaa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "i la jiray"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:46.311773853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Ha qoomamaan oo ha u noqdaan dib, dhammaan kuwa neceb Siyoon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ha qoomamaan"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "oo ha u noqdaan dib"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kuwa neceb"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:25.485494152Z",
+  "model": "glm-5.3"
+}

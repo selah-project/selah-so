@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Hadduu Yahweh caawimaad i siin, nafeydii saas u yar degi lahayd duumah ⟨aamusnaan lugta dhimashada⟩.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "hadduu ma ahaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "caawimaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i siin"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "saas u yar"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "degi lahayd"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "duumah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafeydii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.746279342Z",
+  "model": "glm-5.3"
+}

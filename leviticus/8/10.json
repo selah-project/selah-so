@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu qaatay Muuse ⟨את⟩ saliidda subkista, wuxuuna subay ⟨את⟩ maskanka iyo ⟨את⟩ dhammaan waxa ku jira, wuxuuna qudusiyay ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saliiddu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliiddu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkista"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wuxuu subay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maskanka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maskanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan waxa ku jira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jira"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wuxuu qudusiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:16.388136224Z",
+  "model": "glm-5.3"
+}

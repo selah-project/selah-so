@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Wanaagsan oo toosan ⟨waa⟩ Yahweh; sidaas darteed dembilayaal wuu ku hanuuniyaa jidka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Wanaagsan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "oo toosan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "…oo aawadeed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "wuu ku hanuuniyaa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dembilayaal"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.843543406Z",
+  "model": "glm-5.3"
+}

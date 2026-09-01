@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Haddaba, kuwa deggan Yeruushaalaym iyo dadka Yahuudah, kaalaya, xukuma iiga dhexeeya aniga iyo kirtayda.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo dadka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "xukuma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kaalaya"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kirtayda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:16.414059741Z",
+  "model": "glm-5.3"
+}

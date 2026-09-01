@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahweh Elohim-keenna wuxuu gacma-geliyay hortenna, waxaanna dullaynay ⟨את⟩ isaga iyo ⟨את⟩ wiilashiisa iyo ⟨את⟩ dadkiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "wuxuu gacma-geliyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "hortenna"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "waxaanna dullaynay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dadkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:00:43.705596805Z",
+  "model": "glm-5.3"
+}

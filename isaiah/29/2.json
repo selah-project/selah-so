@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaan Ariel u hayn doonaa dhib, waxayna noqon doontaa baroor iyo oohin, waxayna i noqon doontaa sida Ariel ⟨dhexda altda⟩.",
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "Waxaan u hayn doonaa dhib"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "Ariel"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "waxayna noqon doontaa"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "baroor"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "iyo oohin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "waxayna noqon doontaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "sida Ariel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:16.321175770Z",
+  "model": "glm-5.3"
+}

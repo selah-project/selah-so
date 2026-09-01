@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Luuq-dhageyska dhagaha waan kuu maqalley, laakiin hadda ishkaygii baa kuu arkey.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "luuq-dhageyska"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dhagaha"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "waan kuu maqalley"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "laakiin hadda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ishkaygii"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "baa kuu arkey"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:21.850569141Z",
+  "model": "glm-5.3"
+}

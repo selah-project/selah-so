@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaad adeegan doontaan Yahweh Eloahidiin, wuuna barakadayn doonaa ⟨את⟩ rootigiina iyo ⟨את⟩ biyahiina, waana ka saari doonaa cudurka dhexdiiina.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "Waxaad adeegan doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloahidiin"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "wuuna barakadayn doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rootigiina"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "rootigiina",
+      "note": "surface is לחמך"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "biyahiina"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "biyahiina"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "waana ka saari doonaa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "cudurka"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dhexdiiina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:34.908032201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Daawud wuxuu magac sameeyay markuu ku noqday gaadhista uu ku gaadhay ⟨את⟩ Aram ee waadiyaha milixda — siddeed iyo toban kun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magac"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "markuu ku noqday"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "gaadhista uu ku gaadhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ee waadiyaha"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "milixda"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "siddeed"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:03.702798707Z",
+  "model": "glm-5.3"
+}

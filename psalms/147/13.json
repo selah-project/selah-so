@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Waayo, wuxuu adkeeyay bololka albaabadaada, wuxuu barakaystay carruurtiisa dhexdaada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wuxuu adkeeyay"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "bololka"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "albaabadaada"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wuxuu barakaystay"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "carruurtiisa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "dhexdaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:23.179991374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yahweh wuxuu joogaa macbadkii quduuska ah, Yahweh carshigiisu wuxuu yar samada; indhahiisu way arkaan, dheehyadiisu wuu imtixaami wixii ilmo aadan ah",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "macbadkii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "carshigiisu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "indhahiisu"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "way arkaan"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "dheehyadiisu"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "wuu imtixaami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadan ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:10.935797703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Nebiyada iigu horreeyay iyo kuwa kuu horreeyay qadiimtigii, kuwaas buu ku nebiiyay dallo badan iyo booglo waaweyn, dagaal iyo musibo iyo cudur.",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "Nebiyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ahaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iigu horreeyay"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "iyo kuwa kuu horreeyay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga soo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "qadiimtigii"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "buu ku nebiiyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "dallo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku saabsan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "booglo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "iyo musibo"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "iyo cudur"
+    }
+  ],
+  "timestamp": "2026-09-01T04:13:24.162821720Z",
+  "model": "glm-5.3"
+}

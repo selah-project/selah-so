@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Istaag, Adonay Yahweh; ha adkaan insi; shacabka hagaaga wajigaaga.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Istaag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "adkaan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insi"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hagaaga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "על",
+      "gloss": "wajigaaga… u"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:28.496721249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Haddaba boqorroyow, xigsi-garadaa; waano qaataa xukkumayaasha ⟨⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorroyow"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "xigsi-garadaa"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "waano qaataa"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "xukkumayaasha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:08.113599396Z",
+  "model": "glm-5.3"
+}

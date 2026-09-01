@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waa maxay: yaa cuni karaa, yaa raaxayn karaa, ka baxsan Aniga?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa maxay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cuni karaa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "raaxayn karaa"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Aniga iiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:36.742572120Z",
+  "model": "glm-5.3"
+}

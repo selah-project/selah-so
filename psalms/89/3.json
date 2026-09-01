@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waayo, waxaan odhanayaa: weligay waa la dhisay khesed; samada adigaa ku sugayaa ammaanadaada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan odhanayaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "waa la dhisay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "adigaa ku sugayaa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ammaanadaada"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku (samada gudaheeda)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:03.898474468Z",
+  "model": "glm-5.3"
+}

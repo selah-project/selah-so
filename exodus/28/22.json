@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaadna ka sameyn doontaa xunduurtii dhego-la'u dheeraadaha silsilado la isku xiray, oo ah shuun macaan weyn, oo dahab ah oo daahir ah.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaadna sameyn doontaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xunduurtii dhego-la'u"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "silsilado la isku xiray"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "la isku xiray (dheeraad)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuun"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "macaan weyn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "daakhir ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:57.995656112Z",
+  "model": "glm-5.3"
+}

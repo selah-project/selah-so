@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Cabo la'aan ma aha, oo oomata la'aan ma aha, oo kulayl iyo qorrax midna kuma dhufan doonaan, waayo kan naxariistay wuu hanuunin doonaa, oo ilaha biyaha agtiinna wuu ku hanuunin doonaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "cabo la'aan ma aha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "oomata la'aan ma aha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "kuma dhufan doonaan"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "kulayl (mirage)"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "qorrax"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "kan naxariistay"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "wuu hanuunin doonaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "agtiinna"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "wuu ku hanuunin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:57.393271098Z",
+  "model": "glm-5.3"
+}

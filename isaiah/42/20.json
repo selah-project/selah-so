@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wax badan waad aragtay laakiin ma ilaalin; dhegtaha waa la furay laakiin ma maqlo.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "waad aragtay"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "wax badan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "waa la furay"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "dhegtaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ma maqlo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:48.115450596Z",
+  "model": "glm-5.3"
+}

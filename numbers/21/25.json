@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxay qaadatay Israa'iil ⟨את⟩ magaalooyinkan oo dhan, waxayna Israa'iil degtay magaalooyinka ha-Emoriyee oo dhan, Chesbon iyo dhamaan magaalo-yaradeeda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "waxay qaadatay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalooyinkan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalooyinkan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "waxayna degtay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emoriyee"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Chesbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo dhamaan"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "magaalo-yaradeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:29.602781833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laakiin idinkue Yahweh wuu qaatay ⟨את⟩, wuuna soo bixiyay ⟨את⟩ idinka tan iyo tan barbar-birka ah, ka mid ah Mitsrayim, inaad noqotaan dad u ah Isaga dhaxal, sidii maanta",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "idinkue ⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuu qaatay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "wuuna soo bixiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "tan iyo tan barbar"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "birka ah"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ka mid ah Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "inaad noqotaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u ah Isaga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaxal"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sidii maanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨maanta⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:53.143214026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu ka soo diray sare, wuxuu i qaatay, wuxuu ii soo jiiday biyo badan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "wuxuu ka soo diray"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "sare"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "wuxuu i qaatay"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "wuxuu ii soo jiiday"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:29.497834165Z",
+  "model": "glm-5.3"
+}

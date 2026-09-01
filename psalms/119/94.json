@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Adiga baa aniga igu leh, i badbaadi, waayo, qawannadaaga baan doondoonayay.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Adiga baa aniga igu leh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "qawannadaaga"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "baan doondoonayay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:28.463269986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Ma waxaas darteed ma aanan iyaga ciqaabin, qiritaankii Yahweh; qolo noocaas ah miyaanay naftaydu intaqaamaysaa?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ma … darteed"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ciqaabin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "qiritaankii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "miyaanay"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "qolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "noocaas ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "intaqaamaysaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:04:48.755872398Z",
+  "model": "glm-5.3"
+}

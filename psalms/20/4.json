@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Xusuusnow dhammaan allabbariyaada, oo ololahaaga ha ku raalli noqdo — Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Xusuusnow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "allabbariyaada"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "oo ololahaaga"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ha ku raalli noqdo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:04.349366826Z",
+  "model": "glm-5.3"
+}

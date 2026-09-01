@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Oo waxay baalli-balleen ⟨את⟩ baalihii dahabka, oo waxay jareen wadooyin si ay ugu dhex shaqeynayaan buluugga iyo bunnida iyo diidda cas iyo linta — shaqo disen ah.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "oo waxay baalli-balleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalihii dahabka"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "baalihii"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "oo waxay jareen"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "wadooyin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si ay ugu dhex shaqeynayaan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhex"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "buluugga"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "iyo dhex"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "bunnida"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "iyo dhex"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diidda"
+    },
+    {
+      "surface": "השני",
+      "gloss": "cas"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "iyo dhex"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "disen ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:03.701983309Z",
+  "model": "glm-5.3"
+}

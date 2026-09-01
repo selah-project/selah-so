@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Xagga falalka aadanaha, erayga labadaada ayaan ilaalin, jidadka Gardarrada.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Xagga falalka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "labadaada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ayaan"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "Gardarrada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:13.520936878Z",
+  "model": "glm-5.3"
+}

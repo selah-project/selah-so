@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Xiggiggaaga iyo garashadaada ayaad adigu u sameysay maal, waxaadna samaysay dhahab iyo fiddo keydyadaaga.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "xiggiggaaga"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "garashadaada"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "waxaadna samaysay"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahab"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "iyo fiddo"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "keydyadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:35:59.326839498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ma labo wada dhaqaaqayaan haddaan ay heshiis gaadheen?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Ma wada dhaqaaqayaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "labo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "heshiis gaadheen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:19.512905187Z",
+  "model": "glm-5.3"
+}

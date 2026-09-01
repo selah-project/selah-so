@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Luuqiya, qabiyo Kannadiisa, siyaamo oo dhan ka warran.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Luuqiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kannadiisa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "qabiyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kannadiisa"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ka warran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "siyaamo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.181221677Z",
+  "model": "glm-5.3"
+}

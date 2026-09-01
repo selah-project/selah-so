@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo naagtii way uurka gashay, waxayna u dirtay, waxayna u sheegtay Dawid, waxayna tidhi: Anigu waan uur ku leeyahay.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "way uurka gashay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtii"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "waxayna u dirtay"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "waxayna u sheegtay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "uur ku leeyahay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:30.727214283Z",
+  "model": "glm-5.3"
+}

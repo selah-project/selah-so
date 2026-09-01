@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Sidaasuu Adonay Yahweh yidhi: kuma soo kiciman, mana dhici doonto.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "sidaasuu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kuma soo kiciman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dhici doonto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:37.059411579Z",
+  "model": "glm-5.3"
+}

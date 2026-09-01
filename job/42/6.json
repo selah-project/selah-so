@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Sidaa dartiid waan is-diiday oo waan ka noqday ciidda iyo midigta.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dartiid"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "waan is-diiday"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "oo waan ka noqday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "iyo midigta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:21.850798728Z",
+  "model": "glm-5.3"
+}

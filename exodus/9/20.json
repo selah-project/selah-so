@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Kan cabsiga ku qabay ⟨את⟩ hadalka Yahweh, ka mid ah addoomada Farcoon, wuxuu dhaqaaqiyay ⟨את⟩ addoomadiisa iyo ⟨את⟩ xoolahiisa gurigii.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "kan cabsiga ku qabay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ka mid ah addoomada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "wuxuu dhaqaaqiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadiisa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolahiisa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "xoolahiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gurigii (u)"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "gurigii"
+    }
+  ],
+  "timestamp": "2026-09-01T09:00:54.550921881Z",
+  "model": "glm-5.3"
+}

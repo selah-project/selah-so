@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Yahweh Elohmeenna, ciddi isagoo la mid ah, kan si weyn u sarreeya oo fadhiya ⟨(sare)⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ciddi"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahweh la mid ah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-eenna"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "kan si weyn u sarreeya"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "fadhiya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:27.925117350Z",
+  "model": "glm-5.3"
+}

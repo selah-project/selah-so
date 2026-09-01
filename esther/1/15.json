@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "'Sida xeerka ku jiro, maxaa laga sameeyaa boqoraddii Vashtii, maxay sameysay ⟨את⟩ amarkii boqorka Axashweyroosh gacanta kiinkooda (saraakiishtii) ma ahayn?'",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Sida xeerka ku jiro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "laga sameeyaa"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "boqoraddii"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashtii"
+    },
+    {
+      "surface": "על",
+      "gloss": "maxay sameysay — sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ahayn"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarkii"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "amarkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashweyroosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "kiinkooda (saraakiishtii)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:01.986163072Z",
+  "model": "glm-5.3"
+}

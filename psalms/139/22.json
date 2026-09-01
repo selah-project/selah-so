@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Dhammaystirnimo neceb waa u necebay; cadowyo iigu noqdeen.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "dhammaystirnimo"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "neceb"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "u necebay"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "cadowyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "noqdeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:40.684836472Z",
+  "model": "glm-5.3"
+}

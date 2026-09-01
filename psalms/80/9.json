@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Geed-canab ayaad ka soo saartay Mitsrayim; waxaad eryeeshaa girgiraha, waxaadna dhisaysaa.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "geed-canab"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim ka"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "wad soo saartay"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "eryeeshaa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "girgiraha"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "waxaadna dhisaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:21.888944162Z",
+  "model": "glm-5.3"
+}

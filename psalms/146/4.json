@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Neefkiisu wuu baxsadaa, oo caruudiisa wuu ku noqdaa; maalintaas oo keligeed, fekerkiisu way baaba'aan.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "wuu baxsadaa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "neefkiisu\/ruuxiisu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wuu ku noqdaa"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "caruudiisa (u)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalin (ku)"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "way baaba'aan"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "fekerkiisu\/qorshooyinkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.366918733Z",
+  "model": "glm-5.3"
+}

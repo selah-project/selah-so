@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Adigu waad taqaanaa maqanyadayda iyo ceebayda iyo wol-wanaajiskeydii; ciddiyadayda oo dhan waa hortaada.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad taqaanaa"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "maqanyadayda"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "iyo ceebayda"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "iyo wol-wanaajiskeydii"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ciddiyadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.883401574Z",
+  "model": "glm-5.3"
+}

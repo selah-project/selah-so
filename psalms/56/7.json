@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Waxay soo urursadaan, waxay qarsadaan, iyagu cagahayga ayay dhegi-wadaan, sida ay naftayda sugayeen.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "waxay soo urursadaan"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "waxay qarsadaan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ayay dhegi-wadaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ay sugayeen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:21.683978964Z",
+  "model": "glm-5.3"
+}

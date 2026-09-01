@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo Daawuud iyo gebi ahaan beytkii Israa'iil waxay kor keenayeen ⟨את⟩ sanduuqa Yahweh qeylo (teruu'ah) iyo cod buuqa shofarka.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Oo Daawuud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gebi ahaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "waxay kor keenayeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "qeylo (teruu'ah)"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "iyo cod"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "buuqa shofarka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:23.727410954Z",
+  "model": "glm-5.3"
+}

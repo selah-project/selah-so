@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 1:3",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maxaad iigu muujinaysaa ⟨את⟩ xume iyo ⟨את⟩ dhib, oo wax baad ku fiirsataa? Tuugo iyo Gardarro waa horfadhay; waxaa jira dood iyo khilaaf oo kor u kacaya.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "iigu muujinaysaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "xume"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "iyo dhib"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "wax baad ku fiirsataa"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "Tuugo"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "iyo Gardarro"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "waa horfadhay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dood"
+    },
+    {
+      "surface": "ומדון",
+      "gloss": "iyo khilaaf"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "oo kor u kacaya"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:45.503024328Z",
+  "model": "glm-5.3"
+}

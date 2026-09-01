@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxayna siiyeen ⟨את⟩ Xebrown, oo dhulka Yahuudah ah, iyo ⟨את⟩ beero waaweyn ka baxsan magaalada — daafaha ka wareegsan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Waxayna siiyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xebrown"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xebrown"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "oo dhulka... ah"
+    },
+    {
+      "surface": "יהוהה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beero waaweyn ka baxsan magaalada"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beero waaweyn ka baxsan magaalada"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "daafaha ka wareegsan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:28.819007012Z",
+  "model": "glm-5.3"
+}

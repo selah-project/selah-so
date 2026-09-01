@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu u ordayay Eli, wuxuuna yidhi: Halkaan baan ahay, waayo adigaa iigu yeeray. Wuxuuna yidhi: Anigu ma yeerin ⟨adiga⟩; noqo oo seexo. Wuxuuna aaday wuuna seexday.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "wuxuu ordayay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Halkaan baan ahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "adigaa yeeray"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "yeerin"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "seexo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuuna aaday"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "wuuna seexday"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:41.843573293Z",
+  "model": "glm-5.3"
+}

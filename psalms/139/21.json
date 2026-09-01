@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Ma taqaan inaan neceb-yahay kuwa neceb-yahay, Yahweh? Oo kuwa taageerta kuma dhacaan ⟨ma⟩ la dagaallamo?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma taqaan inaan"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "kuwa neceb-yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "neceb-yahay"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "kuwa taageerta kuma dhacaan"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "la dagaallamo"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:49.278097712Z",
+  "model": "glm-5.3"
+}

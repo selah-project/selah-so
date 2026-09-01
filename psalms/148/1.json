@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ammaaniya Yah! Ammaaniya ⟨את⟩ Yahweh samada ka, ammaaniya hoogaha dhexdooda.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaaniya"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "hoogaha dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:34.966850253Z",
+  "model": "glm-5.3"
+}

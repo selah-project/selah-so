@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Muwaab wuu Israa'iil ka caasiyoobay kadib markii Axab dhintay.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "wuu caasiyoobay"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muwaab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil ka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib markii"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geeridii"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:58.977931027Z",
+  "model": "glm-5.3"
+}

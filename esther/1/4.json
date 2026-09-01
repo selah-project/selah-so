@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Markuu muujinayay ⟨את⟩ hodanka sharafta boqortooyadiisa iyo ⟨את⟩ qimmada dariiqada weynaaheedii — maalmo badan, siddeetan iyo boqol maalmood.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Markuu muujinayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hodanka sharafta boqortooyadiisa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "hodanka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sharafta"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "boqortooyadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qimmada dariiqada weynaaheedii"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "qimmada"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "dariiqada"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "weynaaheedii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "siddeetan"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "iyo boqol"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:50.467359154Z",
+  "model": "glm-5.3"
+}

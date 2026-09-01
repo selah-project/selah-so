@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Dhammaan Israa'iil waa la diiwaan-geliyay nasab ahaan, oo bal eeg, waxay ku qoran yihiin kitabka boqorrada Israa'iil iyo Yahuudah; waxaana laga guuriyay Babiloon daa'inimadoodii darteed.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "waa la diiwaan-geliyay nasab ahaan"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "waxay ku qoran yihiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iyo Yahuudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "waxaana laga guuriyay"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babiloon"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "daa'inimadoodii darteed"
+    }
+  ],
+  "timestamp": "2026-09-01T08:34:58.992837886Z",
+  "model": "glm-5.3"
+}

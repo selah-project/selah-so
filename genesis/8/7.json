@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna diray ⟨את⟩ tukaha, oo uu baxay — baxi iyo noqosho — ilaa biyuhu engeen ka dhulka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wuxuuna diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukaha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tukaha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "oo uu baxay"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "baxi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "iyo noqosho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "engeen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:53.293702969Z",
+  "model": "glm-5.3"
+}

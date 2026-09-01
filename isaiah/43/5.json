@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Ha baqin, waayo, ⟨את⟩ ⟨adiga⟩ waan kula jirahay; bariga waan keeyn durriyadaada, oo galbeedka waan kuu soo aruuri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha baqin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "baqin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kula jirahay",
+      "marks": "adiga waan kula jirahay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "waan keeyn"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "durriyadaada"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "oo galbeedka"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "waan kuu soo aruuri"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:40.972570024Z",
+  "model": "glm-5.3"
+}

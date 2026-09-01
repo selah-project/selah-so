@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Qofka jecel ⟨lacagta⟩ lacag ma dhammaystoomo, iyo qofka jecel hodarka ma jiraan wax-soo-saar; tanuna waa hebel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "jecel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "dhammaystoomo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "iyo qofka"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jecel"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "hodarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "wax-soo-saar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tanuna"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:13.082745784Z",
+  "model": "glm-5.3"
+}

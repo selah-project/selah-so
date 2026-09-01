@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kaliyo u sheeg dadka dheerahooda, oo ninku ha weydiisto laga soo qaato ⟨את⟩ saaxiibkiis iyo naagtuba laga soo qaato ⟨את⟩ saaxiibaddeeda — alaab lacag (fiddo) ah iyo alaab dahab ah.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "u sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kaliyo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dheerahooda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ha weydiistaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "laga soo qaato ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "iyo naagtuba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "laga soo qaato ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "saaxiibaddeeda"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "alaab"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag (fiddo) ah"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "iyo alaab"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:46.944732934Z",
+  "model": "glm-5.3"
+}

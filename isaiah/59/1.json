@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Bal eega, gacanta Yahweh ma gaaban tahay inuu badbaadin karo, na dhegigiis ma culus tahay inuu maqalkaro.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal eega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "gaaban tahay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "inuu badbaadin karo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "culus tahay"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "dhegigiis"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "inuu maqalkaro"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:57.361239927Z",
+  "model": "glm-5.3"
+}

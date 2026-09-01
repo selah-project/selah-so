@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Cunto wuxuu siiyay ciddi ka cabsataysa; waligiis wuu xusuusnaan doonaa ballankiisa.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ciddi ka cabsataysa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "wuu xusuusnaan doonaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waligiis"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ballankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:53.552905505Z",
+  "model": "glm-5.3"
+}

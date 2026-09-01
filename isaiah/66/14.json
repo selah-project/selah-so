@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 66:14",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Oo waad arag doontaan, oo qalbigiinna wuu farxi doonaa, oo lafahiinna sida dhir bay ubaxi doonaan; gacanta Yahweh waxay la muuqan doontaa ⟨את⟩ addoomadiisa, oo cadhadiisa ⟨את⟩ cadowdiisa.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Oo waad arag doontaan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "wuu farxi doonaa"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "qalbigiinna"
+    },
+    {
+      "surface": "ועצמותיכם",
+      "gloss": "oo lafahiinna"
+    },
+    {
+      "surface": "כדשא",
+      "gloss": "sida dhir"
+    },
+    {
+      "surface": "תפרחנה",
+      "gloss": "bay ubaxi doonaan"
+    },
+    {
+      "surface": "ונודעה",
+      "gloss": "waxay la muuqan doontaa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadiisa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "oo cadhadiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowdiisa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:12.065396730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Haddii qorshaha uu bixiayo allabari nadri ah ama mid idbaad ah, maalinta uu ⟨את⟩ allabigiisa keenay waa la cunaa, beritoodna waxa ka hadhay waa la cunaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "allabari nadri ah"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mid idbaad ah (xaqdarro la'aan)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorshaha uu bixiayo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "uu keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabigiisa"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "allabigiisa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "waa la cunaa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "beritoodna"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "waxa ka hadhay"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "waa la cunaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:55.857721328Z",
+  "model": "glm-5.3"
+}

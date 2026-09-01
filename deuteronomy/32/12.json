@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Yahweh keliya ayuu hanuuninayay; ilah shisheey ahna ma jirin la ji ah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ayuu hanuuninayay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la ji ah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilah"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "shisheey ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:42.146624009Z",
+  "model": "glm-5.3"
+}

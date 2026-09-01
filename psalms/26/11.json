@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Aniguna daacadda iyo rumaysadkeyda ayaan ku soconayaa; i badbaadi oo ii naxariiso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "daacadda iyo rumaysadkeyda"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ayaan ku soconayaa"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "oo ii naxariiso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:08.424565048Z",
+  "model": "glm-5.3"
+}

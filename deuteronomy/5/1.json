@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Muuse wuxuu u yeedhay dhammaan Israa'iil, wuxuuna ku yidhi: Maqasha, Israa'iil, ⟨את⟩ xeerarka iyo ⟨את⟩ xukunka aan ku idhi maanta dhageysigiinna, si aad u bartaan oo aad ilaashataan inaad sameysaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeedhay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Maqasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarka"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xeerarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunka"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku idhi"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "dhageysigiinna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "si aad u bartaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "si aad u bartaan"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "oo aad ilaashataan"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "inaad sameysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:11.351858747Z",
+  "model": "glm-5.3"
+}

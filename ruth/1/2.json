@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 1:2",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Magaca ninkana wuxuu ahaa Elimélekh, magaca naagtiisuna Na'omi, magaca labadii wiilkiisuna wuxuu ahaa Maxloon iyo Xilyoon — Ef ratim Bayt-Lechem Yehudah; waxayna yimaadeen beeraha Mo'aab, wayna halkaas joogeen.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkana"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimélekh"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagtiisuna"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labadii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilkiisuna"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maxloon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "iyo Xilyoon"
+    },
+    {
+      "surface": "אפרתים",
+      "gloss": "Ef ratim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bayt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waxayna yimaadeen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wayna joogeen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:27.580860568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna yidhi: Ma tegayo, laakiin waan tegayaa dhulkaygii iyo meeshii aan ku dhashay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tegayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dhulkaygii"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "meeshii aan ku dhashay"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "waan tegayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:49.124508769Z",
+  "model": "glm-5.3"
+}

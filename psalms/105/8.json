@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuu xusuustay ilaa weligood ballankiisii, ereyga uu amray ilaa kun nasnaso.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wuu xusuustay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligood"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ballankiisii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ilaa kun"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nasnaso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:06.158999220Z",
+  "model": "glm-5.3"
+}

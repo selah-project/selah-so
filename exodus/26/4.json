@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 26:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad samayn doontaa dikiitooyin tukhelet ah geeska dhaqa ugu horreysay, dhinaca isku-xidhka; oo sidaas oo kale ayaad u samayn doontaa geeska dhaqa dibedda ah ee isku-xidhkii labaad.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaad samayn doontaa"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "dikiitooyin"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tukhelet"
+    },
+    {
+      "surface": "על",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "dhaqa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ugua horreysay"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "בחברת",
+      "gloss": "isku-xidhka"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "oo sidaas oo kale"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ayaad u samayn doontaa"
+    },
+    {
+      "surface": "בשפת",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "dhaqa"
+    },
+    {
+      "surface": "הקיצונה",
+      "gloss": "dibedda ah"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "isku-xidhkii"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "labaad"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:55.850896407Z",
+  "model": "glm-5.3"
+}

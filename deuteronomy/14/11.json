@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Shimbir kasta oo daahir ah waad cuni kartaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shimbir"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "daakhir ah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "waad cuni kartaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:53.855590111Z",
+  "model": "glm-5.3"
+}

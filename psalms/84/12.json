@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Waayo, qorrax iyo gaal waa Yahweh Elohim; naxariis iyo ammaan Yahweh wuu siiyaa; wax khayr ahna ma diido kuwa si daacad ah u socda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorrax"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "iyo gaal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "naxariis"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "iyo ammaan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuu siiyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "diido"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wax khayr ah"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "kuwa ... u socda"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "si daacad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:20.092707452Z",
+  "model": "glm-5.3"
+}

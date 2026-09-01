@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "iyo ⟨את⟩ dhammaan boqoradii Tsor, iyo ⟨את⟩ dhammaan boqoradii Tsidon, iyo ⟨את⟩ boqoradii jaziiradda ⟨tusaa⟩ ee ku dhaqan banaanka badda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan boqoradii Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan boqoradii Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "boqoradii jaziiradda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "האי",
+      "gloss": "jaziiradda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ku dhaqan banaanka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:16.334130246Z",
+  "model": "glm-5.3"
+}

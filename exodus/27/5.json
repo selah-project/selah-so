@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Waana dhigi kartaa ⟨את⟩ waqtigaas hoosta geesaha miiska gawaarida, ee hoos u dhaca; shaabadda-na waxay gaari doontaa ilaa badhtanka miiska gawaarida.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "waana dhigi kartaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "waqtigaas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "geesaha miiska gawaarida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miiska gawaarida"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "hoos u dhaca"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "shaabadda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "badhtanka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miiska gawaarida"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:23.816956935Z",
+  "model": "glm-5.3"
+}

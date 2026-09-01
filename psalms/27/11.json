@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "I barahe, Yahweh, jidadkaaga, oo i hanuuni waddada toosan, kuwa i caymaya darteed.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "I barahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jidadkaaga"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "oo i hanuuni"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "kuwa i caymaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.259815081Z",
+  "model": "glm-5.3"
+}

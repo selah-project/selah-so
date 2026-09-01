@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Sidaas ma aha dhammiyeyashu; laakiin waxay yihiin sida boosha qallalan ee dabayshu ku qarisayso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas ... aha"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "dhammiyeyashu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "waxay yihiin"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sida boosha qallalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ku qarisayso"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayshu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:32.764600866Z",
+  "model": "glm-5.3"
+}

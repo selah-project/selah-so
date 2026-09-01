@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wadku arki doontaa colaad ⟨hoyga⟩, dhammaan wanaagga uu u sameynayo ⟨את⟩ Israa'iil, oo gurigaaga aan jirin oday dhammaan maalmaha.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "wadku arki doontaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "colaad"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "⟨hoyga⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "uu u sameynayo wanaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jirin"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oday"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:47.932836975Z",
+  "model": "glm-5.3"
+}

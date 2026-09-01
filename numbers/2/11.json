@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo ciidankiisa iyo kuwa la tiriyayna waxay ahaayeen lix iyo afartan kun iyo shan boqol.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ciidankiisa"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "kuwa la tiriyay"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "lix"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:52.687119702Z",
+  "model": "glm-5.3"
+}

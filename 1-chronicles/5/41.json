@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Iyo Yehootsadaq wuxuu tegay markii Yahweh uu guriyey ⟨את⟩ Yehuudah iyo Yeruushaalaym gacanta Nebukadnesar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Iyo Yehootsadaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wuxuu tegay"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "markii uu guriyey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "iyo Yeruushaalaym"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesar"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:47.107730278Z",
+  "model": "glm-5.3"
+}

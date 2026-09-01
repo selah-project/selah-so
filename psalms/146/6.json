@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Kan sameeya samada iyo dhulka, ⟨את⟩ badda iyo ⟨את⟩ waxa dhan oo ku jira; Kan ilaaliya runta weligiis.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waxa dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku jira"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Kan ilaaliya"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "runta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:52.117768262Z",
+  "model": "glm-5.3"
+}

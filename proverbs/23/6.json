@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha cunin ⟨את⟩ watiga ninka indho-xun, ha damcin cuntooyinkiisa macaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha ... in"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watiga ninka indho-xun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "watiga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha ... in"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "damcin"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "cuntooyinkiisa macaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:17.567652737Z",
+  "model": "glm-5.3"
+}

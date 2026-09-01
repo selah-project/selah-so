@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Aabahaa iyo hooyadaa hagu fardeen, oo iladatay haigu faraxdee.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "hagu fardee"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Aabahaa"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "iyo hooyadaa"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "haigu faraxdee"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "iladatay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:46.412857306Z",
+  "model": "glm-5.3"
+}

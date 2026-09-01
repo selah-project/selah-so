@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Saboabaha uu Abraham dhegeystay codkayga, oo uu ilaaliyay ilaalintayda, amarradayda, xeerarkayda iyo Towraadayda.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "saboabaha (eeg: 'heerka')"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhegeystay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "oo uu ilaaliyay"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ilaalintayda"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarradayda"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "xeerarkayda"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "iyo Towraadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:15.421152125Z",
+  "model": "glm-5.3"
+}

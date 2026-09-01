@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wayna arkeen ⟨את⟩ Elohim-ka Israa'iil, oo waxaa hoos taal cagihiisa sida shuqul la sameeyay oo dhagax sifiir ah, iyo sida muuqaalka samada oo cad (la to'ay).",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wayna arkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-ka Israa'iil"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "oo waxaa hoos taal"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "cagihiisa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sida shuqul la sameeyay"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "oo cad (la to'ay)"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "dhagax sifiir ah"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "iyo sida muuqaalka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "oo cad (nadiif)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:19.647544996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Waxaana ahay mid la taabtay ⟨maalintii⟩ oo dhan, cadaabtayduna waxay timaadaa subax kasta.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "waxaana ahay"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "mid la taabtay (cudur)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "cadaabtayduna"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "subax kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.675500096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 49:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Bal eeg, waxaan kuu keenayaa cabsi, sida ay qoran tahay Oracle-ka Adonay Yahweh Tzevaot, ka dadka kuu wareegsan oo dhan; waana la idin daadiyaa, nin kasta wajigiisa hortiisa, midna waa la'aan mid ururiya kan socodka.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "waxaan kuu keenayaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle-ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo dhan ka"
+    },
+    {
+      "surface": "סביביך",
+      "gloss": "kuu wareegsan"
+    },
+    {
+      "surface": "ונדחתם",
+      "gloss": "waana la idin daadiyaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wajigiisa hortiisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waa la'aan"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "mid ururiya"
+    },
+    {
+      "surface": "לנדד",
+      "gloss": "kan socodka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:21:05.183853737Z",
+  "model": "glm-5.3"
+}

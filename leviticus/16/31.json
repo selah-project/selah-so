@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waa Sabab (nasasho) nasasho-buuxda idiin, waad dulaysaan doontaan ⟨את⟩ naftiinna — sharci weligeed ah.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabab (nasasho)"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nasasho-buuxda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "waad dulaysaan doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftiinna"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sharci ah"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:27.201666391Z",
+  "model": "glm-5.3"
+}

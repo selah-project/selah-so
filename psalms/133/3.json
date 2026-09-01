@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 133,
+  "translation": "Sida barwaaqada Chermon, oo buuraha Siyoon ku soo socota; waayo halkaasuu Yahweh amray ⟨את⟩ barakadda — nolol ilaa weligeed.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Sida barwaaqada"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ku soo socota"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaasuu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barakadda"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barakadda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:20.627295671Z",
+  "model": "glm-5.3"
+}

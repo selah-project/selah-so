@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahweh Tseba'ot wuu dhaartay isagoo leh: Sida aan u qorsheeyay saas ayay noqotay, iyo sida aan u talo-jheeyay saas ayay taagan doontaa.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wuu dhaartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseba'ot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma...-ba (dhaar)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waa diid (adigoo dhaarin)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida aan u"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "qorsheeyay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ayay noqotay"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "iyo sida aan u"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "talo-jheeyay (talo-shaahay)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ayay (isaga)"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "taagan doontaa (soo kici)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:32.780128915Z",
+  "model": "glm-5.3"
+}

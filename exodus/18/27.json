@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Muuse wuxuu shearay ⟨את⟩ sodorgii, isagoo u tegey dhulkii uu ka yimid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu shearay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sodorgii"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sodorgii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "isagoo u tegey"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dhulkii uu ka yimid"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:52.190224765Z",
+  "model": "glm-5.3"
+}

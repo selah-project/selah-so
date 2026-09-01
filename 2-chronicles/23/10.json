@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuuna taagay ⟨את⟩ dadka oo dhan, nin kasta oo qorihiisa gacantiisa ku haya, meel ka bilaabaysa bogga midig ee baytka ilaa bogga bidix ee baytka, dhanka altarka iyo baytka, boqorka agtiisa dhexdaba.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wuxuuna taagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "qorihiisa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa ku haya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "meel ka bilaabaysa bogga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "baytka"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "midig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bogga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "baytka"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bidix"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "dhanka altarka"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "iyo baytka"
+    },
+    {
+      "surface": "על",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhexdaba"
+    }
+  ],
+  "timestamp": "2026-09-01T06:42:14.480976428Z",
+  "model": "glm-5.3"
+}

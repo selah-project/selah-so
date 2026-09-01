@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxaad u imanaysaa saadaaliisha Laywi-ga iyo xukumiyaha oo ah waqtiyadaas, waad weydisaa, iyaguna waxay kuu sheegi doonaan ⟨את⟩ ereyga xukunka.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "waxaad u imanaysaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "saadaaliisha"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laywi-ga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "xukumiyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "waqtiyada"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "-aas"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "waad weydisaa"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "waxay kuu sheegi doonaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyga xukunka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "xukunka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:14.958446092Z",
+  "model": "glm-5.3"
+}

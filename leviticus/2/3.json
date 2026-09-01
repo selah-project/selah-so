@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo waxa hadhiyadda ka hadhay waxaa iska leh Aharon iyo wiilashiisa; ⟨waa⟩ quduus quduusyada ka mid ah, ololaha Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "oo waxa ka hadhay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "min"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadhiyadda"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduusyada ugu badan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ololaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:44.426669908Z",
+  "model": "glm-5.3"
+}

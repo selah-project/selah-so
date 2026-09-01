@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu daahirinayaa ⟨את⟩ guriga dhiigga shimbirta iyo biyaha nool iyo shimbirta nool iyo ulka sedarka iyo eezobta iyo Shaniga guduudaha.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "wuxuu daahirinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "shimbirta"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "iyo biyaha"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nool"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "iyo shimbirta"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nool"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "iyo ulka"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedarka"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "iyo eezobta"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "iyo Shaniga"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "guduudaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:15.725685492Z",
+  "model": "glm-5.3"
+}

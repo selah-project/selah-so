@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waan soo kacayaa hadda, waan ku wareegayaa magaalada, suuqyada iyo wadooyinka waaweyn; waan doondoondayaa ⟨את⟩ kan ay nafdaydu jeceshahay; waan doondoonday, oo ma helin.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "waan soo kacayaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "waan ku wareegayaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "suuqyada"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "iyo wadooyinka waaweyn"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "waan doondoondayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan ay nafdaydu jeceshahay"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kan ay jeceshahay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "waan doondoonday"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "helin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:04.369765088Z",
+  "model": "glm-5.3"
+}

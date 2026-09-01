@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo, lix bilood baa Yoo'aab iyo dhammaan Yisraa'iil ku sugnaaday halkaas, ilaa la baabi'iyay dhammaan labaha ee Adoom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "lix"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bilood"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ku sugnaaday"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "la baabi'iyay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "labaha"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Adoom"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:14.300335650Z",
+  "model": "glm-5.3"
+}

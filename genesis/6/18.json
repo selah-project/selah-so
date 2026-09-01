@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waan taagi doonaa ⟨את⟩ axdigayga la ⟨את⟩ adiga, waadna gelin doontaa doonida — adiga, wiilashaada, naagtaada iyo naagihi wiilashaada — la ⟨את⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "waan taagi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axdigayga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "axdigayga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩ adiga"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "waadna gelin doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gel"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "doonida"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "iyo wiilashaada"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "iyo naagtaada"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "iyo naagihi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaada"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩ adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:35.575108966Z",
+  "model": "glm-5.3"
+}

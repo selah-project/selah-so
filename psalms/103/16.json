@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Waayo, dabayl ayaa ku dhaafta, oo ma jirto; meeshiisana mar dambe ma garatoonna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayl"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ayaa ku dhaafta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "oo ma jirto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "garatoonna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "meeshiisana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:04.472161369Z",
+  "model": "glm-5.3"
+}

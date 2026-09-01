@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Kohnkuna wuxuu sameyn doonaa ⟨את⟩ midiba mid — kii mid qurbaan dembi, kii kalena olah — kohnkuna wuxuu u dhaari doonaa Yahweh hortiisa da'iddiisa dartii.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "wuxuu sameyn doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labada shimbir (turtalka iyo qamriga)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohnkuna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kii mid"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurbaan dembi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "kii kalena"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wuxuu u dhaari doonaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohnkuna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "da'iddiisa dartii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:27.730876206Z",
+  "model": "glm-5.3"
+}

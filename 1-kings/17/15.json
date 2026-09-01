@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wayna tegay, waxayna sameysay sida hadalkii Eeliyaah; wayna cunteen iyada iyo isaga iyo baytkedii — maalmadii.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "wayna tegay"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "waxayna sameysay"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida hadalkii"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eeliyaah"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wayna cuntoon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iyadana"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "iyo baytkedii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmadii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:13.146271290Z",
+  "model": "glm-5.3"
+}

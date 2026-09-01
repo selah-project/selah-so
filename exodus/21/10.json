@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Hadduu qaadato mid kale oo islaanti ah, cuntooteda, dharka iyo xuquuqeeda gurigaba lama dhiminayo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hadduu"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "mid kale"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "qaadato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "islaanti ah"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "cuntooteda"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "dharka"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "iyo xuquuqeeda guriga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "dhiminayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:45.661640321Z",
+  "model": "glm-5.3"
+}

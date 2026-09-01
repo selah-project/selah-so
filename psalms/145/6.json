@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Adtigiisa (shaqada cabsida leh) ee yaab badan way sheegi doonaan, waana sheegi doonaa weynaañaada.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Adtigiisa (xoogga)"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "shaqadaaha cabsida leh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "way sheegi doonaan"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "weynaañaada"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "waana sheegi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:21.019394164Z",
+  "model": "glm-5.3"
+}

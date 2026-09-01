@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 82,
+  "translation": "Aniga waxaan idhi: Elohim tihiin, iyo wiilasha Elyon oo dhan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "tihiin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iyo wiilasha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:48.711997252Z",
+  "model": "glm-5.3"
+}

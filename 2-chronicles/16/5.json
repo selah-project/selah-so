@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Markii Baashaa ⟨maqlay⟩ wuu ka joojiyay dhisidda ⟨את⟩ Raamah, wuuna joojiyay ⟨את⟩ shuqulkiisa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markii"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "maqlay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "wuu ka joojiyay"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dhisidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Raamah"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "wuuna joojiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqulkiisa"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "shuqulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:41:21.788954904Z",
+  "model": "glm-5.3"
+}

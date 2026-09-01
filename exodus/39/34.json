@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Iyo ⟨את⟩ daboolka maqaarka wanaha guduudan, iyo ⟨את⟩ daboolka maqaarka takshiisha, iyo ⟨את⟩ shaashadda masqafka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daboolka maqaarka wanaha guduudan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "daboolka"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "wanaha"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "guduudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daboolka maqaarka takshiisha"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "daboolka"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "takshiisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shaashadda masqafka"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "shaashadda"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "masqafka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:09.912355320Z",
+  "model": "glm-5.3"
+}

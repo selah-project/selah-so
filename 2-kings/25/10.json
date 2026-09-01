@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Iyo ⟨את⟩ derbiyada Yeruushaalaym wareegoodii waxay dumiyeen dhammaan ciidanka Kashediyiinta ee wata madaxa ciidamada fulinta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "derbiyada Yeruushaalaym"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "derbiyada"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareegoodii"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "waxay dumiyeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashediyiinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ciidamada fulinta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:45.633782015Z",
+  "model": "glm-5.3"
+}

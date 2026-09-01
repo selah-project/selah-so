@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh wuxuu yidhi: Waan tirtirayaa ⟨את⟩ aadamiga aan abuuray ka foolka dhulka, laga bilaabo aadamiga ilaa xayawaanka, ilaa xayawaanka jiidda, iyo ilaa shimbiraha samada, maxaa weeye waan ka naday inaan sameeyay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "waan tirtirayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamiga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "abuuray"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "foolka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "laga bilaabo aadamiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "xayawaanka jiidda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo ilaa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa weeye"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "waan ka naday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "aan sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:38.777198446Z",
+  "model": "glm-5.3"
+}

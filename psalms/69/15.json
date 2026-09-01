@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "I gargaar dhoobo-jilicsan, oo ha i dhigin inaan lumin; aan la gargaaray kuwi i neceb-yahay, iyo macaluul waaweyn oo biyo ah.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "I gargaar"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dhoobo-jilicsan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha i dhigin inaan"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "lumin"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "aan la gargaaray"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kuwi i neceb-yahay"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "iyo macaluul waaweyn oo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:30.252197833Z",
+  "model": "glm-5.3"
+}

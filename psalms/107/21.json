@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Ha yihiineen inay ku mahadnaadaan Yahweh khesedkiisa, iyo yaabahaafi ilmo aadamiga ah.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ha yihiineen inay ku mahadnaadaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo yaabahaafi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:32.696499923Z",
+  "model": "glm-5.3"
+}

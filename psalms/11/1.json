@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Godhigga hagaha; qoraal Daawuud ah. Yahweh ayaan magangalay; sidee bayda layidhaahdaan naftayda: Carraa buuraha dhoorto, shimbir?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Godhigga hagaha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "qoraal Daawuud ah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "magangalay"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sidee"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "layidhaahdaan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Carraa dhoorto"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shimbir"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:10.933146856Z",
+  "model": "glm-5.3"
+}

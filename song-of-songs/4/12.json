@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Beer xiran baa tahay walaashay caashada; il xiran, iyo biyo-xidhan la xiray.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "beer"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "xiran baa tahay"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "walaashay"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "caashada"
+    },
+    {
+      "surface": "גל",
+      "gloss": "il"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "xiran"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "biyo-xidhan"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "la xiray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:32.032110863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaad canaantay shucuurada, waxaad baabbi'isay sharka; magacyadooda waxaad tirtirtay weligood iyo weligey weligii.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Waxaad canaantay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shucuurada"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "waxaad baabbi'isay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "magacyadooda"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "waxaad tirtirtay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligey weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:29.679803269Z",
+  "model": "glm-5.3"
+}

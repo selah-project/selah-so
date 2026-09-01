@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Markay ahaayeen rag tiro yar, waayar tiro yar, iyo soo-duliyeyshaal dhexdeeda;",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "markay ahaayeen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rag"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tiro yar"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "waayar tiro yar"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "iyo soo-duliyeyshaal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:15.638747450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Way laabtaan, laakiin ma ⟨ilay⟩ ⟨Aadka-Sare⟩; waxay noqdeen gantaal khiyaano ah; sayidyadoodu waxay seyfta ku dhici doonaan, carowka carrabkooda dartii — tani waa qosolladooda dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "way laabtaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "Aadka-Sare"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay noqdeen"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "gantaal kale oo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaano ah"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "way dhici doonaan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seyfta ku"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "sayidyadoodu"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "carowka"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "carrabkooda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tani"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "qosolladooda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:50.953672458Z",
+  "model": "glm-5.3"
+}

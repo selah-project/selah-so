@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Guri keliya baa lagu cuniyaa; waxa hilibka ah guriga ha ka sooqaan dheeriga, uma sooqaan wax lafta ah jikada; laf uma jebinayaan.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya (mid)"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "baa lagu cuniyaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "sooqaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "waxa ka mid ah"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "dheeriga (beri)"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "iyo laf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "jebinayaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jirada (keeda)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:19.936607276Z",
+  "model": "glm-5.3"
+}

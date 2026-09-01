@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Cadaaladda kan oo dhan waddadiisa bay ku toosinaysaa, oo sharcunufiisa shar-luqudku wuu dhici.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "Cadaaladda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kan oo dhan"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "bay ku toosinaysaa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "waddadiisa"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "oo sharcunufiisa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "wuu dhici"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-luqudku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:01.421523271Z",
+  "model": "glm-5.3"
+}

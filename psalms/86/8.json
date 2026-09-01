@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Wax kale oo la mid ah ilaa ma jiro kuwa ka mid ah Elohim, Adonay; shuqullo la mid ah shuqullaada ma jiro.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "la mid ah"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "shuqullo la mid ah shuqullaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.979882443Z",
+  "model": "glm-5.3"
+}

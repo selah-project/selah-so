@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu bixiyey dadkiisa sida adhi, wuxuuna hagay sidii rero badan badhtamaha.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "wuxuu bixiyey"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sida adhi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "wuxuuna hagay"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sidii rero badan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "badhtamaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:07.893484071Z",
+  "model": "glm-5.3"
+}

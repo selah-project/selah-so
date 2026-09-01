@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Dembigayga waan kuu sheegay, oo xadgudubkaygana ma qarin; waxaan idhi: waan aqoonsan doonaa isdhaafyadayda ku saabsan Yahweh; adiguna xadgudubka dembigayga waad dhaaftay. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "waan kuu sheegay"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "oo xadgudubkayga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "waan aqoonsan doonaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isdhaafyadayda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "waad dhaaftay"
+    },
+    {
+      "surface": "עון",
+      "gloss": "xadgudubka"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:25.061387072Z",
+  "model": "glm-5.3"
+}

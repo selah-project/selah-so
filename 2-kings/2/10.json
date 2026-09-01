@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuuna yidhi: Waxaad codsatay wax adag; laakiin haddii aad aragto marka aan ⟨את⟩ laga qaado agtaada, sidaas ha kuu noqdaa; haddii kale, ma noqoto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "waxaad codsatay wax adag"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "in aad weyddiiso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "aad aragto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "marka aan laga qaado"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "laga qaado"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ agtaada"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha noqdaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddii kale"
+    },
+    {
+      "surface": "אין",
+      "gloss": "(ma jirin)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqoto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:25.674167749Z",
+  "model": "glm-5.3"
+}

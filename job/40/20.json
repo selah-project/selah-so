@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Maxayeed, buuraha waxay u soo bixiyaan midho (bula), duuryada beeraha oo danna waxay halkaas ku ciyaaraan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxayeed"
+    },
+    {
+      "surface": "בול",
+      "gloss": "midho (bula)"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "waxay u soo bixiyaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo danna"
+    },
+    {
+      "surface": "חית",
+      "gloss": "duuryada"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "waxay ku ciyaaraan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:20.001972114Z",
+  "model": "glm-5.3"
+}

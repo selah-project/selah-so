@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Elohim dhagaxaygii — xaggiisa baan ku talaxgalayaa — gashankaygii iyo geeska badbaadadaydii, dhisigaygii sare iyo meel-baxdaydii, badbaadiyahaygii; xagga khufriyada wa ii badbaadinaysaa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaxaygii"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "baan ku talaxgalayaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "gashankaygii"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "iyo geeska"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadadaydii"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "dhisigaygii sare"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "iyo meel-baxdaydii"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "badbaadiyahaygii"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "xagga khufriyada"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "wa ii badbaadinaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:06:18.638774178Z",
+  "model": "glm-5.3"
+}

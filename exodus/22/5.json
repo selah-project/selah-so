@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii dab uu baxo oo uu qabsado qodaxda, laguna cuno ⟨את⟩ ururka ama birta taagan ama beerta, kan shidana wuu buuxa buuxiyaa ⟨את⟩ waxa la shiday.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uu baxo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "oo uu qabsado"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "qodaxda"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "laguna cuno"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ururka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "birta taagan"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "buuxa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "buuxiyaa"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "kan shidana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la shiday"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "waxa la shiday"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:41.188214236Z",
+  "model": "glm-5.3"
+}

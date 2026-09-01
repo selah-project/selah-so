@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Sidaas darteed shar-ku shaarcadda kuma ⟨soo bulaan⟩, demmi laayùshuna kuma soo bulaan shirka ⟨dhaqso-dhaqso la'an: su-sharx—shirka⟩ gar-yaqaanka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas darteed (saamiga ah)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "soo bulaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-ku"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "shaarcadda kuma"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "demmi laayùshuna"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gar-yaqaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:22.179166312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Hal mar ayaan hadlay, mana jawaabayn; labo mar, uma sii darin.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "hal mar"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aan hadlay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jawaabayn"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "labo mar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "sii darin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:06.532901631Z",
+  "model": "glm-5.3"
+}

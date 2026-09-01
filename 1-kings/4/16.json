@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Baana ina Xuushay, oo ku sugan Asher iyo Bealoot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Xuushay"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "oo ku sugan Asher"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "iyo Bealoot"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:00.331810722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Elka — kan ii siiya aargudashooyin, kan shacabka hoos i dhigaya.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Elka (kan)"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "kan siiya"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "aargudashooyin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kan hoos i dhigaya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "hooshayda (i hoos)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.724210874Z",
+  "model": "glm-5.3"
+}

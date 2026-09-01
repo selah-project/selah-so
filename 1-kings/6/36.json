@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna dhisay ⟨את⟩ berxadda gudaha — saddex saf oo dhagax la jaray, iyo saf hal oo tiin jarjaran oo arar ah.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berxadda gudaha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "berxadda"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "saf oo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "dhagax la jaray"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "iyo saf hal oo"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "tiin jarjaran"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arar ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:45.837515551Z",
+  "model": "glm-5.3"
+}

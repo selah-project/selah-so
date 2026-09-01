@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Eeaga, waxaan idinka horeeyay ⟨את⟩ dhulka; gala oo dhulka ha qabsataan ⟨את⟩ dhulka, kaas oo Yahweh ku dhaartay aabbayaashiin — Ibraahim, Is-xaaq iyo Yacquub — inuu siiyo iyaga iyo faracooda ka dib.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Eeaga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan horeeyay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "idinka hor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gala"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "oo ha qabsataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaas oo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ku dhaartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Is-xaaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "iyo Yacquub"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inuu siiyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "iyo faracooda"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka dib"
+    }
+  ],
+  "timestamp": "2026-09-01T02:00:40.768453737Z",
+  "model": "glm-5.3"
+}

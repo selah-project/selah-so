@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: Sidaa ayaad ilmaha Israa'iil ku odhan doontaa: Idinkaa arkay inaan layo idinku ka hadlay samada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ayaad ku odhan doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "aydaan arkay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aan layo hadlay"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:19.137181045Z",
+  "model": "glm-5.3"
+}

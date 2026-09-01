@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuu bixinayaa ⟨את⟩ dhammaan baruurkiisa ka mid ah: ⟨את⟩ dugaaska iyo ⟨את⟩ baruurta daboolaysa ⟨את⟩ caloolxdhexeedsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan baruurkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "baruurkiisa"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "wuxuu bixinayaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugaaska"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "dugaaska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "daboolaysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caloolxdhexeedsa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "caloolxdhexeedsa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:05.112644486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ma dhaqaaqaan fardaha dhagaxa waaweyn saaran? Mise lama waramaa lo'da? Waayo, idinku waxaad bedasheen xukunka makhawr, midhaha sinaantaana hoobey.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "ma dhaqaaqaan"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "dhagaxa waaweyn saaran"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "fardaha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "lama waramaa"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "waxaad bedasheen"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "makhawr"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sinaantaana"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "hoobey"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:23.774872913Z",
+  "model": "glm-5.3"
+}

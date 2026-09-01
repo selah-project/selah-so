@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Xusuuso ⟨את⟩ maalinta Sabuugga inaad u quddayso.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Xusuuso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalinta Sabuugga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabuugga"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "inaad u quddayso"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:33.990385893Z",
+  "model": "glm-5.3"
+}

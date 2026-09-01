@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxay ka tegeen ⟨את⟩ Yahweh, waxayna caabudeen Ba'al iyo ⟨את⟩ Ash-terooth.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "waxay ka tegeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxayna caabudeen"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "iyo Ash-terooth"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:04.879775673Z",
+  "model": "glm-5.3"
+}

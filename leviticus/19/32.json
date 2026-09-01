@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ka hor timaha cad ha kac, wajigana odayga karameli, Elohimkaagana ka cabsa; anigu waan Yahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ka hor wajiga"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "timaha cad"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ha kac"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "karameli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigana"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "odayga"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ka cabsa"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimkaagana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:13.570031103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ninka Elohimna wuxuu boqorkii ku yidhi: Haddii aad ii siiso ⟨את⟩ badhtamaha gurigaaga, kuma imaani, cunnana ma cuno, biyana ma cabbo meeshaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "aad siiso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badhtamaha"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "badhtamaha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "imaani"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cuno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "cabbo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:02.760500583Z",
+  "model": "glm-5.3"
+}

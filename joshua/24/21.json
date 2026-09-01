@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Qoomkii waxay ku yidhi Yehooshuuca: Maya, laakiin ⟨את⟩ Yahweh baa aan adeegaynaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay ku yidhi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qoomkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Maya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "aan adeegaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:08.432057221Z",
+  "model": "glm-5.3"
+}

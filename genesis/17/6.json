@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waan ku tar-siin doonaa ⟨את⟩ aad u badan, waan kuu dhigi doonaa ummado, boqorradena adiga kaa soo baxi doonaan.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "tar-siin doonaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "u badan"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ku dhigi doonaa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ummado"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "boqorro"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "soo baxi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:23.048796059Z",
+  "model": "glm-5.3"
+}

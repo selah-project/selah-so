@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaan arkay ⟨את⟩ shaqadaas (cadaadiska) oo Elohim u siiyay wiilasha aadmanka inay ku dadaagshaan.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaqadaas (cadaadiska)"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "shaqadaas (cadaadiska)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "u siiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadmanka"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "inay ku dadaagshaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:36.995945493Z",
+  "model": "glm-5.3"
+}

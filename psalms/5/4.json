@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Yahweh, subaxiiba waad maqlaysaa codkaygii; subaxiiba waan kuu diyaarinayaa ⟨duco⟩, waana kuu sugayaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaxiiba"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "waad maqlaysaa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkaygii"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaxiiba"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "waan kuu diyaarinayaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "waana kuu sugayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:42.001922767Z",
+  "model": "glm-5.3"
+}

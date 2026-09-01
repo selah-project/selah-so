@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 125,
+  "translation": "Heesta Waxay-soo-baxaan. Kuwa Yahweh ku kalsoon, sida buurta Tsiyon bay ahaanayaan, lama dhaqaaqdo, weligeed bay fadhidaan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Waxay-soo-baxaan"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "kuwa ku kalsoon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "sida buurta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dhaqaaqdo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bay fadhidaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:16.454085035Z",
+  "model": "glm-5.3"
+}

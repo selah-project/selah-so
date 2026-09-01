@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Ha iga tegin Yahweh Eloahay, ha iga fogow.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "iga tegin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "iga fogow"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:51.587326472Z",
+  "model": "glm-5.3"
+}

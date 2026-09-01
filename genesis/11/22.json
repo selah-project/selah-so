@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Serug wuxuu noolaa sodon oo sano, wuxuuna dhalay ⟨את⟩ Nahor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon oo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:21.379134993Z",
+  "model": "glm-5.3"
+}

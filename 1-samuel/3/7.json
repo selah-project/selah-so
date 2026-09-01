@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Shemuuelna weli ma garanayn ⟨את⟩ Yahweh, eraygii Yahwehna weli lama muujin.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuuelna"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ma garanayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "welina"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "lama muujin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "loro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eraygii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:41.843968627Z",
+  "model": "glm-5.3"
+}

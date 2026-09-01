@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Xus oo kuwii hore ma jiraan, iyo sidoo kale kuwii dambe ee imaan, xus ma jiri doono kuwaas la kuwii dambe dambe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xus"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "kuwii hore"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "kuwii dambe"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ee imaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiri doono"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ee imaan"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "kuwii dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:10.871423774Z",
+  "model": "glm-5.3"
+}

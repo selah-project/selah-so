@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Duqsigu waa enoyoobaa, ubaxuna waa dhaloobaa, waayo ruuxa Yahweh baa ku dhuftay; run ahaanba shacabku waa duqsi.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "waa enoyoobaa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Duqsigu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "waa dhaloobaa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ubaxuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "baa ku dhuftay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "run ahaanba"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "duqsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabku"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:33.084725081Z",
+  "model": "glm-5.3"
+}

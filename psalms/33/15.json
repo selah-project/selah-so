@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Kani waa Kan sameeya iskujir wadnahooda, Kan fahamsan dhamaan shuqulladooda.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Kan sameeya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "iskujir"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wadnahooda"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Kan fahamsan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "shuqulladooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:58.598178005Z",
+  "model": "glm-5.3"
+}

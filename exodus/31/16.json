@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ilmaha Israa'iilna way ilaaliyaan ⟨את⟩ Shabbadda, ayagoon sameyn ⟨את⟩ Shabbadda jiyooyinkooda — ballan weligood ah.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "way ilaaliyaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbadda"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbadda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ayagoon sameyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbadda"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbadda"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "jiyooyinkooda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:30.188733535Z",
+  "model": "glm-5.3"
+}

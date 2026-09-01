@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Ha iigu garaaco garab midigu khesed, ha iigu hanuuniyo; saliidda madaxa ha diidin madaxaygu; waayo weli baryadayduba waa ku socotaa sharkooda.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ha iigu garaaco"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "garab midigu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ha iigu hanuuniyo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יני",
+      "gloss": "diidin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxaygu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "baryadayduba"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "sharkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:40.377950635Z",
+  "model": "glm-5.3"
+}

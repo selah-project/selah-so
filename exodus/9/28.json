@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "U dhaariya Yahweh ⟨waa ku filan⟩ in aysan jirin codadkii Elohim iyo barafka rogow, waan ⟨את⟩ idin dirayaa, oo aanad sii joogaysaan.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "u dhaariya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "waa ku filan"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "in aysan jirin"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "codadkii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "iyo barafka rogow"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "waan idin dirayaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "shaqada 'dir' u doorbida 'idin' — kan waa magac-u-yaal (H853 + ikhtiyaar), ma aha calaamad qof"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aanad"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "joogaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:46.021346471Z",
+  "model": "glm-5.3"
+}

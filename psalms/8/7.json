@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaad siisaa xukunka shuqullada gacmahaaga, wax kasta baad dhigtay cagahiisa hoosta.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "waxaad siisaa xukunka"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmahaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "baad dhigtay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "cagahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.434019827Z",
+  "model": "glm-5.3"
+}

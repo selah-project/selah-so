@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Shan dhalo waa isku-xidhan doonaan, midba walaasheed la socda; iyo shan dhalo kale oo isku-xidhan, midba walaasheed la socda.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dhalada"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "waa ahaan doonaan"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "isku-xidhan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "midba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la socda"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "walaasheed"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dhalo"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "isku-xidhan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "midba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la socda"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "walaasheed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:55.850733873Z",
+  "model": "glm-5.3"
+}

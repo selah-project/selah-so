@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Naftaydu si aad ah bay walaacsantahay; adiguna, Yahweh, ilaa goorma?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "bay walaacsantahay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goorma"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.359525436Z",
+  "model": "glm-5.3"
+}

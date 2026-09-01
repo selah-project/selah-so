@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Dab waarta ah baa madhaxa ku gubi doonaa, lama damayo.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "waarta ah"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "gubi doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "u (ku)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhaxa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "la damayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:51.091486157Z",
+  "model": "glm-5.3"
+}

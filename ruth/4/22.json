@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oobedna wuxuu dhalay ⟨את⟩ Yishay, Yishayna wuxuu dhalay ⟨את⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oobedna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishayna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:01.336030943Z",
+  "model": "glm-5.3"
+}

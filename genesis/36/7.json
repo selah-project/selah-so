@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waayo, hantidoodu way ka weynayd inay ⟨wada⟩ deggan yihiin, oo dhulkii ay ku soo gudbeenayaa awoodi ma lahayn inuu ⟨את⟩ dul qaado, xoolahooda dartood.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "way ahaayd"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "hantidoodu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ka weynayd"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "inay deggan yihiin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "awodi lahayn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ay ku soo gudbeenayaa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "inuu dul qaado"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dul-qaadista (iyaga)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dartood"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "xoolahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:49.456099247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ka odayaasha waan ka garanayaa, waayo fikuudkaaga waan ilaaliyay.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ka odayaasha"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "waan ka garanayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "fikuudkaaga"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "waan ilaaliyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:53.502047390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Waayo maalinta aarta ayaan qalbigayga ku hayaay, sannaddana la i-gargaaray waxay timid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "aarta"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "sannadda"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "la i-gargaaray"
+    },
+    {
+      "surface": "באה",
+      "gloss": "waxay timid"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:12.209582885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Barbaaray adiga, Yahweh; i bar xukunkaaga.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barbaaray"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "i bar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xukunkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:00.642352908Z",
+  "model": "glm-5.3"
+}

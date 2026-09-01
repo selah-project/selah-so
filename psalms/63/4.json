@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Waayo, khesedkaagu wuu ka fiican yahay nolosha, sannadahaygu way ku ammaaneeyaan adiga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wuu ka fiican yahay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagu"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sannadahaygu"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "way ku ammaaneeyaan adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:40.892647520Z",
+  "model": "glm-5.3"
+}

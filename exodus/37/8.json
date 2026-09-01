@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Kerubmid ka dhinac kana, kerubmid ka dhinac kana; ka kapporetha buu ka sameeyay ⟨את⟩ kerubiimta labada dhinacoodba.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Kerubmid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ka dhinac"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "kerubmid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ka dhinac"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buu ka sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubiimta"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubiimta"
+    },
+    {
+      "surface": "משני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "dhinacoodba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:50.700774112Z",
+  "model": "glm-5.3"
+}

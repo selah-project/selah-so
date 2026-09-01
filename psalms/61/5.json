@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Waxaan ku deganahaa teyntaaga ilaa wakhtiyada, waxaan magan galayaa qarso-hoosta baabaddaaga. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "waxaan ku deganahaa"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "teyntaaga"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ilaa wakhtiyada"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "waxaan magan galayaa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarso-hoosta"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baabaddaaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:32.872901565Z",
+  "model": "glm-5.3"
+}

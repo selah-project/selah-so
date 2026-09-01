@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh wuxuu ku yidhi Muuse: Eeg, waan ku dhigay adiga Elohim ⟨u⟩ Farcoon, oo Axaroon walaalkaagu wuxuu noqon doonaa nebigaaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Eeg"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "waan ku dhigay adiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "⟨u⟩ Farcoon"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "oo Axaroon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaagu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nebigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:19.218410903Z",
+  "model": "glm-5.3"
+}

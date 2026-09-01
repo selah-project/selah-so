@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Bac-bacaan buuxsan, magaalo qaylo san, magaalo faraxsan: la-garo-wayaashadaadu ma aha kuwa seef la garaacay, mana aha kuwa dagaal ku dhintay.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "bac-bacaan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "buuxsan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "qaylo san"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "faraxsan"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "la-garo-wayaashadaadu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef la garaacay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana aha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kuwa dhintay"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal ku"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:19.219983610Z",
+  "model": "glm-5.3"
+}

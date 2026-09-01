@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Baabi'i cadadka, baabi'i si aanay noolaan; oo ha yaqaannaan ⟨in⟩ Elohim uu xukumo Ya'qoub, ilaa dhulka geesaha. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Baabi'i"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "cadadka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "baabi'i"
+    },
+    {
+      "surface": "ו אינמו",
+      "gloss": "si aanay noolaan"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "oo ha yaqaannaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "uu xukumo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ya'qoub"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "ilaa geesaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:03.839645756Z",
+  "model": "glm-5.3"
+}

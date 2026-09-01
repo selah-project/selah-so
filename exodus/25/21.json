@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo waxaad dhigi doontaa ⟨את⟩ miisdhaqanka (kapporet) kor ka ah sanduuqa, oo sanduuqa gudaha waxaad dhigi doontaa ⟨את⟩ maraggii aan ku siiyo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "waxaad dhigi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miisdhaqanka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "miisdhaqanka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor ka ah"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo gudaha"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waxaad dhigi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maraggii"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "maraggii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aan ku siiyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:37.317037513Z",
+  "model": "glm-5.3"
+}

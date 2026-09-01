@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Balay! Dhulka saaxirada baabacusha leh ⟨ee⟩ ka baxsan webiyasha Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Balay!"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "saaxirada baabacusha"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "baabacusha leh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ee⟩"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "webiyasha"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:19.057313968Z",
+  "model": "glm-5.3"
+}

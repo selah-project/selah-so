@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Waxay kaga cabsan doonaan ⟨iyada oo la socda⟩ qorraxda, iyo ka hor dayaxa, ilmo ilmo.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "waxay kaga cabsan doonaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la socda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "iyo ka hor"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "dayaxa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ilmo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.647659658Z",
+  "model": "glm-5.3"
+}

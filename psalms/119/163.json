@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "beenidowgii waan nacay waanan naqshaday ⟨waxaas oo dhan⟩, Sharcigana waan jeclahay.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "beenidowgii"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "waan nacay"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "waanan naqshaday ⟨waxaas oo dhan⟩"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "waan jeclahay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:27.882745606Z",
+  "model": "glm-5.3"
+}

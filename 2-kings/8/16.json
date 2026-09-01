@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 8:16",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Sanadkii shanaad ee Yehoraam ina Axaab, boqorka Israa'iil, iyo (waqtigii) Yehooshafaat boqorka Yahuudah, Yehoraam ina Yehooshafaat boqorka Yahuudah wuxuu boqor noqday.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "sanadkii"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanaad"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "ee Yehoraam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "iyo Yehooshafaat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuxuu boqor noqday"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoraam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafaat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:18.238042195Z",
+  "model": "glm-5.3"
+}

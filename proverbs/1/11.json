@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Hadday dhehaan, Kaalay ⟨את⟩ naga soo raac, aynu dhulka ku sugno dhiigga, aynu qarsoono ⟨את⟩ nidaan-la'aata beenta la'aan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hadday"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dhehaan"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kaalay"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ naga soo raac",
+      "marks": "naga soo raac (annaga)"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "aynu dhulka ku sugno"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "aynu qarsoono"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "nidaan-la'aata (daacadda)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "beenta la'aan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:08.255097125Z",
+  "model": "glm-5.3"
+}

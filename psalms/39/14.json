@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Isgoodi iga (iska daa), waanan farxad-sami doonaa, ka hor intaan tegi oo aan ⟨jirin⟩.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "isgoodi iga (iska daa)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "waanan farxad-sami doonaa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ka hor intaan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "aan ⟨jirin⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:15.900295596Z",
+  "model": "glm-5.3"
+}

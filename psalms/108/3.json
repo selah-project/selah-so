@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Kaca, qannuunta iyo kinniirka; waan kicin doonaa ⟨waaberiyedda⟩.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Kaca"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "qannuunta"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kinniirka"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "waan kicin doonaa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨waaberiyedda⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:41.470285200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxaa la warramay Yehooshuuca, oo lagu yidhi: Shantii boqor waxaa la helay, waxayna qarsan yihiin god ka mid ah Makeda.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxaa la warramay"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo lagu yidhi"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "waxaa la helay"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "shantii"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "waxayna qarsan yihiin"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "god ka mid ah"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "Makeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:53.804440518Z",
+  "model": "glm-5.3"
+}

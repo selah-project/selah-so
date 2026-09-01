@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahweh wuxuu dhulkaaga ka dhigi doonaa ⟨את⟩ roobka boodhadh iyo ciid; ka samada ayaa kugu soo degi doonaa ilaa aad baabbo'do.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "wuxuu ka dhigi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roobka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "roobka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "boodhadh"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "iyo ciid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ayuu ku soo degi doonaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "aad baabbo'do"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:37.880034569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Ammaanta Yahweh ha ahaato weligeed; Yahweh ha ku farxo shuqulladiisa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ha ahaato"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Ammaanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ha ku farxo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "shuqulladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.605204484Z",
+  "model": "glm-5.3"
+}

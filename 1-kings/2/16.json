@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Hadda cod keliya baan kaa codsanayaa ⟨את⟩: ha i celin ⟨את⟩ wajiyaddayda. Waxayna ku tidhi: Dheh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "cod keliya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kaa codsanayaa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kaa ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "i celin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiyaddayda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiyaddayda"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dheh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:55.667199094Z",
+  "model": "glm-5.3"
+}

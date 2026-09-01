@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Waxay tegaan xoog ilaa xoog, ilbay ka muuqdaan Elohim horta, Siyyoon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "waxay tegaan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ilbay ka muuqdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "horta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siyyoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:25.404758098Z",
+  "model": "glm-5.3"
+}

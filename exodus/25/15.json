@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Giraadaha sanduuqa ayaa ilashu ku jiri doontaa; laga soo saari maayo ⟨isku dhexgaadhi doonaan maayo⟩.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "giraadaha"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ayaa ku jiri doontaa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ilashu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "laga soo saari \/ iska dhigin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iska (ka)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:05.099736423Z",
+  "model": "glm-5.3"
+}

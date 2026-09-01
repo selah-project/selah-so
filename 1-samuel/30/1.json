@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxay dhacday markii Dawid iyo raggiisii yimaadeen Tsiklag, maalinta saddexaad, oo gacmo-wareeggii reer Amalek ay ku dhaqaaqeen Koonfurta iyo Tsiklag, waxayna ku dhuumeen ⟨את⟩ Tsiklag, waxayna gubeen ⟨את⟩ iyada dab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay dhacday"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "markii ay yimaadeen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "iyo raggiisii"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "oo reer Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ay ku dhaqaaqeen (gacmo-wareeg)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Koonfurta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna ku dhuumeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "waxayna gubeen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iyada",
+      "marks": "iyada (Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.294655098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Gurigana aan dhisayaa waa weyn, waayo, Elohimay wuxuu ka weyn yahay ilaahyada ⟨dhammaantiis⟩.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "gurigana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "dhisayaa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka ... dhammaantiis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ilaahyada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:36:15.584665066Z",
+  "model": "glm-5.3"
+}

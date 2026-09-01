@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "oo waxaan jabin doonaa ⟨את⟩ isla-weynaha xooggiiinna, oo waxaan dhigi doonaa ⟨את⟩ samada xiirroodu sida birta ahayd, iyo ⟨את⟩ dhulkiinna sida naxaasta ah.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "oo waxaan jabin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isla-weynaha xooggiiinna"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "isla-weynaha"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "xooggiiinna"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "oo waxaan dhigi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada xiirroodu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "samada xiirroodu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "sida birta ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkiinna"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dhulkiinna"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "sida naxaasta ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:04.571075356Z",
+  "model": "glm-5.3"
+}

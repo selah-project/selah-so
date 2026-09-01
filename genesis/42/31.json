@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxaanu ku nidhi: run ahaan bashaal nahay, ma aanna noqon foojoyaaro.",
+  "tokens": [
+    {
+      "surface": "וונאמר",
+      "gloss": "waxaanu ku nidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "run ahaan bashaal"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "aanna noqon"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "foojoyaaro"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:13.770151790Z",
+  "model": "glm-5.3"
+}

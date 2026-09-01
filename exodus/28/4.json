@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Kuwana waa dharka ay samaynayaan: xoshen (boorso-sadarka), iyo efoodka, iyo marada dheer, iyo tunikada shabakaysan, iyo cycle-ka madaxa, iyo suunka; waxayna samaynayaan dhar qodoos Aharon walaalka iyo wiilashiisa, inay ii wadaadnoodaan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuwana"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "dharka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "samaynayaan"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "xoshen (boorso-sadarka)"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "iyo efoodka"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "iyo marada dheer"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "iyo tunikada"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "shabakaysan"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "cycle-ka madaxa"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "iyo suunka"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "waxayna samaynayaan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodoos"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalka"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "inay wadaadnoodaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:15.004690667Z",
+  "model": "glm-5.3"
+}

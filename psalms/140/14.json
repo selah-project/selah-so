@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Hubaal garab-yaqaannu waxay mahadin doonaan magacaaga; toosanna waa la fadhiyi doonaa ⟨את⟩ wajiyadaaga.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hubaal"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "garab-yaqaannu"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "mahadin doonaan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "la fadhiyi doonaa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiyadaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajiyadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:49.267467355Z",
+  "model": "glm-5.3"
+}

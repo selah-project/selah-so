@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 25:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo Yahweh-ee Ciidammada wuxuu buurahan u diyaarin doonaa dadka oo dhan baxad barwaaqo ah, baxad khamri da'aysan — barwaaqo barbaaraysan, khamri da'aysan la shaandhay.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "wuxuu ... diyaarin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ciidammada"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurahan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "baxad"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "barwaaqo ah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "baxad"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "khamri da'aysan"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "barwaaqo"
+    },
+    {
+      "surface": "ממחים",
+      "gloss": "barbaaraysan"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "khamri da'aysan"
+    },
+    {
+      "surface": "מזקקים",
+      "gloss": "la shaandhay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:02.043145724Z",
+  "model": "glm-5.3"
+}

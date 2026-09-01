@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu soo toosay Adonay sidii hurdo ka soo toosay, sidii dhibaneyo ka geweyn miiin (khamri) u qaylimaya.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "wuxuu soo toosay"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sidii hurdo ka soo toosay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sidii dhibane"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "u qaylimaya"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "miiin (khamri) ka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:01.530824331Z",
+  "model": "glm-5.3"
+}

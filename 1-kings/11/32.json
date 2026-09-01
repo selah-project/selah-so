@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 11:32",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo qabiilii keliya waxaa isaga noqon doonta, awgood adeegaygii Dawid, iyo awgood Yeruushaalaym, magaalada aan ka doortay dhammaan qabiilada Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "qabiilii"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxaa noqon doonta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adeegaygii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "iyo awgood"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ka doortay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:45.061133019Z",
+  "model": "glm-5.3"
+}

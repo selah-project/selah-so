@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Qabi (muusiga) ammaanta Magaciisa; ka dhiga ammaan (kabood) ta ammaantiisa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "qabi (muusiga)"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan (kabood)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ka dhiga"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan (kabood)"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:25.572739924Z",
+  "model": "glm-5.3"
+}

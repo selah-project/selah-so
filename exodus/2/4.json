@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Walaashiisna waxay istaagtay meel fog, si ay u ogaato waxa la isla sameyn lahaa.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "waxay istaagtay"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "walaashiis"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "si ay u ogaato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "la sameyn lahaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:52.173065967Z",
+  "model": "glm-5.3"
+}

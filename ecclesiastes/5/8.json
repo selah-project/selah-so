@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo faa'iidadu dhulka waxay u tahay ⟨dhammaan⟩; boqorku wuxuu ka faa'iideystaa ⟨beeraha la shaqeeyay⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Oo faa'iidadu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waxay u tahay dhammaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "la shaqeeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:20.687257549Z",
+  "model": "glm-5.3"
+}

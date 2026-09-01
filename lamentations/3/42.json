@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Annaga wanxoo dhaafannay, wanxoo caasinay; adiga adigoo ma dhaafin.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "annaga"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "wanxoo dhaafannay"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "wanxoo caasinay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "dhaafin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:13.484776279Z",
+  "model": "glm-5.3"
+}

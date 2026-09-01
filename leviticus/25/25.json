@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Haddii walaalkaa uu sablaado, oo uu iibiyay ⟨את⟩ hantidiisa uu qabsatay, markaasaa halgamihiisa ee u dhow yimid, wuxuuna xilayay ⟨את⟩ waxa walaalkiis la iibiyay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "uu sablaado"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "oo uu iibiyay"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "hantidiisa uu qabsatay"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "markuu yimaado"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "halgamihiisa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ee u dhow"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "wuxuuna xilayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa walaalkiis la iibiyay"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "waxa la iibiyay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:50.628211674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Qarni qarni kale waxay ku ammaaneen shuqullkaaga, oo awoodahaaga waxay sheegi doonaan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Qarni"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "qarni kale"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "waxay ku ammaaneen"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqullkaaga"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "oo awoodahaaga"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "waxay sheegi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:02.103710215Z",
+  "model": "glm-5.3"
+}

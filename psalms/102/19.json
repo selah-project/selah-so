@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Tan waxaa la qori doonaa dor kii dambeeyay, iyo ⟨qolo⟩ la abuuray way ammaanaysaa Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "waxaa la qori doonaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "dor"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kii dambeeyay"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "iyo ⟨qolo⟩"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "la abuuray"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "way ammaanaysaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:46.019739424Z",
+  "model": "glm-5.3"
+}

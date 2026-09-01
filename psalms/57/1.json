@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Hagaha Codka-yaqaanka: Ha-tirtirin. Mashiixaad Dawuud, mikhtam, markuu ka cararay weji ga Shaa'uul godka gudihiisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha Codka-yaqaanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tirtirin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "markuu ka cararay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "weji ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "godka gudihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.831225566Z",
+  "model": "glm-5.3"
+}

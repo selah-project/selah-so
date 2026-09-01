@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kan indhaha bannaanaya wuxuu keeno murug; kan fiqir-la'aanta ah oo dhan afkiisa waa la tuuri doonaa.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "bannaanaya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuxuu keeno"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "murug"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "kan fiqir-la'aanta ah"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "waa la tuuri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:37.095798430Z",
+  "model": "glm-5.3"
+}

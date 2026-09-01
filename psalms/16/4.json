@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Cadaadintoodu way badnaaneysaa, kuwa ilahyo kale u degdega; libaaxyadooda dhiigga ah kuma daadin doono, magacyadoodana ⟨את⟩ lama qaadi doono creaacion afkayga ku dhex saaran.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "way badnaaneysaa"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "cadaadintoodu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": " kale"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "kuwa u degdega"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "kuma daadin doono"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "libaaxyadooda"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiigga ah"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "iyo lama"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaadi doono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacyadooda"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "magacyadooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "afkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:47.777396683Z",
+  "model": "glm-5.3"
+}

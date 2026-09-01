@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Yahweh waxuu qawiima u siiyaa dadkiisa, Yahwehna wuxuu barakayaa ⟨את⟩ dadkiisa nabad.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qawiimo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "u dadkiisa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "waxuu siiyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wuxuu barakayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkiisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nabad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:53.934782330Z",
+  "model": "glm-5.3"
+}

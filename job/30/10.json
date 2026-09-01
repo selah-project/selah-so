@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Way i nacaan, way iga fogaadeen, oo wajiyaday igama ay reebin afduumista.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Way i nacaan"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "way fogaadeen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "oo wajiyaday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ay"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "reebin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "afduumista"
+    }
+  ],
+  "timestamp": "2026-09-01T05:48:09.550758141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Keliya takar baa dhib keenaa, laakiin ⟨את⟩ kuwa tala-taloofsan waa xigmad.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "takar"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "keeno"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa tala-taloofsan"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "kuwa tala-taloofsan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.329715212Z",
+  "model": "glm-5.3"
+}

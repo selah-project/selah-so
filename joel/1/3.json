@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ka warrama carruurtiinna, carruurtiinnana carruurtooda ka warrama, carruurtooduna durii kale.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "carruurtiinna"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "warrama"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "carruurtiinnana"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "carruurtooda"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "carruurtooduna"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "durii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:57.439750562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Iyo meel ayaa kuu taalli ka baxsan goobta (kampinka), oo waxaad baxdaa meeshaas, ka baxsan.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "iyo meel"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ayaa kuu taalli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "goobta (kampinka)"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "oo waxaad baxdaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ka baxsan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:00.424597784Z",
+  "model": "glm-5.3"
+}

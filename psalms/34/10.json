@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ka cabsada ⟨את⟩ Yahweh, quduusiintiisii; waayo, kuwa ka cabsada wax la'aan ma laha.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Ka cabsada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "quduusiintiisii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma laha"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "wax la'aan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kuwa ka cabsada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:22.761243136Z",
+  "model": "glm-5.3"
+}

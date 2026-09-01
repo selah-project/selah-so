@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Elohim ha uu kuu siiyo roob-hoosaadda samada, iyo barwaaqada dhulka, iyo badnaan badeecad iyo khamri cusub.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ha uu siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "roob-hoosaadda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "iyo barwaaqada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "iyo badnaan"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "badeecad"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "iyo khamri cusub"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:21.002000225Z",
+  "model": "glm-5.3"
+}

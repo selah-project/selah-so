@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxaa ka doorgsan tahay dahab, iyo baz (dhallaxad dahab ah oo nadiif ah) fara badan; oo waxaa ka macaan tahay shini (malab) iyo malabka dhululubada ka dhex yimaada.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "waxaa ka doorgsan tahay"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "iyo baz (dhallaxad dahab ah oo nadiif ah)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fara badan"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "oo waxaa ka macaan tahay"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "shini (malab)"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "iyo malabka"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "dhululubada ka dhex yimaada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:48.969230947Z",
+  "model": "glm-5.3"
+}

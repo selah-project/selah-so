@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Saas ayuu odhan Yahweh: saas baan u baabi'in doonaa ⟨את⟩ weynanka Yahuudah iyo ⟨את⟩ weynanka weyn ee Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "saas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu odhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saas"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "baan u baabi'in doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weynanka"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "weynanka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "weynanka weyn"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "weynanka weyn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T04:07:25.108784683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo fardaha-taagahu wuxuu sheegay isagoo leh: Wuxuu yimid ilaa xaggooda, oo ma soo noqon. Oo si socodka socodka Yehu in Nimshi buu u socdaa, waayo si waalnimo ayuu u socdaa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuu sheegay"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "fardaha-taagahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "xaggooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "soo noqon"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "oo si socodka"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "socodka"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "si waalnimo"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ayuu u socdaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:28:15.112609003Z",
+  "model": "glm-5.3"
+}

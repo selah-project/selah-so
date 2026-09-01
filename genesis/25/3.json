@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yokshanna wuxuu dhalay ⟨את⟩ Sheba iyo ⟨את⟩ Dedan; wiilasha Dedanna waxay ahaayeen Ashurim iyo Letushim iyo Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokshanna"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:25.291262185Z",
+  "model": "glm-5.3"
+}

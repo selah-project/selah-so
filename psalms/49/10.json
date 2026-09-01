@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "In weli uu noolaa ⟨weligiis⟩, boholka uma arki doono.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "uu noolaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨weligiis⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "arki doono"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "boholka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:09.018529690Z",
+  "model": "glm-5.3"
+}

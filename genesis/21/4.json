@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Abraahamna wuxuu dhex-dhigay ⟨את⟩ Yitsxaq wiilkiisii, in ka mid ah sideed maalmood, siduu ⟨את⟩ Elohim faray.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "wuxuu dhex-dhigay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraaham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in ka mid ah"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "sideed"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu faray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:02.209528201Z",
+  "model": "glm-5.3"
+}

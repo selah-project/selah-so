@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Malakigii Elohim baa riyo igu yidhi: Yacquub! Aniguna waxaan idhi: Waa kan aniga!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "baa yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malakigii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "riyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Waa kan aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:39.876692703Z",
+  "model": "glm-5.3"
+}

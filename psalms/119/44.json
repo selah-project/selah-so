@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaana ilaalin doonaa Sharcigaaga joogto, weligey iyo weligey.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "waxaana ilaalin doonaa"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "joogto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligey"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligey"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:36.225335026Z",
+  "model": "glm-5.3"
+}

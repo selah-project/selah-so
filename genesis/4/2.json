@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxayna sii dhashay ⟨את⟩ walaalkiis ⟨את⟩ Haabil; Haabilna wuxuu ahaa barbaar idaha, Qayinna wuxuu ahaa beerle ah daarta.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "waxayna sii dhashay"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "dhalidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalkiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haabil"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Haabil"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuse ahaa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Haabil"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "barbaar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "idaha"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Qayinna"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "beerle ah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "daarta"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:58.348059104Z",
+  "model": "glm-5.3"
+}

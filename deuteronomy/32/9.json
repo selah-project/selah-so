@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waa maxay sababta? Yahweh qaybtiisu waa ⟨ummad⟩ kiisa; Yacquub waa xariif-wadarta dhaqankiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxay sababta?"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qaybtiisu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨ummad⟩ kiisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "xariif-wadarta (qiyaas)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaqankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:42.145612761Z",
+  "model": "glm-5.3"
+}

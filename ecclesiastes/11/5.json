@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sida aadan aqoon hadalka uu waayey, uma garanayso waa kee dariiqa ruuxa, iyo sida lafaha ⟨isu dhisayo⟩ caloosha ta buuxsantay; saasoo kale ma garanayso ⟨את⟩ shuqulkii Elohim, kan qabta ⟨את⟩ walba.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "adan aqoon"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "garanayso"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waa kee"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dariiqa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "iyo sida lafaha"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ta buuxsantay"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saasoo kale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "garanayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqulkii"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qabta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "walba"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:54.950145689Z",
+  "model": "glm-5.3"
+}

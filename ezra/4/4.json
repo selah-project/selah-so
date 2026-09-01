@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaasaa dadka dhulkii jilciyay gacmaha dadka Yahuudah, waxayna cabsi geliyeen ⟨את⟩ ay dhistaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markaasaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "jilciyay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "waxayna cabsi geliyeen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ay (dadka Yahuudah)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ay dhistaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:13:24.885964982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Zimri wuxuu galay, wuxuu dulay, wuxuu dilay — sanadka labaatanaad iyo toddobaad ee Asa, boqorka Yehudah; wuxuuse xilka ka galay.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu galay"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wuxuu dulay"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wuxuu dilay"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatanaad"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "iyo toddobaad"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ee Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wuxuuse boqor noqday"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "xilka ka galay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:48.456437380Z",
+  "model": "glm-5.3"
+}

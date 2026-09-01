@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Kuwa badda ku degen doonniyada, kuwa sameeya shaqo biyo aad u badan.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "kuwa... ku degen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "doonniyada"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kuwa sameeya"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aad u badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:32.697097674Z",
+  "model": "glm-5.3"
+}

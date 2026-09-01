@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaa jira nuqul meel laga soo saaro, iyo daahab meel lagu nadiifiyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waa jira"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "nuqul"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "meel laga soo saaro"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "iyo meel"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "daahab"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "lagu nadiifiyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:47:33.369715075Z",
+  "model": "glm-5.3"
+}

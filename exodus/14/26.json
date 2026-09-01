@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahweh ayaa Muuse ku yidhi: Faafi gacantaada badta korkiisa, si biyuhu u noqdaan Mitsrayim korkiisa — gaadiidiisii korkiisa iyo faraskiisiiba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ayaa ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Faafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badta"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "si u noqdaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "gaadiidiisii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo korkiisa"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "faraskiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:26.962675230Z",
+  "model": "glm-5.3"
+}

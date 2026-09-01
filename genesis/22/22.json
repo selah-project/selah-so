@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "iyo ⟨את⟩ Kesed, iyo ⟨את⟩ Xaaso, iyo ⟨את⟩ Pildash, iyo ⟨את⟩ Yidlaaf, iyo ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Kesed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xaaso"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Xaaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Pildash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yidlaaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:10.589540383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Sida u qarinta qaadhka ayaa ⟨la⟩ qarinayaa; sida dhoobo-shuban (dhoonag) ka hor dabka, shar-lahayayaashu way halligaan ka hor wajiga Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sida u qarinta"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "qaadhka"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨la⟩ qarinayaa"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sida dhoobo-shubanta"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dhoonag"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "way halligaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-lahayayaashu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka hor wajiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:55.598124652Z",
+  "model": "glm-5.3"
+}

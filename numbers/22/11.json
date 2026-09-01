@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 22:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Bal, qowmkii Mitsrayim ka soo baxay wuu daboolay ⟨את⟩ eerta dhulka; imminka kaalay iigu carabee ⟨את⟩ isaga, waxaa laga yaabaa inaan awoodo inaan ku dagaallamo, oo aan ka eryo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qowmkii"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ka soo baxay"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "wuu daboolay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eerta dhulka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "eerta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "imminka"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kaalay"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "carab (ha carabee)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "qowmkii"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "waxaa laga yaabaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "in aan awoodo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "in aan la dagaallamo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku (la)"
+    },
+    {
+      "surface": "וגרשתיו",
+      "gloss": "oo aan ka eryo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:27.168239613Z",
+  "model": "glm-5.3"
+}

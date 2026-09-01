@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waa naigu celinaysaa gadaal laga cadowga, kuwa nacaynaana waa hubaan uga.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "waa naigu celinaysaa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "מני",
+      "gloss": "laga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "kuwa nacaynaana"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "waa hubaan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "uga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:02.591088403Z",
+  "model": "glm-5.3"
+}

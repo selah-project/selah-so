@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo haddii niman ay is-taagnaan, oo nin uu dhuunto saaxiibkiis ⟨את⟩ dhagax ama fudud, oo uusan dhimin, laakiin uu seexdo sariir —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "ay is-taagnaan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "niman"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "oo uu dhuunto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiis"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "fudud (cudud gacan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo uusan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dhimin"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "oo uu seexdo"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "sariir"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:50.816979233Z",
+  "model": "glm-5.3"
+}

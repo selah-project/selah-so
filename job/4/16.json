@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuu istaagay, laakiin muuqaaliisa ma garanayn; saw baa hortooda indhahayga; ⟨waa la aamusay⟩, cod baan maqlaana.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Wuu istaagay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "muuqaaliisa"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "saw"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "aamus"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "iyo cod"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "baan maqlaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:25.897092768Z",
+  "model": "glm-5.3"
+}

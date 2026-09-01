@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Xirme kasta oo dadka ka mid ah laga xirmo, lama fidleysmo; dhimasho buu dhimanayaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "xirme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "laga xirmo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "lama fidleysmo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimasho"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "buu dhimanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:08.741071411Z",
+  "model": "glm-5.3"
+}

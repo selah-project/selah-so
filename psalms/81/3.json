@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Qaada hees (qalab la raac), ku dhawaada dambiirka, kannuunka (harp) macaanka isla markaaba nebelka (lyre).",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Qaada"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "hees (qalab la raac)"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ku dhawaada"
+    },
+    {
+      "surface": "תף",
+      "gloss": "dambiirka"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kannuunka (harp)"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "macaanka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isla markaaba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebelka (lyre)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:42.885277083Z",
+  "model": "glm-5.3"
+}

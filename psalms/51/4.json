@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Si dhan i maydh xaggii dembigayda, i oo nadiifi xaggii dembigayga.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "si dhan"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "i maydh"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "xaggii dembigayda"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "i oo nadiifi xaggii dembigayga"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "i nadiifi"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.902713137Z",
+  "model": "glm-5.3"
+}

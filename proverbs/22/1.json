@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Magac ⟨waa⟩ la doortaa kaga fiican maal badan; raxmad wanaagsan kaga fiican kumsiga iyo dahabta.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "waa la doortaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magac"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "maal"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "kumsiga"
+    },
+    {
+      "surface": "וּמִזָּהָב",
+      "gloss": "iyo dahabta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "raxmad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:44.872043171Z",
+  "model": "glm-5.3"
+}

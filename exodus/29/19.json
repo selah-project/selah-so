@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaad qaadaysaa ⟨את⟩ wanka labaad, waxaana saari doonaan Aharon iyo wiilashiisu ⟨את⟩ gacmohooda kor madaxa wanka.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "qaadaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanka labaad"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "saari doonaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmohooda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:34.078841796Z",
+  "model": "glm-5.3"
+}

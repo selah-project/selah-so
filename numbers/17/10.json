@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Kaca ka mid ah jamacaan tani, waxaanan baabbi'in ⟨את⟩ digtoon daqiiqaddii. Markaasay dhigaan dheeraad wajiyadoodii.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Kaca"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamacaan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tani"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "waxaanan baabbi'in"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "digtoon"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "daqiiqaddii"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Markaasay dhigaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dheeraad"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wajiyadoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:23.249220840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Intee ay weyn yihiin shqooykaaga, Yahweh; aad bay dheer yihiin fikirradaada.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Intee"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ay weyn yihiin"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shqooykaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "bay dheer yihiin"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "fikirradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:13.422703905Z",
+  "model": "glm-5.3"
+}

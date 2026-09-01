@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Laakiin aniguna qalbigii waa ii leeyahay sidii idinkoo kale; idinka ma aanan ka hoos dhicin; oo ⟨את⟩ yaa aan jirin kuwaan la mid ah?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Laakiin aniguna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbigii"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sidii idinkoo kale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ka hoos dhicin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yaa aan jirin kuwaan la mid ah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "la mid ah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:39.070522730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Waayo, bal eeg, boqoradii way isku yimaadeen, waxay wada tageen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "way isku yimaadeen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "waxay tageen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:32.166310491Z",
+  "model": "glm-5.3"
+}

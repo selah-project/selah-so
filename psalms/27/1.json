@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Kii Daa'uud: Yahweh ⟨waa⟩ iftiinkayga iyo badbaadayda — yaa baan ka cabsaa? Yahweh ⟨waa⟩ xooggii noloshayda — yaa baan ka gargabtaa?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kii Daa'uud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "iftiinkayga"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "iyo badbaadayda"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "yaa baan ka"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "cabsaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "xooggii"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshayda"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "yaa baan ka"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "gargabtaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:13.345150930Z",
+  "model": "glm-5.3"
+}

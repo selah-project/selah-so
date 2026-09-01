@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Waa ka timid, wuxuu u dhaqaajiyay dhegta ⟨isa⟩ ilay, iyo maalmahayga waan u dhawaaqayaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa ka timid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "wuxuu u dhaqaajiyay"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "dhegta ⟨isa⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "iyo maalmahayga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan u dhawaaqayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.923397124Z",
+  "model": "glm-5.3"
+}

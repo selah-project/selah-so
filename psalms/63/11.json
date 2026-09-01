@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Gacmaha seef bay noqon doonaan; qayb shabeelleyda bay ahaan doonaan.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "bay noqon doonaan (lagu shubi doonaa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "qayb"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "shabeelleyda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay ahaan doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:14.506416747Z",
+  "model": "glm-5.3"
+}

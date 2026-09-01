@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Adonay Yahweh, adigu waad bilowday inaad adeeggaaga tusiso ⟨את⟩ weynaanistaada iyo ⟨את⟩ gacantaada adag; illeen kee baa El ah samada iyo dhulkaba oo sameeya sida camashaada iyo geesinimadaada?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "waad bilowday"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "inaad tusiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeeggaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adeeggaaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weynaanistaada"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "weynaanistaada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "illeen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kee baa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "iyo dhulkaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "sida camashaada"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "iyo geesinimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:00:17.115547835Z",
+  "model": "glm-5.3"
+}

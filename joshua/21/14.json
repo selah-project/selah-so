@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo ⟨את⟩ Yattiir iyo ⟨את⟩ beerkeeda, iyo ⟨את⟩ Eshtemoa iyo ⟨את⟩ beerkeeda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yattiir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattiir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:53.481058386Z",
+  "model": "glm-5.3"
+}

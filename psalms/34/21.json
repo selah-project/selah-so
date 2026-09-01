@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Wuxuu ilaaliyaa dhamaan lafihiisa, mid ka mid ahna lama jebiyo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "wuu ilaaliyaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "lafihiisa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid ka mid ah"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "lama jebiyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:31.347754669Z",
+  "model": "glm-5.3"
+}

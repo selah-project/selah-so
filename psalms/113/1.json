@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Ammaaniya Yah! Ammaaniya, addoonnimada Yahweh, ammaaniya ⟨את⟩ magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonnimada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ammaaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:43.230286133Z",
+  "model": "glm-5.3"
+}

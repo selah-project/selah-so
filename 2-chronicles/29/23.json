@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxay horta geeyeen ⟨את⟩ riyo labka allabari denbiga boqorka iyo shirka hortood, waxayna gacmahooda ku dhigteen.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "waxay horta geeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riyo labka allabari denbiga"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "riyo labka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "allabari denbiga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "iyo shirka"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "waxayna ku dhigteen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmahooda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku dhigteen kor"
+    }
+  ],
+  "timestamp": "2026-09-01T06:45:47.796294039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Markaasaa Israa'iil oo dhan waxay u soo aruursantay Daa'uud Khebron, iyagoo leh: Bal eeg, lafahaaga iyo jidhkaaga annagaa ahayn.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "waxay u soo aruursantay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (xaggiisa)"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "lafahaaga"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "iyo jidhkaaga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annagaa ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T06:26:36.485264452Z",
+  "model": "glm-5.3"
+}

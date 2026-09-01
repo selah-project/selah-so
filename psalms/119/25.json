@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Nafahay bay ku dhegtay dhulka wasakhda ah; i noolee sida hadalkaagii.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "bay ku dhegtay"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "dhulka wasakhda ah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nafahay"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "i noolee"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sida hadalkaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:52.969711270Z",
+  "model": "glm-5.3"
+}

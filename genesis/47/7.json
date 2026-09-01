@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Yoseefna wuxuu keenay ⟨את⟩ Yaaqob aabihiis, wuxuuna hor taagiay Farcoon; Yaaqobna wuxuu barakaystay ⟨את⟩ Farcoon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu keenay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaaqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihiis"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "wuxuuna hor taagiay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuuna barakaystay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farcoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:21.728122262Z",
+  "model": "glm-5.3"
+}

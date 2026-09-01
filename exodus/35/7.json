@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "iyo haruud wanabaa la midabay cas, iyo haruud tachash, iyo geedo shitti.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "iyo haruud"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "wanabaa"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "la midabay cas"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "iyo haruud"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "iyo geedo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitti"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:27.652750644Z",
+  "model": "glm-5.3"
+}

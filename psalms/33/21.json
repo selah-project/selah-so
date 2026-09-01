@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waayo, xagga ⟨gaabiga⟩ wuxuu ku farxayaa qalbigeenna, waayo, Magaca quduska ah ee ⟨gaabiga⟩ ayaannu kuu horeynay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "xagga ⟨gaabiga⟩"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuxuu ku farxayaa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "qalbigeenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Magaca... ee"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduska ah ee"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "ayaannu kuu horeynay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:01:00.208378650Z",
+  "model": "glm-5.3"
+}

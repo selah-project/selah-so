@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo ⟨את⟩ wankii wuxuu u kala goyey goyadiisii, iyo Muuse wuxuu gubiyeey ⟨את⟩ madaxa iyo ⟨את⟩ goyaha iyo ⟨את⟩ baruurta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wankii"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wankii"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "wuxuu u kala goyey"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "goyadiisii"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wuxuu gubiyeey (uruur)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "goyaha"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "goyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "baruurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:46.049096449Z",
+  "model": "glm-5.3"
+}

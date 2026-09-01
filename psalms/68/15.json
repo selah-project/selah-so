@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Markii Shadday uu berrinayay boqorrada ⟨dhexdeeda⟩, wuu barafaysaa ⟨sida barafga⟩ Buurta Zalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Markii uu berrinayay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "wuu barafaysaa"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Buurta Zalmon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:32.346612540Z",
+  "model": "glm-5.3"
+}

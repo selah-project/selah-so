@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Bal eeg! Maalmo baa imanaysa, sheegayaasha Yahweh, oo aniga waan gorgortamin doonaa ⟨את⟩ reer Israa'iil iyo ⟨את⟩ reer Yahuudah ballan cusub.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg!"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "baa imanaysa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sheegayaasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "oo waan gorgortamin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reer Israa'iil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "reer Yahuudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "cusub"
+    }
+  ],
+  "timestamp": "2026-09-01T04:13:58.959284771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay yidhaahdeen: Ma na xasuuqaysid, mana na dhibaysid, mana waxba ka qaadatay gacanta ninna.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay yidhaahdeen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "na xasuuqaysid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "na dhibaysid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "waxba ka qaadatay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waxba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:27.318064718Z",
+  "model": "glm-5.3"
+}

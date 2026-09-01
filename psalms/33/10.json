@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Yahweh wuu jebiyay talada quruunaha, wuu baajiyay qorsheyaasha shacabka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "wuu jebiyay"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "talada"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruunaha"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "wuu baajiyay"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "qorsheyaasha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:44.802640745Z",
+  "model": "glm-5.3"
+}

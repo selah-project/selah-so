@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo nafadaydu way ku faraxaysaa Yahweh, way ku dhaawacsantaa badbaadiintiisa.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "oo nafadaydu"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "way ku faraxaysaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh (ku)"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "way ku dhaawacsantaa"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "badbaadiintiisa (ku)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.440659006Z",
+  "model": "glm-5.3"
+}

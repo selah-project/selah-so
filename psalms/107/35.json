@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Wuxuu dhigaa midbaan inuu noqdo agmo biyo, iyo dhul engeg ilaha biyaha.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Wuxuu dhigaa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "midbaan"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "inuu noqdo agmo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhul"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "engeg"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:09.401467361Z",
+  "model": "glm-5.3"
+}

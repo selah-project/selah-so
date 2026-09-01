@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Ha siin duuga nafda duraajadaada; noolaha faqiirradaada ha iloobin weligeed.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siin"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "duuga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafda"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "duraajadaada"
+    },
+    {
+      "surface": "חית",
+      "gloss": "noolaha"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "faqiirradaada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "iloobin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligead"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:32.538639804Z",
+  "model": "glm-5.3"
+}

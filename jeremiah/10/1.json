@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Maqla ⟨את⟩ eraygaas oo Yahweh idinku dhigay, guriga Israa'iil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eraygaas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eraygaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:13.738202924Z",
+  "model": "glm-5.3"
+}

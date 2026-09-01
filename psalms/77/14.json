@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Elohim, waddadaada ⟨waa⟩ qudsi; yaa El weyn la mid ah Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qudsi (ku)"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "waddadaada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "la mid ah Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:50.929546783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "I naxariiso, Elohim, i naxariiso, waayo, adiga ayaa naftaydu ku maqan tahay, hoosteeda baalashaaga ayaan ku maqnaan doonaa, intuu dhaawacu ka gudbo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "I naxariiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "i naxariiso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga ayaa"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ku maqan tahay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baalashaaga"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ku maqnaan doonaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "intuu"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ka gudbo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dhaawacu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.831538481Z",
+  "model": "glm-5.3"
+}

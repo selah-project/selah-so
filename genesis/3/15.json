@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaan dhigi doonaa colnimo adiga iyo haweenayda dhexdooda, iyo zuracaaga iyo zuraceeda dhexdooda; isagu wuu ku dhuftaa madaxa, adiguna waxaad ku dhuftaan dhiibka.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "colnimo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "waxaan dhigi doonaa"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "haweenayda"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuracaaga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "zuraceeda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "wuu ku dhuftaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "waxaad ku dhuftaan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dhiibka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:43.821117600Z",
+  "model": "glm-5.3"
+}

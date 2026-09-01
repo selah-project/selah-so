@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaana kuu sameyn doonaa ⟨את⟩ waxa aan waligin sameyn, iyo ⟨את⟩ waxa aan saddexaan sidaas oo kale u samayn doonin, sababtoo ah dhammaan nijisyadaada.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "waxaana sameyn doonaa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan waligin sameyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan waligin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sameyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa aan u samayn doonin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "u samayn doonin"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sidaas oo kale"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "nijisyadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:25:33.367172114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sidaas darteed maalintaad baabbi'aysaa, oo nebiguna wuu baabbi'ayaa adiga oo la jira habeenkii, oo aniga waan baabbinayaa hooyadaa.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "waad baabbi'aysaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "wuu baabbi'ayaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo… -ka"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nebiguna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adiga oo la jira"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "waan baabbinayaa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:12.895541218Z",
+  "model": "glm-5.3"
+}

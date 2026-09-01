@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Waayo, kuwa ⟨waxa⟩ ururiyay bay cuni doonaan, waxayna ammaanayaan ⟨את⟩ Yahweh, kuwa aruursanaba waxay cabbayaan barxaddaha quduuska ah ee aniga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "kuwa ururiyay"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bay cuni doonaan"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "waxayna ammaanayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "kuwa aruursanaba"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "waxay cabbayaan"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "barxaddaha"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "quduuska ah ee aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:14.253985025Z",
+  "model": "glm-5.3"
+}

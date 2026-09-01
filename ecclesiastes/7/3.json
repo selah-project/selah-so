@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Murug wanaagsan bay ka tahay qosolka; waayo, xumaan weji qalbi bay wanaajisaa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "murug"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ka qosolka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "weji"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "bay wanaajisaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:27.433865386Z",
+  "model": "glm-5.3"
+}

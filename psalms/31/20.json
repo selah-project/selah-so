@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Intee in le'eg ayaa wanaaggaaga weyn yahay, oo aad u qarisay kuwa cabsida kaga; oo aad u sameysay kuwa kuu qasan, hortooda wiilasha aadamiga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Intee in le'eg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wanaaggaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "aad u qarisay"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kuwa cabsida kaga"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "aad u sameysay"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "kuwa kuu qasan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:40.327139858Z",
+  "model": "glm-5.3"
+}

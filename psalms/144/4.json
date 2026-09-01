@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Aadanaha wax la moodo ⟨wax aan waxba ahayn⟩ ayuu la mid yahay; maalmahiisu waa sida hooska (korka) ka gudbayo.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Aadanaha"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "wax aan waxba ahayn"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "wax la moodo ayuu la mid yahay"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "maalmahiisu"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sida hooska"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "(korka) ka gudbayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:00.617608528Z",
+  "model": "glm-5.3"
+}

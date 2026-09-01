@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxay qabsadeen ⟨את⟩ naagaha ku dhex jiray, ka yar ilaa ka weyn; ninna ma ay dilin, waxayna soo saareen oo waxay tegay jidadkooda.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "waxay qabsadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagaha"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naagaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa ku dhex jiray"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gudaheeda"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ka yar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ka weyn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ay dilin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "waxayna soo saareen (dhoofiyeen)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oo waxay tegay"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "jidadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:14.449696559Z",
+  "model": "glm-5.3"
+}

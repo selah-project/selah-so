@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ka noqda iga, dhammaan kuwa camalka ah ee xaaraanta; waayo, Yahweh wuu maqlay codkay ilmo-qaadkaygii.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Ka noqda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa camalka ah"
+    },
+    {
+      "surface": "און",
+      "gloss": "ee xaaraanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codkay"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ilmo-qaadkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:21.878688267Z",
+  "model": "glm-5.3"
+}

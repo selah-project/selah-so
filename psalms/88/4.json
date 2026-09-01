@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Noloshaydu waa lay dhergaday xumaano; naftaydu Sheool ayay gaartay",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "waa lay dhergaday"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "xumaano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Noloshaydu"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ay gaartay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:16.122485115Z",
+  "model": "glm-5.3"
+}

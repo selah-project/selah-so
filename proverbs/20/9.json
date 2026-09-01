@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yaa odhan karaa, Waa daahirshay wadhaygay, waana nadiifiyay dembigayga?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "odhan karaa"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "waa daahirshay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadhaygay"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "waana nadiifiyay"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "dembigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:46.369024727Z",
+  "model": "glm-5.3"
+}

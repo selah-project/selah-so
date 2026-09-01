@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Odaysha sare ahna waa la gaabsiiyay, waayo galmeeduhu (atiiqooyinku) waxay ka qaadan wax ka badan kuwan — ka odayasha hoose iyo ka kuwa dhexe ee dhismaha.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "odaysha sare ahna"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "sare"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "waa la gaabsiiyay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "waxay ka qaadan"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "galmeeduhu"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ka kuwan"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "ka odayasha hoose"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "iyo ka kuwa dhexe"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "dhismaha"
+    }
+  ],
+  "timestamp": "2026-09-01T04:40:44.374484402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo Abrham wuxuu dhul u dhacay wejigiisa, oo Elohim wuxuu la hadlay ⟨את⟩ isaga, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wuxuu dhul u dhacay"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrham"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wejigiisa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (laftiisa — אתו halkan waa 'la isaga', H854)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh:"
+    }
+  ],
+  "timestamp": "2026-09-01T08:51:19.107522233Z",
+  "model": "glm-5.3"
+}

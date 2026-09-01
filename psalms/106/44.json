@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Laakiin wuu arkay dhibatooda markuu maqalay ⟨את⟩ qaylooda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dhibatooda"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "markuu maqalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaylooda"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "qaylooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.595761008Z",
+  "model": "glm-5.3"
+}

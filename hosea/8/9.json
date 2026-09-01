@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waayo iyagu waxay Ashuur ku koreen; Efrayim waa faras duug ah oo keli u dhaqaa; Efrayim waxay kiraysatay jacaylo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "waxay ku koreen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "faras duug ah"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "keli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "waxay kiraysatay"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "jacaylo"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:27.551200421Z",
+  "model": "glm-5.3"
+}

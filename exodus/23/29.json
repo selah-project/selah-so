@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 23:29",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ma danbiinayo oo aan ka saarin ⟨waxay⟩ waajahan hortaada sanad keliya, si aanu dhulku noqon meel la waayay, oo naasleyda beeraha aan kugu badnaadin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "aan ka saarin (waxay)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "waajahan hortaada"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aanu (aan)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "noqon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "meel la waayay"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "oo ku badnaadin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kugu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "naasleyda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:00.830915665Z",
+  "model": "glm-5.3"
+}

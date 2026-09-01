@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan ku mahadin doonaa qalbi toosan, markaan barto xukunkyada sinnimadaada.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "waxaan ku mahadin doonaa"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "qalbi toosan (qalbi toosan)"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "markaan barto"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunkyada"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sinnimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.064790850Z",
+  "model": "glm-5.3"
+}

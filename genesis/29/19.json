@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Laabaanna wuxuu yidhi: Waa khayr inaan ⟨את⟩ siyo adiga, aan siyo ⟨את⟩ nin kale; i la joog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laabaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waa khayr"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "inaan siyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siyo adiga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "aan siyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nin kale"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "i la joog"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ilaa iyo aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:44.481705238Z",
+  "model": "glm-5.3"
+}

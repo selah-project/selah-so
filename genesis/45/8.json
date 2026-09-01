@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Hadda haye, idinkuma layn soo dirin ⟨את⟩ halkan, laakiin Elohim baa, wuxuuna i dhigay aabbe u gaar ah Farcoon, iyo sayid dahabkiisii oo dhan, iyo taliye dhammaan dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda haye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha inaad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "soo dirdeen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "i (aniga)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim baa"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "wuxuuna i dhigay"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "aabbe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farcoon u gaar ah"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "iyo sayid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dahabkiisii"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "iyo taliye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:06.426460521Z",
+  "model": "glm-5.3"
+}

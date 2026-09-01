@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuu yidhi Samuuel dadkii: Yahweh — kan sameeyay ⟨את⟩ Muuse iyo ⟨את⟩ Aharon, iyo kan kor keenay ⟨את⟩ aabbayaashiin dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo kan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kor keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbayaashiin"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:32.868484278Z",
+  "model": "glm-5.3"
+}

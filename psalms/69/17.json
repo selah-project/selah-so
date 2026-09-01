@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Ii jawaab Yahweh, waayo, khesedkaagui wanaagsan yahay; sida badarka raxmadaada ⟨u⟩ gur ilaaho.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Ii jawaab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagui"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sida badarka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "raxmadaada"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "gur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ilaaho"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:20.629696953Z",
+  "model": "glm-5.3"
+}

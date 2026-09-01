@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Walaalihiisna way xumeeyeen, aabihiisna wuu ilaaliyay ⟨את⟩ hadalka.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "way xumeeyeen"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiisna"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "aabihiisna"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wuu ilaaliyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hadalka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:08.200540191Z",
+  "model": "glm-5.3"
+}

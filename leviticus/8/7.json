@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu dul saaray ⟨את⟩ shaashkii (ha-ketonet), wuxuuna ku xiray suunkii (avnet), wuxuuna xirtay ⟨את⟩ go'weynihii (me'il), wuxuuna dul saaray ⟨את⟩ efodkii, wuxuuna ku xiray duubkii efodka (cheshev), wuxuuna ku adkeeyay isaga.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu dul saaray"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaashkii"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "shaashkii"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "wuxuuna ku xiray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "suunkii"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "suunkii"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "wuxuuna xirtay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "go'weynihii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go'weynihii"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "go'weynihii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dul saaray"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodkii"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodkii"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "wuxuuna ku xiray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "duubkii efodka"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "duubkii"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodka"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "wuxuuna ku adkeeyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:43.556336273Z",
+  "model": "glm-5.3"
+}

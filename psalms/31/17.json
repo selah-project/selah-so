@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Wajigaaga ha ifiyo ⟨את⟩ adoonkaaga; i badbaadi khesedkaaga.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "ha ifiyo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adoonkaaga"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "khesedkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:40.321343441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Shekhemna wuxuu Chamor aabbihiis ku yidhi: Ii qaad ⟨את⟩ gabadhan yar si ay noqoto xaas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhemna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "anoo leh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ii qaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhan yar"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "gabadhan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yar"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xaas"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:37.616295890Z",
+  "model": "glm-5.3"
+}

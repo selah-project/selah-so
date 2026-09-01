@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Maax ayaa la cuni doonaa toddobadda maalmood; khamiig ah laguma arki doono agtaada, chamiig-na laguma arki doono agtaada dhammaan xadkaaga.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Maax"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la cuni doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toddobadda maalmood"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddobadda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lagma arki doono"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "laguma arki doono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "agtaada"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "khamiig ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lagma arki doono"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "laguma arki doono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "agtaada"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "chamiig-na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "xadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:41.280256324Z",
+  "model": "glm-5.3"
+}

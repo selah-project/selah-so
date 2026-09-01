@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Yahweh, dhibta kuugu soo noqdeen, shirqool dhaheen; cashuurkaagu buu korkooda ahaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "kuugu soo noqdeen"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "dhaheen"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "shirqool"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "cashuurkaagu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "korkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:10.019101006Z",
+  "model": "glm-5.3"
+}

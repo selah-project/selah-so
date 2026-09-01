@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Jidadkayga iyo seexashadaydaba waad baadhisey, dhaqankayga oo dhan waad ku xidhiidhay.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "jidadkayga"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "iyo seexashadaydaba"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "waad baadhisey"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dhaqankayga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "waad ku xidhiidhay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:23.704411533Z",
+  "model": "glm-5.3"
+}

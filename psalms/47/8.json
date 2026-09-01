@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Waayo, boqorka dhulka oo dhan waa Elohim — gabaca si fiican loo fahmo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gabaca"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "si fiican loo fahmo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:44.021720201Z",
+  "model": "glm-5.3"
+}

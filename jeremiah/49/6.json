@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Laakiin ka dib waxaan celinayaa ⟨את⟩ jigitaanka wiilasha Caamoon, waa Oracle-ka Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Laakiin ka dib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waxaan celinayaa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "waxaan celinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jigitaanka wiilasha Caamoon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "jigitaanka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Caamoon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle-ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:21:05.184169585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Adigu magangal ⟨waad⟩ tahay ilay; waad ila ilaalin xadhigta; waad ii wareegi heesaha badbaado. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "magangal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "xadhgista"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "waad ila ilaalin"
+    },
+    {
+      "surface": "רני",
+      "gloss": "heesaha"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "waad ii wareegi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:25.065229509Z",
+  "model": "glm-5.3"
+}

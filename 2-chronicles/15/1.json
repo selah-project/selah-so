@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo ruuxii Elohim waxay ku dul timaadday Azaryahu ina Oded.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Oo Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Oded"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:54.191768555Z",
+  "model": "glm-5.3"
+}

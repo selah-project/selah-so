@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Markaa faqrigaagu wuxuu imaanayaa sida socdaale, iyo baahidaadu sida nin gaashaan qatan.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Markaa wuxuu imaanayaa"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "sida socdaale"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "faqrigaagu"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "iyo baahidaadu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sida nin"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaan qatan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:52.451474009Z",
+  "model": "glm-5.3"
+}

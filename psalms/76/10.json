@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Markii Elohim uu kacay xukun (mishpaat), inuu badbaadiyo dhammaan kuwa dulqaadka ah ee dhulka. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Markii uu kacay"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "xukun (mishpaat)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "inuu badbaadiyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "kuwa dulqaadka ah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:30.428593073Z",
+  "model": "glm-5.3"
+}

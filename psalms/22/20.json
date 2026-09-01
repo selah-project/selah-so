@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Adiguna, Yahweh, ha meel dheerayn; xooggayow, degdeg u geli ⟨i⟩ caawistaada.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "meel dheerayn"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "xooggayow"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "i caawista"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "degdeg u geli"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:21.515140837Z",
+  "model": "glm-5.3"
+}

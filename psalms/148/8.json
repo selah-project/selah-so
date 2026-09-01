@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Dab iyo baraf-daadin, baraf dhulka iyo duufaan wareeg; waxay sameeyaan eraygiisa.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "iyo baraf-daadin"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "baraf dhulka"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "iyo duufaan wareeg"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "neef"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dabayl adag"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "eraygiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:39.232777639Z",
+  "model": "glm-5.3"
+}

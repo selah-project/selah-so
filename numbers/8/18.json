@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaana aan qaatay ⟨את⟩ Leviyiinta beddelka kulli curur ee wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Waxaana aan qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviyiinta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "beddelka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "curur"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:37.030600843Z",
+  "model": "glm-5.3"
+}

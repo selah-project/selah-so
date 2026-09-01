@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yahwehna wuxuu afka Bilam ku dhigay erey, wuxuuna yidhi: Ku noqo Balak, oo sidan buulahayd.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ku noqo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "oo sidan"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "buulahayd"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:34.966698135Z",
+  "model": "glm-5.3"
+}

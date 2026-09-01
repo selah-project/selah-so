@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "⟨Kan⟩ samada dulka ku daboolaya, ⟨kan⟩ dhulka u diyaarinaya roob, ⟨kan⟩ buuraha ka soo baxsiinaya caws.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "⟨kan⟩ ku daboolaya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "dulal"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "⟨kan⟩ u diyaarinaya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "roob"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "⟨kan⟩ ka soo baxsiinaya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "caws"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:41.290394430Z",
+  "model": "glm-5.3"
+}

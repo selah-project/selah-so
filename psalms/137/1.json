@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Wabiyootta Babel ah ee dushiisa, halkaas baynu fadhinnay; oo sidii kale baynu oollay markaynu xusnay ⟨את⟩ Tsiyoon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dushiisa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "wabiyootta"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "fadhinnay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidii kale"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "oollay"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "markaynu xusnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyoon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:32.377705881Z",
+  "model": "glm-5.3"
+}

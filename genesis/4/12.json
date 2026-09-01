@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaad beerayso ⟨את⟩ carrada, mar dambe ma siinayso xooggeeda; mid wareersan oo qaxooti ah baad noqonaysaa dhulkii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Marka(aad)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "aad beerayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carrada"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "carrada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mar dambe (siin)"
+    },
+    {
+      "surface": "תת",
+      "gloss": "siinayso"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "xooggeeda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mid wareersan"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "oo qaxooti ah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "baad noqonaysaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:16.181844347Z",
+  "model": "glm-5.3"
+}

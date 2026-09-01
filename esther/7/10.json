@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Markayasa waxay jiha jiha ku qaddeen ⟨את⟩ Haman geedka uu u diyaariyay Mordekay; xanaaqii boqorkuna wuu degganayay.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "waxay jiha jiha ku qaddeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasi oo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "uu u diyaariyay"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "xanaaqii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkuna"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "wuu degganayay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:07.739682235Z",
+  "model": "glm-5.3"
+}

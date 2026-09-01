@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Halkaa bay aabayaash qabureen ⟨את⟩ Ibraahim iyo ⟨את⟩ Saaraah naagtiisii; halkaa bay qabureen ⟨את⟩ Isxaaq iyo ⟨את⟩ Ribqa naagtiisii; halkaana waan qabusay ⟨את⟩ Leexa.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bay qabureen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Saaraah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaraah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagtiisii"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bay qabureen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isxaaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ribqa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribqa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagtiisii"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "halkaana"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "waan qabusay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leexa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leexa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:42.190485099Z",
+  "model": "glm-5.3"
+}

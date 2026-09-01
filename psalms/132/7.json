@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Aynaan galaynaa meelashiisii waaweyn, waana sujuudnaa hor ta glyaha cagihiisa.",
+  "tokens": [
+    {
+      "surface": "נָב֥וֹאָה",
+      "gloss": "Aynaan galaynaa"
+    },
+    {
+      "surface": "לְמִשְׁכְּנוֹתָ֑יו",
+      "gloss": "meelashiisii waaweyn (la qabsiisyadiisa)"
+    },
+    {
+      "surface": "נִ֝שְׁתַּחֲוֶ֗ה",
+      "gloss": "waana sujuudnaa"
+    },
+    {
+      "surface": "לַהֲדֹ֥ם",
+      "gloss": "hor ta glyaha (lahdoomka)"
+    },
+    {
+      "surface": "רַגְלָֽיו",
+      "gloss": "cagihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:41.853409051Z",
+  "model": "glm-5.3"
+}

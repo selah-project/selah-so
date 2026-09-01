@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Bal ⟨maalanta⟩, bal way soo dhacaysaa; waqtigii wuu baxay, ulkii wuu ubax baxay, isla weyniinnu wuu bararay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalanta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "באה",
+      "gloss": "way soo dhacaysaa"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "wuu baxay"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "wuu ubax baxay"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ulkii"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "wuu bararay"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "isla weyniinnu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:24:58.717114336Z",
+  "model": "glm-5.3"
+}

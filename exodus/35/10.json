@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo qof kastaa oo idinka mid ah oo qalbiga xigmad leh ha yimaado, oo ha sameeyo waxa kasta oo Yahweh amray",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "qof kastaa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xigmad leh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinka mid ah oo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ha yimaado"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "oo ha sameeyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:18.004710427Z",
+  "model": "glm-5.3"
+}

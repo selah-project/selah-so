@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Waxaan doondoonshay ⟨את⟩ Yahweh, oo wuu i jawaabay, oo cabsadooyinkayga oo dhan wuu ka i badbaadinayay.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "waxaan doondoonshay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "oo wuu i jawaabay"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "oo ... oo dhan"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "cabsadooyinkayga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wuu ka i badbaadinayay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:07.879833466Z",
+  "model": "glm-5.3"
+}

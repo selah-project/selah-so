@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxay soo dhowaanayeen kuwa raaca sharru-talo; toraataada way ka fogeen.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "soo dhowaanayeen"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kuwa raaca"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "sharru-talo"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "toraataada"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "way ka fogeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:21.210991805Z",
+  "model": "glm-5.3"
+}

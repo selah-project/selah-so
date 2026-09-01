@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Waan ku mahadinayaa, waayo si cabsi leh iyo si la yaab leh ayaa lay sameeyay; shuqullashaadu waa la yaab leh, oo nafadaydu taqaan taasi si aad ah.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Waan ku mahadinayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "(saas daraaddiis)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "si cabsi leh"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "lay kala-soocay"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "la yaab leh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqullashaadu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "oo nafadaydu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "taqaan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:21.730210280Z",
+  "model": "glm-5.3"
+}

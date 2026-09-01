@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waana taaggiyay ⟨את⟩ axdigayga ⟨את⟩ iyagoo la jir, in aan siiyo ⟨את⟩ dhulka Kenaan, ⟨את⟩ dhulka ay ku soo juureen, ay ayan ku deggen ahaayeen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "waana"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "waan taaggiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axdigayga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "axdigayga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyagoo la jir"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "in aan siiyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka ay ku soo juureen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ay ku soo juureen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ku deggen ahaayeen"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:22.679637572Z",
+  "model": "glm-5.3"
+}

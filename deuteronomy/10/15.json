@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Laakiin waxaa keliya Yahweh ku qancay aabayaalkaaga inuu jeclaado ⟨את⟩ iyaga, wuxuuna ka doortay durriyadooda kadib — idinka shacabka oo dhan ka mid ah, sidii maanta ⟨tan⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Laakiin waxaa keliya"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "aabayaalkaaga"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ku qancay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "inuu jeclaado"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "aabayaalkaaga"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "wuxuuna ka doortay"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "durriyadooda"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka mid ah oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sidii maanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨tan⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:08.625997494Z",
+  "model": "glm-5.3"
+}

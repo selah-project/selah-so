@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Toban amaah dhererka laashidda, iyo hal amaah iyo barkeed baahidda laashida ⟨t→ta⟩ midda.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Toban"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dhererka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laashidda"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "iyo hal amaah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo barkeed"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amaah"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "baahidda"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laashida"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:23.757826836Z",
+  "model": "glm-5.3"
+}

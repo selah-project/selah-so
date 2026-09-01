@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxaan ku odhanayaa El, dhebigayga: Maxaad ii illoobtay? Maxaad u socdaa qadow (murugo) cadaadiska cadowga?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Waxaan ku odhanayaa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dhebigayga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ii illoobtay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "u socdaa qadow"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "socdaa"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "cadaadiska"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:51.126447759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hadda Yahweh, iigi (naftayda) ⟨את⟩ naftayda ii qaad, waayo geeridaydii iigu wanaagsan tahay nolaadaydii.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ii qaad"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftayda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "geeridaydii"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "nolaadaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:10.119131686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Ha qarin wajjigaaga iiga, ha leebin ciildarro dartee addoonkaaga; adigu gargaar baad ahayd; ha i-tuurin oo ha i-daalin, Elohim-yada badbaadaydahay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajjigaaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תט",
+      "gloss": "leebin"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ciildarro dartee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ahayd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "i-tuurin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "i-daalin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-yada"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadaydahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.256260552Z",
+  "model": "glm-5.3"
+}

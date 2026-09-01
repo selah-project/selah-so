@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Bal eeg, hadduu biyaha joojiyo way enaanayaan, hadduuse uu sii daayo way dhulka gedeen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "joojiyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "way enaanayaan"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "uu sii daayo"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "way gedeen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:26.113222074Z",
+  "model": "glm-5.3"
+}

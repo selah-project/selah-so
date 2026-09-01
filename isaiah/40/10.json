@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Bal eega, Adonay Yahweh xoog ku yimaanaysaa, oo gacantiisu xukunto ⟨⟨isu⟩⟩; bal eega, abaal-marankiisu ⟨את⟩ wuu la jiraa, oo shuqulkiiisu wuu hortiisa taal.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eega"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "xoog ku"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yimaanaysaa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "gacantiisu"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "xukunto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "abaal-marankiisu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "abaal-marankiisu (wuu la jiraa)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "shuqulkiiisu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa taal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:41.318948121Z",
+  "model": "glm-5.3"
+}

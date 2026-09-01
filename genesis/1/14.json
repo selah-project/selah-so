@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohim wuxuu yidhi: Iftinno ha noqdaan bannaanka samada, si loo kala saaro ⟨udhaxeeya⟩ maalinta iyo ⟨udhaxeeya⟩ habeenka, oo ay noqdaan calaamado, iyo mo'aado, iyo maalmado, iyo sanado.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "iftinno"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "si loo kala saaro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨udhaxeeya⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo ⟨udhaxeeya⟩"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "oo ay noqdaan"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "calaamado"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "iyo mo'aado"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "iyo maalmado"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "iyo sanado"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:01.677531080Z",
+  "model": "glm-5.3"
+}

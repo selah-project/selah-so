@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waayo adiga waxaad sameysay xukunkayga iyo murankayga; adiga waxaad fadhisay ⟨kursi⟩, gar-oogaha xuquuqda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waxaad sameysay"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunkayga"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "iyo murankayga"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "adiga waxaad fadhisay"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨kursi⟩"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "gar-oogaha"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "xuquuqda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:29.678925567Z",
+  "model": "glm-5.3"
+}

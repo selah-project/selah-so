@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Oo waagaas waxaad muuq-dhawaaq kugu sheegtay kuwa khesedkaaga ah, oo waxaad ku tidhi: Gacansi waan dhigay sarreeye, dhalin-yaro shacabka ka doortay waan kor u qaadaye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Oo waagaas"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "waxaad... sheegtay"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "muuq-dhawaaq kugu"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "kuwa khesedkaaga ah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "oo waxaad ku tidhi"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "waan dhigay"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Gacansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sarreeye ku"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sarreeye"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "waan kor u qaadaye"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "dhalin-yaro"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "shacabka ka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.471836511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Sidooda oo kale bay noqon kuwa sameeyay; iyo cid kastoo ku hagriday iyaga.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Sidooda oo kale"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay noqon"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "kuwa sameeyay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cid kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ku hagriday"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:11.049423091Z",
+  "model": "glm-5.3"
+}

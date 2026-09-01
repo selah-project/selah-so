@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Adiga oo ii muujiyay dhib badan iyo shar, waad noolayn, waad soo celin, iyo laga socod tiirarka dhulka hoose, waad i kor qaadaysaa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "adiga oo"
+    },
+    {
+      "surface": "הראיתני",
+      "gloss": "ii muujiyay"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo shar"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "waad soo celin"
+    },
+    {
+      "surface": "תחייני",
+      "gloss": "waad noolayn"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "iyo laga socod tiirarka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "waad soo celin"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "i kor qaadaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:09.421414165Z",
+  "model": "glm-5.3"
+}

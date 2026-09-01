@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Ii celi farxadda badbaadadaada, oo ruux nadxa ah i taagee.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "ii celi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "farxadda"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "badbaadadaada"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "oo ruux"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nadxa (bixin leh) ah"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "i taagee"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:40.864516232Z",
+  "model": "glm-5.3"
+}

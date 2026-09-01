@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Keliya ⟨את⟩ boqortooyada oo dhan ma goynaa; qabiil hal ah ayaan siin doonaa wiilkaaga, Daawud addoonkayga dartii, iyo Yeruushaalaym aan dooraday dartii.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqortooyada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "goynaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiil"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hal ah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "siin doonaa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonkayga"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "iyo dartii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "dooraday"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:41.333384525Z",
+  "model": "glm-5.3"
+}

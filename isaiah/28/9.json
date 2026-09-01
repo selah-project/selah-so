@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "⟨את⟩ yuu bara barasho, iyo ⟨את⟩ yuu fahansiiyo ogeysiis? Kuwa naaska laga gooyay, kuwa hoosta laga saaray.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuu (cunuga laga hadlayo)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yuu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "bara"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "barasho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "yuu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yuu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "fahansiiyo"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ogeysiis"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "Kuwa naaska laga gooyay"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "naaska"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "kuwa laga saaray"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "hoosta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:23.719220674Z",
+  "model": "glm-5.3"
+}

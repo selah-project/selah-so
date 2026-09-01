@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "si loo kala saaro waxa nijaasan ah iyo waxa nadiif ah, iyo xayawaanka la cuni karo iyo xayawaanka la cuni karin.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "si loo kala saaro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nijaasan ah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo waxa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "nadiif ah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "la cuni karo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "la cuni karin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:01.831677045Z",
+  "model": "glm-5.3"
+}

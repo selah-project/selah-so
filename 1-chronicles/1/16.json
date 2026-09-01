@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo ⟨את⟩ Arwadiga, iyo ⟨את⟩ Tsemariga, iyo ⟨את⟩ Chamatiga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Arwadiga"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tsemariga"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chamatiga"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatiga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:13.894272208Z",
+  "model": "glm-5.3"
+}

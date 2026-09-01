@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo wuxuu keenay ⟨את⟩ waxa aabihii quduusiyay iyo waxa isagu quduusiyay guriga Yahweh — lacag dheeci ah iyo dahab iyo wasmado.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Oo wuxuu keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aabihii quduusiyay"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "waxa quduusiyay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "iyo waxa isagu quduusiyay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag dheeci ah"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "iyo wasmado"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:53.788157757Z",
+  "model": "glm-5.3"
+}

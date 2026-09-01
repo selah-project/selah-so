@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Keliya waa Adigoo dhagaxigayga ah iyo badbaadaydii, iyo kor-eerinkeygii; aad baan u dhaqaaqi maayo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa Adigoo"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaxigayga"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "iyo badbaadaydii"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kor-eerinkeygii (qolcad kor fuud ah)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "aan u dhaqaaqi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "aad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.280691898Z",
+  "model": "glm-5.3"
+}

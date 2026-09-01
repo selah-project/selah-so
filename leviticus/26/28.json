@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan idinla socon doonaa xanaaqa diidmada (qeri), waxaanan ⟨את⟩ idinka ciqaabi doonaa anigoo kelii, toddoba jeer dembiyadiinna dartiid.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "waxaan idinla socon doonaa"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "idinla"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "xanaaqa"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "diidmada (qeri)"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "waxaanan ciqaabi doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anigoo kelii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba jeer"
+    },
+    {
+      "surface": "על",
+      "gloss": "dartiid"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dembiyadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:53.756057616Z",
+  "model": "glm-5.3"
+}

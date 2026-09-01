@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 9:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wiilkii wuxuu sii celiyay jawaabtiisii Shaa'uul, wuxuuna yidhi: Bal eeg, gacantayda waxaa laga helay rubuc shikel lacag; waana siin doonaa ninanka Elohim, inuu noo sheego ⟨את⟩ jiddkeenna.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wuxuu sii celiyay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Wiilkii"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "jawaabtiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "waxaa laga helay"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "rubuc"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shikel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waana siin doonaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ninanka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "inuu sheego"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiddkeenna"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "jiddkeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:34.716366334Z",
+  "model": "glm-5.3"
+}

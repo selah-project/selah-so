@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Khesed iyo run bay dulmi lagu daboolaa, cabsida Yahwehna waa ka gadho xumaanta.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "Khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo run"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "bay lagu daboolaa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dulmi"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "cabsidda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סור",
+      "gloss": "waa ka gadho"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "xumaanta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:25.411114006Z",
+  "model": "glm-5.3"
+}

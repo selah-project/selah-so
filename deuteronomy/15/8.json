@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waayo, fur fur ayaad u furaysaa ⟨את⟩ gacantaada isaga, oo deyn si weyn ayaad u dhihi doontaa, waxa uu ka baahan yahay, wixii uu ka maqan yahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fur fur"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ayaad u furaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantaada"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "oo deyn"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "si weyn ayaad u dhihi doontaa"
+    },
+    {
+      "surface": "די",
+      "gloss": "waxa uu ka baahan yahay"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ka maqan yahay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wixii"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "uu ka maqan yahay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:22.520106812Z",
+  "model": "glm-5.3"
+}

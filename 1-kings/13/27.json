@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuu wiilashiisii ku yidhi: Igu guri ⟨את⟩ dameerkii, oo ay u gureen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wuxuu ku yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inuu odho"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Igu guri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dameerkii"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "dameerkii"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "oo ay u gureen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:03.435000691Z",
+  "model": "glm-5.3"
+}

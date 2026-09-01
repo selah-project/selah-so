@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waana jeestay, waana degay buurta, waana dhigay ⟨את⟩ looxaha sanduuqa aan sameeyay; wayna joogaan ⟨halkaas⟩, sidii Yahweh ii amartay.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "waana jeestay"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "waana degay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "waana dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "looxaha"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "looxaha"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wayna joogaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ii amartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:43.848072043Z",
+  "model": "glm-5.3"
+}

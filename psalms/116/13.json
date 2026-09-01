@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Koobka badbaadada ayaan qaadayaa, oo Magaca Yahweh ayaan ku dhawaaqayaa.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "koobka"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ayaan qaadayaa"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "oo Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ayaan ku dhawaaqayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:27.651717672Z",
+  "model": "glm-5.3"
+}

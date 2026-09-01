@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Keliya meelaha sarreeya ahaa lama saarin; dadkuna weli waxay gudaan allabari iyo quryo meelaha sarreeya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "meelaha sarreeya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "saarin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "allabari bay gudaan"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "iyo quryo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "meelaha sarreeya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:30:09.582620148Z",
+  "model": "glm-5.3"
+}

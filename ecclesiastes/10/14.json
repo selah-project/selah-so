@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Nacasna wuxuu badiyaa hadal; aadaniguna ma yaqaan waxa dhici doona, waxaana ka dambeeya isaga, yaa u sheegi kara?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "nacasna"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "wuxuu badiyaa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadaniguna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "dhici doona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waxaana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dhici doono"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ka dambeeya isaga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "u sheegi kara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:39.253582698Z",
+  "model": "glm-5.3"
+}

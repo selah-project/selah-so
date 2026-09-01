@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Waxaan gar-waayaa (gar-qabaa) ⟨jidka⟩ qummaan; goormaad iga timaado? Waxaan ku socdaa qumbayad qalbigayga, gurigayga ⟨dhexdiisa⟩.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "waxaan gar-waayaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "qummaan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "iga timaado"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "waxaan ku socdaa"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "qumbayad"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gurigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:38.482351146Z",
+  "model": "glm-5.3"
+}

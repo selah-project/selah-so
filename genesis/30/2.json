@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yacquubna waxaa uu ka cadhooday Reesel, wuxuuna yidhi: Ma aniga baa ⟨Elohim⟩ ka ahaan, kan kaa diiday midhaha caloosha?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "waxaa uu ka cadhooday"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Reesel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ma... ka ahaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "kaa diiday"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaaga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "caloosha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:23.005095068Z",
+  "model": "glm-5.3"
+}

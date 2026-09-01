@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Sidaasaa Elohim uu qaatay ⟨את⟩ xoolaha aabbahaan, wuxuuna ii siiyay.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "qaatay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoolaha aabbahaan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "aabbahaan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:39.876317066Z",
+  "model": "glm-5.3"
+}

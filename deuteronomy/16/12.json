@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaad xasuusan doontaa inaad ahaan jiray addoon Mitsrayim; waxaad ilaalin doontaa oo waxaad samayn doontaa ⟨את⟩ sharcigyadan.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Waxaad xasuusan doontaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "addoon"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ahaan jiray"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ilaalin doontaa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "samayn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharcigyadan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sharcigyadan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(dan)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:26.713518844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 58:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Markaas waad dhawaan doontaa, oo Yahweh wuu ka jawaabi doonaa; waad qaylin doontaa, wuxuuna odhan doonaa: Waa aniga. Haddii aad ka dhex-tirtirto dhexdaada ul-marrinta (marrin), dhigista faraha iyo hadalka baadhilka ah.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaas"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "waxaad dhawaan doontaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "oo Yahweh"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "wuu ka jawaabi doonaa"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "waxaad qaylin doontaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna odhan doonaa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Waa aniga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "aad ka dhex-tirtirto"
+    },
+    {
+      "surface": "מתוכך",
+      "gloss": "dhexdaada"
+    },
+    {
+      "surface": "מוטה",
+      "gloss": "ul-marrinta (marrin)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dhigista"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "faraha"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "iyo hadalka"
+    },
+    {
+      "surface": "און",
+      "gloss": "baadhilka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:58:17.656858312Z",
+  "model": "glm-5.3"
+}

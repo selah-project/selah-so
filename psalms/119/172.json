@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ha qaado carrabkayga qaaddaarkaaga, waayo, amarradaada oo dhan waa ṣedeq ⟨waa⟩ caddaalad.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "Ha qaado"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "carrabkayga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "qaaddaarkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaada"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq ⟨waa⟩ caddaalad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:35.131862369Z",
+  "model": "glm-5.3"
+}

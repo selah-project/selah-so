@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo sida ay u cadaadishiin ⟨את⟩ dadka, sidaas bay u bataan oo sidaas bay u faaftaameen; waxayna naceen ilaa wejiga ilmaha Yisraa'eel.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Oo sida ay u"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "cadaadishiin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dadka (shacabka la cadaadishay)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bay u bataan"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "oo sidaas"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "bay u faaftaameen"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "waxayna naceen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ilaa wejiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:54.015036412Z",
+  "model": "glm-5.3"
+}

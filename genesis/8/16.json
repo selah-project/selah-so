@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ka bax doonnida — adiga iyo naagtaada iyo wiilashaada iyo dumarka wiilashaada ⟨את⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Ka bax"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "doonnida"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "iyo naagtaada"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "iyo wiilashaada"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "iyo dumarka"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaada"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga (la jir)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:20.645525047Z",
+  "model": "glm-5.3"
+}

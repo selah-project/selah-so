@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maalin buun- garaac iyo qaylo-dhulkan, ka dhan magaalooyinka la adkeesay iyo geesaha sare ee (dhismayaasha).",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "buun- garaac"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "iyo qaylo-dhulkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka dhan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "la adkeesay (la xabbisay)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ka dhan"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "geesaha sare"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "(dhismayaasha)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:00.054201036Z",
+  "model": "glm-5.3"
+}

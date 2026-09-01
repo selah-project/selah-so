@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Magaca quduuska ah ee Isaga ku faanaa; wanaagsanaada qalbiga kuwa doonaya Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ku faanaa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ah ee Isaga"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wanaagsanaada"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doonaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:27:14.944862783Z",
+  "model": "glm-5.3"
+}

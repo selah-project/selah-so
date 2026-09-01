@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxayse noqonaysaa haddii aysan ku rumeynin ayna maqalin codka calaamaddii koowaad, inay rumeeyaan codka calaamaddii dambe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waxayse noqonaysaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "rumeynin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayna"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "codka"
+    },
+    {
+      "surface": "האת",
+      "gloss": "calaamaddii"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "inay rumeeyaan"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "codka"
+    },
+    {
+      "surface": "האת",
+      "gloss": "calaamaddii"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:23.682913134Z",
+  "model": "glm-5.3"
+}

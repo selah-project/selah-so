@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ha degdegin inaad ka baxdo wejiisa, hana istaagin arrin xun, waayo wax kastoo uu doono wuxuu sameeyaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "degdegin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka baxdo wejiisa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "inaad baxdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "istaagin"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "arrin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "uu doono"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wuxuu sameeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:25.209461672Z",
+  "model": "glm-5.3"
+}

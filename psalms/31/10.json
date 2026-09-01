@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "I naxariiso, Yahweh, waayo, waan dhibaysanahay; indhahaygu wuu daalay murugo (iyo) nafadayda iyo calooshayba.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "I naxariiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhibaysanahay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "wuu daalay"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "murugo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadayda"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "iyo calooshayba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:17.531516096Z",
+  "model": "glm-5.3"
+}

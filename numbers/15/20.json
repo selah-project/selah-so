@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Bilowga daqiiqaddiinnii, rooti dhaqan ayaa qaadaysaan teruma; sida terumada goosta (beerxamarkeeda) saas ayaad u qaadaysaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "bilowga"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "daqiiqaddiinnii"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "rooti dhaqan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "qaadaysaan"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "sida terumada"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "goosta (beerxamarkeeda)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "u qaadaysaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rootiga (terumada)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:58:24.632811805Z",
+  "model": "glm-5.3"
+}

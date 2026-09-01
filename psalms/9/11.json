@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Kuwa garanaya magacaaga way kugu talaxli, maxaa yeelay adiguma dhaafin kuwa kuu raadaya, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "way kugu talaxli"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "kuwa garanaya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "adiguma dhaafin"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "kuwa kuu raadaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.417960585Z",
+  "model": "glm-5.3"
+}

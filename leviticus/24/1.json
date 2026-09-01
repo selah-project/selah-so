@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Yahweh wuxuu ka hadlay Muuse isagoo odhan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ka hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo odhan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:21.598765833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Gacantaada ku dhig isaga; xusuusow dagaalka; ha sii wadin.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "ku dhig"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "Gacantaada"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuusow"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "sii wadin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:20.419809608Z",
+  "model": "glm-5.3"
+}

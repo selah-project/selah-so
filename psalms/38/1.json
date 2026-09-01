@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Qasiido oo Dawiid laga soo qoray, si loo xasuusto.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Qasiido"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawiid laga soo qoray"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "si loo xasuusto"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:30.869651859Z",
+  "model": "glm-5.3"
+}

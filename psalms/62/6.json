@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Keliya ⟨u⟩ Elohim aamuso, nafday; waayo, Isagay ka timid rajaday.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim (u)"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "aamuso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Isaga (ka)"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "rajaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:46.348317455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuu keeni doonaa ⟨את⟩ dembi-dhaqigiisii ilaa Yahweh, ilaa gelitaanka khaymda kulanka, wanag dembi-dhaqi ah.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Wuxuu keeni doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembi-dhaqigiisii"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "dembi-dhaqigiisii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ilaa Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "gelitaanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "wanag"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dembi-dhaqi ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:27.118306979Z",
+  "model": "glm-5.3"
+}

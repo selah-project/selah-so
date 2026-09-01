@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wayna sii waxyeello u geystaan, weli way dambi galayeen, Elyoon la wareejiyeen ⟨⟩ aakaanka engeengaan",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "wayna sii waxyeello u geystaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "way dambi galayeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "la wareejiyeen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "aakaanka engeengaan"
+    }
+  ],
+  "timestamp": "2026-09-01T09:03:19.631981714Z",
+  "model": "glm-5.3"
+}

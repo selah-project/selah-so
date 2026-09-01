@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu kacay boqor cusub oo ku talagal Mitsrayim — kaasoo aan aqoon ⟨את⟩ Yoosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Wuxuu kacay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku talagal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:37.766743215Z",
+  "model": "glm-5.3"
+}

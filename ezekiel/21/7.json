@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Ilmo-aadam, u jeedsi wajigaaga Yeruushaalaym, oo ugu dhiirrigeli macbadaha, oo ku sii nebi-fari dhulka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "שים",
+      "gloss": "u jeedsi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "oo ugu dhiirrigeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "macbadaha"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "oo ku sii nebi-fari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T08:27:09.986204562Z",
+  "model": "glm-5.3"
+}

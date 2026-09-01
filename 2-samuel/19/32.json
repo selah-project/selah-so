@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo Barzillay — Gile'aadi ahaa — wuxuu ka soo degay Rogeliim, wuuna la dhaafay ⟨את⟩ boqorka Webiga Yarden si uu ugu dhaafo ⟨את⟩ Webiga.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Oo Barzillay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gile'aadi ahaa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wuxuu ka soo degay"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Rogeliim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wuuna la dhaafay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "si uu ugu dhaafo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Webiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:49.142817438Z",
+  "model": "glm-5.3"
+}

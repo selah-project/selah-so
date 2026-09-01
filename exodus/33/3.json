@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Dhul caan iyo malab ka socda; waayo, aanan kici doonin dhexdaada, waayo, shacab qoor-adag baad tihiin, si aan idiin baabi'in jidka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Dhul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ka socda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "caan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "iyo malab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kici doonin"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "dhexdaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacab"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qoor-adag"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "qoor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "baad tihiin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "idiin baabi'in"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:44.198162555Z",
+  "model": "glm-5.3"
+}

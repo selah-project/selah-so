@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Webi kastaa waa la kor-qaadayaa, buur iyo tebes kastaa waa la hoos-dhigayaa, oo meelaha qalloocan waa Cadaan toos, meelaha dhaadheerina waa bannaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kastaa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Webi (godka)"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "waa la kor-qaadayaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo kastaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buur"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "tebes"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "waa la hoos-dhigayaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo waa noqon"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "meelaha qalloocan"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "Cadaan toos"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "meelaha dhaadheerina"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "bannaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:41.024582056Z",
+  "model": "glm-5.3"
+}

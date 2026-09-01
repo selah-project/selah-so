@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaadna samaysaa dhar qodoos lagu sameeyay Aharon walaalka, ammaan dartii iyo qurux dartii.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaadna samaysaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodoos"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "lagu sameeyay Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalka"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ammaan dartii"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "iyo qurux dartii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:15.004337869Z",
+  "model": "glm-5.3"
+}

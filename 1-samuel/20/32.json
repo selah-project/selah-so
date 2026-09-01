@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yehonaana wuxuu ka jawaabay Shaa'uul aabbiis, wuxuuna ku yidhi: Maxay u dhimanayaa? Maxay sameeyay?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu ka jawaabay"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul aabbiis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbiis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxay u"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dhimanayaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:43.613362014Z",
+  "model": "glm-5.3"
+}

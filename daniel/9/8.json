@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahweh, anagaa leh wajiyada hoos-dhigista — boqorradayada, odayadayada iyo aabayaasheenna — ma aan kuu denbi galno.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anagaa leh"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "wajiyada hoos-dhigista"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wajiyada"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "boqorradayada"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "odayadayada"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "iyo aabayaasheenna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "aan denbi galno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T06:08:56.312119498Z",
+  "model": "glm-5.3"
+}

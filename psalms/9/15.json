@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Si aan u sheego dhamaan ammaantaada albaabada gabadha Tsiyon, waan ku farxayaa badbaadadaada.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si aan u"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "sheego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ammaantaada"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "waan ku farxayaa"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "badbaadadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:49.856622509Z",
+  "model": "glm-5.3"
+}

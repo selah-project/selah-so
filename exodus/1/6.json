@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuu dhintay Yoosef iyo walaalihiis oo dhan, iyo da'daas oo dhan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Wuu dhintay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "da'da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:37.766384061Z",
+  "model": "glm-5.3"
+}

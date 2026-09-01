@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Sharrigooda bay ku farxiyeen boqorka, oo beenahooda bay ku farxiyeen sayaashiya.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "sharrigooda"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bay ku farxiyeen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "oo beenahooda"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sayaashiya"
+    }
+  ],
+  "timestamp": "2026-09-01T07:25:47.894280726Z",
+  "model": "glm-5.3"
+}

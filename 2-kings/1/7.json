@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuunase ku yidhi: Muxuu ahaa muuqaalkii ninkii idiin soo koray ee idinku hadlay ⟨את⟩ ereyadaasan?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuunase ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "muxuu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "muuqaalkii"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "idiin soo koray"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "idinku hadlay"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaasan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "saasan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:49.584546519Z",
+  "model": "glm-5.3"
+}

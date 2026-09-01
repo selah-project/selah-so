@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Naf kasta oo cunta dhiig kasta, naftaasuna waa laga goyn doonaa ⟨carruurkiisa⟩ dadkeeda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "cunta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "waa laga goyn doonaa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "naftaasuna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dadkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:57.979111227Z",
+  "model": "glm-5.3"
+}

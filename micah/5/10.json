@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Magaalada dhulkayagii waan goyn doonaa, dhis-dhaqaajirradiinnana dhammaanna waan burburin doonaa.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "waan goyn doonaa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dhulkayagii"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "waan burburin doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "dhis-dhaqaajirradiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:31.703424341Z",
+  "model": "glm-5.3"
+}

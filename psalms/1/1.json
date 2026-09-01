@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Nasiibyaa nimanka ah — kan aan socon talaadowda shar-yeelayaasha, aanna taagan jidka dembilayaasha, aanna fadhiyin fadhigii jees-jeesyaasha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiibyaa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nimanka ah — kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "socon"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "talaadowda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yeelayaasha"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dembilayaasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan… taagan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "fadhigii"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "jees-jeesyaasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan… fadhiyin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fadhiyin"
+    }
+  ],
+  "timestamp": "2026-09-01T08:44:57.730071709Z",
+  "model": "glm-5.3"
+}

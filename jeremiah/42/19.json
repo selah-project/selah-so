@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 42:19",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yahweh ayaa idiin hadlay, oo idinkoo ah hartii Yahuudah: ha tagina Mitsrayim; si cad ogaada inaan maanta idiin markhaatiyay.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ayaa hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hartii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "tagina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "si cad"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ogaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "העידתי",
+      "gloss": "aan markhaatiyay"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T04:20:09.602560359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Walaashiisuna Hammolekhet way dhashay ⟨את⟩ Ishod iyo ⟨את⟩ Abiezer iyo ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "walaashiisuna"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammolekhet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "way dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abiezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:48.622808910Z",
+  "model": "glm-5.3"
+}

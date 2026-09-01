@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Jaantamaha masgaradda ay goobuhu ahaan lahaayeen, meelo ulasha, si loo qaado ⟨את⟩ miiska.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "jaantamaha"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "masgaradda"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ay ahaan lahaayeen"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "goobuhu"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "meelo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ulasha"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "si loo qaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:00.761129848Z",
+  "model": "glm-5.3"
+}

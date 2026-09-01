@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaad shoomaysaa, Tsiidoon, waayo baddu ayaa tiri, mugaadigii badda, tiri: Ma aan ceelin, mana aan dhalin, mana aan korin dhalinyaro, mana aan qaadin gabdhaha aan guursan.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Waxaad shoomaysaa"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiidoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa tiri"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baddu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mugaadigii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma aan"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ceelin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana aan"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "dhalin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana aan"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "korin"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "dhalinyaro"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "qaadin"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "gabdhaha aan guursan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:55.222894223Z",
+  "model": "glm-5.3"
+}

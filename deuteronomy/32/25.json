@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Berigaba seef ayaa dhiminaysa, gurigyana cabsi; saaxiibka dhalinyarada iyo gabadha dhalinyaraba, ilmaha naaska ah iyo nin oday ahba.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "berigaba"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "dhiminaysaa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "gurigyana"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "saaxiibka"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "dhalinyarada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "gabadha dhalinyaraba"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ilmaha naaska ah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "oday ahba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:23.973554229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waadna gowricaysaa ⟨את⟩ dibigga horta Yahweh, iridda Teendhada Mo'eedka.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "waadna gowricaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibigga"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dibigga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Teendhada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'eedka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:19.081333835Z",
+  "model": "glm-5.3"
+}

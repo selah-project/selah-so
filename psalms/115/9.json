@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Yisra'iil, ku talax Yahweh; gargaarkoodii iyo gaashaankoodii waa Isaga.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ku talax"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "gargaarkoodii"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "iyo gaashaankoodii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:37.239970589Z",
+  "model": "glm-5.3"
+}

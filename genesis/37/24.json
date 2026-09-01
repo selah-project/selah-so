@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Way qaadatay, waxayna ku tuureen ⟨את⟩ boonka; boonkuna wuu madhnaa — biyo ma jirin.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "way qaadatay"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "waxayna ku tuureen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "boonka"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "boonka"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "boonkuna"
+    },
+    {
+      "surface": "רק",
+      "gloss": "wuu madhnaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(dhexdiisa)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:37.899347554Z",
+  "model": "glm-5.3"
+}

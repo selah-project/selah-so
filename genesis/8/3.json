@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Biyuhuna way ka noqdeen dhulka korkeeda, tag iyo soconoqod, biyuhuna way yaraadeen markay dhammaatay boqol iyo phansiin (150) maalmood.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "way ka noqdeen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "korkeeda ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "iyo soconoqod"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "way yaraadeen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "markay dhammaatay"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "phansiin (50)"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "iyo boqol (100)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:12.693492364Z",
+  "model": "glm-5.3"
+}

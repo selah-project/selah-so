@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ haanta dhaqista naxaas, iyo ⟨את⟩ salkeeda naxaas, muraayadaha haweenayada kuwaas oo ku adeegayay iridda Khaymaha Miqaadka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haanta dhaqista"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "haanta dhaqista"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "salkeeda"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "salkeeda"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaas"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "muraayadaha"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "haweenayada adeegay (ciidanka)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ku adeegayay"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaynta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Miqaadka (Kulanka)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:32.351041573Z",
+  "model": "glm-5.3"
+}

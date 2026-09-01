@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Magaca wiilkiisii ugu horreeyay waxaa ahaa Yo'el, magaca labaadna waxaa ahaa Abiya; iyagoo ah garooye kuwaas oo ku sugan Be'er-Sheva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxaa ahaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ugu horreeyay"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yo'el"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "magaca labaadna"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "kan labaad"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "garooye"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ku sugan Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:38.872035262Z",
+  "model": "glm-5.3"
+}

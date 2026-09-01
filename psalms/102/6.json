@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Codka oohintayda awgood, lafahaygii way ⟨aniga⟩ ku dhegtay jirkeyga.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "codka awgood"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "oohintayda"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "way ku dhegtay"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafahaygii"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "jirkeyga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:49.057288928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu yidhi Yahuudah inay doondoonaan ⟨את⟩ Yahweh, Elohimka aabayaashood, oo ay fulisoona Sharciga iyo amarka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "inay doondoonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "aabayaashood"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "oo ay fulisoona"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "amarka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:35:59.347619433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Yahweh wuu dhaartay oo ma sel-selinayo: Adiga waxaad tahay wadaad weligaa, awgood qaabka Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wuu dhaartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "sel-selinayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaad"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "qaabka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.530685158Z",
+  "model": "glm-5.3"
+}

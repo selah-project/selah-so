@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxay caabudeen sanamyada, kuwaas oo Yahweh ku yidhi, Ha sameysannan ⟨את⟩ shaygan.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxay caabudeen"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysannan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shaygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(kan)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:04.109419803Z",
+  "model": "glm-5.3"
+}

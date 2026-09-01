@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wabiyo badankuna waa la fogayn doonaa; mariinaha Mitsrayimuna waa daciifteen, waa engeggeen; qasilka iyo rushku waa layn doonaan.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "waa la fogayn doonaa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "wabiyo badanku"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "waa daciifteen"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "waa engeggeen"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "mariinaha"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayimuna"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qasilka"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "rushku"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "waa layn doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:05.413202014Z",
+  "model": "glm-5.3"
+}

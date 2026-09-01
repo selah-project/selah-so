@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxay qaadaten ⟨את⟩ gabdhahood xaasas u noqda, ⟨את⟩ gabdhahoodna waxay siyeen wiilashood, waxayna caabudeen ⟨את⟩ ilaahyadood.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaadaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabdhahood"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "gabdhahood"
+    },
+    {
+      "surface": "להם",
+      "gloss": "si ay u"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "xaasas u noqda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "gabdhahood"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "gabdhahood"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay siyeen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wiilashood"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxayna caabudeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahyadood"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaahyadood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:43.192184192Z",
+  "model": "glm-5.3"
+}

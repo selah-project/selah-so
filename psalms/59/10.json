@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Taageeradaydow, adiga ayaan ilaalinayaa, waayo Elohim waa qalcadaydii (dheerta gal).",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Taageeradaydow"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ilaalinayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "qalcadaydii (dheerta gal)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:04.629034105Z",
+  "model": "glm-5.3"
+}

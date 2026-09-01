@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Iyo Tabʿerah iyo Massah iyo Kibrooth-haTaawah, kuwa cadhoodeysa waxaad ahaayeen ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "Iyo Tabʿerah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "iyo Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "iyo Kibrooth (qubuuraha)"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "haTaawah (doonidda)"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "kuwa cadhoodeysa"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "waxaad ahaayeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:47.925075276Z",
+  "model": "glm-5.3"
+}

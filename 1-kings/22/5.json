@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuu yidhi Yehooshafat boqorka Israa'iil: Raadi ⟨fadlan⟩ maanta ⟨את⟩ ereyga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "raadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fadlan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:16.409253943Z",
+  "model": "glm-5.3"
+}

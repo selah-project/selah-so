@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyadoo Yahweh ka eegayo samada laga soo arkado.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "iyadoo"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ka eegayo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "laga soo arkado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:55:54.411425517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo wuu baabbi'i doonaa dhulkii reerka Axab oo dhan, oo waxaan Axab ka goyn doonaa kan dhulka dhigta derbiga, iyo kan xiran iyo kan la dhaafay, gudaha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "wuu baabbi'i doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reerka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "waxaan ka goyn doonaa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "kan dhulka dhigta"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "iyo kan xiran"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "iyo kan la dhaafay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gudaha Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:21.008967952Z",
+  "model": "glm-5.3"
+}

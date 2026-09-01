@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Toban dhiriic ⟨waa⟩ dhererka alwaaxa, iyo dhiriic iyo badhtankeed dhiriic ⟨waa⟩ ballaca alwaaxa mid kasta.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Toban"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhiriic"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dhererka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "iyo dhiriic"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "iyo badhtankeed"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "dhiriic"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ballaca"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mid kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:36.643679065Z",
+  "model": "glm-5.3"
+}

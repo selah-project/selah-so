@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaa kale oo Boqor Daawud u qaddimshay Yahweh ⟨את⟩ kuwan, lacagta dahabka iyo tan fiddiga ah uu ka qaddimshay dhammaan shacabka uu adkaaday.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "waxaa kale oo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan (walxaha qaddimistu tilmaamayso)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "u qaddimshay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fiddigta"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "iyo dahabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ka qaddimshay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "adkaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:25.524088196Z",
+  "model": "glm-5.3"
+}

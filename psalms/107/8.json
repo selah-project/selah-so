@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Aadanaha ha ku mahadinaado Yahweh khesedkiisa, iyo mucjisihiisa innoo muuqda wiilasha aadanaha",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ha ku mahadinaado"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo mucjisihiisa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:55.835839549Z",
+  "model": "glm-5.3"
+}

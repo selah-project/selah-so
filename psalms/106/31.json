@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Oo waxaa loo tirsaday xinig, ilaa dur iyo dur, ilaa weligaa.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "waxaa loo tirsaday"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "xinig"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ilaa dur"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo dur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:01.903006148Z",
+  "model": "glm-5.3"
+}

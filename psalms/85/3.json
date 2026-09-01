@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Waxaad qaadday dembiga qoloodkaaga; waxaad dabooltay dhammaan dembiyadooda. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "waxaad qaadday"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoloodkaaga"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "waxaad dabooltay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dembiyadooda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.515195233Z",
+  "model": "glm-5.3"
+}

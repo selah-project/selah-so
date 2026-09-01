@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waayo waqti iyo xukun baa jira wax kasta oo la doono, waayo sharka insaanku waa weyn yahay kan saaran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "oo la doono"
+    },
+    {
+      "surface": "יש",
+      "gloss": "baa jira"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqti"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "insaanku"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "waa weyn yahay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kan saaran"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:27.716344594Z",
+  "model": "glm-5.3"
+}

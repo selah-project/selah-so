@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yaaqob aabbahoodii wuxuu ku yidhi: «Aniga ilmo ii lumaysaysaan; Yuusuf ma jiro, Shi'muunna ma jiro, ⟨את⟩ Bunyaamiinna waad qaadaneysaan; wax kastoo dhan waxay i saaran tahay.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "aabbahoodii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "ilmo ii lumaysaysaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "Shi'muunna"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bunyaamiin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bunyaamiinna"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "waad qaadaneysaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i saaran"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay tahay"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "wax kastoo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:39.311779344Z",
+  "model": "glm-5.3"
+}

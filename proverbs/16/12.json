@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxa boqorada niyad-jabinayo waa falsharriska, waayo xaqnimada ayaa carshiga taagan.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "waxa niyad-jabinayo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorada"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "falsharriska"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharriga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "xaqnimada"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ayaa taagan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "carshiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:33.387100240Z",
+  "model": "glm-5.3"
+}

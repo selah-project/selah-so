@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Athalyah markay maqasho ⟨את⟩ codka ordayaasha iyo ⟨את⟩ dadka, waxay timid dadka ⟨dhexdooda⟩ guriga Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "markay maqasho"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ordayaasha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "waxay timid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dadka ⟨dhexdooda⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:04.590286148Z",
+  "model": "glm-5.3"
+}

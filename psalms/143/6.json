@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Gacmahaygaan kuu fiday, naftaydu waa sidii dhul daalan ⟨oo kugu haray⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "aan kuu fiday"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahayga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sidii dhul"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "daalan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kugu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:53.035291405Z",
+  "model": "glm-5.3"
+}

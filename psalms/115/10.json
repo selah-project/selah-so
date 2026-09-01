@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Reer Aaron, ku talaxa Yahweh; gargaarkoodii iyo gaashaankoodii waa Isaga.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "reer"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ku talaxa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "gargaarkoodii"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "iyo gaashaankoodii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:37.240261153Z",
+  "model": "glm-5.3"
+}

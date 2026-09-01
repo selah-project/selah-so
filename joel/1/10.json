@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Beerahu waa la baabi'iyay, dhulkuna wuu barooranayaa; waayo qamaddu waa la baabi'iyay, khamriga cusub wuu engegay, saliidduna wuu daciifay.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beerahu"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "wuu barooranayaa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "qamaddu"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "wuu engegay"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "khamriga cusub"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "wuu daciifay"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "saliidduna"
+    }
+  ],
+  "timestamp": "2026-09-01T04:47:24.389795933Z",
+  "model": "glm-5.3"
+}

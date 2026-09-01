@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "laga soo bilaabo Araam iyo Moo'aab iyo carruurta Cammoon iyo Falastiintiinnii iyo Camaleq iyo ganimadda Hadadezer ina Rexoob boqorkii Soobaa.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "laga soo bilaabo Araam"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "iyo Moo'aab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "iyo carruurta"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Cammoon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "iyo Falastiintiinnii"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "iyo Camaleq"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "iyo ganimadda"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rexoob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Soobaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:12.119783365Z",
+  "model": "glm-5.3"
+}

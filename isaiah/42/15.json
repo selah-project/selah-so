@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Buuraha waan baabbi'in doonaa iyo tebanaha, oo cawskooda oo dhan waan engejisii doonaa; webiyana waan ka dhigi doonaa jaziiro engejisan, oo biloolaha waan engejin doonaa.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "waan baabbi'in doonaa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "iyo tebanaha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "cawskooda"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "waan engejisii doonaa"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "waan ka dhigi doonaa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "jaziiro engejisan"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "oo biloolaha"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "waan engejin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:50.453848601Z",
+  "model": "glm-5.3"
+}

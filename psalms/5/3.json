@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ilaali codkaygii qaylada, Boqorkaygii iyo Eloahaygii, waayo, adiga ayaan kuu bahanahay.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "qayladayda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorkaygii"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iyo Eloahaygii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "kaan kuu bahanahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:42.001786076Z",
+  "model": "glm-5.3"
+}

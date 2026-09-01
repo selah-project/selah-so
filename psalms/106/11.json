@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Biyoyna waxay daboolay cadowyadooda, mid keliya oo ka mid ah ma harag.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "waxay daboolay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "cadowyadooda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid keliya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "harag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:22.178816914Z",
+  "model": "glm-5.3"
+}

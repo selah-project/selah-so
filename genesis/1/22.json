@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Elohim wuxuu barakeeyay iyagoo leh: Faafaa, badaa, oo buuxiyaa ⟨את⟩ biyaha badaha, oo shinnigu ha ka badiyo dhulka.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuu barakeeyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Faafaa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "badaa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "oo buuxiyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyaha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "badaha"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "oo shinnigu"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ha ka badiyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:07.579178118Z",
+  "model": "glm-5.3"
+}

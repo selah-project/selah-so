@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "⟨את⟩ Ereygan oo dhan oo aan ⟨את⟩ idinku amaro, kaalaya waasta si aad u sameysaan; ha ku darin dheeraad kasta, ha ka dhimin waxba.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "amaro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan oo dhan (waxa la waastay)"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waasta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si aad u sameysaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ku darin dheeraad"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(dheeraad) kasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ka dhimin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:23.331109756Z",
+  "model": "glm-5.3"
+}

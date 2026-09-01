@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "cod ayaa leh: Qaad (codka). Oo wuxuu yidhi: Maxaan qaadnaa? Dhamaan basarku waa duqsi (biyo-yar), oo khesedkiisiiba waa sida ubaxa beerka.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa leh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Qaad (codka)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qaadnaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Dhamaan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "basarku"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "duqsi (biyo-yar)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhamaan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisiiba"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "sida ubaxa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beerka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:33.084533700Z",
+  "model": "glm-5.3"
+}

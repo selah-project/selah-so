@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo ka mid ah heesayaasha: Elyashib; oo ka mid ah ilaalada albaabbada: Shallum iyo Telem iyo Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "oo ka mid ah"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "heesayaasha"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "oo ka mid ah"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ilaalada albaabbada"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "iyo Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "iyo Uri"
+    }
+  ],
+  "timestamp": "2026-09-01T06:14:39.565499338Z",
+  "model": "glm-5.3"
+}

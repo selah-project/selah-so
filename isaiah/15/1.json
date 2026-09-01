@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Xambaar (amaasa) Muwaab: habeenkii 'Ar-Muwaab waa la burburiyay, waa la halligay; habeenkii Qiir-Muwaab waa la burburiyay, waa la halligay.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Xambaar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muwaab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "waa la burburiyay"
+    },
+    {
+      "surface": "ער",
+      "gloss": "'Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muwaab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "waa la halligay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "waa la burburiyay"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Qiir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muwaab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "waa la halligay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:01.750035328Z",
+  "model": "glm-5.3"
+}

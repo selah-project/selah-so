@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waayo laydhkeygu waa buuxsamay gubitaan; oo jidhkayga wixii caafimaad ah ma jiro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "laydhkeygu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "waa buuxsamay"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "gubitaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "wixii caafimaad ah"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "jidhkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:09.907282177Z",
+  "model": "glm-5.3"
+}

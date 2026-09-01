@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ma caleen la dul-saaray baad cabsiinaysaa, oo ⟨את⟩ qosol engegan baad raacaysaa?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Ma...ba"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "caleen la dul-saaray"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "cabsiinaysaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "qosol engegan"
+    },
+    {
+      "surface": "קש",
+      "gloss": "qosol"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "engegan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "baad raacaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:44.454027741Z",
+  "model": "glm-5.3"
+}

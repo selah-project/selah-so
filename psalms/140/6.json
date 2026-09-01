@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Waawaynku waxay qariyeen dabato aniga iyo xargo; waxay fidhiyeen shabakad dhinka wadada, waxay dhigteen maseeyo aniga. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "waxay qariyeen"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "waawaynku"
+    },
+    {
+      "surface": "פח",
+      "gloss": "dabato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "iyo xargo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "waxay fidhiyeen"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "shabakad"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "dhinka"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "wadada"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "maseeyo"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "waxay dhigteen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:26.975496040Z",
+  "model": "glm-5.3"
+}

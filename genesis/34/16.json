@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "waxaannu idin siinnaa ⟨את⟩ gabdhayashayada, ⟨את⟩ gabdhayashiinna se waannu qaadannaa; waxaannu la degannaa ⟨את⟩ idinka, waxaannu noqonnaa qoom mid ah",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "waxaannu idin siinnaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabdhayashayada"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "gabdhayashayada"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabdhayashiinna"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "gabdhayashiinna"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "waannu qaadannaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "innaga"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "waxaannu la degannaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "waxaannu noqonnaa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qoom"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid ah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:06.768552845Z",
+  "model": "glm-5.3"
+}

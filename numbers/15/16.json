@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Tora keliya iyo xukun keliya ayay idinka noqonaysaa, idinku iyo geerka idinku la noolaada ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ayay noqonaysaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "iyo geerka"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "geerka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinku la noolaada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:49:22.664355969Z",
+  "model": "glm-5.3"
+}

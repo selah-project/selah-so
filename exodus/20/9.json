@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Liy maalmood waxaad shaqaysaa, waana qabataa shaqadaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Liy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "waxaad shaqaysaa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waana qabataa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "shaqadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:46.737364468Z",
+  "model": "glm-5.3"
+}

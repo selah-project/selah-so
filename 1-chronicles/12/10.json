@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ezer kan koowaad, Obadyah kan labaad, Eliab kan saddexaad.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kan koowaad (madaxa)"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kan labaad"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "kan saddexaad"
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:36.036242325Z",
+  "model": "glm-5.3"
+}

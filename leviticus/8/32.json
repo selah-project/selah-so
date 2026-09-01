@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxa hilibka iyo rootiga ka hadha na dabka ku gubaan.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "waxa ka hadha"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "iyo rootiga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka ku"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "gubaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:55.509100529Z",
+  "model": "glm-5.3"
+}

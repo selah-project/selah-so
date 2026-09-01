@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Dadka dhulka oo dhan way ku farxeen, magaaladana way xasishay, ⟨את⟩ Atalyahuuna sey seef ku dileen.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "way ku farxeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "magaaladana"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "way xasishay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "sey dileen"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef ku"
+    }
+  ],
+  "timestamp": "2026-09-01T06:41:02.471404635Z",
+  "model": "glm-5.3"
+}

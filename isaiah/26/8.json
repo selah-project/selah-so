@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Saas waxa weeye waddada xukunkyadaaga, Yahweh, waannu kugu sugnay; Magacaaga iyo xuskaaga baa rabitaanka nafteenna ah.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Saas waxa weeye"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunkyadaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "waannu kugu sugnay"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "iyo xuskaaga"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "rabitaanka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafteenna"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:30.309379601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Qiiq i qabsatay sababtoo ah xumaaleyda, kuwa dhaafay Sharcigaaga.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "Qiiq"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "i qabsatay"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "sababtoo ah xumaaleyda"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "kuwa dhaafay"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:58.488766943Z",
+  "model": "glm-5.3"
+}

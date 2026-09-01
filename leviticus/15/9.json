@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo sadil kasta ⟨oo⟩ zawahu ku fuulo waa nijaasan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Oo ... kasta"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "sadilka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ku fuulo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zawahu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "waa nijaasan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:15.661563826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuuna ku yidhi: Iimo ⟨את⟩ lay il guriga, cuno ⟨את⟩ rooti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iimo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ lay il"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "cuno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:04.239066013Z",
+  "model": "glm-5.3"
+}

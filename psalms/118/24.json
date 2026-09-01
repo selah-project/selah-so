@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Kan waa maalinta Yahweh sameeyay; ha aynu ku faraxno oo ha aynu ku farxo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ha aynu ku faraxno"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "oo ha aynu ku farxo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:30.753249923Z",
+  "model": "glm-5.3"
+}

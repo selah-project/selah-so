@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Qalbigaygu ha noqdo mid dhammaystiran xukummadaada, si aan u niyad-jabin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaygu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mid dhammaystiran"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "xukummadaada"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aan u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "niyad-jabin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:24.420583764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Lakuma cabsado kun-kun (tiro badan) oo dad ah, kuwaasoo hareeraha ii soo dhigay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "La"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kuma cabsado"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "kun-kun (tiro badan)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaasoo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hareeraha"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ii soo dhigay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:08.460613012Z",
+  "model": "glm-5.3"
+}

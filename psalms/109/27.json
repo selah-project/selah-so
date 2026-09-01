@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Oo ay ogaan ineentan gacantaada tahay — adiga, Yahweh, adigaa ⟨waxan⟩ sameeyay.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Oo ay ogaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "adigaa sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:28.493743246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxay ka dhigeen noloshooda middii qadhaadh ahayd shaqo adag, dhuxul-dhiska iyo dhagax-dhiska (brik iyo mortar), iyo shaqo kasta oo beeraha ah — ⟨את⟩ shaqadooda oo dhan way ka adeejiyeen si adag (bafarakh).",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "waxay ka dhigeen middii qadhaadh ahayd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noloshooda"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "noloshooda"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "dhuxul-dhiska (mortar)"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "iyo dhagax-dhiska (brik)"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo shaqo kasta"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeraha ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaqadooda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "shaqadooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "way ka adeejiyeen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "(iyaga)"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "si adag (bafarakh)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:23.793183359Z",
+  "model": "glm-5.3"
+}

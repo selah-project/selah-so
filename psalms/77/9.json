@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Ma dhammaaday miyaa weligii khesedkiisa? Ma dhammaatay miyaa ballankii ⟨ee⟩ durriyada iyo durriyada?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Ma dhammaaday miyaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligii"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Ma dhammaatay miyaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ballankii"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "durriyada"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo durriyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:56.637635386Z",
+  "model": "glm-5.3"
+}

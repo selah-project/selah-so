@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "oo awooddiinna waxay bannaan u baabi'in doontaa, oo dhulkiinna ⟨את⟩ midhaha ma siin doono, oo geedaha dhulkuna midhihiisa ma siin doonaan.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "oo waxay baabi'in doontaa"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bannaan u"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "awoddiinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siin doonto"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dhulkiinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaha"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "oo geedaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "siin doonaan"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "midhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:04.571371577Z",
+  "model": "glm-5.3"
+}

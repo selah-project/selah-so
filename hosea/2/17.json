@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan siin doonaa iyada ⟨את⟩ beerteedii canabka meeshaas, iyo ⟨את⟩ webiga Akor albaab u ah rajo, waxayna ku jawaabi doontaa meeshaas sida maalmaha carruurnimadeedeed iyo sida maalintay ka soo baxsay dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan siin doonaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beerteedii canabka"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "beerteedii canabka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "webiga Akor"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "webi (aqoos)"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "albaab u ah"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "rajo"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "waxayna jawaabi doontaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmaha"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "carruurnimadeedeed"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "iyo sida maalinta"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ay ka soo baxsay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:08.147952453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Kibistu waa la jajabiyaa, balse weligood lama daaqsho; daaqistiisana ma dhammaayaan, gororka qaadhadiisa iyo faraskiisiina ma jajbiyaan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "kibistu"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "waa la jajabiyaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balse waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "la daaqo"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "lama daaqsho"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ma dhammaayaan"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "gororka"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "qaadhadiisa"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "faraskiisiina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "jajbiyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:01.048403517Z",
+  "model": "glm-5.3"
+}

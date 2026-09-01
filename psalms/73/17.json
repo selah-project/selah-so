@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Ilaa aan galay makaabadda El; markaas waan fahmay dhamaadkooda.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aan galay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "makaabadda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "waan fahmay"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "dhamaadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:54.374487631Z",
+  "model": "glm-5.3"
+}

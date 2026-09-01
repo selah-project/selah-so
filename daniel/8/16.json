@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaan maqlay cod nin ah oo Wabiga Ulaay dhexdiisa ka socda, oo wuxuu u dhawaaqay yidhi: Gabra'iil, ugu fahamsii kani ⟨את⟩ muuqaalka.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "waxaan maqlay"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nin ah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Wabiga Ulaay"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u dhawaaqay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabra'iil"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ugu fahamsii"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "kani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muuqaalka"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "muuqaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:08:25.438090813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Carruurtoodana waxaa la dhuqi doonaa isaga hor mari indhahooda; guryahooda waa la dhulbaadhayaa, haweenkoodana waa la kufsadaa.",
+  "tokens": [
+    {
+      "surface": "ועולליהם",
+      "gloss": "carruurtoodana"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "waxaa la dhuqi doonaa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "indhahooda hortooda"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "waa la dhulbaadhayaa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "guryahooda"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "haweenkoodana"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "waa la kufsadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:21.607486397Z",
+  "model": "glm-5.3"
+}

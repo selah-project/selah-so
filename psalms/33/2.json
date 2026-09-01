@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Yahweh ku mahadiya kinnuurdabka; nebel-todobaatan-laban (lafaha toban) ku qabsada.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ku mahadiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnuurdabka (kaga)"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nebel (kaga)"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "lafaha toban"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ku qabsada"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:24.521996002Z",
+  "model": "glm-5.3"
+}

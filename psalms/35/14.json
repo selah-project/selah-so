@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Sida saaxiib, sida walaal ii ah, ayaan ku socday; sida barooraya hooyood, ayaa mugga iigu madoobay oo waan u dhul-dhacay.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "sida saaxiib"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "sida walaal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii ah"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ayaan ku socday"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "sida barooraya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hooyood"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mugga iigu madoobay"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "waan u dhul-dhacay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:00.502353091Z",
+  "model": "glm-5.3"
+}

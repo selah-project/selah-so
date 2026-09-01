@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo haddii jidhku uu ka dhex yahay maqaarkiisa barar, ayna soo bogsatay.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "jidhku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uu ka dhex yahay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "maqaarkiisa"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "barar"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "ayna soo bogsatay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:03.669244886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yahweh wuxuu ku raalli noqday xagaa suaqdooda; wuxuu weynayn Torahda, oo wuxuu sharafta siin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wuxuu raalli noqday"
+    },
+    {
+      "surface": "למען",
+      "gloss": "xagaa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "suaqdooda"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "wuxuu weynayn"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torahda"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "oo wuxuu sharafta siin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:20.147330043Z",
+  "model": "glm-5.3"
+}

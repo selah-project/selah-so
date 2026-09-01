@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Jidadka markhaatiyaaddaada waan ku farxayaa, sida dhammaan maalka.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "markhaatiyaaddaada"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "waan ku farxayaa"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "sida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "maalka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:39.692451731Z",
+  "model": "glm-5.3"
+}

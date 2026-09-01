@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuu qaadan doonaa barako xaqa ah oo katimid Yahweh, iyo xaqa korta oo katimid Eloah ee badbaadadiisa.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "Wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barako"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "katimid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "iyo xaqa korta"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "katimid Eloah"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "badbaadadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:57:06.030319798Z",
+  "model": "glm-5.3"
+}

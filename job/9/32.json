@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 9:32",
+  "book": "job",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waayo, ma aha nin i ila ah ⟨in⟩ aan ka jawaabo, ⟨in⟩ aan wada imaanno ⟨xukunka⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "i ila ah"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "aan ka jawaabo"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "aan imaanno"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukunka (mashpata)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:54.421845810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Naxariis badan oo dhiirri-gelin leh waa Yahweh, dheerinaan fooda (xanaaqyada), khesedna oo weyn.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "naxariis badan oo dhiirri-gelin leh"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "oo naxariis badan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waa Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheerinaan fooda"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(xanaaqyada) [sananada]"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "oo khesedna weyn"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:21.019865143Z",
+  "model": "glm-5.3"
+}

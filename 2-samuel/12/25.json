@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuu soo diray gacanta Natan nebigii, wuxuuna ⟨את⟩ magaciisa ugu yeelay Yedidyah, sababtoo ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu soo diray"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebigii"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna ugu yeelay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:40.049280669Z",
+  "model": "glm-5.3"
+}

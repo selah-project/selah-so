@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Hoggaamiyaha heestu, Gittiith dushooda, wiilasha Korach, mizmoor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "hoggaamiyaha heestu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dushooda"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittiith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.743204244Z",
+  "model": "glm-5.3"
+}

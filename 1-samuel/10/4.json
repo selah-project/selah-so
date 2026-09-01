@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxay ku weydiin doonaan nabad-gelyo, waxayna kuu siin doonaan laba rooti, adiguna waxaad gacantooda ka qaadan doontaa.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "waxay ku weydiin doonaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabad-gelyo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna kuu siin doonaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "adiguna waxaad ... qaadan doontaa"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gacantooda ka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:02.130748065Z",
+  "model": "glm-5.3"
+}

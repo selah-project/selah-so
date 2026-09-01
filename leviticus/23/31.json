@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Shuqul kasta ha qabatana; waa sharci wel-waayey (ahaa) durriyadiinna, dhammaan degaannadiinna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qabatana"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sharci"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wel-waayey"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "durriyadiinna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "degaannadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:11.751029762Z",
+  "model": "glm-5.3"
+}

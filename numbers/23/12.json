@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuuna jawaabay, wuxuuna yidhi: ma aanan ilaalin inaan ku hadlo ⟨את⟩ waxa Yahweh gacmaha ku dhigayo afaygay?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuuna jawaabay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa Yahweh gacmaha ku dhigayo afaygay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "gacmaha ku dhigayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afaygay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "in aan ku hadlo"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "in aan ku hadlo"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:39.181656123Z",
+  "model": "glm-5.3"
+}

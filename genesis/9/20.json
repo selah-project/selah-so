@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Noah nin dhulka-beerta ah ayuu bilaabay, wuuna beeray beero canab.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ayuu bilaabay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka-beerta ah"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "wuuna beeray"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "beero canab"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:22.098369455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 59:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Aniguna waan heesayaa ciidankaaga, aroortii waan farxayaa khesedkaaga ⟨caloosheenna⟩, waayo adigu waxay noqotay sarreeye (misgab) igu ah, iyo meel baxsasho maalinta dhibaatada igu dhacday.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "waan heesayaa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ciidankaaga"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "waan farxayaa"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "aroortii"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waxay noqotay adigu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sarreeye (misgab)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu ah"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "iyo meel baxsasho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu dhacday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:55.561194050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo Sukkot waxay ka soo safriyeen, Eytamna waxay ku xero-dhigeen, cidhifada barbaaraha.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "waxay safriyeen"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot ka"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxay ku xero-dhigeen"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Eytam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "cidhifada"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "barbaaraha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:20.982375657Z",
+  "model": "glm-5.3"
+}

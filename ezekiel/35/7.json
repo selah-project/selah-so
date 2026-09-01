@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo waxaan dhigi doonaa ⟨את⟩ buurta Seir inay noqoto bar-bar (lumin) iyo yaab, oo waxaan ka goyn doonaa ka midkeeda kan socda iyo kan soo noqda.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan dhigi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "bar-bar (lumin)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "yaab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "oo waxaan ka goyn doonaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka midkeeda"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kan socda"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kan soo noqda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:23:48.453458420Z",
+  "model": "glm-5.3"
+}

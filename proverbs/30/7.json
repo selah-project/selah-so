@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Laba (wax) waan ka weydiistay ⟨את⟩ adiga; ha i diidin ka hor inta aan dhimo.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "waan weydiistay"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ adiga (laga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha... diidin"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ha i diidin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ka hor inta"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aan dhimo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:18.116028499Z",
+  "model": "glm-5.3"
+}

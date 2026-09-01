@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Markaasaa dadku waxay qayliyeen Muuse agtiis; Muusena wuu baryay Yahweh, oo naartu waa la dejiyay.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "waxay qayliyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agtiis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "wuu baryay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusena"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "waa la dejiyay"
+    },
+    {
+      "surface": "האש",
+      "gloss": "naartu"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:49.319675651Z",
+  "model": "glm-5.3"
+}

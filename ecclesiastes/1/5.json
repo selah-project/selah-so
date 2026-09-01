@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu soo baxay ⟨qoraxda⟩, oo qoraxdu way dhacday, oo meeshayeedii ayay ku neeftaysataa ⟨shawadaysaa⟩, isla halkaas ayay ka soo baxaysaa.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "Wuxuu soo baxay"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "way dhacday"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxdu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "meeshayeedii"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ku neeftaysataa"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ka soo baxaysaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:03.641439597Z",
+  "model": "glm-5.3"
+}

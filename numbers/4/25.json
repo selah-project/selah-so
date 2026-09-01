@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxay qaadaan ⟨את⟩ bararka dalluushka iyo ⟨את⟩ khaymada shirka, daboolkeeda iyo daboolka maqaarka dugaagga ee korkiisa ka sarreeya, iyo ⟨את⟩ daaha iridda khaymada shirka.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "Waxay qaadaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bararka dalluushka"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "bararka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "dalluushka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khaymada shirka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "daboolkeeda"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "iyo daboolka"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "maqaarka dugaagga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daaha iridda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "daaha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "shirka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:55.329803514Z",
+  "model": "glm-5.3"
+}

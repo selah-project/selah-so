@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxay yidhaahdeen ⟨iyada⟩: Ma aha oo, la ⟨את⟩ adiga baaannu ku noqonaynaa ⟨ugu⟩ dadkaaga.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Waxay yidhaahdeen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨iyada⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ma aha oo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la adiga"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "baaannu ku noqonaynaa"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "⟨ugu⟩ dadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:29.959219746Z",
+  "model": "glm-5.3"
+}

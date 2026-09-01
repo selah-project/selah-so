@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waayo, saac gudub (wuu dhaafaa) cadhadiisa, nolol bay ku jirtaa raalliyadiisa; habeenkii oohin baa hormaraysaa, laakiin subaxa qayladda farxadda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "saac gudub (wuu dhaafaa)"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "cadhadiisa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolol"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "raalliyadiisa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "hormaraysaa"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "oohin"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "laakiin subaxa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qayladda farxadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:44.917383237Z",
+  "model": "glm-5.3"
+}

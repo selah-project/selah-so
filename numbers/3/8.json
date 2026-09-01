@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo waxay ilaaliyaan ⟨את⟩ qalabka Khaymaha Kulanka oo dhan iyo ⟨את⟩ ilaalinta banii-Israa'iil, si ay u qabtaan ⟨את⟩ adeegga Maskaxda.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "waxay ilaaliyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalabka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ilaalinta banii-Israa'iil"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "banii-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "si ay u qabtaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegga Maskaxda"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskaxda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:13.848463541Z",
+  "model": "glm-5.3"
+}

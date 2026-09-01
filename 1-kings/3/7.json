@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Hadda, Yahweh Eloahayga, adiga baa adigoo boosiyay ⟨את⟩ adeeggaaga meel Daawud aabahay; aniguna waxaan ahay curuur yar, gar ma lihi inaan baxo ama soo galo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahayga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "baa adigoo boosiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeeggaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adeeggaaga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "meel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "נער",
+      "gloss": "curuur"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "yar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma lihi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "gar"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "inaan baxo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ama soo galo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:07.536641550Z",
+  "model": "glm-5.3"
+}

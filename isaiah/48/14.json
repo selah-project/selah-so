@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 48:14",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Kula dhammaada dhexdiinna oo dhan, oo maqla; yaa ka mid ah kuwan oo sheegay ⟨את⟩ waxaasi? Yahweh wuu jeclaaday, wuxuu sameyn doonaa raalli ahaanshihiisa Baabel, oo gadhkuna Keldeymiya.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "dhexdiinna ka dhammaada"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "oo maqla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka mid ah kuwan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oo sheegay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxaasi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxaasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "wuu jeclaaday"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wuxuu sameyn doonaa"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "raalli ahaanshihiisa"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "oo gadhkunu"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Keldeymiya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:49.937716966Z",
+  "model": "glm-5.3"
+}

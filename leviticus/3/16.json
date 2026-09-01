@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "wuxuuse saadaqidu ku gubi doonaa beerka, cunto allabari olol ah, ur qurux badan; baruurta oo dhan waxay tahay Yahweh leh",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "wuxuuse ku gubi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saadaqidu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabari olol ah"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "qurux badan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "waxay tahay Yahweh leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:14.921296796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Filiistiigu wuxuu eegay, wuxuuna arkay ⟨את⟩ Daawud, wuxuuna duleelay, maxayee wuxuu ahaa wiil, oo ah cas-cas (surmad leh), iyo mid qurux badan oo muuqaal fiican.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "wuxuu eegay"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filiistiigu"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "wuxuuna arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "wuxuuna duleelay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxayee"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "oo ah cas-cas (surmad leh)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "qurux badan"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "muuqaal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:57.777957230Z",
+  "model": "glm-5.3"
+}

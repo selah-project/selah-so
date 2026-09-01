@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtiga loo taalayo in la raadiyo, iyo waqtiga loo taalayo in lumiyo; waqtiga loo taalayo in la ilaaliyo, iyo waqtiga loo taalayo in lagu tuuro.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "in la raadiyo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "in lumiyo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "in la ilaaliyo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "in lagu tuuro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:16.676058508Z",
+  "model": "glm-5.3"
+}

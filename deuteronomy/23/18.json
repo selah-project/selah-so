@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wax laf-dillo (qaddiin) ah oo gabdhaha Yisraaiil ka mid ah lama noqon doono, oo wax laf-dillo (qaddiin) ah oo wiilasha Yisraaiil ka mid ah lama noqon doono.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama ... doono"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "noqon doonto"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "laf-dillo dumar (qaddiin)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "gabdhaha ... ka mid ah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraaiil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo lama ... doono"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqon doono"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "laf-dillo rag (qaddiin)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wiilasha ... ka mid ah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraaiil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:05.104020642Z",
+  "model": "glm-5.3"
+}

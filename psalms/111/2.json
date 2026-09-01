@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Waa weyn yihiin shuqulladii Yahweh; waana la doondoonaa dhammaan kuwa raalli ku ah.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Waa weyn yihiin"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shuqulladii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "waana la doondoonaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "kuwa raalli ku ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:17.382855408Z",
+  "model": "glm-5.3"
+}

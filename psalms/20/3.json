@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ha u diro gacankaaga ⟨ka⟩ qaddimka, oo Siyon ka ha kuu taageero.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ha u diro"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "gacankaaga"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "⟨ka⟩ qaddimka"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "oo Siyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ha kuu taageero"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:04.348950257Z",
+  "model": "glm-5.3"
+}

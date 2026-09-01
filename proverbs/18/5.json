@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "In la qaado wajiga shar-geenna ma aha wax wanaagsan, in la garto xaqa shaqsiga alle-ah in loo diido xukunka.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "in la qaado"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-geenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wax wanaagsan"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "in la garto"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "shaqsiga alle-ah"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukunka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:01:01.668058015Z",
+  "model": "glm-5.3"
+}

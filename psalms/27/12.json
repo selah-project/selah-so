@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Ha i dhiibin noloshda cadowda tiirsan, waayo markhaatiyo been abuur ah baa i kacay, iyagoo afka ka soo saaraya xadguf.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "i dhiibin"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "noloshda"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "cadowda tiirsan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "baa i kacay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "markhaatiyo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been abuur ah"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "afka ka soo saaraya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "xadguf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.261545268Z",
+  "model": "glm-5.3"
+}

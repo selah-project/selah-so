@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Dawidna wuu qaatay ⟨את⟩ adhiga dhan iyo lo'da; horay loo soo jiiday xoolihii, waxayna yidhaahdeen: Kani waa dhacaddii Dawid.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuu qaatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhiga dhan iyo lo'da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "adhiga"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "iyo lo'da"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "loo soo jiiday"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horay"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "xoolihii"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhaahdeen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "waa dhacaddii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:13.380964018Z",
+  "model": "glm-5.3"
+}

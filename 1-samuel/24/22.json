@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Iyo hadda, ii dhaaran Yahweh in aad dumayso ⟨את⟩ uurkayga ii damba, iyo in aad baabi'iso ⟨את⟩ magacayga gurigii aabahay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Iyo hadda"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ii dhaaran"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "in"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "aad dumayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uurkayga"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "uurkayga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ii damba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "aad baabi'iso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacayga"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:52.848837828Z",
+  "model": "glm-5.3"
+}

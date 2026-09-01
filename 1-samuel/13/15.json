@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuu kacay Shemuëlu, wuxuuna kor u kacay Gilgaalkii ilaa Gebaa ee Binyaamiin; Shaa'uulna wuxuu tirsay ⟨את⟩ dadkii la arkay la jirkiisii, oo siddeed boqol oo nin ah.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuu kacay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëlu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna kor u kacay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "."
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaalkii"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gebaa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaamiin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wuxuu tirsay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "la arkay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la jirkiisii"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "siddeed boqol"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:24.953468772Z",
+  "model": "glm-5.3"
+}

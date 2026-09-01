@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo xiisaddii Efrajim way ka tagaysaa, oo cadowyadii Yahuudah waa la goyn doonaa; Efrajim ma danaynayo ⟨את⟩ Yahuudah, oo Yahuudahna ma dhibaynayo ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "way ka tagaysaa"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "xiisaddii"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "cadowyadii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "waa la goyn doonaa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "danaynayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "oo Yahuudahna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dhibaynayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:05.958906713Z",
+  "model": "glm-5.3"
+}

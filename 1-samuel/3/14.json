@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Sidaas darteed waxaan gurigii Ci ku dhaartay in ceebtii gurigii Ci aan lagu dhaafin allabari iyo bixin ilaa iyo weligood.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "waxaan ku dhaartay"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "in"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "aan lagu dhaafin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ceebtii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ci"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "iyo bixin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:24.076035045Z",
+  "model": "glm-5.3"
+}

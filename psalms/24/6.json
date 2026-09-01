@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Kani waa qarniga kuwa doondoola, kuwa doondoola wajigaaga — Yaqoub ⟨selah⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "דור",
+      "gloss": "qarniga"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kuwa doondoola"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kuwa doondoola"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaqoub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨selah⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:22.795476137Z",
+  "model": "glm-5.3"
+}

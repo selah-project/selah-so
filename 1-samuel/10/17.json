@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu u yeeray Shemuuel ⟨את⟩ dadka xagga Yahweh, Mikfa",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Wuxuu u yeeray"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mikfa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:20:29.248094294Z",
+  "model": "glm-5.3"
+}

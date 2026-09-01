@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maxay jilbuhu ii horreeyeen, oo naasleyda maxay lahaayeen inaan nuugo?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ii horreeyeen"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "jilbuhu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "naasleyda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in aan"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "nuugo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:05.892219386Z",
+  "model": "glm-5.3"
+}

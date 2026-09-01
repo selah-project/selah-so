@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 131,
+  "translation": "Hubaal waan sinnaaday oo waan aamusiyey ⟨naf⟩tayda, sida gacmoodle ⟨kaniiniiso⟩ hooyadiis; sida gacmoodle bay tahay ⟨naf⟩taydu igu jirta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "waan sinnaaday"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "waan aamusiyey"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sida gacmoodle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kaniiniiso⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sida gacmoodle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu jirta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:03.881569037Z",
+  "model": "glm-5.3"
+}

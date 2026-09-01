@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yahweh ha ku jawaabo maalinta cidhiidhi; magaca Eloah-ka Ya'aqob ha kuu sarreeyo ⟨adiga⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "ha ku jawaabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "cidhiidhi"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ha kuu sarreeyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloah-ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:04.348512244Z",
+  "model": "glm-5.3"
+}

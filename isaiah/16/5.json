@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaa ⟨la dhisay⟩ khesed-gal ah kursiga, wuxuuna fadhiyi korkeda runta, khaymadda Daawud — xukumi, oo xukun raadin, oo cadaalad degdeg ah.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "waxaa la dhisay"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "khesed-gal ah"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursiga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna fadhiyi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkeda"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "runta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "xukumi"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "raadin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaalad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:47.103989767Z",
+  "model": "glm-5.3"
+}

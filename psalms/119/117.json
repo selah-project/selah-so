@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "I taageer ee waan badbaadayo, oo xeerarkaaga waan tixgeliyaa si joogto ah.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "I taageer"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "ee waan badbaadayo"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "oo waan tixgeliyaa"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "si joogto ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:45.904994970Z",
+  "model": "glm-5.3"
+}

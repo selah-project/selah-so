@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Boqorkuna wuxuu amray ⟨את⟩ Yowab iyo ⟨את⟩ Abiyshay iyo ⟨את⟩ Ittay, isagoo leh: Ilayshii ilmada ii sidaan si jilicsan — Abshalom. Dadka oo dhan waxay maqleen markuu boqorku amray ⟨את⟩ madaxda oo dhan ku saabsan arrinka Abshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuu amray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abiyshay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abiyshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ittay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "si jilicsan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ilimada"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "waxay maqleen"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "markuu amray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "arrinka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    }
+  ],
+  "timestamp": "2026-09-01T03:03:37.027542604Z",
+  "model": "glm-5.3"
+}

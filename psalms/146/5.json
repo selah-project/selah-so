@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Addownimaa kan caawiyaha uu yahay Elohimka Yacquub, kan rajeeya Yahweh Elohiis.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Addownimaa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "caawiyaha"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "rajeeya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:52.117418049Z",
+  "model": "glm-5.3"
+}

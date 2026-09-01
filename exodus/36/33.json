@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ tiirka dhexe inuu dhexmaro albaabada (qoryaha) laga bilaabo geesha ilaa geesha kale.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirka dhexe"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "tiirka dhexe"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "dhexe"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "inuu dhexmaro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "albaabada (qoryaha)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga bilaabo"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "geesha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "geesha kale"
+    }
+  ],
+  "timestamp": "2026-09-01T08:40:11.639148286Z",
+  "model": "glm-5.3"
+}

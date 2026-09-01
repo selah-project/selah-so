@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim badbaadaday, maalintii aan oonayn habeenkii hortaa",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "badbaadaday"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "aan oonayn"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "hortaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:16.122078116Z",
+  "model": "glm-5.3"
+}

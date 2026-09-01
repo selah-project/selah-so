@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ Hadoram, iyo ⟨את⟩ Uusal, iyo ⟨את⟩ Diqlah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Uusal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uusal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Diqlah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diqlah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:29.731720058Z",
+  "model": "glm-5.3"
+}

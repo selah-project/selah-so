@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Kannaa waa axdigayga aanad ilaalin doontaan — aniga iyo idinka dhexdiinna, iyo faracaaga kaa dib: waa la xiniinayaa idinkoo dhan, lab kasta.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kannaa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "axdigayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aanad ilaalin doontaan"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ilaalin doontaan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "aniga iyo"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "idinka dhexdiinna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "faracaaga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kaa dib"
+    },
+    {
+      "surface": "המול",
+      "gloss": "waa la xiniinayaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinkoo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:11.466289323Z",
+  "model": "glm-5.3"
+}

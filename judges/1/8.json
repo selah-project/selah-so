@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna dagaallameen curcurta Yahuudah ⟨ka⟩ Yeruushaalaym, wayna qabsadeen ⟨את⟩ waqtigeeda, afka seyfka ayayna ku dileen, ⟨את⟩ magaaladana waxay gubeen ololka.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "waxayna dagaallameen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curcurta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "⟨ka⟩ Yeruushaalaym"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "wayna qabsadeen"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ waqtigeeda",
+      "marks": "Yeruushaalaym (iyada)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ayayna ku dileen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seyfka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "waxay ku shubeen (gubeen)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ololka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:07.747125435Z",
+  "model": "glm-5.3"
+}

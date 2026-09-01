@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Way qaadatay ⟨את⟩ fooninka tanuurka, wayna hor taagan Farcoon; Muuse wuu ku riday samada si kor ah, waxayna noqotay shechiin buulal burburan dadka iyo xoolaha.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "way qaadatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fooninka"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "fooninka"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tanuurka"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wayna hor taagan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "wuu ku riday"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fooninka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "samada si kor ah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "shechiin"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "buulal"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "burburan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "iyo xoolaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:29.351743307Z",
+  "model": "glm-5.3"
+}

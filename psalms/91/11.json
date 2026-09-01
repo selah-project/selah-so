@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Maxaa yeelay malaa'igtiisa wuu amraa inay ilaaliyaan, inay kuu ilaaliyaan jidadkaaga oo dhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaa'igtiisa"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "wuu amraa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "inay ilaaliyaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jidadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:30.673003084Z",
+  "model": "glm-5.3"
+}

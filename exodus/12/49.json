@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Sharci keliya baa noqon doona kan ⟨dhulka⟩ ku dhashay, iyo soo-joogaha idinku degan.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Sharci"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "baa noqon doona"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "kan dhulka ku dhashay"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "iyo soo-joogaha"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:29.827747253Z",
+  "model": "glm-5.3"
+}

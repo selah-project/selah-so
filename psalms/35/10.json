@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Lafooyinkayaga oo dhan waxay odhanayaan: Yahweh, yaa la mid ah adiga, ee badbaadiya kan liita ka mid ka xoog badan, iyo kan liita iyo kan saboolka ah ka midka soo saara?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "lafooyinkayaga"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "waxay odhanayaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "la mid ah adiga"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "badbaadiya"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kan liita"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mid ka xoog badan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mid"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "iyo kan liita"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo kan saboolka ah"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ka midka soo saara"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.443370337Z",
+  "model": "glm-5.3"
+}

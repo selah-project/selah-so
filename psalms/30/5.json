@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Garaaca qaaci (qooga) Yahweh, khesedkiisii, oo mahadnaqa xusidda quduusnimadiisa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "garaaca qaaci (qooga)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "khesedkiisii"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "oo mahadnaqa"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "xusidda"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduusnimadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:44.915243325Z",
+  "model": "glm-5.3"
+}

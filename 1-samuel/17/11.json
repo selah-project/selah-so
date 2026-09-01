@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo markay maqleen Shaa'uul iyo Yisraa'iil dhammaantood ⟨את⟩ erayada Filistiiggaas, way niyad-jabteen, wayna aad u cabsadeen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "markay maqleen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaantood"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada Filistiiggaas"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiiggaas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lasoo gaadhay"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "way niyad-jabteen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "way cabsadeen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:36.493829802Z",
+  "model": "glm-5.3"
+}

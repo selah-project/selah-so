@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo qoryo wuu ka soo baxay geed-jiridii Yishay, oo farcuun ka mid ah xididdadiisa wuu firiday.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuu ka soo baxay"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "qoryo"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "ka geed-jiriddii"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "oo farcuun"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ka xididdadiisa"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "wuu firiday"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:20.769707378Z",
+  "model": "glm-5.3"
+}

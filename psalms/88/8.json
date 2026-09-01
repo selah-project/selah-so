@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Cadhyadaadu i saaran tahay, waxaadna i dhibtay dhammaan mowjadaada. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "i saaran"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "cadhyadaadu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mowjadaada"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "waxaad i dhibtay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.559104937Z",
+  "model": "glm-5.3"
+}

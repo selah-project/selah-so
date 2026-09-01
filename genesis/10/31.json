@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kuwani waa wiilasha Sheem, qoysaskooda iyo luuqadahooda, dhulkooda iyo shucuubahooda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani waa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "luuqadahooda"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "dhulkooda"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "shucuubahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:20.755854649Z",
+  "model": "glm-5.3"
+}

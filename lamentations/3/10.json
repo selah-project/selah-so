@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waa laygu tahay dhidib sugaya, libaax qarsoome ah.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "dhidib"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "sugaya (qarsoon)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laygu (iya)"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "libaax"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "qarsoome (meelo qarsoon)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:37.921843809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Sharaaf iyo weynaan baa ⟨mutan⟩ shuqulkiisii, umaanshihiisuna wuu taagan yahay weligiis.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Sharaaf"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "iyo weynaan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "shuqulkiisii"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "umaanshihiisuna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "wuu taagan yahay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:17.383650058Z",
+  "model": "glm-5.3"
+}

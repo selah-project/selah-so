@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Bal eeg, wuxuu uurka qaatay xumeed, wuxuu dhalay dhib, wuxuuna dhashay been.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "wuxuu uurka qaatay"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumeed"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "wuxuuna dhashay"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.036174426Z",
+  "model": "glm-5.3"
+}

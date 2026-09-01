@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha ahaan kuwa cabba khamriga, kuwa la'aansha hilibka badan, iyagoo sidaas ah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ahaan"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "kuwa cabba"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamriga"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "kuwa la'aansha hilibka badan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iyagoo sidaas ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:14.021430946Z",
+  "model": "glm-5.3"
+}

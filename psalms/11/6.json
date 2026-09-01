@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuu ku daadiyi doonaa kuwa xaq-darrada ah shabakado, naar iyo buruq, oo dabayl kulul — qaybta finaankooda baa tahay.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "wuxuu ku rogi doonaa (roob sida ah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kuwa xaq-darrada ah"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "shabakado"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naar"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "iyo buruq"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "oo dabayl"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kulul (oo qallafsan)"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "finaankooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:38.815260670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "U hadal dhamaan golaha ilmaha Yisra'iil, oo ku odh ⟨iyaga⟩: Quduus ahaadaa, waayo, ani quduus baan ahay, Yahweh Elohimkiin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (ladh)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "golaha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo ku odh"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iyaga (ladh)"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Quduus ahaadaa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ahaadaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:21.177462028Z",
+  "model": "glm-5.3"
+}

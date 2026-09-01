@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "[Markaas] waxaan dhaqaaqin doonaa kuwa xadgudbay siyaabadooka, oo dmigalayaashauna waa ku noqon doonaan.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "waxaan barbaa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "kuwa xadgudbay"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "siyaabadooka"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "oo dhaawacayaashu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "way ku noqon doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:40.864773200Z",
+  "model": "glm-5.3"
+}

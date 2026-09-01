@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu dhalay xooggii Khodesh, xaaskiisii, ⟨את⟩ Yoobab iyo ⟨את⟩ Sivya iyo ⟨את⟩ Mesha iyo ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "xooggii"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Khodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yoobab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Sivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Sivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:16.171064602Z",
+  "model": "glm-5.3"
+}

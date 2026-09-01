@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Markii Iisebel ku laayney ⟨את⟩ nebiyada Yahweh, Cabdiyaahu wuxuu qaatay boqol nebi, wuxuuna qariyay kontan iyo toban nin godal kasta, wuuna siyay lagulo\/or ah iyo biyo.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "Markii"
+    },
+    {
+      "surface": "בְּהַכְרִית",
+      "gloss": "ku laayney"
+    },
+    {
+      "surface": "אִיזֶבֶל",
+      "gloss": "Iisebel"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "nebiyada"
+    },
+    {
+      "surface": "נְבִיאֵי",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וַיִּקַּח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "עֹבַדְיָהוּ",
+      "gloss": "Cabdiyaahu"
+    },
+    {
+      "surface": "מֵאָה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "נְבִאִים",
+      "gloss": "nebi"
+    },
+    {
+      "surface": "וַיַּחְבִּיאֵם",
+      "gloss": "wuxuuna qariyay"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "kontan iyo toban"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בַּמְּעָרָה",
+      "gloss": "godal kasta"
+    },
+    {
+      "surface": "וְכִלְכְּלָם",
+      "gloss": "wuuna siyay"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "lagulo\/or ah"
+    },
+    {
+      "surface": "וָמָיִם",
+      "gloss": "…iyo biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:46.846698810Z",
+  "model": "glm-5.3"
+}

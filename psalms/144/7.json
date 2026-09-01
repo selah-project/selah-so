@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Kooxi gacantaada kor laga soo soo dhoofi; i sii bax oo i badbaadi biyo badan ka, gacanta curuurada shisheeyayaasha ka.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kooxi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kor laga"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "i sii bax"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "oo i badbaadi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "biyo badan ka"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta … ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curuurada"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "shisheeyayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:49.341901511Z",
+  "model": "glm-5.3"
+}

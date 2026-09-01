@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Aadam sharaf ⟨ku jira⟩ oo aan fahmin, wuxuu la mid noqday ⟨את⟩ bahallada — way halleysmeen.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "fahmin"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "la mid noqday"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "sida bahallada"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "way halleysmeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:49.151132359Z",
+  "model": "glm-5.3"
+}

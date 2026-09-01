@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Iyo ⟨את⟩ labada kiley, iyo ⟨את⟩ baruurta korkooda ku taal ee ku taal laba-mindadaha, iyo ⟨את⟩ daaqadda jaraha ku xiran, kiyalka la wada — wuu ka saaraa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labada kiley"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kiley"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "korkooda ku taal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku taal"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "laba-mindadaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daaqadda"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "daaqadda jaraha ku xiran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku xiran"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jaraha"
+    },
+    {
+      "surface": "על",
+      "gloss": "la wada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kiyalka"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "wuu ka saaraa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:05.113019215Z",
+  "model": "glm-5.3"
+}

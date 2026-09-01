@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waayo addoomadaadu waxay ku raaxeysteen ⟨את⟩ dhagaxyadeeda, ⟨את⟩ boorakeedana way u deeqsadaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "waxay ku raaxeysteen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomadaadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyadeeda"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "dhagaxyadeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boorakeeda"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "boorakeeda"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "way u deeqsadaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:02.895782486Z",
+  "model": "glm-5.3"
+}

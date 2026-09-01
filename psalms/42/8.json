@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Tehom Tehom ku dhawaaqaysaa codka biyo-shidaalahaaga; gabaladaada oo dhan iyo mawjadaada i gudbay.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "dhawaaqaysaa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "biyo-shidaalahaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "gabaladaada"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "iyo mawjadaada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gudbay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:10.375624680Z",
+  "model": "glm-5.3"
+}

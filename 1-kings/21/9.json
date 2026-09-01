@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxayna ku qortay warqaddaha ⟨in lagu yidhaahdo⟩: Ku dhawaaqa soonka, oo fadhiisiya ⟨את⟩ Nabot horka dadweynaha.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "waxayna ku qotay"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "warqaddaha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in lagu yidhaahdo"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku dhawaaqa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "soonka"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "oo fadhiisiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "horka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadweynaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:50.961228903Z",
+  "model": "glm-5.3"
+}

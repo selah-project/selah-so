@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Dhammaan magaalooyinka miisha, iyo dhammaan Gilead, iyo dhammaan Bashan ilaa Salkhah iyo Edrei, magaalooyinka boqortooyada Og ee Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "miisha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkhah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "iyo Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ee Bashan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:17.877641946Z",
+  "model": "glm-5.3"
+}

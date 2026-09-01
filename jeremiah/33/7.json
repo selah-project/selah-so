@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waxaan celin celadadii Yahudaa iyo ⟨את⟩ celadadii Israa'iil, waana dhisaa sidii horayba.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Waxaan celin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celadadii Yahudaa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "celadadii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "celadadii Israa'iil"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "celadadii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "waana dhisaa"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "sidii horayba"
+    }
+  ],
+  "timestamp": "2026-09-01T04:14:41.044226819Z",
+  "model": "glm-5.3"
+}

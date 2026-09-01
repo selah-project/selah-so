@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Indhaha dhamaan waxay adiga kala sugayaan, adiguna waxaad siisaa ⟨את⟩ cunnadooda waqtigeeda.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "waxay ... sugayaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "waxaad siisaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cunnadooda"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "cunnadooda"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "waqtigeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:37.837850182Z",
+  "model": "glm-5.3"
+}

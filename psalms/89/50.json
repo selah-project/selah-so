@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Xaggee yihiin khesedkaagii hore, Adonay? Adigoo ku dhaartay Dawiid ⟨⟨samideentaada⟩⟩.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Xaggee"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "khesedkaagii"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Adigoo ku dhaartay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "samideentaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:33.740613957Z",
+  "model": "glm-5.3"
+}

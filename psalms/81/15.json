@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Wax yar cadowgooda baan hoos u dhiggi lahaa, gacantaydana waan u jeedin lahaa kuwa cabsi gelinaya.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "cadowgooda"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "hoos u dhiggi lahaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u (jeedin)"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "kuwa cabsi gelinaya"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "waxaan jeedin lahaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantaydana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:29.549788744Z",
+  "model": "glm-5.3"
+}

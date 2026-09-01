@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaan kuu ooyayaa, adiguse i ma jawaabayo; waan istaagyay, adiguna iiguma eegto.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Waxaan kuu ooyayaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "i ma jawaabayo"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "waan istaagyay"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "iiguma eegto"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:48:28.590641141Z",
+  "model": "glm-5.3"
+}

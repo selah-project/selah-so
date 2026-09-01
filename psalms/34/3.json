@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Nafteydii Yahweh bay ku faantaa; waaya-aragguna way maqli doonaan, oo way ku farxi doonaan.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bay ku faantaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafteydii"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "way maqli doonaan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "waaya-aragga"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "way ku farxi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:30.629325119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Marka Ilmii Chet waxay ka jawaabeen ⟨את⟩ Abraham, iyagoo ku dhihi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "waxay ka jawaabeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ilmii"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo ku dhihi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ugi"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:31.587541370Z",
+  "model": "glm-5.3"
+}

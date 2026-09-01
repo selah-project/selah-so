@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna gowracayaa ⟨את⟩ ilmaha lo'da hortii Yahweh; wiilashiina Axaron oo wadaaddo ah baa keenaya ⟨את⟩ dhiigga, waxayna daadiyaa ⟨את⟩ dhiigga meelaha geddanka ah ee gurbaanka (altar-ka) ku dhowyahay, kaasoo ah iridda khaymadta kulanka.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "gowracayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha lo'da"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "keenaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashiina"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddo ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "daadiyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gurbaanka (altar-ka)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "meelaha geddanka ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo ah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymadta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:03.618957609Z",
+  "model": "glm-5.3"
+}

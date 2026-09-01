@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 27:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Waxaad u samayn doontaa shabakad samays (makaabaro) oo naxaas ah, oo shabakadda waxaad ku samayn doontaa afar xidid (goobo) oo naxaas ah, afar geesahaheeda.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad u samayn doontaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "makaabaro (shabakad)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "samays (qaab)"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "shabakad"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaas"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waxaad ku samayn doontaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (ku dhex)"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "goobo (xidid)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (lugaha)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "geesahaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:32.707325678Z",
+  "model": "glm-5.3"
+}

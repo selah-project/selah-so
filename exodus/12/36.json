@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yahwehna wuxuu siiyay ⟨את⟩ nadguf shacabka indhaha Mitsrayim, waxayna ka siiyeen waxay weydiiseen; sidaas bayna ka naceen (ka qaadeen hantidii) ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nadguf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nadguf"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "waxayna ka siiyeen waxay weydiiseen"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "wayna ka naceen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:39.114815626Z",
+  "model": "glm-5.3"
+}

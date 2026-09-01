@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahweh wuxuu jebiyay ulaha kuwa sharta ah, ulaha (xeerka) ee kuwa maamula.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "wuxuu jebiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ulaha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kuwa sharta ah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ulaha (xeerka)"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "kuwa maamula"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:01.607194725Z",
+  "model": "glm-5.3"
+}

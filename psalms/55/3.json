@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "I dhageyso oo i jawaab, waayo aniga waalad baan ahay murankayga, oo oohin baan qaadayaa.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "i dhageyso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "oo i jawaab"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "waalad baan ahay"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "murankayga"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "oo oohin baan qaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:19.751271689Z",
+  "model": "glm-5.3"
+}

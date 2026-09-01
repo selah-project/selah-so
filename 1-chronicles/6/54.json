@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "iyo ⟨את⟩ Ayalon iyo ⟨את⟩ migorashooyinkeeda, iyo ⟨את⟩ Gath-Rimon iyo ⟨את⟩ migorashooyinkeeda",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "migorashooyinkeeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migorashooyinkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Gath-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "migorashooyinkeeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migorashooyinkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:47.995958439Z",
+  "model": "glm-5.3"
+}

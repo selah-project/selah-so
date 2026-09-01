@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo aabbihiis weligiis ma dhibin ⟨isaga⟩ oo odhan, Maxaad sidan u sameysay? Oo isaguna wuxuu ahaa ⟨mid⟩ muuqaal wanaagsan aad u, oo hooyadiis waxay dhashay ⟨את⟩ isaga kadib Abshaalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "dhibin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sidan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "u sameysay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaguna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "muuqaal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalom"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:49.692167053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Sidaas darteed dheh: Waa kan aan siinayaa ⟨את⟩ ballankayga ⟨nabad⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sidaas darteed"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dheh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Waa kan aan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siinayaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballankayga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballankayga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨nabad⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:53.835805835Z",
+  "model": "glm-5.3"
+}

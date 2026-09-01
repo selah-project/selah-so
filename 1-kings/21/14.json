@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markaasay u dirdeen Iisebel iyagoo leh: Nabot waa la dhagax-tuuray, wuuna dhintay.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Markaasay u dirdeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iisebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "waa la dhagax-tuuray"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:08.214531289Z",
+  "model": "glm-5.3"
+}

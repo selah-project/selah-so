@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo waxaad samayn doontaa ⟨את⟩ dabaysha efodka, oo dhan mid buluug ah.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaad samayn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabaysha efodka"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "dabaysha"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodka"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "mid buluug ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:26.928299961Z",
+  "model": "glm-5.3"
+}

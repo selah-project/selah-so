@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Gal dhagaxta gudaheeda, oo isqarso coloda, cabsida Yahweh iyo sharafta weynaaadiisa darteed.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Gal"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "dhagaxta gudaheeda"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "oo isqarso"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "coloda (gudaheeda)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "sharafta"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "weynaaadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:36.180823462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Dhibaatada oo dhan ee aadanaha afkiisaa lagu gudoonsiyaa, naftuna weligeed ma dhammaystirantid.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ee aadanaha"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "afkiisaa lagu gudoonsiyaa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "naftuna weligeed"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dhammaystirantid"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:40.225622660Z",
+  "model": "glm-5.3"
+}

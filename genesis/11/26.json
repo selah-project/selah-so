@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Terax wuxuu noolaa toddobaatan sanad, wuxuuna dhalay ⟨את⟩ Abrham, ⟨את⟩ Naxor iyo ⟨את⟩ Haarana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Haarana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haarana"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:32.688276936Z",
+  "model": "glm-5.3"
+}

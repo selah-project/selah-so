@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna maydhay ⟨את⟩ dhexdhexaadaha iyo ⟨את⟩ lugaha, wuxuuna ku gubay mgal allabarka-gubista altarka.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "wuxuuna maydhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhexdhexaadaha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dhexdhexaadaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lugaha"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "lugaha"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wuxuuna ku gubay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabarka-gubista"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mgal altarka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.427233549Z",
+  "model": "glm-5.3"
+}

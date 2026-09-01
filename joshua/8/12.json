@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna qaatay shan kun oo nin, wuuna dhigay ⟨את⟩ iyagoo dhul-goshiis u dhexeeya Beytul-el iyo Haayi, galbeedka magaalada.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "shan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuuna dhigay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dhul-goshiis"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "dhul-goshiis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "galbeed"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:13.830054282Z",
+  "model": "glm-5.3"
+}

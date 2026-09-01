@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 4:8",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Iyo ⟨את⟩ nuqulka qoraalka sharciga la siiyay Shuushan si loo baabi'iyo dadkaas, ayuu siiyay isaga, si uu u muujiyo ⟨את⟩ Ester oo uga warbixo, oo u amro inay u gasho boqorka, inay u baryo isaga, oo ay horiisa ka warsato dadkeeda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "nuqulka qoraalka sharciga"
+    },
+    {
+      "surface": "פתשגן",
+      "gloss": "nuqulka"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "qoraalka"
+    },
+    {
+      "surface": "הדת",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "la siiyay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shuushan"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "si loo baabi'iyo dadkaas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ayuu siiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "si uu u muujiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ולהגיד",
+      "gloss": "oo uga warbixo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uye"
+    },
+    {
+      "surface": "ולצוות",
+      "gloss": "oo u amro"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "inay"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "u gasho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "להתחנן",
+      "gloss": "inay u baryo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "oo ay warsato"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "horiisa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "digit u"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "dadkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:33.111707243Z",
+  "model": "glm-5.3"
+}

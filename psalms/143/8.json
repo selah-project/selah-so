@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Aroortii iigu dhig khesedkaaga (maqal) (si aan maqlo), adigaynaan kuu talax saaran; ii sheeg waddada aan ku soconno, (si aan ku soconno) — (waayo) adigay naftayda kuu qaaday.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "iigu dhig maqal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aroortii"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aan kuu talax saaran"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ii sheeg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "זו",
+      "gloss": "taan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aan ku soconno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aan kuu qaaday"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:53.035768530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waayo, haddii aad diidatto inaad dayso ⟨את⟩ dadkay, hubaal annigaa beri soo keeni gaari (axmar) ntooyin xuduudahaada gudeed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "aad diidatto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aad"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "inaad dayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkay"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkay"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hubaal annigaa"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "soo keeni"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "beri"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "tooyin (axmaar badan)"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "xuduudahaada gudeed"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:56.227737523Z",
+  "model": "glm-5.3"
+}

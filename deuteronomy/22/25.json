@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii nin la helo gabadhii la bashaalay ee beerta ku jirta ⟨את⟩, oo ninka ku adkaanay oo la seexday, markaa ninka la seexday keliya waa la dili doonaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerta ku jirta"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "la helo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhii la bashaalay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "la bashaalay"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ku adkaanay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "la seexday"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "waa la dili doonaa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "la seexday"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "la"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:44.559736468Z",
+  "model": "glm-5.3"
+}

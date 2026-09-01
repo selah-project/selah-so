@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Munaaradda nadiifka ah yaal, wuxuu diyaarin doonaa ⟨את⟩ laambamaha Yahweh hortiisa si joogto ah.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yaal"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "munaaradda"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nadiifka ah"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "wuxuu diyaarin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laambamaha"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "laambamaha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "si joogto ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:21.599437827Z",
+  "model": "glm-5.3"
+}

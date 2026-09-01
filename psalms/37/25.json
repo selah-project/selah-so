@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waxaan ahaa ilmo-yar, waana caan gaaray, mana arag saxiixa la taago, ama uurkiisa lacag-bixinaya rooti.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ilmo-yar"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waxaan ahaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "waana"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "caan gaaray"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "arag"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "saxiixa"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "la taago"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ama uurkiisa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "lacag-bixinaya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:16.847283653Z",
+  "model": "glm-5.3"
+}

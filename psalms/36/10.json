@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waayo, adiga ⟨aa⟩ jira ilshaha nolosha; iftiinkaagaa baynu iftiin ku aragnaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adida xaggiisa"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ilshaha"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "iftiinkaaga"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "baynu ku aragnaa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:49.645234947Z",
+  "model": "glm-5.3"
+}

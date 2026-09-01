@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Ku noqo (noqosho) nafdeydii, xasilli (nasbasho)keedii; maxaayeelay Yahweh wuu ku deeqsiiyay (wanaag sameeyay).",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Ku noqo (noqosho)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdeydii"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "xasilli (nasbasho)keedii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaayeelay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "wuu deeqsiiyay (wanaag sameeyay)"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.105914684Z",
+  "model": "glm-5.3"
+}

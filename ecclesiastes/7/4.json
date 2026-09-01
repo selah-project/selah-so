@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Qalbiga xugiintu wuxuu ku jiraa guriga baroordiiqda, oo qalbiga doqonnimada wuxuu ku jiraa guriga farxadda.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "xugiinta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "baroordiiqda"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "oo qalbiga"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "doqonnimada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farxadda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:27.434050900Z",
+  "model": "glm-5.3"
+}

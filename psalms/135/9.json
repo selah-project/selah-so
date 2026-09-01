@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Wuxuu soo diray calaamado iyo mu'jiso dhexdooda Mitsrayim, Farcoon iyo addoomadiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wuxuu soo diray"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "calaamado"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "iyo mu'jiso"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:52.088525659Z",
+  "model": "glm-5.3"
+}

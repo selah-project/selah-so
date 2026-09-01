@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waan itaalmay, waxaana la dulloobay aad u daran; qayladeyda waxay ka timid tahayuridda laybgayga.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Waan itaalmay"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "waxaana la dulloobay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "u daran"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "qayladeyda"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ka timid tahahuridda"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "laybgayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:56.610406912Z",
+  "model": "glm-5.3"
+}

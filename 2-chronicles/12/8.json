@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Laakiin waxay ahaan doonaan addoommo u ah isaga, si ay u ogaadaan adeeggayga iyo adeegga boqortooyada dhulalka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Laakiin si"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waxay ahaan doonaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u ah isaga"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "addoommo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "si ay u ogaadaan"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "adeeggayga"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "iyo adeegga"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dhulalka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:44.421425836Z",
+  "model": "glm-5.3"
+}

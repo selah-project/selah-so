@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Wuu daciifiyay iiddarraddayda waddada; wuu gaabsiiyay maalimahayga.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Wuu daciifiyay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "iiddarraddayda"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "wuu gaabsiiyay"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalimahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:44.573553791Z",
+  "model": "glm-5.3"
+}

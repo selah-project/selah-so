@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 125,
+  "translation": "Kuwa dhabarka u jeeda sidii tara-yaal ah, Yahweh wuxuu la socon siin doonaa ⟨את⟩ kuwa fala shar-dhaqaajin ah. Nabad ha ahaato Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "kuwa dhabarka u jeeda"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "sidii tara-yaal ah"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "wuxuu la socon siin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa fala shar-dhaqaajin ah"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "האון",
+      "gloss": "shar-dhaqaajin ah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha ahaato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:34.678573659Z",
+  "model": "glm-5.3"
+}

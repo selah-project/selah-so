@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Markaan idhi cagaydu way dhaaftay, khesedkaaga, Adonay Yahweh, i ⟨taageeray⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "markaan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "idhi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "way dhaaftay"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagaydu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "i taageeray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:01.746667902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Hees ll Daawud, markuu ku jiray barigii Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ll Daawud"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "markuu ku jiray"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "barigii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:54.149018455Z",
+  "model": "glm-5.3"
+}

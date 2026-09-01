@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Shaa'uulna wuxuu u soo dhowaaday ⟨את⟩ Shamuu'il albaabka dhexdiisa, wuxuuna yidhi: Ii sheeg waan baryayaa, xaggee ayaa guriga arkaaha?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wuxuu u soo dhowaaday"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shamuu'il"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuu'il"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ii sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan baryayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אי",
+      "gloss": "xaggee"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ayaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "arkaaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:00.717232043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh wuxuu sameeyay sida ereyga Muuse; oo rafooyinkii way dhinteen — guryihii ka dib, barxamahii ka dib, iyo beerihii ka dib.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida ereyga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "way dhinteen"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "rafooyinkii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "guryihii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "barxamahii"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iyo ka dib"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "beerihii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:33.857714555Z",
+  "model": "glm-5.3"
+}

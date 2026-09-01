@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo haddii allabari qorshaddu ah mid la karay ⟨macaamiishada⟩ (machabat) — qorshaddaada — waxay noqonaysaa middo (soleet) salugga ah oo shuulka lagu dheelay, oo aan khamiir ahayn (matsah).",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "oo haddii"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "qorshad allabari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "macaamiisha (machabat)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "qorshaddaada allabari"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "middo (soleet)"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "lagu dheelay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "shuulka"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "aan khamiir ahayn (matsah)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxay noqonaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:54.594566396Z",
+  "model": "glm-5.3"
+}

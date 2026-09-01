@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Carraaftooda waxay sidoomeen sida mas; sunta mas qarsoon ayaa hoos taal labadooda. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "sidoomeen"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "carraaftooda"
+    },
+    {
+      "surface": "кמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mas"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sunta"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "mas qarsoon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "labadooda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:37.366964331Z",
+  "model": "glm-5.3"
+}

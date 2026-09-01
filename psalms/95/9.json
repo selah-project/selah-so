@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Goortay aabayaashiin ii tijaabiyeen, ii baariseen, iyagoon arkay shuqulkayga.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "goortay"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ii tijaabiyeen"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aabayaashiin"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ii baariseen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyagoon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "shuqulkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:36.746600649Z",
+  "model": "glm-5.3"
+}

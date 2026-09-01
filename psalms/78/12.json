@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Hortooda aabayaashood wuxuu sameeyay yaab dheeraad ah, dhulka Mitsrayim, beerka Tsoan.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Hortooda"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabayaashood"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "yaab dheeraad ah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:29.845637840Z",
+  "model": "glm-5.3"
+}

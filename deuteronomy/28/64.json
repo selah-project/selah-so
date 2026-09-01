@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahwehna wuu idinka kala firin doonaa dhammaan shacabka, dariska dhulka ilaa dariska kale ee dhulka; waxaadna halkaas caabudi doontaashaan Elohim kale oo aan adiga iyo aabayaashaad garanayn, dhagax iyo geed.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "wuu idinka kala firin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dariska"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dariska kale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ee dhulka"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "waxaadna caabudi doontaashaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim kale"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "iyo aabayaashaad"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dhagax iyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:06.859748442Z",
+  "model": "glm-5.3"
+}

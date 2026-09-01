@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Sannadkii Tartan uu yimid Ashdod, markii Sargon boqorka Ashshuur uu dirtay ⟨את⟩ isaga, oo uu la dagaalamay Ashdod, oo uu qabsaday.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sannadkii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uu yimid"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "markii uu dirtay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshuur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "oo uu la dagaalamay"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "oo uu qabsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T08:25:08.623210323Z",
+  "model": "glm-5.3"
+}

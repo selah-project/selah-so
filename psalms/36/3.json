@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waayo wuu is-nafeed indhihiisa, si uu u helo dambigiisa in la necebo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "is-nafeed"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "is"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "indhihiisa"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "si uu u helo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dambigiisa"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "in la necebo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:23.140657356Z",
+  "model": "glm-5.3"
+}

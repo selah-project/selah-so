@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Laakiin aniga waan ogyahay fadhigaaga iyo bixitaankaaga iyo soo-aadkaaga, iyo ⟨את⟩ cadawdaraada ii ah.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "fadhigaaga"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "iyo bixitaankaaga"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "iyo soo-aadkaaga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cadawdaraada"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "cadawdaraada"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:37.341797519Z",
+  "model": "glm-5.3"
+}

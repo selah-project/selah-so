@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Markhaati ayuu ku dhigay Yehoosaf, markuu ka baxay dhulka Mitsrayim; luuqad aan aqoon baa maqalkii.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Markhaati"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yehoosaf (ku)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ku dhigay"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "markuu ka baxay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhulka (oogada)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "luuqad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "maqalkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:44.535730097Z",
+  "model": "glm-5.3"
+}

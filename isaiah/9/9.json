@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Alwaaxadii waa dhaceen, laakiin dhagax la qayn-qayray baan ku dhisaynaa; geedaha sikomoorka waa la gooyay, laakiin saraha baan ku beddelaynaa.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "alwaaxadii"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "waa dhaceen"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "laakiin dhagax la qayn-qayray"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "baan ku dhisaynaa"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "geedaha sikomoorka"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "waa la gooyay"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "laakiin saraha"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "baan ku beddelaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:06.037842609Z",
+  "model": "glm-5.3"
+}

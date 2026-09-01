@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Markaan dhib ku jiray waxaan u dhawaaqay Yahweh, oo Elohimay aan u qayliyay; oo wuxuu macbudkiisa ka maqlay codkaygii, oo qaylitaydii dhegtiisa ayay gaartay.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Markaan dhib ku jiray"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waxaan u dhawaaqay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ... aan u"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayliyay"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "oo wuxuu maqlay"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "macbudkiisa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkaygii"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "oo qaylitaydii"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "dhegtiisa ayay gaartay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:48.079728258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo dadkii Mitsrayim oo dhan Wabiyaa waxay ku qodeen hareerahiisa biyo ay cabbadan, waayo awood ma u hayaan inay cabbadaan biyaha Wabiyaa.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "waxay qodeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dadkii Mitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "hareerahiisa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Wabiyaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ay cabbadan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "awood u hayaan"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "inay cabbadaan"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "biyaha ka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Wabiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:16.138348231Z",
+  "model": "glm-5.3"
+}

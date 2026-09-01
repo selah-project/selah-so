@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Miyeysan badbaadin ⟨את⟩ kuwan ilaahyada dawladaha ay baabbi'iyeen aabbayaashay — ⟨את⟩ Gozan iyo ⟨את⟩ Charan iyo Retsef iyo reer Eden kuwaas oo ku nool Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Miyeysan badbaadin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan ilaahyada dawladaha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahyada"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dawladaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "baabbi'iyeen"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "aabbayaashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "iyo Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iyo reer"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ku nool Telassar"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:47.841759183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Way noqotay markay boqortooyadu gacantiisa ku adkaatay, wuxuu diley ⟨את⟩ adeegyadiisii dileyay ⟨את⟩ boqorka aabbiis.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "way noqotay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ku adkaatay"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "boqortooyadu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuu diley"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegyadiisii"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adeegyadiisii"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "dileyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbiis"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:44.208995407Z",
+  "model": "glm-5.3"
+}

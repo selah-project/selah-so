@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Haddii aad adigu dirayso ⟨את⟩ walaalkayaga ⟨את⟩ nalaaSocda, waan teeginna, waanan kuu iibsanaynaa cunno.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "aad adigu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "dirayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalkayaga"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "walaalkayaga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nalaaSocda"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "waan teeginna"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "waanan iibsanaynaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunno"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:50.156315723Z",
+  "model": "glm-5.3"
+}

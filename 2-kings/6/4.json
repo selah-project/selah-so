@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuu tebay ⟨את⟩ la (iyaga), wayna yimaaddeen dhinaca Webiga Yarden, waxayna gooyeen geedaha.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tebay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ la (iyaga)",
+      "marks": "iyaga — nebiyada ardayda ah"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wayna yimaaddeen"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "dhinaca Webiga Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "waxayna gooyeen"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "geedaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:45.775402720Z",
+  "model": "glm-5.3"
+}

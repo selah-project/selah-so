@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ninni Israa'iilna markay arkayeen inay u dhib tahay — waayo dadkii waa la ceyriyay — dadkii waxay is qariyeen godo iyo qoryo-bohollo iyo dhagaxyo iyo afo-yaallo iyo biyo-bohollo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ninni Israa'iilna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "markay arkayeen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "צר",
+      "gloss": "u dhib tahay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "waa la ceyriyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "waxay is qariyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "godo"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "qoryo-bohollo"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "afo-yaallo"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "biyo-bohollo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:46.589860874Z",
+  "model": "glm-5.3"
+}

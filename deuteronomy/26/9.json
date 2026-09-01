@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Wuxuu na keenay ⟨ilay⟩ meeshan, wuxuuna na siiyay ⟨את⟩ dhulkan — dhul caano iyo malab ka socda.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "wuxuu na keenay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ka socda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "caano"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "iyo malab"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:41.622356842Z",
+  "model": "glm-5.3"
+}

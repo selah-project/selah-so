@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Oo isaguu ⟨את⟩ Yisra'iil ka fidiin doonaa dhammaan dambiyoogiisa.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "oo isaguu"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ka fidiin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dambiyoogiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:50.258000310Z",
+  "model": "glm-5.3"
+}

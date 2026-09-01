@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Mahalaleel wuxuu noolaa shan iyo lixdan sano, wuxuuna dhalay ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "iyo lixdan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:52.039686812Z",
+  "model": "glm-5.3"
+}

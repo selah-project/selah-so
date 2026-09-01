@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Sabadna wuxuu dhalay ⟨את⟩ Efalaal, Efalaalna wuxuu dhalay ⟨את⟩ Cabad.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Sabadna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efalaal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efalaal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Efalaalna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabad"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Cabad"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:22.415202162Z",
+  "model": "glm-5.3"
+}

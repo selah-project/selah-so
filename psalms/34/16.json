@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Indhaha Yahweh waxay aadeen ⟨dhanka⟩ ragga xaqa ah, iyo dhegahiisuna ⟨dhanka⟩ qayladdooda.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhanka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ragga xaqa ah"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "iyo dhegahiisuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhanka"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qayladdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:25.583334230Z",
+  "model": "glm-5.3"
+}

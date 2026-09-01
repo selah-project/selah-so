@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh Elohimay, haddii aan waxaan sameeyay, haddii ⟨waxaan⟩ xaq-darrada gacmahayda ku jirto,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan waxaan sameeyay"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waxaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨waxaan⟩ jirto"
+    },
+    {
+      "surface": "עול",
+      "gloss": "xaq-darrada"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "gacmahayda ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:23.021717571Z",
+  "model": "glm-5.3"
+}

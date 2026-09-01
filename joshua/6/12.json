@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yehooshuuca wuxuu arooryay subaxdii, wadaaddadana waxay qaadeen ⟨את⟩ sanduuqa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wuxuu arooryay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wadaaddadana waxay qaadeen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:18:22.451404616Z",
+  "model": "glm-5.3"
+}

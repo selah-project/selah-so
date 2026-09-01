@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo waan kugu dalbanayaa ilay-garasho (sida aroos) aniga igu weligeed; haa, waan kugu dalbanayaa aniga igu cadaalad iyo xukun iyo khesed (jacayl daacad ah) iyo naxariis.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "waan kugu dalbanayaa (aroos)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga igu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "haa, waan kugu dalbanayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga igu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "iyo khesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "iyo naxariis"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:06.913632511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Wuxuu wadan doonaa biyo il (wadan) ah waddada dhexdeeda; sidaas darteed wuxuu sarayn doonaa madaxa.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "il"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada dhexdeeda"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "wuxuu wadan doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaas darteed (markii)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wuxuu sarayn doonaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:48.279102225Z",
+  "model": "glm-5.3"
+}

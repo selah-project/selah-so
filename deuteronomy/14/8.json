@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Iyo ⟨את⟩ doolasha, waayo farasad buu qaaday laakiin liar ma cuno — nijaas baa idiin yahay; digirkooda ha cunina, nataashoodana ha taabinina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "doolasha"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "doolasha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "qaaday"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "farasad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "liar"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nijaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "digirkooda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cunina"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "nataashoodana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "taabinina"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:30.934583286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaadna dhigtaa wixii dhan gacmaha Axuun iyo gacmaha wiilashiisa, waxaadna ⟨את⟩ iyaga ku tuuntoo — tuunmo (allabari la tuunay) — Yahweh hortiisa.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "waxaadna dhigtaa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wixii dhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axuun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "waxaadna ku tuuntoo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tuunmo (allabari la tuunay)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:22.309311903Z",
+  "model": "glm-5.3"
+}

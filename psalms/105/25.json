@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu beddelay qalbigood inay necebaan dadkiisa, si ay u khiyaameeyaan addoomadiisa.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Wuxuu beddelay"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbigood"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "inay necebaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "si ay u khiyaameeyaan"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "addoomadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.984510851Z",
+  "model": "glm-5.3"
+}

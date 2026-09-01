@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Oo way laabteen oo khiyaano sameeyeen sida aabboodkood; way isbeddelleen sida qaws (gabdha) khiyaano ah.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "way laabteen"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "khiyaano sameeyeen"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "sida aabboodkood"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "way isbeddelleen"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "sida qaws"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaano ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:50.577031346Z",
+  "model": "glm-5.3"
+}

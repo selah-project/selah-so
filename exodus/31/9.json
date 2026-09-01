@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "iyo ⟨את⟩ meel-allabbaridda guryo-dhiska iyo ⟨את⟩ qalabkeeda oo dhan, iyo ⟨את⟩ shaamadda iyo ⟨את⟩ salkeeda",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "meel-allabbaridda guryo-dhiska"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meel-allabbaridda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "guryo-dhiska (allabbaridda guryo-dhiska)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalabkeeda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shaamadda"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "shaamadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "salkeeda"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "salkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:00.296747180Z",
+  "model": "glm-5.3"
+}

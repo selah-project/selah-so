@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waddada beenbuurka ah iiga deeg, oo Sharcigaaga si fadli ah ii sii.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Waddada"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenbuurka ah"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "iiga deeg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "oo Sharcigaaga"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "si fadli ah ii sii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:07.290031506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 22:15",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Miyaadad ilaalin doontaa jidka waaweyn ee qadiimka ah, ee ragga xumaan ku dhintay ku socdeen?",
+  "tokens": [
+    {
+      "surface": "הארח",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadiimka ah (ee waaweyn)"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "miyaadad ilaalin doontaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ku socdeen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:49.980115143Z",
+  "model": "glm-5.3"
+}

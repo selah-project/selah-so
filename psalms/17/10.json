@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Baruurkooda way isku xidheen, afkoodana way ku hadleen kibir.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "baruurkooda"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "way isku xidheen"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "afkoodana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "way ku hadleen"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kibir"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:26.039792811Z",
+  "model": "glm-5.3"
+}

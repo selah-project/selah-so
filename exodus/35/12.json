@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "⟨את⟩ Sanduuqa iyo ⟨את⟩ qalabyadiisa, ⟨את⟩ saxannada dambinimada iyo ⟨את⟩ Shabakadda (parokhet) ee daboolka",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanduuqa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sanduuqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalabyadiisa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "qalabyadiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saxannada dambinimada"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "saxannada dambinimada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shabakadda (parokhet)"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "Shabakadda (parokhet)"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "daboolka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:18.005136355Z",
+  "model": "glm-5.3"
+}

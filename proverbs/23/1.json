@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Markaad fadhiday si aad u cunto ⟨את⟩ talisaha, si fiican u garo ⟨את⟩ waxa hortaada ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markaad"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "fadhiday"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "si aad u cunto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talisaha"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "talisaha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "si fiican u"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "garo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa hortaada ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:08.824318144Z",
+  "model": "glm-5.3"
+}

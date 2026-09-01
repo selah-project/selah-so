@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Ilaa goormaad, shar-yahayaalow, yaa Yahweh? Ilaa goormaa, shar-yahayaalow, kuwaasu waa farxi farax san ah?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yahayaalow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yahayaalow"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "farxi farax san ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:42.742303614Z",
+  "model": "glm-5.3"
+}

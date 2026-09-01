@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo Yahweh idinku hadlay dhehta dhexdeeda; cod ereyo aad maqaysaan, muuqaal ma aragtaan — cod keliya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dhehta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aad"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "maqaysaan"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "muuqaal"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "aragtaan"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "aan ka ahayn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:28.949507137Z",
+  "model": "glm-5.3"
+}

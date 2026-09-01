@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "isagoo odhan: Adigaa aan siin doonaa ⟨את⟩ dhulka Kana'aan, inuu yahay qaybta dhaxlaydiinna.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo odhan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aan siin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Kana'aan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kana'aan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "dhaxlaydiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:15.638570527Z",
+  "model": "glm-5.3"
+}

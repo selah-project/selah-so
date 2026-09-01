@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Boqorkuna wuu doonayaa quruxdaada, waayo isagu waa Sayidkaaga; u sujuudna.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "wuu doonayaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorkuna"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "quruxdaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Sayidkaaga"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "u sujuudna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.825878971Z",
+  "model": "glm-5.3"
+}

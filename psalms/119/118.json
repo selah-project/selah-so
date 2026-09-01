@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaad ka tirtirtay dhammaan kuwa xeerarkaaga ka lumaaday, waayo, khiyaanadoodu waa been.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "waxaad ka tirtirtay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "kuwa ... ka lumaaday"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "khiyaanadoodu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:45.905309841Z",
+  "model": "glm-5.3"
+}

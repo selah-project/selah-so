@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Waxay samada ku dhejiyeen afkooda, carrabkoodana wuu ku soconaa dhulka.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "waxay ku dhejiyeen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afkooda"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "carrabkoodana"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "wuu ku soconaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.299499992Z",
+  "model": "glm-5.3"
+}

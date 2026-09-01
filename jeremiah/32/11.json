@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxaan qaaday ⟨את⟩ buugga iibsiga — ⟨את⟩ kan la xiray, sharciga iyo caadada, iyo ⟨את⟩ kan furan.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "waxaan qaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buugga iibsiga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "iibsiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan la xiray"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "kan la xiray"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "iyo caadada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kan furan"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "kan furan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:14:52.332601983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuu deyay Yahweh waqtigoo lagu sheegay in aan berri Yahweh sameyn ereygan ⟨⟨kan⟩⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wuxuu deyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waqtigoo lagu sheegay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in aan lagu sheegay"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "berri"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:40.416544826Z",
+  "model": "glm-5.3"
+}

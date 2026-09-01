@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo maa'ookh (la mashqucay) iyo katoot (la burburiyay) iyo natooq (la gooyay) iyo karoot (la jaray) — ha dhawaanina Yahweh, oo dhulkiinnaba ha ku dhiginina.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "iyo maa'ookh (la mashqucay)"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "iyo katoot (la burburiyay)"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "iyo natooq (la gooyay)"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "iyo karoot (la jaray)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "dhawaanina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "oo dhulkiinna (gudaheeda)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dhiginina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:46.057962375Z",
+  "model": "glm-5.3"
+}

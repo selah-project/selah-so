@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Erayadayda baad ku odhan doontaa ⟨את⟩ iyaga, hadday maqlaan iyo hadday diidaanba — waayo, qoys caasi ah bay yihiin.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "baad ku odhan doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayadayda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayadayda"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hadday"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "maqlaan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo hadday"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "diidaanba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "qoys caasi ah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bay yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:24:17.896678456Z",
+  "model": "glm-5.3"
+}

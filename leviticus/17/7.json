@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo aysan mar dambe u gowacin ⟨את⟩ allabbyadooda ri'yadooda ay kufsadaan ka dib; xeer waarta kan u noqon doonaa iyaga iyo durriyadoodaba.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "oo aysan"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "u gowacin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabbyadooda"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "allabbyadooda"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "ri'yadooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "kufsadaan"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "xeer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waarta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "u noqon doonaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "iyo durriyadoodaba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:48.733713306Z",
+  "model": "glm-5.3"
+}

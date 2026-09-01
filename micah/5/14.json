@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaan sameyn doonaa xanaaq iyo cadhad ah ciqaab ⟨את⟩ umadaha aan maqal.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "waxaan sameyn doonaa"
+    },
+    {
+      "surface": "באף",
+      "gloss": "xanaaq"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "cadhad"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ciqaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umadaha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "umadaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maqal-maahaan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "aan maqal"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:24.800828047Z",
+  "model": "glm-5.3"
+}

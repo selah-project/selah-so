@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo sidii ay bay ahayd markay ka badan tahay duceysiga Yahweh horteeda, Eeli wuu fiirinayay ⟨את⟩ afkeeda.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oo sidii ay bay ahayd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "ka badan tahay"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "duceysiga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wuu fiirinayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkeeda"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:07.064103956Z",
+  "model": "glm-5.3"
+}

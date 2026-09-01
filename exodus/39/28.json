@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Iyo ⟨את⟩ toyada madaxa (miterka) linen cad, iyo ⟨את⟩ quruxda koofiyadaha linen cad, iyo ⟨את⟩ sirwaalka (dharka gacmeed) linen shishe (laba-jaran la dulay) linen la dulay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "toyada madaxa (miterka)"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "toyada madaxa (miterka)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen cad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "quruxda koofiyadaha"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "quruxda"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "koofiyadaha"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen cad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sirwaalka"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "sirwaalka (dharka gacmeed)"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen ka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen cad"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "la dulay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:31.138819173Z",
+  "model": "glm-5.3"
+}

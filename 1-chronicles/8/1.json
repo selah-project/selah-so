@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Binshaamiinna wuxuu dhalay ⟨את⟩ Belaa ilkiiisii koowaad, Ashbel kan labaad, iyo Ajarax kan saddexaad.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binshaamiinna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belaa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belaa"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ilkiiisii koowaad"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kan labaad"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "iyo Ajarax"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kan saddexaad"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:52.740159093Z",
+  "model": "glm-5.3"
+}

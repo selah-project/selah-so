@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Sida uu Yahweh u amray Muuse, saas ayaa Aaroön u dhigay ⟨את⟩ hortii markhaatiga, si loo ilaaliyo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "ayaa u dhigay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroön"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "si loo ilaaliyo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:56.146260710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ku dhaji carruurta Israa'iil, aad tidhaahdaan: tanu waa shayga nololeey ee aad ka cuni kartaan, oo ka mid ah dhammaan xayawaanka dhulka ku nool.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ku dhaji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aad tidhaahdaan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tanu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "shayga nololeey"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "aad ka cuni kartaan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo ka mid ah dhammaan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku nool"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:27.509027040Z",
+  "model": "glm-5.3"
+}

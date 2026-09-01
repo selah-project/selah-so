@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Waa maxay Yahweh weyn, oo badan ammaanta mudan, waana cabsi leh kama danbeyn kasta oo ah ilaahyaasha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxay... weyn (sabab) — waayo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ammaanta mudan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "badan"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "cabsi leh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa isaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sareeyo kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:18.612265883Z",
+  "model": "glm-5.3"
+}

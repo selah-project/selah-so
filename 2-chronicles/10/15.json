@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Boqorku wuuna maqalin dadka, waayo waxaa jiray laabitaan ka yimid Elohim, si Yahweh uu u dhiso ⟨את⟩ hadalkiisii uu ku yidhi gacanta Axiyaa Shilonigii, uu ku yidhi Yarobeam ina Nebat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wuuna maqalin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku (adag)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waxaa jiray"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "laabitaan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka yimid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "uu u dhiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkiisii"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hadalkiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku yidhi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Axiyaa"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "Shilonigii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku (adag)"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:53.401732786Z",
+  "model": "glm-5.3"
+}

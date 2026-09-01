@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Kii fadhiya ⟨⟨dhexda⟩⟩ makhtarka Elyon, hoosteeda hoos-taalla ee Shadday wuu la baahan doonaa.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Kii fadhiya"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "makhtarka"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "hoos-taallada"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "wuu la baahan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:17.490987211Z",
+  "model": "glm-5.3"
+}

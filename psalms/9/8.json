@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehna weligiis buu fadhidaa; kursigiisna wuxuu diyaariyay xukun.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "buu fadhidaa"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wuxuu diyaariyay"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursigiisna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:29.681260774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "⟨את⟩ khaymaha wax-kulanka, iyo ⟨את⟩ sanduuqa markhaatiga, iyo ⟨את⟩ kabboretta korkiisa ah, iyo ⟨את⟩ qalabka khaymiga oo dhan,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaymaha wax-kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wax-kulanka (ballan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sanduuqa markhaatiga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kabboretta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kabboretta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalabka khaymiga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:32.786148732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Sidoo kale Yahweh Elohimkaagu wuxuu soo diri doonaa ⟨את⟩ dugsi-taaska (hornet-ka) ku dhex geli doonaa ⟨dhexdooda⟩, ilaa ay baaba'aan kuwa hartay iyo kuwa qarsoonaaba oo ka jeedin wajigaaga.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugsi-taaska (hornet-ka)"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "dugsi-taaska (hornet-ka)"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "soo diri doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku dhex"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ay baaba'aan"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "kuwa hartay"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "iyo kuwa qarsoonaaba"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ka jeedin wajigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:54.551983122Z",
+  "model": "glm-5.3"
+}

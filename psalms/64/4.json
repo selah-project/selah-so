@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Kuwaasoo afkooda sida seefta u dheellitiray, oo fallaadhaddooda u hagaajiyay — erey murugo leh.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kuwaasoo"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "u dheellitiray"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "sida seefta"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "afkooda"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "u hagaajiyay"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "fallaadhaddooda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "מר",
+      "gloss": "murugo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:28.622527045Z",
+  "model": "glm-5.3"
+}

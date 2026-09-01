@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wuu raacay, nabad buu gudbay; wadada cagihiisana ma taaban.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Wuu raacay"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "gudbay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "wadada"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "cagihiisana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "taaban"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:06.759845510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Aniguna waxaan noqday ⟨⟩ jees jees ← colaad hooda; markay i arkaan, madaxa way wada dhaqaaqaan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waxaan noqday"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "jees jees"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hooda"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "markay i arkaan"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "way dhaqaaqaan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "madaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:02.313605665Z",
+  "model": "glm-5.3"
+}

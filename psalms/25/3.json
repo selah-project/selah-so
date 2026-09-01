@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Sidoo kale kuwa kuu sugaya oo dhan ma ay soo simaan kuwa xaaranta; way soomaan kuwa khiyaanada sameeya, iyagoo duqsi ah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sidoo kale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "kuwa kuu sugaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ay soo simaan"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "way soomaan"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "kuwa khiyaanada sameeya"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "iyagoo duqsi ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.927398230Z",
+  "model": "glm-5.3"
+}

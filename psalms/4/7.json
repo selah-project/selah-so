@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wax badan ayay odhanayaan: Yaa noo muujinaya wanaag? Kor u qaado iftininka wajigaaga inoogu sarreeyi, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Wax badan"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ayay odhanayaan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "noo muujinaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Kor u qaado"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "inoogu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftininka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:05.497701969Z",
+  "model": "glm-5.3"
+}

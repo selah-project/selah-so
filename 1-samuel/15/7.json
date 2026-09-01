@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuu dulay Shaa'uul ⟨את⟩ Amalek, laga bilaabo Chawila ilaa aad gaarto Shuur, oo ah horteeda Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuxuu dulay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Chawila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "aad gaarto"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shuur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "hor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "teeda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:38.591093526Z",
+  "model": "glm-5.3"
+}

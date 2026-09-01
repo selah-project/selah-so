@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Halleluyah! Ammaantiisa aan bixin, nafdayda — ammaan Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ammaantiisa aan bixin (Halleluyah)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.366276628Z",
+  "model": "glm-5.3"
+}

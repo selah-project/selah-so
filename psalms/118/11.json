@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Waxay ii dherereen, haah, waxay ii dherereen; runtiina magaca ⟨ee⟩ Yahweh ayaan ku goyn doonaa.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "waxay ii dherereen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "haah"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "waxay ii dherereen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "runtiina"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ayaan ku goyn doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:31.863854238Z",
+  "model": "glm-5.3"
+}

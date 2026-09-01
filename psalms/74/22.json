@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Isla kac, Elohim, dooddaa dood; xuso qaldamiistaada (ee) nijaasyada gabadheer, maalinta oo dhan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "isla kac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "dood"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "dooddaa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xuso"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "qaldamiistaada"
+    },
+    {
+      "surface": "מני",
+      "gloss": "(ee)"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nijaas-gabadheer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta oo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:31.392227610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Aarowna wuxuu qaatay ⟨את⟩ Elishaba gabadha Amminadab, walaashi Nahshon, si uu ugu guursado; wayna dhashay ⟨את⟩ Nadab iyo ⟨את⟩ Abihu, ⟨את⟩ Elazar iyo ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarowna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishaba"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elishaba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "walaashi"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ugu guursado"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wayna dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:12.663603722Z",
+  "model": "glm-5.3"
+}

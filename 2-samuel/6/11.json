@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Sanduuqa Yahwehna wuu ku sugnaaday guriga Obed-Edoomka Gittiga bilo saddex; Yahwehna wuu barakeeyay ⟨את⟩ Obed-Edoom iyo ⟨את⟩ gurigiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuu ku sugnaaday"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoomka"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gittiga"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuuna barakeeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Edoom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-Edoom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(qaybta labaad ee magaca)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gurigiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:31.277154841Z",
+  "model": "glm-5.3"
+}

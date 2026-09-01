@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kuwanu waa durriisyadii Aharon iyo Muuse, maalintii Yahweh uu la hadlay ⟨את⟩ Muuse, buurta Siinay.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuwanu waa"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "durriisyadii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "iyo Muuse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:50.145031953Z",
+  "model": "glm-5.3"
+}

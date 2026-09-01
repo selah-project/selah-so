@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "kowi iyo toban-aadkaana Elyashib, laba iyo toban-aadkaana Yaqiim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kowi iyo toban-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(toban)"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Yaqiim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba iyo toban-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(toban)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:31:00.605320442Z",
+  "model": "glm-5.3"
+}

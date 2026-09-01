@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Wuxuuna yidhi: ⟨את⟩ wajigayga ma arki kartid, waayo aadamigu ma arko Aniga oo noolaada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "arki kartid"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "in aad aragtid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigayga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "aroo Aniga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamigu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "oo noolaada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:47.260282085Z",
+  "model": "glm-5.3"
+}

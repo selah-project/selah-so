@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Halkaa wuu jabin shamlada qaansada: gaashaan, seef iyo dagaal. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Halkaa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wuu jabin"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "shamlada"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaansada"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "iyo seef"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "iyo dagaal"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:01.137273141Z",
+  "model": "glm-5.3"
+}

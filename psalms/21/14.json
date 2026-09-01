@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Sarree Yahweh, xooggaaga; waannu heesanaynaa oo waannu ammaanaynaa geesinimadaada.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Sarree"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "waannu heesanaynaa"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "oo waannu ammaanaynaa"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "geesinimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:32.338087484Z",
+  "model": "glm-5.3"
+}

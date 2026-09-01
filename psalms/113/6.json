@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Kan is-hoosaynaya si uu u fiiriyo ⟨waxa⟩ samada iyo dhulka.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "kan is-hoosaynaya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inuu u fiiriyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "iyo dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:27.925413991Z",
+  "model": "glm-5.3"
+}

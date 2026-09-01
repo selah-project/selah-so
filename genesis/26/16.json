@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo Abimelekh wuxuu yidhi Yishaax: Tege nagu dheeraa, waayo adigaa nooga awood badan aad u.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yishaax"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tege"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "nagu dheeraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "adigaa awood badan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nooga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:19.423460709Z",
+  "model": "glm-5.3"
+}

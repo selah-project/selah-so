@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Qaad ⟨את⟩ xaggooda, inay ahaadaan kuwa u adeegaya ⟨את⟩ adeegga Khaymaha Moed, oo waxaad siin doontaa ⟨את⟩ iyaga xagga Lewiyiinta, nin kastaa sida adeeggiisa.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Qaad"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ xaggooda"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "inay ahaadaan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "inay u adeegaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegga"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "oo waxaad siin doontaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyiinta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kastaa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "adeeggiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:42:50.104583288Z",
+  "model": "glm-5.3"
+}

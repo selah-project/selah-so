@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Kiishar dahab nadiif ah — waarta dahabka (talent) — ayuu ku sameeyay ⟨את⟩ ⟨iyada⟩ iyo ⟨את⟩ qalabkeeda oo dhan.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kiishar (waar)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadiif ah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayuu ku sameeyay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨iyada⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalabkeeda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "qalabkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:15.845757823Z",
+  "model": "glm-5.3"
+}

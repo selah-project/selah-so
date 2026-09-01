@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Wiilasha addoomadaada way wataan deggan, waana wataan firisoon durriyadoodu waxay hortaa ku taagan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomadaada"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "way wataan deggan"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "durriyadoodu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "wataan firisoon"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:21.929134181Z",
+  "model": "glm-5.3"
+}

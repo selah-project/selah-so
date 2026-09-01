@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo wadaaddu wuxuu ku gubi doonaa altarka ⟨את⟩ waxaas, allabbari dab ah oo Yahweh u ah; waa allabbarigii xadgudubka ⟨wuu yahay⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "wuxuu ku gubi doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waxaas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabbari dab ah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "allabbarigii xadgudubka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:08.953326775Z",
+  "model": "glm-5.3"
+}

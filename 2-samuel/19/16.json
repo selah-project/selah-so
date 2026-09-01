@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo boqorku wuu laabtay, wuxuuna yimid ilaa Webiga Yarden, oo Yahuudah waxay yimaadeen Gilgaal inay la baxaan boqorka, inay ka dhafeeyaan ⟨את⟩ boqorka ⟨את⟩ Webiga Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuu laabtay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "oo Yahuudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgaal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inay aadaan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "la kulanka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "inay ka dhafeeyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:16.974642064Z",
+  "model": "glm-5.3"
+}

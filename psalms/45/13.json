@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Oo gabadha Tsor iyadoo la waddo hadhi, taajirrada shacabka ayaa wajiyadaaga ka dalban doonaan.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Oo gabadha"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "hadhi (qurbaan)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajiyadaaga"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ka dalbayaan"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "taajirrada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:57.845056123Z",
+  "model": "glm-5.3"
+}

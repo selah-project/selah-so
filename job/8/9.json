@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Maxayaye innagu shalay baan nahay, oo ma garanayno, waayo, dayska cunugga ah ee nolosheenna dhulka ku dhaqan ⟨waa⟩ hoos.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "shalay"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "innagu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "garanayno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxayaye"
+    },
+    {
+      "surface": "צל",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dayska cunugga ah ee nolosheenna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku dhaqan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:19.834454671Z",
+  "model": "glm-5.3"
+}

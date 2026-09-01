@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Kuwa Yahweh ka cabsada, ammaaniya; caruurtii Ya'aqob dhammaanna sharafiya, oo caruurtii Israa'iil dhammaanna ka cabsada.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "kuwa ka cabsada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "caruurtii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "sharafiya"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "oo ka cabsada"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": " ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "caruurtii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.429584837Z",
+  "model": "glm-5.3"
+}

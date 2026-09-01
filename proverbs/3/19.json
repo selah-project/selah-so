@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yahweh xikmad buu ku aasaasay dhulka, samada buu ku cusboonaaşiyay garasho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "ku aasaasay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ku cusboonaaşiyay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "garasho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:05.962189043Z",
+  "model": "glm-5.3"
+}

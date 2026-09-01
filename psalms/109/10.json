@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ilmihiisuna socod aan joogsanayn ha ku socdaan, oo ha warsadaan, kibistoodana ha ka doondaan barbaariyoodkooda.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ha ku socdaan"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "socod aan joogsanayn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ilmihiisu"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ha warsadaan"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ha ka doondaan"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "barbaariyoodkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:33.610997603Z",
+  "model": "glm-5.3"
+}

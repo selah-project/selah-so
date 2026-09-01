@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo waxay tidhi: Ma ⟨את⟩ wiil baan ka codsaday Adonaygii? Miyaanan ku idhin: Ha i khiyaanin?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tidhi"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "ma codsaday"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka (xigooda)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaygii"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "miyaanan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ku idhin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "i khiyaanin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "i (aniga)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:34.428161128Z",
+  "model": "glm-5.3"
+}

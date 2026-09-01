@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Dawudna wuxuu ku yidhi: Haddii aad ⟨את⟩ ila socoto, waxaad iigu noqon doontaa culays.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "aad socoto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ il",
+      "marks": "il (aniga)"
+    },
+    {
+      "surface": "והית",
+      "gloss": "waxaad noqon doontaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "culays"
+    }
+  ],
+  "timestamp": "2026-09-01T03:02:14.695188833Z",
+  "model": "glm-5.3"
+}

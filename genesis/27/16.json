@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Iyo ⟨את⟩ maqaarka cawlasha riyaha dunkiyada waxay ku duubatay gacmihiisa iyo qoorta ka jaanka ah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "maqaarka"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "cawlasha"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "riyaha dunkiyada"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "waxay ku duubatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "jaanka ah"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "qoorta"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:38.782684728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Malaa'igta Elohim waxay ku tidhi: Qaad ⟨את⟩ hilibka iyo ⟨את⟩ rootiyada aan khamiirka lahayn, oo dhig dhigooda xagtaan, oo ⟨את⟩ maraqa shub. Wuu sidoo sameeyay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay ku tidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaa'igta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Qaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hilibka"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "rootiyada aan khamiirka lahayn"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "rootiyada aan khamiirka lahayn"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "oo dhig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagtaan"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "dhigooda xagtaan"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "kaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "maraqa"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "maraqa"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "shub"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Wuu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidoo sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:29.640039212Z",
+  "model": "glm-5.3"
+}

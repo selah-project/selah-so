@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Kuwa fadhiista mugdi iyo hoos-dhimasho, adoonkii dhibta iyo birinta.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa fadhiista"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "iyo hoos-dhimasho"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "adownkii"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "iyo birinta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:23.388522251Z",
+  "model": "glm-5.3"
+}

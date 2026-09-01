@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 3:25",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Adiguna, ilmo aadam, bal eeg, waxay ku saari doonaan xidhmado, waxayna kugu xidhi doonaan kuwaas, adiguna ma baxaysid dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay saari doonaan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "xidhmado"
+    },
+    {
+      "surface": "ואסרוך",
+      "gloss": "waxayna kugu xidhi doonaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "baxaysid"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:25:02.487302826Z",
+  "model": "glm-5.3"
+}

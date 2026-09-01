@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Yaa sameeyey oo falay, oo u yeedhay jiilalka bilowgii? Aniga Yahweh, kan koowaad, iyo ⟨את⟩ kuwii dambeeyay — Anigaa ah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sameeyey"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oo falay"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oo u yeedhay"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "jiilalka"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "bilowgii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "kan koowaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kuwii dambeeyay"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "kuwii dambeeyay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:06.760028858Z",
+  "model": "glm-5.3"
+}

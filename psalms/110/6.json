@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Wuxuu xukumi doonaa shucuurta ⟨dhexdooda⟩, wuxuu buuxinayaa ⟨dulka⟩ jirro; wuxuu jajabay madaxa ⟨kan⟩ dhulka weyn.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "wuxuu xukumi doonaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shucuurta ⟨dhexdooda⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wuxuu buuxinayaa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "jirro (jirro dhintay)"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "wuxuu jajabay"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku waaway"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:02.989742661Z",
+  "model": "glm-5.3"
+}

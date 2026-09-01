@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay daahiriyeen wadaaddadii iyo Laawiyiintii, waxayna daahuriyeen ⟨את⟩ shacabka iyo ⟨את⟩ albaabbada iyo ⟨את⟩ beddiga.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "waxay daahuriyeen (naftooda)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddadii"
+    },
+    {
+      "surface": "וילוים [והלוים]",
+      "gloss": "iyo Laawiyiintii"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "waxayna daahuriyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "albaabbada"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "albaabbada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beddiga"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "beddiga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:20:46.877485870Z",
+  "model": "glm-5.3"
+}

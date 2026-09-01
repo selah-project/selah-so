@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Way wareegeen oo way tageen, oo way dhigeen ⟨את⟩ carruurta iyo ⟨את⟩ xoolaha iyo ⟨את⟩ alaabta culayska leh ka horood.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "way wareegeen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "oo way tageen"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "oo way dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carruurta"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xoolaha"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "alaabta culayska leh"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "alaabta culayska leh"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ka horood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:38:42.341064521Z",
+  "model": "glm-5.3"
+}

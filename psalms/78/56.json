@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wayna tijaabiyeen, wayna caasiyeen ⟨את⟩ El Elyon, caddayadiisiina ma ilaaliyeen.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "wayna tijaabiyeen"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "wayna caasiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "caddayadiisiina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ilaaliyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:47.062175172Z",
+  "model": "glm-5.3"
+}

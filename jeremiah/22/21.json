@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxaan kula hadlay markaad xasishayd, adiguna waxay tidhi ma maqli doono; kani waa jidkaaga ilaa barbaaridaadaa, waayo codkayga ma maqashay.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Waxaan kula hadlay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "markaad xasishayd"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "waxay tidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "maqli doono"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "waa jidkaaga"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "ilaa barbaaridaadaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "maqashay"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "codkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:17.125025562Z",
+  "model": "glm-5.3"
+}

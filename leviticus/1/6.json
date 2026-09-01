@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna harjujinayaa ⟨את⟩ allabbariga, wuxuuna u dhuftayaa go'yadiisa.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "harjujinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabbariga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabbariga"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "dhuftayaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "go'yadiisa"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "go'yadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:03.619302933Z",
+  "model": "glm-5.3"
+}

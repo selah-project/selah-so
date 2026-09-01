@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "waxaana soo baxa odaydaaga iyo xukuumayaashaaga, waxayna cabiraan magaalooyinka ku teedsan la-dilayga.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "waxaana soo baxa"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "odaydaaga"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "iyo xukuumayaashaaga"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "waxayna cabiraan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elaa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "teedsan"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "la-dilayga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.295693586Z",
+  "model": "glm-5.3"
+}

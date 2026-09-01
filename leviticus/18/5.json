@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo waxaad ilaalin doontaan ⟨את⟩ xeerarkayga iyo ⟨את⟩ xukunkayga, oo nin walba oosameeya ⟨את⟩ kuwaas wuxuu ku noolaan doonaa; ani waan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "oo waxaad ilaalin doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarkayga"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "xeerarkayga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunkayga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunkayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "oo-sameeya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nin walba"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "wuxuu ku noolaan doonaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:04.911449801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Ii shee, Yahweh, dhamaadkay iyo cabbirka maalmahayga — immisa ayay tahay — si aan u ogaado aan qaab-dhow ahay.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Ii shee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "dhamaadkay"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "iyo cabbirka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmahayga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "immisa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ayay tahay"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "si aan u ogaado"
+    },
+    {
+      "surface": "מה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "qaab-dhow"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.886352282Z",
+  "model": "glm-5.3"
+}

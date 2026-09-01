@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Amarradaaga waxaad i geesinaysaa ka tukaan cadowdayda, waayo weligay bay i la taal.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ka tukaan cadowdayda"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "waxaad i geesinaysaa"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "Amarradaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa (bay)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i la"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:53.501633127Z",
+  "model": "glm-5.3"
+}

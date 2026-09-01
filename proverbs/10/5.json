@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kii urursanaya xilligii giuhu waa wiil caqli badan; kii seexanaya xilligii beegsashadu waa wiil wax xumeeya.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "urursanaya"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "xilligii giuhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "caqli badan"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "seexanaya"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "xilligii beegsashadu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "wax xumeeya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:42.351019411Z",
+  "model": "glm-5.3"
+}

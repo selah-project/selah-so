@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Walaalkiinna yaruuse ha keenataan ilayn, si ay erayadiinnii la xaqiijiyo, ood dhimataan. Wayna sameeyeen sidaas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "walaalkiinna yaruuse"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "walaalkiinna"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yaruuse"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ha keenataan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ilay (iiga)"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "si ay la xaqiijiyo"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "erayadiinnii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "dhimataan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wayna sameeyeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:33.700756018Z",
+  "model": "glm-5.3"
+}

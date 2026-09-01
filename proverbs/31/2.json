@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Maxaad tahay, wiilkaygii? Maxaad tahay, wiilka calooshaan? Maxaad tahay, wiilka ballanahaaday?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maxaad tahay"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "iyo maxaad tahay"
+    },
+    {
+      "surface": "בר",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "calooshaan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "iyo maxaad tahay"
+    },
+    {
+      "surface": "בר",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ballanahaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:48.154666731Z",
+  "model": "glm-5.3"
+}

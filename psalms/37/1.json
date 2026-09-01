@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "(Muuse ma aha —) Zabuurka Dawid. Ha cadhoow kuwi xunxun, ha xasuuda kuwa falaya gefka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Zabuurka Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "cadhoow"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "kuwi xunxun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "xasuuda"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kuwa falaya"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gefka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:34.795089369Z",
+  "model": "glm-5.3"
+}

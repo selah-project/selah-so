@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Waayo, Yahweh wuxuu ka raalli yahay dadkiis; kuwa khushmaha ah wuxuu ku qurxiyaa badbaado.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "wuxuu ka raalli yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "dadkiis"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "wuxuu ku qurxiyaa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kuwa khushmaha ah"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "badbaado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:51.766301065Z",
+  "model": "glm-5.3"
+}

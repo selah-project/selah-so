@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Maydhintu kuma ammaanan Yah, iyo sidoo kale dhamaan kuwa dega ⟨dumah⟩ (aamusitaanka).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "maydhintu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "kuma ammaanan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo sidoo kale ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "kuwa dega"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "dumah (aamusitaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:10.808727693Z",
+  "model": "glm-5.3"
+}

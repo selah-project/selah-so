@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Kuwii munaafaqiintu ahaa, kuwii jees-jeeska cuntada walaalaha (fadhiga), iyagoo iligaha iigu qanjirowda.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "kuwii munaafaqiintu ahaa"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "kuwii jees-jeeska"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "cuntada walaalaha (fadhiga)"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "qanjinaya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "iligaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:00.505402413Z",
+  "model": "glm-5.3"
+}

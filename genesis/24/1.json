@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Ibraahimna wuxuu oday, wuxuu maalmaha galo, Yahwehna wuxuu barakayay ⟨את⟩ Ibraahim ⟨dhammaan waxa jira⟩.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ibraahimna"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wuxuu oday"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuu galo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wuxuu barakayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan waxa jira"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:50.831286774Z",
+  "model": "glm-5.3"
+}

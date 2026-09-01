@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "⟨את⟩ abuurista is-ka-baxda ee guritaankaa ma gurmayso, iyo ⟨את⟩ canabaha miirahaada la iska-tegay ma aruursan doontid; sannad shabbaton (nasiyo buuxa) baa dhulka u noqon doona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abuurista is-ka-baxda"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "abuurista is-ka-baxda"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "guritaankaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "gurmayso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "canabaha"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "canabaha"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "miirahaada la iska-tegay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "aruursan doontid"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sannad"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton (nasiyo buuxa)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "baa u noqon doona"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:45.067492023Z",
+  "model": "glm-5.3"
+}

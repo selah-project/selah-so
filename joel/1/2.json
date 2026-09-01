@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maqla tan, odayasha, oo dhegaysada, kuwa dhulka deggan oo dhan — miay taas dhacday maalmihiinnii, mise maalmihii aabbayaashiin?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "oo dhegaysada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "miay dhacday"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taas"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "maalmihiinnii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "maalmihii"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aabbayaashiin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:57.439595572Z",
+  "model": "glm-5.3"
+}

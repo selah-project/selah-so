@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Hageeyaha. Hees Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hageeyaha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "hees"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:37.365766733Z",
+  "model": "glm-5.3"
+}

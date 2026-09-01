@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuuna qoray warqadda oo yidhi: Saara ⟨את⟩ Uuriyaa horta dagaalka adagga, idinkana ka noqda gadaashiisa, si loo garaaco oo uu dhinto.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Wuxuuna qoray"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "warqadda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo yidhi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Saara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "horta"
+    },
+    {
+      "surface": "מול",
+      "gloss": "wajiya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "adagga"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "idinkana ka noqda"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "gadaashiisa"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "si loo garaaco"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "oo uu dhinto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:18.523624395Z",
+  "model": "glm-5.3"
+}

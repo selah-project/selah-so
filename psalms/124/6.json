@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "Ammayey ha ahaado Yahweh, oo aan innaga dhigin uley ⟨את⟩ qoodhanka ilkahooda.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ammayey ha ahaado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "innaga dhigin"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "uley"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ilkahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:09.417860952Z",
+  "model": "glm-5.3"
+}

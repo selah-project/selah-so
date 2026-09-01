@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Adah waxay dhashay ⟨את⟩ Yaval; isagoo keliya ayaa ahaa aaskii ku noolaa khaimoora iyo xoolo-dhaqato.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagoo keliya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ayaa ahaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aaskii"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ku noolaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaimoora"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "iyo xoolo-dhaqato"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:46.978781311Z",
+  "model": "glm-5.3"
+}

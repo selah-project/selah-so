@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Meel ugu qudsan baa adigu ⟨dabkaasi⟩ ku cuni doontaa; rag kasta wuu cuni karaa ⟨את⟩; waa wax qudsan adiga keliya.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "meel ugu qudsan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "oo qudsan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ku cuni doontaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wuu cuni karaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "waxa qudsan (kan)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wax qudsan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuu noqon doona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:11.728765994Z",
+  "model": "glm-5.3"
+}

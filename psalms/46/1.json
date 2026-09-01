@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Gacanta ku-hayaha, wiilasha Korach, markay (alamoot) codka dumarka sareeyo, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Gacanta ku-hayaha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "markay"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "(alamoot) codka dumarka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:58.603581941Z",
+  "model": "glm-5.3"
+}

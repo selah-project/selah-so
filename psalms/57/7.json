@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Shabakad bay talaalkayga ii diyaariyeen; nafteydu waa la hoos dhigay; god bay hortayda ka qodeen, wayna ku dhaceen dhexdiisa. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "shabakad"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bay diyaariyeen"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "talaalkayga"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "la hoos dhigay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafteydu"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "bay ka qodeen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "god"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "wayna ku dhaceen"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:42.588152570Z",
+  "model": "glm-5.3"
+}

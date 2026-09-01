@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Waayo, midig iyo bidix baad ku fidaysaa; durriintaadu waa ay goymada dhaxlaysaa, magaalooyinka la waayayna waa ay ka deggelinayaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "midig"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "iyo bidix"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "baad ku fidaysaa"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "durriintaadu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goymada"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "dhaxlaysaa"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "la waayay"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ka deggelinayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:55.004235574Z",
+  "model": "glm-5.3"
+}

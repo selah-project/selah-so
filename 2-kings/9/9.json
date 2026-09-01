@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waana dhigi doonaa ⟨את⟩ guriga Axab sidii gurigii Yarobcam ina Nebat, iyo sidii gurigii Basha ina Axiiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Waana dhigi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga Axab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sidii gurigii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobcam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "iyo sidii gurigii"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiiya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:09.167380975Z",
+  "model": "glm-5.3"
+}

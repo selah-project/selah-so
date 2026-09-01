@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxa ceebtu qadday shaqada aabbayaashannoo tan iyo carruurnimaddannoo, ⟨את⟩ adhigooda iyo ⟨את⟩ lo'da, ⟨את⟩ wiilashooda iyo ⟨את⟩ gabdhahooda.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Waxa ceebtu"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "qadday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaqada"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aabbayaashannoo"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "tan iyo carruurnimaddannoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigooda"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "adhigooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lo'da"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashooda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wiilashooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabdhahooda"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "gabdhahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:01:52.714573503Z",
+  "model": "glm-5.3"
+}

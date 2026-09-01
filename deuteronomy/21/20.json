@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "waxaana ay odhan odayaasha magaaladiisa: Wiilkayagii kanu wuxuu adag yahay oo caasi ah, aanan dhageysanayn codkayaga; wuxuu yahay cunis-faad iyo cabbaye khamri.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ay odhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaaladiisa"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "Wiilkayagii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanu"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "oo caasi ah"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageysanayn"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "codkayaga"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "cunis-faad"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "cabbaye khamri"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.608509137Z",
+  "model": "glm-5.3"
+}

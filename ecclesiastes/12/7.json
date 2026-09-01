@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo boqoddii waa dhulka ku noqonaysaa sidii ay ahayd, oo ruuxuna waxay u noqonaysaa Elohim ee siiyay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "waa ku noqonaysaa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "boqoddii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "sidii ay ahayd"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "oo ruuxuna"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "waxay u noqonaysaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "siiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:56.770295369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Kan ilaaliya amarka wuu ogsoonahay sharr la'aan, iyo waqtiga iyo xukunka wuu garanayaa qalbiga odayga xigmad leh.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "kan ilaaliya"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu ogsoonahay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sharr"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharr"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukunka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu garanayaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "odayga xigmad leh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:48.902556874Z",
+  "model": "glm-5.3"
+}

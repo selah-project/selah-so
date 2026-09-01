@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad isku-xiri doontaa ⟨את⟩ shanta dhaar si gaar ah, iyo ⟨את⟩ lixda dhaar si gaar ah, waadna labanlaabi doontaa ⟨את⟩ dhaarta lixaad ilaa hortii wajiga khaymadda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "waad isku-xiri doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanta dhaar"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanta"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dhaar"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "si gaar ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lixda dhaar"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lixda"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dhaar"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "si gaar ah"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "waadna labanlaabi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaarta lixaad"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "dhaarta"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "lixaad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "horta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:42.214531093Z",
+  "model": "glm-5.3"
+}

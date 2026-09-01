@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuu qabsaday ⟨את⟩ Agag boqorka Amalek isagoo nool, ⟨את⟩ dadka oo danna wuxuu halaagsiiyay af gacmeedka seef.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "wuxuu qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "wuxuu halaagsiiyay (charam)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:38.591293498Z",
+  "model": "glm-5.3"
+}

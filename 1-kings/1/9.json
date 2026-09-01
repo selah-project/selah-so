@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 1:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Adoniyahu wuxuu allabay adhi iyo lo' iyo wixii buuran agta Dhagaxa Zochelet, ee u dhow Eyn Rogel, oo wuxuu u yeeray ⟨את⟩ walaalihiis oo dhan, wiilasha boqorka, iyo dadka Yehudah oo dhan, addoonada boqorka.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wuxuu allabay"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "iyo lo'"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "iyo wixii buuran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agta"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Dhagaxa"
+    },
+    {
+      "surface": "הזחלת",
+      "gloss": "Zochelet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "u dhow"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eyn"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Rogel"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeeray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalihiis oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo … oo dhan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:40.270489426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxay qabatana ⟨את⟩ boqorka, waxayna la kaxeeyeen ⟨את⟩ isaga boqorkii Baabel, Rible; halkaas oo ay ku xukumeen ⟨את⟩ isaga xukun.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "waxay qabatana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "waxayna la kaxeeyeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rible"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ay ku xukumeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:42.687980642Z",
+  "model": "glm-5.3"
+}

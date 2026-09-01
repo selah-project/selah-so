@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Dawid markuu maqlay, wuxuu diray ⟨את⟩ Yooab iyo ⟨את⟩ dhammaan ciidankii adkaadayda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "markuu maqlay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yooab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yooab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ciidankii adkaadayda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ciidankii"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "adkaadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:17.443324287Z",
+  "model": "glm-5.3"
+}

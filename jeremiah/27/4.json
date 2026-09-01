@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Oo u far ⟨את⟩ (iyaga) inay ku dhaheen sayidyadooda, ayagoo leh: Saas ayaa Yahweh Seba'ot, Elohim Israa'iil, yidhi: saas haay u dhihiqaan sayidyadiinna.",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "Oo u far"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "rasuulladii (iyaga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inay"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "sayidyadooda ku dhaheen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ayagoo leh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Saas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Seba'ot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saas"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "haay u dhihiqaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sayidyadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:27.452336591Z",
+  "model": "glm-5.3"
+}

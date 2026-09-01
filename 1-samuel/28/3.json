@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo Shemuuel wuu dhintay, oo Israa'iil oo dhan waxay u ooyeen, waxayna aaseen Rama, magacaadiisii. Oo Shaa'uul wuu ka saaray dhulka halyeeyayaasha iyo ⟨את⟩ kuwa wax-ogayaasha.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Oo Shemuuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "waxay u ooyeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "waxayna aaseen"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "magacaadiisii"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Oo Shaa'uul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wuu ka saaray"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "halyeeyayaasha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kuwa wax-ogayaasha"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "kuwa wax-ogayaasha"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:44.499777698Z",
+  "model": "glm-5.3"
+}

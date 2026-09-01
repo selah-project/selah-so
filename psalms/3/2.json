@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yahweh, immisa bay ku badatay cadowdaydii! Wax badan baa i sara kacaya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "immisa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bay ku badatay"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "cadowdaydii"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Wax badan"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "sara kacaya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:45.805628653Z",
+  "model": "glm-5.3"
+}

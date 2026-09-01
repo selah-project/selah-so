@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Yoosefna wuxuu qaatay labadooda ⟨את⟩ — ⟨את⟩ Efroyim gacantiisa midigda, xagga bidixda Israa'iil, iyo ⟨את⟩ Menashe gacantiisa bidixda, xagga midigta Israa'iil — wuxuuna u dhowaanjiyay isaga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labadooda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadooda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efroyim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efroyim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "gacantiisa midigda"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "xagga bidixda"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "gacantiisa bidixda"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "xagga midigta"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "wuxuuna u dhowaanjiyay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:47.286856777Z",
+  "model": "glm-5.3"
+}

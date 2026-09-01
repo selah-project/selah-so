@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Adiga, Yahweh, waan magangalay; weligeen ha i ceebayn; xaqnimadaada i gargaar.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "waan magangalay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "i ceebayn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeen"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "i gargaar"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:32.137246398Z",
+  "model": "glm-5.3"
+}

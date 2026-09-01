@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna halkaas ku qoray dhagaxyada ⟨את⟩ nuqulka Sharciga Muuse, kan uu qoray hor taal wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Wuxuuna... ku qoray"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuqulka Sharciga Muuse"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "nuqulka"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "uu qoray"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor taal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:21:41.591874609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waxaad adigoo rukun u dhigtay nin (dhimato) madaxeanaga; waxaan galnay dabka iyo biyaha, laakiin Adiga waxaad nagu soo bixisay meel raaxo leh (deeq)",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Waxaad adigoo rukun u dhigtay"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nin (dhimato)"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "madaxeanaga"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "waxaan galnay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "iyo biyaha"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "laakiin Adiga waxaad nagu soo bixisay"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "meel raaxo leh (deeq)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:05.388373287Z",
+  "model": "glm-5.3"
+}

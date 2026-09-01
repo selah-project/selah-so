@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaadna qaadataysaa ⟨את⟩ shidaalka subkidda, waxaadna daadiysaa madaxiisa, waxaadna subaysaa ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Waxaadna qaadataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shidaalka subkidda"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "shidaalka"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkidda"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "waxaadna daadiysaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "waxaadna subaysaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:48.625564256Z",
+  "model": "glm-5.3"
+}

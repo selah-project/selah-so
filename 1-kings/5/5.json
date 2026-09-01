@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Yahuudah iyo Israa'iil way deggenayeen ammaan, qof kasta oo hoostiisa beerti canabka iyo hoostiisa geedka tiinta, laga bilaabo Daan ilaa Bi'er-Sheba, inta maalmaha ayay ahayd Shlomoh dhammaantee.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "way deggenayeen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "iyo Israa'iil"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "qof kasta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoostiisa"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "beerti canabka"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "iyo hoostiisa"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "geedka tiinta"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "laga bilaabo Daan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bi'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantee"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:18.300805037Z",
+  "model": "glm-5.3"
+}

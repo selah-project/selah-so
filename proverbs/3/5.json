@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ku tala-xiriir Yahweh wadnahaga oo dhan, oo ciddi-aqoonkaagana ha ku tiirsan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Ku tala-xiriir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wadnahaga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ciddi-aqoonkaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ku tiirsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:39.023397133Z",
+  "model": "glm-5.3"
+}

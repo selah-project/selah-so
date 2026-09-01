@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Adonay, immisa baad ⟨u⟩ arki doontaa? Cel nafkayda burburkooda, kii keli ahaa shabeellada ka.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "immisa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "baad arki doontaa"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "cel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafkayda"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "burburkooda"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "shabeellada"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "kii keli ahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:03.588421097Z",
+  "model": "glm-5.3"
+}

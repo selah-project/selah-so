@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyana Elohim wuxuu raqiicada ku magac bixiyay samooyin; oo waqtigii galabtu wuxuu noqday, oo waqtigii subaxna wuxuu noqday — maalintii labaad.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "oo wuxuu ku magac bixiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiicada"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samooyin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo wuxuu noqday"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "waqtigii galabtu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo wuxuu noqday"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "waqtigii subaxna"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labaad"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:02.466961487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Ma arkaysaa nin isaga xariif u arag indhihiisa? Nacasba ka badan filo ayaa jirta.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Ma arkaysaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xariif"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "indhihiisa u arag"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "filo"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "nacasba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka badan (isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:52.889642995Z",
+  "model": "glm-5.3"
+}

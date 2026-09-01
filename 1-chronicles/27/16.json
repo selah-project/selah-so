@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Oo qabiilada Israa'iil ⟨waxaa sare joogay⟩: Re'uveniyaasha hoggaamiye wuxuu ahaa Eliezer ina Zikri; Shim'ooniyaasha, Shefat-yahu ina Ma'akah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Oo... sare"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Re'uveniyaasha"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hoggaamiye"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "Shim'ooniyaasha"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "Shefat-yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'akah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:32:48.191991274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Tukasho (lahaan) markuu suulin yahay, markuu hoos u dhaco, oo hortii Yahweh uu siyoobto sheekaysiisa.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tukasho"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "lahaan markuu suulin yahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "hoos u dhaco"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "oohortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "uu siyoobto"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sheekaysiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:28.684026290Z",
+  "model": "glm-5.3"
+}

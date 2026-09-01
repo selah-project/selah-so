@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahweh waa xooggayga iyo gaashaankayga; isaga qalbigu u kalsoon yahay, oo waxaan caawiyo lay taageeray; sidaas darteed qalbigayu farxad bay qaaday, oo heestaydana waan ku mahadinayaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "xooggayga"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "iyo gaashaankayga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "u kalsoon yahay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigu"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "waxaan caawiyo lay taageeray"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "farxad bay qaaday"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayu"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "heestaydana"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "waan ku mahadinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.283963730Z",
+  "model": "glm-5.3"
+}

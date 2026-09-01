@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markaas Yahweh Elohim wuxuu dhisay ⟨את⟩ dallasta uu ka qaaday aadanaha, isagoo gaadhay haweenay; wuxuuna keentay ⟨את⟩ xagga aadanaha.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuu dhisay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dallasta"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "dallasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "qaaday"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "haweenay"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "wuxuuna keentay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanaha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:20.122996958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Habeenka waan xusay Magacaaga, Yahweh, waana ilaaliyay Sharcigaaga.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "waan xusay"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "Habeenka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "waana ilaaliyay"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:58.489245465Z",
+  "model": "glm-5.3"
+}

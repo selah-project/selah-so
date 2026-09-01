@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Sida gastanood (sanla) oo dhalaalaya oo socda; sida ilmo-dhac naarta ah, aan arag qorraxda.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "gastanood (sanla)"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "dhalaalaya"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "socda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ilmo-dhac"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "arag"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:25.555610859Z",
+  "model": "glm-5.3"
+}

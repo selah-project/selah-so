@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Markaasaa dadkii waxay la doodooweeyeen Muuse, waxayna dheheen: Naga sii biyo si aan u cabbanno. Muusena wuxuu ku yidhi: Maxaad ii doodooweysaan? Maxaad tijaabinaysaan ⟨את⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "waxayna la doodooweeyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna dheheen"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "si aan u cabbanno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "doodooweysaan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "tijaabinaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:20.329468417Z",
+  "model": "glm-5.3"
+}

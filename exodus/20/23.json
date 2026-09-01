@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ha iila sameysanna ⟨את⟩ ilaahy lacag (kumi) ah iyo ilaahy dahab ah; idinku ha sameysanna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "sameysanna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag (kumi)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iyo ilaahy"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysanna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:19.137319902Z",
+  "model": "glm-5.3"
+}

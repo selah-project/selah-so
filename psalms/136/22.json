@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "dhaxal Israa'iil addoonkiisii, waayo ilaa iyo weligeed baa khesedkiisu jira.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "dhaxal"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "addoonkiisii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligeed"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.349273040Z",
+  "model": "glm-5.3"
+}

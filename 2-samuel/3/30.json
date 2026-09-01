@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yowab iyo Abishayi walaalkiis bay dileen Abner, maadaama uu dilay ⟨את⟩ Asahel walaalkood, Gibcon dagaalkii.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "iyo Abishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "bay dileen"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "על",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "המית",
+      "gloss": "uu dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "walaalkood"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibcon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaalkii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:13.067642511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Yahweh wuu ka tirtiraa ⟨את⟩ dadkan oo dhan idinka hor, oo waxaad dhaxlaysaan shacabyo idinka waaweyn oo idinka xoog badan.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "wuu ka tirtiraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "idinka hor"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "waxaad dhaxlaysaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabyo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "oo xoog badan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "idinka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:26.578499942Z",
+  "model": "glm-5.3"
+}

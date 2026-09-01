@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Gurundhuna iyo kusimadda lama garaacin, maxaa yeelay waa kuwo daahsan.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Gurundhuna"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "iyo kusimadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "lama garaacin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "kuwo daahsan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "waa kuwo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:37.438809122Z",
+  "model": "glm-5.3"
+}

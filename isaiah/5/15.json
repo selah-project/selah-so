@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo aadanaha waa la dhigay hoos, oo ninna waa lagu sharray, oo indhaha kuwa ismooda waalagu sharray",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "waa la dhigay hoos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "waa lagu sharray"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "kuwa ismooda"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "waa lagu sharray"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:43.596238911Z",
+  "model": "glm-5.3"
+}

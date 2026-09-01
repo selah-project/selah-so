@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo, bal eega, sharku waxay gamayaan qaanso, waxay diyaariyeen tankeeda ka yar gooyn, si ay u leenyaan mugdiga gudihiis kuwa qalbiga toosan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "waxay gamayaan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaanso"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "waxay diyaariyeen"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "tankeeda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka yar"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "gooyn"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "si ay u leenyaan"
+    },
+    {
+      "surface": "במו",
+      "gloss": "gudihiis"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mugdiga"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga toosan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:10.934243599Z",
+  "model": "glm-5.3"
+}

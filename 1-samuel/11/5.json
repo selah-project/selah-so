@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo bal eeg, Shaa'uul wuxuu yimid xigga lo'da ka dib beerka, oo Shaa'uul wuxuu yidhi: Maxay tahay shanlayda ⟨את⟩ dadka, inay ooyeenaan? Oo waxay u sheegeen ⟨את⟩ hadalladii dadka Yabesh.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "מן",
+      "gloss": "xigga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay tahay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "shanlayda dadka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inay"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ooyeenaan"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "oo waxay sheegeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalladii dadka Yabesh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadalladii"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:29.467921875Z",
+  "model": "glm-5.3"
+}

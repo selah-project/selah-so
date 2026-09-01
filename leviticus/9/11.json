@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "⟨את⟩ hilibka iyo ⟨את⟩ haruudkana wuu gubay dab ahaan goobaha ka baxsan kalabka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hilibka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "העור",
+      "gloss": "haruudkana"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wuu gubay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab ahaan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "goobaha ka baxsan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kalabka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:26.447603867Z",
+  "model": "glm-5.3"
+}

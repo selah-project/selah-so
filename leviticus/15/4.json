@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Sariirta oo dhan oo ninka dhaqaaqa ku seexdo waa wasakh, anda kastoo uu fadhiistana waa wasakh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "Sariirta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ku seexdo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ninka dhaqaaqa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "waa wasakh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "anda kastoo"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "anda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fadhiisto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "waa wasakh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:46.751498002Z",
+  "model": "glm-5.3"
+}

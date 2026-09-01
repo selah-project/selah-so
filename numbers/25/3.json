@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yisraaielna waxay u xirmaan Baal-Peorga, oo cadho Yahweh waxay ka qarxisay Yisraaiel.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "waxay u xirmaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraaiel"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorga"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "waxay ka qarxisay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraaiel"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:54.526942338Z",
+  "model": "glm-5.3"
+}

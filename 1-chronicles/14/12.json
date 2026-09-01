@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxayna halkaas ku tageen ⟨את⟩ ilaahahooda, Dawudna wuxuu amray, waxaana lagu gubay naarta.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Waxayna ku tageen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahahooda"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaahahooda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu amray"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "waxaana lagu gubay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "naarta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:27:27.384448192Z",
+  "model": "glm-5.3"
+}

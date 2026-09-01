@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxay qaadateen ⟨את⟩ dhulkan kesoodka ah ee Seddom iyo Gamorrah, iyo ⟨את⟩ cunista iyagoo dhan, waxayna tegeen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaadataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkan kesoodka ah oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "dhulka (hantida)"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Seddom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "iyo Gamorrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "cunista iyagoo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "cunsigooda"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "waxayna tegeen"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:38.360488293Z",
+  "model": "glm-5.3"
+}

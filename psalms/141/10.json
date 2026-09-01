@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Ha ku dhacaan xumaha makhmasyahooda; annigoo keligiis ⟨weli⟩, ilaa aan ka gudbo.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Ha ku dhacaan"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "makhmasyahooda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xumaha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "keligiis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "annigoo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "aan ka gudbo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:50.037699193Z",
+  "model": "glm-5.3"
+}

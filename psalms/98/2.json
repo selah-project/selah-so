@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Wuu muujiyay Yahweh badbaadadiisa; indhaha oommadaha hortooda wuu caddeeyay sinnidiisa.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "Wuu muujiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "badbaadadiisa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "indhaha ... hortooda"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "oommadaha"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wuu caddeeyay"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sinnidiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:32.112743813Z",
+  "model": "glm-5.3"
+}

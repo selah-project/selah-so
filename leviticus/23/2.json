@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "U hadal ilmaha Israa'iil oo ku dhoh: waqtigoyinka Yahweh ee aad ku dhawaaqaan ⟨את⟩ shirarro qudus ah — kuwan waa waqtigoyinkay.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo ku dhoh"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "waqtigoyinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aad ku dhawaaqaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "shirarro qudus ah"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "shirarro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudus ah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waa"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "waqtigoyinkay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:50.728086346Z",
+  "model": "glm-5.3"
+}

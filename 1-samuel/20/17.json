@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yehonatan wuxuu ku dhaariyay mar labaad ⟨את⟩ Dawid xagga jaceylkiisa uu u qabo ⟨את⟩ isaga, waayo, jaceyl nafiisa buu jecel yahay.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "wuxuu ku dhaariyay mar labaad"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "ku dhaariyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "xagga jaceylkiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "jaceyl"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafiisa"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "buu jecel yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:33.942471059Z",
+  "model": "glm-5.3"
+}

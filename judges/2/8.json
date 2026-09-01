@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yehooshuuca ina Nuun, addoonkii Yahweh, ayaa dhintay isagoo jira boqol iyo toban sano.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ayaa dhintay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "addoonkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "isagoo jira"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:20.986644771Z",
+  "model": "glm-5.3"
+}

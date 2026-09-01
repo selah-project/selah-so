@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waxay degdeg ku illoobiyeen shuqulliisa; kuma sugnaanin taladiisa.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "waxay degdeg ku"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "illoobiyeen"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "shuqulliisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "sugnaanin"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "taladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:26.794933361Z",
+  "model": "glm-5.3"
+}

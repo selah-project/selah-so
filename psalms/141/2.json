@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Baryadaydu ha noqoto ⟨sida⟩ uunsi ⟨la⟩ soo gudbiyay wajigaaga hortiisa, kor u qaadista gacmahayguna ⟨ha noqoto sida⟩ allabbari galabta.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "ha noqoto"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadaydu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uunsi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wajigaaga hortiisa"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "kor u qaadista"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahaygu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "allabbari"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:22.351229480Z",
+  "model": "glm-5.3"
+}

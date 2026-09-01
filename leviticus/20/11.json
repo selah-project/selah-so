@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Iyo nin uu seexo ⟨את⟩ naagta aabihiis, aawaha aabihiis wuu ka muujiyay; labadooduba waa la dilaa si loo dilo; dhiigooduba waxay saaran yihiin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Iyo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "seexo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagta aabihiis"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihiis"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "aawaha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihiis"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wuu ka muujiyay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "waa la dilaa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "si loo dilo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadooduba"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "dhiigooduba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "saaran yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:06.156321562Z",
+  "model": "glm-5.3"
+}

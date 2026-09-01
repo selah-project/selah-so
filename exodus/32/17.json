@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Yehooshuuca wuxuu maqlay ⟨את⟩ codka shacabka markay gooxayeen, wuxuuna Muuse ku yidhi: Cod dagaal baa ku maqmay xeraha.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "markay gooxayeen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "xeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:19.602823453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "⟨את⟩ yaac-yarka, iyo ⟨את⟩ yaac-weynka, iyo yaacda cad;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaac-yarka"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "yaac-yarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "yaac-weynka"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yaac-weynka"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "iyo yaacda cad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:08.351185082Z",
+  "model": "glm-5.3"
+}

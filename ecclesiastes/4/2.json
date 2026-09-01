@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sidaas darteed waxaan ammaanayaa aniga ⟨את⟩ kuwa dhintay ee horeba dhintay, ka dhigta kuwa nool ee weli ilaa iyo hadda nool.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "waxaan ammaanayaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa dhintay"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "kuwa dhintay"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "horeba"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka dhigta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kuwa nool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "weli ilaa iyo hadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.866599176Z",
+  "model": "glm-5.3"
+}

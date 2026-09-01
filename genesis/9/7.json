@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Idinkuse, midho bixiya oo badmaana; dhulka ku bata oo ku badmaana.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "idinkuse"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "midho bixiya"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "oo badmaana"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ku bata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "oo ku badmaana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:36.802978107Z",
+  "model": "glm-5.3"
+}

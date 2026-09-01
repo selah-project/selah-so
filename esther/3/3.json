@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Addoonnadii boqorka oo ka mid ah kuwa boosterada boqorka gudaheed ahna waxay Muurdakhay ku yidhaahdeen: maxaad u xad-gudubaysaa ⟨את⟩ amarka boqorka?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay ku yidhaahdeen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonnadii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "boosteerada gudaheed"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Muurdakhay u"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "xad-gudubaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka boqorka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:43.487983810Z",
+  "model": "glm-5.3"
+}

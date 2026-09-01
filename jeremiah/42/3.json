@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Oo Yahweh Elohimkaagu ha ii sheego ⟨את⟩ waddada aan ku soconno iyo ⟨את⟩ shanta aan qabanno.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ha ii sheego"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "(i) aanu noo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waddada"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ku soconno"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shanta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qabanno"
+    }
+  ],
+  "timestamp": "2026-09-01T04:18:15.280543783Z",
+  "model": "glm-5.3"
+}

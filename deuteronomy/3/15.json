@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo Makiir waxaan siyay ⟨את⟩ Gil'ad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Oo Makiir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan siyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gil'ad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:21.309848896Z",
+  "model": "glm-5.3"
+}

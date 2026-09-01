@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Jecelee Yahweh, dhammaan khesediisii; Yahweh wuu ilaaliyaa ⟨kuwa⟩ runta leh, wuuna siinayaa mudanaha caddibaad dheeraad ah kan falaya isla-weyneyn.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Jecelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "khesediisii"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "⟨kuwa⟩ runta leh"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "wuu ilaaliyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "wuuna siinayaa mudanaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "dheeraad ah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "si aan cabbir lahayn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan falaya"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "isla-weyneyn"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:22.838804493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waxay cunnadayda ii dhigteen muruq (rɔ'sh), markaan harraadsannahayna waxay ii siisiyeen cabitaan khumbo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "waxay ii dhigteen"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "cunnadayda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "muruq"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "markaan harraadsannahayna"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "waxay ii siisiyeen cabitaan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "khumbo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.000465812Z",
+  "model": "glm-5.3"
+}

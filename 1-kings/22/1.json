@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxayna fadhiisteen saddex sano aan dagaal ahayn oo u dhexeeya Aram iyo Israa'iil.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "waxayna fadhiisteen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan ahayn"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:52.237860937Z",
+  "model": "glm-5.3"
+}

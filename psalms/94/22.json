@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Yahwehna wuxuu ii noqday qalcad sare, Elohayna wuxuu ii noqday dhexroor — magangalkaygii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna noqday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "qalcad sare"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohayna"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhexroor"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangalkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.201779131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Nin ruuxa xukuma si uu u kaydiyo ⟨את⟩ ruuxa ma jiro, uma jirto amarr maalintii geerida, uma jirto fasax dagaalka, xumaatuna ma badbaadinayso ⟨את⟩ lahayashood.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nin"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "xukuma"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "si uu u kaydiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uma jirto"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "amarr"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "המות",
+      "gloss": "geerida"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uma jirto"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "fasax"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "badbaadinayso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xumaatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahayashood"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "lahayashood"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:51.434085761Z",
+  "model": "glm-5.3"
+}

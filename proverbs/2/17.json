@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Taas oo daynaysa saaxiibkii ay dhalaneyd, ⟨את⟩ ballanta Eloheeda ay halmaamisay.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "daynaysa"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "saaxiibkii"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ay dhalaneyd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ballanta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballanta"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Eloheeda"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "halmaamisay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:59.540561562Z",
+  "model": "glm-5.3"
+}

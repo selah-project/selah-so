@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Ii naxariisoo Adonay, waayo adiga ayaan maalintii oo dhan ku dhawaaqayaa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ii naxariisoo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ku dhawaaqayaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:59.048914029Z",
+  "model": "glm-5.3"
+}

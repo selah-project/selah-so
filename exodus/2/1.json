@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuu baxay nin ka tirsan qoyskii Leewi, wuxuuna guursaday ⟨את⟩ gabadh ka tirsan qoyskii Leewi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka tirsan qoyskii"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leewi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna guursaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leewi"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:52.172529401Z",
+  "model": "glm-5.3"
+}

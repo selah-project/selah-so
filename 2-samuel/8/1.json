@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Kadib wuxuu dhacay in Daawud garaacay ⟨את⟩ Filistiintii oo uu hoos u dhigay; Daawudna wuxuu qaatay ⟨את⟩ fungaha magaalada-mooye (metheg-ha-ammah) gacanta Filistiintii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu dhacay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "garaacay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiintii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "hoos u dhigay"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fungaha magaalada-mooye"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "fungaha"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "magaalada-mooye (ammah)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:06.263146518Z",
+  "model": "glm-5.3"
+}

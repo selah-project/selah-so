@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Elohim wuxuu barakeeyay ⟨את⟩ Noach iyo ⟨את⟩ wiilashiisa, oo wuxuu ku yidhi: Dhammaystira, idinka badnaada, oo ⟨את⟩ dhulka ka buuxsada.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuu barakeeyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "dhammaystira"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "idinka badnaada"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "buuxsada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:13.748807580Z",
+  "model": "glm-5.3"
+}

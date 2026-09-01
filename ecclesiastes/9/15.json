@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaa laga helay qof miskiin oo xariif ah, oo wuu badbaadinayey ⟨את⟩ magalada xikmaddiisa; laakiin ninna ma xusay ⟨את⟩ ninka miskiinka ah eeas.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "waxaa laga helay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskiin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xariif"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "wuu badbaadinayey"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magalada"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "xikmaddiisa"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninka miskiinka ah eeas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "miskiinka ah"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eeas"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:11.642554933Z",
+  "model": "glm-5.3"
+}

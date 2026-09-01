@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waxaa la goyn doonaa kuwa xunxun, laakiin kuwa sugaya Yahweh, iyaga baa dhulka dhaxli doona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa (maxay tahay)"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kuwa xunxun"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "la goyn doonaa"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "laakiin kuwa sugaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyaga (waa iyaga)"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "dhaxli doona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:35.347015759Z",
+  "model": "glm-5.3"
+}

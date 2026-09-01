@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Elazar wuxuu dhalay ⟨את⟩ Pinechas; Pinechas wuxuu dhalay ⟨את⟩ Abishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:28.188184187Z",
+  "model": "glm-5.3"
+}

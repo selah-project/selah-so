@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Adiga maanta waad dhaafaysaa ⟨את⟩ xuduuda Mo'aab, ⟨את⟩ Caar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dhaafaysaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xuduuda Mo'aab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xuduuda"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Caar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Caar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:00:13.045078769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 44:16",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Iyagu baa galaya macbadkeyda, oo iyagu baa u soo dhawaan doona miiskeyga inay ii adeegaan, oo iyagu baa ilaali doonaan ⟨את⟩ ilaalintayda.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Iyagu baa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "galaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "macbadkeyda"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "oo iyagu baa"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "soo dhawaan doonaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "miiskeyga"
+    },
+    {
+      "surface": "לשרתני",
+      "gloss": "inay ii adeegaan"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "oo iyagu baa ilaali doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalintayda"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ilaalintayda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:42:53.353460048Z",
+  "model": "glm-5.3"
+}

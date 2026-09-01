@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Waxaana tegi alwaaxda allabariga ee Elohim, ila El farxaddayda iyo laylaydayda; kinniir baana kuugu mahadin, Elohim, Elohimay.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "waxaana tegi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alwaaxda allabariga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "farxadda"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "iyo laylaydayda"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "baana kuugu mahadin"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinniir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:54.149217845Z",
+  "model": "glm-5.3"
+}

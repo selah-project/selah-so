@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Israa'iilna wuxuu yidhi Yoosef: hadda waan dhimayaa, immika aan arkay ⟨את⟩ wajigiiga, maadaama aad weli nooshahay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "waan dhimayaa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "hadda\/markan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "immika"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "aan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigiiga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigiiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "weli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nooshahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:08.100090278Z",
+  "model": "glm-5.3"
+}

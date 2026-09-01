@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Khesed-kaaga, Yahweh, dhulka ayuu ⟨buuxsamiyaa⟩; xeerarkaaga i bar.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Khesed-kaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ayuu buuxsamiyaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "i bar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:21.942227712Z",
+  "model": "glm-5.3"
+}

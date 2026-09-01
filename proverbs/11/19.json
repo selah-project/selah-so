@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sidaas sinnada (xin) ayaa u ah nolol, kan shar-ficil raacsanaana waa geeridiis ayay ku dhammaataa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "xin (sinnada)"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "u ah nolol"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "kan raacsanaana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar-ficil"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "geeridiis (ayay ku dhammaataa)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:41.611682129Z",
+  "model": "glm-5.3"
+}

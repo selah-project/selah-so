@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Maxaa yeelay, bal eeg, nafdayda bay u sugnaayeen; kuwa xoogga badan wiil ku sameeyay ⟨ay⟩ igu soo dhisanyihiin; taasi ma aha caasiyaaddayda iyo dembigaygaba, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaa yeelay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "bay u sugnaayeen"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "igu soo dhisanyihiin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kuwa xoogga badan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "caasiyaaddayda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ... ba"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.709008353Z",
+  "model": "glm-5.3"
+}

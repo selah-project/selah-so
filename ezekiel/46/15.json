@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Waxayse diyaarinayaan ⟨את⟩ wacelka iyo ⟨את⟩ allabbariga iyo ⟨את⟩ saliidaba subax subax, olol-la-galayn waqti walba sii-wadaya.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "waxayse diyaarinayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wacelka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wacelka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allabbariga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "allabbariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saliidaba"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "saliidaba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "olol-la-galayn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "waqti walba sii-wadaya"
+    }
+  ],
+  "timestamp": "2026-09-01T04:42:37.892282689Z",
+  "model": "glm-5.3"
+}

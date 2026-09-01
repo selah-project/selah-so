@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Israaiil ha ku farxo Sameeyahiis; wiilasha Siyoon ha ku dul farxa Boqorkooda.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ha ku farxo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "Sameeyahiis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ha ku dul farxa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Boqorkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:51.765969501Z",
+  "model": "glm-5.3"
+}

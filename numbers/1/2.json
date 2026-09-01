@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Qaada ⟨את⟩ madaxa guurka dhammaan wiilasha Israa'iil — qoysaskooda, guryihii aabayaalkooda — tirada magacyada; dhammaan lab, madax kasta.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Qaada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa guurka dhammaan wiilasha Israa'iil"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "guurka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guryihii"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "aabayaalkooda"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "tirada"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "madax kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:51.456553213Z",
+  "model": "glm-5.3"
+}

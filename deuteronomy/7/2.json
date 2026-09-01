@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh Elohimkaagana wuxuu hortaaga ku siin doonaa, adiguna waad garaaci doontaa; waxba ha u tegina — ⟨את⟩ xoolaha baab'ayso si buuxda; ballan ha la gaystina, naxariisna ha uSAMEYNINA.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "wuxuu ku siin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaaga"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "waad garaaci doontaa"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "waxba ha u tegina"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "baab'ayso si buuxda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "xoolaha (iyaga)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... ina"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ballan la gaystin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la (iyaga)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha ... ina"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "naxariis u sameynin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:25.094807965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo dadka waxaad u dhigaysaa xaddo wareeg ah, aan odhan: Iska jira inaad tidhaahdaan Buurta kor u kacdaan ama geesheeda taabataan; kii taabta Buurta waa la dileeyaa si addag ah.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "waxaad u dhigaysaa xaddo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareeg ah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aan odhan"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "iska jira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "in"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kor u kacdaan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Buurta"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ama taabataan"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "geesheeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kii"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taabta"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Buurta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la dileeyaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "si addag ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:57.182179946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Waa Isaga Yahweh, Elohim-keenna; dhulka oo dhan waa xukummihiisa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Waa Isaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "xukummihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:06.158740646Z",
+  "model": "glm-5.3"
+}

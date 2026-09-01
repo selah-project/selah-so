@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waxaad naga dhigaysaa tusaale ummadaha dhexdood, iyo madax-ruuxidda shacabka dhexdood.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Waxaad naga dhigaysaa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "tusaale"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ummadda dhexdood"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "madax-ruuxidda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "shacabka dhexdood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:12.812455923Z",
+  "model": "glm-5.3"
+}

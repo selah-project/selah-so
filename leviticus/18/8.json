@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Qoomaanka haweenayda aabahaa adigu ma muujinso; qoomaanka aabahaa ⟨waa⟩ baa tahay.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "qoomaanka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "haweenayda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "muujinso"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "qoomaanka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:04.912060614Z",
+  "model": "glm-5.3"
+}

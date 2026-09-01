@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Cadhadkaada iyo murugadaada darteed, waayo adigaa i kor qaaday oo i tuuray.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "cadhadkaada"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "iyo murugadaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "adigaa i kor qaaday"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "i tuuray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:50.740333477Z",
+  "model": "glm-5.3"
+}

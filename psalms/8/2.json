@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh, Adonay-ga, magacaagu wuxuu aad u weyn yahay dhulka oo dhan, ⟨adigoo⟩ saaray ammaankaaga samada korkooda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay-ga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wuxuu aad u"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "weyn yahay"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaagu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨adigoo⟩"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "saaray"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ammaankaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:47.032632571Z",
+  "model": "glm-5.3"
+}

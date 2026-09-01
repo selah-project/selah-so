@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wadaadduna wuxuu qaadan doonaa dhiigkeeda fartiisa, wuxuuna dhigi doonaa geesaha miidanka qurbo-gubidda, dhiiggeeda oo dhan wuxuuna daadin doonaa ⟨את⟩ aasaaska miidanka.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuxuuna qaadan doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "dhiigkeeda"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "fartiisa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wuxuuna dhigi doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "miidanka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbo-gubidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wuxuuna ⟨את⟩",
+      "marks": "dhiiggeeda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dhiiggeeda"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wuxuu daadin doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "aasaaska"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miidanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:09.951942921Z",
+  "model": "glm-5.3"
+}

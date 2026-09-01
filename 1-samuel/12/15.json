@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Haddiise aadan maqashin codka Yahweh, aadna caasi weydaan ⟨את⟩ afka Yahweh, gacanta Yahweh way idin taalaysaa, iyada oo ku dhacaysa awowayaashiinnaba.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddiise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "maqashin"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "aadna caasi weydaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "way taalaysaa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "iyada oo ku dhacaysa awowayaashiinnaba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:25.282661145Z",
+  "model": "glm-5.3"
+}

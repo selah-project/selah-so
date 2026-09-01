@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Markaad garaacayso zeftaada, ha labalaabin waxa gadaashaada; geriga, agoonta iyo armajada ha u gudbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Marka"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "garaacayso"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "zeftaada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "labalaabin"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "gadaashaada"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "geriga"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "agoonta"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "armajada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ha u gudbo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:42.733989194Z",
+  "model": "glm-5.3"
+}

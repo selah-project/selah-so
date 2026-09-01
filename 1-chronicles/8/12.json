@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wiilashii Elpaalna: Eeber, Misham iyo Shamed; isagaa dhisay ⟨את⟩ Ono iyo ⟨את⟩ Lod iyo degmooyinkeeda.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalna"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eeber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagaa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "iyo degmooyinkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:16.171822582Z",
+  "model": "glm-5.3"
+}

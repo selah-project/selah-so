@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo ⟨את⟩ beytkii Yahuudah waan u naxariisan doonaa, waana ku badbaadin doonaa Yahweh, Elohimkooda, uma badbaadin doonaa qaanso iyo seef iyo dagaal iyo faras iyo fardoodle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beytkii Yahuudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "waan u naxariisan doonaa"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "waana ku badbaadin doonaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "badbaadin doonaa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "qaanso"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "fardoodle"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:36.741043856Z",
+  "model": "glm-5.3"
+}

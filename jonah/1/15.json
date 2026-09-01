@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Way qaadeen ⟨את⟩ Yoonah, wayna tuureen badda, badduna way ka joojisay carkeedii.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Way qaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "wayna tuureen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ku) badda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "way ka joojisay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badduna"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "carkeedii"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:06.258308547Z",
+  "model": "glm-5.3"
+}

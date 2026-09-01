@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Dhinaca labaad ee Mishkaanka, dhinaca waqooyiga, waxaa jiri labaatan alwaax.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkaanka"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "waqooyiga"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "alwaax"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:41.535810067Z",
+  "model": "glm-5.3"
+}

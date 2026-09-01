@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu ii soo bixiyay meel ballaaran, wuxuu i badbaadiyay, waayo wuxuu ii doonayay.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "wuxuu ii soo bixiyay"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "meel ballaaran"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wuxuu i badbaadiyay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wuxuu doonayay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:29.501000066Z",
+  "model": "glm-5.3"
+}

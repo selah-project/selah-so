@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: Ilaa goormaad diidi doontaan inaad ilaashaan amarkayga iyo sharcigayga?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "diidi doontaan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "inaad ilaashaan"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarkayga"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "iyo sharcigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:31.785202061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Muuse iyo odayaashii Yisraayeel waxay amreen ⟨את⟩ dadka iyagoo leh: Ilaaliya ⟨את⟩ amarka oo dhan aan idinku amro maanta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "waxay amreen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "iyo odayaashii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Ilaaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "idinku amro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:12:08.854692981Z",
+  "model": "glm-5.3"
+}

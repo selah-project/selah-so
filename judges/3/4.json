@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxayna ahaayeen in lagu tijaabiyo ⟨את⟩ Israa'iil, si la ogaado inay dhegeystaan ⟨את⟩ amarka Yahweh kaas uu amray ⟨את⟩ aabbayaashood gacanta Muuse.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "in lagu tijaabiyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "si la ogaado"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "inay dhegeystaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbayaashood"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabbayaashood"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:39.237309300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Elohimow, dhegeysto baryadayda; dhegeysta (ha-aziinah) erayada afkayga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhegeysto"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadayda"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeysta (ha-aziinah)"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:00.149542828Z",
+  "model": "glm-5.3"
+}

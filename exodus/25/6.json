@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "salakh iftiinka iyo, udgoon salakhta subkidda iyo, iyo qoorista udgoonka;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "salakh"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "iftiinka iyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "udgoon"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "salakhtha iyo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkidda"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "iyo qoorista"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "udgoonka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:43.202682348Z",
+  "model": "glm-5.3"
+}

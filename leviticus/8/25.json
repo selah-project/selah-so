@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna qaatay ⟨את⟩ baruurta iyo ⟨את⟩ dabada-baruurta iyo ⟨את⟩ baruurta oo dhan ee caloolaha ku dhex taal iyo ⟨את⟩ dhegmole-ka ciddidda iyo ⟨את⟩ labada keliyo iyo ⟨את⟩ baruurtooda iyo ⟨את⟩ lugta midigta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dabada-baruurta"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "dabada-baruurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurta oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex taal"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "caloolaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhegmole-ka ciddidda"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "dhegmole-ka"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ciddidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "labada keliyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "keliyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurtooda"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "baruurtooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lugta midigta"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lugta"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "midigta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:45.294983466Z",
+  "model": "glm-5.3"
+}

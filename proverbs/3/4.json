@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaadna heli doontaa karaamad iyo gar fiican ⟨indhaha⟩ Elohim iyo ⟨indhaha⟩ dadka.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "heli doontaa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "karaamad"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "iyo gar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fiican"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨indhaha⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "iyo dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:02.701837156Z",
+  "model": "glm-5.3"
+}

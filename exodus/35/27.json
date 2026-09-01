@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Odayga-gii wuxuu keenay ⟨את⟩ dhagaxyada shoham iyo ⟨את⟩ dhagaxyaha la gelinayo (fillid) ee EFODka iyo Xadhigga-Sidaha (khoshen).",
+  "tokens": [
+    {
+      "surface": "וְהַנְּשִׂאִים",
+      "gloss": "Odayga-gii (madaxda)"
+    },
+    {
+      "surface": "הֵבִיאוּ",
+      "gloss": "wuxuu keenay"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyada shoham"
+    },
+    {
+      "surface": "אַבְנֵי",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "הַשֹּׁהַם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhagaxyaha la gelinayo"
+    },
+    {
+      "surface": "אַבְנֵי",
+      "gloss": "dhagaxyaha"
+    },
+    {
+      "surface": "הַמִּלֻּאִים",
+      "gloss": "la gelinayo (fillid)"
+    },
+    {
+      "surface": "לָאֵפוֹד",
+      "gloss": "EFODka"
+    },
+    {
+      "surface": "וְלַחֹשֶׁן",
+      "gloss": "iyo Xadhigga-Sidaha (khoshen)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:22.505494614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Waxaan Yahweh sugayaa, nafadaydu way sugtaa, oo eraygiisa aan ku sugtayaa.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "waxaan sugayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "way sugtaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadaydu"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "oo eraygiisa"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aan ku sugtayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:50.257112065Z",
+  "model": "glm-5.3"
+}

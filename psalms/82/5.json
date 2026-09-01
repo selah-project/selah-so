@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 82,
+  "translation": "Ma yaqiiniin oo ma fahayaan, gudcurka bay ku socdaan, aasaasyada dhulka oo dhan way dhaqaaqaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yaqiiniin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fahayaan"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "gudcurka"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bay ku socdaan"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "way dhaqaaqaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "aasaasyada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:48.711592069Z",
+  "model": "glm-5.3"
+}

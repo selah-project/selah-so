@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Markay ruuxdaydu ⟨i⟩ daciifisay, adiga ⟨ayaad⟩ garanaysay jidkayga; waddadda aan socdo waxay ii qariyeen nasi.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "markay daciifisay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxdaydu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiga (ayaad)"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "garanaysay"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "jidkayga"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "waddadda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "taan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aan socdo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "waxay qariyeen"
+    },
+    {
+      "surface": "פח",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:48.644756498Z",
+  "model": "glm-5.3"
+}

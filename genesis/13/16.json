@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaanan dhigi doonaa ⟨את⟩ uurkaaga sida ciidda dhulka; haddii nin uu kari karo inuu tirto ⟨את⟩ ciidda dhulka, xataa uurkaagiina waa la tiri doonaa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Waxaanan dhigi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uurkaaga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "uurkaaga"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "sida ciidda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "uu kari karo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "inuu tirto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciidda dhulka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "uurkaagiina"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "la tiri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:40.469163566Z",
+  "model": "glm-5.3"
+}

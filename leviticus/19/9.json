@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo goortii aydaan goyn ⟨את⟩ bisinka dhulkayagii, ha dhammaystirin geesaha beeradaagii goynta, iyo waxii dhaca bisinkaagii ha ku uruuriyin.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "goortii aydaan goyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bisinka"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "bisinka"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dhulkayagii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "dhammaystirin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "beeradaagii"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "goynta"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "waxii dhaca"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "bisinkaagii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ku uruuriyin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:26.351494314Z",
+  "model": "glm-5.3"
+}

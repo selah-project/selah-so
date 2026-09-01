@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo ⟨את⟩ labaadaba wuxuu ka dhigi doonaa allabari (olol-saar), sida sharcigu yahay; oo wadaaddu wuxuu ka dhaafsiin doonaa dembigiisii oo uu dembaabay, oo waa loo dhaafaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labaadaba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaadaba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wuxuu ka dhigi doonaa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "allabari (olol-saar)"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sida sharcigu yahay"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wuxuu ka dhaafsiin doonaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "dembigiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "uu dembaabay"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "oo waa loo dhaafaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:40.577790438Z",
+  "model": "glm-5.3"
+}

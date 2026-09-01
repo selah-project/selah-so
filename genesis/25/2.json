@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxay u dhashay ⟨את⟩ Simran iyo ⟨את⟩ Yokshan iyo ⟨את⟩ Medan iyo ⟨את⟩ Midyan iyo ⟨את⟩ Yishbaq iyo ⟨את⟩ Shuax.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Waxay u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Simran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbaq"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuax"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuax"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:25.291100908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waxay ku hadlaan ma nabad; dadka dhulka deggan bay erayo khiyaano u qorsadeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ku hadlaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "bay ... u"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka dadka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayo"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "khiyaano"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "qorsadeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:03.609721228Z",
+  "model": "glm-5.3"
+}

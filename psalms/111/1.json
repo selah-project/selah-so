@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Ammaana ugu yeera Yah; waan mahadinayaa Yahweh qalbiga oo dhan, sharka kuwa toosan iyo taynta.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaana ugu yeera"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "waan mahadinayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "iyo taynta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:17.382405453Z",
+  "model": "glm-5.3"
+}

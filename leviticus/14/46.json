@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Qofka guriga galo dhammaan maalmaha ⟨את⟩ guriga la xiray, wuu nijaasan doonaa ilaa galabta.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "qofka galo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "la xiray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wuu nijaasan doonaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:31.128112590Z",
+  "model": "glm-5.3"
+}

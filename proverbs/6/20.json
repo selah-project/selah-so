@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wiilayow, ilaali amarka aabahaa, oo ha ka tegin xeerka hooyadaa.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Wiilayow"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ka tegin"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "xeerka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "hooyadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:09.904738200Z",
+  "model": "glm-5.3"
+}

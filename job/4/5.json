@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laakiin hadda markuu ku yimaadana waxaad daalantay; hadduu taabana waxaad degdeg u gartay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ku yimaado"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "waxaad daalantay"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "hadduu taabo"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "waxaad degdeg u gartay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:02.267319172Z",
+  "model": "glm-5.3"
+}

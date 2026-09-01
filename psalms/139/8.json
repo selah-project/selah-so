@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Haddaan samada koro, halkaas Adigu tahay; haddaan Sheool gogoosh ka dhigo, bal eeg, Adigu tahay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "koro"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu tahay"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "haddaan gogoosh ka dhigo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "bal eeg, Adigu tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.378669056Z",
+  "model": "glm-5.3"
+}

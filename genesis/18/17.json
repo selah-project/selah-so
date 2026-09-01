@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahwehna wuxuu yidhi: Ma qarinayaa anigu Abraham waxa anigu samaynayo?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ma qarinayaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samaynayo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:59.436507555Z",
+  "model": "glm-5.3"
+}

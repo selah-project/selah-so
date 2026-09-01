@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Hal-abuurka hanuuninayo, oo Dawud lelay. Nijaas-qalbi ayaa qalbigiisii ku yidhi: «Ma jiro Elohim.» Waxay baabi'iyeen, waxay sameeyeen fal xun; ma jiro mid samaysta wanaag.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hal-abuurka hanuuninayo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawud lelay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayaa yidhi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nijaas-qalbi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisii ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "waxay baabi'iyeen"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "waxay sameeyeen fal xun"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "fal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mid samaysta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:53.861841629Z",
+  "model": "glm-5.3"
+}

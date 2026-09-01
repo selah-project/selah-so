@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Ka dhawaadiya buunka bilowga bisha, taariikhda la go'ay, maalinta ciidkeenna.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Ka dhawaadiya"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "bilowga bisha"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "buunka"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "taariikhda la go'ay"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ciidkeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:42.885567648Z",
+  "model": "glm-5.3"
+}

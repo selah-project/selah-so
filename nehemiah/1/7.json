@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Si xun baannu kuu falnay, uma ilaalin ⟨את⟩ amarrada iyo ⟨את⟩ xeerarka iyo ⟨את⟩ xukuumyada aad ku amartay ⟨את⟩ Muuse addoonkaaga.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "si xun"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "baannu falnay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarrada"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amarrada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xeerarka"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xeerarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukuumyada"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xukuumyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ku amartay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:16:04.666168131Z",
+  "model": "glm-5.3"
+}

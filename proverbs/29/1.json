@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Nin la canaantay mar dheer adkeeysta luqunta, si geddi ah waa la jabinayaa, oo jiritaan la'aan baa tahay bogsasho.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "la canaantay mar dheer"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "adkeeysta"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "luqunta"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "si geddi ah"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "waa la jabinayaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo jiritaan la'aan"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "bogsasho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:33.411492057Z",
+  "model": "glm-5.3"
+}

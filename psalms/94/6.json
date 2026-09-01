@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Halgasi iyo qaxootigaba way dileen, agoontana way qatlebaa.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "halgasi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "iyo qaxootiga"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "way dileen"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "agoontana"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "way qatlebaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:37.915700353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Boqorka Israa'iilna wuxuu baxay, wuxuuna garaacay ⟨את⟩ faraskii iyo ⟨את⟩ gaadhigii, wuxuuna ku garaacay Aram garaac weyn.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuuna garaacay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraskii"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "faraskii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gaadhigii"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "gaadhigii"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "wuxuuna ku garaacay"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "garaac"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:04.285394784Z",
+  "model": "glm-5.3"
+}

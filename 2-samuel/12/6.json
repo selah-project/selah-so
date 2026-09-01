@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaana uu ka makhsiinayaa ⟨את⟩ laxa afarta lanes, xilli uu sameeyay ⟨את⟩ sharcigaan, iyo inuusan naxariin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laxa"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "laxa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ka makhsiinayaa"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "afarta lanes"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "xilli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharcigaan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sharcigaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "naxariin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:44.739849704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "adiguna kac oo tag gurigaga, markay cagahaagu magaalada gaadhaan, carruurtu way dhiman doontaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "kac"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "oo tag"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gurigaga"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "markay gaadhaan"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "cagahaagu"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "way dhiman doontaa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "carruurtu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:22.169072641Z",
+  "model": "glm-5.3"
+}

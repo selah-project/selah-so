@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Adiga ayaan ku toogay ilaa uurkii, caloosha hooyaday; Eligay adigaad tahay.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Adiga ayaan ku"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "toogay"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ilaa uurkii"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eligay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaad tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:47.743945222Z",
+  "model": "glm-5.3"
+}

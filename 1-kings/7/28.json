@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Saamigaasna wuxuu ahaa shuqulkii saldhigyada — laamyad (wajiyo) ayay lahaayeen, iyo laamyad beerta dhexe ee u dhexeysa shalabiyada.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Saamigaasna (kanas) wuxuu ahaa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "saldhigyada (mekonot-ka)"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "laamyad (wajiyo)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ayay lahaayeen"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "iyo laamyad kale"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeysa (dhexdooda)"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "shalabiyada (qeybaha siidayan)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:22:32.101427549Z",
+  "model": "glm-5.3"
+}

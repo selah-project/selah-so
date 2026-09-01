@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Wuxuuna ii yidhi, Adigaa addoonkayga ah, Israa'iil, adiga ayaan ku ileynayaa amaantayda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ii yidhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonkayga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ileynayaa amaantayda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:12.381057308Z",
+  "model": "glm-5.3"
+}

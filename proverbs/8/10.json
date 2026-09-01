@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Qaada waxbarashadayda oo lacag ha qaadanin, iyo aqoon la wax badan ka horreeya dheddig la doortay.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "qaada"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "waxbarashadayda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha qaadanin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iyo aqoon"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "la wax badan ka horreeya"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "dheddig la doortay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:52.323546182Z",
+  "model": "glm-5.3"
+}

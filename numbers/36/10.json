@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Sida Yahweh u amray ⟨את⟩ Muuse, saas oo kale bay gabdhaha Tselofchad sameeyeen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas oo kale"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyeen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofchad"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:42.902329066Z",
+  "model": "glm-5.3"
+}

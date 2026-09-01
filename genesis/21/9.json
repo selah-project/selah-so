@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Saara waxay aragtay ⟨את⟩ inka Hagar geddana Midgaanka ee ay u dhashay Ibraahim inuu ciyaarayo.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "waxay aragtay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "geddana Midgaanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ay u dhashay"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "inuu ciyaarayo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:47.043666929Z",
+  "model": "glm-5.3"
+}

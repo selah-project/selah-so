@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wanaagsan inaanad nadarin, halkii aad nadartay oo aadan oofin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanad"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nadarin"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "halkii aad nadartay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "oofin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:18.825140993Z",
+  "model": "glm-5.3"
+}

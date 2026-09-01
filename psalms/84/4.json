@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Xataa shimbirtu bay gurigii heshay, oo durduurku heel uu naftiisa u yeeshay, halka uu caruurtiisa ku dhigay — ⟨את⟩ allabariyadaada, Yahweh Ciidammaha, Boqorkaygii iyo Elohim-kaygii.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shimbirtu"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "bay heshay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "oo durduurku"
+    },
+    {
+      "surface": "קן",
+      "gloss": "heel"
+    },
+    {
+      "surface": "לה",
+      "gloss": "naftiisa u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halka"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "caruurtiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabariyadaada"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "allabariyadaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ciidammaha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorkaygii"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iyo Elohim-kaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.744191673Z",
+  "model": "glm-5.3"
+}

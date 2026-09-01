@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ albaabka tiirarka — dhererkiisu saameedu ahayd sodon, balac kiisuna saameedu ahayd laba iyo toban; albaabna ⟨wuxuu ahaa⟩ hortooda, tiirarro iyo saqaf adagba hortooda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "albaabka tiirarka"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "saame"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dhererkiisu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "laba iyo toban"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "saame"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "balackiisu"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "albaabna"
+    },
+    {
+      "surface": "על",
+      "gloss": "hor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tooda"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "tiirarro"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "saqaf adag"
+    },
+    {
+      "surface": "על",
+      "gloss": "hor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:12:28.596784837Z",
+  "model": "glm-5.3"
+}

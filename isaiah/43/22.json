@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Laakiin adiguma ⟨את⟩ igu garaacday inaad i wacdo, Ya'aqob; waayo waad i daalishay, Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laakiin...ma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga (iga)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "igu garaacday inaad i wacdo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "waad i daalishay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:32.284677381Z",
+  "model": "glm-5.3"
+}

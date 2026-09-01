@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Markii Daawuud ka dhammeeyay bixinta olah iyo shelamim, wuxuu barakaystay ⟨את⟩ dadka Magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ka dhammeeyay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "bixinta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "iyo shelamim"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuu barakaystay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:28:41.139196808Z",
+  "model": "glm-5.3"
+}

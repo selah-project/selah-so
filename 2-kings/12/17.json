@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Lacagta dambiyada iyo lacagta xataayaasha lama geliyo baytka Yahweh; wadaaddada bay ahaanayaan.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dambiyada"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "iyo lacagta"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "xataayaasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "geliyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay ahaanayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:47.610966479Z",
+  "model": "glm-5.3"
+}

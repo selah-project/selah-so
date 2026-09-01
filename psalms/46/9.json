@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Kaalaya, fiiriya shuqulladii Yahweh, oo uu dhulka ku dhigay burbur.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "fiiriya"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "shuqulladii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ku dhigay"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:15.693942150Z",
+  "model": "glm-5.3"
+}

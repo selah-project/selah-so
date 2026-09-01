@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Safri ah baan ahay dhulka; ha qarin ilaaway farajadaada.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Safri ah \/ musaafir"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan ahay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ilaaway"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:43.625346628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "iyo saliid lampaadda iftiinka lagu shido, iyo udaxyo saliidda mashiixadda iyo qoonduuska udaxyada (besamim).",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "iyo saliid"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "lampaadda iftiinka"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "iyo udaxyo (besamim)"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mashiixadda"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "iyo qoonduuska"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "udaxyada (samim)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:27.652935949Z",
+  "model": "glm-5.3"
+}

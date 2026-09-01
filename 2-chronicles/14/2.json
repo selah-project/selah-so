@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu ka saaray ⟨את⟩ meelaha alluurta ah ee shisheeya iyo meelaha sare, wuxuu jebiyay ⟨את⟩ tiirarka, wuxuu gooyay ⟨את⟩ Asheraha.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wuxuu ka saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meelaha alluurta ah ee shisheeya"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "meelaha alluurta"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "shisheeya"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "iyo meelaha sare"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "wuxuu jebiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "wuxuu gooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asheraha"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:43:40.867646877Z",
+  "model": "glm-5.3"
+}

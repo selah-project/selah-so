@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Iyo inuu qorsheejo qorsheyo (maxaashabot) si lagu sameeyo dahabta, lacagta iyo naxaastaba.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "iyo inuu qorsheejo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "qorsheyo (maxaashabot)"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "si lagu sameeyo"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "dahabta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "lacagta iyo"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "naxaastaba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:36.618064428Z",
+  "model": "glm-5.3"
+}

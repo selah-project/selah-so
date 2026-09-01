@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "«Anigu waan dhaawacay boqorkayga Siyoon, buurta qadayday».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "waan dhaawacay"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorkayga"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "qadayday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:07.939019662Z",
+  "model": "glm-5.3"
+}

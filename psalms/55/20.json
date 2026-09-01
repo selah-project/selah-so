@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "El wuu maqli doonaa, wuuna ka jawaabi doonaa, Kan fadhiya tan iyo hore — Selah — kuwa aan wax isbeddel ah lahayn, oo aysan cabsan Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "wuu maqli doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "wuuna ka jawaabi doonaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Kan fadhiya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tan iyo hore"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan wax lahayn"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "isbeddel ah"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aysan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:10.981639958Z",
+  "model": "glm-5.3"
+}

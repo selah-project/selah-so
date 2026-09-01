@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waan ku dili doonaa cudurka ba'an, waana baabbi'in doonaa, waana ka dhigi doonaa ⟨את⟩ adiga qolo ka weyn oo ka awood badan kani.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "waan ku dili doonaa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "cudurka ba'an"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "waana baabbi'in doonaa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "waana ka dhigi doonaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "qolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ka weyn"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "oo ka awood badan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kani"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:22.062766676Z",
+  "model": "glm-5.3"
+}

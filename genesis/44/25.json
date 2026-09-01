@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "wuxuu yidhi aabbahay: Noqda, iibsara na cunto yar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "noqda"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "iibsara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunto"
+    }
+  ],
+  "timestamp": "2026-09-01T01:01:38.631930101Z",
+  "model": "glm-5.3"
+}

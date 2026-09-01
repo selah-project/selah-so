@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Maalintaa waayahay oohanka Yeruushaalaym waa weyni doonaa, sida oohanka Hadad-Rimon ee webta Megiddo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalintaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "waayahay"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "waa weyni doonaa"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "oohanka"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "sida oohanka"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "ee webta"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Megiddo"
+    }
+  ],
+  "timestamp": "2026-09-01T04:59:06.646493508Z",
+  "model": "glm-5.3"
+}

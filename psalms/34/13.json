@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Yaa ⟨waa⟩ ninka doonaya nolosha, jecel maalmaha badan, si uu arko wanaag?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "doonaya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jecel"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "si uu arko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:48.486261823Z",
+  "model": "glm-5.3"
+}

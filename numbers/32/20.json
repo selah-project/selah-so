@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Muusena wuxuu ku yidhi: Haddii aad sameysaan ⟨את⟩ shaygan, haddii aad qaadataan dhulka hor fagaare Yahweh u dagaalamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "aad sameysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shaygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "aad qaadataan dhulka hor fagaare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "u dagaalamo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:27.951687960Z",
+  "model": "glm-5.3"
+}

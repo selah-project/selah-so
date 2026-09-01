@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Markay waqtigu yimid ay ⟨את⟩ Merab gabadhii Shaa'uul la siinayay David, iyana waxaa loo siisay Adri'eel ee reer Meexoolaa xaas ahaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay waqtigu yimid ay"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "תת",
+      "gloss": "la siinayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iyana"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "waxaa loo siisay"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adri'eel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "reer Meexoolaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xaas ahaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:59.834870581Z",
+  "model": "glm-5.3"
+}

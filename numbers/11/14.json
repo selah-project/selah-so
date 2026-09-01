@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Aniga keliya ma karayaan in aan qaado ⟨את⟩ dadkan oo dhan, waayo, culays baa ila weyn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "karayaan in aan qaado"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "qaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "culays"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ila weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:47.035612932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Mizmuar Dhawud: Yahweh, yaa ku degan⟨doona⟩ teendhadaada? Yaa ku sugan⟨doona⟩ buurta quduuska ah ee ⟨adaa⟩ leh?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmuar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhawud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ku degan"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "teendhadaada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ku sugan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuskaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:12.349479327Z",
+  "model": "glm-5.3"
+}

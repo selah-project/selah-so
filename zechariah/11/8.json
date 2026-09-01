@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxaana baabbi'iyay ⟨את⟩ saddexda daaqe hal bil gudaheed, oo naftaydu way ka carootatay iyaga, oo naftoodana way ii baahishay aniga.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "Waxaana baabbi'iyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saddexda daaqe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddexda"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "daaqe"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "hal bil"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gudaheed"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "way ka carootatay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "naftoodana"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "way ii baahishay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:28:16.359728701Z",
+  "model": "glm-5.3"
+}

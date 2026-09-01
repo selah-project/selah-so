@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh, ha i eedsan gadoodkaaga, hana i ciqaabin chamadaaga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "gadoodkaaga"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ha i eedsan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha... bin"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "chamadaaga"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ha i ciqaabin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.359284113Z",
+  "model": "glm-5.3"
+}

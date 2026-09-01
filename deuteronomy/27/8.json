@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "waxaadna dhagaxa ku qorisaa ⟨את⟩ erayada Sharcigan oo dhan si cad oo fiican.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "waxaadna ku qorisaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada Sharcigan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Sharcigan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "באר",
+      "gloss": "si cad"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "oo fiican"
+    }
+  ],
+  "timestamp": "2026-09-01T07:01:11.226587437Z",
+  "model": "glm-5.3"
+}

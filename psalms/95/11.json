@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Markaasaan ku dhaartay cadhadayda: ⟨ma aha⟩ inay galaan nasashadayda.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Markaas"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "aan ku dhaartay"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "cadhadayda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ma aha⟩ inay"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "galaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nasashadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:36.747285570Z",
+  "model": "glm-5.3"
+}

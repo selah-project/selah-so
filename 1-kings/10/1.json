@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Malagadda Sheba markay maqashay shanta Suleymaan ee ku saabsan Magaca Yahweh, waxay timaadisii inay tijaabiso xili-cusub (biqdot) ah.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "iyo malagadda"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "markay maqashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanta (faahfaahinta)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "shanta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ku saabsan Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "waxay timaad"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "inay tijaabiso"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "xili-cusub (biqdot)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:07.097382187Z",
+  "model": "glm-5.3"
+}

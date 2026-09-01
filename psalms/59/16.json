@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Waxayaa — waxay socdaan si wax ay cunaan, haddii ayan watmeermin — waxay habeenka dhigaan habaarnimo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Waxayaa"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "waxay socdaan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "si wax ay cunaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "watmeermin"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "waxay habeenka dhigaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:03.840067074Z",
+  "model": "glm-5.3"
+}

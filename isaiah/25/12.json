@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Qalcadaha iyo meelaha sarreeya ee deyradaaga wuu dhigi doonaa, wuu hoos u dhigi, wuu dhulka ku dhigi, ilaa boodadka.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "Qalcadaha"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "meelaha sarreeya"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "deyradaaga"
+    },
+    {
+      "surface": "השח",
+      "gloss": "wuu dhigi doonaa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "wuu hoos u dhigi"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "wuu dhulka ku dhigi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "boodadka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:13.255596492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxay ku dhawaaqeen soonka, oo Nabot ka fadhiisiyeen horka dadweynaha.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "waxay ku dhawaaqeen"
+    },
+    {
+      "surface": "צום",
+      "gloss": "soonka"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "oo ka fadhiisiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "horka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadweynaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:50.962265918Z",
+  "model": "glm-5.3"
+}

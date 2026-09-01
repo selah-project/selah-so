@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waadhe, adigaa aan kuu sugay, Yahweh; adigu waad ka jawaabi doontaa, Adonay Elohimay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waadhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aan kuu sugay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "waad ka jawaabi doontaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:03.752608639Z",
+  "model": "glm-5.3"
+}

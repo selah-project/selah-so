@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Laaban wuxuu siiyay ⟨את⟩ Silpa addoonadiisii, inay u noqoto addoon — Le'ah gabadhiisa — addoon.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laaban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(Le'ah)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Silpa addoonadiisii"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Silpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "addoonadiisii"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Le'ah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "gabadhiisa"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "addoon (u noqoto)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:24.782106802Z",
+  "model": "glm-5.3"
+}

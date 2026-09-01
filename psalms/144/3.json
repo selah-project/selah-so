@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Yahweh, maxay ahayd aadanaha inaad taqaanid? Ama inanka aadanaha (nafta dhimata) inaad xisaabisid?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "inaad taqaanid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inanka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "aadanaha (nafta dhimata)"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "inaad xisaabisid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:00.617436215Z",
+  "model": "glm-5.3"
+}

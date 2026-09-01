@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "U amur ⟨את⟩ wadaaddada sidii sididda sanduuqa markhaatiga inay ka soo kacaan Yardenka.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "u amur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadaaddada"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sididda"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "inay ka soo kacaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:32.902573402Z",
+  "model": "glm-5.3"
+}

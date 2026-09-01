@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Aniguba waan idinla socon doonaa keri, aniguna waan idin garaaci doonaa toddoba (jeer) dembiyadiin aawadiis.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "waan socon doonaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Aniguba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "idinla"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "keri"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "waan garaaci doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "idin ⟨את⟩",
+      "marks": "waan idin garaaci doonaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba (jeer)"
+    },
+    {
+      "surface": "על",
+      "gloss": "aawadiis"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dembiyadiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:21.198778223Z",
+  "model": "glm-5.3"
+}

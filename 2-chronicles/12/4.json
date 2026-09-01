@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna qabsaday ⟨את⟩ magaalooyinka qalcadaha ee ay leeyihiin Yahuudah, wuxuuna u yimid ilaa Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Wuxuuna qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalooyinka qalcadaha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "qalcadaha ee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "leeyihiin Yahuudah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna u yimid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T06:38:17.961590462Z",
+  "model": "glm-5.3"
+}

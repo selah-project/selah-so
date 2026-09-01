@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahwehna wuxuu jabiyay ⟨את⟩ Kushiinta ka hor Aasa iyo ka hor Yahuudah, oo Kushiintu way carareen.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "wuxuu jabiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kushiinta"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kushiinta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aasa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "iyo ka hor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "way carareen"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kushiintu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:44:00.276120728Z",
+  "model": "glm-5.3"
+}

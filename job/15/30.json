@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Ma gaadho mida gudcurta; basaasaddu waa enujinaysaa qoyinsiisa, ruuxa afkiisana waa la wareejin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "gaadho"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mida"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gudcurta"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "qoyinsiisa"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "enujinaysaa"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "basaasaddu"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "waa la wareejin"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:44:25.216390781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo iyagu waxay qaadan doonaan ⟨את⟩ dahabka iyo ⟨את⟩ buluugga iyo ⟨את⟩ ururka iyo ⟨את⟩ diidda casaanka ah iyo ⟨את⟩ linxiga.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "oo iyagu"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "waxay qaadan doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dahabka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "buluugga"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "buluugga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ururka"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ururka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "diidda"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diidda"
+    },
+    {
+      "surface": "השני",
+      "gloss": "casaanka ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "linxiga"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linxiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:23.158824253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Aniga iyo Yahweh, Elohiin kiin ah, kan idinka soo bixiyay ⟨את⟩ kiin dhulkii Mitsrayim, si aadan uga noqon addoomo, waana jebiyay tiirarka giiga giigiinna, waana idin sogay ⟨את⟩ kiin si madax-bannaan oo toosan (qoommiyut).",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiin kiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "idinka soo bixiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kiin (idin)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "in aad ahaataan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "laydhin"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoomo"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "waana jebiyay"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "giiga giigiinna"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "waana idin sogay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kiin (idin)"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "si toosan (qoommiyut)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:12.068273768Z",
+  "model": "glm-5.3"
+}

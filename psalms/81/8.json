@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Adigu waqtiga cilmi-darrada ayaad iigu yeedhay, aniguna waan ku badbaadinayey; waan ku jawaabayaa qarsoodii onkodkii; waan ku imtixaamay biyaha Meribah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "waqtiga cilmi-darrada"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "yeedhay"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "waan ku badbaadinayey"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "waan ku jawaabayaa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarsoodii"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "onkodkii"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "waan ku imtixaamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "biyaha (agta)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:44.536238794Z",
+  "model": "glm-5.3"
+}

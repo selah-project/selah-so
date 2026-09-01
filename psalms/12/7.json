@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ereyaashii Yahweh waa ereyo daahir ah, sida lacag la shubeey oo dhoobo-gelin lagu baaray, toddoba jeer la nadiifiyey.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Ereyaashii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "daahir ah"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "la shubeey"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dhoobo-gelin lagu baaray"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "oo dhulka"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "la nadiifiyey"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "toddoba jeer"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:48.803156686Z",
+  "model": "glm-5.3"
+}

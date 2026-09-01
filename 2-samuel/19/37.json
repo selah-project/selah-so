@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wax yar buu addoonkaagu u gudbayn doonaa ⟨את⟩ Yardenka ⟨את⟩ boqorka, oo boqorku maxay ii gallabi lahaa galladdan?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "buu u gudbayn doonaa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "oo maxay"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ii gallabi lahaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "galladda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:01.114837717Z",
+  "model": "glm-5.3"
+}

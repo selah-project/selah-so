@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Iyo gurigii Yoosef oo dhan, iyo walaalihiis, iyo gurigii aabbihiis; caruurtiisa, adhigoodii iyo lo'doodii keliya bay ku teageen dalka Goshen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Iyo ... oo dhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "iyo walaalihiis"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo gurigii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "caruurtiisa"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "adhigoodii"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "iyo lo'doodii"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bay ku teageen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:45.378103006Z",
+  "model": "glm-5.3"
+}

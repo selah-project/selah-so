@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Kuwa qalbiga xooggaa waa la saaray, hurdadoodii way seexdeen, oo ragga xooggaa oo dhan ma helin gacmohooda.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "waa la saaray"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "way seexdeen"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "hurdadoodii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "helin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "xooggaa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:21.479231126Z",
+  "model": "glm-5.3"
+}

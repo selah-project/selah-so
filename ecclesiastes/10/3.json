@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Sidoo kale markuu sakhraanku socodo waddada, wuu yaraa la'aan qalbigiis, wuuna odhan dadka oo dhan sakhran buu yahay.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "markuu sakhraanku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "socodo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiis"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "wuu yaraa la'aan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wuuna odhan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dadka oo dhan"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sakhran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:56.345210902Z",
+  "model": "glm-5.3"
+}

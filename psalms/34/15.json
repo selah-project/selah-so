@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ka noqo sharka oo samee wanaag; raadi nabad (shalom) oo raac-dheeraad.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Ka noqo"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "oo samee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "raadi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad (shalom)"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "oo raac-dheeraad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:48.488778489Z",
+  "model": "glm-5.3"
+}

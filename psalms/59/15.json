@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Oo habeenkay bay ku noqdaan, waxay u uunmaan sida eyi, oo waxay magaalada ku wareegayaan.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "bay ku noqdaan"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "habeenkay"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "waxay u uunmaan"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sida eyi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "waxay ku wareegayaan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:03.839831270Z",
+  "model": "glm-5.3"
+}

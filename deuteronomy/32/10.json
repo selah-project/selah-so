@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuu ku helay ⟨dhexdana⟩ dhul riyo ah, iyo meel madhan oo qaylo-dhexeysa oo baaba'aysa; wuxuu ku wareejiyay, wuxuu gar-siiyay, wuxuu ilaaliyay sidii irisaska indhihiisa.",
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "wuxuu ku helay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dhexdana⟩ dhul"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "riyo ah"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "iyo meel madhan"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "qaylo-dhexeysa"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "baaba'aysa"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "wuxuu ku wareejiyay"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "wuxuu gar-siiyay"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "wuxuu ilaaliyay"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "sidii irisaska"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "indhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:42.146216800Z",
+  "model": "glm-5.3"
+}

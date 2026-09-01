@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Inaan sameeyo raalliyadaada, Elohimay, waan doonay, oo Sharcigaaga wuxuu dhex yaallaa caloosheyda.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Inaan sameeyo"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "raalliyadaada"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "waan doonay"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "oo Sharcigaaga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "caloosheyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:35.407270389Z",
+  "model": "glm-5.3"
+}

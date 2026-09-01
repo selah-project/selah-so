@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Ma waan koownaa kuwo isku oollan, inaad ii keenteen ⟨את⟩ kan si uu iigu oolaado? Ma kan baa gurigayga soo gala?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Ma waan koownaa"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "kuwo isku oollan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "waan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "aad ii keenteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "si uu iigu oolaado"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "soo gala"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gurigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:17.669554056Z",
+  "model": "glm-5.3"
+}

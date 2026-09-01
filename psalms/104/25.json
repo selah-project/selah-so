@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Kani waa badda weyn oo ballaaran ⟨yadaha⟩; halkaasaa wax jiidaha ah oo aan tir lahayn, nololeed yaryar iyo kuwa weyn.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kani"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "oo ballaaran"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "yadaha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaasaa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wax jiidaha ah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan jirin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tir"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "nololeed"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "yaryar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kuwa weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.014639201Z",
+  "model": "glm-5.3"
+}

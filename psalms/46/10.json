@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Wuxuu joojiyaa dagaallada ilaa dhulka geesiisa; qaansada wuu jajabinayaa, gelinta wuu goynayaa, gaadhiga wuu gubayaa dab.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Wuxuu joojiyaa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dagaallada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "geesiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qaansada"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "wuu jajabinayaa"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "wuu goynayaa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "gelinta"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "gaadhiga"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "wuu gubayaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:15.694282306Z",
+  "model": "glm-5.3"
+}

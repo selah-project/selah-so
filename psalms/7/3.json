@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Si aan ugoyn sida libaax noloshayda — si uu ugoyn (jeexjeexo), markaas ma jiro mid gargaara.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Si aan"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ugoyn"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sida libaax"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "noloshayda"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "uu ugoyn (jeexjeexo)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mid gargaara"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:23.021607422Z",
+  "model": "glm-5.3"
+}

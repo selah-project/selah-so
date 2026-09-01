@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "I naxariiso, Yahweh, waayo waan liitay; i hagaaji, Yahweh, waayo lafahaygu way walaacsanaayeen.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "i naxariiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "waan liitay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "waan"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "i hagaaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "way walaacsanaayeen"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafahaygu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.359411514Z",
+  "model": "glm-5.3"
+}

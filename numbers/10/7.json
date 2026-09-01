@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Laakiin marka laydin soo ururinayo ⟨את⟩ ururka, waxaad dhawaal-dhawaashaan oo idinkuma qeylo-dhawaashaan.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "marka laydin soo ururinayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ururka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ururka"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "waxaad dhawaal-dhawaashaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo idinkuma"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "qeylo-dhawaashaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:16.594118046Z",
+  "model": "glm-5.3"
+}

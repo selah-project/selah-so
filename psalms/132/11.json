@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Yahweh wuxuu Dawuud u dhaartay aman; uma celin doono: firiiro calooshaada waan dhigaa carshi adiga.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wuxuu dhaartay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud (u)"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "aman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "celin"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ka (u)"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "firiiro"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "calooshaada"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "waan dhigaa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "carshi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.663741296Z",
+  "model": "glm-5.3"
+}

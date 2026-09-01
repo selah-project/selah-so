@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Ilaa aan helo meel Yahweh, degmooyin ⟨⟩ Abiirka Yacquub.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa aan"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "heelo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "degmooyin"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abiirka u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:41.987007737Z",
+  "model": "glm-5.3"
+}

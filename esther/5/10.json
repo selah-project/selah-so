@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Laakiin Haamaan wuu isu qariyay, wuxuuna galay gurigiisii, wuxuuna diray wuxuuna soo keenay ⟨את⟩ saaxiibadiisii iyo ⟨את⟩ Zeeresh xaaskiis.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "wuu isu qariyay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "wuxuuna galay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisii"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuuna diray"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna soo keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibadiisii"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "saaxiibadiisii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Zeeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:05.550368586Z",
+  "model": "glm-5.3"
+}

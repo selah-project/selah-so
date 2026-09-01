@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Laakiin dhulka aad idinku halkaas u gudubaysaan si aad qabsataan — waa dhul buuro iyo baadiyo, oo roobka samada ay biyo ka cabbaysaa.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Laakiin dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "u gudubaysaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "si aad qabsataan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuro"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "iyo baadiyo"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "roobka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ay ka cabbaysaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:40.611275624Z",
+  "model": "glm-5.3"
+}

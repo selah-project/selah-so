@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Wuxuu ii celiyay ⟨את⟩ jidka albaabka macbadka dibedda ee bari joogsan, oo wuu xiran yahay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu ii celiyay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jidka albaabka macbadka dibedda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "macbadka"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ee joogsan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "bari"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo wuu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "xiran yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:06.199311845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Madaxa ugu hanuuniya, qalabka durduuradu (lagu garaacay) — mijdhan laga dhigay Asaaf, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madaxa ugu hanuuniya"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "qalabka durduuradu (lagu garaacay)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mijdhan"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "laga dhigay Asaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:13.431762030Z",
+  "model": "glm-5.3"
+}

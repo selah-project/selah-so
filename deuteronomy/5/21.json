@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Xaaska saaxiibkaaga ha ku damcin, gurigii saaxiibkaagana ha ku riyo-raqdin, beerkiisii, addoonkiisii, addoonaddiisii, dibigiisii, dimirkiisii, iyo wax kasta oo saaxiibkaaga leh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ku damcin"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xaaska"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "ku riyo-raqdin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "beerkiisii"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "addoonkiisii"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "addoonaddiisii"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "dibigiisii"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "dimirkiisii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo wax kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "saaxiibkaaga leh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:15.407512169Z",
+  "model": "glm-5.3"
+}

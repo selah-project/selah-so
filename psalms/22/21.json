@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "I guri nafayda seefta, gacanta eeyga keligii-geyda ka.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "I guri"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "seefta ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafayda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "eeyga"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "keligii-geyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.428442763Z",
+  "model": "glm-5.3"
+}

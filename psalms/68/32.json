@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Waa imaan doonaan hodanka ka mid ah Mitsrayim; Kushna waa cajisi gacmihiisa ⟨toward⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "Waa imaan doonaan"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "hodanka"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushna"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "waa cajisi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim u"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:14.084489946Z",
+  "model": "glm-5.3"
+}

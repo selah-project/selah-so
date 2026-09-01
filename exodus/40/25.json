@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuu kor u shiday mishariinka Yahweh hortiis, sida Yahweh ku amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Wuxuu kor u shiday"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "mishariinka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ku amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:08.582031200Z",
+  "model": "glm-5.3"
+}

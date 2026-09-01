@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Gel oo u hadal Farcoon, boqorka Mitsrayim, inuu ka bixiyo ⟨את⟩ ilmihii Israa'iil dhulkiisa.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Gel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "u hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "inuu ka bixiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmihii Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dhulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:04.975467773Z",
+  "model": "glm-5.3"
+}

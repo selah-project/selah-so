@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Adonay Yahweh haTseva'ot waa ⟨kan⟩ taabaya dhulka, oo isla markiibuu ubaxay, oo dhammaan kuwa ku nool bay baroordeen, oo wuu si dhan kor u kacay sida Webiga, oo wuu hoos u dhacay sida Webiga Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "haTseva'ot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "waa ⟨kan⟩ taabaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "oo isla markiibuu ubaxay"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "oo baroordeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa ku nool"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "oo wuu kor u kacay"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sida Webiga"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "si dhan"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "oo wuu hoos u dhacay"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "sida Webiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.296975841Z",
+  "model": "glm-5.3"
+}

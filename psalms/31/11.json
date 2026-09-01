@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waayo, noloshaydu waa dhammaatay murugo, iyo sanadahayga oohin; xooggaygii wuu libshay dembigaygii awgood, lafahayguna way waayeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "waa dhammaatay"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "murugo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshaydu"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "iyo sanadahayga"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "oohin"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "wuu libshay"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "dembigaygii awgood"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "xooggaygii"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "lafahayguna"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "way waayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:17.533336876Z",
+  "model": "glm-5.3"
+}

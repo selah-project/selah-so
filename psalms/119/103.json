@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Intee in le'eg oo macaan ah ayay tahay hadalkaaga carrabkayga — ka macaan dahabka afkayga!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Intee in le'eg"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "oo macaan ah ayay tahay"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "carrabkayga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "dahabka ka macaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:14.803446728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuuna kulmiyay ⟨את⟩ dhammaan madaxda Israa'iil, iyo waayeellada, iyo Lewiyaashiiska.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Wuxuuna kulmiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan madaxda Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "iyo waayeellada"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "iyo Lewiyaashiiska"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:25.104424874Z",
+  "model": "glm-5.3"
+}

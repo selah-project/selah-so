@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Madasha hoggaamiyaha; mawjaddo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madasha hoggaamiyaha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mawjaddo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:42.088592849Z",
+  "model": "glm-5.3"
+}

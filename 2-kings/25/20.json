@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Nevusaradan, madaxa ciidanka gargaarka, wuxuu ⟨את⟩ kuwan qaatay, wuxuuna ⟨את⟩ kuwan u tebiyay boqorka Baabel, Riblata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevusaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ciidanka gargaarka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tebiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblata"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:18.969306895Z",
+  "model": "glm-5.3"
+}

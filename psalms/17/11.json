@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Tallabadeenna hadda way na wareegeen, indhahooda way dhigteen inay dhulka nagu dhigaan.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "tallabadeenna"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "way na wareegeen"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "indhahooda"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "way dhigteen"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "inay nagu dhigaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:26.040232640Z",
+  "model": "glm-5.3"
+}

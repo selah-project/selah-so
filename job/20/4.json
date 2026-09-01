@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Ma taqaanaa waxakan tan iyo hore, tan iyo markii ⟨la⟩ saaray aadanaha ⟨dusha⟩ dhulka?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "waxakan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ma taqaanaa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tan iyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hore"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tan iyo"
+    },
+    {
+      "surface": "שים",
+      "gloss": "markii la saaray"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dusha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:38.058134611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Daawidna wuxuu yidhi: Ma mulkiileyaasha Qe'ilah baa ⟨את⟩ aniga iyo ⟨את⟩ ragga ii wada ah gacanta Shaa'uul u dhiibi doonaan? Yahwehna wuxuu yidhi: Way dhiibi doonaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "ma... u dhiibi doonaan"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mulkiileyaasha"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qe'ilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ragga ii wada ah"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga ii wada ah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "way dhiibi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:34.740017410Z",
+  "model": "glm-5.3"
+}

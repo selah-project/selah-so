@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtigii oohin, iyo waqtigii qosol; waqtigii baroordiiq, iyo waqtigii ciyaar-raqsi.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "oohin"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "qosol"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "baroordiiq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ciyaar-raqsi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:26.408267311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha sujuudin ilaahyadooda, ha u adeeggin, ha u falin sidii falalkoodii; laakiin oo dhan baabii, jajaji tiirarkooda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sujuudin"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ilaahyadooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "u adeeggin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "u falin"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "sidii falalkoodii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "baabii"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "jajaji"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "jajaji dhammaan"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "tiirarkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:06.552113836Z",
+  "model": "glm-5.3"
+}

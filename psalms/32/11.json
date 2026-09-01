@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Ku farxa Yahweh, oo veceya vcadaafka; dhawaaqna oo idinku boga oo wada qunya cidda qalbiga toosan.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Ku farxa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "oo idinku boga"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vcadaafka"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "dhawaaqna oo wada qunya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cidda oo dhan (wada)"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "qalbiga toosan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.095794264Z",
+  "model": "glm-5.3"
+}

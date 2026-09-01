@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu isu soo jeediyay ⟨את⟩ ilmihii Cammoon iyo Camalek, wuxuu tegay, wuxuuna ku dhuftay ⟨את⟩ Israa'iil, waxayna qabsadeen ⟨את⟩ magaalada timirta.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "wuxuu isu soo jeediyay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmihii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Cammoon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "iyo Camalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tegay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna ku dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "waxayna qabsadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "timirta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:34.904848986Z",
+  "model": "glm-5.3"
+}

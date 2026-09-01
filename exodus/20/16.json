@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Marag furin ⟨shaqo⟩ been ah ⟨ee⟩ ka dhan ⟨את⟩ deriskaaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "marag furin (ka jawaabo)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "deriskaaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "marag"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:34.720028384Z",
+  "model": "glm-5.3"
+}

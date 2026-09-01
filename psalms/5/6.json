@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Kibriileydu ma istaagaan horta indhahaaga; waad necebtahay dhammaan kuwa fala ⟨falxun⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "istaagaan"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "kibriileydu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "horta"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "waad necebtahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "און",
+      "gloss": "falxun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.514597063Z",
+  "model": "glm-5.3"
+}

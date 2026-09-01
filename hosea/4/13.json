@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 4:13",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Gidigii buuraha bay dhaabaan, oo buuraha yar yar bay u dhiigaan qiyaas; hoos taallo oodka iyo liibaanka iyo elaha, waayo hooskoodu wanaagsan yahay; sidaa darteed gabdhahiinu way sharmoogi doonaan, oo sn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gidigii"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "saraha"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "bay dhaabaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "buuraha yar yar"
+    },
+    {
+      "surface": "יקטרו",
+      "gloss": "bay u dhiigaan qiyaas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos taallo"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "oodka"
+    },
+    {
+      "surface": "ולבנה",
+      "gloss": "iyo liibaanka"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "iyo elaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "hooskoodu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "תזנינה",
+      "gloss": "way sharmoogi doonaan"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "gabdhahiinu"
+    },
+    {
+      "surface": "וכלותיכם",
+      "gloss": "oo sn"
+    },
+    {
+      "surface": "תנאפנה",
+      "gloss": "way zinaystaan doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:44.580669753Z",
+  "model": "glm-5.3"
+}

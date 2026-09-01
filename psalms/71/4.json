@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Elohimkayow, igaga badbaadi gacanta shar-yeelaha, palmaha kan xumeeya oo cunuuga.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimkayow"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "igaga badbaadi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-yeelaha"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "palmaha"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "kan xumeeya"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "oo cunuuga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:04.414811759Z",
+  "model": "glm-5.3"
+}

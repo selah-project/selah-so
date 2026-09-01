@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Kanina waa hadalka shmitaah: kii dayn haaku saaro gacantiisu wuu dhaafaa saaxiibkiis, ha ku dhiiri gelin saaxiibkiis iyo walaalkiisba, waayo shmitaah waa laga dhawaaqay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kanina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shmitaah"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "wuu dhaafaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kii"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "haaku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "dayn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wuxuu saaray"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "saaray"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ku dhiiri gelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiis"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "walaalkiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "laga dhawaaqay"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shmitaah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:37.110005267Z",
+  "model": "glm-5.3"
+}

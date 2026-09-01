@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo gacanta Midiyaan waxay adkaatay Israa'iil; wixii Midiyaan dartii wiilashii Israa'iil waxay isaga sameeyeen ⟨את⟩ gododka buuraha ku yaal, iyo ⟨את⟩ holaha, iyo ⟨את⟩ qalcadaha.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "waxay adkaatay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wixii... dartii"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyaan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gododka buuraha ku yaal"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "gododka buuraha ku yaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "holaha"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "holaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qalcadaha"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "qalcadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:00.583917472Z",
+  "model": "glm-5.3"
+}

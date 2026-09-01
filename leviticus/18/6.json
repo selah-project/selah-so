@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Nin kasta, nin kasta — qaraabada laf-dhiiggiisa ah ha u dhowaannina si ay u muuqato qoomaan; ani waan Yahweh.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "qaraabada laf-dhiigga"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "u dhowaannina"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "si ay u muuqato"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "qoomaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:04.911712566Z",
+  "model": "glm-5.3"
+}

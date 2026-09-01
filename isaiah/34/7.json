@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Waxayna la soo degi doonaan doofaarka duurka ah iyo, iyo lo'da dheddig iyo wanaka xoogga leh; dhulkoodu wuu ka dhergi doonaa dhiig, iyo carruurtoodu barwaaqo (ay ka dhergsanto).",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "waxayna la soo degi doonaan"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "doofaarka duurka ah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "iyo lo'da dheddig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "wanaka xoogga leh"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "wuu ka dhergi doonaa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkoodu"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "iyo carruurtoodu"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "barwaaqo"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "(ay ka dhergsanto)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:47.351852145Z",
+  "model": "glm-5.3"
+}

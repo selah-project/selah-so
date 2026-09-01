@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 67,
+  "translation": "Elohim ha noo deeqsii oo na barakeeyo; wajigiisa ha ⟨את⟩ naga iftiin siiyo — selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ha noo deeqsii"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "oo na barakeeyo"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ha iftiin siiyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ naga",
+      "marks": "naga (annaga dhexdeenna)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:53.838809761Z",
+  "model": "glm-5.3"
+}

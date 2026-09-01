@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waxaan idinkuugu shubi doonaa biyo nadif ah, waana idin nadiifin doonaa dhammaan wasakhdaydiinna, dhammaan sanamyadiinnana waan idin nadiifin doonaa ⟨את⟩ idinka.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "waxaan shubi doonaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinkuugu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "nadif ah"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "waana idin nadiifin doonaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "wasakhdaydiinna"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "sanamyadiinna"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "waan idin nadiifin doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:23:55.797640088Z",
+  "model": "glm-5.3"
+}

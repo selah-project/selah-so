@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waayo, kuwa uu duceeyay waa la siiyay dhulka, waana la gooyay kuwa uu naqday.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "kuwa uu duceeyay"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "waa la siiyay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ו֝מְקֻלָּלָיו",
+      "gloss": "kuwa uu naqday"
+    },
+    {
+      "surface": "יִכָּרֵֽתוּ",
+      "gloss": "la gooyay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.287807351Z",
+  "model": "glm-5.3"
+}

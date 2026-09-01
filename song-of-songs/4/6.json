@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Inta maalintu soo baxayso oo hoos-u-dhacayadu cararayaan, waan tegayaa ⟨ilay⟩ buurta murrqa iyo ⟨ilay⟩ teendhada lubaanka.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "inta"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "soo baxayso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintu"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "cararayaan"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "hoos-u-dhacayadu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "waan tegayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "המור",
+      "gloss": "murrqa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ilay"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "teendhada"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "lubaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:17.478162638Z",
+  "model": "glm-5.3"
+}

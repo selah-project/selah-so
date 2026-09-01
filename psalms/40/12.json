@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Adiga, Yahweh, ha iiga celin naxariistaada; khesedkaaga iyo runtaada had iyo jeer i ilaaliyaan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "celin"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "naxariistaada"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iiga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "iyo runtaada"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "i ilaaliyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:35.415200983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ka dib markii uu garaacay ⟨את⟩ Siixon boqorka Amorriyada, kan deggan Xeshbon, iyo ⟨את⟩ Oog boqorka Bashan, kan deggan Ashtarot Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib markii"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "uu garaacay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siixon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Siixon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorriyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Xeshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Oog"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edrei"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:13.879624357Z",
+  "model": "glm-5.3"
+}

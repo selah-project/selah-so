@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Bilowga xigmaddu waa cabsida Yahweh, iyo aqoonta quduuska baa fahmid.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "bilowga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmadda"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "iyo aqoonta"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduuska"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahmid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:45.674031872Z",
+  "model": "glm-5.3"
+}

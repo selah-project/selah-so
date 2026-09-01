@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Aniga waxaan idhi: Yahweh, i naxariiso, bogsii nafadayda, waayo adiga ayaa ku dembay.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "i naxariiso"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "bogsii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "waxaan dembay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.105499722Z",
+  "model": "glm-5.3"
+}

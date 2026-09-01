@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Maalin keliya ma cuni doontaanneen, labo maalmoodna ma aha, shan maalmoodna ma aha, toban maalmoodna ma aha, labaatan maalmoodna ma aha —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Maalin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "cuni doontaanneen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maaha"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "labo maalmood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maaha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maaha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maaha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:36.516119606Z",
+  "model": "glm-5.3"
+}

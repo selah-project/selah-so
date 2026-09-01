@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Maqla ereygan aan idinka soo qaadayo maqaal-geeri ah ⟨את⟩, gaashi Bayt-ka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "qaadayo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "maqaal-geeri ah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bayt-ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:06.429895365Z",
+  "model": "glm-5.3"
+}

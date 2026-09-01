@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sida laga qaado miisho (maraqil) zebka shelamim-ka; oo wadaaddu wuxuu ku shiilayaa (oo gubi doonaa) albaabka olola-ka (gubitaanka) dushiisa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "laga qaado"
+    },
+    {
+      "surface": "משור",
+      "gloss": "miisho (maraqil)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebka"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim-ka"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "wuxuu ku shiilayaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dushiisa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olola-ka (gubitaanka)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:19.176014512Z",
+  "model": "glm-5.3"
+}

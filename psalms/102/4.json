@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waar, maalmahayga sidii qiiq bay dhinteen, lafahayguna sidii naftaasiid (mooqid) bay guban yihiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waar"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bay dhinteen"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sidii qiiq"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmahayga"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "laafahayguna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "קד",
+      "gloss": "mooqid"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "bay guban yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:28.684787693Z",
+  "model": "glm-5.3"
+}

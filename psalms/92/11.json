@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Qornahayga waad saraysay sidii kan re'em-ka (baaska duurka ah); saliidda da'ada ah baan lagu subay.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "waad saraysay"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "sidii kan re'em-ka"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "qornahayga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "baan lagu subay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "da'ada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.180266913Z",
+  "model": "glm-5.3"
+}

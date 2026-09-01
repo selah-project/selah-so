@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Dagaal ahaa oo dhexeeya Aasa iyo Baasha boqorkii Israa'iil maalmoohoodii oo dhan.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Dagaal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ahaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oo dhexeeya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aasa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "maalmoohoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:04.909045166Z",
+  "model": "glm-5.3"
+}

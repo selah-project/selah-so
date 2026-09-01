@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo amarradayda ilaaliya oo sameeya ⟨את⟩; aniga ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Oo ilaaliya"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarradayda"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "oo sameeya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amarradayda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:39.713364266Z",
+  "model": "glm-5.3"
+}

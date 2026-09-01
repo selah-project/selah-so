@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Muuse wuxuu sidaas ugu hadlay ilmihii Israa'iil, wayna dhegeysan waayeen Muuse — ruux dhuuban darteed iyo shuqul adag darteed.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ugu hadlay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wayna ... waayeen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhegeysan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "dhuuban darteed"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "iyo shuqul darteed"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "adag"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:04.974999727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Muuse wuxuu dadkii ku yidhi: Xusuusa maalkan ⟨את⟩ aad ka baxdeen Mitsrayim, gurigii addoomada, waayo, xoog gacmeed Yahweh baa ⟨את⟩ idinka soo bixiyay halkan; khameer (khamiis la qasay) waa lama cuni karo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Xusuusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalkan (maalakan)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "ka baxdeen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoomada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacmeed"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "baa soo bixiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waa lama"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cuni karo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "khameer"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:58.303905211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Barreeya Yahweh, malaa'igtiisii, adag xoogga, fuliya ereygiisa, si ay u maqmaan codka ereygiisa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barreeya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaa'igtiisii"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "adag"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "fuliya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ereygiisa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "si ay u maqmaan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ereygiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:41.097117387Z",
+  "model": "glm-5.3"
+}

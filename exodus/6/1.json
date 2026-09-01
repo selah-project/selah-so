@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh wuxuu Muuse ku yidhi: Hadda waad arkaysaa waxa aan Farcoon samaynayo, waayo gacan adag buu ku dayn doonaa, iyo gacan adag buu ka eryi doonaa dhulkiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "waad arkaysaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aan samaynayo"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "buu ku dayn doonaa"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "buu ka eryi doonaa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dhulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:22.678943221Z",
+  "model": "glm-5.3"
+}

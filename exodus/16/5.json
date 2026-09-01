@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaa dhici doontaa maalinta lixaad inay diyaariyaan ⟨את⟩ waxa ay keenaan, waxaana noqon doontaa labanlaab ku kordhaya waxa ay ururiyaan maalin maalinta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Waxaa dhici doontaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lixaad"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "inay diyaariyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa ay keenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ay keenaan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waxaana noqon doontaa"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "labanlaab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku kordhaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "ay ururiyaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:43.793469341Z",
+  "model": "glm-5.3"
+}

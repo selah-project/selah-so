@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "midka maqla hadduu maqlo ⟨את⟩ dhawaaqa shoofarka oon laga digin, haddii seef timaaddo oo qaadato, diigiisa madaxiisa ayuu ku jiri doonaa.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "hadduu maqlo"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "midka maqla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhawaaqa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dhawaaqa"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shoofarka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oon"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "laga digin"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "timaaddo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "oo qaadato"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "diigiisa"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ayuu ku jiri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:36:56.784657631Z",
+  "model": "glm-5.3"
+}

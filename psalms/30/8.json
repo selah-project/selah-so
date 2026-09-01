@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahweh, raalliyadaadaaad dheeraysey buurahayga taaggi; wuxuu qarin wajigaagii, waan ooyay-cabsaday.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "raalliyadaada"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "aad dheeraysey"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "buurahayga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "taaggi"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "wuxuu qarin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaagii"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waan ahaa"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ooyay-cabsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:44.920827546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Elohim wuxuu ku yidhi Abraham: adiguna ⟨את⟩ axdigayga waad ilaalin doontaa — adiga iyo faracaaga kaa dib, jiilashadooda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axdigayga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "axdigayga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "waad ilaalin doontaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "iyo faracaaga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kaa dib"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "jiilashadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:11.466037385Z",
+  "model": "glm-5.3"
+}

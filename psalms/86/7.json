@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Maalinta dhibatayda waan ku baryaaayo, waayo adigu i jawaabaysaa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dhibatayda"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "waan ku baryaaayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "i jawaabaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.979703146Z",
+  "model": "glm-5.3"
+}

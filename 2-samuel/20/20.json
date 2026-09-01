@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yoo'aabna wuu jawaabay wuxuuna yidhi, Ma aha ogo, ma aha ogo aniga inaan liqo ama inaan baabi'iyo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuu jawaabay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ma aha ogo"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ma aha ogo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "in"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "aan liqo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ama in"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "aan baabi'iyo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:04:29.453813226Z",
+  "model": "glm-5.3"
+}

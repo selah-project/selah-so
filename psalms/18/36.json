@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waad siisay gaashaanka badbaadadaada, oo midigtaada baa i taageysay, oo aad-deeqsanaantaadu baa i weynsiiyeysa.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Waad siisay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaanka"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "badbaadadaada"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "oo midigtaada"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "baa i taageysay"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "oo aad-deeqsanaantaadu"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "baa i weynsiiyeysa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:52.916103012Z",
+  "model": "glm-5.3"
+}

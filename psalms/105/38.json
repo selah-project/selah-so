@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Mitsrayim wuu farxay markay baxsadeen, waayo cabsidoodi way ku dhacday.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "wuu farxay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "markay baxsadeen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "way ku dhacday"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "cabsidoodi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:25.140247282Z",
+  "model": "glm-5.3"
+}

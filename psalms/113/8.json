@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "In lagu fadhiisiyo saraakiisha, saraakiisha ⟨dadkiisa⟩.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "In lagu fadhiisiyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "saraakiisha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "saraakiisha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:49.332425547Z",
+  "model": "glm-5.3"
+}

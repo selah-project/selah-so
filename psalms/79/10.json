@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Maxay dadweynuhu u odhanayaan, Xaggee yihiin ilahahooda? Ha la ogaado gobtada, indhahayaga hor, aarxoosta dhiigga addoomahaaga la shubay.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxay u"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "odhanayaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dadweynuhu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "xaggee"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahahooda"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ha la ogaado"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "gobtada"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "indhahayaga hor"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "aarxoosta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomahaaga"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "la shubay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:35.818408169Z",
+  "model": "glm-5.3"
+}

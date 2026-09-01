@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Immisa barwaaqo ah baa insiig oo xooggiisu adiga kuu sugan yahay, oo wadooyin hijrood ah qalbigooda ku jiraan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "immisa barwaaqo ah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insiig"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu... yahay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "wadooyin hijrood ah"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "qalbigooda ku jiraan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:25.404231870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Mid kastoo la helo waa la fol-folayaa, mid kastoo (la qabsado) wuu dhici doonaa seef.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mid kastoo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "la helo"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "waa la fol-folayaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mid kastoo"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "la qabsado"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wuu dhici doonaa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:21.607357948Z",
+  "model": "glm-5.3"
+}

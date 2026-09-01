@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Eraygaagu waa mid la nadiifiyay (sida dahab lagu xeel-dhigay) aad u nadiif ah, oo addoonkaagu wuu jecel yahay.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "la nadiifiyay (sida dahab lagu xeel-dhigay)"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Eraygaagu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u nadiif ah"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "oo addoonkaagu"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "wuu jecel yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:00.809714119Z",
+  "model": "glm-5.3"
+}

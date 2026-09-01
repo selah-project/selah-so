@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Falegna wuxuu noolaa sodon oo sano ah, wuxuuna dhalay ⟨את⟩ Rewu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Faleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "oo sano ah"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rewu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewu"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:53.635604802Z",
+  "model": "glm-5.3"
+}

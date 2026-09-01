@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waayo kor ka soo eegay qoladdiisa quduuska ah — Yahweh samada ka soo fiiriyay ilaa dhulka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ka soo eegay"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qoladdiisa quduuska ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "soo fiiriyay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.287040638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Kuwa socodka ma dhihi: Barakata Yahweh ha idinku jirto; waan idin barakoonay ⟨את⟩ Magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dhihi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "kuwa socodka"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Barakata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ha idinku jirto"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "waan idin barakoonay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:25.485957098Z",
+  "model": "glm-5.3"
+}

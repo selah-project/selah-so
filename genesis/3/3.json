@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Laakiin midhaha geedka ee dhexda beerta ka mid ah, wuxuu yidhi Elohim: ka ha cuniina, ha taabannina, si aadan u dhimannin.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "laakiin midhaha"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... iin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cuniina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha taabannina"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ha taabannina"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "dhimannin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:37.081569434Z",
+  "model": "glm-5.3"
+}

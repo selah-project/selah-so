@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Nafiiisu shaqe-dheerta waxay rabtaa, waanase ma laha; nafiiisuna kuwa deggan-gacme waxay barwaaqaysaan.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "waxay rabtaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waanase ma laha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafiiisu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "shaqe-dheerta"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nafiiisuna"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "kuwa deggan-gacme"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "waxay barwaaqaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:02.517067640Z",
+  "model": "glm-5.3"
+}

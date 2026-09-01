@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Maalinta toddobaad ee bisha koowaad, toddobaadkii bisha, waad taagi doontaa ⟨את⟩ Maskanka Khaymadta la Kulmi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "toddobaadkii"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "waad taagi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maskanka"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Maskanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymadta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la Kulmi"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:33.156719889Z",
+  "model": "glm-5.3"
+}

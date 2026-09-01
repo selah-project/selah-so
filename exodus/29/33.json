@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxay cuni doonaan ⟨את⟩ waxaas laga dhaafiyay, si loo buuxiyo ⟨את⟩ gacmooda oo loo quduusiyeeyo ⟨את⟩ iyaga; qalanjo ma cuni doonto, waayo quduus baa ay yihiin.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Waxay cuni doonaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waxaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxaas laga dhaafiyay"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "laga dhaafiyay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "si loo buuxiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmooda"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacmooda"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "oo loo quduusiyeeyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "qalanjo ma cuni doonto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cuni doonto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:35.505139317Z",
+  "model": "glm-5.3"
+}

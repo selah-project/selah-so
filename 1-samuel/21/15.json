@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Akishna wuxuu ku yidhi addoomashiisii: Bal eega, waad aragtaan nin isku oollanaya; maxaad u keentaan ⟨את⟩ iiga?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomashiisii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eega"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "waad aragtaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "isku oollanaya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "keentaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iiga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iiga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:17.669397738Z",
+  "model": "glm-5.3"
+}

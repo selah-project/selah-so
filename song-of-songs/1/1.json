@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Heesta heestaha, ee u egged tahay Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesta"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "heestaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "u egged tahay Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:40.078260683Z",
+  "model": "glm-5.3"
+}

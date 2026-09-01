@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu keeno ⟨את⟩ iyaga maaladda sideebaad ee daahiritaankiisa, xagga wadaadda, xagga iridda Khaymadka Kulanka, hortiisa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְהֵבִ֨יא",
+      "gloss": "wuxuu keeno"
+    },
+    {
+      "surface": "אֹתָ֜ם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga — lambaha iyo logka saliidda ee la keenayo"
+    },
+    {
+      "surface": "בַּיּ֧וֹם",
+      "gloss": "maaladda"
+    },
+    {
+      "surface": "הַשְּׁמִינִ֛י",
+      "gloss": "sideebaad"
+    },
+    {
+      "surface": "לְטָהֳרָת֖וֹ",
+      "gloss": "daahiritaankiisa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "הַכֹּהֵ֑ן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "פֶּ֥תַח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אֹֽהֶל",
+      "gloss": "Khaymadka"
+    },
+    {
+      "surface": "מוֹעֵ֖ד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:47.948976802Z",
+  "model": "glm-5.3"
+}

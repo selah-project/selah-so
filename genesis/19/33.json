@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo habeenkaa waxay waraabiyeen ⟨את⟩ aabahood khamri, waxayna timidii waysooreyd, waxayna la seexdatay ⟨את⟩ aabaheed, isagoo aan garanayn markay seexatay iyo markay soo kacday.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "waxay waraabiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabahood"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "aabahood"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "waxayna timid"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "tii waysooreyd"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "waxayna la seexdatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabaheed"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "aabaheed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "markay seexatay"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "iyo markay soo kacday"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:43.155976703Z",
+  "model": "glm-5.3"
+}

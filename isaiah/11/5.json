@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Cadaaladuna waxay noqon doontaa maro-sarkaal ⟨dhexdiisa⟩, iimaanuna maro-sarkaal ⟨suntiisa⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqon doontaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "maro-sarkaal"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "iimaanuna"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "maro-sarkaal"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "suntiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:52.342690838Z",
+  "model": "glm-5.3"
+}

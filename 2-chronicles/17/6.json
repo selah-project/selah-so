@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wuxuuna qalbiga ka sarreeyey jidadka Yahweh, weliwuxuu ka saaray ⟨את⟩ meelaha sare iyo ⟨את⟩ Asheraha Yehuudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "wuxuu ka sarreeyey"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisa"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wuxuu saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meelaha sare"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "meelaha sare (bamoot)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Asheraha"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraha (tiirarka)"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehuudah ka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:15.676219050Z",
+  "model": "glm-5.3"
+}

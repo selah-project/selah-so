@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo xataa haddaan runtii baabbi'ay, cilladdaydu ⟨את⟩ ila bay taal.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Oo xataa"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "baabbi'ay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ila",
+      "marks": "ila (cilladdaydu)"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bay taal"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "cilladdaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:44:36.830405155Z",
+  "model": "glm-5.3"
+}

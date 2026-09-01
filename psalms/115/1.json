@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Lama nahi inna la siiyo ammaan, Yahweh, lama nahi inna, laakiin Magacaaga ammaan baa la siiyaa, khesedkaaga awgiis, runtaada awgiis.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "inna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "תן",
+      "gloss": "la siiyaa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgiis"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgiis"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "runtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:05.669409935Z",
+  "model": "glm-5.3"
+}

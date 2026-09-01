@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Ammaaniya Yah, mahadna siiya Yahweh, waayo, waa wanaagsan yahay, waayo, khesedkiisu waa ilaa weligeed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mahadna siiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo, waa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligeed"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:44.850402323Z",
+  "model": "glm-5.3"
+}

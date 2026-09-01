@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Saasu ayuu Yahweh yidhi: Bal eeg, waxaan kicinayaa Babil iyo kuwa deggan leb-kamai (kuwa qalbigoodu ila soo kicisay), dabayl baabbi'inaysa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "saasu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal eeg, waxaan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kicinayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "leb- (qalb)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ila soo kicisay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabayl"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "baabbi'inaysa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:21:00.579711238Z",
+  "model": "glm-5.3"
+}

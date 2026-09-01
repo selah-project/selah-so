@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuse ka sameeyay ⟨את⟩ iridda qolka ugu muqaddaska ah albaabada laga sameeyay geedaha saliidda; tiirarka iriddu waxay ahaayeen shanaad ⟨ee qayb ka mid ah derbiga⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iridda qolka ugu muqaddaska ah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "qolka ugu muqaddaska ah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka sameeyay"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "laga sameeyay geedaha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tiirarka iriddu"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "shanaad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:48.605907525Z",
+  "model": "glm-5.3"
+}

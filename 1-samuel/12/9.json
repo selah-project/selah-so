@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayse hilmaameen ⟨את⟩ Yahweh Elohimkoodii, wuuna iibiyey ⟨את⟩ gacanta Ciiseera, taliyaha ciidanka Xasoor iyo gacanta Filistiintiinta iyo gacanta boqorka Mo'aab, waxayna ku dagaallameen.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "waxayse hilmaameen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkoodii"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "wuuna iibiyey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iibi gacanta Ciiseera iyo kuwa kale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Ciiseera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "taliyaha"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xasoor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintiinta"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "waxayna ku dagaallameen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "(ku)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:07.058717154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Maxaa waa, waligiis ma dhaqaajiro; sifiican ‹oo xusid taariikh-dheer ah› wuxuu ahaan doonaa ⟨kan⟩ sharaf leh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaa waa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waligiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dhaqaajiro"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "xusid taariikh-dheer ah"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waligii"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuxuu ahaan doonaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan sharaf leh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:28.892797122Z",
+  "model": "glm-5.3"
+}

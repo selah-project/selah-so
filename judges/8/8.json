@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna ka tegey halkaasoo uu fuulay Penuel, wuxuuna si la mid ah kula hadlay ⟨את⟩ dadka Penuel; waxayna u jawaabeen ⟨את⟩ ragga Penuel sidii ay u jawaabeen ⟨את⟩ ragga Sukuut.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuuna ka tegey halkaasoo uu fuulay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuuna kula hadlay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "la"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "waxayna u jawaabeen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Gidcoon"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ay u jawaabeen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukuut"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:46.946682179Z",
+  "model": "glm-5.3"
+}

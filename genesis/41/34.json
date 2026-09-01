@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Ha sameeyo Farcoon, oo ha magacaabiyo taliyeyaal ⟨dheeraad ah⟩ dhulka korkiisa, oo ha qaadido shanaadka ⟨את⟩ dhulka Mitsrayim toddobaadii sanadaha barwaaqada.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "ha sameeyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "oo ha magacaabiyo"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "taliyeyaal"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "oo ha qaadido shanaadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "toddobaadii"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sanadaha"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "barwaaqada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:46.266657959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna ku daboolay ⟨את⟩ guriga, tiirarka, albaabada dhexe, dabiiradiisa iyo albaabadiisa dahab, wuxuuna jar-jaray keruubim (malaa'ig samayn) dabiiraha ka sarreeya.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "wuxuuna ku daboolay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "albaabada dhexe"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "dabiiradiisa"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "iyo albaabadiisa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "wuxuuna jar-jaray"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruubim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "dabiiraha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:43:36.095139274Z",
+  "model": "glm-5.3"
+}

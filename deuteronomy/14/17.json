@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "iyo qaata-ta (dooxaha) iyo ⟨את⟩ raħaamaha (baabacawlkii baxariga) iyo ⟨את⟩ shalaakh-ta (garaaraha)",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "iyo qaata-ta (dooxaha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raħaamaha (baabacawlkii baxariga)"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "raħaamaha (baabacawlkii baxariga)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shalaakh-ta (garaaraha)"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaakh-ta (garaaraha)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:54.383592500Z",
+  "model": "glm-5.3"
+}

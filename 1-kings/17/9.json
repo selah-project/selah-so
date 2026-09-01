@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Kac, tag Tsarephath oo ah kan Tsiidoon, oo deg halkaas. Bal eeg, waxaan amray halkaas haweenay reer-baan ah inay ku kiciyiso.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Tsarephath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah kan"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "Tsiidoon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "oo deg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "waxaan amray"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haweenay"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "reer-baan ah"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "inay ku kiciyiso"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:16.785859153Z",
+  "model": "glm-5.3"
+}

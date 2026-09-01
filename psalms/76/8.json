@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Adigu, adigu baad qoysasho leedahay, oo yaa hortaa taagi karaa markii aad xanaaqsato?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "baad qoysasho leedahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "oo yaa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "taagi karaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "markii"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "aad xanaaqsato"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:21.479580851Z",
+  "model": "glm-5.3"
+}

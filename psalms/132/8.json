@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Kaca, Yahweh, gel ⟨ta⟩ aagga nasashadaada, adiga iyo sanduuqa xooggaagaa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "gel ⟨ta⟩ aagga nasashadaada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "iyo sanduuqa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "xooggaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:35.889184962Z",
+  "model": "glm-5.3"
+}

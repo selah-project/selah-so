@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Runtu dhulka ka soo baxaysaa, cadaaladduna samada hoos u eegaysaa.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Runtu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ka soo baxaysaa"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "cadaaladduna"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "hoos u eegaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.478271096Z",
+  "model": "glm-5.3"
+}

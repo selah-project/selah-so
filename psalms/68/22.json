@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Hubaal Elohim baa madaxa jajabi doonaa cadowdiisa, korka timaha dheer ee ka socda dambiyooshiisa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "wuu jajabi doonaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowdiisa"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "korka madaxa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "timaha (dheer)"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ka socda"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "dambiyooshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:12.478295658Z",
+  "model": "glm-5.3"
+}

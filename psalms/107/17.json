@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Doqonnimo waxay ka dhex jiraan jidka caasiyaadooda, oo xaqdarrooda darteed waa la dhibay.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Doqonnimo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "waxay ka dhex jiraan jidka"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "caasiyaadooda"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "oo xaqdarrooda darteed"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "waa la dhibay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:59.493601990Z",
+  "model": "glm-5.3"
+}

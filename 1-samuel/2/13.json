@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Caadadda kahannada ⟨את⟩ shaqo la'anta dadka waxay ahayd sidaas: nin kasta oo gowraca gowrac, markaa wiilkii kahanka markuu yimid, inta la karinayo lahoodka, iyo faashadda sadex indhood leh gacantiisa.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "caadadda xukunka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahannada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaqo la'anta dadka (עם)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta oo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "gowraca"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "gowrac"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "markuu yimid"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahanka"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "inta la karinayo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lahoodka"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "iyo faashadda"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "sadex"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "indhood leh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:04:55.816731678Z",
+  "model": "glm-5.3"
+}

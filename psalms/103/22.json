@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Barkeeya Yahweh shuqulladiisa dhan, meelaha kastaa ee xukunkiisa; noloshaydow, barkee ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barkeeya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "shuqulladiisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "meelaha kastaa"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "meelaha"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "xukunkiisa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "barkee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "noloshaydow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:48.391397848Z",
+  "model": "glm-5.3"
+}

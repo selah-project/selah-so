@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo hadduu noolaado kun san oo laba jeer laakiin xorsho wuu arkay waayo, miyaynu dhammaantu meel isla ah ayaynu u socon",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "noolaado"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laba jeer"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "xorsho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "miyaynu... ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isla ah"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "dhammaantu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "socon"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:40.225470463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo Yeruushaalaym waxay degeen ⟨qaar ka mid ah⟩ wiilasha Yehuudah, iyo wiilasha Binyaamiin, iyo wiilasha Efrayim iyo Menasheh.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Oo Yeruushaalaym"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "waxay degeen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨qaar ka mid ah⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iyo ⟨qaar ka mid ah⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaamiin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iyo ⟨qaar ka mid ah⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "iyo Menasheh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:35.211267796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sanduuqqa ⟨את⟩ Elohimna waa la qaadatay, labadii wiil ee ⟨את⟩ Celiina way dhinteen, Xafni iyo Fiinxaas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Sanduuqqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "waa la qaadatay"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "labadii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Celiina"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "way dhinteen"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Xafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "iyo Fiinxaas"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:11.885811531Z",
+  "model": "glm-5.3"
+}

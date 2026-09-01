@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waana shacabkan uu Yahweh ka tegay inuu ku tijaabiyo ⟨את⟩ Israa'iil, ⟨את⟩ kuwa dhan oo aqoon la'aan ahayd ⟨את⟩ dagaallada Kanaan oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "waana"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "uu ka tegay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "inuu ku tijaabiyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "aqoon la'aan ahayd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagaallada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dagaallada"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:39.236685636Z",
+  "model": "glm-5.3"
+}

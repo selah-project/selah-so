@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Bal, waxaan doonayaa amarradaaga; saxdaada i nololee.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "waxaan doonayaa"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "amarradaaga"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "saxdaada"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "i nololee"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.136844295Z",
+  "model": "glm-5.3"
+}

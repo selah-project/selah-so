@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waxaa la garaacay ⟨aniga⟩ sida geedka cawska, oo wuu engey qalbigayga, waayo waxaan hilmaamay inaan cuno gebiigayga.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "waxaa la garaacay"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sida geedka cawska"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "oo wuu engey"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "waxaan hilmaamay"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "inaan cuno"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "gebiigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:49.056966304Z",
+  "model": "glm-5.3"
+}

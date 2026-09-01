@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Colnimo iyo dhagar-xumo waa la dhaafaa, waayo way diideen inay sameeyaan xaq.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "colnimo iyo dhagar-xumo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "[sharafallayaasha]"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "waa la dhaafaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "way diideen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inay sameeyaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xaq"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:40.779498191Z",
+  "model": "glm-5.3"
+}

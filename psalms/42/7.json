@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Elohim-ayday, naftaydu ⟨gudaha igu⟩ dhuubantahay; sidaas darteed adiga waan xasuustaa tan iyo dhulkii Yarden iyo Hermoniintii, iyo buurta Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ayday"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gudaha igu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "dhuubantahay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "adiga waan xasuustaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tan iyo dhulkii"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "iyo Hermoniintii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "iyo buurta"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:10.375327899Z",
+  "model": "glm-5.3"
+}

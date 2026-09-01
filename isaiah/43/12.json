@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Anigu waan sheegay, waan badbaadiyay, waan ka war hordhigay, El shisheeye idin kuma jirin; idinku waa markhaatiyaday, Yahweh ayaa leh, aniguna waxaan ahay El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "waan sheegay"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "waan badbaadiyay"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "waan ka war hordhigay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "זר",
+      "gloss": "El shisheeye"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "markhaatiyaday"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayaa leh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:45.951392159Z",
+  "model": "glm-5.3"
+}

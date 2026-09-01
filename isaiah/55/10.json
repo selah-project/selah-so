@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Waayo sida roobku iyo barafdu ay samada ka soo degaan, oo meeshaas laguma soo noqdaan, laakiin waxay ka weheliso ⟨את⟩ dhulka, waxay dhalisaa, waxay ubaxaysaa, waxayna siisaa abuur mid abuuraya iyo rooti cunaya,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo sida"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ay ka soo degaan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "roobku"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "iyo barafdu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "laguma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "soo noqdaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "waxay ka weheliso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "waxay dhalisaa"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "waxay ubaxaysaa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "waxayna siisaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abuur"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "mid abuuraya"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "iyo rooti"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "cunaya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:29.663527648Z",
+  "model": "glm-5.3"
+}

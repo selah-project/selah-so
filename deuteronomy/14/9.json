@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "⟨את⟩ kan waad ka cuni kartaa wax kasta oo ⟨dhexdooda⟩ biyaha ku jira: wax kasta oo sanfiir (baal-badane) iyo qasqas (dhabar-dhuxul) leh waad cuni kartaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "waad ka cuni kartaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha ku jira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "leh"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sanfiir"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "iyo qasqas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "waad cuni kartaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:55.953360293Z",
+  "model": "glm-5.3"
+}

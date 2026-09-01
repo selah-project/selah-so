@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waayo, inta aan wiilku aqoonin inuu yidhaahdo Aabbow iyo Hooyoy, waxaa la qaadayaa ⟨את⟩ maalka Dimashiq iyo ⟨את⟩ ganiinyada Shomeroon hortii boqorka Ashuur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "inta aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aqoonin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wiilku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "inuu yidhaahdo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Aabbow"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "iyo Hooyoy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "waxaa la qaadayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalka Dimashiq"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maalka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashiq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ganiinyada Shomeroon"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganiinyada"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:35.888014148Z",
+  "model": "glm-5.3"
+}

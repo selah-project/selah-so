@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Adiguna, Adonay, khesed (naxariis fidisan) waa kan leh; maxaa yeelay, adigu waxaad ku abuuri doontaa ⟨את⟩ nin kasta sida camalkiisu yahay.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "waxaad ku abuuri doontaa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sida camalkiisu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:45.945445273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Adiguna waxaad ku odhan doontaa ⟨את⟩ dhammaan ereyadaan, wayna kuma dhegeysan doonaan; waad u dhawaaqi doontaa, kuma jawaabi doonaan.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "waxaad ku odhan doontaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ereyadaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(aan qornaan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wayna... ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dhegeysan doonaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "waad u dhawaaqi doontaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "u"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma... ma"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "jawaabi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:04:03.304276139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hagaha muusikada (qaab-qaabka) muugga, gabay Daawuud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "hagaha muusikada"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "(qaab-qaabka) muugga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "gabay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:56.385988790Z",
+  "model": "glm-5.3"
+}

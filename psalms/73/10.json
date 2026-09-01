@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Sidaas daraadda dadkiisu halkan bay u noqdaan, oo biyo buuxa (koob buuxa) bay ka soo jiidaan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sidaas daraadda"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bay u noqdaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisu"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "oo biyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "buuxa"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "bay ka soo jiidaan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "(iyaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.299781476Z",
+  "model": "glm-5.3"
+}

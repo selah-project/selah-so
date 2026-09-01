@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 6:13",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kuwa ku farxa ⟨wax baaba'ay⟩, kuwa odhan, \"Miyaanannay awooddeenna ku qaadday ⟨annaga⟩ qoorno?\"",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "Kuwa ku farxa"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "⟨wax baaba'ay⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wax"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kuwa odhan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Miyaanannay"
+    },
+    {
+      "surface": "בחזקנו",
+      "gloss": "awooddeenna"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ku qaadday"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨annaga⟩"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "qoorno"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:16.587275835Z",
+  "model": "glm-5.3"
+}

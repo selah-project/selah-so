@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Waa ka wanaagsan in la deggelo Yahweh, halka laga kalsoonaa nad'iimayaasha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "waa ka wanaagsan"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "in la deggelo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "laga kalsoonaa"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nad'iimayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:31.863301398Z",
+  "model": "glm-5.3"
+}

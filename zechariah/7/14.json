@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 7:14",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxaan ku fidfiday qaadow ⟨dhammaan⟩ shucuuraha aysan garanayn, oo dhulkii waa la baabi'iyay gadaashood — aan marin iyo soo-noqodba — oo waxay dhulkii la doonay ka dhigeen meel baaba'an.",
+  "tokens": [
+    {
+      "surface": "ואסערם",
+      "gloss": "Waxaan ku fidfiday qaadow"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shucuuraha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "oo dhulkii"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "gadaashood"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "marin"
+    },
+    {
+      "surface": "ומשב",
+      "gloss": "soo-noqod"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "waxay ka dhigeen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "la doonay"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "meel baaba'an"
+    }
+  ],
+  "timestamp": "2026-09-01T04:56:42.088802855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Adiguna iyo addoomadaadu, waan ogyahay in aadan weli ka cabsan horteeda Yahweh Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "iyo addoomadaadu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "weli"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "aadan ka cabsan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:37.373848749Z",
+  "model": "glm-5.3"
+}

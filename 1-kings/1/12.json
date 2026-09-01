@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo hadda tag, waan ku talinayaa waan baryayaa ⟨tallo⟩, oo badbaadi ⟨את⟩ naftaada iyo ⟨את⟩ nafta inaaska Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Oo hadda"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tag"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "waan ku talinayaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan baryayaa"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨tallo⟩"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "oo badbaadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftaada"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nafta inaaska"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafta"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "inaaska"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:40.271504444Z",
+  "model": "glm-5.3"
+}

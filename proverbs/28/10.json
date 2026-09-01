@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Kan toosan lumiyay jidka xun, godkii isaga buu ku dhici doonaa, laakiin kuwa oollada ah waxay dhaxli doonaan wanaag.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "lumiyay"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "godkii isaga buu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ku dhici doonaa"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "laakiin kuwa oollada ah"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "dhaxli doonaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:52.296412216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Elohim baa fahamsanayaa jidadkeeda, oo isaga baa garanaya ⟨את⟩ meesheedu joogto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "baa fahamsanayaa"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "jidadkeeda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo isaga baa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meesheedu joogto"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "meesheedu joogto"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:18.510946383Z",
+  "model": "glm-5.3"
+}

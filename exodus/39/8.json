@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Wuxuu sameeyay ⟨את⟩ xusanka (choshen) — sameys disheh ah — sida sameyska eefodka: dahab, tekhelet, argamaan, toolaat shani, iyo shesh mashzar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xusanka (choshen)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xusanka (choshen)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "sameys"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "disheh ah"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sida sameyska"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "eefodka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo argamaan"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "iyo toolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mashzar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:45.591597014Z",
+  "model": "glm-5.3"
+}

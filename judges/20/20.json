@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo ninna Israa'iil waxay dagaalka u baxeen Binnyaamiin la; ninka Israa'iilna waxay ⟨את⟩ iyaga u diyaariyeen dagaal Gibcada agteeda.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waxay u baxeen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binnyaamiin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "waxay u diyaariyeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (wiilasha Binnyaamiin)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agteeda (u)"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibcada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:29.759170961Z",
+  "model": "glm-5.3"
+}

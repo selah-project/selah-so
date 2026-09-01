@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "waxaadna u xumeysay sameynta ka badan wax kastoo kaa horreeyay, oo waxaad tagtay oo waxaad adiga u sameysay ilaahyo kale iyo sanamyo la dherereeyay inaad i caddeysiso, oo ⟨את⟩ aniga waxaad iga ridday gadaashaaga.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "waxaad u xumeysay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sameynta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka badan wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ahaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kaa horreeyay"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "waxaad tagtay"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "waxaad sameysay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "iyo sanamyo la dherereeyay"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "inaad i caddeysiso"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga (waxa la riday)"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "waxaad iga ridday"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gadaasha"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "gadaashaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:22.168243142Z",
+  "model": "glm-5.3"
+}

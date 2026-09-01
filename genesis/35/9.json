@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Iyo Elohim wuxuu muuqday Ya'aqob mar kale markuu ka yimid Padan-Aram, oo wuu barakaystay ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu muuqday"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar kale"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "markuu imaanayey"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ka Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuu barakaystay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:10.265357982Z",
+  "model": "glm-5.3"
+}

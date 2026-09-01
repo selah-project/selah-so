@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Öo waad subaysan doontaa ⟨את⟩ iyaga sidii aad ku subisay ⟨את⟩ aabbahood, oo waxay ii kahannoobi doonaan, oo subkoodu wuxuu noqon doonaa iyagii mid kahannimo weligeed ah, iyo durriyadoodii.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "waad subaysan doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ku subisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbahood"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "aabbahood"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "waxay kahannoobi doonaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "להית",
+      "gloss": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyagii mid"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "subkoodu"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "kahannimo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed ah"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "iyo durriyadoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:01.796881369Z",
+  "model": "glm-5.3"
+}

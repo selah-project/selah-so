@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Sharliga wuxuu deyn qataa uma bixinna, oo xaqiya wuxuu deeqsiiyaa oo siiyaa.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "wuxuu deyn qataa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharliga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bixinna"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "oo xaqiya"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "wuxuu deeqsiiyaa"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "oo siiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:58.397406747Z",
+  "model": "glm-5.3"
+}

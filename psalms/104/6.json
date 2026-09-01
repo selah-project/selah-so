@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Tihowmka sida dhar aad ku dagdagatay; buuraha kor ka taagan biyo.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tihowmka"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sida dhar"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "aad ku dagdagatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor ka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:17.701296444Z",
+  "model": "glm-5.3"
+}

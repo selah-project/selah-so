@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo si aad u bartaan ilma-Israa'iil ⟨את⟩ sharciyada oo dhan ee Yahweh ku hadlay ⟨את⟩ gacanta Muuse.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "oo si aad u bartaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilma-Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmo-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharciyada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sharciyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": ""
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:11.251130591Z",
+  "model": "glm-5.3"
+}

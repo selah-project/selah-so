@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo ⟨את⟩ labada kelliyo, iyo ⟨את⟩ dheefka ku yaal, kii lumbaha ku yaal, iyo ⟨את⟩ dheeraadka beerka ku hooseeya, wuxuu ka saarayaa kelliyada la wada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labada kelliyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kelliyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheefka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "dheefka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kii"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lumbaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dheeraadka"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "dheeraadka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku hooseeya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kelliyada"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "wuu ka saarayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:16.097480674Z",
+  "model": "glm-5.3"
+}

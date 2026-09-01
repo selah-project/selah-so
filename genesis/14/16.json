@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuuna soo celiyey ⟨את⟩ dhamaan maalka, wuxuuna weligeed soo celshay ⟨את⟩ Luut walaalkiis iyo maalkiiba, iyo sidoo kale ⟨את⟩ haweenkii iyo ⟨את⟩ shacabkii.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna soo celiyey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan maalka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "maalka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "wuxuuna weligeed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luut"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "iyo maalkiiba"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "soo celshay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haweenkii"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "haweenkii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabkii"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:17.116831841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "⟨את⟩ addoomahiinna rag iyo ⟨את⟩ addoomahiinna dumar iyo ⟨את⟩ dhalinyaradiinna kuwa wanaagsan iyo ⟨את⟩ damerahiinna wuxuu qaadan doonaa, wuxuuna u shaqayn doonaa shuqulkiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "addoomahiinna rag"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "addoomahiinna rag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "addoomahiinna dumar"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "addoomahiinna dumar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhalinyaradiinna kuwa wanaagsan"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "dhalinyaradiinna"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kuwa wanaagsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "damerahiinna"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "damerahiinna"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wuxuuna u shaqayn doonaa"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "shuqulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:06.232681098Z",
+  "model": "glm-5.3"
+}

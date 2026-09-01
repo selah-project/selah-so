@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Madaxa koorista u qoran, Dawid, mizmoor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "madaxa koorista u qoran"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.723840195Z",
+  "model": "glm-5.3"
+}

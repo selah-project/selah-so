@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "I sii ⟨את⟩ haweenkayga iyo ⟨את⟩ carruurtayda aan ⟨את⟩ adiga kuugu adeegay iyaga, oo aan aado; waayo adigu waad ogtahay ⟨את⟩ adeeggaygii aan kuu adeegay.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "i sii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haweenkayga"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "haweenkayga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "carruurtayda"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "carruurtayda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "adeegay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "oo aan aado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad ogtahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeeggaygii"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "adeeggaygii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "kuu adeegay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:39.520060053Z",
+  "model": "glm-5.3"
+}

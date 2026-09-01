@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Yahwehna wuu diiday dhulkan Yisraa'iil oo dhan, wuuna dhibay, wuuna gacmeeyey kuwa dhaca ilaa uu ka tuuray wejiigiisa.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "wuu diiday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "wuuna dhibay"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wuuna gacmeeyey"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "kuwa dhaca"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "uu ka tuuray"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "wejiigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:40.061211738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo berri markii timaaddo dadkii waagii hore bay kiciseen, waxayna halkaas dhisay allabari, waxayna kor u qaadeen allabari gubitaan iyo allabari nabadgelyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oo markii"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "berri markii timaaddo"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "waagii hore bay kiciseen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "waxayna dhisay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "waxayna kor u qaadeen"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "allabari gubitaan"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "allabari nabadgelyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:37.312725985Z",
+  "model": "glm-5.3"
+}

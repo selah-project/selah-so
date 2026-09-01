@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxay odhan doonaan hadda: Boqor ma leh noo, waayo, ma cabsanayno ⟨את⟩ Yahweh; boqorkuse, maxay na samayn doonaa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waxay odhan doonaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma leh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "cabsanayno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkuse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "samayn doonaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:53.367009233Z",
+  "model": "glm-5.3"
+}

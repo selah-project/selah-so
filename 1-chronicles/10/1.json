@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo Plishtiintii waxay dagaallameen Israa'iil, oo ragga Israa'iil baa ka cararay Plishtiinta, oo kuwo la dhaawacay baa ku dhacey buurta Gilbo'a.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Oo Plishtiintii"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "waxay dagaallameen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "oo baa ka cararay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka cararay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtiinta"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "oo baa ku dhacey"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "kuwo la dhaawacay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilbo'a"
+    }
+  ],
+  "timestamp": "2026-09-01T06:26:56.069254835Z",
+  "model": "glm-5.3"
+}

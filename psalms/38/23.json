@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Dhaqso ii gargaar, Adonay, badbaadadaadayda.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Dhaqso"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ii gargaar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "badbaadadaadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:51.588584840Z",
+  "model": "glm-5.3"
+}

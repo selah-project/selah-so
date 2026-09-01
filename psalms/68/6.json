@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Aabaha agoonta iyo Xeer-ilaalinta dulmiga carruurta dhintay iyo haweenkii reerkooda lumiyeystay waa Elohim, Goorta Quduuska kiisa.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Aabaha"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "agoonta"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "iyo Xeer-ilaalinta"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "haweenkii reerkooda lumiyeystay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waa Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "Goorta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Quduuska kiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:06.740089736Z",
+  "model": "glm-5.3"
+}

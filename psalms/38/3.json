@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waa fallaadhyaashaada way ii dhex degteen, oo gacantaadu way iigu dhuuntay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "fallaadhyaashaada"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "way ii dhex degteen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii dhex"
+    },
+    {
+      "surface": "ותנחat",
+      "gloss": "way iigu dhuuntay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:18.865464320Z",
+  "model": "glm-5.3"
+}

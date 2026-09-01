@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Oo saxrxaha waa farxaayaan, waxay dhiirragelin doonaan hortii Elohim, oo farxad bay ku farxaayaan.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Oo saxrxaha"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "waa farxaayaan"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "waxay dhiirragelin doonaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "oo farxad bay ku farxaayaan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "farxad"
+    }
+  ],
+  "timestamp": "2026-09-01T09:02:06.769711053Z",
+  "model": "glm-5.3"
+}

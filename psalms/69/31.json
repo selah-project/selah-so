@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waan ammaanaa magaca Elohim hees ahaan, oo waan ka weynaaynaa mahadno.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "waan ammaanaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "hees ahaan"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "waan ka weynaaynaa"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mahadno"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:50.637189901Z",
+  "model": "glm-5.3"
+}

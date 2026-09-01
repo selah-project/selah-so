@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 37:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Fidi dhegtahaaga, Yahweh, oo dhegeyso; fur indhahaaga, Yahweh, oo eeg; oo dhegeyso ⟨את⟩ erayada Sancherib oo dhan, kan uu u diray inuu caayo Elohim nool.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "fidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegtahaaga"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "oo dhegeyso"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "fur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo eeg"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "oo dhegeyso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada Sancherib oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uu u diray"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "inuu caayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:11.758045592Z",
+  "model": "glm-5.3"
+}

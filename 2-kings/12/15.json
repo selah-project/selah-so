@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waayo, kuwa shuqulka qabaa baa loo siinayaa, oo ⟨way⟩ ku adkeesanayaan ⟨את⟩ baytka Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kuwa shuqulka qabaa baa loo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "loo siinayaa"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "oo ku adkeesanayaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baytka Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:48.156461922Z",
+  "model": "glm-5.3"
+}

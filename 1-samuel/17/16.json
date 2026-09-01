@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wuxuu soo dhowaaday Filistiigii aroortii iyo galabtii, wuxuuna halku taagal afartan maalmood.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wuxuu soo dhowaaday"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiigii"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "aroortii"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "iyo galabtii"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wuxuuna halku taagal"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:39.749271176Z",
+  "model": "glm-5.3"
+}

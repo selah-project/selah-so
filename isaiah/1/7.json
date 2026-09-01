@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dhulkiinnu waa baabba'ay, magaalooyinkiinnu dab baa ku gubay; carradiinnu indhihiinna hortood shisheeyayaal bay ⟨את⟩ cunayaan, waana baabba'ay sida rogitaan shisheeyayaal.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Dhulkiinnu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "waa baabba'ay"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "magaalooyinkiinnu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "waa la gubay"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "carradiinnu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "indhihiinna hortood"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "shisheeyayaal"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "bay cunayaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "carradiinnu"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "iyo baabba'"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sida la rogay"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "shisheeyayaal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:03.917046555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Codka Yahweh wuxuu gilgilliyaa keymma-dhulka; Yahweh wuxuu gilgilliyaa keymma-dhulka Kades.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wuxuu gilgilliyaa (keenyaa dhaqaaq)"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "keymma-dhulka (dulka)"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wuxuu gilgilliyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "keymma-dhulka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:15.625316778Z",
+  "model": "glm-5.3"
+}

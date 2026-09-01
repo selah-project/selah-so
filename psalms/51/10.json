@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Farxad iyo soo dhawoow i maqasiis, inay reeyo ⟨lafta⟩ ⟨aad⟩ dumiysay.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "i maqasiis"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "soo dhawoow"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "inay reeyo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafta"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "aad dumiysay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:06.557433099Z",
+  "model": "glm-5.3"
+}

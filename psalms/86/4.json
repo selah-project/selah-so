@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Farxad gayso nafdaa adoonkaagoo, waayo adiga ayaan, Adonay, nafdii u qaadayaa.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Farxad gayso"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adoonkaagoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdii"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "u qaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:59.049143337Z",
+  "model": "glm-5.3"
+}

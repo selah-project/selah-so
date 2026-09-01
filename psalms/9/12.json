@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Heesa Yahweh, kan deggan Seyoon; kuwa sharraxa shuqulladiisa dadka among ⟨dadka⟩.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Heesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "kan deggan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Seyoon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "kuwa sharraxa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "shuqulladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.418168940Z",
+  "model": "glm-5.3"
+}

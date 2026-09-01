@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Muuse wuxuu qaatay ⟨את⟩ uddada hor_facayssa Yahweh, sida uu u amray.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uddada"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "uddada"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hor_facayssa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "uu u amray"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:34.657846697Z",
+  "model": "glm-5.3"
+}

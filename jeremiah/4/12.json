@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Dabayl ka buuxsan (ka daran) taas baa iila imaan; hadda anigaba waxaan ku odhan doonaa ⟨את⟩ xukunno iyaga.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Dabayl"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ka buuxsan"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "taas"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "imaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iila"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anigaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "odhan doonaa"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "xukunno"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "xukunno iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:01:57.262326839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Maalmaha Daawud waxay dhoween inuu dhinto, wuxuuna amray ⟨את⟩ Sheelomoo wiilkiis, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "waxay dhoween"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "למות",
+      "gloss": "inuu dhinto"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuuna amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheelomoo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheelomoo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:10:12.438903531Z",
+  "model": "glm-5.3"
+}

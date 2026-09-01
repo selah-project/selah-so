@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Bal, wuu dhuftay dhagaxa, biyo bay ka dhaqaaqeen, durdurryo bay dhaafeen; ma dhab ahaan rooti buu karaa inuu siiyo? ama uu diyaarin hilib qoolo isaga?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "bay ka dhaqaaqeen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "iyo durdurryo"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "way dhafeen"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ma dhab ahaan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ma karaa"
+    },
+    {
+      "surface": "תת",
+      "gloss": "inuu siiyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "uu diyaariyo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hilib"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "qoolo isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:35.136415153Z",
+  "model": "glm-5.3"
+}

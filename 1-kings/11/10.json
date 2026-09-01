@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuuna amray arrintan — inuu ku waanin raacin ilahyo kale oo aan isaga ahayn — laakiin isagu ma ilaalin ⟨את⟩ waxa Yahweh amray.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Wuxuuna amray"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "arrinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "inuu ku waanin"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "raacin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ku raac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilahyo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa Yahweh amray"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:42.617881944Z",
+  "model": "glm-5.3"
+}

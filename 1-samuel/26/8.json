@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Abishayna wuxuu ku yidhi Daawud: Elohim maanta wuu xiray ⟨את⟩ cadowgaaga gacantaada, haddaba aan isaga dul-dhufto waranka, dhulka ilaa, hal marin, oo aan labaad marin u darin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wuu xiray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowgaaga"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "aan isaga dul-dhufto"
+    },
+    {
+      "surface": "נא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "waranka"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dhulka ilaa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "marin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "labaad marin u darin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:36.829470688Z",
+  "model": "glm-5.3"
+}

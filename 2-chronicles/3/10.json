@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna sameeyay guriga Qudska ee quduska ah laba kerub (malaa'ig-dhululube) oo ah shuqul naqshad ah, waxayna ku dul duubeen ⟨את⟩ iyaga ⟨את⟩ dahab.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qudska"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ee quduska ah"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "naqshad"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "waxayna ku dul duubeen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (kerubka laba ah)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:00.909299839Z",
+  "model": "glm-5.3"
+}

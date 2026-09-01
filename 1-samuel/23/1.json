@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxay u sheegeen Daawud inay yihiin waxa la odhanayo: Bal eeg, Filistiintu waxay ku dagaallameen Qe'ilah, iyagoo ku garaacaya ⟨את⟩ guryaha-mii-beeraha.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Waxay u sheegeen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inay yihiin waxa la odhanayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintu"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "waxay ku dagaallameen"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Qe'ilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iyagoo"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ku garaacaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guryaha-mii-beeraha"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "guryaha-mii-beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:02.446875442Z",
+  "model": "glm-5.3"
+}

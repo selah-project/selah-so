@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Erayada afkayga iyo mugdiga qalbigayga ha noqdaan raalli ahaan hor taagna, Yahweh, dhagaxayga iyo gudaalayda.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "raalli ahaan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "iyo mugdiga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hor taagna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaxayga"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "iyo gudaalayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.031240191Z",
+  "model": "glm-5.3"
+}

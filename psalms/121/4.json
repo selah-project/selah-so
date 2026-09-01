@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Bal eeg, kuma qadhaadh-qaadhayo oo kuma seexdo ilaaliyaha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma (diidmo)"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "qadhaadh-qaadhayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo kuma"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "seexdo"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ilaaliyaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:14.792717972Z",
+  "model": "glm-5.3"
+}

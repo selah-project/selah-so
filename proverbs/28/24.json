@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Kii waalidkiis dhacay, oo yidhaahda wax dhafo ma jiraan, saaxiib wuxuu yahay nin baabi'aya.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "dhacay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis (waalidkiis)"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hooyo-diis"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "oo yidhaahda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "wax dhafo"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "saaxiib"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuxuu yahay"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "baabi'aya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:09.388709749Z",
+  "model": "glm-5.3"
+}

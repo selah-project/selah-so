@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "kuwa ilaaliya ballankiisa, iyo kuwa xusaan amarradiisa inay sameeyaan.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kuwa ilaaliya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ballankiisa"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "iyo kuwa xusaan"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "amarradiisa"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "inay sameeyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:00.480110239Z",
+  "model": "glm-5.3"
+}

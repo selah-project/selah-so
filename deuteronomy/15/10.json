@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Siin si aad u siiso wax, oo qalbigaagu ha u xanaaqin markaad siiso wax; maxaa yeelay arrintan darteed Yahweh Elohimkaagu wuu ku barakadaynayaa dhammaan shuqulladaada iyo dhammaan waxa aad gacantaadu ku fiddiso.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siiso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wax"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha u"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "xanaaqin"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaagu"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "markaad siiso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wax"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "arrinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "wuu ku barakadaynayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "shuqulladaada"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "waxa aad ku fiddiso"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:11.559135914Z",
+  "model": "glm-5.3"
+}

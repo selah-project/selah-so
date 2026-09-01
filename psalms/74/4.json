@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Cadowdaada waxay ku garaacayaan qaylo dhexdeeda shirkaaga; waxay dajissteen calamoossi iyagoo uga dhigay calamo.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "waxay ku garaacayaan qaylo"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "cadowdaada"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "shirkaaga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "waxay dajissteen"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "calamoossi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "uga dhigay calamo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:32.177306483Z",
+  "model": "glm-5.3"
+}

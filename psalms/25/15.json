@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Indhahaygu si joogto ah waa Yahweh u jeedayaan, waayo isagaa cagahayga shabakadda ka soo saaraya.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Indhahaygu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "si joogto ah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (jeedayaan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagaa"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ka soo saaraya"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "shabakadda ka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:44.914156867Z",
+  "model": "glm-5.3"
+}

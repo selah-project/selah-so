@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oodna ku idhi waqtigaas anigoo leh: Anigu keliya ma iilayo ⟨את⟩ idin.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Oodna ku idhi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "anigoo leh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "iilayo"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "anigu keliya"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "sidid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:38.918754055Z",
+  "model": "glm-5.3"
+}

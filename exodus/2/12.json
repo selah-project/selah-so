@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuuna eegay halkan iyo halkalle, wuxuuna arkay in aan jirin qof, wuxuuna dili waayay ⟨את⟩ ninka Mitsrayiga ah, wuxuuna qariyey ciidda.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Wuxuuna eegay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "iyo halkalle"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuuna arkay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna dili waayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninka Mitsrayiga ah"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ninka Mitsrayiga ah"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "wuxuuna qariyey"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "ciidda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:37.206719444Z",
+  "model": "glm-5.3"
+}

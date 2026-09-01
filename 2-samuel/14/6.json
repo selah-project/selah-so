@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo addoonadaada waxay lahayd laba wiil, oo labadoodii wey isku cadeysadeen ⟨beerka⟩, u dhexeysana ma jirin mid soo dhigaya, oo midkii wuu dhuftay ⟨את⟩ kan kale, wuuna dilay.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "oo addoonadaada"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "wey isku cadeysadeen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadoodii"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ma jirin"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mid soo dhigaya"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan kale"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan kale"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wiilkii (isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:01:53.246640856Z",
+  "model": "glm-5.3"
+}

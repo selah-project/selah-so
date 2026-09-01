@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ma shimbir baa ku dhici doontaa dunidda dhulka, haddii aan mows u jirin? Ma dun baa ka kacaysa dhulka, haddaan qabto waxba?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "ma ku dhici doontaa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shimbir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פח",
+      "gloss": "dun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "iyo mows"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "ma ka kacaysa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "dun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "iyo qabad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "qabto"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:11.793365762Z",
+  "model": "glm-5.3"
+}

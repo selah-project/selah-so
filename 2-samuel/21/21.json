@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo markuu cayeystay Israa'iil, waxaa diley Yehoonataan ina Shimii, walaalki Daawud.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "cayeystay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "waxaa diley"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehoonataan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T03:04:11.740589372Z",
+  "model": "glm-5.3"
+}

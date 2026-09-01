@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaa hoos u dhigay kuwa ku noolaa meesha sarreeysa — magaalo weyn oo sarreeysa; hoos buu u dhigayaa, hoos buu u dhigaa ilaa dhulka, ilaa ciddinka buu ka geeyaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa"
+    },
+    {
+      "surface": "השח",
+      "gloss": "hoos u dhigay"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa ku noolaa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "meesha sarreeysa"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "weyn oo sarreeysa"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "hoos buu u dhigayaa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "hoos buu u dhigaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ka geeyaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciddinka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:59.275313408Z",
+  "model": "glm-5.3"
+}

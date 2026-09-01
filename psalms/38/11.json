@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Laybgaygu wuu garaacgaraacaa, xooggaygii wuu ii tegay, iyo iftiinka indhahaygana ⟨את⟩ weligood ila ma jiraan.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Laybgaygu"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "wuu garaacgaraacaa"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "wuu ii tegay"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "xooggaygii"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "iyo iftiinka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ila (iftiinka indhahayga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:56.614441079Z",
+  "model": "glm-5.3"
+}

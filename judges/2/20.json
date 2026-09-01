@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 2:20",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuuna xanaaqii Yahweh ka sii dheregtay Ciisraa'iil, wuxuuna yidhi: Sababtoo ah qarankani wuu xadgudbay ⟨את⟩ ballankaygii aan amray ⟨את⟩ aabayaalkood, uma maqleen codkaygii.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "wuxuuna ka sii dheregtay xanaaqii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xanaaqii (sananta)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Ciisraa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wuu xadgudbay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "qarankani"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballankaygii"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballankaygii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabayaalkood"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "aabayaalkood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqleen"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "codkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:04:06.654572567Z",
+  "model": "glm-5.3"
+}

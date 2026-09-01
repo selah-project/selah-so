@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Aadanahu shar keliya laguma sugo ⟨iyo⟩ laakiin xiddigaha shaahiidyada weligood ma dhaqaaqaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "laga sugo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadanahu"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "shar keliya"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "laakiin xiddigaha"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "shaahiidyada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "weligood ma"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dhaqaaqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:18.085995138Z",
+  "model": "glm-5.3"
+}

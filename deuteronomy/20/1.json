@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 20:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markaad dagaalka u gudubto cadowgaaga, oo aragto faras iyo gaari, iyo qowm kaa badan, ha ka cabsan, waayo, Yahweh Elohimkaagu wuu kula jiraa, kan kuu kaxaystay dalka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Marka"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "aad u gudubto"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "oo aragto"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "faras"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "iyo gaari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qowm"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka cabsan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wuu kula jiraa"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kan kuu kaxaystay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.355449982Z",
+  "model": "glm-5.3"
+}

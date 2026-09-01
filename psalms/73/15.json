@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Haddii aan idhaahdo waan sheegayaa sidaas, bal eeg — ⟨waa⟩ qabyo carruuradaada waan khiyaamay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aan idhaahdo"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "waan sheegayaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "דור",
+      "gloss": "qabyo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "carruuradaada"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "waan khiyaamay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.675692176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ma dheggu miyuu imtixaamiyaa ereyada, oo dhexdhu miyuu cunaha u dhadhamiyaa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dheggu"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "miyuu imtixaamiyaa"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "oo dhexdhu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunaha"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "miyuu u dhadhamiyaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:48.054089769Z",
+  "model": "glm-5.3"
+}

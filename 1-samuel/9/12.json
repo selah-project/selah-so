@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxayna ka jawaabeen ⟨את⟩ iyagana oo yidhaahdeen: Wuu jiraa; bal eeg, wuu hortaada; degdeg u dhaqaa hadda, waayo maanta buu magaalada yimid, waayo maanta waxaa ah qurbile dadka bamaha.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "waxayna ka jawaabeen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "waxay ka jawaabeen (iyaga)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "oo yidhaahdeen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Wuu jiraa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wuu hortaada"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "degdeg u dhaqaa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "buu yimid"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "bamaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:40.961292011Z",
+  "model": "glm-5.3"
+}

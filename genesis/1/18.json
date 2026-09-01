@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo inay xukumaan maalinta iyo habeenka, iyo inay kala saaraan iftiinka iyo mugdiga; oo Elohim wuxuu arkay inay wanaagsan tahay.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "inay xukumaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "iyo habeenka"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "inay kala saaraan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kala"
+    },
+    {
+      "surface": "האור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mugdiga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:55.219503953Z",
+  "model": "glm-5.3"
+}

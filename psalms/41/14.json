@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Baroow waa Yahweh, Elohimka Israa'iil, laga bilaabo weligii iyo ilaa weligay. Aamiin iyo Aamiin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Baroow waa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "laga bilaabo weligii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo ilaa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "iyo Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:41.188312275Z",
+  "model": "glm-5.3"
+}

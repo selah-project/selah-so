@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Oo kahanku wuu qiimeyn doonaa ⟨את⟩ — mise wanaag mise xun; sidaad u qiimeyso adigoo kahan ah, saasay noqon doontaa.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "wuu qiimeyn doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "xayawaanka (mise wanaag mise xun)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mise"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mise"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sidaad u qiimeyso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "adigoo kahan ah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ay noqon doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:16.040599518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Ha kor u qaadinina qarnihiinna ⟨samo⟩ dugga, ha hadlinina iyada oo qooraha ⟨adag ah iyo caasi ah⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kor u qaadinina"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "⟨samo⟩ dugga (kor)"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "qarnihiinna"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ha hadlinina"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "iyada oo qooraha"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨adag ah iyo caasi ah⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:09.808105494Z",
+  "model": "glm-5.3"
+}

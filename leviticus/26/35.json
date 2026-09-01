@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Intii uu engeg yahay wuu nasan doonaa ⟨את⟩ waxa aanan nasin shabbadadiinna, maalmarkii aad ku noolaaydeen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "intii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "engegga"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "wuu nasan doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aanan nasin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "nasin"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "shabbadadiinna"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "maalmarkii aad ku noolaaydeen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sare"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:30.082403878Z",
+  "model": "glm-5.3"
+}

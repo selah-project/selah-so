@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "(Daawud) Dood, Yahwehow, ⟨את⟩ kuwa i dukaamay; dagaallan ⟨את⟩ kuwa i dagaallamaya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa i dukaamay"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "kuwa i dukaamay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dagaallan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa i dagaallamaya"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "kuwa i dagaallamaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:01.139819412Z",
+  "model": "glm-5.3"
+}

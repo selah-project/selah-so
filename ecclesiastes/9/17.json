@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Ereyada kuwa xigmad leh, markay ahayd ⟨in⟩ deggan lagu maqlo, ka wanaagsan tahay qayladda kan xukumaya ee dhexdooda fool-foolyada.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "kuwa xigmad leh"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "lagu maqlo"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ka wanaagsan tahay qayladda"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kan xukumaya"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "dhexdooda fool-foolyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:28.918743966Z",
+  "model": "glm-5.3"
+}

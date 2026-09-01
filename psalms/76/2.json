@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Wuxuu la yaqaan Yehudah Elohim, magaciisuna waa weyn Yisraa'iil.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "wuxuu la yaqaan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:01.136853359Z",
+  "model": "glm-5.3"
+}

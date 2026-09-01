@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Sugiddii waan sugay Yahweh, wuuna ⟨i⟩ laabtay, wuuna maqalay oohintayda.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "sugiddii"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "waan sugay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wuuna laabtay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wuuna maqalay"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "oohintayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.725856056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "El-igay adigaa tahay, waana ku mahadinayaa, Elohimkayga, waana kusoo ololeynayaa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-igay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa tahay"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "waana ku mahadinayaa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimkayga"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "waana kusoo ololeynayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:51:58.160035387Z",
+  "model": "glm-5.3"
+}

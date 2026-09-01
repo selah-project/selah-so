@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo wuxuu u jeediyay ⟨את⟩ wajigiisa dhanka derbiga, oo wuxuu u duceeyay Yahweh isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wuxuu u jeediyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigiisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhanka"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "wuxuu u duceeyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:34:00.256672121Z",
+  "model": "glm-5.3"
+}

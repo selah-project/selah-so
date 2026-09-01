@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxay ka saareen ilma Israa'iil ⟨את⟩ Baalim iyo ⟨את⟩ Ashtaroth, waxayna caabudeen ⟨את⟩ Yahweh keliya.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "waxay ka saareen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtaroth"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtaroth"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxayna caabudeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:09.939595902Z",
+  "model": "glm-5.3"
+}

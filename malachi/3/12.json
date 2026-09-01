@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo quruumaha oo dhan waad niyad-samiin doontaan, waayo idinka waxaad noqon doontaan dhul raalli-ah, ayuu yidhi Yahweh Sebaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "waa laydin niyad-samiin doontaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin (laydin niyad-samiin doontaan)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "quruumaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "waxaad noqon doontaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "raalli-ah (raaxo leh)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:34.047153009Z",
+  "model": "glm-5.3"
+}

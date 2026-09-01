@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waan ogyahay in aan jirin wanaag ku dhex jira, oo keliya inay farxaan oo sameeyaan wanaag noloshooda.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku dhex jira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "inay farxaan"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "oo sameeyaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "noloshooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:36.996688036Z",
+  "model": "glm-5.3"
+}

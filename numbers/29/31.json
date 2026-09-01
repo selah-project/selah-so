@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 29:31",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Iyo ri ubax ah hal keligiis, qalin-dhigisteedii maqaayadda sii soconaysaa iyo hadhuudhkeedii iyo wax la shubaybaa.",
+  "tokens": [
+    {
+      "surface": "וּשְׂעִיר",
+      "gloss": "Iyo ri ubax ah"
+    },
+    {
+      "surface": "חַטָּאת",
+      "gloss": "qalin-dhigis"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "hal"
+    },
+    {
+      "surface": "מִלְּבַד",
+      "gloss": "keligiis (marka laga reebo)"
+    },
+    {
+      "surface": "עֹלַת",
+      "gloss": "maqaayad la gubiyo"
+    },
+    {
+      "surface": "הַתָּמִיד",
+      "gloss": "sii soconaysaa"
+    },
+    {
+      "surface": "מִנְחָתָהּ",
+      "gloss": "hadhuudhkeedii"
+    },
+    {
+      "surface": "וּנְסָכֶיהָ",
+      "gloss": "iyo wax la shubaybaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:21.920833332Z",
+  "model": "glm-5.3"
+}

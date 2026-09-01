@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Khesed iyo runtu way is-qaadeen; cadaalad iyo nabadduna way is-huumeen.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo runtu"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "way is-qaadeen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "iyo nabadduna"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "way is-huumeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.478046607Z",
+  "model": "glm-5.3"
+}

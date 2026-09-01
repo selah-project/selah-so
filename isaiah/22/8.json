@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo waxaa la baahay ⟨את⟩ daboolka Yahuudah, oo adigu maalintaas waxaad eegtay qalabka Guriga Kaynta.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Oo waxaa la baahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daboolka Yahuudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "daboolka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "oo adigu waxaad eegtay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נשק",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Guriga"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Kaynta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:52.315390699Z",
+  "model": "glm-5.3"
+}

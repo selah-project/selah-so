@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Aadmigu — maalmahiisu waa sida dawodka; sida ubaxa beertaba, sidaas buu u ubax-baxaa.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Aadmigu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sida dawodka"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "maalmahiisu"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "sida ubaxa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beertaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "uu u ubax-baxaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:04.471979766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Iyo Shushan ⟨את⟩ qalcadda dhexdeeda Yehuudimku waxay laayeen oo waxay baabbi'iyeen shan boqol oo ⟨את⟩ nin.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Iyo Shushan dhexdeeda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalcadda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "waxay laayeen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehuudimku"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "oo waxay baabbi'iyeen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-09-01T08:43:26.873217522Z",
+  "model": "glm-5.3"
+}

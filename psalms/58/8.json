@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Ha baxsadaan sida biyo socda, ha socdaan maqan; marka uu gusha ku ridayo, ha go'go'aan sida la jaray.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ha baxsadaan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ha socdaan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maqan"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "marka uu gusha ku ridayo"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "gusheenna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ha go'go'aan (la jaray)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:24.445795365Z",
+  "model": "glm-5.3"
+}

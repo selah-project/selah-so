@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waannu furay ⟨את⟩ afayday, wuuna i siisiyay inaan cuno ⟨את⟩ gaggabaddan.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Waannu furay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afayday"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afayday"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "wuuna i siisiyay inaan cuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaggabaddan"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gaggabadda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:25:46.924415498Z",
+  "model": "glm-5.3"
+}

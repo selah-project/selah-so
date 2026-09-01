@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Laakiin hadduu baabi'iyay ⟨את⟩ iyaga kadib markuu maqalkale, wuxuu dhamaysanayaa ⟨את⟩ denbiga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "laakiin haddii"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "baabi'ay"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "uu baabi'iyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib marka"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uu maqalkale"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "wuxuu dhamaysanayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denbiga"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "denbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:34.378141331Z",
+  "model": "glm-5.3"
+}

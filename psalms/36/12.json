@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Cagta isla-weynida ha i soo gaadin, oo gacanta shar-yahanaya ha i geddin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "i soo gaadin"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "cagta"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "isla-weynida"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "oo gacanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yahanaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "i geddin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:49.648101270Z",
+  "model": "glm-5.3"
+}

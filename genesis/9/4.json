@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Laakiin hilib nafdiisa ku jirta — dhiiggiisa — ha cunina.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hilib"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "nafdiisa ku jirta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiiggiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cunina"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:13.749413992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Dhar gaaban oo lin (bad) ah oo qudsi ah buu xidhaa, iyo sirwaal lin (bad) ah oo jidhkiisa saaran, iyo maro lin (bad) ah buu ku marmaa, iyo duub lin (bad) ah buu madaxa ku duubaa; dharka qudsuka ah bay yihiin, wuuna biyo ku maydhayaa ⟨את⟩ jidhkiisa, xagnana ku xidhaa.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "dhar gaaban"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lin (bad)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudsi ah"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "buu xidhaa"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "iyo sirwaal"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lin (bad) ah"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "oo... saaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saaran"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "iyo maro (sunad)"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lin (bad) ah"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "buu ku marmaa"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "iyo duub (mijvees)"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lin (bad) ah"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "buu madaxa ku duubaa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dharka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudsu ka ah"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bay yihiin"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "wuuna... maydhayaa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyo ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhkiisa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "xagnana ku xidhaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:39.504223484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Tsiyon waxay weyddiin doonaan waddada; halkaas bay wejiyadoodu ahaan; waxay dhihi: Kaalaya, aannu Yahweh ku biirno ballan ⟨qad ah⟩ oo aan weligba la halmin.",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יִשְׁאָלוּ",
+      "gloss": "waxay weyddiin doonaan"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "הֵנָּה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "פְּנֵיהֶם",
+      "gloss": "wejiyadoodu"
+    },
+    {
+      "surface": "בֹּאוּ",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "וְנִלְווּ",
+      "gloss": "aannu ku biirno"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "qad"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "aan weligba la halmin — ma"
+    },
+    {
+      "surface": "תִּשָּׁכֵחַ",
+      "gloss": "la halmin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:21:33.394738195Z",
+  "model": "glm-5.3"
+}

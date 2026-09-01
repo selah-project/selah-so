@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 21:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markaasaa wadaanku wuxuu halkaas u diray laba iyo toban kun oo nin ah oo ka mid ah wiilasha geesinimada, wuxuuna amray ⟨את⟩ iyagoo leh: Taga, oo idinku dildaafila ⟨את⟩ degganayaasha Yabesh Gilad afka seefka, iyo haweenkii iyo carruurta.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Markaasaa wuxuu u diray"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wadaanku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oo nin ah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ka mid ah wiilasha"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "geesinimada"
+    },
+    {
+      "surface": "ויצוו",
+      "gloss": "wuxuuna amray"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "amarka (Taga oo idinku dildaafila…)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Taga"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "idinku dildaafila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degganayaasha Yabesh Gilad"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganayaasha"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seefka"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "iyo haweenkii"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "iyo carruurta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:46.746643443Z",
+  "model": "glm-5.3"
+}

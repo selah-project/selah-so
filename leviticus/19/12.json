@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo Magacayga ha ku dhaarinina been, si aadan u nijaasin ⟨את⟩ Magaca Elohimkaagii; aniga ayaa ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "iyo ha"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "dhaarinina"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Magacayga"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "been"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "si aadan u nijaasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Magaca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:26.352640016Z",
+  "model": "glm-5.3"
+}

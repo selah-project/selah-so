@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Iska daa cadhooda, oo ka teed xanaaqa; ha gelin qabdhigii wax uun shar inaad sameysid.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Iska daa"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "cadhooda"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "oo ka teed"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "xanaaqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha gelin"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "qabdhigii"
+    },
+    {
+      "surface": "אך",
+      "gloss": "wax uun"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "shar inaad sameysid"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:27.951741284Z",
+  "model": "glm-5.3"
+}

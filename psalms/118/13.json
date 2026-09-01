@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Wax ii tuurtay si aan u dhinto, laakiin Yahweh wuxuu ii caawiyay.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "wax ii tuurtay"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "tuur ii dheeraadh ah"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "si aan u dhinto"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "laakiin Yahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "wuxuu ii caawiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:25.638129722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Waa ⟨waxaa i leh⟩ xayawaanka duurranka ah oo dhan, iyo xayawaanka waaweyn ee buuraha kun ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i leh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "יער",
+      "gloss": "duurranka ah"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "xayawaanka waaweyn"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:37.513976304Z",
+  "model": "glm-5.3"
+}

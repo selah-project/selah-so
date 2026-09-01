@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Aabahaa wuu adagaystay ⟨את⟩ ulkeenadeen; adigase hadda ka fududee shaqada adag ee aabahaa, iyo ulkeenta culus ee uu nagu saaray, waannu ku adeegaynaa.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Aabahaa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "wuu adagaystay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulkeenadeen"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ulkeenadeen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adigase"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ka fududee"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "shaqada adag ee (ka)"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "iyo ulkeenta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "culus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uu saaray"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nagu (na saaray)"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "waannu ku adeegaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:34.110415338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Wuu u yeerayaa samada korkeeda iyo dhulka, inuu xukumo qolkiisa.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "wuu u yeerayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "korkeeda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "inuu xukumo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qolkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:45.288476856Z",
+  "model": "glm-5.3"
+}

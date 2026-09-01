@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waxaad aragtay, Yahweh; ha aamusan; Adonay, ha iga fogaato.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Waxaad aragtay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "aamusan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "iga fogaato"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:38.547432584Z",
+  "model": "glm-5.3"
+}

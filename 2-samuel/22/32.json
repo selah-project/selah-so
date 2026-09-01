@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Maxaa ee yahay El oo kale ah Yahweh ka soo horjeeda? Oo maxaa ee yahay dhagax Yihiin Elohimeenna ka soo horjeeda?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ka soo horjeeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Oo maxaa ee"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagax Yihiin"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ka soo horjeeda"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T08:22:21.896697003Z",
+  "model": "glm-5.3"
+}

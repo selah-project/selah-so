@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Laakiin ⟨את⟩ beeraha magaalada iyo ⟨את⟩ tuulooyinkeeda waxay u siyeen Kaleeb inka Yefunneh inuu dhaxlo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Laakiin ⟨את⟩",
+      "marks": "beeraha magaalada"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tuulooyinkeeda"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "tuulooyinkeeda"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay siyeen"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunneh"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "inuu dhaxlo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:19.521230236Z",
+  "model": "glm-5.3"
+}

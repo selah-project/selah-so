@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Qoomkaaga, Yahweh, way ⟨wuu⟩ tuur-tufayaa, dhaxligaagana way dhibaysayaa.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "way tuur-tufayaa"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "dhaxligaagana"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "way dhibaysayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:37.915190330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Maxaan naqaa ⟨kan aanay⟩ El naqayn? Mise maxaan huuraa ⟨kan aanay⟩ Yahweh huurayn?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "naqaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanay"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "naqayn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mise maxaan"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "huuraa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanay"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "huurayn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:34.967209344Z",
+  "model": "glm-5.3"
+}

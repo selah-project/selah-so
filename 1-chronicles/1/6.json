@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wiilashii Gomer: Ashkenaz, iyo Diifath, iyo Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "iyo wiilashii"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "iyo Diifath"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "iyo Togarma"
+    }
+  ],
+  "timestamp": "2026-09-01T06:21:36.795668527Z",
+  "model": "glm-5.3"
+}

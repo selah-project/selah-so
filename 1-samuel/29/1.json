@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Filiistiintii waxay soo aruuriyeen ⟨את⟩ dhammaan ciidammadoodii Afqa, laakiin Yisraa'iilna waxay dul goosiyeen il shida Ahna ku taal Yizre'eel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "waxay soo aruuriyeen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiistiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ciidammadoodii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ciidammadoodii"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afqa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisraa'iilna"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "waxay dul goosiyeen"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "il shida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ahna"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizre'eel ku taal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:22.474113342Z",
+  "model": "glm-5.3"
+}

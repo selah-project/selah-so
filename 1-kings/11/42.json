@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Maalmihii uu Sheelomah xukumay Yeruushaalaym, waxaan Israel oo dhan, afartan sano bay ahaayeen.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "iyo maalmihii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "xukumay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheelomah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "על",
+      "gloss": "waxaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:46.557817027Z",
+  "model": "glm-5.3"
+}

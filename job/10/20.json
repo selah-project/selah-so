@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma maqan yahay in maalmahaygu yar yihiin? Jooji ⟨isaga⟩, iga tege, si aan ugu nasiibo yar-yar.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma maqan yahay in"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmahaygu"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Jooji"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "iga tege"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "si aan ugu nasiibo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar-yar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:29.809658386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "⟨את⟩ allabarii guritaanka iyo ⟨את⟩ shabakadda birta neefaha oo ah ta uu leeyahay, ⟨את⟩ qaansada iyo ⟨את⟩ dhammaan qalabkiisa, ⟨את⟩ haan- maydhashada iyo ⟨את⟩ lahooda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabarii guritaanka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabarii"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "guritaanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shabakadda birta neefaha"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "birta neefaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu leeyahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaansada"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "qaansada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan qalabkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haan-maydhashada"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "haan-maydhashada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lahooda"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "lahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:51.621240682Z",
+  "model": "glm-5.3"
+}

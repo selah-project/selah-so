@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuu hubaal ⟨את⟩ idin canaanayaa, haddii aad qarso u qabataan ⟨wajiyada⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "hubaal wuu"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "canaanayaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarso"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wajiyada"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "aad u qabataan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:10.807722495Z",
+  "model": "glm-5.3"
+}

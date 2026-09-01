@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "\"Kani waa rootinkeenna: kulul baannu u qaadanay ⟨את⟩ guryooteenna maalintii aannu baxnay inaan idinku soo aanno; haddana waxaad aragtaannaa wuu engebbay, oo wuu noqday burbur qoyaan.\"",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "rootinkeenna"
+    },
+    {
+      "surface": "חם",
+      "gloss": "kulul"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "baannu u qaadanay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rootinkeenna kulul"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "guryooteenna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "aannu baxnay"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inaan soo aanno"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "waxaad aragtaannaa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wuu engebbay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo wuu noqday"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "burbur qoyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:31.366676670Z",
+  "model": "glm-5.3"
+}

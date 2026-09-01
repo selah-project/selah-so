@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Tag, oo odayasha Israa'iil ⟨את⟩ isu soo qaad, oo ku dhah: Yahweh, Elohim aabbayaashiin — Elohim Ibraahim, Isxaaq iyo Yacquub — iga muuqday, isagoo leh: Waan fiiri-fiiray ⟨את⟩ idinkii iyo ⟨את⟩ wixii lagu sameeyay Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "oo isu soo qaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odayasha Israa'iil"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo ku dhah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ayeeyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "iga muuqday"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "iyo Yacquub"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "waan fiiri"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "fiiray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinkii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wixii lagu sameeyay Mitsrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "wixii la sameeyay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lagu (idinkoo)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:06:23.072309169Z",
+  "model": "glm-5.3"
+}

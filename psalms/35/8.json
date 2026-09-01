@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Halganku ha ku soo degto isla markaasuu aan ogeyn, oo shabakaddii uu qariyay ha ku qabato, halgankaasna ha ku dhoco.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ha ku soo degto"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "Halganku (showaa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ogeyn"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "oo shabakaddii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu (ashiir)"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "qariyay"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ha ku qabato"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "halgankaas"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ha ku dhoco"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku (gudaha)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:19.990525242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: qaado ⟨את⟩ dhammaan madaxda dadka, oo u dheji ⟨את⟩ iyagii Yahweh horceedda qoraxda, si gubitaankii cadhada Yahweh uga laabto Yisraaiel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan madaxda dadka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "oo u dheji"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "horceedda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "si... uga laabto"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "gubitaankii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadhada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisraaiel"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:54.527091181Z",
+  "model": "glm-5.3"
+}

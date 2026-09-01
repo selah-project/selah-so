@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waan gacan-gabad samaynayaa oo waan farxayaa khesedkaaga, waayo waxaad aragtay ⟨את⟩ dhibaatadayda; waad ogtahay cidhidhiyada nafayda.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Waan gacan-gabad samaynayaa"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "oo waan farxayaa"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "waxaad aragtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibaatadayda"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "dhibaatadayda"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad ogtahay"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "cidhidhiyada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:31.065491455Z",
+  "model": "glm-5.3"
+}

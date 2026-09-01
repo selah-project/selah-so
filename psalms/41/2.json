@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Ashree kan si caqli leh u falgela ⟨⟩ sabrayda; maalaha sharta Yahweh wuu badbaadinayaa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ashree"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "si caqli leh u falgela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u falgela⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "sabrayda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalaha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sharta"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "wuu badbaadinayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:42.090087440Z",
+  "model": "glm-5.3"
+}

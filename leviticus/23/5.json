@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Bisha koowaad, tan iyo afartan-iyo-toban ee bisha, dhexdeeda fiidkii (waa waqtigii u dhexeeyaa labada fiido), waa Pesach ee Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Bisha"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban (afartan-iyo-toban)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bisha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "fiidkii (labada fiido)"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ee Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:25.808185588Z",
+  "model": "glm-5.3"
+}

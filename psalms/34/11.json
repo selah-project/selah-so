@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Shoonaha dhalinyarada waxay sababeeen oo abaarta u gacan saareen, laakiin kuwa doondowsa Yahweh wax kasta oo wanaagsan ma waayaan.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "shoonaha dhalinyarada"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "waxay sababeeen"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "oo abaarta u gacan saareen"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "laakiin kuwa doondowsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "waayaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:44.223493781Z",
+  "model": "glm-5.3"
+}

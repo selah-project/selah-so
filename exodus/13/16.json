@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo waxay noqon calaamad gacantaada, iyo totafot u dhexeeya indhahaaga, waayo gacan adag baa naga soo bixiyay Yahweh Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oo waxay noqon"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "calaamad"
+    },
+    {
+      "surface": "על",
+      "gloss": "(gacantaada) ku"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "iyo totafot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "adag"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "naga soo bixiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:59.377995444Z",
+  "model": "glm-5.3"
+}

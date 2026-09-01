@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxay aroorta waaga goor hore soo kaceen, kadibna qorraxdu waxay ku ifaysay biyaha, Moabna waxay arkeen ka soo horjeedka ⟨את⟩ biyaha inay yihiin casaan sidii dhiigga.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Waxay aroorta waaga goor hore soo kaceen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aroorta waaga"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "qorraxdu"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "waxay ku ifaysay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "waxay arkeen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabna"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ka soo horjeedka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyaha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "casaan"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "sidii dhiigga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:12:00.960304130Z",
+  "model": "glm-5.3"
+}

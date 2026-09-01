@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo aan u soo celinno ⟨את⟩ sanduuqa Elohimkeenna inaga soo, waayo ma aanan daramin waqtigii Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "oo aan u soo celinno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "inaga soo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "aanan daramin"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:11.210377281Z",
+  "model": "glm-5.3"
+}

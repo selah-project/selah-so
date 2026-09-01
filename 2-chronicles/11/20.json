@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo ka dib waxuu qaatay ⟨את⟩ Maakhah gabadha Abshaloom; waxayna u dhashay ⟨את⟩ Abiyah iyo ⟨את⟩ Attay iyo ⟨את⟩ Ziiza iyo ⟨את⟩ Shelomith.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakhah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxayna u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ziiza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shelomith"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomith"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:51.333386500Z",
+  "model": "glm-5.3"
+}

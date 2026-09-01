@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Iyo ⟨את⟩ Chashabyaah, iyo ⟨את⟩ la jirkiis Yish'ayaah, ka mid ah wiilasha Merari, walaalihiis iyo wiilashoodii, labaatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chashabyaah"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashabyaah"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "iyo ⟨את⟩ la jirkiis"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yish'ayaah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ka mid ah wiilasha"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "iyo wiilashoodii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:15:56.203053735Z",
+  "model": "glm-5.3"
+}

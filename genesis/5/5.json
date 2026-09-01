@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxay noqdeen dhammaan maalmaha Aadam uu noolaa sagaal boqol oo sano iyo sodon sano, oo wuu dhintay.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay noqdeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "noolaa"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sagaal"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo sodon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuu dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:52.203316864Z",
+  "model": "glm-5.3"
+}

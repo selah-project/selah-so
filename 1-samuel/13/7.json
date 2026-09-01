@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Cibraanidiinta qaarina waxay ka gudbeen ⟨את⟩ Urdunka, dhulkii Gaad iyo Gilecaad; Shaa'uulna weli wuu Gilgaal fadhiyay, dadkii oo dhammi way ka gadaashiisa qoondayeen.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Cibraanidiinta qaarina"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "waxay ka gudbeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdunka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdunka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "iyo Gilecaad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "weli wuu fadhiyay"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgaal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhammi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "way qoondayeen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka gadaashiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:46.590052953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Elohim-key, waan u dhawaaqayaa maalinta, laakiin ma jawaabto; iyo habeenkaba, laakiin deganaan iima laha ⟨waxaan⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-key"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan u dhawaaqayaa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "jawaabto"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iyo habeenkaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin … ma"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "deganaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iima laha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:24.967761995Z",
+  "model": "glm-5.3"
+}

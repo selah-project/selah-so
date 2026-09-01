@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo ha wasakhayn ⟨את⟩ waxyaabaha quduuska ah ee wiilasha Israa'iil — ⟨את⟩ waxa ay kor u qaadaan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "wasakhayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxyaabaha quduuska ah ee wiilasha Israa'iil"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "waxyaabaha quduuska ah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa ay kor u qaadaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa ay"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "kor u qaadaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:30.494805209Z",
+  "model": "glm-5.3"
+}

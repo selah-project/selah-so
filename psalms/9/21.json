@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehoy, dhig cabsi ⟨korkooda⟩, si quruumuhu ay u ogaadaan inay ⟨ay⟩ yihiin dad moortan ah (enosh). Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehoy"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ogaadaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruumuhu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dad moortan ah (enosh)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:02.682174688Z",
+  "model": "glm-5.3"
+}

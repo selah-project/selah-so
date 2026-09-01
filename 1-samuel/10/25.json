@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna Shemu'eel ku hadlay ⟨את⟩ dadka sharciga boqortooyada, wuxuuna ku qoray buugga, wuxuuna dhigay hortii Yahweh, waxaana Shemu'eel sii daayay ⟨את⟩ dadka oo dhan, nin keliya gurigiisa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuuna ku hadlay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharciga boqortooyada"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "wuxuuna ku qoray"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "waxaana sii daayay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin keliya"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:21.394695577Z",
+  "model": "glm-5.3"
+}

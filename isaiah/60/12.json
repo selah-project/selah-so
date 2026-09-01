@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Waa sababtaa qaranka iyo boqortooyada aan ku adeegin inay baabi'aan doonaan; qarannadaas oo dhan waa la baabi'in doonaa oo waa la banaan doonaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa sababtaa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "qaranka"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "iyo boqortooyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "ku adeegin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "inay baabi'aan doonaan"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "qarannadaas oo dhan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "waa la baabi'in doonaa"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "waa la banaan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:21.422767311Z",
+  "model": "glm-5.3"
+}

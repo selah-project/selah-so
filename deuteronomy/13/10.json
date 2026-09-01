@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Laakiin ⟨adigaa⟩ si sugan u dishay; gacantaadu way noqon doontaa kuwii ugu horreeyay ⟨ee⟩ la dilo, gacanta dadka oo dhan baa kuwa dambeysa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "si sugan u"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "dishay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaadu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "way noqon doontaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuwii ugu horreeyay"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ugu horreeyay"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "la dilo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "kuwa dambeysa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:13.156132258Z",
+  "model": "glm-5.3"
+}

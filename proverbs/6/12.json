@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Nin beliyyaal ah, nin dambi ah, wuxuu socdaa qallooc af.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyyaal ah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "און",
+      "gloss": "dambi ah"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "wuxuu socdaa"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "qallooc"
+    },
+    {
+      "surface": "פה",
+      "gloss": "af"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:52.451659034Z",
+  "model": "glm-5.3"
+}

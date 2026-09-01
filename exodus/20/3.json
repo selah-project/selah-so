@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wax ilaahyo kale aan ahayn aniga haysato.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "haysato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wax"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:57.605026753Z",
+  "model": "glm-5.3"
+}

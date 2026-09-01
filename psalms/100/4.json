@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 100,
+  "translation": "Ka soo gala albaabadiisa mahadda, iyo barxadiisa ammaanta; u mahadqaada, oo barakeeya magaciisa.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ka soo gala"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "albaabadiisa"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mahadda"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "barxadiisa"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ammaanta"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "u mahadqaada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barakeeya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:16.263711224Z",
+  "model": "glm-5.3"
+}

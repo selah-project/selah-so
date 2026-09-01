@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Naxariiste iyo deeqsi ⟨waa⟩ Yahweh, caro-dheer, khesedna aad u badan.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Naxariiste"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "iyo deeqsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "caro (sanka)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:03.870231618Z",
+  "model": "glm-5.3"
+}

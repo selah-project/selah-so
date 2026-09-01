@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Markaasaa dadka oo dhan ayay ka siideen ⟨את⟩ xirmooyinka dahabka ee dhigahooda, waxayna Aharon u keeneen.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ayay ka siideen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xirmooyinka dahabka"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "xirmooyinka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dhigahooda"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waxayna u keeneen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:17.731873639Z",
+  "model": "glm-5.3"
+}

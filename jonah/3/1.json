@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ereygii Yahweh waxaa uu yimid Yunus mar labaad, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxaa uu yimid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereygii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo u socda"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mar labaad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:09.750007597Z",
+  "model": "glm-5.3"
+}

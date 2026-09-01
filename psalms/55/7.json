@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Oo waxaan idhi: yaa ii siin lahaa baal sida qoolleyda, waan duqulqul lahaa, waana nasan lahaa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "oo waxaan idhi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ii siin lahaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "אבר",
+      "gloss": "baal"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sida qoolleyda"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "waan duqulqul lahaa"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "waana nasan lahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:48.009407089Z",
+  "model": "glm-5.3"
+}

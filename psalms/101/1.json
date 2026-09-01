@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Mazmur oo Daawud ah: khesed iyo ⟨cadaalad⟩ baan ku heesi doonaa; adiga, Yahweh, baan ku qaadi (hees-tumin) doonaa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "oo Daawud ah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo cadaalad"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "baan ku heesi doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "baan ku qaadi (hees-tumin) doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:38.481957837Z",
+  "model": "glm-5.3"
+}

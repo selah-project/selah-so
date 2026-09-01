@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Same iyo dhul baa ammaanayaa, baddaha iyo wax kastoo ku socda.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "baa ammaanayaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "same"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhul"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "baddaha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo wax kastoo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ku socda"
+    },
+    {
+      "surface": "בם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:12.635946382Z",
+  "model": "glm-5.3"
+}

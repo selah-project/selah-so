@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Khesedyada Yahweh weligay waan qadaa; jiil jiil dambe ayaan xaqiiqadaada ammaanada kugu sheegaa afkayga.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "khesedyada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan qadaa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jiil dambe"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "waan sheegaa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ammaanadaada xaqiiqada"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:03.898143952Z",
+  "model": "glm-5.3"
+}

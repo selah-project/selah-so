@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuuna dhisay ⟨את⟩ gurigiisii Shalomoo, sano laba-iyo-toban, wuxuuna dhammeeyay ⟨את⟩ gurigiisii oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gurigiisii"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisii"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shalomoo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "laba-iyo-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "wuxuuna dhammeeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurigiisii oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:28.859492716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Aawadii walaalayaday iyo saaxiibbaday, waan ka hadli doonaa ⟨hadda⟩: nabad kuu dhex ahaado.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Aawadii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalayaday"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "iyo saaxiibbaday"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "waan ka hadli doonaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨hadda⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuu dhex"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.752402700Z",
+  "model": "glm-5.3"
+}

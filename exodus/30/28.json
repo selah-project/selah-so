@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Iyo ⟨את⟩ altarka allabbariga iyo ⟨את⟩ dhamaan agabkiisa, iyo ⟨את⟩ haanka iyo ⟨את⟩ salgihiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "altarka allabbariga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabbariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan agabkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "agabkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "haanka"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "haanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "salgihiisa"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "salgihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:40.717169326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waan aamusay, afkayna ma furo, waayo ⟨adigaa⟩ sameeyay.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Waan aamusay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "furo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:11.058857496Z",
+  "model": "glm-5.3"
+}

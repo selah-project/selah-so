@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Laakiin waad ku soo dhici doontaa Sheool, ilaa hoosyada godka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "soo dhici doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "hoosyada"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:58.280246912Z",
+  "model": "glm-5.3"
+}

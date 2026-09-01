@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Yahweh wuxuu fadhiistay dabaysha, Yahwehna wuxuu boqor u fadhiistay weligiis.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "dabaysha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wuxuu fadhiistay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna u fadhiistay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:53.933240870Z",
+  "model": "glm-5.3"
+}

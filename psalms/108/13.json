@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Nagu sii gargaar dhibta iyo cadowga; maxaa yeelay, waxtar la'aan baa tahay gargaarka aadmiga.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dhibta iyo cadowga"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "waxtar la'aan baa tahay"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "gargaarka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadmiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:10.498198358Z",
+  "model": "glm-5.3"
+}

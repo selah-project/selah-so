@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Waxaa loo soo conin doonaa farxad iyo gigan; waxay gali doonaan qasriga boqorka.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "waa loo soo conin"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "iyo gigan (rayray)"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "waxay gali doonaan"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "qasriga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:57.846021551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh wuxuu si dheeraad ah ugu hadlay ilaa ⟨ani⟩ kale, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wuxuu si dheeraad ah ugu hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadlay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ilaa ⟨ani⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:58.996492288Z",
+  "model": "glm-5.3"
+}

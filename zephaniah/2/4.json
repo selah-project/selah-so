@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waayo, Aza waa la dayricin doonaa, Ashqelonna waxay noqon doontaa meel bannaan; Ashdod galab-berri baa laga saari doonaa, Ekronna waa la jar-jarin doonaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "waa la dayricin doonaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "Ashqelonna"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "meel bannaan"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "galab-berri"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "baa laga saari doonaa"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "Ekronna"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "waa la jar-jarin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:31.157763002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waxay ku beddeshay ⟨את⟩ ammaantooda (kabood) munaasabadan sawirka dibi cuni caws.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "waxay beddeshay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ammaantooda"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ammaantooda (kabood)"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sawirka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cuni"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "caws"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:59.960602983Z",
+  "model": "glm-5.3"
+}

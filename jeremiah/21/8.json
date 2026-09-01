@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo qolodan waxaad ku odhanaysaa: Sidaas ayuu yidhi Yahweh: Bal eeg, waxaan idinka horeeynayaa ⟨את⟩ jidka nolosha iyo ⟨את⟩ jidka geerida.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "oo ... ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qoloda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "waxaad odhanaysaa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal eeg anigu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "waxaan horeeynayaa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "idinka hortii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidka nolosha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "jidka geerida"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "המות",
+      "gloss": "geerida"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:42.208325002Z",
+  "model": "glm-5.3"
+}

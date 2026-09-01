@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuu isku xiray ⟨את⟩ shanta bardaaha, mid kasta midka kale; oo shan kaloo bardaah ah wuxuu isku xiray mid kasta midka kale.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "wuxuu isku xiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanta bardaaha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "bardaaha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "midka kale"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "shan kaloo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "bardaah ah"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "wuxuu isku xiray"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "midka kale"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:35.829774997Z",
+  "model": "glm-5.3"
+}

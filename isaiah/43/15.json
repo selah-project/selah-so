@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Anigu waan ahay Yahweh, Quduuskiinna, Abuuraha Israa'iil, Boqorkiinna.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Quduuskiinna"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Abuuraha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Boqorkiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:08.267548197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxayna ku tidhi: Waxaan ahay gabadha Betuel, inankii Milka oo ay u dhashay Naor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "waxaan ahay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inankii"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ay dhashay"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Naor (u)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:49:40.813488324Z",
+  "model": "glm-5.3"
+}

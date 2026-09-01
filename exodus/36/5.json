@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waxay dheehi Muuse: Shacabku way sii kordhiyeen inay keenaan ka badan waxa ku filan adeegga shuqulkii uu Yahweh amray in ⟨את⟩ la sameeyo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay dheehi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "way sii kordhiyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "inay keenaan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ka badan waxa ku filan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "in la sameeyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "shuqulkii (adeegga la sameeyo)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:28.725655766Z",
+  "model": "glm-5.3"
+}

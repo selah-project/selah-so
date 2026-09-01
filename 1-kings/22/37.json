@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuuse dhintay boqorkii, wuxuuna la yimid Shomeron, waxaana ku aasay ⟨את⟩ boqorkii Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuxuuse dhintay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "wuxuuna la yimid"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "waxaana ku aasay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-01T03:22:36.941534408Z",
+  "model": "glm-5.3"
+}

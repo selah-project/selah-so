@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Cunto la doorbido ma cunin, oo hilib iyo khamri ma soo gelin afkayga, oo aanaynna ma aanayn ilaa la dhammeeyo saddex toddobaad maalmood.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "la doorbido"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "oo hilib"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "iyo khamri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "soo gelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "galin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "oo aanaynna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "aanayn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "la dhammeeyo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "שבועים",
+      "gloss": "toddobaad"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T06:10:22.962129417Z",
+  "model": "glm-5.3"
+}

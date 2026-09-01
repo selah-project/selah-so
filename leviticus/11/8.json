@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Firidhooda (go'dooda) ha cunina, oo meydhahooda (maydkooda) ha taabanna, waa nijaas ⟨way⟩ idiin yihiin.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "firidhooda (go'dooda)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... -nina"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cunina"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "oo meydhahooda (maydkooda)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... -nna"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "taabanna"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "waa nijaas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "way"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.538026097Z",
+  "model": "glm-5.3"
+}

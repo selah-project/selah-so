@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markuu Yahweh u diray dadka ⟨את⟩ masaska guban (haah, masaska dheere), waxay ku sifeen ⟨את⟩ dadka, oo dad fara badan oo Yisraa'iil ah ayaa dhintay.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masaska guban"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "masaskii"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "guban (dheere)"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "waxay ku sifeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "waxay dhinteen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fara badan"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "oo Yisraa'iil ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:22.408332944Z",
+  "model": "glm-5.3"
+}

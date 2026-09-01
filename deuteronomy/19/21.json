@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Indhahaagana ha u naxariisin: naf naf ka waran, indho indho ka waran, ilig ilig ka waran, gacan gacan ka waran, cag cag ka waran.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha ... u"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "naxariisin"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "naf ka waran"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indho"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "indho ka waran"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilig"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ilig ka waran"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan ka waran"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "cag"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "cag ka waran"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:07.275504179Z",
+  "model": "glm-5.3"
+}

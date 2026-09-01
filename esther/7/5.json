@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuu yidhi boqorka Axashweerowsh, wuxuuna yidhi boqoradda Ester: Yaa isaga kan, xaggeena waa kan uu qalbigu ka buuxsamo inuu s sameeyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashweerowsh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "boqoradda Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "boqoradda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "xaggeena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ka buuxsamo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu sameeyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "s"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:55.574780755Z",
+  "model": "glm-5.3"
+}

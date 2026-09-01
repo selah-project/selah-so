@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Hagaamiyaha heesaha (lamenatseakh) uu; ee addoonka Yahweh, ee Dawuud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "hagaamiyaha heesaha"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "addoonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:23.137043180Z",
+  "model": "glm-5.3"
+}

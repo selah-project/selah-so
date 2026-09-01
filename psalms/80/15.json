@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Elohim Tsevaotow, noqo ⟨adan⟩, i dayo samada ka, oo fiir, oo booqo geenantana.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨adan⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "i dayo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada ka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo fiir"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "oo booqo"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "geenanta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:24.760155751Z",
+  "model": "glm-5.3"
+}

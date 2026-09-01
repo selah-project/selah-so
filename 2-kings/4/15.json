@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna yidhi: U yeer. Wuu u yeeray, waftayna taagtay albaabka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "U yeer"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuu u yeeray"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "waftayna taagtay"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "albaabka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:16.498754221Z",
+  "model": "glm-5.3"
+}

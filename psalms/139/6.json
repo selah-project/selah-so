@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Aqoontaas pil'ee (yaab badan) way ii weyn tahay; waa la sar yeelay, aanan awoodin.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "pil'ee (yaab badan)"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoontaas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "way ii weyn tahay"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "waa la sar yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "awodin"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.377990491Z",
+  "model": "glm-5.3"
+}

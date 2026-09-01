@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Laakiin kuwa khushuusha ah baa dhulka dhaxli doona, oo waxay ku faraxsan doonaan barwaaqada nabadda.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "laakiin kuwa khushuusha ah"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "dhaxli doona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "oo waxay ku faraxsan doonaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "barwaaqada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:35.350647676Z",
+  "model": "glm-5.3"
+}

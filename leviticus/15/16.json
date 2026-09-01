@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Ninna markay ka soo baxdo shubidda abuurka, wuxuu biyaha ku maydhaa ⟨את⟩ jidhkiisa oo dhan, wuuna wasakhaysan yahay ilaa galabta.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka soo baxdo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "shubidda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abuurka"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "wuxuu maydhaa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "wuuna wasakhaysan yahay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:27.731694883Z",
+  "model": "glm-5.3"
+}

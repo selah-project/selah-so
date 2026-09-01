@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Falistiintii waxay ku dagaallameen Israa'iil, oo raggii Israa'iil way ka carareen Falistiintii, oo waxaa buurta Gilbo'a ku dhacey kuwa la diley.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Falistiintii"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "waxay ku dagaallameen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "way carareen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "raggii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "way ka carareen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiintii"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "waxaa ku dhacey"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "kuwa la diley"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilbo'a"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:41.104894221Z",
+  "model": "glm-5.3"
+}

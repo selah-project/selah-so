@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Qosolka waxaan idhi: waalan baa tahay; farxadana: maxay tahay tan ay qabato?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "qosolka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "waalan baa tahay"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "farxadana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ay qabato"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.207087522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kuwani waa wiilashii Sheem: Sheem wuxuu ahaa inaba sanad jir ah markuu dhashay ⟨את⟩ Arfaksad, laba sanood ka dib biyihii dheeraa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "markuu dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfaksad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfaksad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "laba sanood"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "biyihii dheeraa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:27.512693283Z",
+  "model": "glm-5.3"
+}

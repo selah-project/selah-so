@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Rashinna ha qaadamin, waayo, rashinnu waxay indhala arko kuwa indhaha furan, oo hadalka xaq nimada bay baabi'in.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "rashinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qaadamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "rashinnu"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "waxay indhala arko"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "kuwa indhaha furan"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "bay baabi'in"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "xaq nimada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:43.244651331Z",
+  "model": "glm-5.3"
+}

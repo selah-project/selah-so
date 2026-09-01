@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Haddii aan galo khaymada gurigayga, haddii aan fuulo sariirta jiifkeyda —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aan galo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gurigayga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aan fuulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kor u)"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "sariirta"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "jiifkeyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:33.470730262Z",
+  "model": "glm-5.3"
+}

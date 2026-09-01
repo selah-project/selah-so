@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Sujud u samaya Yahweh (xurmadda qadduunka) ka hor; gariira wajigiisa, dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "sujud u samaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "(xurmadda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadduunka)"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gariira"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "wajigiisa ka hor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhulka oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:43.494523270Z",
+  "model": "glm-5.3"
+}

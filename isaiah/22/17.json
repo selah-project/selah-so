@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Bal eeg, Yahweh wuxuu ku tuurayaa tuul tuul (dur dur) — adigoow nin adag — oo wuxuu ku duubaa duubis dhan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "wuxuu ku tuurayaa tuul tuul"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "dur dur (tuulid)"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "adigoow nin adag"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "oo wuxuu ku duubaa"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "duubis dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:40.758839355Z",
+  "model": "glm-5.3"
+}

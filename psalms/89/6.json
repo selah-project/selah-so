@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Samaduna waxay ammaan doonaan la yaabahaaga, Yahweh, iyo ammaankaagaba shirka quduuska ah.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "waxay ammaan doonaan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samaduna"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "la yaabahaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ammaankaagiba"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduuska ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.907097324Z",
+  "model": "glm-5.3"
+}

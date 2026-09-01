@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Kani waa kan siiya baraf sida dun, rooni sida boqollo wuu u fidfiidiyaa.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Kani waa kan siiya"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "baraf"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "sida dun"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "rooni"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "sida boqollo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "wuu u fidfiidiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:23.180618182Z",
+  "model": "glm-5.3"
+}

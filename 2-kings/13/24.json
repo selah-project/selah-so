@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Khazaeliina, boqorkii Aram, wuu dhintay, Bin-Hadadna wiilkiisii baa xilka ka boqorsaday.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "baa boqorsaday"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bin-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "xilka ka (boqorkii hore)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:12.736655343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohimna wuxuu u bixiyay iftiinka Maalim, mugdigana wuxuu u bixiyay Habeen; galab baa noqday, aroor baa noqday — maalin koobaad.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u bixiyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Maalim"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "mugdigana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wuxuu u bixiyay"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Habeen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "baa noqday"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galab"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "baa noqday"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroor"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "koobaad"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:57.751210575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waxay xun tahay indhaha Yahweh waxa uu sameeyay, wuxuuna dhintay isagoo kale ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "waxay xun tahay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuxuuna dhintay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isagoo kale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Oonan)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:32.829306675Z",
+  "model": "glm-5.3"
+}

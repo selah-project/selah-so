@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Aniga waan tiirsanahay oo waan dhimanayaa ilaa awlladay; cabsitaada waan siibay, waan lumsanahay.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "tiirsanahay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "waan dhimanayaa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ilaa awlladay"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "waan siibay"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "cabsitaada"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "waan lumsanahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:11.457387425Z",
+  "model": "glm-5.3"
+}

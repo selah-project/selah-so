@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyana Elohim wuxuu yidhi: Ha noqdo raqiica dhexda biyaha, oo ha noqto mid kala-saaraya u dhexeeya biyo iyo biyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "raqiica"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo ha noqto"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "mid kala-saaraya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "למים",
+      "gloss": "iyo biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:02.465979717Z",
+  "model": "glm-5.3"
+}

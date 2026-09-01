@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Iyo ⟨את⟩ Naftali oo dhan, iyo ⟨את⟩ dhulka Efrawayn iyo Menashshe, iyo ⟨את⟩ dhulka Yahuudah oo dhan ilaa badda dambeysa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Naftali oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka Efrawayn iyo Menashshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrawayn"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "iyo Menashshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka Yahuudah oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "dambeysa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:49.521617080Z",
+  "model": "glm-5.3"
+}

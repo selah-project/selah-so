@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaa David u dhashay wiilal Chevron, wiilkii koowaadna wuxuu ahaa Amnon, oo Ahinoam (Yizre'elita) ay dhashay.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "waxaa u dhashay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "wiilkii koowaadna"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "(Yizre'elita)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:22.119205314Z",
+  "model": "glm-5.3"
+}

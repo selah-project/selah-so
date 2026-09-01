@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Taawiladooda horraantooda ha noqoto fallaadh, uma nabadgelyo ha noqoto tabar.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ha noqoto"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "taawiladooda"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "horraantooda"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "fallaadh"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "uma nabadgelyo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tabar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.001253758Z",
+  "model": "glm-5.3"
+}

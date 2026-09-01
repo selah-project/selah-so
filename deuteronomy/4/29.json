@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo halkaas bay ka doondoon doontaan Yahweh Elohimkiinna, oo waad heli doontaan, markaad dhammaystir dhexdooda u baarbaarto idinkoo dhammaan qalbigiinna iyo dhammaan nafiinna.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "bay ka doondoon doontaan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkiinna"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "waad heli doontaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markaas"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "aad u baarbaarto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigiinna"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:07.010190991Z",
+  "model": "glm-5.3"
+}

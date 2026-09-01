@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Dhulkuna wuu naarsi waayay ⟨את⟩ inay wada degaan in la noolaado wadida, waayo, alaabtoodu waxay ahayd badan, uma suurtogelin inay wada dagaan wadida.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wuu naarsi waayay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "in la noolaado"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wadida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "alaabtoodu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suurtogelin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "inay wada dagaan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wadida"
+    }
+  ],
+  "timestamp": "2026-09-01T08:11:11.616025204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Carruurta Yisra'iil waxay arkayeen ⟨את⟩ wajiga Muuse, in geryaha wajiga Muuse ifayeen, Muusena wuxuu celinayaa ⟨את⟩ masweedka wajigiisa ilaa uu u galo inuu la hadlo ⟨את⟩ Isaga.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "waxay arkayeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiga Muuse"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ifayeen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "geryaha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "wuxuu celinayaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masweedka"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "masweedka"
+    },
+    {
+      "surface": "על",
+      "gloss": "saaraya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uu u galo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inuu la hadlo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isaga",
+      "marks": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:41.449573688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ilaa goormaa Yahweh weydo ii halmaamaysaa, waligeedba? Ilaa goormaad weydo ⟨את⟩ wajigaaga iga qarsoontaa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "waa ii halmaamaysaa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "waligeedba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "waa qarsoonaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:00.047510553Z",
+  "model": "glm-5.3"
+}

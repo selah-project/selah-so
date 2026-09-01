@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ku xir maragga, daabac towraadda xertiisa.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Ku xir"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "maragga"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "daabac"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "towraadda"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "xertiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:14.714712090Z",
+  "model": "glm-5.3"
+}

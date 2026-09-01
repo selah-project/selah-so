@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "I naxariiso, Elohim, waayo nin (enosh) ii shaqaysanayaa, maalinta oo dhan duullaanku wuu ii cedaynayaa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "I naxariiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ii shaqaysanayaa (neef uu ii jiidayo)"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nin (enosh)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duullaanku"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "wuu ii cedaynayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:15.358815756Z",
+  "model": "glm-5.3"
+}

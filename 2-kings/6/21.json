@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Boqorkii Yisra'iil waxuu yidhi Eliishaa markuu arkay ⟨את⟩ iyagii, Aabbe, ma garabaa ma garabaa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxuu yidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(markuu u yidhi)"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliishaa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "markuu arkay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyagii"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ma garabaa"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ma garabaa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Aabbe"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:46.071712084Z",
+  "model": "glm-5.3"
+}

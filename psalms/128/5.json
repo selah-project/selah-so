@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 128,
+  "translation": "Yahweh ha ku barakeeyo Tsiyon ka, oo ⟨adiga⟩ arag wanaagga Yeruushaalaym, inta maalmaha noloshaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ha ku barakeeyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyon ka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo ⟨adiga⟩ arag"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta...oo dhan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "noloshaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:35.732634560Z",
+  "model": "glm-5.3"
+}

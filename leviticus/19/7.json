@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo haddii dhab ahaan la cuno maalinta saddexaad, wax la nacaday baa ⟨weeye⟩, lama aqbalaayo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "dhab ahaan la cuno"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la cuno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "wax la nacaday"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "aqbalaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:57.652180326Z",
+  "model": "glm-5.3"
+}

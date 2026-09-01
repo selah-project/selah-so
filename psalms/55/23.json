@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Ku tuur Yahweh culayskaaga, adigana wuu ku ilaalin doonaa; weligiis ma uu oggolaan doono in shacaigu uu uu hoos u dhaco.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "Ku tuur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "culayskaaga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "wuu ku ilaalin doonaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uu oggolaan doono"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "uu hoos u dhaco"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "shacaiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:21.524348656Z",
+  "model": "glm-5.3"
+}

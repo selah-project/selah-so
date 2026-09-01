@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "⟨את⟩ tukega oo dhan noociisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukega oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tuke"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "noociisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:09.176188617Z",
+  "model": "glm-5.3"
+}

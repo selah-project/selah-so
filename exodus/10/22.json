@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Muuse wuxuu fidiyay gacantiisii ⟨את⟩ samada, waxaana noqday mugdi madow dhammaan dhulka Mitsrayim saddex maalmood.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wuxuu fidiyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantiisii"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisii"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxaana noqday"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "madow"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:43.296977731Z",
+  "model": "glm-5.3"
+}

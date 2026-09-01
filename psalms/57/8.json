@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Qalbigaygu waa diyaaran, Elohim, qalbigaygu waa diyaaran; waan qaadan doonaa, waana ammaan doonaa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "waa diyaaran"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaygu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "waa diyaaran"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaygu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan qaadan doonaa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "waana ammaan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:42.588326560Z",
+  "model": "glm-5.3"
+}

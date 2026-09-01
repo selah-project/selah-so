@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wax kastaa wuxuu leeyahay waqtigii la go'yey, iyo waqtigii raalli-ficil kastaa ⟨ee⟩ hoos taal ⟨samosha⟩.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "wax kastaa"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "waqtigii la go'yey"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "raalli-ficil kastaa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "raalli-ficilka (chefets)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos taal"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samosha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:26.407391778Z",
+  "model": "glm-5.3"
+}

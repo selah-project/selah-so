@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaad joojisay iftiinkiisii, kursigiisiina dhulka ku dhaaftay.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "waad joojisay"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "iftiinkiisii"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "kursigiisiina"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "ku dhaaftay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:51.464302113Z",
+  "model": "glm-5.3"
+}

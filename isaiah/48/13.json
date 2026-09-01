@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 48:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Xataa gacantaydu waxay aasaastay ⟨את⟩ dhulka, oo midigtaydu waxay fidisay ⟨את⟩ samada; aniga baan u dhawaajiyaa, oo iyagoo wada joogayaan way taagan yihiin.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantaydu"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "waxay aasaastay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וימיני",
+      "gloss": "oo midigtaydu"
+    },
+    {
+      "surface": "טפחה",
+      "gloss": "waxay fidisay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "baan u dhawaajiyaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "way taagan yihiin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada joogayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:49.937471244Z",
+  "model": "glm-5.3"
+}

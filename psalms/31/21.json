@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxaad u qarisaa ⟨את⟩ qarsoodi panekaaga, laga yaab sharcarka nin; waxaad ku qarisaa sukkad laga yaab muranka carrabada.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "waxaad u qarisaa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "qarsoodi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "panekaaga"
+    },
+    {
+      "surface": "מרוכסי",
+      "gloss": "sharcarka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "waxaad ku qarisaa"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sukkad"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "muranka"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "carrabada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:29.954299670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Elohim, ha iga fogowyn; Elohimay, u degdeg gargaarkaygii.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "iga fogowyn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaarkaygii u"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "u degdeg"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:39.193961814Z",
+  "model": "glm-5.3"
+}

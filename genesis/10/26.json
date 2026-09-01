@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo Yoktaan waxuu dhalay ⟨את⟩ Almodad, iyo ⟨את⟩ Shelef, iyo ⟨את⟩ Chatsarmawet, iyo ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Oo Yoktaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "waxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chatsarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:29.731545301Z",
+  "model": "glm-5.3"
+}

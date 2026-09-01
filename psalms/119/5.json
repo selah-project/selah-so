@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Haddii durba dariiqoyinkaygu si wanaagsan loo socodsiiyo inaan ilaaliyo xeerarkaaguu ahaan lahaa!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "haddii durba...ahaan lahaa (waxaan doonayaa in)"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "si wanaagsan loo socodsiiyo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dariiqoyinkaygu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "inaan ilaaliyo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.064125068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kolkaas dhulka oo dhan wuxuu ahaa af keli ah, iyo ereyo kal ah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "af"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "iyo ereyo"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "kal ah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:20.876453111Z",
+  "model": "glm-5.3"
+}

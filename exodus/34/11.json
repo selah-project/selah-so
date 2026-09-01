@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ilaali adiga waxa aan kugu amro maanta; bal waa aniga oo ka saaraya wajigaaga ⟨את⟩ Emoriga iyo Kenaaniga iyo Xetiga iyo Perisiga iyo Xiwiga iyo Yebusiga.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan kugu amro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kugu amro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal waa aniga"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "saaraya"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "wajigaaga ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriga"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriga"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "iyo Kenaaniga"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "iyo Xetiga"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iyo Perisiga"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "iyo Xiwiga"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "iyo Yebusiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:22.712533613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "⟨את⟩ qoraxda si ay u xukumaan maalinta, waayo, ilaa weligii waa uu jiraa khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoraxda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "si ay u xukumaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligii"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:53.285223832Z",
+  "model": "glm-5.3"
+}

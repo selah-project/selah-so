@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 5:29",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaa jira garaac ugu dhawaan sida libaax, iyo garaac sida ilmo-libaaxa; way buuqaan, way qabsadaan lagii (prey), way dhaafi la baxsadaan, oo cidina lama badbaadin.",
+  "tokens": [
+    {
+      "surface": "שאגה",
+      "gloss": "garaac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ugu dhawaan"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "sida libaax"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "iyo garaac"
+    },
+    {
+      "surface": "ככפירים",
+      "gloss": "sida ilmo-libaaxa"
+    },
+    {
+      "surface": "וינהם",
+      "gloss": "way buuqaan"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "way qabsadaan"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "lagii (prey)"
+    },
+    {
+      "surface": "ויפליט",
+      "gloss": "way dhaafi la baxsadaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo cidina"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "lama badbaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:03.757820564Z",
+  "model": "glm-5.3"
+}

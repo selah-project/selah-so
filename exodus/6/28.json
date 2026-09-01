@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxay dhacday ⟨maalgacmeedkii⟩ maalintii Yahweh Muuse kula hadlay dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waxay dhacday"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:40.300185776Z",
+  "model": "glm-5.3"
+}

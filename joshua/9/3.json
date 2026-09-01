@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Laakiin kuwa degnaa Giibcoon waxay maqleen ⟨את⟩ waxa Yehooshuuca ku sameeyay Yeriixo iyo ⟨את⟩ Cey.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "laakiin kuwa degnaa"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giibcoon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "waxay maqleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ku sameeyay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yeriixo"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "iyo Cey"
+    }
+  ],
+  "timestamp": "2026-09-01T02:21:45.821612791Z",
+  "model": "glm-5.3"
+}

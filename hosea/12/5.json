@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuuna la jaadalyay malaggii, wuuna adkaanay; wuu ooyay, wuuna u baryay; Beyth-El wuu ka helay, halkaasuu nagula hadlay.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "wuuna la jaadalyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaggii"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "wuuna adkaanay"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wuu ooyay"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "wuuna u baryay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyth-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "wuu ka helay"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "halkaasuu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nagula hadlay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nala"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:57.419718776Z",
+  "model": "glm-5.3"
+}

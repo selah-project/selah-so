@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wax kastoon sanafir iyo qashqashad lahayn biyaha — sheqets (wax la naco) bay idiin tahay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wax kastoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "lahayn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sanafir"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "iyo qashqashad"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheqets"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:12.621508979Z",
+  "model": "glm-5.3"
+}

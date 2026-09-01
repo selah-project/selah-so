@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Yahweh wuu ku taageerayaa sariirta bukaanka; sariirtiisa dhammi wuu ku beddelaa jirradiisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "wuu ku taageerayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "sariirta"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "bukaanka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammi"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "sariirtiisa"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "wuu ku beddelaa"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "jirradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:42.093688763Z",
+  "model": "glm-5.3"
+}

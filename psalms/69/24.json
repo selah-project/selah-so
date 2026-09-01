@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Indhahooda ha madowdaan inay arag waayeen, dhabarkoodana had iyo jeer ha cagajarmayaan.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ha madowdaan"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "indhahooda"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "inay arag waayeen"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "dhabarkoodana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "ha cagajarmayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.002046244Z",
+  "model": "glm-5.3"
+}

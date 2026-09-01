@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waad jajjin doontaa iyagoon ⟨gebi⟩ ah shabac bir ah; sida dhismaha dhoobale aad u jajjin doontaa.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "Waad jajjin doontaa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "shabac"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bir ah"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "sida dhismaha"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "dhoobale"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "u jajjin doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:08.113377771Z",
+  "model": "glm-5.3"
+}

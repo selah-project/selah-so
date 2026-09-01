@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Markaasa Ravshaaqeh wuu laabtay, wuuna helay ⟨את⟩ boqorka Ashuur oo dagaallamaya Libnah, waayo wuu maqay inuu ka tegey Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuu laabtay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ravshaaqeh"
+    },
+    {
+      "surface": "שקה",
+      "gloss": ""
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "wuuna helay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka Ashuur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "dagaallamaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inuu"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ka tegey"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakish"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:19.548227754Z",
+  "model": "glm-5.3"
+}

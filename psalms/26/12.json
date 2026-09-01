@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Cagaydu waxay taagan tahay meel siman; guryaha shirarka ayaan ammaanayaa Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "cagaydu"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "waxay taagan tahay"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "meel siman"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "guryaha shirarka"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ayaan ammaanayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:08.426010468Z",
+  "model": "glm-5.3"
+}

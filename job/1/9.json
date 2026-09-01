@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu jawaabay Satan ⟨את⟩ Yahweh, oo wuxuu yidhi: Miyuu Ayyuub bilaash u cabsaday Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Wuxuu jawaabay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "bilaash"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "u cabsaday"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:43.038353668Z",
+  "model": "glm-5.3"
+}

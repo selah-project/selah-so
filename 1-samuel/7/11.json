@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxayna baxeen Ninankii Israaiil Mitzpah, waxayna raaceen ⟨את⟩ Filistiinta, waxayna dhibaateen ilaa hoos Bayt-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Waxayna baxeen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Ninankii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Mitzpah (ka)"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "waxayna raaceen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinta"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "waxayna dhibaateen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bayt-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:26.899985523Z",
+  "model": "glm-5.3"
+}

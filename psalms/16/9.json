@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Sidaas darteed wadaydu way faraxday, oo ammaantaydu way rayso; xataa jirkeyguna ammiin buu ku deggan yahay.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sidaas darteed"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "way faraxday"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadaydu"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "oo way rayso"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ammaantaydu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "jirkeyguna"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "buu ku deggan yahay"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ammiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:16.260860255Z",
+  "model": "glm-5.3"
+}

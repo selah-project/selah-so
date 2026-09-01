@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Waayo, cadowgii wuu raacay naftayda; wuu gilgilay dhulka noloshayda; wuu ii dhigay inaan ku noolaado ⟨meelaha mugga ah⟩, sida dhimatanadii waaweynaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "wuu raacay"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowgii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "wuu gilgilay"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "noloshayda"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "wuu ii dhigay inaan ku noolaado"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "meelaha mugga ah"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "sida dhimatanadii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waaweynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:43.550333489Z",
+  "model": "glm-5.3"
+}

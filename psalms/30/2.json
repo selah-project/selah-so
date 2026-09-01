@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waan ku sareynayaa, Yahweh, waayo waxaad ii soo dhiibtay ⟨dellitay⟩, oo uma reejisay cadowdayday.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Waan ku sareynayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "waxaad ii soo dhiibtay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo uma"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "reejisay"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:39.483133652Z",
+  "model": "glm-5.3"
+}

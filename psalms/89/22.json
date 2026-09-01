@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Gacantaydu way ⟨taagan tahay⟩ la kiisa, cubbahaygunase way adkeesaysaa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "la kiisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Gacantaydu"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "way ⟨taagan tahay⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nase"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "cubbahayguna"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "way adkeesaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:47.551530653Z",
+  "model": "glm-5.3"
+}

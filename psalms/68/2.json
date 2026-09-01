@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Elohim ha kaca; cadowyiisa ha la firdhiye; oo kuwa necebayaa ha ka cararaan wajigiisa.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ha kaca"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ha la firdhiye"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "cadowyiisa"
+    },
+    {
+      "surface": "וליוסו",
+      "gloss": "ha ka cararaan"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "kuwa necebayaa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "wajigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:55.597289070Z",
+  "model": "glm-5.3"
+}

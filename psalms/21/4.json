@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waayo, ducooyin wanaagsan baad hor mariyeysaa, oo taaj dahab nadiif ah baad madaxiisa saartay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "baad hor mariyeysaa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ducooyin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "baad saartay"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taaj"
+    },
+    {
+      "surface": "פז",
+      "gloss": "dahab nadiif ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:39.504411014Z",
+  "model": "glm-5.3"
+}

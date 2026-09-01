@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 14:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yoonatan wuxuu ku soo jiiday gacmihiisa iyo lugahiisa, kan qaadanaya qalabkiisana gadaashiis; oo waxay ku dhaceen hor Yoonatan, kan qaadanaya qalabkiisana wuxuu ka gadaal diley.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu ku soo jiiday"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yoonatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lugahiisa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kan qaadanaya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "gadaashiis"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "waxay ku dhaceen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yoonatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kan qaadanaya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "ממותת",
+      "gloss": "wuxuu ka gadaal diley"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "gadaashiis"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:06.842496251Z",
+  "model": "glm-5.3"
+}

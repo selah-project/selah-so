@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Aniguna khesedkaaga waan kuu hawl-yahay, qalbigaygu wuu farxin doonaa badbaadadaada, waxaan la heesayaa Yahweh, waayo wuu ii saamax-yahay",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "waan kuu hawl-yahay"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "wuu farxin doonaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigaygu"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "badbaadadaada"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waxaan la heesayaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "wuu ii saamax-yahay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:21.515224934Z",
+  "model": "glm-5.3"
+}

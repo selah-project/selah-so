@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Yahweh wuxuu dhisaa Yeruushaalayim; kuwa la tiriyay (ee Israa'iil) wuu ku soo aruuriyaa.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "wuxuu dhisaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym — Yeruushaalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "kuwa la tiriyay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "wuu ku soo aruuriyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.900596834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuuse Abram yidhi: Bal eeg, farac ilamaad i siin, oo bal eeg, mid ka mid ah beydkayga baa ⟨את⟩ aniga dhaxlaya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuse yidhi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "siin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farac"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal eeg"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mid ka mid ah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "beydkayga"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "dhaxlaya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:52.997601989Z",
+  "model": "glm-5.3"
+}

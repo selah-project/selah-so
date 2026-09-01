@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Boqorkana wuxuu u dhaafay Ester ⟨את⟩ ulaha dahabka ah; Esterna waxay taagtay, waxayna istaagtay hortaga boqorka.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "wuxuu u dhaafay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorkana"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulaha"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ulaha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "waxay taagtay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterna"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "waxayna istaagtay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:58.631018738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Nin ha qaadin ⟨את⟩ naagta aabbihii, hana dhaarin baalka aabbihii (foobar sharciga).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha (diidmo)"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "qaadin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagta aabbihii"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hana (oo ha)"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "dhaarin"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "baalka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:28.938410633Z",
+  "model": "glm-5.3"
+}

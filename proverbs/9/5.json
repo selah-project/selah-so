@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Kaalaya, cuna ⟨את⟩ kibistaan, oo kabbada khamriga aan qasay.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "cuna"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "kibistaan"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "oo kabbada"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "khamriga"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "aan qasay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:30.631134759Z",
+  "model": "glm-5.3"
+}

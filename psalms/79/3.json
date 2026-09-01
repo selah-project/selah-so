@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Waxay daadeen dhiigooda sidii biyo ku wareegsan Yeruushaalaym, oo ma jiro mid ku aasaya.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "waxay daadeen"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dhiigooda"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sidii biyo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ku wareegsan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ma jiro"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "mid ku aasaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:58.712273207Z",
+  "model": "glm-5.3"
+}

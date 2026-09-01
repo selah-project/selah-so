@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Islaamiil oo dhan iyo Yahuudahna waxay jecelyihiin ⟨את⟩ Daawud, waayo isagu wuu baxaa wuu galaa hortooda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Islaamiil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iyo Yahuudahna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "waxay jecelyihiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "wuu baxaa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wuu galaa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "hortooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:27.094077231Z",
+  "model": "glm-5.3"
+}

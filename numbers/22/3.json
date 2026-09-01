@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuuna Mo'aab ka cabsaday dadka aad u weynaa, waayo, wuxuu ahaa tiro badan; wuxuuna Mo'aab ka walwalsan baraaruga ilmaha Israa'iil darteed.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "wuxuuna ka cabsaday"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka (wajiga)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u weynaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tiro badan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "wuxuuna ka walwalsan baraarugay"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka (wajiga)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:23.970307674Z",
+  "model": "glm-5.3"
+}

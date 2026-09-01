@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu yidhi ilay: Wiilka aadanaha, ereyadeyga oo dhan oo aan kuugu hadlayo ku qaad ⟨את⟩ qalbigaaga, oo dhegahaaga maqal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Wiilka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadeyga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyadeyga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "aan kuugu hadlayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": ""
+    },
+    {
+      "surface": "קח",
+      "gloss": "ku qaad"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "oo dhegahaaga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    }
+  ],
+  "timestamp": "2026-09-01T07:21:49.185804756Z",
+  "model": "glm-5.3"
+}

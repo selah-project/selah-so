@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Waxay dhisan doonaan barbaaradiii waaweynaa ee la gubay, meelaha bannaanaa ee hore way taagi doonaan, waxayna cusboonaysiin doonaan magaalooyinka engeggan, meelaha bannaan ee qarni iyo qarni.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "waxay dhisan doonaan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "barbaaradiii la gubay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waaweynaa"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "meelaha bannaanaa"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ee hore"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "way taagi doonaan"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "waxayna cusboonaysiin doonaan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ennegga"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "meelaha bannaan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "qarni"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo qarni"
+    }
+  ],
+  "timestamp": "2026-09-01T03:58:20.957761214Z",
+  "model": "glm-5.3"
+}

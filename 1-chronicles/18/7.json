@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Dawidna wuxuu qaatay ⟨את⟩ gaashaanada dahabka ah ee ku sugnaa addoomaha Hadadeser, wuxuuna keenay Yeruushaalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaashaanada dahabka ah"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "gaashaanada"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ku sugnaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoomaha"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadeser"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:18.342252187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Aniga waan aqaanay ⟨את⟩waaga bahalaya ah, dulkii engegga aan biyo laheyn.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "waan aqaanay"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "waaga bahalaya ah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dulkii"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "engegga aan biyo laheyn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:25.501160593Z",
+  "model": "glm-5.3"
+}

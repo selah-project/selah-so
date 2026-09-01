@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Kun sano (1,200) oo laba boqol oo gaari-cayaal ah, lixdan kun (60,000) oo fardooliye ah, qoomkuna tirada looma hayn kuwa la yimid oo keliya la yimid Mitsrayim — Luubiyiin, Sukkiyiin iyo Kuushiyiin.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "iyo laba boqol"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "gaari-cayaal"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "iyo lixdan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "fardooliye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tiro"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qoomka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "la yimid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Luubiyiin"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukkiyiin"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "iyo Kuushiyiin"
+    }
+  ],
+  "timestamp": "2026-09-01T08:43:33.950552040Z",
+  "model": "glm-5.3"
+}

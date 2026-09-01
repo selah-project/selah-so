@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Sharigu waa ku noqonaysa cadowdayda; runtaada ku baabi'i iyaga.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "waa ku noqonaysa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharigu"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "runtaada"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ku baabi'i iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:03.476286031Z",
+  "model": "glm-5.3"
+}

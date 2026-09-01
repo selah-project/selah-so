@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waana ⟨את⟩ idinku socoday afartan sano mindicirka; dharkiinni kama daalan idinka, kabahaagana kama daalan cagtaada.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "waana idinku socoday"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "adiga (idinkoo)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mindicirka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "daalan"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "dharkiinni"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "kabahaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "daalan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "cagtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:56.064618538Z",
+  "model": "glm-5.3"
+}

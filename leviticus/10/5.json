@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Way soo dhoweesteen, waxayna qaadeen iyagoo wata kutnadooda (dharkoodii), ilaa bannaanka xerada, sida Muuse ku odhan jiray.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Way soo dhoweesteen"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "waxayna qaadeen"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "kutnadooda (dharkoodii) dhexdooda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "xerada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu ku odhan jiray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:29.939396783Z",
+  "model": "glm-5.3"
+}

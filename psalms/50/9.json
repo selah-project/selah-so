@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Baqayl ka qaadi maayo gurigaag, riyo xayndaabahaaga ma qaadi karo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "qaadi"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "gurigaag ka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baqayl"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "xayndaabahaaga ka"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "riyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:37.513677149Z",
+  "model": "glm-5.3"
+}

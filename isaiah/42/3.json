@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Qasab la dumay ma jabinayo, nafta la mirdid lana ma daminayo; runtiisa ayuu xukun soo bixinayaa.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "qasab"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "la dumay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "jabinayo"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "nafta (laydhka)"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "la mirdid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lana ma"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "daminayo"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "runtiisa"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ayuu soo bixinayaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:55.098711111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waannan ka jawaabay, waxaannan idhi malag'gii ii hadlayay, Waxay ku yidhi, Maxay yihiin kuwan, Adonay?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "waannan ka jawaabay"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "waxaannan idhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malag'gii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ii hadlayay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "waxay ku yidhi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:29.579979568Z",
+  "model": "glm-5.3"
+}

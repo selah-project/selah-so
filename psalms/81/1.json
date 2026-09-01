@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Hagaha (muusigga) wuxuu leeyahay — isticmaalka 'al-hagith' — Asaph.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha (muusigga) wuxuu leeyahay"
+    },
+    {
+      "surface": "על",
+      "gloss": "isticmaalka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "'al-hagith' (qalabka Gath)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaph"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:42.884587832Z",
+  "model": "glm-5.3"
+}

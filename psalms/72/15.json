@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Oo wuu noolaan doonaa, oo dahabka Sheba waxaa la siin doonaa, oo waqtiga oo dhan waa loo bici doonaa, maalintii oo dhan lay barakoosan doonaa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "oo wuu noolaan doonaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waxaa la siin doonaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lagu siin"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "waa loo bici doonaa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "waqtiga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "lay barakoosan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.421060797Z",
+  "model": "glm-5.3"
+}

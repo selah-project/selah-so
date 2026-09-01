@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Wuxuuna ku yidhi: Ma taqaaniin ⟨את⟩ Laabaan inka Naxor? Waxayna yidhaahdeen: Waannu naqaannaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ma taqaaniin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laabaan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laabaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhaahdeen"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "waannu naqaannaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:34.872550300Z",
+  "model": "glm-5.3"
+}

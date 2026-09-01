@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "In kastoo ay koriyaan ⟨את⟩ carruurtooda, waan carrabayaa ilaa aan dad ka dhigin; waayo, weliba how baa u taal markaan ka tegeyso iyaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "in kastoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "koriyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carruurtooda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "carruurtooda"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "waan carrabayaa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kaan dad ka dhigin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "weliba"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "how baa u taal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "markaan ka tegeyso"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:47.341088254Z",
+  "model": "glm-5.3"
+}

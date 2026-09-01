@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 13:13",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaadna ku odhan doontaa: Sidaas ayuu Yahweh odhanayaa: Bal waa anigoo buuxinaya ⟨את⟩ dhammaan dadka deggan dhulkan, iyo ⟨את⟩ boqorada fadhida kursiga Daawud, iyo ⟨את⟩ saa'idiinta, iyo ⟨את⟩ nebiyada, iyo ⟨את⟩ dhammaan dadka deggan Yeruushaalaym — sakhraan.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Waxaadna ku odhan doontaa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu odhanayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bal waa anigoo"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "buuxinaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan dadka deggan dhulkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dadka deggan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "boqorada"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqorada"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "fadhiistayaasha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "על",
+      "gloss": "kursiga"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursigiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saa'idiinta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "saa'idiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "nebiyada"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan dadka deggan Yeruushaalaym"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dadka deggan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "שכרון",
+      "gloss": "sakhraan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:19:03.100003494Z",
+  "model": "glm-5.3"
+}

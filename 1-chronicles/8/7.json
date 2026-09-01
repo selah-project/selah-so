@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "iyo Na'aaman, iyo Axiyah, iyo Geeraa — ⟨isagoo⟩ hoggaaminayay gidiggii — wuxuuna dhalay ⟨את⟩ Uuzzaa iyo ⟨את⟩ Axiixud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "iyo Na'aaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "iyo Axiyah"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "iyo Geeraa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨isagoo⟩"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "hoggaaminayay gidiggii"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuzzaa"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uuzzaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Axiixud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Axiixud"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:30.334202478Z",
+  "model": "glm-5.3"
+}

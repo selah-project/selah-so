@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Badbaado waa fog dahriibiyada, waayo xeerarkaaga ma raadin.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "fog"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dahriibiyada"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "raadin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:43.873531780Z",
+  "model": "glm-5.3"
+}

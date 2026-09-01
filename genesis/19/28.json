@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 19:28",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuxuu fiiriyay wejiga Sodom iyo Gomora iyo wejiga dhulkii bannaankii oo dhan, wuuna arkay, bal eeg, qiiqii dhulka baa kor u kacay sida qiiqii tanuuladda.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "Wuxuu fiiriyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "iyo Gomora"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "bannaankii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuuna arkay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kor u kacay"
+    },
+    {
+      "surface": "קיטר",
+      "gloss": "qiiqii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כקיטר",
+      "gloss": "sida qiiqii"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tanuuladda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:02.667297222Z",
+  "model": "glm-5.3"
+}

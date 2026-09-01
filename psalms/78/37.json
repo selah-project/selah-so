@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wadnahooduna kuma aan toosanayn ⟨Isaga⟩, oo kuma aan aaminsanayn ballankiisa.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "wadnahooduna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma aan"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "toosanayn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨Isaga⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo kuma aan"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "aaminsanayn"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ballankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:51.960627038Z",
+  "model": "glm-5.3"
+}

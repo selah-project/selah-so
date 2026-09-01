@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo, marka saldhiggyada la burburiyo, khayrku wuxuu sameeyee maxay tahay?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "saldhiggyada"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "la burburiyo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "khayrku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sameeyee tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:10.935017438Z",
+  "model": "glm-5.3"
+}

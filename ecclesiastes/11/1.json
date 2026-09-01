@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Diro khudaartadaada ⟨⟨את⟩⟩ sifo biyaha bartamaha, maadaama maalmo badan ka dib aad ka heli doontaa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Diro"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "khiidaadaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sifo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bartamaha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "aad ka heli doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:48.201862753Z",
+  "model": "glm-5.3"
+}

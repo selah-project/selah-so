@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuuna la noqday, wuuna cunay rooti gurigiisa, wuuna cabay biyo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wuuna la noqday"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "wuuna cunay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "wuuna cabay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:44.167594265Z",
+  "model": "glm-5.3"
+}

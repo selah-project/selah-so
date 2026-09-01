@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 126,
+  "translation": "Markaasay afkayagu qosol ku buuxsantahay, carrabkanayanna qaylo farxad; markaasay umadaha dheceen: Yahweh wuxuu weyneeyay inuu kuwan la sameeyo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "markaasay"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ku buuxsantahay"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "qosol"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "afkayagu"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "carrabkanayanna"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qaylo farxad"
+    },
+    {
+      "surface": "אז",
+      "gloss": "markaasay"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dheceen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "umadaha"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "wuxuu weyneeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu sameeyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:21.072292708Z",
+  "model": "glm-5.3"
+}

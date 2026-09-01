@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Hadhyada Yuudah iyo Yeruushaalaym waxay ku raalli noqon doontaa Yahweh, sida maalmii qadimi ah iyo sida sanadihii hore.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "waxay ku raalli noqon doontaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Hadhyada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "iyo Yeruushaalaym"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadimi ah"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "iyo sida sanadihii"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "hore"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:49.885085563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "(Waxa) cadowyaashaagu kugu candhuufay, Yahweh; (waxa) ay ku candhuufay tallaabooyinka Masiixkaaga.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "(waxa)"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "kugu candhuufay"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "cadowyaashaagu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waxa)"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ay ku candhuufay"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "tallaabooyinka"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Masiixkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:33.741158834Z",
+  "model": "glm-5.3"
+}

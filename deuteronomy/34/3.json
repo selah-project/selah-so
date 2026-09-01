@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Iyo ⟨את⟩ Koonfurta, iyo ⟨את⟩ baaxadda — iyo webi-bannaanka Yerixo, magaalada timirta — ilaa Tso'ar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Koonfurta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Koonfurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baaxadda"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "baaxadda"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "webi-bannaanka"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "timirta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tso'ar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:49.521783526Z",
+  "model": "glm-5.3"
+}

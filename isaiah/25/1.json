@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yahweh, Elohimaygu, adiga ⟨aad⟩ tahay; waan koryeelayaa, waan ku mahadnaqayaa magacaaga, waayo waxa la yaab leh baad sameysay; talooyin (wakhti) fog, iimaan run ah, run dhab ah (Amiin).",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimaygu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "waan koryeelayaa"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "waan ku mahadnaqayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "baad sameysay"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "waxa la yaab leh"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "talooyin"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "(wakhti) fog"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "iimaan run ah"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "run dhab ah (Amiin)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:27.307668394Z",
+  "model": "glm-5.3"
+}

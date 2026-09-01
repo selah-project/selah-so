@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Iyo ⟨את⟩ hey' goodarkooda oo dhan, iyo ⟨את⟩ carruurtooda oo dhan, iyo ⟨את⟩ haweenkooda way qafaasheen, waxayna dhaceen, iyo ⟨את⟩ waxa guriga ku jira oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hey' goodarkooda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hey' goodarkooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "carruurtooda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "carruurtooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "haweenkooda"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "haweenkooda"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "way qafaasheen"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "waxayna dhaceen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa guriga ku jira oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga ku jira"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:33.805979571Z",
+  "model": "glm-5.3"
+}

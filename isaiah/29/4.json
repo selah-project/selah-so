@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaa lagu dhigi doonaa hoos, dhulka ayaad ka hadlaysaa, oo boqorta ayaad hadalkaaga ka dhigaysaa hoos, codkaaguna wuxuu noqon doonaa sidii ⟨oo⟩ ka dhulka, boqortana erayadaaga wuxuu ka fish-fishayaa.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "Waxaa lagu dhigi doonaa hoos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "ayaad ka hadlaysaa"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "boqorta"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "ayaad ka dhigaysaa hoos"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "sidii ⟨oo⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dhulka"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "codkaaguna"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "boqortana"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "erayadaaga"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "wuxuu ka fish-fishayaa (shimbir-tuur)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:16.321453133Z",
+  "model": "glm-5.3"
+}

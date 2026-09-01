@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maxaad ku garaacaan dheeraad ah u baahan tihiin? Waxaad ku kordhaysaan jeesadda! Madaxa oo dhan waa bukaa, qalbiga oo dhan waa daciif.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "lagu garaaco"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeraad ah"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "waxaad ku kordhaysaan"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "jeesadda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "waa bukaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "waa daciif"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:03.916545264Z",
+  "model": "glm-5.3"
+}

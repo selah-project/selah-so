@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Haddaba kaalay, waan ku dirayaa Farcoon, adigoo keena ⟨את⟩ qolkayga, ubadka Israa'iil, ka mid ah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kaalay"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "waan ku dirayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "adigoo keena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qolkayga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkayga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ka mid ah Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:01.538423214Z",
+  "model": "glm-5.3"
+}

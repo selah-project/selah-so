@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Kuwanna waa ka baxeen magaalada — wiilashii boqoradii gobolada — iyo ciidankii ka dambeeyay.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuwanna"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "waa ka baxeen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "gobolada"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "iyo ciidankii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka dambeeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:39.092461083Z",
+  "model": "glm-5.3"
+}

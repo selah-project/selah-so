@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxay ku lahaayeen dhaxaltooda Beer-Sheba, iyo Sheba, iyo Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay ku lahaayeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ayaga"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "dhaxaltooda"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "iyo Sheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "iyo Moladah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:25:35.144877866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxay dhigaan ⟨את⟩ iyada iyo ⟨את⟩ dhammaan qalabkeeda gudaha dabool maqaar takhash ah, waxayna dhigaan bartan.",
+  "tokens": [
+    {
+      "surface": "וְנָתְנוּ",
+      "gloss": "waxay dhigaan"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (shara — miiska)"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "dhammaan qalabkeeda"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "כֵּלֶיהָ",
+      "gloss": "qalabkeeda"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "מִכְסֵה",
+      "gloss": "dabool"
+    },
+    {
+      "surface": "עוֹר",
+      "gloss": "maqaar"
+    },
+    {
+      "surface": "תָּחַשׁ",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "וְנָתְנוּ",
+      "gloss": "waxayna dhigaan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": ""
+    },
+    {
+      "surface": "הַמּוֹט",
+      "gloss": "bartan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:17:00.144346210Z",
+  "model": "glm-5.3"
+}

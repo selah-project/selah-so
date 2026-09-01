@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Waayo, wuu badbaadin doonaa baaḥiga qaylo-dhaqanka, iyo kan tabarta la', kana caawimaad lahayn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "wuu badbaadin doonaa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "baaḥiga"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "qaylo-dhaqanka"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "iyo kan tabarta la'"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kana...lahayn"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "caawimaad"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.168041888Z",
+  "model": "glm-5.3"
+}

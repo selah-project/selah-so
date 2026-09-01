@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Cadowdayda waxay i odhan xume: Goormay u dhimanayaa, iyo magiciisu baabbi'aysaa?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Cadowdayda"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waxay odhan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xume"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Goormay"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "u dhimanayaa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "iyo ... baabbi'aysaa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.105958898Z",
+  "model": "glm-5.3"
+}

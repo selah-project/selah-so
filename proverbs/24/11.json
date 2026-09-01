@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Badbaadi kuwa loo qaatay dhimashada, iyo kuwa u socda la-dhigtaka, haddii aad joojiso.",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "badbaadi"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "kuwa loo qaatay"
+    },
+    {
+      "surface": "למות",
+      "gloss": "dhimashada"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "iyo kuwa u socda (dhaca)"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "la-dhigtaka (dilka)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "aad joojiso (aad diido)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:05.795359231Z",
+  "model": "glm-5.3"
+}

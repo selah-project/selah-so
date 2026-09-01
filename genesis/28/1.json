@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ishaqna wuxuu u yeeray Yacquub, wuxuuna duceeyay ⟨את⟩ isaga, wuxuuna amray, wuxuuna ku yidhi: ha guursan naag ka mid ah gabdhaha Kanaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeeray"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ishaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuuna duceeyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Yacquub)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "wuxuuna amray"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "guursan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "gabdhaha ka mid ah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:30.528157516Z",
+  "model": "glm-5.3"
+}

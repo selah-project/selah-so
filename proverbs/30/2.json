@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waar, aniga waxaan ka daalimsanahay nin kasta, oo fahamka aadanaha uma laha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waar"
+    },
+    {
+      "surface": "בער",
+      "gloss": "daalimsanahay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "fahamka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laha (iiga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:44.528929347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waayo waxaa jira ereyo badan oo kordhiya hebel; maxay faa'iido u tahay Aadam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "kordhiya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "faa'iido"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Aadam"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:26.295020912Z",
+  "model": "glm-5.3"
+}

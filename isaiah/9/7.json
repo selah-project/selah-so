@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Erey ayuu Adonay u soo diray Yaquub gudaheeda, waxayna ku dhacday Israa'iil.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Erey"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ayuu soo diray"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaquub gudaheeda"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "waxayna ku dhacday"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:47.395534582Z",
+  "model": "glm-5.3"
+}

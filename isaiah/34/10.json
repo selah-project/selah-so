@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Habeen iyo maalinba lama damin doono, waqti dheer un bay u soo baxaan saababkeedii; jiil ilaa jiil bay enegi doontaa, weligeed weligeedba ma jiro ruux guda mara.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "habeen"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "iyo maalinba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "damin doono"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waqti dheer un"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bay u soo baxaan"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "saababkeedii"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ilaa jiil"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "bay enegi doontaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligii"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "weligeedba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ruux guda mara"
+    },
+    {
+      "surface": "בה",
+      "gloss": "keeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:18.425129486Z",
+  "model": "glm-5.3"
+}

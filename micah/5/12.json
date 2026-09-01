@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 5:12",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Sanamyadiinnii iyo tiirarkiinnii dhexdoodinna waan goyn doonaa, shuqulkii gacmihiinnana mar dambe kuma sujuudaysid.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "waan goyn doonaa"
+    },
+    {
+      "surface": "פסיליך",
+      "gloss": "sanamyadiinnii"
+    },
+    {
+      "surface": "ומצבותיך",
+      "gloss": "iyo tiirarkiinnii"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dhexdoodinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sujuudaysid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacmihiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:31.703721191Z",
+  "model": "glm-5.3"
+}

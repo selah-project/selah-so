@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maqla ereyga Yahweh, madaxda Sodom; dhegeysta Towraadda Elohim-keenna, shacabka Gomorra.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "dhegeysta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Towraadda"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorra"
+    }
+  ],
+  "timestamp": "2026-09-01T03:36:15.669751021Z",
+  "model": "glm-5.3"
+}

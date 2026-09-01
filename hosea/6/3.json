@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo aannu garan doonaa, aannu dadaalno inaan garanno ⟨את⟩ Yahweh; sida barquuqi oo socodka si diiran ah ugu baxo, oo wuu in yimi doonaa sida roobka, sida malqac-da roobka dhulka dhergiddu.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Oo aannu garan doonaa"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "aannu dadaalno"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "inaan garanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "sida barquuqi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "si diiran ah"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "socodkiisu ugu baxo"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "oo wuu in yimi doonaa"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "sida roobka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "in"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "sida malqac-da"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "roobka dhergiddu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:28.725137067Z",
+  "model": "glm-5.3"
+}

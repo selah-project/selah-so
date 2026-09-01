@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 67,
+  "translation": "Elohim waa inuu na barakeeyaa, oo dhulka dhamaadkiisu way ka cabsan doonaan ⟨את⟩ Isaga.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "waa inuu na barakeeyaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "oo way ka cabsan doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Isaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "dhamaadkiisu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:32.983352095Z",
+  "model": "glm-5.3"
+}

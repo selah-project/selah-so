@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Cunni iyo Moabi ma galaan jamaacadda Yahweh; ilmo tobnaadna ma gelayso jamaacadda Yahweh, illaa iyo abidda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "galaan"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "Cunni (Ammoni)"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "iyo Moabi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamaacadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "(xataa)"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ilmo\/tumed"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "tobnaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "gelayso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamaacadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iyo abidda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:28.939128803Z",
+  "model": "glm-5.3"
+}

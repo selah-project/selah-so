@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laguma soo galaan inay arkaan ⟨את⟩ qiddinka waqti la dhuuqayno, waayey dhintaan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laguma (maya)"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "soo galaan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inay arkaan"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "waqti la dhuuqayno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiddinka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qiddinka"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "waayey dhintaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:40.082548319Z",
+  "model": "glm-5.3"
+}

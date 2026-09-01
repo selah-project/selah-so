@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Waayo, agtaada ⟨waxaa jira⟩ dhaafid, si aad u cabsato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agtaada"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "dhaafid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "aad u cabsato"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:54.310190480Z",
+  "model": "glm-5.3"
+}

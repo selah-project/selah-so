@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Hadda waxaad qaad qalabkaaga, gobolkaaga iyo qaansadaada, oo bax ⟨beeriga⟩, oo ii ugaadso cunto ugaadh ah.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "שא",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waa layeeliyaa"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "qalabkaaga"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "gobolkaaga"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "qaansadaada"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "oo bax"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨beeriga⟩"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "oo ugaadso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "cunto ugaadh ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:07.694700875Z",
+  "model": "glm-5.3"
+}

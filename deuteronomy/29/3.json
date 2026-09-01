@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "laakiin Yahweh idinkuma siin qalbi ogaansho, iyo indho arag, iyo dhego maqal, ilaa maantadan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ogaansho"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "iyo indho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arag"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "iyo dhego"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kayan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:56.064463338Z",
+  "model": "glm-5.3"
+}

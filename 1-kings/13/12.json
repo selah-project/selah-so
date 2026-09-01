@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Aabbahoodna wuxuu ku yidhi: halkee jidad this uu socday? Wiilashiisiina way arkeen ⟨את⟩ jiddada uu ninkii Elohim socday, kan ka yimid Yahuudah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "→"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "Aabbahoodna"
+    },
+    {
+      "surface": "אי",
+      "gloss": "halkee"
+    },
+    {
+      "surface": "זה",
+      "gloss": "this"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jidad"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "uu socday"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "way arkeen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Wiilashiisiina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiddada"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jiddada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "socday"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka yimid"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:16:55.656285130Z",
+  "model": "glm-5.3"
+}

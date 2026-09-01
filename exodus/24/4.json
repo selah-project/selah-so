@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Muusena wuu qoray ⟨את⟩ ereyaha Yahweh oo dhan, waqoorkiina aroortii wuu soo kacay, wuxuuna dhisay allabari buurta hoosteeda, iyo laba iyo toban tiir oo laba iyo tobanka beelaha Israa'iil ah.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "wuu qoray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyaha Yahweh oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "waqoorkiina wuu soo kacay"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aroortii"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "iyo laba iyo toban"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tiir"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "oo laba iyo tobanka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "beelaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:00.931971506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Aniga waan ku dhawaaqay, waayo Ad adiga baad i jawaabaysaa; dhageystahaaga i jiib, ereyadaydana maqal.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "waan ku dhawaaqay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "adiga baad i jawaabaysaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ad"
+    },
+    {
+      "surface": "הט",
+      "gloss": "i jiib"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhageystahaaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ereyadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:44.862278539Z",
+  "model": "glm-5.3"
+}

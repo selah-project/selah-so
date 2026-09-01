@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Ayyuub wuu istaagay, wuxuuna dhuftay ⟨את⟩ dhararkiisii, wuxuuna gooyay ⟨את⟩ madaxiisa, wuxuuna dhulka u dhacay, wuuna sujuuday.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuu istaagay"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wuxuuna dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhararkiisii"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "dhararkiisii"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "wuxuuna gooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxiisa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wuxuuna u dhacay"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wuuna sujuuday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:56.971572709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Halkee hadda boqorkaagii, inuu ku gargaaro magaalooyinkaaga oo dhan? Iyo go'doomiyayaashaagii aad ku odhan: I sii boqor iyo Saraakiil?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Halkee"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "boqorkaagii"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "inuu ku gargaaro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "magaalooyinkaaga"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "go'doomiyayaashaagii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ku odhan"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "I sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "Saraakiil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:48.696686181Z",
+  "model": "glm-5.3"
+}

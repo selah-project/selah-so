@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "waxayna ku socdaan qowl kasta ilaa qowl kale, boqortooyo ilaa dad kale",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "waxayna ku socdaan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "qowl kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "qowl kale"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "boqortooyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T06:28:00.117334499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Maxaa yeelay boqorku wuxuu Yahweh ku hubeeyaa, iyo khesed-ka Elyoon, lama dhaqaaqo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wuxuu ku hubeeyaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "iyo khesed-ka"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dhaqaaqo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:59.701871793Z",
+  "model": "glm-5.3"
+}

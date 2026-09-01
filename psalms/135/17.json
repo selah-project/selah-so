@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Dhego bay leh, mana dhegeystaan; waxba ma jiraan ruux afkooda gudeheed.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Dhego"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay leh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "dhegeystaan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "waxba (ama)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "afkooda gudeheed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:11.049118348Z",
+  "model": "glm-5.3"
+}

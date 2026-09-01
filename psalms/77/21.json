@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Adigaa u hoggaamiyay sida idaha ⟨את⟩ shacabkaagii, gacanta Muuse iyo Haaruun.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "u hoggaamiyay"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sida idaha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "shacabkaagii"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Haaruun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:19.071367485Z",
+  "model": "glm-5.3"
+}

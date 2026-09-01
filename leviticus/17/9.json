@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Iyana hadduu u keenin bogga Khaymada Kulanka si uu ugu sameeyo ⟨את⟩ Yahweh, ninkaasaa layska goyn doonaa dadkiisa dhexdood.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bogga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "keeno"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si uu ugu sameeyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "layska goyn doonaa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkaasaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ninkaasaa"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "dadkiisa dhexdood"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:21.691240093Z",
+  "model": "glm-5.3"
+}

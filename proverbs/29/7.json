@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Kan xaq ah wuu garab taagaa xaq-darrada sabarka beelahay, laakiin shar-lahawuhu ma fahmo aqoonta.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "wuu garab taagaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Kan xaq ah"
+    },
+    {
+      "surface": "דין",
+      "gloss": "xaq-darrada"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "sabarka beelahay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-lahawuhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "fahmo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoonta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:49.561915824Z",
+  "model": "glm-5.3"
+}

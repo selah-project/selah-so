@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo ha ka tegina waxba ilaa aroorta; waxa ka hadha oo aroorta gaadha na dab baa la gubaa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "tegina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "waxba ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroorta"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "waxa ka hadha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "oo ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroorta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "la gubaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:16.211211761Z",
+  "model": "glm-5.3"
+}

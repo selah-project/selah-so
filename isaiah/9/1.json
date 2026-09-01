@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Shacabka socda gudaha mugdiga waxay arkay iftiin weyn; kuwa deggan dhulka mugdiga dhimasho, iftiin baa korkooda iftiimay.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Shacabka"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "socda"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "gudaha mugdiga"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "waxay arkay"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "mugdiga dhimasho"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "baa iftiimay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:27.710785956Z",
+  "model": "glm-5.3"
+}

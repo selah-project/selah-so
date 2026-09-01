@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Qalbiga caqliga leh wuxuu aqbalaa amarro; seegan bushimaha leh wuu dhici.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "caqliga leh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Qalbiga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuxuu aqbalaa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarro"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "seegan"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bushimaha leh"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "wuu dhici"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:42.351642517Z",
+  "model": "glm-5.3"
+}

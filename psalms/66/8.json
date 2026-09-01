@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Shucuurada howsha, Elohahayaga; oo codka ammaantiisa ka dhiga mid la maqalo.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "howsha (barako)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Shucuurada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohahayaga"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "oo ... ka dhiga mid la maqalo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.468039Z",
+  "model": "glm-5.3"
+}

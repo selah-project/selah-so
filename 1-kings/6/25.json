@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo kiiba-keedii labaad wuu ahaa toban amma; cabbir keliya iyo qaab keliiba labada kiiba-ka ah.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kiiba-ka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "cabbir"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "iyo qaab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kiiba-ka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:12:10.027420048Z",
+  "model": "glm-5.3"
+}

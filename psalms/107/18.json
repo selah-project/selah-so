@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Cunto keliya naftoodu way karantahay, waxayna gaadheen iridda dhimashada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "way karantahay"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "naftoodu"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "waxayna gaadheen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gaadheen ilaa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimashada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:59.493931319Z",
+  "model": "glm-5.3"
+}

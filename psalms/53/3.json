@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Elohim samada ka hoggaansamay wuxuu ilmo aadamka durkii fiiriyay inuu arko inuu jiro qof wax kasta garanaya, qof doondolaya ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "השקיפיף",
+      "gloss": "wuxuu durkii fiiriyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "hoggaansamay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inuu arko"
+    },
+    {
+      "surface": "היש",
+      "gloss": "inuu jiro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "qof wax kasta garanaya"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "qof doondolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:05.779653601Z",
+  "model": "glm-5.3"
+}

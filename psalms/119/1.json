@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ashree kuwa oon lahayn dhibco waddada ku jira, kuwa ku socda toradda Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ashree"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "kuwa oon lahayn dhibco"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kuwa ku socda"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "toradda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:52.993118439Z",
+  "model": "glm-5.3"
+}

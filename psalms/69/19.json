@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "U dhowow nafdayda oo gaal ⟨iyada⟩, ciddiyadayda dartood i nacaamso.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "U dhowow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "gaal ⟨iyada⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dartood"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ciddiyadayda"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "i nacaamso"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.883184979Z",
+  "model": "glm-5.3"
+}

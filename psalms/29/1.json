@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Mizmor oo aan Dawuud u qoray. Siiya Yahweh, ilmaha El-ka (ilaahyada), siiya Yahweh ammaan iyo xoog.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo aan Dawuud u qoray"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Siiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El-ka (ilaahyada)"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "siiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iyo xoog"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:35.428653984Z",
+  "model": "glm-5.3"
+}

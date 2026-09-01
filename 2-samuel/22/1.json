@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Dawiid wuxuu u hadlay Yahweh ⟨את⟩ ereyada heestan, maalintii Yahweh ku badbaadinay ⟨את⟩ gacanta cadowyiishiisa oo dhan iyo gacanta Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu hadlay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyada"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "heesta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ku badbaadinay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gacanta"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowyiishiisa"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T03:06:18.638416002Z",
+  "model": "glm-5.3"
+}

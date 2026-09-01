@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahwehna wuxuu Shemu'eel ku yidhi: Maqal codka dadka, wax kasta oo kugu yidhaahaan; waayo adiga ma ay diideen, anigase wey ii diideen, inaan ka boqor-kaanaynin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kugu yidhaahaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "diideen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "anigase"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ii diideen"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "in aan boqor-kaanayn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka \/ ayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:31.940852807Z",
+  "model": "glm-5.3"
+}

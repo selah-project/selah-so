@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo waxaad dhoweyn doontaa ⟨את⟩ Leewiyiinta horta Yahweh, oo ubadka Israa'iil waxay dhigi doonaan ⟨את⟩ gacmohooda dheer Leewiyiinta.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "waxaad dhoweyn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leewiyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiyiinta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "waxay dhigi doonaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmohooda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiyiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:44:47.309238546Z",
+  "model": "glm-5.3"
+}

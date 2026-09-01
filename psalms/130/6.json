@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Nafadaydu waxay Adonay u sugaysaa, ka sii badan ilaaliyaashii subaxa, ilaaliyaashii subaxa.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafadaydu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonay u"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ilaaliyaashii"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaxa"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ilaalialiyaashii"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:50.257493570Z",
+  "model": "glm-5.3"
+}

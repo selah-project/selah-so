@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaan ka tegey gurigayga, waanan dayday dhaxalkaygii; waxaan siyay jecelaysta nafdayda gacanta cadowdayda.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "waxaan ka tegey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurigayga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "gurigayga"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "waanan dayday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaxalkaygii"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "dhaxalkaygii"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan siyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jecelaysta nafdayda"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "jecelaysta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "cadowdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:07:17.544649085Z",
+  "model": "glm-5.3"
+}

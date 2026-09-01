@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxayna gubi doonaan wiilasha Axaroon ⟨את⟩ miiska guriga oo ku (dheeraad ah) dhibcootta ku dul ah oo ah kuwa dhulka laga soo dhiibay iyo kuwa ku dhex jira naarta — waa allabari la gubo, oo uu Yahweh ku raalli noqdo.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "waxayna gubi doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhibcootta (barxadda allabariga)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaroon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "miiska allabariga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabariga guba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "qoryaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "האש",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabari la gubo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "laraalli noqdo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:19.918981504Z",
+  "model": "glm-5.3"
+}

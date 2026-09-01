@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Hadda tag, oo garaac ⟨את⟩ Camaaleq, oo hala haraajin ⟨את⟩ wax kasta oo uu leeyahay, ha u naxariisin; la dili oo nin ilaa naag, ilmo-dhaleel ilaa dhego-sijiidale, sac ilaa ri', geel ilaa dameer.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "oo garaac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camaaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Camaaleq"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "oo hala haraajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta oo uu leeyahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu leeyahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha (u-naxariisin)"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ha u naxariisin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "la dili"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "ilmo-dhaleel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "dhego-sijiidale"
+    },
+    {
+      "surface": "משור",
+      "gloss": "sac"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ri'"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "geel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "dameer"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:21.422148005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuuna keeni doonaa ⟨את⟩ dambigiisa (ashamkiisa) Yahweh u dilaa — wan o dhan oo adag, digaagta ka mid ah, qiimahaaga aawadiis, wahii dambi-qadarka ahaan, wadaadda u dhow.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ashamkiisa (dambigiisa)"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamkiisa (dambigiisa)"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "uu keeno"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    },
+    {
+      "surface": "איל",
+      "gloss": "wan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "oo dhan oo adag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "digaagta"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "qiimahaaga aawadiis"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "wahii dambi-qadarka ahaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u dhow"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:34.736388688Z",
+  "model": "glm-5.3"
+}

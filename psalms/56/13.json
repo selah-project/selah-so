@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Xaggiisay saaran yihiin nadaradagii, Elohim; waan oofinayaa mahadnaqo ⟨iyada aad u ogolaato⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Xaggiisay saaran yihiin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nadaradagii"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "waan oofinayaa"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "mahadnaqo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iyada aad u ogolaato"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:31.635633095Z",
+  "model": "glm-5.3"
+}

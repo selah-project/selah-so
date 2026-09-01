@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Inta Israa'iil ah waxay tegeen, waxayna degenayeen Oobooth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "waxay tegeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "inta ... ah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna degenayeen"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "Oobooth"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:46.111981074Z",
+  "model": "glm-5.3"
+}

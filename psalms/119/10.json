@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Wadarkeenna qalbigayga waan ku doondoolay; ha i gelinin hallaynta amarradaada.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wadarkeenna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "waan ku doondoolay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ha i gelinin hallaynta"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "amarradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:00.641986839Z",
+  "model": "glm-5.3"
+}

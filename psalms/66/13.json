@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waxaan geli doonaa gurigaa ⟨gacan ku⟩ qurbaanno olol-dhafo ah, waana ku oofin doonaa nadaradayda.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Waxaan geli doonaa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaa"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "⟨gacan ku⟩ qurbaanno olol-dhafo ah"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "waana oofin doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nadaradayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:30.206004561Z",
+  "model": "glm-5.3"
+}

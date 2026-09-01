@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxay ku xireen ⟨את⟩ choshen-ka cibraantiisa ilaa cibraamada efod-ka, oo wato shumo madoow (tekhelet), inuu ku sugnaado korreeya webada efod-ka, iyo inaanan choshen-ku ka jihaadin efod-ka, sida Yahweh u amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "waxay ku xireen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choshen-ka"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen-ka"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "cibraantiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "cibraamada"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod-ka"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "oo wato shumo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "madoow (tekhelet)"
+    },
+    {
+      "surface": "להית",
+      "gloss": "inuu ahaado"
+    },
+    {
+      "surface": "על",
+      "gloss": "korreeya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "webada"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod-ka"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "iyo inaanan"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "ka jihaadin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen-ku"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod-ka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:13.420572524Z",
+  "model": "glm-5.3"
+}

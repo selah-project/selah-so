@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxay ka saareen ⟨את⟩ ilaahyada shisheeyaha dhexdooda, waxayna caabudden ⟨את⟩ Yahweh; oo nafiiisu waxay dhaafin karin dhibaatada Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Waxay ka saareen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahyada shisheeyaha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahyada"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "shisheeyaha"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxayna caabudden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "waxay dhaafin karin"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafiiisu"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "dhibaatada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:33:16.915782463Z",
+  "model": "glm-5.3"
+}

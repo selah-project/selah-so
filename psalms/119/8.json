@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "⟨את⟩ xeerarkaaga waan ilaaliyi doonaa; ha i daynin waqti dheer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarkaaga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "waan ilaaliyi doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "i daynin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waqti dheer (ilaa iyo)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah \/ waqti dheer"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.065100552Z",
+  "model": "glm-5.3"
+}

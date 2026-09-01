@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Fahmaha, doqonnimada kuwa dhex jira qoomka, ahli-dhaqankiis; goormaad garataan?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "fahmaha"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "doqonnimada"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "kuwa dhex jira qoomka"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ahli-dhaqankiis"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "garataan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:37.916281761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waxaad ku mahadinaysaan Yahweh, waayo wuu wanaagsan yahay, waayo khesedkiisu wuu weligiis jirayaa.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "waxaad ku mahadinaysaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wuu wanaagsan yahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu wuu jirayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:00.773631812Z",
+  "model": "glm-5.3"
+}

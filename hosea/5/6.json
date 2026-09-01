@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Adhigooda iyo lo'dooda bay wataan doonaan inay doondaan ⟨את⟩ Yahweh, laakiin ma heli doonaan; wuu ka tegee iyaga.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "adhigooda"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "iyo lo'dooda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bay wataan doonaan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "inay doondaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "heli doonaan"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "wuu ka tegee"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:40.234691961Z",
+  "model": "glm-5.3"
+}

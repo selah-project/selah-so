@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Miiska wajiyana waxay ku fidiyaan dhar tekhelet ah, waxayna saaraan kiishka ⟨את⟩ saxaaxadda, ⟨את⟩ koobabbada, ⟨את⟩ miinabbadda, iyo ⟨את⟩ dugsiyaga wax daadinta; rootiga waartii na wuu ku sii jiri doonaa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wajiyada"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "waxay fidiyaan"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna saaraan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kiishka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saxaaxadda"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "saxaaxadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koobabbada"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "koobabbada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miinabbadda"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "miinabbadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dugsiyaga"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dugsiyaga"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "wax daadinta"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "iyo rootiga"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "waartii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuu ahaan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:18.922624058Z",
+  "model": "glm-5.3"
+}

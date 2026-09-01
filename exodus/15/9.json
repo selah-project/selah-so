@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Cadowgu wuxuu yidhi: Waan raaci doonaa, waan gaadhi doonaa, waan qaybsan doonaa bahadda; naftaydu waan ku dhammaystiran tahay; seebiddayda waan dhaari doonaa, gacantaydu way baabi'in doontaa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowgu"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "waan raaci doonaa"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "waan gaadhi doonaa"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "waan qaybsan doonaa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bahadda"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "waan ku dhammaystiran tahay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "waan dhaari doonaa"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "seebiddayda"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "way baabi'in doontaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:39.143738266Z",
+  "model": "glm-5.3"
+}

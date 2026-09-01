@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waayo Yahweh wuu gaday ⟨את⟩ Yacquub, waxaana ka garaacay gacanta ka xoog badan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wuu gaday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yacquub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "waxaana ka garaacay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ka xoog badan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:32.117154807Z",
+  "model": "glm-5.3"
+}

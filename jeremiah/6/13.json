@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waayo, tan ugu yar ilaa tan ugu weyn, dhammaanna waxay doonayaan lacag-dhac; iyo nebigii ilaa waasiiggii, dhammaanna waxay sameeyaan khiyaano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "tan ugu yar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "tan ugu weyn"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "waxay doonayaan lacag-dhac"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lacag-dhac"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "iyo nebigii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "waasiiggii"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waxay sameeyaan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T07:18:46.872117854Z",
+  "model": "glm-5.3"
+}

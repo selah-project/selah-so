@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Aniguna adiga, Yahweh, ayaa u qayliyay, subaxdana baryadaydu hortaa bay ii tegtaa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "u qayliyay"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "subaxdana"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadaydu"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "hortaa bay ii tegtaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:11.456993697Z",
+  "model": "glm-5.3"
+}

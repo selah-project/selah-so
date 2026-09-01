@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Anigu xaqnimada waan arkayaa wajigaaga, markaan toosnoqdana waan ku dhamaystiranahaa suuridayda.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "xaqnimada"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "waan arkayaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "waan ku dhamaystiranahaa"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "markaan toosnoqdana"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "suuridayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:30.361150680Z",
+  "model": "glm-5.3"
+}

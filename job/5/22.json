@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Burburka iyo gaajada waad qosli doontaa, oo xayawaanka dhulka ka cabsan mayso.",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "burburka"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "iyo gaajada"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "waad qosli doontaa"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "oo (xayawaanka) ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maya (ammar diid ah)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsan mayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:33.994188430Z",
+  "model": "glm-5.3"
+}

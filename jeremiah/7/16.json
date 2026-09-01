@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Adigana ha u tukan dadkan, oo ha qaadin qaylo iyo baryo iyaga dartood, oo ha ii dardaarin — waayo anigu ma dhagaysto adiga.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adigana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "u tukan"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dartood"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "qaadin"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "iyaga dartood"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qaylo"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "iyo baryo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ii dardaarin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "anigu ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhagaysto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "adiga ⟨את⟩",
+      "marks": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:03:37.539640360Z",
+  "model": "glm-5.3"
+}

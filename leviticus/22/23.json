@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Dheega oo shaah (idhi) ah oo saroo' (la dheeraaday xubin) ama qaloot (la naaqusiyay xubin) — nadabo (xor u bixis) ayaad ka dhigi kartaa, laakiin nadar ma la aqbali doono.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "iyo dheega"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "iyo shaah (idhi)"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "saroo' (la dheeraaday xubin)"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "iyo qaloot (la naaqusiyay xubin)"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nadabo (xor u bixis)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad ka dhigi kartaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheega ama shaahka la naaqusiyay\/la dheeraaday"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "laakiin nadar (ballan)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "la aqbali doono"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:46.057774977Z",
+  "model": "glm-5.3"
+}

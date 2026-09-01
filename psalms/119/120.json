@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Lahjaduhu way ciyaareen cabsidaada; xukunkaagana waan ka cabsaday.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "way ciyaareen (inta uu ka sii bogsaday)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "cabsidaada"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "lahjaduhu (jidhkayga)"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "xukunkaaga"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "waan ka cabsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:45.905745617Z",
+  "model": "glm-5.3"
+}

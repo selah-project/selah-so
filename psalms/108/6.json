@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "La sarreeji, Elohimow, ka sarreeyaa ⟨samada⟩, ammaantaaduna ka sarreeyaa dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "La sarreeji"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeyaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ammaantaaduna ka sarreeyaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ammaantaaduna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:44.929716483Z",
+  "model": "glm-5.3"
+}

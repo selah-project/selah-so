@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuuna sameeyay cirbadaha naxaasta ah kontan ⟨את⟩ in teendhada lagu xiriiriyo si ay u noqoto mid keliya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "cirbadaha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaasta ah"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "in lagu xiriiriyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teendhada"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teendhada"
+    },
+    {
+      "surface": "להית",
+      "gloss": "si ay u noqoto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:36.035408515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahweh samada ka soo fiiriyay binuu-aadmiga, inuu arko miyaan jira qori-dheerayaal, ⟨את⟩ Elohim doondolaya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "samada ka"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "soo fiiriyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "binuu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadmiga"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inuu arko"
+    },
+    {
+      "surface": "היש",
+      "gloss": "miyaan jira"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "qori-dheerayaal"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "doondolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:53.862715909Z",
+  "model": "glm-5.3"
+}

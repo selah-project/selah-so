@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Cunninkaagu wuxuu u eg yahay burjiska ilkaha; indhahaagu sida biyo-xoodeyda Xeshboon, oo ku ag taal albaabka Bath-rabbim; sannuunkaagu wuxuu u eg yahay burjiska Labanon, oo fiirinaya ⟨wajiga⟩ Damaseq.",
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "cunninkaagu"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "sida burjiska"
+    },
+    {
+      "surface": "השן",
+      "gloss": "ilkaha"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaagu"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "biyo-xoodeyda"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Xeshboon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ag"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "rabbim"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sannuunkaagu"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "sida burjiska"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Labanon"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "fiirinaya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseq"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:27.398534493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Amur carruurta Israa'iil inay ka diraan ⟨את⟩ kampsiga mid kasta oo la cududday, iyo mid kasta oo dhiig-bax leh, iyo mid kasta oo najaas u ah nefasha (jirka dhintay).",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Amur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carruurta Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "inay ka diraan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampsiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mid kasta oo"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "la cududday"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo mid kasta oo"
+    },
+    {
+      "surface": "זב",
+      "gloss": "dhiig-bax leh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo mid kasta oo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najaas u ah"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefasha (jirka dhintay)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:43:28.202762787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markayasa dhisayaashu aasaaseen ⟨את⟩ qasriga Yahweh, waxay taagiyeen wadaaddada dhar xidhan oo boombaboon la ah, iyo Lewiyiinta wiilasha Aasaaf oo sagxado la ah, si ay u ammaanaan ⟨את⟩ Yahweh, sida gacantii Daviid boqorka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "markayasa dhisayaashu aasaaseen"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "dhisayaasha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qasriga Yahweh"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "qasriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "waxay taagiyeen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "dhar xidhan"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "oo boombaboon la ah"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "iyo Lewiyiinta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Aasaaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "oo sagxado la ah"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "si ay u ammaanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sida (gacantii)"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantii"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daviid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T06:13:59.052781041Z",
+  "model": "glm-5.3"
+}

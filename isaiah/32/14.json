@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waayo qalcaddii waa la daynin, buuqa magaaladiina waa la tegi; teendho iyo dhuuso-xiriir waxay noqon doonaan godo ilaa weligeed, farxadda duuryo-yaraha iyo beeraha idaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "qalcaddii"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "waa la daynin"
+    },
+    {
+      "surface": "המון",
+      "gloss": "buuqa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaaladiina"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "waa la tegi"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "teendho"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "iyo dhuuso-xiriir"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "gudo"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "godo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "farxadda"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "duuryo-yaraha"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "idaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:59.848404145Z",
+  "model": "glm-5.3"
+}

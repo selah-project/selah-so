@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Haddii Adonay uu maydho ⟨את⟩ wasakhda gabdhaha Ziyoon, iyo ⟨את⟩ dhiigga Yeruushaalaym ka dhex nadiifiyo gudaheeda, ruuxa xukun iyo ruuxa gubitaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "uu maydho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasakhda gabdhaha Ziyoon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "wasakhda"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga Yeruushaalaym"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "יייח",
+      "gloss": "ka dhex nadiifiyo"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "gudaheeda"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "iyo ruuxa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gubitaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:15.070007733Z",
+  "model": "glm-5.3"
+}

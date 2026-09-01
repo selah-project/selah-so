@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Geedka tiintu wuxuu ku yidhi: Ma joojinayaa macaankayga iyo ⟨את⟩ midhahayga wanaagsan, oo aan tegaa inaan miiraan ka sameeyo geedaha?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "geedka tiintu"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "ma joojinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macaankayga"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "macaankayga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "midhahayga wanaagsan"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "midhahayga"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "oo aan tegaa"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "in aan miiraan ka sameeyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "geedaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:33:08.036432978Z",
+  "model": "glm-5.3"
+}

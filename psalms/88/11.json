@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Miyaad dhimayaasha u sameysaa ⟨mucjiso⟩? Miyeey Rafa'iimu ka soo baxaan oo ku ammaanaan? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Miyaad dhimayaasha u"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameysaa"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mucjiso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Miyeey"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rafa'iimu"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ka soo baxaan"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ku ammaanaan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:54.488274954Z",
+  "model": "glm-5.3"
+}

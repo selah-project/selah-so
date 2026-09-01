@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 9:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wiilasha Yisraa'iilna waxaad ku odhan doontaa: Qaadha ri' gaal ah bixinta dembiga, iyo naasley iyo wan cqo jir ah labaatan-gaadh ah? iyo waxaan — sax: iyo naasley iyo cunug xaashi laba san jir ah, kuwo aan dhaawac lahayn, olaha (allabbari) aawadiis.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "…"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iilna"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "waxaad ku odhan doontaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "odian"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "qaadha"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ri'"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "gaal ah"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bixinta dembiga"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "iyo naasley"
+    },
+    {
+      "surface": "וכבש",
+      "gloss": "iyo cunug xaashi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lab san jir ah"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "san"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "kuwo aan dhaawac lahayn"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olaha (allabbari) aawadiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.958567988Z",
+  "model": "glm-5.3"
+}

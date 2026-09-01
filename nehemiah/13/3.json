@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Markii ay maqleen ⟨את⟩ Sharciga, waxay ka gaysiyeen dhexdana Israaiiil dhammaan kuwa isku-qasan (ereb).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markii ay"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "maqleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharciga"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "waxay ka gaysiyeen dhexdana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kuwa isku-qasan (ereb)"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israaiiil"
+    }
+  ],
+  "timestamp": "2026-09-01T08:34:33.327272398Z",
+  "model": "glm-5.3"
+}

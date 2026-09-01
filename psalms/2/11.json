@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ka cabsada oo u adeega Yahweh ⟨את⟩ cabsad darteed, oo farha u gala baroorid.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "u adeega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "cabsad darteed"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "oo farha u gala"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "baroorid"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:31.983998576Z",
+  "model": "glm-5.3"
+}

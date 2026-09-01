@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Dambiga afkooda, erayga sefaha kodmo — ha la qabsado kibriyadooda; waxay ka warramayaan naarta iyo been-sheegidda.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Dambiga"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "afkooda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "sefaha kodmo"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ha la qabsado"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "kibriyadooda"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "been-sheegidda"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "waxay ka warramayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:03.839288558Z",
+  "model": "glm-5.3"
+}

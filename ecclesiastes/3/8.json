@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtiga loo taalayo in la jeclaado, iyo waqtiga loo taalayo in la naco; waqtiga dagaalka, iyo waqtiga nabadgelyada.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "in la jeclaado"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "in la naco"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtiga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadgelyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:16.676403483Z",
+  "model": "glm-5.3"
+}

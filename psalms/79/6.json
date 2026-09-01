@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Daadi xaggiisa qabqabsadaada shacababka aan ku garanayn, iyo boqortooyada magacaaga aan ku dhawaaqin.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Daadi"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "qabqabsadaada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacababka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ku garanayn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ku dhawaaqin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:56.741787396Z",
+  "model": "glm-5.3"
+}

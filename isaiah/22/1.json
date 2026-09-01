@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Miisaankii waadigii muuqaalka. Maxaad lee tahay hadda, inaad dhammaantiin kor ugu kacdeen saqafyada?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Miisaankii"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "waadigii"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "muuqaalka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lee tahay"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markaad"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "kor ugu kacdeen"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "dhammaantiin"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "saqafyada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:27.618969701Z",
+  "model": "glm-5.3"
+}

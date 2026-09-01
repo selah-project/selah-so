@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ilaali nafkeyda oo i gargaar; ha iga dhigin in aan sharmoodo, waayo adiga aan kuu magan galay.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafkeyda"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "oo i gargaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ... dhigin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "in aan sharmoodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aan kuu magan galay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:01.354420835Z",
+  "model": "glm-5.3"
+}

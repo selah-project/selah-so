@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Dadka oo dhan iyo Israel oo dhan waxay ogaadeen maalintaas in aysan ahayn talo ka soo jeedisay boqorka in la disho ⟨את⟩ Abner ina Ner.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "waxay ogaadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maantaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ahayn"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "ka soo jeedisay boqorka"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "in la disho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner ina Ner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:49.421815959Z",
+  "model": "glm-5.3"
+}

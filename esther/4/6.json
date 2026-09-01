@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaas Hatakh wuu baxay oo wuxuu u tagay Mordekhay, meel bannaan oo magaalada ah ⟨dhexdeeda⟩, taas oo hortaada u ah iridda boqorka.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuu baxay"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "meel bannaan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taas oo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortaada u ah"
+    },
+    {
+      "surface": "שער",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:33.111291374Z",
+  "model": "glm-5.3"
+}

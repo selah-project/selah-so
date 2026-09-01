@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Beerkaas oo Abraham ku gatay ⟨את⟩ wiilashee Xet; halkaas baa Abraham lagu aasay, iyo Saarah naagtiisii.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "Beerkaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ku gatay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashee Xet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashee"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lagu aasay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "iyo Saarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagtiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:38.032203587Z",
+  "model": "glm-5.3"
+}

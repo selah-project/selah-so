@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Boqorkii iyo Haamaan waxay yimaadeen inay la cabo Ester boqoraddda.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "iyo Haamaan"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "inay la cabo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "boqoraddda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:32.247232523Z",
+  "model": "glm-5.3"
+}

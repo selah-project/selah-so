@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Kajinna wuxuu ku yidhi Yahweh: dembigaygu waa ka weyn yahay ⟨in⟩ la qaadan karo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "dembigaygu"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "in la qaadan karo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:52.551731046Z",
+  "model": "glm-5.3"
+}

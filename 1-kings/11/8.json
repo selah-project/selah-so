@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Saasuu sameeyey dhammaan haweenaydiisii shisheeyay, kuwa u xuudhay (qoondhay) oo u shubeey-qalmeeyay elohimkooda.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Saasuu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyey"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "haweenaydiisii"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "shisheeyay"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "kuwa u xuudhay (qoondhay)"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "oo u shubeey-qalmeeyay"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "elohimkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:16:25.917774541Z",
+  "model": "glm-5.3"
+}

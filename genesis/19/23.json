@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Qorraxdu waxay dhulka kaga soo baxday, Luudhina wuxuu Tsoar galay.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "qorraxdu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "waxay soo baxday"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhulka kaga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "Luudhina"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu galay"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:13.959102943Z",
+  "model": "glm-5.3"
+}

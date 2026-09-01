@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxaad dhoweyn doontaa ⟨את⟩ Aharon iyo ⟨את⟩ wiilashiisa ilaa iridda Khaymaha Kulanka, waxaana ku maydhaysaa ⟨את⟩ biyo.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "waxaad dhoweyn doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "waxaana ku maydhaysaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(Aharon iyo wiilashiisa)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T08:45:09.956663299Z",
+  "model": "glm-5.3"
+}

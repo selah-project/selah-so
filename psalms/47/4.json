@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Wuxuu hoos u dhigaa ⟨dhan⟩ shacabka ⟨inaga⟩, iyo bulshooyinka hoos ⟨cagahenna⟩.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Wuxuu hoos u dhigaa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "⟨inaga⟩"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "iyo bulshooyinka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "cagahenna"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.789385442Z",
+  "model": "glm-5.3"
+}

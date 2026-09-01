@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Boqorku wuxuu yidhi Yoab: Bal eeg, waan sameeyay ⟨את⟩ arrintan; ee teg, soo celi ⟨את⟩ wiilka ⟨את⟩ Absalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku yidhi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "waan sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arrintan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "arrinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ee teg"
+    },
+    {
+      "surface": "השב",
+      "gloss": "soo celi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    }
+  ],
+  "timestamp": "2026-09-01T03:02:03.709638893Z",
+  "model": "glm-5.3"
+}

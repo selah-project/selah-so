@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Dadka oo dhan way arkayeen ⟨את⟩ durbaabada iyo ⟨את⟩ masallada iyo ⟨את⟩ codka shofarka iyo ⟨את⟩ buurta oo qiiq ah; dadkuna markay arkeen way gariireen wayna istaageen meel fog.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "way arkayeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "durbaabada"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "durbaabada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "masallada"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "masallada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "codka shofarka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "buurta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "oo qiiq ah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "markay arkeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "way gariireen"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wayna istaageen"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "meel fog"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:23.573184103Z",
+  "model": "glm-5.3"
+}

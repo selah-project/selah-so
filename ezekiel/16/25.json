@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Madax kasta oo waddo ah waxaad dhisaysay meel-sarreeyaashaada, waxaadna ka dhigaysay in lagu naco ⟨את⟩ quruxdaada, waxaadna u fududaysay ⟨את⟩ lugahaaga nin kasta oo soo dhaafaya, waadna badsaysay ⟨את⟩ zinadaada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "madax kasta oo waddo ah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madax"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddo"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "waxaad dhisaysay"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "meel-sarreeyaashaada"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "waxaadna ka dhigaysay in lagu naco"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quruxdaada"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "quruxdaada"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "waxaadna u fududaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lugahaaga"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lugahaaga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nin kasta oo"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "soo dhaafaya"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "waadna badsaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinadaada"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "zinadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:28:47.217118031Z",
+  "model": "glm-5.3"
+}

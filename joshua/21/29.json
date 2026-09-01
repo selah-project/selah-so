@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmuut iyo ⟨את⟩ beerahaheed, ⟨את⟩ Cayn-Gannim iyo ⟨את⟩ beerahaheed — magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmuut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmuut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahaheed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerahaheed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cayn-Gannim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Cayn"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Gannim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahaheed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerahaheed"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:39.666197093Z",
+  "model": "glm-5.3"
+}

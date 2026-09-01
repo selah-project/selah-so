@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Dhammaantood adigaay kugu sugayaan, ⟨inaad⟩ u siiso cunto xiliggeeda.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Dhammaantood"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "way kugu sugayaan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si aad u siiso"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "xiliggeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.994097370Z",
+  "model": "glm-5.3"
+}

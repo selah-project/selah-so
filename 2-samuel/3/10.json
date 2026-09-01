@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "in booska laga wareejiyo gurigii Shaa'uul, oo la taagi ⟨את⟩ kursigii Dawid oo ku sarraya Israa'iil iyo Yahuudah, laga bilaab Dan ilaa Beer-Sheba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "in la wareejiyo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "booska"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "laga gurigii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "oo la taagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursigii Dawid"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursigii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku sarraya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:29.185211690Z",
+  "model": "glm-5.3"
+}

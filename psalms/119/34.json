@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "I fahamsii, oo waan ilaalin doonaa Toraadaada, oo waan dhawran doonaa ⟨gubahab⟩ qalbiga oo dhan.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "I fahamsii"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "oo waan ilaalin doonaa"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraadaada"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "oo waan dhawran doonaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:51.948178389Z",
+  "model": "glm-5.3"
+}

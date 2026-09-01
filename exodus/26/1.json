@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad samayn doontaa ⟨את⟩ Mishkaanka: toban dhalo oo lin isku-dhuuban ah, iyo tukhelet (buluug), iyo argamaan, iyo diiddo cas (tiinle-cas); kerubeem shuqol-xirfad leh (ma'aseh choshev) waad samayn doontaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkaanka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkaanka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waad samayn doontaa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dhalo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "isku-dhuuban"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "iyo tukhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "iyo argamaan"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "iyo tiinle-cas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "diiddo cas"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubeem"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqol"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "xirfad-disan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waad samayn doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhalaha (kerubyada)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:55.850317724Z",
+  "model": "glm-5.3"
+}

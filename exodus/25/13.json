@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo waxaad sameyn doontaa illo (baadho) oo ah geedo shitiim ah, oo waxaad dahab ku dabooli doontaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "oo waxaad sameyn doontaa"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "illo (baadho)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitiim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "oo waxaad dabooli doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dahab (oo ku dhow ilasha)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:05.099308400Z",
+  "model": "glm-5.3"
+}

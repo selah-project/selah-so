@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Midkii waxay yidhi: Raalli ahow bal, la tegin ⟨את⟩ addeecadaaga; wuxuunaa yidhi: Aniga waan tegeyaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxay yidhi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midkii"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "raalli ahow"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "la tegin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addeecadaaga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addeecadaaga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuunaa yidhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "waan tegeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:58.451504210Z",
+  "model": "glm-5.3"
+}

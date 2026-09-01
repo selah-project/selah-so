@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Qumeenna wuxuu gartaa nolosha bahalkiisa; oo naxariistii sharkale waa daroor.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "wuxuu gartaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "qumeen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "bahalkiisa"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "oo naxariistii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharkale"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "daroor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:09.999861294Z",
+  "model": "glm-5.3"
+}

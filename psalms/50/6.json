@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Samanu waxay sheegaa ⟨xaqnimadiisa⟩, waayo Elohim Isagu waa xaakim. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "waxay sheegaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samanu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "xaqnimadiisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "xaakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isagu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.731510152Z",
+  "model": "glm-5.3"
+}

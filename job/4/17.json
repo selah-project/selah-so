@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 4:17",
+  "book": "job",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Ma insaan ka sdqaa Eloah? Ma ka daahir noqon gebre sameeheedi?",
+  "tokens": [
+    {
+      "surface": "האנוש",
+      "gloss": "Ma insaan"
+    },
+    {
+      "surface": "מאלוה",
+      "gloss": "Eloah ka"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "sdqaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "sameeheedi"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "ka daahir noqon"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gebre"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:14.053116597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ma qurux bay tahay Shadday inaad adigu saxdaa tahay, ama ma faa'iido bay tahay inaad adigu dhammaystirto jidadkaaga?",
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "ma qurux bay tahay"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "aad saxdaa tahay"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "faa'iido"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "aad dhammaystirto"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jidadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:15.646023073Z",
+  "model": "glm-5.3"
+}

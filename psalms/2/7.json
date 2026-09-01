@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan sheegi doonaa qodka Yahweh; wuxuu ii yidhi: «Adigu wiilkay ii tahay; maantana waan ku dhalay».",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Waxaan sheegi doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חק",
+      "gloss": "qodka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maantana"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "waan ku dhalay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:07.939158728Z",
+  "model": "glm-5.3"
+}

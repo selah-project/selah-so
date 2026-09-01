@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ii eeg, ii jawaab Yahweh Eloahay; indhahayga iftiin sii, aan seexofoon dhimashada seexofo.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "ii eeg"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ii jawaab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "iftiin sii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "aan seexofoon"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dhimashada seexofo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:00.050098747Z",
+  "model": "glm-5.3"
+}

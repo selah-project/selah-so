@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Aadamna wuu mar kale ogaaday ⟨את⟩ naagiisa, waxay dhashay wiil, waxayna ugu magac-dhigtay Shet, waayo, waxay tiri: \"Elohim ii dhigay abuur kale halkii Hebel, waayo, Qayin wuu dilay.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "wuu ogaaday"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagiisa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "naagiisa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxay ugu magac-dhigtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ii dhigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abuur"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "halkii"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wuu dilay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:12.390124598Z",
+  "model": "glm-5.3"
+}

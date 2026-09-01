@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ ha-tinshemet-ka (shimbiro habaas ah oo cad) iyo ⟨את⟩ ha-qaat-ka (shimbir daaqsin ah) iyo ⟨את⟩ ha-racham-ka (gorgor weyn)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-tinshemet-ka"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "ha-tinshemet-ka (shimbiro habaas ah oo cad)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-qaat-ka"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "ha-qaat-ka (shimbir daaqsin ah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-racham-ka"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "ha-racham-ka (gorgor weyn)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.120302232Z",
+  "model": "glm-5.3"
+}

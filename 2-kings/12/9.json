@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Way isku aqbeerayeen wadaaddadii in aan la qaadin lacag dadka, iyo in aan hagaajinin ⟨את⟩ boosaska guriga.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "way isku aqbeerayeen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddadii"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "in aan"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "la qaadin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "dadka (laga)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "iyo in aan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hagaajinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boosaska guriga"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "boosaska"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:56.650687820Z",
+  "model": "glm-5.3"
+}

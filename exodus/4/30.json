@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Aarun wuxuu sheegay ⟨את⟩ dhammaan ereyada uu Yahweh ku hadlay Muuse, wuxuuna sameeyay calaamadiha ⟨hore⟩ dadka ilmo murugo leh.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu sheegay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan ereyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "calaamadiha"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ilmo murugo leh ⟨hore⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:31.605203519Z",
+  "model": "glm-5.3"
+}

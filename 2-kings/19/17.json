@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Run ahaan, Yahweh, boqorradii Ashshur waxay baabi'iyen ⟨את⟩ shucuurada iyo ⟨את⟩ dhulkooda.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Run ahaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "waxay baabi'iyen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorradii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shucuurada"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shucuurada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkooda"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:33:32.350121649Z",
+  "model": "glm-5.3"
+}

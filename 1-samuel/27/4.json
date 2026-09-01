@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Shaa'uulna waxaa loo warramay in Dawud cararay Gaat, oo aanu mar dambe u darin inuu raado.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxaa loo warramay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "cararay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "darin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "inuu raado"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:52.981607066Z",
+  "model": "glm-5.3"
+}

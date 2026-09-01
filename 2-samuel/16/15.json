@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Absalom iyo dadka reer binuu Israa'iil oo dhan waxay yimaadeen Yeruushaalayim, Axitofelna ⟨את⟩ la ahaa.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo … oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "reer binuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Axitofelna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la ahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:02:59.860431498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Dhammaantood waa zina-falayaal, sida foorno shidan oo dab-baxay ku qabtay, markuu joojiyo dhaqaajinta karkinta iyo wol walqabsiga ilaa ay khamiirka noqoto.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "zina-falayaal"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "foorno"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "shidan (oo dab qabsatay)"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "ku qabtay"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "markuu joojiyo"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dhaqaajinta (kolkii la toosinayey)"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "wol walqabsiga"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "karkinta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "ay khamiirka noqoto"
+    }
+  ],
+  "timestamp": "2026-09-01T07:25:47.894612849Z",
+  "model": "glm-5.3"
+}

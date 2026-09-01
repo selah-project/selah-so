@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo waxaad sanduuqa geli doontaa ⟨את⟩ maragga aan ku sii doono.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "oo waxaad gelin doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maragga"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "maragga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ku sii doono"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:05.099865361Z",
+  "model": "glm-5.3"
+}

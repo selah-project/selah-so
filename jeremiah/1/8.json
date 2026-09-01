@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ha cabsanin wejigooda, waayo, ⟨את⟩ anigaa la jira si aan kuu badbaadinyo, ayuu Yahweh yidhi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha cabsanin"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsanin"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "wejigooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la jira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigaa"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "si aan kuu badbaadinyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:00.424322805Z",
+  "model": "glm-5.3"
+}

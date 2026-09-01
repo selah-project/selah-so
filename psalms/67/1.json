@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 67,
+  "translation": "Hoggaamiyaha heesaha (muusigga laxooqdaha) — mizmoor, hees.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hoggaamiyaha heesaha"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "laxooqdaha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:53.837850969Z",
+  "model": "glm-5.3"
+}

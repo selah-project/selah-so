@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Markaad socoto wuxuu ku hanuunin doonaa ⟨את⟩ ⟨adiga⟩; markaad seexato wuxuu ku ilaalin doonaa; markaad soo toosatona wuxuu kula hadli doonaa.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Markaad socoto"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "wuxuu ku hanuunin doonaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨adiga⟩",
+      "marks": "ku (adiga)"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "markaad seexato"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "wuxuu ku ilaalin doonaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "markaad soo toosato"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wuxuu (isaga oo isla weyn)"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "wuxuu kula hadli doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:39.187809591Z",
+  "model": "glm-5.3"
+}

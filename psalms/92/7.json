@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Nin aan caqlii lahayn kuma garowsado, iyo nacasna kuma fahmo ⟨את⟩ tani.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "בער",
+      "gloss": "aan caqlii lahayn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuma garowsado"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "iyo nacasna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kuma fahmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tani"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:13.422978405Z",
+  "model": "glm-5.3"
+}

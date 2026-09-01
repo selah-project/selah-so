@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Gaalkannii eeg, Elohim, oo fiiri wajiga Masiixkaa.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Gaalkannii"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "oo fiiri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Masiixkaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:20.092122133Z",
+  "model": "glm-5.3"
+}

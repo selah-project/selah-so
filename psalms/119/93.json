@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ilaa weligay ma illoobi doonaa qawannadaaga, waayo, adigu xaggooda baad ii nooleysaysay.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Ilaa weligay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "illoobi doonaa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "qawannadaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "xaggooda"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "adigu baad ii nooleysaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:28.462854675Z",
+  "model": "glm-5.3"
+}

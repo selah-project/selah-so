@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markay nafadaydu i dhuftay, waan xusay ⟨את⟩ Yahweh, oo baryadaydu way ii imaysay agtaada, heysigga quduskaaga.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "markay ... i dhuftay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadaydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "waan xusay"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "way imaysay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "agtaada"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadaydu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eeee"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heysigga"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduskaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:48.804552635Z",
+  "model": "glm-5.3"
+}

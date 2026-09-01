@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Ammaana Yah! Nasiib-saan baa tahay nin cabsi leh oo Yahweh ⟨את⟩ yaqaan, amarkiisana fara-ka-badan inuu ku farxo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib-saan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cabsi leh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "amarkiisa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "inuu ku farxo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fara-ka-badan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:36.786412388Z",
+  "model": "glm-5.3"
+}

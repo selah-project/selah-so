@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "KalEBna wuxuu yidhi: Ciddii la dhisoo-gasho ⟨את⟩ Kiryat-Sefer oo qabsatana, anigu waxaan siin doonaa ⟨את⟩ Akshah gabadhayda in aan xaas u noqoto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciddii"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "la dhisoo-gasho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "oo qabsatana"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan siin doonaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anigu waxaan siin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akshah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akshah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "gabadhayda"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in aan xaas u noqoto"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:05.128842740Z",
+  "model": "glm-5.3"
+}

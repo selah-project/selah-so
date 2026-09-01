@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Samada Yahweh wuxuu ka eegay, wuxuu arkay ⟨את⟩ dhamaan wiilasha aadanaha.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wuxuu ka eegay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan wiilasha aadanaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:58.595518850Z",
+  "model": "glm-5.3"
+}

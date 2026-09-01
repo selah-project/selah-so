@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ammaaniya samooyinka samada iyo biyaha ka sarreeya samada.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "samooyinka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "iyo biyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:34.967502975Z",
+  "model": "glm-5.3"
+}

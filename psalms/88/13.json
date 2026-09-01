@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Ma la garanayaa ⟨i⟩ mucjisooyinkaagii gudaha mugdiga, iyo caddaaladdaada dhulka hilmaanta?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ma la garanayaa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "gudaha mugdiga"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "mucjisooyinkaagii"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "iyo caddaaladdaada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "hilmaanta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:11.456667580Z",
+  "model": "glm-5.3"
+}

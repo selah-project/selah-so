@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Inuu xiro saraakiishiisa ⟨marka uu doono⟩, oo odayaashiisana xigmo siiyo.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "inuu xiro"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "saraakiishiisa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "marka uu doono"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "oodayaashiisa"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "xigmo siiyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:08.400064451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Boqorrada dhulka iyo degganayaasha dunida oo dhan ma rumeeyeen in cadowgu iyo colkaasu galaan iridda Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "rumeeyeen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganayaasha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "galaan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "cadowgu"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "iyo colkaasu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:42.183329025Z",
+  "model": "glm-5.3"
+}

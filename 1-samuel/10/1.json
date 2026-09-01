@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Markaas Shemuuel wuxuu qaatay ⟨את⟩ dhalada saliidda, wuxuu ku shubay madaxiisa, wuxuuna dhunkaday, wuxuuna yidhi: Ma innaba in Yahweh ku subay — hoggaamiye uu ka dhigay ⟨dhexdooda⟩ dhaxalkiisa?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Markaas wuxuu qaatay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhalada saliidda"
+    },
+    {
+      "surface": "פך",
+      "gloss": "dhalada"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "wuxuu ku shubay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "wuxuuna dhunkaday"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ma innaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ku subay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ka dhigay)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaxalkiisa"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "hoggaamiye"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:03.741143665Z",
+  "model": "glm-5.3"
+}

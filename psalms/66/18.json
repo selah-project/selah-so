@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waxaan shar ah haddaan qalbiga ku arko, Adonay ma dhageysto.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "waxaan shar ah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ku arko"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageysto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:16.778306884Z",
+  "model": "glm-5.3"
+}

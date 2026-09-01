@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Eeg ballankaada, maxaanuu? waayo, meelaha madow ee dhulka waxay buuxsamaan degmooyin rabshad.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Eeg"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ballankaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "waxay buuxsamaan"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "meelaha madow"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ee dhulka"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "degmooyin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "rabshad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:19.271078888Z",
+  "model": "glm-5.3"
+}

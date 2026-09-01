@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo madaxdii waxay soo dhigeen ⟨את⟩ dhaqeynta altarka maalinta la subkay ⟨את⟩ isaga, oo madaxdii waxay soo dhigeen ⟨את⟩ allabarigoodii hortii altarka.",
+  "tokens": [
+    {
+      "surface": "וקיריבו",
+      "gloss": "oo madaxdii waxay soo dhigeen"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "madaxdii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaqeynta altarka"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "dhaqeynta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "la subkay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "וקיריבו",
+      "gloss": "oo madaxdii waxay soo dhigeen"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "madaxdii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabarigoodii"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "allabarigoodii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:58.133522641Z",
+  "model": "glm-5.3"
+}

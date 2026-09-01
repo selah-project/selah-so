@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahweh ⟨waa⟩ boqor weligiis iyo weligoba; ummaduhu waa la baabi'iyay dhulkiisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligoba"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ummaduhu"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dhulkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:51.878245255Z",
+  "model": "glm-5.3"
+}

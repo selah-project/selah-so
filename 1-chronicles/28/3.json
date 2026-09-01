@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Laakiin Elohim wuxuu ii yidhi: Adigu guri ma dhisayso Magacayga, waayo nin dagaallo ah baad tahay, oo dhiig baad daatiday.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Laakiin Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "dhisayso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Magacayga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dagaallo ah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "baad tahay"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "oo dhiig"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "baad daatiday"
+    }
+  ],
+  "timestamp": "2026-09-01T06:34:30.576275925Z",
+  "model": "glm-5.3"
+}

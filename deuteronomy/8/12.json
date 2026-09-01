@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "In aad cunto aadna hesho, aadna dhisto guryo wanaagsan aadna ku noolaato.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "in"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "aad cunto"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "aadna hesho"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "aadna dhisto"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "aadna ku noolaato"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:45.853726033Z",
+  "model": "glm-5.3"
+}

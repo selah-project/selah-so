@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waan ku baryayaa inaan dhaafoo aan arko ⟨את⟩ dhulka wanaagsan ee ka baxsan Yardenka — buurta wanaagsan ee ah tan iyo Lubnaan.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "inaan dhaafo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan ku baryayaa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "oo aan arko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ee ah tan"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "iyo Lubnaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:31.345506785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waqtigii la dilo, iyo waqtigii la cimaado; waqtigii la jebiyo, iyo waqtigii la dhiso.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "la dilo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "la cimaado"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "la jebiyo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "iyo waqtigii"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "la dhiso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:26.408028154Z",
+  "model": "glm-5.3"
+}

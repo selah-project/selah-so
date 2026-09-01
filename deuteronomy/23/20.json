@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ha dhiibin walaalkaa ribo: ribo lacag, ribo cunto, ribo wax kasta oo la dhiibto ribo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "dhiibin ribo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wax"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "la dhiibto ribo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:05.104481914Z",
+  "model": "glm-5.3"
+}

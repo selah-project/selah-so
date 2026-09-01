@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Boazna wuu dhalay ⟨את⟩ Obed, Obedna wuu dhalay ⟨את⟩ Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boazna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "Obedna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:23.833825760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ Yebusiyiinta iyo ⟨את⟩ Emoriyinta iyo ⟨את⟩ Girgashiyiinta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Yebusiyiinta"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusiyiinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Emoriyinta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Girgashiyiinta"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashiyiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:19.272060988Z",
+  "model": "glm-5.3"
+}

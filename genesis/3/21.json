@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Yahweh Elohim wuxuu Aadam iyo naaggiisi labaad u sameeyey dhar maqas (maro) ah, waxaana dhardhoolay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "iyo naaggiisi"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "dhar (maro)"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqas ah"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "waxaana dhardhoolay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:48.673849364Z",
+  "model": "glm-5.3"
+}

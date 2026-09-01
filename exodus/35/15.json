@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "iyo ⟨את⟩ allirtii qorshadda iyo ⟨את⟩ tiiraradeedii, iyo ⟨את⟩ shuqudda subkidda iyo ⟨את⟩ qorshadda udgoonka, iyo ⟨את⟩ daaqadda iridda horteeda iridda Mihraabka;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "allirtii qorshadda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allirtii"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qorshadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tiiraradeedii"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tiiraradeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shuqudda subkidda"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "shuqudda"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "subkidda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qorshadda udgoonka"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qorshadda"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "udgoonka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daaqadda iridda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "daaqadda"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "horteeda iridda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mihraabka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:43.472302694Z",
+  "model": "glm-5.3"
+}

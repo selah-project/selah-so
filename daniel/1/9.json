@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohimna wuxuu siiyay ⟨את⟩ Daaniyeel khesed iyo naxariis (raxmado) ka horreesha sareeye sareeyayaasha (eunuchada).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daaniyeel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daaniyeel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "khesed u"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "iyo naxariis (raxmado) u"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka horreesha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sareeye"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sareeyayaasha (eunuchada)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:53.183845911Z",
+  "model": "glm-5.3"
+}

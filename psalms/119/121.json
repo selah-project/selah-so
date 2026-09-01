@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan sameeyay ⟨את⟩ xukun iyo ⟨את⟩ caddaalad; ha iga dayin kuwa i quudhsaday.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "waxaan sameeyay"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "iyo caddaalad"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha…dayin (diidmo adag)"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ha iga dayin"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kuwa i quudhsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:55.160516384Z",
+  "model": "glm-5.3"
+}

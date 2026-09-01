@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaad dhisi doontaa kiyoorka ⟨kiyor⟩ — weel bir ah — iyo salxiggiisa bir ah lagu dhaqdo, waxaadna dhigi doontaa ⟨את⟩ meel u dhexeysa Khaymada Kulanka iyo alwaaxa, waxaadna dhigi doontaa halka biyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad dhisi doontaa"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "kiyoorka ⟨kiyor — weel bir ah⟩"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bir ah"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "iyo salxiggiisa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bir ah"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "lagu dhaqdo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "waxaadna dhigi doontaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kiyoorka (weelka)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "meel u dhexeysa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "waxaadna dhigi doontaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:33.938111378Z",
+  "model": "glm-5.3"
+}

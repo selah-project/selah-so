@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan qalbiga ku idhi: Kaalay, aan ku tijaabiyo farxad, oo aan arko wanaagga — oo bal, kanuna waa hebel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kaalay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "aan ku tijaabiyo"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo aan arko"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo bal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kani"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.206774607Z",
+  "model": "glm-5.3"
+}

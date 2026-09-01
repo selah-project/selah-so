@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 100,
+  "translation": "Waa inuu Yahweh wanaagsan yahay; khesedkiisii wuxuu waaraa ilaa weligiis, ilaa duruur iyo duruur amaanatiisii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa in"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "דר",
+      "gloss": "duruur"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo duruur"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "amaanatiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:37.394965285Z",
+  "model": "glm-5.3"
+}

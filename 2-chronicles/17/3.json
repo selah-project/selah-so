@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Yahwehna wuxuu ahaa ⟨la⟩ Yehooshuuca, waayo wuxuu ku socday waddooyinkii Daawuud aabbihiis ee hore, Baalladana ka horimaannana wuu raadin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wuxuu socday"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ku ... waddooyinkii"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ee hore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "raadin"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baallada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:12.664107806Z",
+  "model": "glm-5.3"
+}

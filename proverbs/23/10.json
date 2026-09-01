@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Xadka iidda ha dhaqaaqin, iyo beeryama atomuma ha u galin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha (ha dhaqaaqin)"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "dhaqaaqin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xadka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iidda"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "iyo beeryama"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "atomuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha (ha u galin)"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "u galin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:53.589362501Z",
+  "model": "glm-5.3"
+}

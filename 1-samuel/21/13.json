@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Dawidna wuxuu dhigay ⟨את⟩ ereyadaan wadnigiisa gudaheeda, oo Aaduu ka cabsaday Akish boqorkii Gath.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "taan"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "wadnigiisa gudaheeda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "oo Aaduu ka cabsaday"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Aad"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:17.668791326Z",
+  "model": "glm-5.3"
+}

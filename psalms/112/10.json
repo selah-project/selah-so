@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Sharliga wuxuu arkayaa oo xanaaqaa; ilkahiisa wuxuu afooraa, wuxuuna dhul-bahtaa; damaca sharliga waa baaba'aa.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "sharliga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wuxuu arkayaa"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "oo xanaaqaa"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ilkahiisa"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "wuxuu afooraa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "wuxuuna dhul-bahtaa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "damaca"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharliga"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "waa baaba'aa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:16.599561755Z",
+  "model": "glm-5.3"
+}

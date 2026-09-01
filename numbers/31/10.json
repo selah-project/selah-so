@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Iyo ⟨את⟩ magaalooyinkooda oo dhan meeshii ay degganaayeen, iyo ⟨את⟩ degsiimooyinkooda oo dhan waxay gubeen ololka dabiiciga ah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "magaalooyinkooda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "magaalooyinkooda"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "meeshii ay degganaayeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "degsiimooyinkooda oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "degsiimooyinkooda"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "waxay gubeen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ololka dabiiciga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:17.071791746Z",
+  "model": "glm-5.3"
+}

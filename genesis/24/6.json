@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oo Abraham wuxuu ku yidhi, iska jir inaad u celiso ⟨את⟩ wiilkayaga halkaas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "iska jir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "in"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "aad u celiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilkayaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkayaga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:36.818744551Z",
+  "model": "glm-5.3"
+}

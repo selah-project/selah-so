@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Elohim qasriyadeeda dhexdeeda waa la garanayaa ⟨inuu yahay⟩ magangalyo sare.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "qasriyadeeda dhexdeeda"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "waa la garanayaa"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "magangalyo sare"
+    }
+  ],
+  "timestamp": "2026-09-01T08:42:51.215166658Z",
+  "model": "glm-5.3"
+}

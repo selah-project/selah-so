@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dawid wuxuu la seexday aabayaashiis, waxaana lagu aasay magaalada Dawid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "wuxuu la seexday"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabayaashiis"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "waxaana lagu aasay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:57.923406127Z",
+  "model": "glm-5.3"
+}

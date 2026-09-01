@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaana ka jawaabi doonaa kan i-cayaya, waayo, adiga baan ku kalsoonahay ⟨eraykaaga⟩.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "waxaana ka jawaabi doonaa"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "kan i-cayaya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jawaab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "baan ku kalsoonahay"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "⟨eraykaaga⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:36.224937736Z",
+  "model": "glm-5.3"
+}

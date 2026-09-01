@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Waayo, Yahweh wuu sarreeyaa, laakiin kan hoosaysa wuu arktaa, oo kan sarreeyana wuu ka fog ogyahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "רם",
+      "gloss": "wuu sarreeyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "kan hoosaysa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wuu arktaa"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "kan sarreeya"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ka fog"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ogyahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:51.659478909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Wuxuu dejiyaa qayladda baddaha, qayladda mawjaddooda, iyo buuqa ummadaha.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "dejiyaa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "qayladda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "baddaha"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "qayladda"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "mawjaddooda"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "iyo buuqa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ummadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:52.252805889Z",
+  "model": "glm-5.3"
+}

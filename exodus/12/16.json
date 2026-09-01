@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 12:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo maalka koowaad waxay noqon doontaa shir qadduun ah, iyo maalka toddobaad waxay noqon doontaa shir qadduun ah idiin; shuqul kastoo laga sameeyo ma sameysaan, waxaa reeban oo keliya wax la cuno naf kasta; kaas oo keliya baad sameyn kartaan.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Oo maalka"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "shir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadduun ah"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "iyo maalka"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "toddobaad"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "shir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadduun ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "shuqul kastoo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameysaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "(maalmahaas)"
+    },
+    {
+      "surface": "אך",
+      "gloss": "waxaa reeban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la cuno"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kastoo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "baad sameyn kartaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:53.350288352Z",
+  "model": "glm-5.3"
+}

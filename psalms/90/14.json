@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Naga dhex buuxi subaxii ⟨את⟩ khesedkaaga, si aanu u qaylinno oo aanu ku faraxno maalmahayaga oo dhan.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Naga dhex buuxi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxii"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "si aanu u qaylinno"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "oo aanu ku faraxno"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "maalmahayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:47.866963597Z",
+  "model": "glm-5.3"
+}

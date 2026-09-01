@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "waxyaalo la yaab leh dhulka Cham, oo waxyaalo cabsi leh badweynta Suuf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "waxyaalo la yaab leh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "waxyaalo cabsi leh"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ים",
+      "gloss": "badweynta"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:22.739129331Z",
+  "model": "glm-5.3"
+}

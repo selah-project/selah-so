@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Nabad badan bay u sugnaatay kuwa jecla Sharcigaaga, oo wax hor-istaaga ah uma laha.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Nabad"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "bay u sugnaatay kuwa jecla"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ma jiro"
+    },
+    {
+      "surface": "למו",
+      "gloss": "uma laha"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "wax hor-istaaga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:40.047232246Z",
+  "model": "glm-5.3"
+}

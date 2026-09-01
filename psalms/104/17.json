@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Halkaas shimbiruhu ay geeso ku dheehan, xasiddaha beroshka waa gurigiisa",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "halkaas (halka ay)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "shimbiruhu"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "geeso ku dheehan"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "xasiddaha"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroshka"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:39.550659507Z",
+  "model": "glm-5.3"
+}

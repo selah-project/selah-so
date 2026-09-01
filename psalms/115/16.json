@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Samada — samadu waxay tahay Yahweh; dhulkana wuxuu siiyay inimanka.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samadu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhulkana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "inanka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.027767010Z",
+  "model": "glm-5.3"
+}

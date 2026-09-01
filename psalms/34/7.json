@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Qofkan oo baahan ayaa u qayliyay, oo Yahweh wuu maqlay, oo dhibihiisa oo dhan wuu ka badbaadinayay.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oo bahan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "u qayliyay"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "oo Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "oo ... oo dhan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "dhibihiisa"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "wuu ka badbaadinayay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:07.886695190Z",
+  "model": "glm-5.3"
+}

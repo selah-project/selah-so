@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Elohim baannu maalintoo dhan ku faanannay, magacaagana weligiis waannu ku mahadnaqaynaa. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim [gudaha]"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "baannu faanannay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "iyo magacaaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "waannu mahadnaqaynaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:02.589831014Z",
+  "model": "glm-5.3"
+}

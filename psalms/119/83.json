@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waayo, waxaan noqday sidii dhiil qiiqa ku qallalan; xeerarkaaga ma illoobin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "waxaan noqday"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "sidii dhiil"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "qiiqa ku qallalan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "illoobin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:51.053459291Z",
+  "model": "glm-5.3"
+}

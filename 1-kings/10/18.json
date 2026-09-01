@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo boqorku wuxuu sameeyay carshi ilbiriiqsi ah oo weyn, oo wuxuu ku dul dhergabay dhahab la nadiifiyay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "carshi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ilbiriiqsi ah"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "wuxuu ku dul dhergabay"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahab"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "la nadiifiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:08.232351859Z",
+  "model": "glm-5.3"
+}

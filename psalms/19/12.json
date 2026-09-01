@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Sidoo kale addoonkaagaa ⟨waa⟩ lagu warramay ⟨yaa⟩; ⟨oo⟩ ⟨marka⟩ la ilaaliyay ⟨yaa⟩ waxaa jira abaalgud fara badan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "lagu warramay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "marka la ilaaliyay"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "abaalgud"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fara badan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:48.969444469Z",
+  "model": "glm-5.3"
+}

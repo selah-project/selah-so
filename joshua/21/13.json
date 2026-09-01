@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxay siisay wiilasha Aharon oo ah wadaaddada ⟨את⟩ magaalada makhaayadda dhiiggarabka, ⟨את⟩ Chebron iyo ⟨את⟩ beerkeeda, iyo ⟨את⟩ Libnah iyo ⟨את⟩ beerkeeda.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay siisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magalada makhaayadda dhiiggarabka, Chebron"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magalada"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "makhaayadda"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dhiiggarabka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Libnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:53.480640561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo weliba waxaan arkay hoos ka midda qoraxda: meesha xukunka — halkaa ⟨waa⟩ sharcun-darro; iyo meesha cadaadinta — halkaa ⟨waa⟩ sharcun-darro.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Oo weliba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos ka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sharcun-darro"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "iyo meesha"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "cadaadinta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sharcun-darro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:48.853164611Z",
+  "model": "glm-5.3"
+}

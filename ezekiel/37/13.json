@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Oo waxaad ogaan doontaan inaan ahay Yahweh, markaan furayo ⟨את⟩ qabuurahaadiin, oo markaan idinka soo kicinayo ⟨את⟩ idin ka qabuurahaadiin, dadkaygii shabab.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "waxaad ogaan doontaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "markaan furayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabuurahaadiin"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "qabuurahaadiin"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "oo markaan idinka soo kicinayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idin (ka qabuurahaadiin)"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "ka qabuurahaadiin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkaygii shabab"
+    }
+  ],
+  "timestamp": "2026-09-01T04:39:25.327900290Z",
+  "model": "glm-5.3"
+}

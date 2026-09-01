@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Elohimna waa Boqorkaygii hore, sameeya badbaadoyo gudaha dhexdhulka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorkaygii"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badbaadoyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gudaha dhexdhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhexdhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.284406631Z",
+  "model": "glm-5.3"
+}

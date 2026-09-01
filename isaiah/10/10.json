@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Sida gacantaydii u heshay boqortooyada sanamyada, iyo sawirradooda la qoorsiyeen ⟨kuwa⟩ ka weyn ⟨kuwa⟩ Yeruushaalaym iyo ⟨kuwa⟩ Shomeroon.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "u heshay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantaydii"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "iyo sawirradooda la qoorsiyeen"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "iyo Shomeroon"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:15.851101068Z",
+  "model": "glm-5.3"
+}

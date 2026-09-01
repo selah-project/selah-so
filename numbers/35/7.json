@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Dhammaan magaalooyinka aad si doontaan Laawiyiinta waa afartan iyo sideed magaalo — ⟨את⟩ iyaga iyo ⟨את⟩ migraashyadooda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "si doontaan"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Laawiyiinta"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "iyo sideed"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "magaalooyinka (sideed-iyo-afartan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "migraashyadooda"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "migraashyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:16.587613317Z",
+  "model": "glm-5.3"
+}

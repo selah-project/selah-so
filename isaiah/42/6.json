@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Anigaa ah Yahweh, waan ku cidhiidhiyay ⟨adiga⟩ sinaan dartii, oo gacantaada waan ku qabannaa, waan ku ilaaliyaa, oo waan ku siinayaa ballan ⟨magaale⟩ shacabka, iftiin u noqon ummadaha.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "waan ku cidhiidhiyay ⟨adiga⟩"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sinaan dartii"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "gacantaada waan ku qabannaa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "waan ku ilaaliyaa"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "waan ku siinayaa"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ballan ⟨magaale⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iftiin u noqon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ummadaha"
+    }
+  ],
+  "timestamp": "2026-09-01T08:25:14.617085817Z",
+  "model": "glm-5.3"
+}

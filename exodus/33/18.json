@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Wuxuuna yidhi: iigu muuji bal ⟨את⟩ kaboodkaaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "iigu muuji"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaboodkaaga"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "kaboodkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:47.259731411Z",
+  "model": "glm-5.3"
+}

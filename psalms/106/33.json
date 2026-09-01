@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Sababtoo ah waxay ka naxayiiseen ruuxiisii, wuxuuna af-yaabbay ilkihiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababtoo ah"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ka naxayiiseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxiisii"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruuxiisii"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "af-yaabbay"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ilkihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:39.842678010Z",
+  "model": "glm-5.3"
+}

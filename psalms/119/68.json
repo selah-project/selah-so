@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Adigu wanaag baad tahay, waxana wanaagsan sameysaa; xeerarkaagii iigu bar.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "waxana wanaagsan sameysaa"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "iigu bar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:07.712936018Z",
+  "model": "glm-5.3"
+}

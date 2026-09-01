@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Waa xaq dawnuhu wuxuu u noqon doonaa caddaaladda, waxaana ka dib raaci doonaan dhammaan kuwa qalbiga toosan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa xaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uggu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wuxuu u noqon doonaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dawnuhu"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "waxaana ka dib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:05.526306278Z",
+  "model": "glm-5.3"
+}

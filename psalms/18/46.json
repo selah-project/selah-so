@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wiilasha ajnabiga ah way enaysaa, oo cabsi qabtaa oo ka soo baxaan xeryahooda xiran.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ajnabiga ah"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "way enaysaa (daciifiyaan)"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "oo cabsi qabtaa oo ka soo baxaan"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "xeryahooda xiran"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.723700779Z",
+  "model": "glm-5.3"
+}

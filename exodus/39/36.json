@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "⟨את⟩ miiska, ⟨את⟩ dhamaan qaalabkiisa, iyo ⟨את⟩ rootiga wajiyada.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan qaalabkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qaalabkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "rootiga wajiyada"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wajiyada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:09.912606490Z",
+  "model": "glm-5.3"
+}

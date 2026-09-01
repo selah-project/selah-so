@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waayo, haddii aad runtii dhego adag u noqoto codkiisa, oo aad sameyso wax kasta oo aan ku hadlo, waan necbaanayaa ⟨את⟩ cadowyadaaga, waana cabsi gelinayaa ⟨את⟩ kuwa kuu dhibaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "runtii dhego"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "u noqoto"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "oo aad sameyso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "aan ku hadlo"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "waan necbaanayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowyadaaga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowyadaaga"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "waana cabsi gelinayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa kuu dhibaya"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "kuwa kuu dhibaya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:06.551765578Z",
+  "model": "glm-5.3"
+}

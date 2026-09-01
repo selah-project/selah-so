@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wuxuuna la noqday oo dhisay ⟨את⟩ meelaha sare ee Khizqiyaa aabihii baabi'ay, wuxuuna dhisay altaro Ba'al, wuxuuna sameeyey Asherah sida Axab boqorka Israa'iil sameeyey, wuxuuna sujuuday ciidda samada oo dhan, wuxuuna caabuday ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna la noqday"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meelaha sare"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "meelaha sare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "baabi'ay"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizqiyaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altaro"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyey"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyey"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wuxuuna sujuuday"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "wuxuuna caabuday"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(waxa hore loo sheegay — ciidda samada)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:44.665165247Z",
+  "model": "glm-5.3"
+}

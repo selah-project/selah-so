@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Adigase, Yahweh, waad ku qosli doontaa; quruumaha oo dhan waad ku jees-jeesi doontaa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adigase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "waad ku qosli doontaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "jees-jeesi doontaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruumaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:04.628743541Z",
+  "model": "glm-5.3"
+}

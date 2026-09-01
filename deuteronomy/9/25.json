@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaan horta Yahweh u sujuuday ⟨את⟩ afartan maalmood iyo ⟨את⟩ afartan habeen oo aan (hore) sujuuday, maxaydee Yahweh yidhi inuu ⟨את⟩ idin baabbi'inayo.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "waxaan u sujuuday"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afartan (maalmood)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "afartan (habeen)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "aan sujuuday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaydee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "inuu baabbi'inayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:54.047366228Z",
+  "model": "glm-5.3"
+}

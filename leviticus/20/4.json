@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Haddii dadka dhulka ⟨את⟩ indhahooda ka qariyaan ninkaas markuu firgiisa u bixinayo Molekh, si aan ⟨את⟩ isaga loo dilin,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "qarso (hubaal)"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ka qariyaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhahooda"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "indhahooda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "markuu u bixinayo"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "firgiisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekh"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aan loo dilin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "dilin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "ninkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:39.907747665Z",
+  "model": "glm-5.3"
+}

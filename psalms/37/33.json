@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yahweh kuma daayo gacantiisa, oo xukunkii laguma guiyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "kuma daayo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo lama"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "laguma guiyo"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "xukunkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:01.532613370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Hadduu qalab bir ah ku dilo, oo uu dhinto, waa diley — dil dil (dil dhaqso ah) waa la dili doonaa dileyga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "qalab"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bir ah"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ku dilo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oo uu dhinto"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "waa diley"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dil dil (dil dhaqso ah)"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dili doonaa"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dileyga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:20.569244961Z",
+  "model": "glm-5.3"
+}

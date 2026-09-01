@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Daawud wuxuu qaatay ⟨את⟩ madaxa Falistiiga, wuxuuna keenay Yeruushaalaym, ⟨את⟩ qalabkiisana wuxuu dhigay teendhiishiisa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa Falistiiga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Falistiiga"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalabkiisa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "teendhiishiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:56.196877022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Sababtoo ah tuugashada dadka la-sablay iyo oohinta kuwa baahan, waaganna waan kacayaa, ayuu Yahweh yidhi; waan dhigi doonaa kan u neef-bahanna badbaadashiisii.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "tuugashada"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dadka la-sablay"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "oohinta"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kuwa baahan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "waaganna"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "waan kacayaa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "waan dhigi doonaa"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "badbaadashiisii"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "kan u neef-bahanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:48.802464639Z",
+  "model": "glm-5.3"
+}

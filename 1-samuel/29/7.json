@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Haddaba noqo, nabad u soco, oo ha samayn wax xun indhaha sarakiisha Falistiinta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "nabad u soco"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "samayn"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wax xun"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarakiisha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falishtiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:03.738444878Z",
+  "model": "glm-5.3"
+}

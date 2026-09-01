@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo Farcoon wuxuu rag amray xaggiisa, iyaguna wuxuu direy ⟨את⟩ isaga iyo ⟨את⟩ xaaskiisa iyo ⟨את⟩ waxa keli oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuu amray"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "rag"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "iyaguna wuxuu direy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xaaskiisa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa keli oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa keli oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(waxa)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keli"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:09.920971539Z",
+  "model": "glm-5.3"
+}

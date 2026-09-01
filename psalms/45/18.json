@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Magacaaga waan xusaa doonaa jiil kasta iyo jiil, sidaas darteed shacabku way ku mahadnaqay doonaan weligood iyo weligoodba.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "waan xusaa doonaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "דר",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo jiil"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaas darteed (aasaas)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "way ku mahadnaqay doonaan"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligoodba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:07.611140866Z",
+  "model": "glm-5.3"
+}

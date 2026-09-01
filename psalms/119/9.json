@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sidee buu naaggu daahiri karaa ⟨את⟩ jidkiisa? Waa ilaalin maqalkaaga.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "sidee"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "daahiri karaa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "naaggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidkiisa"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "jidkiisa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "maqalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:00.641698021Z",
+  "model": "glm-5.3"
+}

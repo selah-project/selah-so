@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Yaa ii soo kacayaa la shar-yahanayaasha? Yaa ii taagan doonaa la kuwa xumaanta fala?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ii soo kacayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "shar-yahanayaasha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ii taagan doonaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumaanta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:05.526601521Z",
+  "model": "glm-5.3"
+}

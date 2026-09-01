@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Kanii saara kan li'ataa laga soo dhaafay ⟨את⟩ boqolkii barakacii, kan qashinkii ka sarreeya ⟨את⟩ saboolkii",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "kanii saara"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "laga soo dhaafay boqolkii barakacii"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kan li'ataa"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "qashinkii ka sarreeya"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "saboolkii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:54.082243605Z",
+  "model": "glm-5.3"
+}

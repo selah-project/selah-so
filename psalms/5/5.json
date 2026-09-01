@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waayo, adigu ma tahay El ra sharda raali ku ah; sharku kuma degto agtaada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ra ku raali ah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "kula degto"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.514354064Z",
+  "model": "glm-5.3"
+}

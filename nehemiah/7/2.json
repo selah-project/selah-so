@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo aan amray ⟨את⟩ Xanaani walaalkay iyo ⟨את⟩ Xananaya, oo ah madaxa dhismadaha, in ay Yeruushaalaym maamulaan, waayo isagu wuxuu ahaa nin run ah, oo ka cabsanaya ⟨את⟩ Elohim ka badan dadka badan.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "oo aan amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xanaani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Xanaani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xananaya"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Xananaya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "dhismadaha (birka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "in ay maamulaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run ah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "oo ka cabsanaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ka badan dadka badan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:18:26.661448195Z",
+  "model": "glm-5.3"
+}

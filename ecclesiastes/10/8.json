@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kaniini baabaca wuxuu ku dhici doonaa, oo kan dillaaca derbi mas wuu ku tari doonaa.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "kaniini"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "baabaca"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wuxuu ku dhici doonaa"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "oo kan dillaaca"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "derbi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "wuu ku tari doonaa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mas"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:35.818351048Z",
+  "model": "glm-5.3"
+}

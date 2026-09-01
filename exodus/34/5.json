@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Wuxuu dagay Yahweh daruurta gudaheed, wuxuuna la taagnaa ⟨isagii⟩ halkaas, wuxuuna ku dhawaaqay magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wuxuu dagay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "daruurta gudaheed"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wuxuu la taagnaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la ⟨isagii⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna ku dhawaaqay"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:13.112204277Z",
+  "model": "glm-5.3"
+}

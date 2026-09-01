@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "eegana kan wanaagsan iyo kan toosan oo ka mid ah wiilasha sayidkiinna, oo dhigana carshiga aabbiis, oo dagaallamana ahaan baytkii sayidkiinna.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "eegana"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kan wanaagsan"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "iyo kan toosan"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oo ka mid ah wiilasha"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sayidkiinna"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "oo dhigana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ahaan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "carshiga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbiis"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "oo dagaallamana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ahaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sayidkiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:18.124324777Z",
+  "model": "glm-5.3"
+}

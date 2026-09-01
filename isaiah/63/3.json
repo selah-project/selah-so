@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Warshadda khamaarka waxaan keliya ku tuuray, oo shacabka ma jiro qof ⟨את⟩ il; xaasiddaaddayda ayaan ku tuuray, cadhaddaydana waan ku ciyaaray, dhiigoodii waxay ku fooftay dharkaygii, dharkaygii dhan waan wasakhay.",
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "warshadda khamaarka"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "waxaan ku tuuray"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "oo shacabka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ il",
+      "marks": "qof (oo ⟨את⟩ la jira)"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "waxaan ku tuuray"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "xaasiddaaddayda"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "waan ku ciyaaray"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "cadhaddayda"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "waxay ku fooftay"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "dhiigoodii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dharkaygii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "dharkaygii dhan"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "waan wasakhay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:12.209400165Z",
+  "model": "glm-5.3"
+}

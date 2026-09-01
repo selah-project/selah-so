@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna ⟨את⟩ hadhaaga dadka ka mid ah gacanta Abishay, walaalkiis, u gudbiyay; isaguna wuxuu saaray safkii uu kula kulmo carruurtu Amoon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hadhaaga dadka"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "hadhaaga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "u gudbiyay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "wuxuuna saaray"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uu kula kulmo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurtu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoon"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:51.050200605Z",
+  "model": "glm-5.3"
+}

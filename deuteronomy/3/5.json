@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Dhammaan kuwanu magaalooyin la adkeesay ayay ahaayeen, deyr sarreeya, labo-albaab iyo sanduuq; marka laga reebo magaalooyinka aan deyr lahayn, aad u badan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwanu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "la adkeesay"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "deyr"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "sarreeya"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "labo-albaab"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "iyo sanduuq"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "marka laga reebo"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "aan deyr lahayn"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:59.758060382Z",
+  "model": "glm-5.3"
+}

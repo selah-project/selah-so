@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Daawudna wuu ciiliyey ⟨את⟩ ninnooshiisa ereyada, uma uusan idamin inay kacaan Shaa'uul; Shaa'uulna wuu ka kacay godka, wuuna tegey jidka.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "wuu ciiliyey"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninnooshiisa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ninnooshiisa"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma uusan"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "idamin"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "inay kacaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ka soo horjeedka)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "קם",
+      "gloss": "wuu ka kacay"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "godka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuuna tegey"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:42.123185166Z",
+  "model": "glm-5.3"
+}

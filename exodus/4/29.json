@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Muuse iyo Aarun way tegeen, waxayna soo aruureen ⟨את⟩ dhammaan odayasha wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "way tegeen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aarun"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "waxayna soo aruureen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan odayasha wiilasha Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:31.604952838Z",
+  "model": "glm-5.3"
+}

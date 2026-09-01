@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo boqorkii Shelomoh wuxuu gacanta ku diray Benayah ina Yehojadah; wuuna ku dhuftay, wuuna dhintay.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta ku"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojadah"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "wuuna ku dhuftay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:37.165902739Z",
+  "model": "glm-5.3"
+}

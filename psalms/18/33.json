@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Elka ah oo igula xiraya xoog, oo jidkayagana ka dhigaya mid buuxa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Elka ah"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "oo igula xiraya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "oo ka dhigaya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mid buuxa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jidkayaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:52.915355366Z",
+  "model": "glm-5.3"
+}

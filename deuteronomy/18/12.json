@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waayo, waxa Yahweh karahiyo waa kulli mid sameeya kuwan; iyo sababtaan laydyadaas ayaa Yahweh Elohimadaadu ka eryayo ⟨את⟩ waqtigaagi horta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "waxa karahiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulli mid"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "iyo sababtaan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "laydyadaas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimadaadu"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ka eryayo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "laydyadaas sameeyay (shacabkaas)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "waqtigaagi horta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:22.354082961Z",
+  "model": "glm-5.3"
+}

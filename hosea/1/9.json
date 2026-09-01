@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna yidhi: Magaciisa ha ugu baddo Lo-Ammi (Aniga ma lihi), waayo, adigiin ma tihidiin qolokayga, Aniguna ma noolaan doono idinkoo ah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ha ugu baddo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo (ma)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (qolokayga)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "adigiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolokayga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "noolaan doono"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinkoo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:23.917627339Z",
+  "model": "glm-5.3"
+}

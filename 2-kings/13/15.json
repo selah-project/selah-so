@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Elishaanna wuxuu ku yidhi: Qaadh gaashaan dhig iyo fallaadho. Wuxuuna qaaday gaashaan dhigga iyo fallaadhaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaanna"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Qaadh"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gaashaan dhig"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "iyo fallaadho"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Wuxuuna qaaday"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gaashaan dhigga"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "iyo fallaadhaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:30:04.467526327Z",
+  "model": "glm-5.3"
+}

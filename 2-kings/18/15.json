@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo Chisqiya wuxuu siiyay ⟨את⟩ dhammaan lacagta laga helay guriga Yahweh iyo khasnadaha guriga boqorka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chisqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan lacagta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "laga helay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "iyo khasnadaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:17.635510300Z",
+  "model": "glm-5.3"
+}

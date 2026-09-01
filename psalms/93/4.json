@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 93,
+  "translation": "Ka sii sarreeya codka biyo badan, sida mowjaha badda oo awood badan, Yahweh sare (sare buu ka aad) wuxuu awood badan yahay.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ka sii sarreeya codka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "awood badan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "mowjaha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wuxuu awood badan yahay"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "sare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:09.068768798Z",
+  "model": "glm-5.3"
+}

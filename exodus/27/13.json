@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Iyo bannaankii (ballaadhka) gurigii waxaa ka ahaa dhinaca bariga, bariga u jeeda, kontan il (cubit).",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "iyo ballaadhka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "gurigii (bannaankii)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "bariga u jeeda (qorraxda ka soo baxda)"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kontan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "il (cubit)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:40:05.755653124Z",
+  "model": "glm-5.3"
+}

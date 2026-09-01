@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Kadib waxba Ayuub wuxuu noolaa boqol iyo afartan sano, wuxuuna arkay ⟨את⟩ wiilashiisa iyo ⟨את⟩ wiilashii wiilashiisa, afartan jiil.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waxba"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuuna arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashii wiilashiisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afartan jiil oo"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "jiil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:03.676249868Z",
+  "model": "glm-5.3"
+}

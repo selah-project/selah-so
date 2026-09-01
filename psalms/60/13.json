@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Sii na caawimo ⟨oo⟩ ka dhexceeda dhibta, oo wax ma dhaawaco ahna waa badbaadada dadka.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Sii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "caawimo"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dhibta (cadowga)"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "oo wax ma dhaawaco ah"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:48.157600173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Markaas maan ceeboobi doono markaan fiirinayo amarradaagii oo dhan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "markaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ceeboobi doono"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "markaan fiirinayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(xaggiisa)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:28.064566851Z",
+  "model": "glm-5.3"
+}

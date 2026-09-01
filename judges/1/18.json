@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahuudahna wuxuu qabsaday ⟨את⟩ Gaazah iyo ⟨את⟩ dhulkeedii, iyo ⟨את⟩ Ashkelon iyo ⟨את⟩ dhulkeedii, iyo ⟨את⟩ Ekron iyo ⟨את⟩ dhulkeedii.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wuxuu qabsaday"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaazah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaazah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeedii"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dhulkeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeedii"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dhulkeedii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeedii"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dhulkeedii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:27.381383155Z",
+  "model": "glm-5.3"
+}

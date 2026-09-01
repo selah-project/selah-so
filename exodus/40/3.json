@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Oo waxaad dhigi doontaa halkaas ⟨את⟩ sanduuqa markhaatiga, oo waxaad saabusi doontaa sanduuqa ⟨את⟩ saabunta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "waxaad dhigi doontaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "waxaad saabusi doontaa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saabunta"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "saabunta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:53.261655801Z",
+  "model": "glm-5.3"
+}

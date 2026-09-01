@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo ⟨את⟩ kuwa saqafarka ku sujuuda ciidanka samada, iyo ⟨את⟩ kuwa sujuuda ee u dhaaranaya Yahweh, iyo kuwa u dhaaranaya Milkoom (boqorkooda).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa saqafarka ku sujuuda"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kuwa sujuuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "saqafarka"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kuwa sujuuda"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "kuwa sujuuda"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "kuwa u dhaaranaya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "iyo kuwa u dhaaranaya"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Milkoom (boqorkooda)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:28.464630258Z",
+  "model": "glm-5.3"
+}

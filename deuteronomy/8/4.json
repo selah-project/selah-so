@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dharkaagu kuma duugoobin, cagahaaguna ma bararin — tan afartan-iyo-sanad.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Dharkaagu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "duugoobin"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuugu"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "cagahaaguna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "bararin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:03.237383288Z",
+  "model": "glm-5.3"
+}

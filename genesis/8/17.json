@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dhammaan waxa nool ee ⟨את⟩ kula jirto, oo laabta ka mid ah, shimbiraha iyo xoolaha iyo dhammaan xuubbada ee xuubbayso dhulka kor kiisa, ka bixi la ⟨את⟩; ha ku xuubbadaan dhulka, ha soo saaraan, ha badnaadan dhulka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "waxa nool"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kula jirto",
+      "marks": "waxa nool"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo laabta ka mid ah"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laab"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "iyo xoolaha"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "xuubbada"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ee xuubbayso"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor kiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "ka bixi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩",
+      "marks": "waxa nool"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "ha ku xuubbadaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "ha soo saaraan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ha badnaadan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:12.917187437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Waayo, sida samadu ay ka sarreyso dhulka, sidaasaa dariiqooyinkay ka sarreeyaan dariiqooyinkiinna, iyo fikirradayga fikirradiinna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ay ka sarreyso"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samadu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaasaa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ka sarreeyaan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dariiqooyinkay"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "dariiqooyinkiinna"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "iyo fikirradayga"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "fikirradiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:29.663237992Z",
+  "model": "glm-5.3"
+}

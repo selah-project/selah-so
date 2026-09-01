@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan ku idhi malaggii ii hadlaya: Maxay kuwan yihiin? Wuxuu ii yidhi: Kuwani waa geesaha kuwaas oo kirtay ⟨את⟩ Yehuudah, ⟨את⟩ Israa'iil iyo Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Waxaan idhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaggii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hadlaya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ii yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "kirtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "iyo Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:23.232780155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Xusuusta wanaaggaaga aadka badan way si batino leh u soo bixi doonaan, xaqnimadaadana way qaylo-dhaqaaq doonaan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xusuusta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aadka badan"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wanaaggaaga"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "way si batino leh u soo bixi doonaan"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "way qaylo-dhaqaaq doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:21.019631714Z",
+  "model": "glm-5.3"
+}

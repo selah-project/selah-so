@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Shemu'elna wuxuu ku yidhi mindhicirka: Siin ⟨את⟩ qadda aan ku siiyay, oo aan kuu idhi: Dhig ⟨את⟩ agtaada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "mindhicirka"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "siin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qadda"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "qadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ku siiyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuu idhi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "agtaada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:54.370760903Z",
+  "model": "glm-5.3"
+}

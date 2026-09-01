@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Huuro huurooyin, ayuu yidhi Kohellet, wixii dhan waa huuro.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "huuro"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "huurooyin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohellet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wixii dhan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "huuro"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:56.770425424Z",
+  "model": "glm-5.3"
+}

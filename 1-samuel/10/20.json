@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Shemuuelna wuxuu soo dhoweeyay ⟨את⟩ qabiilada Israaiil oo dhan, waxaana la qabsaday qabiilka Binyamiin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuu soo dhoweeyay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabiilada Israaiil oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabiilada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "waxaana la qabsaday"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:05.303974771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Maqla ereyga Yahweh, qoyska Yacquub, iyo qoysaska oo dhan ee qoyska Israa'iil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "maqla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qoysaska"
+    },
+    {
+      "surface": "בית",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:08.529056170Z",
+  "model": "glm-5.3"
+}

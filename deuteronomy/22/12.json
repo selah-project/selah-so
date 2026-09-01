@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Foojamaro waa sameysaa naftaada, afarta gees ee dhar-kataada aad ku kitaanto.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "foojamaro (shunmaro)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waa sameysaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (sababta)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afarta"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "dhar-kataada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ah"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "aad ku kitoonto"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku (postposition)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:37.928559928Z",
+  "model": "glm-5.3"
+}

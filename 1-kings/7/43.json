@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "iyo ⟨את⟩ saldhigyada toban, iyo ⟨את⟩ masakkada toban oo saldhigyada ku yaal",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saldhigyada toban"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saldhigyada"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "masakkada toban"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "masakkada"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saldhigyada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:38.497182104Z",
+  "model": "glm-5.3"
+}

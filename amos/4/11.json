@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 4:11",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaan idin rogay sida rogitaankii uu Elohim ku rogay ⟨את⟩ Sedoom iyo ⟨את⟩ Camoora, waxaadna noqoteen sida ubax laga soo saaray gubitaanka, oo aadan ilayn aniga la noqon, ayuu yidhi Yahweh.",
+  "tokens": [
+    {
+      "surface": "הפכתי",
+      "gloss": "waxaan idin rogay"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sida rogitaankii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedoom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedoom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Camoora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Camoora"
+    },
+    {
+      "surface": "ותהיו",
+      "gloss": "waxaadna noqoteen"
+    },
+    {
+      "surface": "כאוד",
+      "gloss": "sida ubax"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "laga soo saaray"
+    },
+    {
+      "surface": "משרפה",
+      "gloss": "gubitaanka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "la noqon"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilayn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:36.313486769Z",
+  "model": "glm-5.3"
+}

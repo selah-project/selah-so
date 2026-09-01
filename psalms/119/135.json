@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Wajigaaga if siiso addoonkaaga, oo i bar ⟨את⟩ qaynuumaada.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Wajigaaga"
+    },
+    {
+      "surface": "האר",
+      "gloss": "if siiso"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "oo i bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaynuumaada"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "qaynuumaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:38.543789738Z",
+  "model": "glm-5.3"
+}

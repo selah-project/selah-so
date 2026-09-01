@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Wuxuu ku ururiyaa sida boos biyaha badda; wuxuu dhigaa siyaalaha godobbada keydkiisii.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Wuxuu ku ururiyaa"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "sida boos"
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu dhigaa"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "keydkiisii"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "godobbada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:36.924334386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu dhuubay samada kuna soo degtay, muga iyo duul hoosteeda cagahiisa.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wuxuu dhuubay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ku soo degtay"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "muga iyo duul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "cagahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:33.452714341Z",
+  "model": "glm-5.3"
+}

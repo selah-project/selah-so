@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waddada runta ah waan dooraday, xukunkaaga waan hortooda dhigay.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Waddada"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "runta ah"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "waan dooraday"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunkaaga"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "waan hortooda dhigay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:07.290341697Z",
+  "model": "glm-5.3"
+}

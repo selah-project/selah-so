@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Markuu u hanuuniyo codkiisa ha rumeynin; waayo toddoba la neceb yahay bay qalbigiisa ku jiraan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markuu (waayo)"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "u hanuuniyo"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha (diid)"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "rumeynin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "waxa la neceb yahay"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisa ku jiraan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:04.481163346Z",
+  "model": "glm-5.3"
+}

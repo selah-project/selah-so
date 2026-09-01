@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna u dhoweeyay ⟨את⟩ qabiilka Bunyaamiin qoysaskiisa, qoyska ha-Matriy ayaa la doortay, Shaa'uul ina Qiishna waa la doortay, wayna doonda'adeen markaase lama helin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuuna u dhoweeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabiilka Bunyaamiin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bunyaamiin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "qoysaskiisa"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "ayaa la doortay"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "ha-Matriy"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "waa la doortay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Qiish"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "wayna doonda'adeen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "markaase ma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "lama helin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:00.674276368Z",
+  "model": "glm-5.3"
+}

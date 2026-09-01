@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ner wuxuu dhalay ⟨את⟩ Qiish, Qiishna wuxuu dhalay ⟨את⟩ Shaa'uul, Shaa'uulna wuxuu dhalay ⟨את⟩ Yehonatan iyo ⟨את⟩ Malkii-Shuua iyo ⟨את⟩ Abinadab iyo ⟨את⟩ Eshbaal.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiish"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Qiish"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Qiishna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Malkii-Shuua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkii-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Eshbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Eshbaal"
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:22.641108201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "iyo ciidankiisa iyo kuwa la tiriyay oo ah shan iyo sodon kun oo afar boqol.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "iyo ciidankiisa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "iyo kuwa la tiriyay"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo sodon"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "oo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:43.323441664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Shet wuxuu noolaa intii uu ka dhashay ⟨את⟩ Enosh ka dib toddoba sano iyo sideed boqol oo sano, wuxuuna dhalay wiilal iyo gabdho.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "uu dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "iyo sideed"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdho"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:52.203900157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Qodax ayaa gacanta sakhraanka ku soo baxa, sidaas oo kale mashaalna ⟨wuxuu ahaa⟩ afka nacasyada.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "qodax"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wuxuu ku soo baxay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sakhraanka"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "oo mashaalna"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nacasyada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:52.888960662Z",
+  "model": "glm-5.3"
+}

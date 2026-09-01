@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Magaciisa ha ka ammaaneen qaab riwaayadeed; durbaan iyo kinniir bay ka cambaareeyaan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ha ka ammaaneen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "qaab riwaayadeed"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "durbaan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "iyo kinniir"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ka cambaareeyaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:51.766139579Z",
+  "model": "glm-5.3"
+}

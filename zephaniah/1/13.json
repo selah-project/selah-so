@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Malqabkoodu wuxuu noqonayaa lacag-laqdin, guryahooduna baaba', baydho; guryo bay dhisi doonaan lama degna doonaan, beero cambe ah bay beeri doonaan khamrigoodana ma cabbayaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqonayaa"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "malqabkoodu (hantidoodu)"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "lacag-laqdin"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "guryahooduna"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "baaba', baydho"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "bay dhisi doonaan"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "degna doonaan"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "bay beeri doonaan"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "beero cambe ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "cabbayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khamrigooda (יינם)"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "khamrigooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:00.053568221Z",
+  "model": "glm-5.3"
+}

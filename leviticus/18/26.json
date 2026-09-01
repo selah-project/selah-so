@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Idinku waa ilaaliya ⟨את⟩ qawaaniimyahay iyo ⟨את⟩ xukunnadayda, oo ha fasnin wax ka mid ah waxa la naco walbaas — muwaadinku iyo soo-daaha idinka dhex nool.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waa ilaaliya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qawaaniimyahay"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "qawaaniimyahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunnadayda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunnadayda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha fasnin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ha fasnin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wax ka mid ah"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "waxa la naco"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "walbaas"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "muwaadinku"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "iyo soo-daaha"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "soo-daaha"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "idinka dhex nool"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:59.905004940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markii Achab uu dhintay, boorka Moab wuu casilay ⟨את⟩ boorka Yisraa'eel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markii"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "uu dhintay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "wuu casilay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boorka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "boorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:05.745073816Z",
+  "model": "glm-5.3"
+}

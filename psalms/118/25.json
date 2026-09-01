@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Fadlan Yahweh, naga badbaadi hadda; fadlan Yahweh, na guuleysi hadda.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Fadlan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "naga badbaadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "fadlan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "na guuleysi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:46.655740469Z",
+  "model": "glm-5.3"
+}

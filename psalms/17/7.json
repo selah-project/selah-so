@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Muujinta la yaab leh samee khesedkaaga (naxariistaada), Gacanta midiggaada adigoo badbaadinaya kuwa kugu xirmana, kuwa ka soo horjeeda.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "la yaab leh muuji"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "adigoo badbaadinaya"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "kuwa xirmana (kugu magan galay)"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "kuwa ka soo horjeeda"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "gacanta midiggaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:44.862739183Z",
+  "model": "glm-5.3"
+}

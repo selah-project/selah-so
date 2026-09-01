@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Cabsida Yahweh waa bilowga aqoonta; xigmadda iyo casharrada doqonnada bay quudaan.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "bilowga"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoonta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmadda"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "iyo casharrada"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "doqonnada"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "bay quudaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:29:08.075511448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ereyada necebbada wayna ii wareegteen, wayna iila dagaallameen aan sabab lahayn.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Ereyada"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "necebbada"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wayna ii wareegteen"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "wayna iila dagaallameen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "aan sabab lahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:58.755832937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "odayaasha magaaladiisa way soo dirayaan, waxayna halkaas ka qaadan ⟨את⟩ isaga, waxayna dhiibi doonaan ⟨את⟩ isaga gacanta goaalka dhiigga (kan xaq-darrada dhiigga keenaa), oo uu dhinto.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "way soo dirayaan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "magaaladiisa"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "waxayna qaadan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna dhiibi doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goaalka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "oo uu dhinto"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:43.087685735Z",
+  "model": "glm-5.3"
+}

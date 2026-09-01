@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo iyaduna waxay ku tidhi ninkeedii: Bal eeg, waan ogarahay inuu ⟨yahay⟩ nin Elohim quduus ah, oo mar walba inaga soo maraya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay ku tidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ninkeedii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogarahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus ah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yahay⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "soo maraya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "inaga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mar walba"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:21.995221414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Lacagta fiddada iigu taal, dahabkana iigu taal, ayuu yidhi Yahweh ciidammadu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "iigu taal"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta fiddada"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "iigu taalna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayuu yidhi (hadalkii)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciidammadu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:50.582080043Z",
+  "model": "glm-5.3"
+}

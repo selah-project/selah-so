@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Hadda xigmad iyo aqoon i sii, si aan shacabkan hortooda u baxo oo u galo, waayo yaa baa xukumi kara ⟨את⟩ shacaabkaagaa oo aan weynaan?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmad"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "iyo aqoon"
+    },
+    {
+      "surface": "תן",
+      "gloss": "i sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "aan u baxo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "aan u galo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "xukumi kara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacaabkaagaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "shacaabkaagaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "aan weynaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:34:09.708383827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Qolooyinku way maqleen, way gilgileen; calool-xanuun qof kasta oo deggan Filistiin ayaa qabsaday.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "way maqleen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "qolooyinku"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "way gilgileen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "calool-xanuun"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "qabsaday"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:15.258815358Z",
+  "model": "glm-5.3"
+}

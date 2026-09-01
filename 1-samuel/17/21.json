@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Iyo Israa'iil iyo Filistiintii waxay safaysteen saf si aan la soo ganayo saf.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲרֹךְ",
+      "gloss": "waxay safaysteen"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וּפְלִשְׁתִּים",
+      "gloss": "iyo Filistiintii"
+    },
+    {
+      "surface": "מַעֲרָכָה",
+      "gloss": "saf"
+    },
+    {
+      "surface": "לִקְרַאת",
+      "gloss": "si aan la soo ganayo"
+    },
+    {
+      "surface": "מַעֲרָכָה",
+      "gloss": "saf"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:40.263699114Z",
+  "model": "glm-5.3"
+}

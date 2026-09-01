@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Kajinna wuxuu ka baxay wajiga Yahweh, wuxuuna degay dhulka Nood, bariga Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu ka baxay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna degay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nood"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:52.552791464Z",
+  "model": "glm-5.3"
+}

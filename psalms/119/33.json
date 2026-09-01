@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ii bari, Yahweh, ⟨את⟩ waddadaada sharciga ah, waana ilaalin doonaa ilaa iyo dheeraad ah",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ii bari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddadaada"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sharcigaaga ah"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "waana ilaalin doonaa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ilaa iyo dheeraad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:50.911231691Z",
+  "model": "glm-5.3"
+}

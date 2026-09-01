@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Maqal, Yahweh, oo ii naxariis; Yahweh, noqo gargaarahay.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "oo ii naxariis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gargaarahay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:14.787615010Z",
+  "model": "glm-5.3"
+}

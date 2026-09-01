@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Waxaad weynaysaa weynaankeyga, oo ⟨waxaad noqotaa⟩ igu dhiirrigelisa.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "waxaad weynaysaa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "weynaankeyga"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "oo waxaad noqotaa"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "igu dhiirrigelisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:14.818862451Z",
+  "model": "glm-5.3"
+}

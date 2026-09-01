@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxana siiyay Yahweh, Elohim-keenna, gacanteenna sidoo kale ⟨את⟩ Og boqorka Bashan iyo ⟨את⟩ dadkiisa oo dhan; waannu dhuftay ilaan aan ugu reebin mid ka haray.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "waxana siiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "gacanteenna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og boqorka Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dadkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "waannu dhuftay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaan"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "u reebin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "mid ka haray"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:41.973134072Z",
+  "model": "glm-5.3"
+}

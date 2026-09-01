@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh wuxuu taageerayaa dhammaan kuwa dhaca, wuxuuna kor u qaadaa dhammaan kuwa la hoos-dhigay.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "wuxuu taageerayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kuwa dhaca"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "wuxuuna kor u qaadaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "kuwa la hoos-dhigay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:37.837642526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "nin af-xun dhulka laguma deggeneyn; nin xadgudubka ah — shar baa u qorsheyn doona si dhaawo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "af-xun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "laguma deggeneyn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "xadgudubka ah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "u qorsheyn doona"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "si dhaawo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.706984586Z",
+  "model": "glm-5.3"
+}

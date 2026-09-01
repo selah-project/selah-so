@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Maalintaas farcii Yahweh waxay noqon doontaa dheeco iyo ammaan, oo midhaha dhulkana sharaf iyo waaweyn u noqon doontaa kuwa Israaiil ka badbaaday.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "farcii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "dheeco"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "oo ammaan"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "oo midhaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "oo waaweyn"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "kuwa ka badbaaday"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:15.069664994Z",
+  "model": "glm-5.3"
+}

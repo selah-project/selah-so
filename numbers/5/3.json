@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Lab iyo dheddigba waa la dirayaa; ka barta kampsiga bay ku diraysaan, bal inay aan wasakhayn ⟨את⟩ kampsigyadooda, kaasoo aan ku degganahay dhexdooda.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iyo ... ba"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "dheddig"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "waa la dirayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka barta"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "barta"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampsiga"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "bay ku diraysaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bal inay aan"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "wasakhayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampsigyadooda"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampsigyadooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ku degganahay"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:43:28.202968835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Iyadoo sanadka labaatanaad ee Yarobam boqorka Israa'iil ah, Asa boqorka Yahuudah wuu xilka qaatay.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "iyadoo sanadka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatanaad"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuu xilka qaatay (wuu boqor noqday)"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:42.854303514Z",
+  "model": "glm-5.3"
+}

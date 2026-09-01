@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Waxaa ka yimid El aabahaag oo kuu gargaara, iyo ⟨את⟩ Shadday, oo kuu barakaynaya barako samada ka sarreeysa, barako tahuumka hoos fadhida, barako naasyaha iyo gedanka.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "El ka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaag"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "oo kuu gargaara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shadday"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "oo kuu barakaynaya"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka sarreeysa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barako"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tahuumka"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "hoos fadhida"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barako"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "naasyaha"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "iyo gedanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:04.782997358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Si aan u arko wanaagga kuwo aad dooratay, si aan ugu farxo farxadda qoomkaaga, si aan aan la ammaano dhaxalkaaga.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "si aan u arko"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "kuwo aad dooratay"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "si aan ugu farxo"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "farxadda"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "si aan aan la ammaano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "dhaxalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.205988235Z",
+  "model": "glm-5.3"
+}

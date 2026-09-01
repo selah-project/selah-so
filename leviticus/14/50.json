@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu gowracyaa ⟨את⟩ shimbirta middood, weel dhoobo ku dhex dhisatan, ku saabsan biyo nool.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "wuxuu gowracyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shimbirta middood"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "shimbirta"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "middood"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku dhex dhisatan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "weel"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dhoobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:15.725215141Z",
+  "model": "glm-5.3"
+}

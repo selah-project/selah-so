@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waad u badbaadin qooma liidata, indhaha is-sarreeyana waad hoos u dhigaysaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qooma"
+    },
+    {
+      "surface": "עני",
+      "gloss": "liidata"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "waa u badbaadin"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "is-sarreeya"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "waa hoos u dhigaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:25.691312894Z",
+  "model": "glm-5.3"
+}

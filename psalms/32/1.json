@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Maqaal-barbaarin oo Daawud ah. Nasiib wanaagsan wuxuu leeyahay qofka la dhaafay caasudaadda, dembigana la daboolay.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maqaal-barbaarin"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nasiib wanaagsan"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "la dhaafay"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "caasudaad"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "la daboolay"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dambi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:11.410616397Z",
+  "model": "glm-5.3"
+}

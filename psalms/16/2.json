@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaan Yahweh ku idhi: Adonay adigu ⟨waayay⟩, waxa wanaagsan oo aniga leh ma jiro ⟨marka laga reebo⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "waxaan ku idhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "waxa wanaagsan oo aniga leh"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:47.775503540Z",
+  "model": "glm-5.3"
+}

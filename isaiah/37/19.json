@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "oo sidii dheh ⟨את⟩ ilahyahood bay gudbiyeen dabka; waayo, ilah ma aha kuwo as, laakiin waa shuqulka gacmaha aadanaha, geed iyo dhagax — sidaas daraaddeed bay baabi'iyeen.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "oo sidii dheh bay gudbiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilahyahood"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahyahood"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kuwo as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo dhagax"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "bay baabi'iyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:11.758496943Z",
+  "model": "glm-5.3"
+}

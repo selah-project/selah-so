@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Keliya, sida loo cuno ⟨את⟩ sagsiigga iyo ⟨את⟩ waaweynta, saas ayaad u cuni doontaa: nijaaska iyo nadiifkaaba waa la wada cunaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "loo cuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagsiigga"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "sagsiigga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waaweynta"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "waaweynta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ayaad u cuni doontaa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nijaaska"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "iyo nadiifkaaba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "waa la cunaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:18:54.616310825Z",
+  "model": "glm-5.3"
+}

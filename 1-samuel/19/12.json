@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Mikalna wuxuu ka dejiyay ⟨את⟩ Dawid daaqadda, wuu tegey, wuu cararay, wuuna badbaaday.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "wuxuu ka dejiyay"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "daaqadda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuu tegey"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wuu cararay"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wuuna badbaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:17.147105449Z",
+  "model": "glm-5.3"
+}

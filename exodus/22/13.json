@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii nin uu ka codsado saaxiibkiisa ⟨wax⟩, oo ⟨waxaasu⟩ jabo ama uu dhinto, sayidkiisana aan la jirin, wuu dhammaystiran dhammaystiraa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "uu ka codsado"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiisa"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "oo uu jabo"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מת",
+      "gloss": "uu dhinto"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sayidkiisa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la jirin"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "wuu dhammaystiran"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dhammaystiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:37.255002248Z",
+  "model": "glm-5.3"
+}

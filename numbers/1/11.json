@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "ee Benyamiin, Abidan ina Gidonay.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ee Benyamiin"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Abidan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Gidonay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:35.870727525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 8:11",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "in boqorku siiyay Yuhuudda kuwaas oo ⟨ah⟩ magaalo kasta iyo magaalo, inay isu yimaadaan oo u taagnaanna nafahooda, si ay u baabbi'iyaan, u dilaan oo u hallaystaan ⟨את⟩ awooda dhan ee shacabka iyo gobolka kuwaas oo cunugga iyo haweenkaba colaad u ah, anshaxoodana ay dhacaan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiyay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "Yuhuudda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "iyo magaalo"
+    },
+    {
+      "surface": "להקהל",
+      "gloss": "isu yimaadaan"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "u taagnaanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafahooda"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "baabbi'iyaan"
+    },
+    {
+      "surface": "ולהרג",
+      "gloss": "u dilaan"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "u hallaystaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awooda dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhanka dhan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awooda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "iyo gobolka"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "colaad u ah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuwaas"
+    },
+    {
+      "surface": "טף",
+      "gloss": "cunugga"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "iyo haweenkaba"
+    },
+    {
+      "surface": "ושללם",
+      "gloss": "anshaxoodana"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "ay dhacaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:09.902995808Z",
+  "model": "glm-5.3"
+}

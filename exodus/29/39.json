@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "⟨את⟩ wanka koowaad waxaad sameysaa subaxda, iyo ⟨את⟩ wanka labaad waxaad sameysaa waqtigii labada galabood dhexdooda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanka koowaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad sameysaa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wanka labaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad sameysaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "labada galabood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:49.828668181Z",
+  "model": "glm-5.3"
+}

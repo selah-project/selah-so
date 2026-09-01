@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ruutna waxay tiri: Iigu dhaqaaq-darrin inaan kaa tago ama aan kaa noqdo; waayo halkaad tagayso waan tagayaa, halkaad seëdo waan seëdayaa; qoomkaagu waa qoomkay, Elohimkaaguna waa Elohimkay.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxay tiri"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruutna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haatan"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "Iigu dhaqaaq-darrin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "kaan kaa tago"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "aan kaa noqdo"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halka"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "aad tagayso"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "waan tagayaa"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "halkaad"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "seëdo"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "waan seëdayaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaagu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qoomkay"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "Elohimkaaguna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimkay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:55:14.428256742Z",
+  "model": "glm-5.3"
+}

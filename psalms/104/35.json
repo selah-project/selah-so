@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Ha dhammaadaan dhibbanaha dhulka ka, shar-lowlayaalna ha ahaanin wax kale; nafdeydii barakee ⟨את⟩ Yahweh. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ha dhammaadaan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dhibbanaha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "shar-lowlayaalna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax kale"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ha ahaanin"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "barakee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdeydii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.999311910Z",
+  "model": "glm-5.3"
+}

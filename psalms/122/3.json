@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Yeruushaalaym, ⟨kan⟩ la dhisay, ⟨waa⟩ sida magaalo la isku xiray si wada jir ah.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "⟨kan⟩ la dhisay"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sida magaalo"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "la isku xiray"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aysa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "si wada jir ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:56.590475322Z",
+  "model": "glm-5.3"
+}

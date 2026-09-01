@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxaad noqon doontaa mid la barakaday ka mid ah shacabka oo dhan; kuma jiri doono adigoo dhego-la', iyo dheed adag, iyo xataa behimadaada.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mid la barakaday"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "Waxaad noqon doontaa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka mid ah oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiri doono"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuga"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "dhego-la' (rag)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "iyo dheed adag (naag)"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "iyo behimadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:02.994391693Z",
+  "model": "glm-5.3"
+}

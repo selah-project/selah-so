@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaa teriyay Daawud, isaga iyo lix boqol oo nin oo ⟨את⟩ la jira, waxayna yimaadeen ilaa webi Besor, kuwa hartayna way istaageen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waxaa teriyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la jira",
+      "marks": "Daawud (la jira)"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waxayna yimaadeen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "webi"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "kuwa hartayna"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "way istaageen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:28.896576486Z",
+  "model": "glm-5.3"
+}

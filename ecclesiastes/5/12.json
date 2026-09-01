@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaa jira xume cudur ah oo ⟨aan⟩ arkay hoos ka qorraxda: maal la ilaaliyay mulkiilahiis si u dhibto.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xume"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "cudur ah"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "⟨aan⟩ arkay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos ka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "maal"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "la ilaaliyay"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "mulkiilahiis"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "si u dhibto"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:13.083322162Z",
+  "model": "glm-5.3"
+}

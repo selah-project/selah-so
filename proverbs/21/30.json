@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Ma jirto xikmad, iyo ma jirto fahmi, iyo ma jirto talo ⟨dheeri ah⟩ Yahweh ka hor.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo ma jirto"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "fahmi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo ma jirto"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "talo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "Yahweh ka hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:24.374524955Z",
+  "model": "glm-5.3"
+}

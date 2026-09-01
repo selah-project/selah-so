@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Hadda sidaas ayuu Yahweh yidhi, kanuu abuurray Yacquub, iyo kanuu u sameeyay Israa'iil: ha cabsan, waayo waan ku iibsaday, magacaagii baan ku yeeray ⟨adiga⟩; adigu ⟨waa⟩ ilayahay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "kanuu abuurray"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "iyo kanuu u sameeyay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "waan ku iibsaday"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "baan ku yeeray"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "magacaagii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:11.638854010Z",
+  "model": "glm-5.3"
+}

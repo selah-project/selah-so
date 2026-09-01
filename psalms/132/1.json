@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Heesaha Koritaanka — Xuso, Yahweh, Daawuud ⟨את⟩ dhibaatooyinkiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Koritaanka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Xuso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibaatooyinkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "dhibaatooyinkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:33.470265779Z",
+  "model": "glm-5.3"
+}

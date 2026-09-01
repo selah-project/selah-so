@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kac, tag Ninwe magaalo weyn, oo ku dhawaaq kheeda, waayo, sharkoodu wuxuu kor u kacay hortayda.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku (tiiraanya)"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "oo ku dhawaaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kheeda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "wuxuu kor u kacay"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "sharkoodu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortayda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:29:05.116295780Z",
+  "model": "glm-5.3"
+}

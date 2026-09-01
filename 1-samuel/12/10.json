@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayna u qayliyeen Yahweh, waxayna dheheen: Waxaan dannabaynay, waayo, waxaan ka tegnay Yahweh, waxaannu caabudnay ⟨את⟩ Beelimka iyo ⟨את⟩ Ashtaroota; haddase na badbaadi gacanta cadowdayada, waanaan ku caabudojoogayneynaa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "waxayna u qayliyeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waxayna dheheen"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "waxaan dannabaynay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "waxaan ka tegnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "waxaannu caabudnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beelimka"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Beelimka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ashtaroota"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtaroota"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "na badbaadi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "cadowdayada"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "waanaan ku caabudojoogayneynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:04.684701725Z",
+  "model": "glm-5.3"
+}

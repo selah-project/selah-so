@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waxay farxaan doontaa keymaha iyo ⟨⟨dhulka engeganka ah⟩⟩; carabta-gasheedana way qaylin doontaa farxad, wayna ubaxi doontaa sida habascallad.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "way farxaan doontaa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "keymaha"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "iyo dhulka engeganka ah"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "way qaylin doontaa farxad"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "carabta-gasheeda"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "wayna ubaxi doontaa"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "sida habascallad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:16.264844370Z",
+  "model": "glm-5.3"
+}

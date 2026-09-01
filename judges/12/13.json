@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo kaddib waxaa ⟨את⟩ Israa'iil ku xukumay Abdon ina Hillel oo reer Piratoon ah.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "waxaa ku xukumay"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kaddib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "reer Piratoon ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:50.907913905Z",
+  "model": "glm-5.3"
+}

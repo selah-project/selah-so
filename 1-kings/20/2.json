@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wuxuuna u diray rasuullo Axaab, boqorka Israa'iil, ⟨magaalada⟩ dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wuxuuna u diray"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "rasuullo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "magaalada dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:35.912393115Z",
+  "model": "glm-5.3"
+}

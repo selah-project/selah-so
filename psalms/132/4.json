@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Haddii aan siyo indhahayga hurdo, ilko-adkeeygana jiif —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aan siyo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "hurdo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ilko-adkeeygana"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "jiif"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:33.470862343Z",
+  "model": "glm-5.3"
+}

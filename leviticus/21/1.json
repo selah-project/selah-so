@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Yahweh wuxuu Muuse ku yidhi: Dheh wadaaddada, wiilasha Aharon, oo waxaad ku dhahdaan: Naf ⟨dhimaysa⟩ ha u wasakhaynin ⟨wadaaddu⟩ dadkiisa gudaheed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Dheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo waxaad ku dhahdaan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "naf (dhimaysa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... aydin"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "u wasakhaynin"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "dadkiisa gudaheed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:14.342798422Z",
+  "model": "glm-5.3"
+}

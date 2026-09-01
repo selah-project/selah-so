@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Yahweh ⟨את⟩ i la weyneeya, oo aannu wada sarreejinno magiciisa.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "weyneeya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ i la"
+    },
+    {
+      "surface": "וּנְרוֹמְמָה",
+      "gloss": "aannu wada sarreejinno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:30.630849395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 101,
+  "translation": "Qalbi qalloocan iga ⟨soo⟩ wareegga; shar ⟨xaggiisa⟩ ma aqaan.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "qalloocan"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "wareegga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:38.482737610Z",
+  "model": "glm-5.3"
+}

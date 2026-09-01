@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Sannad laba iyo labaatan ee boobilkii Yarobam, boolkii Israa'iil, Azarya ina Amatsya boolkii Yahuudah wuxuu boobilay.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sannad"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "laba iyo labaatan"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "iyo toddobaatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sannad"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "boobilkii Yarobam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bool"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuxuu boobilay"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boolkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:30:09.582002911Z",
+  "model": "glm-5.3"
+}

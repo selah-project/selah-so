@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Anigoo Efraym socod barayey, gacmahooda qaadisay, uma ayqaanine inaan bogsiyay.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Anigoo"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "socod barayey"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "qaadisay"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "gacmahooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ayqaanine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "aan bogsiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:16.898951267Z",
+  "model": "glm-5.3"
+}

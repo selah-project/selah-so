@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Elohim wuxuu kor u kacay qaylo iyo dib-u-dhawaaq; Yahweh codka buunka.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "wuxuu kor u kacay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "qaylo iyo dib-u-dhawaaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "buunka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:44.021423420Z",
+  "model": "glm-5.3"
+}

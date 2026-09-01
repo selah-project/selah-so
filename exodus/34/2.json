@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Oo aad noqdo diyaar u subaxga, oo subaxdii aad ku soo korto buurta Siinay, oo iga soo istaag halkaas sare buurta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "aad noqdo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "diyaar u"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaxga"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "aad ku soo korto"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "iga soo istaag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:55.311894963Z",
+  "model": "glm-5.3"
+}

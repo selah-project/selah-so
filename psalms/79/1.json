@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Qasidaddii Asaaf. Elohimow, shacabku waxay yimaadeen dhaxalkaaga, waxay wasakhaysiisiyeen ⟨את⟩ qolka quduuskaaga, waxay dhigeen ⟨את⟩ Yeruushaalaym inay noqoto burbur.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Qasidaddii"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "dhaxalkaaga"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "waxay wasakhaysiisiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qolka quduuskaaga"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "qolka"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuskaaga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "waxay dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "burbur"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:17.485248872Z",
+  "model": "glm-5.3"
+}

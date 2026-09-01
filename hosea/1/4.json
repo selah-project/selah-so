@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahwehna wuxuu ku yidhi: Magaciisa u yeel Yizre'el, waayo, weli yar, waanan ka doonayaa ⟨את⟩ dhiigga Yizre'el gurigii Yehuu, waanan joojinayaa boqortooyada gurigii Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "u yeel"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "waanan ka doonayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga Yizre'el"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    },
+    {
+      "surface": "על",
+      "gloss": "gurigii... ku saar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "waanan joojinayaa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:54.919720118Z",
+  "model": "glm-5.3"
+}

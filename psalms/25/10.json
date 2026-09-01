@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Dhammaan dariiqooyinka Yahweh waa khesed iyo run, kuwa ilaalinaya ballankiisa iyo maraggigiisa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "dariiqooyinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "iyo run"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "kuwa ilaalinaya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ballankiisa"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "iyo maraggigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:55.410861413Z",
+  "model": "glm-5.3"
+}

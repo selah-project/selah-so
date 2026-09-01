@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaad ku subisaa ⟨את⟩ khaymadaha kulanka, iyo ⟨את⟩ sanduuqa markhaatiga.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "waxaad ku subisaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaymadaha kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sanduuqa markhaatiga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "markhaatiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:40.716817856Z",
+  "model": "glm-5.3"
+}

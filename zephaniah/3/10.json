@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Webiyada Kush ka gudka ah, caabudayaashaygii iyo gabadhii an baahbiyay, waxay ii keeni doonaan ⟨allabbari⟩ (hadiyaddaygii).",
+  "tokens": [
+    {
+      "surface": "מעבר",
+      "gloss": "ka gudka ah"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "עתרי",
+      "gloss": "caabudayaashaygii (baryayahaygii)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "פוצי",
+      "gloss": "an baahbiyay (baahbaxdaydii)"
+    },
+    {
+      "surface": "יובלון",
+      "gloss": "waxay ii keeni doonaan"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "allabbarigaygii (hadiyaddaygii)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:24.760278766Z",
+  "model": "glm-5.3"
+}

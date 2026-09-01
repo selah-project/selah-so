@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Sidaas daraaddiis miyaad furaysaa indhahaaga kan, oo ⟨את⟩ aniga miyaad ii keenaysaa xukunka adiga la?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sidaas daraaddiis weliba"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku) saas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "miyaad furaysaa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "oo ⟨את⟩ aniga",
+      "marks": "xukunka la keenayo — aniga"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "miyaad ii keenaysaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adiga la"
+    }
+  ],
+  "timestamp": "2026-09-01T05:43:08.220517794Z",
+  "model": "glm-5.3"
+}

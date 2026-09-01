@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Miiskii dahabka uu Suleymaan ku soo galay hal sano wuxuu ahaa lix boqol oo lixdan iyo lix talaanti dahab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "miiskii"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ku soo galay"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "hal sano"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "lixdan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talaanti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:22.876299467Z",
+  "model": "glm-5.3"
+}

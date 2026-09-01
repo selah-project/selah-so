@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "O dhulka oo dhan ⟨waxay ahaayeen⟩ kuwo doonaya ⟨את⟩ wejiga Shelomoh, inay maqallaan ⟨את⟩ xikmadiisa, taas oo Elohim uu dhigay qalbigiisa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "O dhammaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka oo dhan"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "kuwo doonaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejiga Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "inay maqallaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xikmadiisa"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "xikmadiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taas oo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uu dhigay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:54.715504789Z",
+  "model": "glm-5.3"
+}

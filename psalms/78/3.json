@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Waxaannu maqallay oo naqaannay, oo aabayaashenna noo sheegeen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "maqallay"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "oo naqaannay"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "oo aabayaashenna"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "noo sheegeen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:39.149209572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna tusay ⟨את⟩ gelitaanka magaalada, waxayna ku dheexeeyeen ⟨את⟩ magaalada af-gacanta seef, ⟨את⟩ ninka iyo ⟨את⟩ qoyskiisa oo dhan waxay tegeen.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "wuxuuna tusay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gelitaanka magaalada"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "gelitaanka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxayna ku dheexeeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "af-gacanta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ninka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoyskiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "qoyskiisa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "waxay tegeen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:20.435739561Z",
+  "model": "glm-5.3"
+}

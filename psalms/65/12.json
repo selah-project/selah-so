@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Sannadaha waad ku taajaysay wanaagaaga; oo dariiqooyinkaaga waxay dhiiggaan duufaanta (barwaaqada).",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "waad ku taajaysay"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sannadaha"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "wanaagaaga"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "oo dariiqooyinkaaga"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "waxay dhiiggaan"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "duufaanta (barwaaqada)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:21.332912734Z",
+  "model": "glm-5.3"
+}

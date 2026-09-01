@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Axazna dhalay ⟨את⟩ Yaarah; Yaarahna dhalay ⟨את⟩ Alemet iyo ⟨את⟩ Azmaawet iyo ⟨את⟩ Simri; Simrina dhalay ⟨את⟩ Mootsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Axazna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yaarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "Yaarahna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Azmaawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmaawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Simri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "Simrina"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mootsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mootsa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:42.162563531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Marka shacabku ay wada kulmaan, iyo boqortooyaduhu, si ay u caabudaan ⟨את⟩ Yahweh;",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Marka ay wada kulmaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "iyo boqortooyaduhu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "si ay u caabudaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:44.573338453Z",
+  "model": "glm-5.3"
+}

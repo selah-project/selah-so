@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Kan boqortooyada siiyo badbaado, kan addoonkiisii Dabiid ka xoraynayo seef xun ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Kan siiyo"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "kan ka xoraynaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabiid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dabiid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "addoonkiisii"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:14.792014662Z",
+  "model": "glm-5.3"
+}

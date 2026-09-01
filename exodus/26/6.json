@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaadna sameysaa konton qancumo oo dahab ah, waxaadna ku dhowsataa ⟨את⟩ pannada middi ilaa middi kale qancumaha, oo gurigu wuxuu noqonayaa mid kelii.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waxaadna sameysaa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "konton"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "qancumo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "waxaadna ku dhowsataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pannada"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "pannada"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "middi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "middi kale"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "qancumaha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo wuxuu noqonayaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "gurigu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid kelii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:48.857555756Z",
+  "model": "glm-5.3"
+}

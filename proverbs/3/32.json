@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waayo kan lunsan waa tulaha Yahweh, laakiin sirkiisu wuxuu la leeyahay ⟨את⟩ kuwa toosan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tulaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "kan lunsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ la",
+      "marks": "kuwa toosan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sirkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:26.704503188Z",
+  "model": "glm-5.3"
+}

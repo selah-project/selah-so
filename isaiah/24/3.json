@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waa la banaanayn doonaa, dhulkii waa la banaanayn doonaa; waa la dhulgareyn doonaa, wuuna dhulgareefan doonaa; waayo, Yahweh wuu sheegay ⟨את⟩ ereygan.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Waa la banaanayn doonaa"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "waa la banaanayn doonaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "waa la dhulgareyn doonaa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "wuuna dhulgareefan doonaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wuu sheegay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:15.088796138Z",
+  "model": "glm-5.3"
+}

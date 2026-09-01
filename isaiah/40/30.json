@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Caruurtana way daalayaan, way gubsanayaan; dhallinyaraduna way si buuxda u dhici doonaan.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "way daalayaan"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "Caruurtana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "way gubsanayaan"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "dhallinyaraduna"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "si buuxda"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "u dhici doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:22.666292118Z",
+  "model": "glm-5.3"
+}

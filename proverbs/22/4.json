@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Abaalgudka is-hoosaynta iyo cabsitaanka Yahweh ⟨waa⟩ maal iyo sharaf iyo nolol.",
+  "tokens": [
+    {
+      "surface": "עֵקֶב",
+      "gloss": "abaalgudka"
+    },
+    {
+      "surface": "עֲנָוָה",
+      "gloss": "is-hoosaynta"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "cabsitaanka"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֹשֶׁר",
+      "gloss": "maal"
+    },
+    {
+      "surface": "וְכָבוֹד",
+      "gloss": "iyo sharaf"
+    },
+    {
+      "surface": "וְחַיִּים",
+      "gloss": "iyo nolol"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:44.872582317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaa ku shubi doonaan badan, waxay dhici doonaan, way jabi doonaan, way qalfoofmi doonaan, oo way qabad doonaan.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "Waxaa ku shubi doonaan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "waxay dhici doonaan"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "way jabi doonaan"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "way qalfoofmi doonaan"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "way qabad doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:14.714553817Z",
+  "model": "glm-5.3"
+}

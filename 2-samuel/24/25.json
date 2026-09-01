@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuuse Daawuud meeshaas ku dhisay allabarri Yahweh u ah, wuuna kor marinayay ololaha iyo nabad-qadarka, Yahwehna wuxuu ajiibay dhulka (dulqad u muujiyay), macaankaana waa la joojiyay Israa'iil ka.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuse ku dhisay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabarri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuuna kor marinayay"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ololaha"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "iyo nabad-qadarka"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "wuxuu ajiibay (dulqad u muujiyay)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "waa la joojiyay"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "macaankaana"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:07:18.484109984Z",
+  "model": "glm-5.3"
+}

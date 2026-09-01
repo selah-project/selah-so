@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Hagaha zamar-qaada, oo ku saabsan ⟨gitaaraha Gath-ka⟩, zamar uu qoray Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha zamar-qaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku saabsan"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨gitaaraha Gath-ka⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zamar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uu qoray Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:47.032377280Z",
+  "model": "glm-5.3"
+}

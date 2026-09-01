@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Abiimelekhna wuxuu yidhi: Bal eeg, dhulkay wuu hortaa yahay; meeshu ku wanaagto indhahaaga, deg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abiimelekh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dhulkay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wortaa yahay"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ku wanaagto"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "deg"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:23.823701271Z",
+  "model": "glm-5.3"
+}

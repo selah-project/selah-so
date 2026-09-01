@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo idinku naftiinna aad u ilaaliya, inaad jeceshihiin ⟨את⟩ Yahweh Elohiinna.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "oo ilaaliya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "naftiinna"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "in jeceshihiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohiinna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:11.660338761Z",
+  "model": "glm-5.3"
+}

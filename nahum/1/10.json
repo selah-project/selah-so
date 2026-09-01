@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waa la mid sida qoyo isku dhex qasan, iyo sidii sakhraantiisii ay sakhraameen; waala cuni doonaa sidii enabta oo en gees ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa la mid sida"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illeyn"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "qoyo"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "isku dhex qasan"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "iyo sidii cabitooda"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "sakhraameen"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "waala cuni doonaa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sidii enabta"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "oo en"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gees ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:49.420379483Z",
+  "model": "glm-5.3"
+}

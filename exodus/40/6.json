@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Oo waxaad dhigaysaa ⟨את⟩ miidhanka allabariga gubista horteeda iridda Maskanka, Ahelka Kulanka.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "oo waxaad dhigaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miidhanka allabariga gubista"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "miidhanka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabariga gubista"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Maskanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahelka"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:37.045288084Z",
+  "model": "glm-5.3"
+}

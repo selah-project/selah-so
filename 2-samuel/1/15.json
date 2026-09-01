@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dawud wuxuu u yeeray mid ka mid ah curyada, wuxuuna yidhi: Soo dhowow, ku dhufo. Wuxuuna dhuftay, wuuna dhintay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuu u yeeray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "ka mid ah curyada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "soo dhowow"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "ku dhufo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wuxuuna dhuftay"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:55.850806904Z",
+  "model": "glm-5.3"
+}

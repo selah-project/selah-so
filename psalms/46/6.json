@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Elohim wuxuu dhexda ku jiraa ⟨iyada⟩; laguma qiyaasi doontaa; marka subaxdu soo gaadho Elohim wuu gargaarayaa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "dhexda ku jiraa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "laguma"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "qiyaasi doontaa"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "wuu gargaarayaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "marka soo gaadho"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaxdu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:02.006466511Z",
+  "model": "glm-5.3"
+}

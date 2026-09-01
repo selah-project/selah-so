@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Gadaal iyo hortaaba waxaad i wareejisay, oo gacantaada waxaad igu saartay.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "iyo hortaaba"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "waxaad i wareejisay"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "waxaad igu saartay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "gacantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.377435766Z",
+  "model": "glm-5.3"
+}

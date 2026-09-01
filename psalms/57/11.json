@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Waa axadh kheesdaadu weyn tahay ilaa ⟨samos⟩, runtaaduna ilaa daruuraha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa axadh"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨samos⟩"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kheesdaadu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo ilaa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "daruuraha"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "runtaaduna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:57.144356179Z",
+  "model": "glm-5.3"
+}

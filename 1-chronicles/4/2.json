@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Reayah ina Shobal wuxuu dhalay ⟨את⟩ Yachat, Yachanna wuxuu dhalay ⟨את⟩ Achumai iyo ⟨את⟩ Lahad; kuwani waa qoysaska Ceeracatiisha.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reahanna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "Yachanna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qoysaska"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Ceeracatiisha"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:50.216484267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Hees, mizmor oo ah wiilasha Qorax, hageha loogu talagalay ⟨Machalat le-anot⟩, maqlin leh Eeymaan al-Ezraaxiga ah",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorax"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "hageha"
+    },
+    {
+      "surface": "על",
+      "gloss": "loogu talagalay"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "⟨Machalat⟩"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "⟨le-anot⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maqlin"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "leh"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Eeymaan al-Ezraaxiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:16.121701919Z",
+  "model": "glm-5.3"
+}

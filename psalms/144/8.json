@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Oo aan afkoodu wax sheegto been, iyo gacantooda midig gacan been ah.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oo aan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afkoodu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wax sheegto"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "been"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "iyo gacantooda midig"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "been ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:49.342180200Z",
+  "model": "glm-5.3"
+}

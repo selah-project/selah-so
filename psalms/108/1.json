@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Hees, mis'moor oo Dawiid ah.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mis'moor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawiid ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:41.469806188Z",
+  "model": "glm-5.3"
+}

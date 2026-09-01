@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan u dhawaaqay qalbiga oo dhan; i jawaabi, Yahweh; xeerarkaaga waan ilaalin doonaa.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "waxaan u dhawaaqay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "i jawaabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "xeerarkaaga"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "waan ilaalin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:24.109420351Z",
+  "model": "glm-5.3"
+}

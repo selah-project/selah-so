@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Gabadha Tsiyonna waa la soo reeray sida aqal yar beer canab ah, sida hoy beer qasaaro ah, sida magaalo la googo'aysay.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "waa la soo reeray"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "sida aqal yar"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "beer canab ah"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sida hoy"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "beer qasaaro ah"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sida magaalo"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "la googo'aysay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:03.917210486Z",
+  "model": "glm-5.3"
+}

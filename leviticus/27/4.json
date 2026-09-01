@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddii ay dhedig tahay, qiimahaadu waa sodon shekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddii ay"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "dhedig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "qiimahaadu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:56.047269826Z",
+  "model": "glm-5.3"
+}

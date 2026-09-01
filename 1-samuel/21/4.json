@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Hadda waxa gacantaada hoosteeda jira waa maxay? Shan rooti ii sii gacantayda, ama ⟨waxa⟩ la helo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waa maxay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "waxa ... jira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ii sii"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "⟨waxa⟩ la helo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:41.759192032Z",
+  "model": "glm-5.3"
+}

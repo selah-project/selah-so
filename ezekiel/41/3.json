@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wuuna gudbay gudaha, wuuna cabbiray tiirka iridda laba dheer, iyo iridda lix dheer, iyo ballaca iridda toddoba dheer.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "wuuna gudbay"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "wuuna cabbiray"
+    },
+    {
+      "surface": "איל",
+      "gloss": "tiirka"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "iyo iridda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "iyo ballaca"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheer"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:23.456551197Z",
+  "model": "glm-5.3"
+}

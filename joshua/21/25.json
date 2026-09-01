@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo laga bilaabayo bariga qabiilka Manasseh: ⟨את⟩ Taanak iyo ⟨את⟩ meraysigeeda, iyo ⟨את⟩ Gath-Rimmon iyo ⟨את⟩ meraysigeeda — magaalooyin labo.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "iyo laga bilaabayo bariga"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasseh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "meraysigeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraysigeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Gath-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "meraysigeeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraysigeeda"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "labo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:02:28.227347905Z",
+  "model": "glm-5.3"
+}

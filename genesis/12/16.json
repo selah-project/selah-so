@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Abramna waa loo sama falkaray iyada awgood, wuxuuna lahaa adhi iyo lo' iyo dameero lab ah iyo addo lab iyo addo dumar iyo dameero dhigmo ah iyo geel.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Abramna"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "waa loo sama falkaray"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "iyada awgood"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna lahaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "dameero lab ah"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "addo lab"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "addo dumar"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "dameero dhigmo ah"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "geel"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:00.440291004Z",
+  "model": "glm-5.3"
+}

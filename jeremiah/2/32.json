@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ma gabadha dhallin wayday quruxdeeda, mise baraarada suunka xirxirkeeda? Reerkayguse i illoobay maalmo aan tirin.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Ma … wayday"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "gabadha dhallin"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "quruxdeeda"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "baraarada"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "suunka xirxirkeeda"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Reerkayguse"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "i illoobay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tirin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:34.190545943Z",
+  "model": "glm-5.3"
+}

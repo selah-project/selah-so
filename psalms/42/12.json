@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Maxaad dhulaysay nafdaydii, oo maxaad igu gariirtaa? Sug Elohim, waayo weli waan mahadnaqayaa Isaga, badbaadada wejikeyga iyo Elohimkayga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "dhulaysay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydii"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "oo maxaad"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "gariirtaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Sug"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "waan mahadnaqayaa Isaga"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejikeyga"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iyo Elohimkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:51.129856374Z",
+  "model": "glm-5.3"
+}

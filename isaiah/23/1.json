@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Miisaanka Tsor. Ooyaya doonyaha Tarshish, waayo waa la baabi'iyay ⟨hoy⟩, ⟨lama soo gelin⟩; tanii ereygii waa la muujiyay kuwa jooga ⟨dalka⟩ Kittim, waa la ogeysiiyay ⟨iyaga⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Miisaanka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Ooyaya"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "doonyaha"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "waa la baabi'iyay"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨hoy⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "⟨lama soo gelin⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨dalka⟩"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "waa la muujiyay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨iyaga⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:57.399015604Z",
+  "model": "glm-5.3"
+}

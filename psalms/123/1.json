@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 123,
+  "translation": "Heesta Maqaamadka. Adiga, kuwa samooyinka ku fadhiya, waxaan kaciyay ⟨את⟩ indhahayga.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Heesta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Maqaamadka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "waxaan kaciyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhahayga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "kuwa ku fadhiya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samooyinka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:51.300356223Z",
+  "model": "glm-5.3"
+}

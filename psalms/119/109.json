@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Naftayda gacantaayda bay taal mar walba, ⟨laakiin⟩ sharcigaaga ma illoobay.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Naftayda"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "gacantaayda bay taal"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mar walba"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "⟨laakiin⟩ sharcigaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "illoobay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:32.044833441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Indho-la'aan bay wadadaha ku sabbabeen, dhiiggaba isku wasakhiyeen, sidaas darteed ⟨ma awoodin⟩ inay taabtaan dharkooda.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "bay ku sabbabeen"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "indho-la'aan"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "wadadaha"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "isku wasakhiyeen"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dhiiggaba"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "⟨ma awoodin⟩"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ma awoodin"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "inay taabtaan"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "dharkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:56:48.072364504Z",
+  "model": "glm-5.3"
+}

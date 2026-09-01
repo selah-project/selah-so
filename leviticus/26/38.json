@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waad hallaysaan shucuunta dhexdooda, iyo dhulkii cadowyiinnana ⟨את⟩ idinka wuu cuni doonaa.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "waad hallaysaan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shucuunta dhexdooda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "wuu cuni doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowyiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:15.622960041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Waxaad dhigtaa madowga, waana habeen ka noqdaa; gudaheedu waxaa ku soconda dhammaan duullaqa keynta.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Waxaad dhigtaa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "madowga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeen ka noqdaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gudaheedu"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "waxaa ku soconda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "duullaqa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "keynta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:21.660404783Z",
+  "model": "glm-5.3"
+}

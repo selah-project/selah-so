@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Boorka Yehooraam wuxuu maalintaas ka baxay Shomeron, wuxuuna koobay ⟨את⟩ dhammaan Yisraa'eel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu ka baxay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boorka"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehooraam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wuxuuna koobay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan Yisraa'eel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:05.745398324Z",
+  "model": "glm-5.3"
+}

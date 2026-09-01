@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu dul saaray ⟨את⟩ nyaabdhilkii (choshen), wuxuuna nyaabdhilkii geliyay ⟨את⟩ Uriim iyo ⟨את⟩ Tumiim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wuxuu dul saaray"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaabdhilkii"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "nyaabdhilkii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna geliyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "nyaabdhilkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Uriim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tumiim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumiim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:43.556483231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Qaad codkaagag maqalka, ha celin; shafoor la mid ah kor u qaadh codkaaga, oo u sheeg qolkeyga gadhadoodkooda, iyo reer Yacquub demiyadkooda.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Qaad codkaagag"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "maqalka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "celin"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "shafoor la mid ah"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "kor u qaadh"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "codkaaga"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "oo u sheeg"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "qolkeyga"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "gadhadoodkooda"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "iyoo reer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "demiyadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:56.631381406Z",
+  "model": "glm-5.3"
+}

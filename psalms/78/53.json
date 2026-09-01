@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuuna si ammaan ah u hanuuniyey, oo ay cabsi ma qaadin, badduna waxay dabooltay ⟨את⟩ cadowgooda.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wuxuuna u hanuuniyey"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "si ammaan ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ay ma"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "cabsi qaadin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cadowgooda"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "cadowgooda"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "waxay dabooltay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badduna"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:11.293212436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Waxay ii hareereeyeen sida biyo maalintoo dhan; waxay iga wareegeen wada jir.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "waxay ii hareereeyeen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sida biyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "waxay wareegeen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada jir"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:29.931319374Z",
+  "model": "glm-5.3"
+}

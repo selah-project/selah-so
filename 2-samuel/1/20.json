@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ha ku dhawaaqin Gat, ha ku ogaalin wadooyinka Ashqelon, si aan u farxaan gabdhaha Felishtiintu, si aan u qudujin gabdhaha aan goyn-lahayn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ku dhawaaqin"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "ku ogaalin"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "wadooyinka (dhexdooda)"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqelon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aan (in ay)"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "u farxaan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Felishtiintu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aan (in ay)"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "u qudujin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "aan goyn-lahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:01.906027092Z",
+  "model": "glm-5.3"
+}

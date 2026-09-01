@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuu ka kacay Dawid meeshaas, wuxuuna ku degay qalcadaha Cayn-Geddi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu ka kacay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku degay"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "qalcadaha"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Cayn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Geddi"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:59.037168541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Boqorrada dhulka way is-reebteen, oo odayaasha way wada kulmeen, Yahweh iyo Masiixiisa aawadiis.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "way is-reebteen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorrada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "oo odayaasha"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "way wada kulmeen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada"
+    },
+    {
+      "surface": "על",
+      "gloss": "aawadiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiixiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:20.471347257Z",
+  "model": "glm-5.3"
+}

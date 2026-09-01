@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Ma sida dembiyadeenna ayuu noo falay, oo ma sida xadgudubyadeenna ayuu noo abaalguday.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "sida dembiyadeenna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu falay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "sida xadgudubyadeenna"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "uu abaalguday"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:54.394903004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Barfoo Yahweh, waayo, wuxuu la yaab ka dhigay khesedkiisa ⟨iyaga⟩ ilaahin ⟨ku dhex jiray⟩ magaalo xiran (mataal),",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barfoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "la yaab ka dhigay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilaahin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ku dhex jiray magaalo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "xiran (mataal)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:37.223636580Z",
+  "model": "glm-5.3"
+}

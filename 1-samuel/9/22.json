@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Shemu'elna wuxuu qaatay ⟨את⟩ Shaa'uul iyo ⟨את⟩ wiilkiisii, wuxuuna keenay qolka, wuxuuna siiyay meel madaxa kuwii la casumay, iyagoon ahayn kuwo ku dhow sodon nin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilkiisii"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "qolka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "kuwii la casumay"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iyagoon ahayn"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "kuwo ku dhow sodon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:54.370610312Z",
+  "model": "glm-5.3"
+}

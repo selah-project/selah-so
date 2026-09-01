@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Anigoo ah Yahweh Elohim-aaga laga bilaabo dhulka Mitsrayim, mar labaad ayaan ku celin doonaa googooyada (khaymadaha), sida maalmaha waqtiga la goobay.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "anigoo ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-aaga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "laga bilaabo dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mar labaad"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ku celin doonaa deggan"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "googooyada (khaymadaha) gudaha"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmaha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waqtiga la goobay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:28.708075008Z",
+  "model": "glm-5.3"
+}

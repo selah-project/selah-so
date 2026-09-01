@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kani waa kurbaanka Axaroon iyo wiilashiis, oo ay Yahweh u dhiibiyaan maalinta la subki ⟨את⟩ isaga: tobnaan eefaa ah oo budada fiican, minchah joogto ah, badhtankiisa subaxa iyo badhtankiisa galabta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kurbaanka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaroon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ay u dhiibiyaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "la subko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (tobnaan eefaa)"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "tobnaan"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "eefaa ah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "budada fiican"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "joogto ah"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "badhtankiisa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxa"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "iyo badhtankiisa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:13.350517572Z",
+  "model": "glm-5.3"
+}

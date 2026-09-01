@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wixii minchada ka hadha ⟨is⟩ waa loo gudbayaa Axroon iyo wiilashiisa; ⟨waa⟩ qaddimaha qaddimiyada, allabbariyaha Yahweh olol lagu gubo ka mid ah.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "wixii ka hadha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchada (hadhyada)"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axroon loo gudbayaa"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddimaha"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qaddimiyada"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "allabbariyaha olol lagu gubo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:57.374836188Z",
+  "model": "glm-5.3"
+}

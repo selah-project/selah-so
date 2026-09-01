@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Ha noqoto khesedkaagaa, Yahweh, inaga siihoon, sida aan kuu sugno.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ha noqoto"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "inaga siihoon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "aan kuu sugno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:35.129219435Z",
+  "model": "glm-5.3"
+}

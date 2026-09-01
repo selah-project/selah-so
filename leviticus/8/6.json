@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Muuse wuxuu dhoweeyay ⟨את⟩ Aharon iyo ⟨את⟩ wiilashiisa, wuxuuna ⟨את⟩ ku dhaqay biyo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuu dhoweeyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "wuxuuna dhaqay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:43.556154181Z",
+  "model": "glm-5.3"
+}

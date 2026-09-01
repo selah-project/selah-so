@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Sii waxay kasbanayeen iyo shar falimahooda, sida ay gacmahoodu sameeyeen sii iyaga, ku celi abaalgudkooda.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Sii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "waxay (iyaga)"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "kasbanayeen"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "iyo shar"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "falimahooda"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sida ay sameeyeen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmahoodu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "sii iyaga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ku celi"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "abaalgudkooda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:54.606527175Z",
+  "model": "glm-5.3"
+}

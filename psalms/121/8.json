@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Yahweh wuu ilaalin doonaa bixitaankaaga iyo soo-aadkaaga, laga bilaabo hadda iyo weliga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "wuu ilaalin doonaa"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "bixitaankaaga"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "iyo soo-aadkaaga"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "laga bilaabo hadda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weliga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:39.316288471Z",
+  "model": "glm-5.3"
+}

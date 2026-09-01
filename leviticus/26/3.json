@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Haddii aad ku socontaan xuquuddyadayda, oo ⟨את⟩ amarradayda ilaabataan, oo aad sameysaan ⟨את⟩ kuwaas,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "xuquuddyadayda"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "aad ku socontaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "amarradayda"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarradayda"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ilaabataan"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "aad sameysaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuwaas",
+      "marks": "kuwaas (amarradayda)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:46.863694984Z",
+  "model": "glm-5.3"
+}

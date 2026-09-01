@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Adiga waxaa ku talaa maalinta, sidoo kale adigaa leh habeenka; Adiga waxaad diyaarisay iftiinka iyo qoraxda.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "waxaa ku talaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigaa leh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "waxaad diyaarisay"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "iyo qoraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:02.424973279Z",
+  "model": "glm-5.3"
+}

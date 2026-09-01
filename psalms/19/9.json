@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Sharcigu oo Yahweh leeyahay waa ⟨toosan⟩, qalbiga wuu ku farxinayaa; amarkii Yahweh waa nadiif, indhaha wuu iffiyayaa.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Sharcigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ku farxinayaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "nadiif"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "iffiyayaa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indhaha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:30.879573409Z",
+  "model": "glm-5.3"
+}

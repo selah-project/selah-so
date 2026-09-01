@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo ragii aan dhiminayn waxaa lagu garaacay bilawdo (tumoro), oo qaylo-du magaaladu waxay gaartay samooyinka.",
+  "tokens": [
+    {
+      "surface": "וְהָֽאֲנָשִׁים֙",
+      "gloss": "Oo ragii"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "dhiminayn"
+    },
+    {
+      "surface": "מֵ֔תוּ",
+      "gloss": "aan dhiminayn"
+    },
+    {
+      "surface": "הֻכּ֖וּ",
+      "gloss": "waxaa lagu garaacay"
+    },
+    {
+      "surface": "בָּעֳפָלִים",
+      "gloss": "bilawdo (tumoro)"
+    },
+    {
+      "surface": "וַתַּ֛עַל",
+      "gloss": "waxay gaartay"
+    },
+    {
+      "surface": "שַֽׁוְעַ֥ת",
+      "gloss": "qaylo-du"
+    },
+    {
+      "surface": "הָעִ֖יר",
+      "gloss": "magaaladu"
+    },
+    {
+      "surface": "הַשָּׁמָֽיִם",
+      "gloss": "samooyinka"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:40.636217383Z",
+  "model": "glm-5.3"
+}

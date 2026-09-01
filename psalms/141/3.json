@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Dhig, yaa Yahweh, ilaalin afayda horteeda; ilaali albaabbada laba-dhibcoodayda.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Dhig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afayda"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "על",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "דל",
+      "gloss": "albaabbada"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "laba-dhibcoodayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:06.607709196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waana taagi doonaa ⟨את⟩ kursiga boqortooyadaa ku siiya Israa'iil weligay, sidaas oo kale sidii aan u sheegay Dawuud aabbahaa, oo aan odhan: Nin laga goyn maayo afarta kursigii Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Waana taagi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursiga"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursiga"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "boqortooyadaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku siiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidaas oo kale sidii"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aan u sheegay"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabbahaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo aan odhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "laga goyn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "afarta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursigii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:45.382329390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Weli wax yar, oo shar-ku ma jiro; haddaad si fiican u eegto meeshii, ma jiro.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ... ma jiro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-ku"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "haddaad si fiican u eegto"
+    },
+    {
+      "surface": "על",
+      "gloss": "eegto (ku)"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "meeshii (kiisa)"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ma jiro"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:35.349013390Z",
+  "model": "glm-5.3"
+}

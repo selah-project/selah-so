@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Maqaarkayagu wuxuu noqday sida foorno oo guban ⟨wuxuu is-qallajiyo⟩, wajiga gubitaanka gaajada dartii.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "maqaarkayagu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sida foorno"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "wuxuu is-qallajiyo (gubmay)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajiga dartii"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "gubitaanka (kululeynta)"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gaajada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:56.454673752Z",
+  "model": "glm-5.3"
+}

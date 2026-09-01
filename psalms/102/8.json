@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Anigoo aan seexan ayaa waxaan noqday sida shimbir keli ah oo saqafka ku taal.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "anigoo aan seexan"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "waxaan noqday"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "sida shimbir"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku taal"
+    },
+    {
+      "surface": "גג",
+      "gloss": "saqafka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:49.057675322Z",
+  "model": "glm-5.3"
+}

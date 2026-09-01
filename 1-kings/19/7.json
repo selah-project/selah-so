@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Malaa'igta Yahweh waxayna ku noqotay mar labaad, waxayna taabatay, waxayna tidhi: Kac, cun, waayo, safarku wuu kaa weyn yahay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "waxayna ku noqotay"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaa'igta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mar labaad"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "waxayna taabatay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(xaggiisa)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wuu weyn yahay"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "safarku"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:13.181100153Z",
+  "model": "glm-5.3"
+}

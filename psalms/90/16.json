@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Agaaskaagu ha muuqdo addoomadaaga, oo hodankaaguna carruurtooda.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ha muuqdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Agaaskaagu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomadaaga"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": ""
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "oo hodankaaguna"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "carruurtooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:47.867396649Z",
+  "model": "glm-5.3"
+}

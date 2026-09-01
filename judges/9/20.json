@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": " haddii aysaan saas ahayn, naarta Abimelekh ha ka soo baxdo, hana liqto ⟨את⟩ ragga Shekhem iyo ⟨את⟩ qalcadda Milloo; naarna ragga Shekhem iyo qalcadda Milloo ha ka soo baxdo, hana liqto ⟨את⟩ Abimelekh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aysaan saas ahayn"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ha ka soo baxdo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "hana liqto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragga Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qalcadda Milloo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "qalcadda"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ha ka soo baxdo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naarna"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "ragga... xagga"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "iyo... xagga qalcadda"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "hana liqto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:34:35.255314628Z",
+  "model": "glm-5.3"
+}

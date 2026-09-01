@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohim wuxuu sameeyay ⟨את⟩ labada iftiin weyn — ⟨את⟩ iftiinka weyn inuu xukumo ⟨את⟩ maalinta, iyo ⟨את⟩ iftiinka yar inuu xukumo ⟨את⟩ habeenka — iyo ⟨את⟩ xiddigaha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada iftiin weyn"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iftiinka weyn"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "inuu xukumo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "iftiinka yar"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yar"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "inuu xukumo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xiddigaha"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "xiddigaha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:01.678292133Z",
+  "model": "glm-5.3"
+}

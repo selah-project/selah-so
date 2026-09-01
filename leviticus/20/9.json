@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waayo, qof kastoo naalahaa asaga oo nadciyo aabbihiis iyo ⟨את⟩ hooyadiis, waa la dilaa si loo dilo; aabbihiis iyo hooyadiis wuu nadciyay; dhiigiisa waxaa saaran isaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof kastoo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "naalahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asaga oo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nadciyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbihiis iyo hooyadiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hooyadiis"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "waa la dilaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "si loo dilo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "iyo hooyadiis"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "wuu nadciyay"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "dhiigiisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "saaran isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:06.155845838Z",
+  "model": "glm-5.3"
+}

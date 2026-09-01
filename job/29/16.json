@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Aabbaa baan ahay dadka baahida, oo dacadda aan garanayn baan baarisay.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "Aabbaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan ahay"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "dadka baahida"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "oo dacadda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "baan baarisay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:47:10.183462991Z",
+  "model": "glm-5.3"
+}

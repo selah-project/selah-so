@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Iyadoo ilmo-dheer la noqonayoa anigu waan istaagi doonaa, iyadoo timo-caddaanka aan ka gaadhayoa anigu waan soo siin doonaa; anigaa sameeyay, aniga ayaa qaadan doonaa, anigu waan soo siin doonaa oo waan badbaadin doonaa.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "iyadoo... aan ka gaadhayo"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ilmo-dheer la noqonayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waan istaagi doonaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyadoo... aan ka gaadhayo"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "timo-caddaanka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "waan soo siin doonaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigaa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniga ayaa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "qaadan doonaa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "waan soo siin doonaa"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "oo waan badbaadin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:56.331569264Z",
+  "model": "glm-5.3"
+}

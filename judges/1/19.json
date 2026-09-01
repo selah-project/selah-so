@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahwehna wuxuu ahaa ⟨את⟩ ⟨la⟩ Yahuudah, wuuna dhaqangelay ⟨את⟩ buuraha; laakiin ⟨את⟩ degganasha rugta ilaa lama dhaqan gelin, waayo, gaadhi bir ah bay lahaayeen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨la⟩",
+      "marks": "Yahuudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "wuuna dhaqangelay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buuraha"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "dhaqan gelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degganasha"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganasha"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "rugta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "gaadhi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bir ah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay lahaayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:27.381696768Z",
+  "model": "glm-5.3"
+}

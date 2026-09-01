@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wuxuu Yoosef kuna yidhi maalintii saddexaad: Tan sameeya oo noolaada, waayo, aniga waxaan ka cabsanayahay ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "oo noolaada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "waxaan ka cabsanayahay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:33.700489340Z",
+  "model": "glm-5.3"
+}

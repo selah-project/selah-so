@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxay ugu dhacday Yoonah shar weyn, oo wuu ka xanaaqay.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "waxay ugu dhacday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wuu ka xanaaqay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:10.118365254Z",
+  "model": "glm-5.3"
+}

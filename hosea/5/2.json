@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo kuwa caasiya ah si dheer bay ugu dhaqaaqeen gowraca, anigoon ahayn waanin kasta oo ka mid ah.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "gowraca"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "kuwa caasiya ah"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "si dheer bay ugu dhaqaaqeen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "waanin"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kasta oo ka mid ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:12.226428754Z",
+  "model": "glm-5.3"
+}

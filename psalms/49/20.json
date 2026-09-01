@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Wuxuu gaari doonaa dorodkigii aabayaashiis; weligood iftiin ma arkaan.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Wuxuu gaari doonaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "דור",
+      "gloss": "dorodkigii"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "aabayaashiis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "arkaan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:41.883261718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 75,
+  "translation": "Waayo, ⟨waa⟩ Elohim baa xukumaa: kani wuu hoos u dhigaa, kaasna wuu kor u qaadaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "xaa xukumaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "hoos u dhigaa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kaasna"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "kor u qaadaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:09.808637450Z",
+  "model": "glm-5.3"
+}

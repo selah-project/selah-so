@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Siiddo korkooda sakhraaddaada, oo ololka cadhadu ha gaadho ⟨waa⟩.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Siiddo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "sakhraaddaada"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "oo ololka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cadhadu"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ha gaadho"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:10.101764991Z",
+  "model": "glm-5.3"
+}

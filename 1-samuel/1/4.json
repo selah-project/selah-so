@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maalintii uurkeed gaaray, Elqana wuu allabay, wuuna siiyay Fanniina xaaskiisa iyo carruurtiisa wiilal iyo gabdhaba qaybo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maalintii uurkeed gaaray"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "wuu allabay"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wuuna siiyay"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Fanniina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "gabdhahiisa"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "qaybo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:12.149328527Z",
+  "model": "glm-5.3"
+}

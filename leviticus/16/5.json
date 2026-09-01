@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo wuxuu ka qaadan doonaa ⟨את⟩ sharciga ubadka Israa'iil laba ri'i lab oo ah qurbaadda dembiga (khataat), iyo wanka mid oo ah qurbaadda gubashada (oolaa).",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "ka ⟨את⟩",
+      "marks": "sharciga"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ri'i lab"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ri'yada"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "qurbaadda dembiga (khataat)"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "iyo wanka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "qurbaadda gubashada (oolaa)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:01.579295366Z",
+  "model": "glm-5.3"
+}

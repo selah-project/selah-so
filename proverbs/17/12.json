@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "In nin la kulmo dibar ilmo-lumay ayaa ka wanaagsan, in la kulmo kiisili nacaydiisa.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "la kulmada"
+    },
+    {
+      "surface": "דב",
+      "gloss": "dibar"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ilmo-lumay"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka wanaagsan in"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kiisili"
+    },
+    {
+      "surface": "באוולתו",
+      "gloss": "nacaydiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:44.253526469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo kii caymaha aabbihii ama hooyadiis, dhimasho waa la dhihin.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "oo kii caymaha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihii"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ama hooyadiis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimasho"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dhihin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:50.816725828Z",
+  "model": "glm-5.3"
+}

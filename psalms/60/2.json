@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Markuu la dagaalamay ⟨את⟩ Aram-Naharayim iyo ⟨את⟩ Aram-Tsoobah, oo Yoo'aab dib ugu noqday oo wuu dhul gubay ⟨את⟩ Edom godka milixda leh — laba iyo toban kun.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Markuu la dagaalamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-Naharayim"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Aram-Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Aram-Tsoobaha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-Tsoobaha"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Aram-Tsoobaha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dib ugu noqday"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuu dhul gubay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "godka"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "milixda leh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:16.436351500Z",
+  "model": "glm-5.3"
+}

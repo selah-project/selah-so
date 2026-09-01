@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan idhi: Halkee baad tegaysaa? Wuxuuse ii yidhi: Inaan ⟨את⟩ Yeruushaalaym cabiro, si aan u arko intay ballaaran tahay iyo intay dheer tahay.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Waxaan idhi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Halkee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "baad adiga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tegaysaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuse yidhi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Inaan cabiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "si aan u arko"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "intay"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ballaaran tahay"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "iyo intay"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dheer tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:04.630644138Z",
+  "model": "glm-5.3"
+}

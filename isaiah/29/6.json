@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Xagga Yahweh Tsevaot ayaa lagu soo bartaa, qaylo-dhaxal iyo gariir iyo cod weyn, dabayl daran iyo onkod, iyo ololaha dab la cuniyo.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "lagu soo bartaa"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "qaylo-dhaxal"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "iyo gariir"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "iyo cod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "dabayl daran"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "iyo onkod"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "iyo ololaha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "la cuniyo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:37.975196768Z",
+  "model": "glm-5.3"
+}

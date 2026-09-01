@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Ku tala xoogga si iska ilaali, dadkow, mar walba; ka shub wajigiisa qalbigiinnii; Elohim waa magangal noo ah. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Ku tala xoogga si iska ilaali"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gogiisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mar walba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadkow"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "ka shub"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbigiinnii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "magangal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo ah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:13.829243433Z",
+  "model": "glm-5.3"
+}

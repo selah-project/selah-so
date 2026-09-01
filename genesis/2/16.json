@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahweh Elohimgu wuxuu Aadanaha amray, isagoo leh: Geed kasta oo beerka ah waad cuni doontaa, waad dhaqso la cuni doontaa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuu amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Aadanaha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cuni doontaa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dhaqso la cuni doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:58.354781071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Abnerna wuxuu yimid xagga Da'uud Chebrown, waxaana ⟨את⟩ la ahaa labaatan nin, Da'uudna wuxuu Abner iyo ninka ⟨את⟩ la ahaa u sameeyay bandhig cabo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnerna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Da'uud"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebrown"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ la ahaa",
+      "marks": "labaatan nin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Da'uudna"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "iyo ninka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la ahaa",
+      "marks": "ninka (labaatanka)"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bandhig cabo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:17.096344137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Qooz wuxuu dhalay ⟨את⟩ Canuub iyo ⟨את⟩ Codobebah, iyo qoysaska Axarxel inka Haruum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Qooz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Canuub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Canuub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Codobebah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Codobebah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "iyo qoysaska"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Axarxel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Haruum"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:01.506325091Z",
+  "model": "glm-5.3"
+}

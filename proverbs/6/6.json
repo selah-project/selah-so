@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Tag xamaarada qiyaasta ah ee ay hoogto, eeg waddooyinkeeda, oo xigsi naqo, oo adigoo ah mid shaqo-la'aan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo ay hoogto"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "xamaarada qiyaasta ah"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "adigoo ah mid shaqo-la'aan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "waddooyinkeeda"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "oo xigsi naqo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:48.197715574Z",
+  "model": "glm-5.3"
+}

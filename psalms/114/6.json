@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Buuraha, maxaad u qiimeyseen sida ri'yada? Teellooyinka, sida wanaha berri?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Buuraha"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "u qiimeyseen"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sida ri'yada"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "Teellooyinka"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sida wiilasha"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhintu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.367011014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Naag ayaad galaysaa (qoorta la gaadhisaa), oo nin kale baa la seexan doonaa; guri ayaad dhisaa, oo aadan kunoolayn; beer canab ayaad beertaa, oo aadan hurbadin.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "galaysaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "la seexan doonaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "dhisaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kunoolayn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(guriga)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "beer canab"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "beertaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "hurbadin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:20.663254966Z",
+  "model": "glm-5.3"
+}

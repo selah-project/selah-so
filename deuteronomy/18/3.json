@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo kanuna waa sharciga kahannada laga helo ⟨את⟩ dadka, laga helo ⟨את⟩ kuwa allabari gowraca, haddii lo' iyo haddii ido: lugta sedeedka, labada ganaax iyo caloosha bay siinayaan kaahanka.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "oo kanuna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa sharciga ah"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sharciga (xaqa)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kahannada"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "laga helo ⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "laga helo ⟨את⟩",
+      "marks": "kuwa allabari gowraca"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kuwa gowraca"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ido"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "bay siinayaan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kaahanka"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "lugta sedeedka"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "labada ganaax"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "iyo caloosha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:07.458581483Z",
+  "model": "glm-5.3"
+}

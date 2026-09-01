@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waxayna caabudeen ⟨את⟩ sanamyadooda, waxayna noqdeen kaniinado ⟨dhibaato⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "caabudeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamyadooda"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanamyadooda"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "noqdeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniinado"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "⟨dhibaato⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:39.843408331Z",
+  "model": "glm-5.3"
+}

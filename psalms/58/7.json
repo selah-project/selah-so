@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Elohimow, burburi ilkaha kuwaas afkooda ku jira; ilaha yar-yar oo libaaxa ah, Yahwehow, go'i.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "burburi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ilkaha kuwaas"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "afkooda ku jira"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ilaha yar-yar"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "libaaxa ah"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "go'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:24.445622563Z",
+  "model": "glm-5.3"
+}

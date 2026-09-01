@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Wuxuuna siyay ⟨את⟩ iyaga inay naxariis helaan, oo hortii dhammaan kuwii gacanta ku dhigay.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Wuxuuna siyay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "inay naxariis helaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oortii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "kuwii gacanta ku dhigay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:13.580421632Z",
+  "model": "glm-5.3"
+}

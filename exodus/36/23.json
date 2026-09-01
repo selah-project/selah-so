@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ laambadda Mishkaanka; dalabya laash — labaatan laash oo dhinaca koofurta, koonfur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laambadda"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "laambadda"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkaanka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "laash"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "oo dhinaca"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koofurta"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "koonfur"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:23.758201356Z",
+  "model": "glm-5.3"
+}

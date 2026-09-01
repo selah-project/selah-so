@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Haddii aan ku socdo dhibta dhexdeede, waad i noolaaminaysaa; gaadabka cadawyadaaga waxaad ku gacantaada dirtaa, oo midigtaadu i badbaadinaysaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aan ku socdo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdeede"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "waad i noolaaminaysaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gaadabka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadawyadaaga"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "waxaad ku dirtaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "oo midigtaadu i badbaadinaysaa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:51.659695505Z",
+  "model": "glm-5.3"
+}

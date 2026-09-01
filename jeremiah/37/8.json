@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Kashdiimiintuna way ku noqon doonaan, wayna dagaallami doonaan magaaladan, wayna qaban doonaan, wayna gubi doonaan dab.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "way ku noqon doonaan"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kashdiimiintuna"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "wayna dagaallami doonaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dagaallami doonaan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaaladan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "magaaladan"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "wayna qaban doonaan"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "wayna gubi doonaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dab"
+    }
+  ],
+  "timestamp": "2026-09-01T04:16:36.253641661Z",
+  "model": "glm-5.3"
+}

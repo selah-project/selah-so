@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxayna tuureen kii kii ulkiisii, waxayna noqdeen taninno; ulkii Aaroonna wuu liqiay ⟨את⟩ uloodyadooda.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Waxayna tuureen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kii kii"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ulkiisii"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna noqdeen"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninno"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "wuu liqiay"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ulkii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uloodyadooda"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "uloodyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:15.839108138Z",
+  "model": "glm-5.3"
+}

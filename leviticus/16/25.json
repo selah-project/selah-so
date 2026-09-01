@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo ⟨את⟩ baruurta dhibcooda wuu gaadiidin doonaa saraaraha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "baruur"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dhibcooda"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "gaadiidin doonaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "saraaraha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:20.965953746Z",
+  "model": "glm-5.3"
+}

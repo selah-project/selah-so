@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Haddii aan hallayno magaca Eloheenno, ama aan fidinno gacmaheenna ⟨ilaa⟩ El aan shisheeyo ahayn,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "aan hallayno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheenno"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ama aan fidinno"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "gacmaheenna"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨ilaa⟩ El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "aan shisheeyo ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.967286425Z",
+  "model": "glm-5.3"
+}

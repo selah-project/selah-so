@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Laakiin adigu ⟨adigaa⟩ quduus ah, Kan fadhiista taallo ammaanada Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Laakiin adigu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus ah"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Kan fadhiista taallo"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ammaanada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:24.968202313Z",
+  "model": "glm-5.3"
+}

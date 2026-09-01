@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Bisha koowaad, maalinta afarta iyo tobnaad ee bishaas, ⟨waa⟩ Fesakh Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "afarta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bishaas"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Fesakh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:13.343459497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Cunto ⟨את⟩ xaggooda lacag ku iibsada oo cuna, oo biyana ⟨את⟩ xaggooda lacag ku iibsada oo cabba.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "lacag ku iibsada"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ xaggooda"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "oo cuna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyana"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "lacag ku iibsada"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ xaggooda"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "oo cabba"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:11.525120998Z",
+  "model": "glm-5.3"
+}

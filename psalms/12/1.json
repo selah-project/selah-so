@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Hagaha codka tuujista — oo ku saabsan siddeedaad — mizmoor (qasaa'id muusig) oo Dawuud ah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha codka tuujista"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo ku saabsan"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "siddeedaad"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor (qasaa'id muusig)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawuud ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:22.071489909Z",
+  "model": "glm-5.3"
+}

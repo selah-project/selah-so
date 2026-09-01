@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Yahwehna wuxuu yidhi: Bal eeg, meel baa ⟨את⟩ igu dhow, oo adigu waad taagi doontaa dhagaxa korkiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ igu dhow",
+      "marks": "meel — meesha Yahweh agtiisa ah"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "waad taagi doontaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dhagaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:31.242799872Z",
+  "model": "glm-5.3"
+}

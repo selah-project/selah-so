@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo kor taalna waxay ahaayeen dhagaxyo qaali ah, cabbirro dhagaxyo la jaray, iyo harar.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "Oo kor taalna"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "qaali ah"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "cabbirro"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "la jaray"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "iyo harar"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:30.934259247Z",
+  "model": "glm-5.3"
+}

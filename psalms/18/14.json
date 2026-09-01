@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahwehna wuxuu samada ku onkaday, oo Elyoon wuxuu bixiyay codkiisa — dheelle iyo dhagaxyo naar ah.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "wuxuu samada ku onkaday"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Elyoon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuxuu bixiyay"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "dheelle"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "iyo dhagaxyo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naar ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:59.372131690Z",
+  "model": "glm-5.3"
+}

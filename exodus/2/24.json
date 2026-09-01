@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Elohimna wuxuu maqlay ⟨את⟩ oohintoodii, Elohimna wuxuu xusay ⟨את⟩ balligiisii ⟨את⟩ Abraham ⟨את⟩ Yitschaq iyo ⟨את⟩ Ya'aqob.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oohintoodii"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "oohintoodii"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "wuxuu xusay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balligiisii"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "balligiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ya'aqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:44.726465874Z",
+  "model": "glm-5.3"
+}

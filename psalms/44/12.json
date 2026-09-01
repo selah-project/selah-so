@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waa naigu siisay sida adhi oo cunno ah, dhexda quruunadana waad naigu faafisay.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "waa naigu siisay"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sida adhi"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "cunno ah"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "dhexda quruunadana"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "waad naigu faafisay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:02.591778145Z",
+  "model": "glm-5.3"
+}

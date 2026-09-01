@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Indhahaygu way aragteen kuwa iigu shirqoolan; dhegtaydu waxay maqan dhawaaqii kuwa igaga soo kacay oo fala xume.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "way aragteen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kuwa iigu shirqoolan"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "kuwa soo kacay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igaga"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "oo fala xume"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "waxay maqan"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "dhegtaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:42.180478130Z",
+  "model": "glm-5.3"
+}

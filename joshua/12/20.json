@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Boqorkii Shimron-Meron, mid; boqorkii Akshaf, mid.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:35.066748119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo indhihiinna way arkaan, idinkuna waxaad odhan doontaan: Yahweh way weyn tahay ee ka sarreysa xadka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "iyo indhihiinna"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "way arkaan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "idinkana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "waxaad odhan doontaan"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "way weyn tahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka sarreysa"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "xadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:21.661578333Z",
+  "model": "glm-5.3"
+}

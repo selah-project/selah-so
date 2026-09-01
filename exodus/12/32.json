@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Xoolaha idinku iyo lo'da idinku, qaad, sidaad tidhideen, taga, oo sidoo kale ⟨את⟩ aniga iila barakeeya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "xoolaha idinku (adhigii)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "lo'da idinku"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "aad tidhideen"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "taga"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "oo iila barakeeya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:02.645455406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Boqorro ma aha, Lemu'elow; boqorro ma aha inay cabbaan khamri, ama hoggaamiyayaashu inay raadraan cabitaan sakhraan ah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "boqorro"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemu'elow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "boqorro"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "inay cabbaan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ama hoggaamiyayaashu"
+    },
+    {
+      "surface": "או",
+      "gloss": "inay raadraan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "cabitaan sakhraan ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:48.155109489Z",
+  "model": "glm-5.3"
+}

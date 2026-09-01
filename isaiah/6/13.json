@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 6:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Laakiin weligeed waxaa ka hadha tobankaan (casharkii), oo wuxuu dib ugu noqonaa, wuxuuna noqonaa mid la gubo, sida Ilaha-geedka iyo sida qaangada, oo marka la gooyo (la soo roggo) jirrid ku hadha — abuur quduus ah baa jirrideenna ku hadhaan.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Laakiin weligeed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gudahaheeda"
+    },
+    {
+      "surface": "עשריה",
+      "gloss": "tobankaan (casharkii)"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "wuxuu dib ugu noqonaa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "wuxuuna noqonaa"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "mid la gubo"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "sida Ilaha-geedka"
+    },
+    {
+      "surface": "וכאלון",
+      "gloss": "iyo sida qaangada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo marka"
+    },
+    {
+      "surface": "בשלכת",
+      "gloss": "la gooyo (la soo roggo)"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "jirrid"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abuur"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus ah"
+    },
+    {
+      "surface": "מצבתה",
+      "gloss": "jirrideenna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:33.846352600Z",
+  "model": "glm-5.3"
+}

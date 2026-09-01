@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waayo, Yahweh wuu arkay ⟨את⟩ dhibta Israa'iil, inay aad u adag tahay; waanana jirin la xiray iyo la dayan midna, mana jirin gargaare Israa'iil u ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "inay aad u adag tahay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "waanana jirin"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "la xiray"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "iyo midna ma jirin"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "la dayan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana jirin"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gargaare"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil u ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:15.922051853Z",
+  "model": "glm-5.3"
+}

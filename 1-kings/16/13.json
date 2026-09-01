@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxay tahay waxii dhammaan dembiyadii Baashaa iyo dembiyadii Elah inkiisa, kuwaas ay dembi sameeyeen, oo kuwaas ay ku dhigeen ⟨את⟩ Israa'iil inay dembaabaan, si ay u cadhoodshiiso ⟨את⟩ Yahweh, Eloahii Israa'iil, batelkooda dartii.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "waxii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dembiyadii"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "iyo dembiyadii"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas ay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "dembi sameeyeen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oo kuwaas ay"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "ku dhigeen inay dembaabaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "si ay u cadhoodshiiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "batelkooda dartii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:44:47.616863990Z",
+  "model": "glm-5.3"
+}

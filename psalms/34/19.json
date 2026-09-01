@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Yahweh wuu u dhow yahay kuwa qalbiga jaban, oo ⟨wuxuu⟩ badbaadin kuwa ruuxa la tumay.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "wuu u dhow yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "kuwa jaban"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa ruuxa la tumay"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "kuwa la tumay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "badbaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:48.760414427Z",
+  "model": "glm-5.3"
+}

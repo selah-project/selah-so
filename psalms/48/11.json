@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Sida magacaaguba, Elohow, saas ayaa ammaantaadu, ilaa geesaha dhulka; xaqu waa buuxisay gacantaada midig.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "sida magacaaguba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohow"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas ayaa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ammaantaadu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "xaqu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "waa buuxisay"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "gacantaada midig"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.803177210Z",
+  "model": "glm-5.3"
+}

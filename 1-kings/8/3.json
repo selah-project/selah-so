@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxayna yimaadeen odayaasha Israa'iil oo dhan, wuxuuna qaaday waayadii ⟨את⟩ sanduuqa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Waxayna yimaadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wuxuuna qaaday"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "waayadii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduuqa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:50.140933989Z",
+  "model": "glm-5.3"
+}

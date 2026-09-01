@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "laakiin ha goyn ⟨את⟩ khesedkaaga reerkayaga weligood, oo ha ahaanin marka Yahweh goynayo ⟨את⟩ cadowada Daawud nin kasta dhulka wejiyada ka mid ah.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ha goyn"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ha goyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khesedkaaga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "reerkayaga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "reerkayaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha ahaanin"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "marka goynayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowada Daawud"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dhulka wejiyada"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:53.345410726Z",
+  "model": "glm-5.3"
+}

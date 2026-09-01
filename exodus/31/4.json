@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Inuu qorsheeyo qorshooyin, inuu sameeyo dahabka iyo lacagta iyo biraha birta.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "Inuu qorsheeyo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "qorshooyin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "Inuu sameeyo"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "iyo lacagta"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "iyo biraha birta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:42.704054458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yehooshuuca wuxuu si kedis ah ugu yimid — habeenkii oo dhan wuu ka soo baxay Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu ugu yimid"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "si kedis ah (ugu yimid)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kedis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wuu ka soo baxay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:21:14.398263029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Waayo indhahaygu waa adiga ku jiiraan, adiga Yahweh Adonay; adigay ku hawlay; ha daadin nafdayda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "adigay"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ku hawlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תער",
+      "gloss": "daadin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:40.378658186Z",
+  "model": "glm-5.3"
+}

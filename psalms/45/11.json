@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Maqlay gabadhow, oo eeg, oo dheji dhegtu; hilmaana qoloddaada iyo gurigii aabahaaga.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Maqlay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhow"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "oo eeg"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "dheji"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegtu"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "hilmaana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoloddaada"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.825660Z",
+  "model": "glm-5.3"
+}

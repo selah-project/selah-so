@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Xusuusnow raxmadaada, Yahweh, iyo khesedkaaga, waayo tan iyo hore bay ahaayeen.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xusuusnow"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "raxmadaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "iyo khesedkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "tan iyo hore"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bay ahaayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.840063823Z",
+  "model": "glm-5.3"
+}

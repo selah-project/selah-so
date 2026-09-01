@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Dhallinyarada iyo sidoo kale gabdhaha dhHallo, odayaasha oo ilmaha wada jira",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Dhallinyarada"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "gabdhaha dhHallo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo ilmaha wada jira"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "walaalaha yar yar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:17.146636164Z",
+  "model": "glm-5.3"
+}

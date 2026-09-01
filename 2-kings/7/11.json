@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxayy oo dhawaaqeen ilaawayaashii albaabka, oo ay gudaha guriga boqorka u sheegteen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waxay dhawaaqeen"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ilaawayaashii albaabka"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "oo ay sheegteen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "gudaha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:51.284288488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Kaalaya, aannu u heesanno Yahweh, aannu u qaylino dhagxa-ta badbaadadayso",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "aannu u heesanno"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "aannu u qaylino"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhagxa-ta"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "badbaadadayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:58.126898517Z",
+  "model": "glm-5.3"
+}

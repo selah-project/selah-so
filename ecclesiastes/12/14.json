@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waayo Elohim wuxuu keeni doonaa ⟨את⟩ shuqul kasta xukun gudihiisa, wax kasta oo qarsoon korkiisa, hadduu wanaagsan yahay iyo hadduu xun yahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuqul kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wuxuu keeni doonaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukun gudihiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "qarsoon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo hadduu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:08.042588996Z",
+  "model": "glm-5.3"
+}

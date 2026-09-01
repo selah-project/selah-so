@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Wuxuu dhigaa webiyada inay noqdaan midbaan, iyo ilo biyaha inay noqdaan ⟨dhul⟩ oon (harri).",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Wuxuu dhigaa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "inay noqdaan midbaan"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "iyo ilo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "inay noqdaan ⟨dhul⟩ oon (harri)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:09.400947768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Si ay u fuliyaan korkooda xukunka qoran — haddarna waa waasheyn ⟨uu⟩ yahay dhamaan khesedkiisa; ammaana Yah.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "si ay u fuliyaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "qoran"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "waasheyn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨uu⟩ yahay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ammaana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:01.225645798Z",
+  "model": "glm-5.3"
+}

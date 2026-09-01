@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Muuse wuxuu keenay ⟨את⟩ xukunkooda hortii Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuu keenay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xukunkooda"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "xukunkooda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:08.403365353Z",
+  "model": "glm-5.3"
+}

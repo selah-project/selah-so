@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wayna go'yeen ⟨את⟩ tiirarka Baal, wayna go'yeen ⟨את⟩ baytkii Baal, waxayna ka dhigeen musqul ilaa maanta.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "wayna go'yeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "wayna go'yeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baytkii Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "waxayna ka dhigeen"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "musqul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:12:42.529716148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Dawiiddi wuxuu waayeeyay oo maalmaha ka dhereraa, wuxuuna boqor ka dhigay ⟨את⟩ Shelomoh inankiisa Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawiiddi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wuxuu waayeeyay"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmaha ka dhereraa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wuxuuna boqor ka dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:25.104002090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Shekhem, wiilka Chamor ee Hivviga ah, oo ah madaxa dalka, wuu arkaa ⟨את⟩ iyada markuu arko, wuu qaadanaa ⟨את⟩ iyada, wuu la seexanaa ⟨את⟩ iyada, wuuna dulloobay iyada.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivviga ah"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuu qaadanaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "wuu la seexanaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "wuuna dulloobay iyada"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:37.615998691Z",
+  "model": "glm-5.3"
+}

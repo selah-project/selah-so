@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Dawid oo la socda Sadoq oo ka mid ah curada Elazar, iyo Aximelekh oo ka mid ah curada Iyitamar, ayaa iyaga qaybiyay ayadoo la eegayo ⟨darajadooda⟩ iyo ⟨adeegooda⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "wuxuu qaybiyay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "oo la socda Sadoq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "iyo Aximelekh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Iyitamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "darajadooda"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "adeegooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:50.188798717Z",
+  "model": "glm-5.3"
+}

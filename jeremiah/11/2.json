@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Maqla ⟨את⟩ ereyada ballaankan oo u sheega dadka Yahuudah iyo degganayaasha Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyada"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ballaankan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "oo u sheega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "degganayaasha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:34.333773263Z",
+  "model": "glm-5.3"
+}

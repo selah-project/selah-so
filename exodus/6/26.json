@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waa kan Aharon iyo Muuse, oo Yahweh ku yidhi: Ka saara ⟨את⟩ wiilasha Israa'iil dhulka Mitsrayim, ciidankooda keli ah.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "waa kan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "iyo Muuse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Ka saara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ciidankooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:40.299802873Z",
+  "model": "glm-5.3"
+}

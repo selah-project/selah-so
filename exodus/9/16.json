@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "laakiin sababtan awgood ayaa waan ku taagay, inaan kuu muujiyo ⟨את⟩ awooddayda, iyo in magacayga lagu sheego dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sababtan awgood"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "waan ku taagay"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "kuu muujiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awooddayda"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "awooddayda"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lagu sheego"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhulka oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:58.304121215Z",
+  "model": "glm-5.3"
+}

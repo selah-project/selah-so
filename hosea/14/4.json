@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ashuur naga ma badbaadinayo; faras ma fuulayno; oo mar dambe ma dhihayno: Elohimayaga, shuqulka gacameenna; waayo adiga agtaada ayaa ilmo-liitu naxariis helayaa.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "naga ma badbaadinayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "faras"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "fuulayno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "dhihayno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimayaga"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "gacameenna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga agtaada"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "naxariis helayaa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ilmo-liitu"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:49.964592591Z",
+  "model": "glm-5.3"
+}

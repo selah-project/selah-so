@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ Chiviyi, iyo ⟨את⟩ Carqiyi, iyo ⟨את⟩ Siiniyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chiviyi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiviyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Carqiyi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Carqiyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Siiniyi"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siiniyi"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:30.109098784Z",
+  "model": "glm-5.3"
+}

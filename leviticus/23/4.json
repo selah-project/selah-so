@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Kuwan waa waqtigoyinka Yahweh, shirarro qudus ah, ee aad ku dhawaaqaan ⟨את⟩ waqtiyadooda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwan"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "waqtigoyinka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "shirarro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudus ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "aad ku dhawaaqaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waqtigooda"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "waqtiyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:50.728470152Z",
+  "model": "glm-5.3"
+}

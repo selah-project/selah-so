@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Waayo, waa xeer ⟨laga-soo-bilay⟩ Yisraa'iil, waa mishiqa Ilahii Yacquub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "חק",
+      "gloss": "xeer"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishiq"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Ilahii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:44.535368569Z",
+  "model": "glm-5.3"
+}

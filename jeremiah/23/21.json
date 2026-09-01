@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Ma aanan dirin ⟨את⟩ nebiyada, iyagoo ordaya; ma aanan lahadalnin iyaga, iyagoo sii sheegaya (nebi ahaan).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "dirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebiyada"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iyagoo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ordaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "lahadalnin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iyagoo"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "sii sheegaya (nebi ahaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:33.953171330Z",
+  "model": "glm-5.3"
+}

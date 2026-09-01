@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo laba dafood idinka, dadka oo dhan oo Sabtidii baxa, wayna ilaalin doonaan ⟨את⟩ ilaalinta Baytkii Yahweh ag Boqorka.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "iyo laba dafood"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dadka oo dhan"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "oo baxa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabtidii"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "wayna ilaalin doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalinta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:27:39.932138407Z",
+  "model": "glm-5.3"
+}

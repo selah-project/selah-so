@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Iyo addoo adeeg nin kasta oo lagu iibsaday qaanso, haddaad gudaal-sunto ⟨את⟩ isaga, kaddib wuu ka cuni karaa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iyo kasta oo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adeeg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "lagu iibsaday"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qaanso"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "haddaad gudaal-sunto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "אז",
+      "gloss": "kaddib"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wuu cuni karaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:54.100218990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ Tsorah, iyo ⟨את⟩ Ayalon, iyo ⟨את⟩ Xevron, kuwaas oo ku yaal Yehudha iyo Bunyamiin — magaalooyin la adkeesiyay (mudawanaad)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ku yaal Yehudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "iyo Bunyamiin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "la adkeesiyay (mudawanaad)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:11.487164854Z",
+  "model": "glm-5.3"
+}

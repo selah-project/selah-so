@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Aniguna waxaan idhi, Madadaal baan ku daalay, been abuur iyo madadaal ayaan ku buriyay xoogaygii; laakiin runtii gar-kaigu waa ⟨את⟩ Yahweh, abaalgudkayguna waa ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "madadaal"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "baan ku daalay"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "been abuur"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "iyo madadaal"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "xoogaygii"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ayaan ku buriyay"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "laakiin runtii"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gar-kaigu"
+    },
+    {
+      "surface": "את",
+      "gloss": "waa ⟨את⟩ ... la",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "abaalgudkayguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "waa ⟨את⟩ ... la",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:12.381244428Z",
+  "model": "glm-5.3"
+}

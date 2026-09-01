@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Yahweh ⟨waa⟩ aniga igu jira, ka mid ah taageerayaashay; ani waxaan arkayaa kuwa i neceb yahay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga igu jira"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ka mid ah taageerayaashay"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "waxaan arkayaa"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "kuwa i neceb yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:24.064265675Z",
+  "model": "glm-5.3"
+}

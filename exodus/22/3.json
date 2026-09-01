@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii waxa la xatooyay runtii la helo, la helo gacantiisa — dibi ilaa dameer ilaa ido, nool — laba-layn buu bixiyaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "runtii la helo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "la helo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "waxa la xatooyay"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dibi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "dameer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ido"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nool"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba-layn"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "buu bixiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:20.551645129Z",
+  "model": "glm-5.3"
+}

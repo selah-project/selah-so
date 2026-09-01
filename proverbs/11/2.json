@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Markay timaado isla-weynida waxaa la yimaada hoyga ⟨dulliga⟩, oo ⟨labaatan⟩ qurux-lowyiina waxay haysataa xikmada.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "markay timaado"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "isla-weynida"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "waxaa la yimaada"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hoyga dulliga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurux-lowyiinta"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "qurux-lowyiinta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:46.853655166Z",
+  "model": "glm-5.3"
+}

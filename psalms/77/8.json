@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Ma weligiis baan Adonay diidi doonaa, oo ma raalli-gelin aan mar dambe ma heli doonaa?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "ma weligiis baan"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "diidi doonaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "raalli-gelin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aan mar dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:42.382599163Z",
+  "model": "glm-5.3"
+}

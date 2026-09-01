@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Yahwehna wuxuu la hadlay Muuse: Tag, deg, waayo, dadkaagii aad ka soo bixinayey dhulka Mitsrayim waa ay baabi'een.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "רד",
+      "gloss": "deg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "waa ay baabi'een"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaagii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ka soo bixinayey"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:44.016447158Z",
+  "model": "glm-5.3"
+}

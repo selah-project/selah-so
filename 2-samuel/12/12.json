@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waad qabatay sir ah, aniguse waxaan sameyn ⟨את⟩ waxaasan hortooda Israa'iil oo dhan iyo horooda qorraxda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(waa)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waad qabatay"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sir ah"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguse"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "waxaan sameyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxaasan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waxaasan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(kaan)"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "iyo horooda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:01:05.154752555Z",
+  "model": "glm-5.3"
+}

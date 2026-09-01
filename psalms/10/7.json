@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Afkiisu wuu ka buuxaa habaar iyo khiyaano iyo khiyaan-dhaqaale; carrabkiisa hoostiisa waxaa ku jira dhib iyo xume.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "habaar"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "afkiisu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wuu ka buuxaa"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "iyo khiyaano"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "iyo khiyaan-dhaqaale"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoostiisa"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "carrabkiisa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "iyo xume"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:52.533296969Z",
+  "model": "glm-5.3"
+}

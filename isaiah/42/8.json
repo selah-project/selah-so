@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Aniga Yahweh baa ah magacayga; ammaantaydana mid kale kama siinayo, na na'taydana sanamyada la sawiray.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa ah"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ammaantaydana"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "mid kale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kama siinayo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kama siinayo"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "na'taydana"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "sanamyada la sawiray"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:43.769664246Z",
+  "model": "glm-5.3"
+}

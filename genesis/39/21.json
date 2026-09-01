@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Yahweh wuxuu ahaa ⟨את⟩ Yoseef, wuxuuna tuuray khesed (ixtiraas) korkiisa, wuxuuna dhigay raalliyadiisa indhaha hore ee sar-ka baytkii xabsiga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoseef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wuxuuna tuuray"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "raalliyadiisa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha hore ee"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar-ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "xabsiga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:34.881157518Z",
+  "model": "glm-5.3"
+}

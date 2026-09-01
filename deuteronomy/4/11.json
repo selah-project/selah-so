@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo idinku waxaad dhowaadheen, oo aad taagan dibeddii buurta, oo buurtu waxay gubanaysay olol ilaa wadnaha samada — mugdi, daruur iyo waas-waas madow.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "waxaad dhowaadheen"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "aad taagan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dibeddii"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "buurtu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "waxay gubanaysay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iliaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wadnaha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "daruur"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "waas-waas madow"
+    }
+  ],
+  "timestamp": "2026-09-01T08:18:53.975417254Z",
+  "model": "glm-5.3"
+}

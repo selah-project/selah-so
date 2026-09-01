@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo nin uu bixiyo seexashadiisa xayawaan — hubaal wuu dhintaa, oo ⟨את⟩ xayawaanka waxaad dishaan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Oo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bixiyo"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "seexashadiisa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "xayawaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wuu dhintaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "xayawaanka"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "waxaad dishaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:47.405828100Z",
+  "model": "glm-5.3"
+}

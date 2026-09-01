@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Waayo, qurbaan ma doonayso, haddii kale waan bixin lahaa; gubitaan aad ka raalli noqon mayso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "doonayso"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbaan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waan bixin lahaa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gubitaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ka raalli noqon mayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:47.597723440Z",
+  "model": "glm-5.3"
+}

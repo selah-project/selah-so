@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "[Hogaamiyaha muusiga lagu hanbaliyay, kan Yeduutun; hees Asaaf.]",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "hogaamiyaha muusiga lagu hanbaliyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yeduutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "hees"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:22.658768220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Talo maqal, oo barbaaris aqbal, si aad u noqoto fiqi dhamaadkaaga.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "talo"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "oo aqbal"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "barbaaris"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "noqoto fiqi"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "dhamaadkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:12.156049183Z",
+  "model": "glm-5.3"
+}

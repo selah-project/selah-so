@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Af bay leeyihiin laakiin ma hadlaan; indho bay leeyihiin laakiin ma arkaan.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "af"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay leeyihiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hadlaan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay leeyihiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "arkaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:02.991069217Z",
+  "model": "glm-5.3"
+}

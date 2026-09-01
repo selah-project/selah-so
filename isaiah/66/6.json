@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Cod shanlayn ah magaalada ka timaadda, cod macbadka ka soo jeeda, codka Yahweh, oo ku abaalmarinaya cawradiisa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Cod"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "shanlayn ah"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalada ka timaadda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "macbadka ka soo jeeda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ku abaalmarinaya"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "abaalmarin"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "cawradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:59:29.868832986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo waan qudus-jecleysiin doonaa ⟨את⟩ Khaynta Kulanka iyo ⟨את⟩ bicda, iyo ⟨את⟩ Axaron iyo ⟨את⟩ wiilashiisa waan u qudus-jecleysiin doonaa inay ii noqdaan waayeel (kohanim).",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "waan qudus-jecleysiin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khaynta Kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaynta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bicda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bicda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "waan u qudus-jecleysiin doonaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "inay noqdaan waayeel (kohen)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:50.212698180Z",
+  "model": "glm-5.3"
+}

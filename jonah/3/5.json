@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Dadkii Niinweh waxay rumeeyeen Elohim, waxay ku dhawaaqeen soomi, waxna xidheen saq-yar — waaweynkiis ilaa kan yar ee ka mid ah.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "waxay rumeeyeen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinweh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "waxay ku dhawaaqeen"
+    },
+    {
+      "surface": "צום",
+      "gloss": "soomi"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "waxna xidheen"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "saq-yar"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "waaweynkiis"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "kan yar ee ka mid ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:46.797677178Z",
+  "model": "glm-5.3"
+}

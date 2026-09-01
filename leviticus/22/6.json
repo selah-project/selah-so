@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Naf taabataysa waxaas waxay noqon ⟨waa⟩ wasakh ilaa galabta, oo wax ka cunmaya waxa qudduuska ah, haddii aanuu maydho jidhkiisa biyo.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "taabataysa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "waxay noqon wasakh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo wax ha cunin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cunayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "waxa qudduuska ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddii aanuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aanuu"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "maydho"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:17.550772800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Deggane iyo kireeyayaal labo ma cunaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "deggane (deggel-maalqab)"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "iyo kireeyay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cunaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.290772782Z",
+  "model": "glm-5.3"
+}

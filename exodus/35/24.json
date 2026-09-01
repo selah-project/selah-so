@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Mid kastaa oo kor u qaadayay bixin lacag nuqul ah iyo biraha naxaasta ah wuxuu keenay ⟨את⟩ bixinta Yahweh; iyo mid kastaa oo ⟨את⟩ la kiraystay geedo shaqal ah shaqada adeegga kasta waxuu keenay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mid kastaa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "kor u qaadayay"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "bixin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag nuqul ah"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "iyo biraha naxaasta ah"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wuxuu keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bixinta"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "bixinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo mid kastaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "la kiraystay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "geedo shaqal ah"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shaqal ah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "waxuu keenay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:54.780102970Z",
+  "model": "glm-5.3"
+}

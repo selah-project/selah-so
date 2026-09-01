@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 82,
+  "translation": "Laakiin sida Aadam bay dhimi doontaan, iyo sida mid ka mid ah boqoradii waayeel baad dhici doontaan.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "sida Aadam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "bay dhimi doontaan"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "iyo sida mid ka mid ah"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "boqoradii waayeel"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "baad dhici doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:48.712212591Z",
+  "model": "glm-5.3"
+}

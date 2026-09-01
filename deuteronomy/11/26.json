@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Eegee, anigu waxaan horteiinna dhigaa maanta barako iyo habaar.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "eegee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "waxaan dhigaa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "horteiinna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barako"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "iyo habaar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:58.984688477Z",
+  "model": "glm-5.3"
+}

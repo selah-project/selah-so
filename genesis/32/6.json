@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxaa iigu noqday lo' iyo dameero, adhi iyo addoon iyo addoonad, waanan diray inaan u sheego sayidkayga, si aan xinni ugu helo indhahaaga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waxaa noqday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "iyo dameero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "iyo addoon"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "iyo addoonad"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "waanan diray"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "inaan u sheego"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sayidkayga"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "si aan u helo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xinni"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:56.493141969Z",
+  "model": "glm-5.3"
+}

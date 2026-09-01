@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Anigu waxaan ahay Yahweh, oo aan jirin wax kale; igu soo gaar ah ma jiro Elohim; waan ku xiray ⟨gacan-hoose⟩, anigoo aadan i garan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan jirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax kale"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "igu soo gaar ah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "waan ku xiray"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "i garan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:53:43.839478585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaa in badan oo xikmad ah ku jirtaa murug badan, oo ciddii kordhisa aqoonta waxay kordhisaa xanuun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in badan oo ... ah ku jirtaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "murug"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ciddii kordhisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoonta"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "waxay kordhisaa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "xanuun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:50.820236560Z",
+  "model": "glm-5.3"
+}

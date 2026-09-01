@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ya'aqobna wuxuu xaday ⟨את⟩ qalbiga Labaan ha-Aramiga, markaanan u sheegin inuu cararayo.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "wuxuu xaday"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga Labaan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ha-Aramiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "markaanan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "u sheegin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inuu"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "cararayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "(isagu)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:34.024855773Z",
+  "model": "glm-5.3"
+}

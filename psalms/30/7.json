@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Aniguna waxaan ku idhi xasilloowdaydii maalintaas: weligeen ma dhaqaajayo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan ku idhi"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "xasilloowdaydii maalintaas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "weligeen ma"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "dhaqaajayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:44.919179080Z",
+  "model": "glm-5.3"
+}

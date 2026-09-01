@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Kuwa ku nool cirdiga dhulka way ka cabsadaan calaamadahaaga; soo-bixiyeyaasha subaxda iyo galabta waad dhisaa inay heesaan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "way ka cabsadaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa ku nool"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "cirdiga dhulka"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "calaamadahaaga"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "soo-bixiyeyaasha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaxda"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "iyo galabta"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "waad dhisaa inay heesaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:21.331926701Z",
+  "model": "glm-5.3"
+}

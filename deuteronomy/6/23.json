@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "⟨את⟩ annagana wuxuu naga soo bixiyay meeshaas, si uu ⟨את⟩ nagu keeno, inuu na siiyo ⟨את⟩ dhulkii uu ⟨את⟩ ku dhaartay aabbayaashayadii.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ annagana",
+      "marks": "annagana (walwalka uu naga soo bixiyay)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wuxuu naga soo bixiyay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si uu"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "nagu keeno"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "annaga (walwalka uu nagu keeno)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inauu na siiyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ku dhaartay"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "aabbayaashayadii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:25.129524194Z",
+  "model": "glm-5.3"
+}

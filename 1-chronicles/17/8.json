@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "waxa aan la ahaa meel kasta oo aad tagto, waxa aan baabi'iyay ⟨את⟩ cadowgaaga oo dhan hortaada, waxa aan kuu sameeyay magac sida magaca weynaa dhulka kuwaas ah.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "waxa aan la ahaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaa la"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "meel kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "aad tagto"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "waxa aan baabi'iyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowgaaga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "waxa aan sameeyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magac"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sida magaca"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "weynaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas ah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:42:32.402550796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Lagu talagalay hoggaamiyaha ⟨muusigga⟩, Yedutuun; mizmoor ee Daawud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "lagu talagalay hoggaamiyaha muusigga"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Yedutuun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.018126687Z",
+  "model": "glm-5.3"
+}

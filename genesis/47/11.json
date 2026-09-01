@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Yoosef wuxuu degeliyay ⟨את⟩ aabbihiis iyo ⟨את⟩ walaalihiis, wuxuuna siyay milkid ⟨⟨dhulka⟩⟩ Mitsrayim, wanaagga ugu fiican ee dhulkii, dhulkii Racamses, sida Farcoon uu amray.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "wuxuu degeliyay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbihiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna siyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "milkid"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "wanaagga ugu fiican"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ee dhulkii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Racamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:27.348271462Z",
+  "model": "glm-5.3"
+}

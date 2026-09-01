@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Markaad beerato beertaada inabta ha ku soo noqodin waxaa ka haray guriyaha, agoonta iyo dullaysaha waxaa u noqonaysaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markaad"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "beerato"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "beertaada inabta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ku soo noqodin waxaa ka haray"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "adiga kaddib"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "guriyaha"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "agoonta"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "iyo dullaysaha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxaa u noqonaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:23.285792511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Elohimay dhig sidii galgal, iyo sidii qashin horteeda dabaysha.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "dhig"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "sidii galgal (wax ku wareegsan)"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sidii qashin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabaysha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:23.449792841Z",
+  "model": "glm-5.3"
+}

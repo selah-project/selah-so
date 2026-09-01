@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Codkayga waxaan Yahweh u qayliyay; codkayga waxaan Yahweh ugu baryay naxariis.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "waxaan u qayliyay"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "waxaan ugu baryay naxariis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:48.644381698Z",
+  "model": "glm-5.3"
+}

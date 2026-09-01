@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo ninkii Elkanah iyo gurigiisi oo dhan wuu kor u kacay in ⟨את⟩ allabbadda maalmaha iyo ⟨את⟩ nadrigiisa loo bixiyo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuu kor u kacay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisi"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "in allabbad loo bixiyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabbadda maalmaha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabbadda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nadrigiisa"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nadrigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:01.259881383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Adiguna faraa ⟨את⟩ carruurta Yisra'iil, oo waxay kuu keenaan saliidda zaytuun ee nadiif ah ee la garaacay (katis), misha laanta iftiinka, si laanta u sii iftiiso joogto.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguna"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "faraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carruurta Yisra'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "oo waxay kuu keenaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaytuun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "nadiif ah"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "la garaacay (katis)"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "misha laanta iftiinka"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "si laanta u sii iftiiso"
+    },
+    {
+      "surface": "נר",
+      "gloss": "laanta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "joogto"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:44.997325293Z",
+  "model": "glm-5.3"
+}

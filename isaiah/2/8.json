@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo dhulkoodu wuxuu ku buuxsantay sanamyada; shuqulkii gacmohooda baa la sujuudaa, waxa faruurarkoodu sameeyeen.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "wuxuu ku buuxsantay"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dhulkoodu"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "la sujuudaa"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyeen"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "faruurarkoodu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:36:18.451462878Z",
+  "model": "glm-5.3"
+}

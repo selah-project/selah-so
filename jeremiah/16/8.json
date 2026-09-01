@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Guriga zafana ha ku gelin adigu, si aad ⟨את⟩ ula fadido inaad cunto aadna cabto.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "zafana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ku gelin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gelin"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "fadido"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "fadido\/cunto iyo cab"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "aadna cabto"
+    }
+  ],
+  "timestamp": "2026-09-01T04:06:36.864028746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaana ku dooday ⟨את⟩ hoggaamiyayaasha, waxaanna idhi, Maxaa bayska Elohim laga tegey? Waxaana kulmiyay, waxaana dhabay meeshii ay taalli jireen.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "waxaana ku dooday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "waxaanna idhi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxaa"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "laga tegey"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayska"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "waxaanna kulmiyay"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "waxaanna dhabay"
+    },
+    {
+      "surface": "על",
+      "gloss": "meeshii"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ay taalli jireen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:40:46.623338231Z",
+  "model": "glm-5.3"
+}

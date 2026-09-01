@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu dumin doonaa ⟨את⟩ guriga, ⟨את⟩ dhagaxyadiisa iyo ⟨את⟩ alwaaxiisa, iyo ⟨את⟩ dhammaan boodhadhka guriga, wuxuuna ka soo saari doonaa magaalada dibeddeeda, ilaa meel nijaas ah.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "wuxuu dumin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyadiisa"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "dhagaxyadiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alwaaxiisa"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "alwaaxiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan boodhadhka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "boodhadhka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "wuxuuna ka soo saari doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nijaas ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:31.127852898Z",
+  "model": "glm-5.3"
+}

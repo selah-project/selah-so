@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waayo, maalin Yahweh Ciidammadaa ayaa ⟨ku timaadda⟩ kasta oo kibir badan oo sarreeya, iyo kasta oo la sar-qaaday; waa la hoos-u-dhigi doonaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ciidammadaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "kibir badan"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "oo sarreeya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo (ku)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "la sar-qaaday"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "waa la hoos-u-dhigi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:36.181106831Z",
+  "model": "glm-5.3"
+}

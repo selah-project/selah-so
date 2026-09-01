@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wiilashii Axaron oo wadaaddo ah baa habaynayaan ⟨את⟩ go'yada iyo ⟨את⟩ madaxa iyo ⟨את⟩ baruurta qoryaha korkiisa, kaasoo dabta korkiisa ah, kaasoo gurbaanka (altar-ka) korkiisa ah.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "habaynayaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddo ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go'yada"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "go'yada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "qoryaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa ah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa ah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gurbaanka (altar-ka)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:03.619726206Z",
+  "model": "glm-5.3"
+}

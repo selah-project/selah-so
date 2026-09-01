@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 133,
+  "translation": "Heesaha Koritaanka, ee Dawiid. Bal eeg, immisa oo wanaagsan iyo immisa oo macaan ay tahay in walaalaha wada deggan yihiin, si wadajir ah!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Koritaanka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Dawiid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "immisa oo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "iyo immisa oo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "macaan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "in ay deggan yihiin"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "walaalaha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wada"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "si wadajir ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:20.626630168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaadna soo dhoweysaa ⟨את⟩ wiilashiisa, waxaadna u xidhayssaa dhallo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "waxaadna soo dhoweysaa"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "waxaadna u xidhayssaa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "dhallo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:53.725236721Z",
+  "model": "glm-5.3"
+}

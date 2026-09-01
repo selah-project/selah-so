@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Dhego bay leeyihiin laakiin ma maqlaan; sanno bay leeyihiin laakiin ma ur uriyaan.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "dhego"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay leeyihiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "maqlaan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bay leeyihiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ur uriyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:02.991818188Z",
+  "model": "glm-5.3"
+}

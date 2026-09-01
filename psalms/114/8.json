@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Kan u beddelaya dhagaxa biyo-mawjad, iyo dhagaxa adag il biyo ah!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Kan u beddelaya"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "biyo-mawjad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "dhagaxa adag"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "il"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.368516778Z",
+  "model": "glm-5.3"
+}

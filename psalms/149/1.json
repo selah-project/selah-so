@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Ammaana uga yeela Yah; hees ugu qadaa Yahweh, hees cusub; ammaantiisana ⟨tahay⟩ guddiga khesed-ku-xilsan leh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ammaana uga yeela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hees ugu qadaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "guddiga"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "khesed-ku-xilsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:51.765669997Z",
+  "model": "glm-5.3"
+}

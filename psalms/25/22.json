@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Isgiibi (fadji) ⟨את⟩ Israa'iil, Elohim, dhibaatooyinkiisa oo dhan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Isgiibi (fadji)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "oo dhan ka mid ah"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "dhibaatooyinkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:50.608689781Z",
+  "model": "glm-5.3"
+}

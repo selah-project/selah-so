@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Nasiib wanaagsan oo ay yihiin raggaaga, nasiib wanaagsan oo yihiin addoomadaada kuwan taagan hortaa had iyo goor, dhegeystayaasha ⟨את⟩ xigmaddaada.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib wanaagsan"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "raggaaga"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib wanaagsan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomadaada"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo goor"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "dhegeystayaasha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xigmaddaada"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "xigmaddaada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:38.450226672Z",
+  "model": "glm-5.3"
+}

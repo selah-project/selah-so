@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Jonas wuxuu bilaabay inuu galo magaalada, socod maal midd; wuxuuna qayliyay, wuxuuna yidhi: weli afartan maalmood, Ninevehina waa la rogay.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "wuxuu bilaabay"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonas"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "inuu galo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "socod"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "midd"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna qayliyay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Ninevehina"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "waa la rogay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:40.161308450Z",
+  "model": "glm-5.3"
+}

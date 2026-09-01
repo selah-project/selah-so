@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Maqla, idinka fog, waxa anigoo sameeyay; ogaada, idinka dhow, xooggayga.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "idinka fog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "anigoo sameeyay"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ogaada"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "idinka dhow"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "xooggayga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:02.897413295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxaana u hadlay guuryo-wadaaga dhexdooda ⟨את⟩ shukaansi dhammaan erayadii Yahweh ee ii muuqday.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "waxaana u hadlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhexdooda (u)"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "guuryo-wadaaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shukaansi dhammaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayadii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ii muuqday"
+    }
+  ],
+  "timestamp": "2026-09-01T04:26:32.243101009Z",
+  "model": "glm-5.3"
+}

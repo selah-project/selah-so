@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Mazmoor oo Dawid ah. Yahweh, adiga ayaan ku yidhi, ige degdeg u geli, dhege ballisticu ii sii markaan adiga kuugu yeedho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawid ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "adiga ayaan ku yidhi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ige degdeg u geli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhege ballisticu ii sii"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkaygii"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "markaan kuugu yeedho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:22.350969928Z",
+  "model": "glm-5.3"
+}

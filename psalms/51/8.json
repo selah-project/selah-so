@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Bal eeg, runta aad ku jeceshahay meelaha la aamino, qarsoonna wax kastaad i baraysaa xikmadda.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "runta"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "aad ku jeceshahay"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "meelaha la aamino"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "qarsoonna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmadda"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "wax kastaad i baraysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:43.272080055Z",
+  "model": "glm-5.3"
+}

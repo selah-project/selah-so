@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "⟨את⟩ Sabtayaday ilaaliya, oo macbadkaygay ka baqda; aniga waxaan ahay Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabtayaday"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabtayaday"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "oo macbadkayga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ka baqda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:40.442733218Z",
+  "model": "glm-5.3"
+}

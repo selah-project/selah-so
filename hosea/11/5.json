@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ma uu ku noqonayaa dhulkii Mitsrayim, laakiin Ashshur baa boqorkiisa noqon, waayo way diideen inay laabtaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uu ku noqonayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "laakiin Ashshur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "baa"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "boqorkiisa noqon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "way diideen"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "inay laabtaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:42.460077197Z",
+  "model": "glm-5.3"
+}

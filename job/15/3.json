@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Ma wax la dhaqmo erey aan wax tarayn, iyo hadallo aan lagu anfaan karin?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Ma wax la dhaqmo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "wax tarayn"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "iyo hadallo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "lagu anfaan karin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "(kuwaas)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:44:12.394367826Z",
+  "model": "glm-5.3"
+}

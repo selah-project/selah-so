@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Waan ku mahadinayaa, waayo adigu waxaad i jawaabtay, waxayna ii noqotay badbaado.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Waan ku mahadinayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "waxaad i jawaabtay"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waxayna ii noqotay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "badbaado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:30.752486075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "waa markaas biyuhu noo dul saarti lahaayeen, wabi gubatan ay ruuxeenada dhaafsiisin lahayd,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "waa markaas"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "noo dul saarti lahaayeen"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "wabi gubatan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dhaafsiisin lahayd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ruuxeenada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:08.439591092Z",
+  "model": "glm-5.3"
+}

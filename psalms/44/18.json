@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waxaas oo dhan way na qaadeen, anagoo aan ku hilmaamin, anagoo aan ku khiyaanin ballankaaga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Waxaas"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "way na qaadeen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ku hilmaamin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ku khiyaanin"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "ballankaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.726169536Z",
+  "model": "glm-5.3"
+}

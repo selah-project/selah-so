@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Yaa dhigay El, oo qul-quliyay sanam la dhuliyay, si aan waxba u tarin?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "oo sanam"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "la dhuliyay (qul-quliyay)"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "waxba u tarin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:32.528630721Z",
+  "model": "glm-5.3"
+}

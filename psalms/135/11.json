@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Siihsoon boqorkii reer Emori, iyo Cog boqorkii Bashan, iyo boqortooyadii Kanaan oo dhan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Siihsoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "reer Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "iyo Cog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyadii"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:52.089184317Z",
+  "model": "glm-5.3"
+}

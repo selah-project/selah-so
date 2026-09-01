@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo idinku waxaad ilaali doontaan ⟨את⟩ ilaalinta waxa quduuska ah iyo ⟨את⟩ ilaalinta altarka, si aan innaba cadho ku noqdo carruurta Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waxaad ilaali doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaalinta waxa quduuska ah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "waxa quduuska ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ilaalinta altarka"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ay noqoto"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "innaba"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "cadho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:34.864091985Z",
+  "model": "glm-5.3"
+}

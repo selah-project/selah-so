@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna dhintaan labadoodauba — Machlon iyo Kilyon — naagtuna waxaa ka haray labadeeda carruur ah iyo ninkoodaba.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "waxayna dhintaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadoodauba"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "iyo Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "waxaa ka haray"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtuna"
+    },
+    {
+      "surface": "משני",
+      "gloss": "labadeeda"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "carruurta ah"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "iyo ninkoodaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:55:37.121960972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Wanaagsan oo barakaysan yahay qoomkii aqoon buuqa farxadeed, Yahweh; iftiinka wajigaaga bay ku socdaan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wanaagsan oo barakaysan yahay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qoomkii"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "buuqa farxadeed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bay ku socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.045128267Z",
+  "model": "glm-5.3"
+}

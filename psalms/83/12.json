@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Dhig boqortooyadooda sida Oreb iyo sida Ze'eb; iyo sida Zebax iyo sida Tsalmoonaa, boqorradooda oo dhan.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Dhig"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "boqortooyadooda"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "sida Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "iyo sida Ze'eb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "iyo sida Zebax"
+    },
+    {
+      "surface": "וככצלמנע",
+      "gloss": "iyo sida Tsalmoonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "boqorradooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:12.269259226Z",
+  "model": "glm-5.3"
+}

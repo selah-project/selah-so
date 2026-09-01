@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Sinaantaada ma waan qarin dhexda qalbigayga; xaqiiqnimadaada iyo badbaadadaada waan sheegay, khesedkaaga iyo runtaada ma waan qarin jamaacadda uga weyn.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Sinaantaada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "waan qarin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "xaqiiqnimadaada"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "iyo badbaadadaada"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waan sheegay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "waan qarin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "iyo runtaada"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "jamaacadda uga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:35.412681524Z",
+  "model": "glm-5.3"
+}

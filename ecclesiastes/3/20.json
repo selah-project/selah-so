@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Dhammaantiis hal mees bay u socdaan, dhammaantiis caro laga yimid, dhammaantiisna carada bay u noqonayaan.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "dhammaantiis"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bay u socdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "hal mees"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "dhammaantiis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "laga yimid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "caro"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "dhammaantiisna"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bay u noqonayaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "carada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:55.212563556Z",
+  "model": "glm-5.3"
+}

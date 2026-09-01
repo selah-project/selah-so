@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahweh ha idin siiyo, oo idinku heltaan nasisho (mennuuchah), mid kasta guriga ninkeeda; waxay isku dhaweysay ⟨xaggooda⟩, wayna codkooda kor u qaadeen, wayna ooyeen.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ha idin siiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "oo idinku heltaan"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "nasisho (mennuuchah)"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ninkeeda"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "waxay isku dhaweysay"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨xaggooda⟩"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "wayna kor u qaadeen"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "codkooda"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "wayna ooyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:29.958746113Z",
+  "model": "glm-5.3"
+}

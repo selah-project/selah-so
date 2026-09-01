@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kuwa la taliyay ee qabiilka Re'uven waxay ahaayeen lix iyo afartan kun (kumausan) iyo shan boqol.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "kuwa la taliyay"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "lix"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:39.440465281Z",
+  "model": "glm-5.3"
+}

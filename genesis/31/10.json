@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 31:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Markay gaartay waqtigii ay riigyadu dheeftaan, waan qaaday indhahaygii, waanna arkay riyo, waxaanan arkay riigyadii fuulayay riigyada — xarrago-leh, dhibco-leh, oo madow-cad leh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay gaartay"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "dheeftaan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "riigyada"
+    },
+    {
+      "surface": "ו אשא",
+      "gloss": "waan qaaday"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygii"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "waanna arkay"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "riyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "waxaanan arkay"
+    },
+    {
+      "surface": "העתדים",
+      "gloss": "riigyadii (wanayaasha)"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "fuulayay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "riigyada"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "xarrago-leh"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "dhibco-leh"
+    },
+    {
+      "surface": "וברדים",
+      "gloss": "oo madow-cad leh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:39.876564814Z",
+  "model": "glm-5.3"
+}

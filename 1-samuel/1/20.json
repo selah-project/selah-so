@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo markay toogooyinka maalmaha dhaafeen, Xannaa way uurka qaaday, way dhashay wiil, waxay ku bixisay ⟨את⟩ magiciisa Shemu'el, waayo, Yahweh baan ka codsaday.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxay ahayd markay"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "toogooyinka (dhaafayska)"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "way uurka qaaday"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xannaa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "way dhashay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxay ku bixisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magiciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "baan ka codsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:39.456583202Z",
+  "model": "glm-5.3"
+}

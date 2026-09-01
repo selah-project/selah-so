@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Lamma sameeyay ⟨את⟩ samada bitabuunah (faham dhabta ah); waayo, ilaa iyo weligii waa khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Lamma sameeyay"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "bitabuunah (faham dhabta ah)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligii"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:17.257304742Z",
+  "model": "glm-5.3"
+}

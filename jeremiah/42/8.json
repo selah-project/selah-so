@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wuxuuna u yeeray Yooxanan ina Qaareax, iyo taliyayaasha ciidamada oo dhan oo ⟨את⟩ isaga la ahaa, iyo dadka oo dhanba, kan yar iyo kan weynba.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wuxuuna u yeeray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yooxanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qaareax"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "taliyayaasha"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "ciidamada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (oo la jiray)"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo … oo dhanba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "kan yar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kan weynba"
+    }
+  ],
+  "timestamp": "2026-09-01T04:19:10.507853863Z",
+  "model": "glm-5.3"
+}

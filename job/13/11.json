@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Miyaanan sarreeynnidiisu idin gilgilayn? oo argaggaxiisu miyaanan idin ku dhicin?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Miyaanan"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "sarreeynnidiisu"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "idin gilgilayn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "oo argaggaxiisu"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ku dhici"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idin ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:10.807918416Z",
+  "model": "glm-5.3"
+}

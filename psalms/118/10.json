@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Shacabamaha oo dhan way ii dherereen; runtiina magaca ⟨ee⟩ Yahweh ayaan ku goyn doonaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabamaha"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "way ii dherereen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "runtiina"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ayaan ku goyn doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:31.863612078Z",
+  "model": "glm-5.3"
+}

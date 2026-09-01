@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaa baxay kordhigga Filistiintii maraakiibta (goorta) Mikhmaas.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waxaa baxay"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "kordhigga (ciidan sugay)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elaa"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "maraakiibta (goorta)"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmaas"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:39.386522207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuuna yidhi: Erey baa iigu leh ⟨agaagaaga⟩. Waxayna tidhi: Dheh.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Erey baa iigu leh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "agaagaaga"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dheh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:55.666829254Z",
+  "model": "glm-5.3"
+}

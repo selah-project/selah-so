@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sheqets bay idiin noqon doonaan; licoodkooda ha cunina, ⟨את⟩ meelidoodana waad naceysaan.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "sheqets"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay noqon doonaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "licoodkooda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha cunina"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meelidooda"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "meelidooda"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "waad naceysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:12.621383045Z",
+  "model": "glm-5.3"
+}

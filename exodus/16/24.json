@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxayna saareen ⟨את⟩ ilaa subaxda sida Muuse amray, uma ur badan, riisna ma jirin ku dhex jirin.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "waxay saareen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wixii la saaray (manna)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaxda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ur badan"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "riis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "jirtay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:46.714419587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Tan iyo waxaan ogaaday inaad ii doonaysaa, caddaystahta aan ila caayo.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Tan iyo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waxaan ogaaday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ii doonaysaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "caddaystahta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ila"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "caayo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "caddaystah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:39.568448899Z",
+  "model": "glm-5.3"
+}

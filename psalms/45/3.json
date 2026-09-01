@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Waxaad ka qurux badan tahay inanka aadamaha; xaafad lagu shubay afkaaga; sidaa darteed Elohim wuxuu ku barakayshay weligiis.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "ka qurux badan tahay"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "inanka ka mid ah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamaha"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "lagu shubay"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xaafad"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ku barakayshay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:05.577733103Z",
+  "model": "glm-5.3"
+}

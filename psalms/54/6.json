@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Bal, Elohim waa ii gargaarahay; Adonayna waa taageerayaasha nafdayda.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gargaarahay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "waa taageerayaasha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:03.476052671Z",
+  "model": "glm-5.3"
+}

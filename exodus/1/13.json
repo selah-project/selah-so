@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Mitsrayim waxay u adeejiyeysay ⟨את⟩ curada Israa'iil si adag (bafarakh).",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxay u adeejiyeysay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curada Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "si adag (bafarakh)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:23.792349106Z",
+  "model": "glm-5.3"
+}

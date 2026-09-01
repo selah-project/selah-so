@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma Calno ma aha sida Karkemish? Ma Hamath ma aha sida Arpad? Ma Shomeroon ma aha sida Damashaq?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma... ma aha"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "sida Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Calno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "sida Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "sida Damashaq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:15.850870294Z",
+  "model": "glm-5.3"
+}

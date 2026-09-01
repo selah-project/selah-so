@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuuna keeni ⟨את⟩ iyaga wadaadda agtiisa, wuxuuna dhiibaa ⟨את⟩ kan dembi-dhibaadda horreeya, wuxuuna goynaa ⟨את⟩ madaxiisa hortii luqunta ka, uma kala goyno.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Wuxuuna keeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuuna dhiibaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "dembi-dhibaadda"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "horreeya"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "wuxuuna goynaa (malqayaa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxiisa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "luqunta ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "kala goyno"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:31.912792076Z",
+  "model": "glm-5.3"
+}

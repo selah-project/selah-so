@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo aniga waxaan u gedminay inaan qalbiga ka yaajisimo ⟨את⟩ dhammaan camalkii aan ku daalanayay hoos qoraxda.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "waxaan u gedminay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ka yaajisimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbiga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "camalkii"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "aan ku daalanayay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:59.500946156Z",
+  "model": "glm-5.3"
+}

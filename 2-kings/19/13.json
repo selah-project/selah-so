@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Halkee waa boqorkii Chamath, iyo boqorkii Arpad, iyo boqorkii magaaladda Sefarwayim, Hena iyo Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Halkee waa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "iyo boqorkii"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "iyo boqorkii"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaaladda"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "iyo Ivah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:54.025447739Z",
+  "model": "glm-5.3"
+}

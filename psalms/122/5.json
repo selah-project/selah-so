@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 122,
+  "translation": "Waayo halkaas waxaa fadhiistay carshooyin xukun ⟨oo⟩ leh, carshooyin guriga Daa'uud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "waxaa fadhiistay"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "carshooyin"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "carshooyin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daa'uud"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.751587724Z",
+  "model": "glm-5.3"
+}

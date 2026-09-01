@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waayo, miisas oo dhan waa la buuxshay matag iyo wasakh, meesna la istoogo ma jirto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "miisas"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "la buuxshay"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "matag"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "wasakh"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha la istoogo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:07.995620454Z",
+  "model": "glm-5.3"
+}

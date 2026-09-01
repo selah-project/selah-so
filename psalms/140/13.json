@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Waxaan ogahay in Yahweh sameyn doono xukunka ⟨⟨dhalinyarada⟩⟩ dulmiga-lahoow, iyo mishiidda baahi-baatayaasha.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Waxaan ogahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameyn doono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dulmi-laha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishiidda"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "baahi-baatayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:49.267159818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Nafteydu waxay dhex jirtaa libaaxyo; waxaan seexshaa kuwa la gubay — wiilasha aadanaha, ilkahoodu waa geelle iyo fallaadh, carrahooduna waa seef food.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafteydu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhex"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "libaaxyo"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "waxaan seexshaa"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "kuwa la gubay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ilkahoodu"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "geelle"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "iyo fallaadh"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "carrahooduna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "food"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:42.587525762Z",
+  "model": "glm-5.3"
+}

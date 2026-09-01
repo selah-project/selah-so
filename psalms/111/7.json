@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Shuqullada gacmihiisa ⟨waa⟩ run iyo caddaalad; la aaminsan yahay dhammaan amaradiisa.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo caddaalad"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "la aaminsan yahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "amaradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:53.554725930Z",
+  "model": "glm-5.3"
+}

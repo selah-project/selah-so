@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Boqorkiina wuxuu ka saaray ⟨את⟩ mustajaabadiisa gacantiisa, wuxuuna siiyay Haamaan ina Medataada Agagiga, cadowga Yuhuudda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wuxuuna ka saaray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mustajaabadiisa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mustajaabadiisa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medataada"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagiga"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yuhuudda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:09.942454684Z",
+  "model": "glm-5.3"
+}

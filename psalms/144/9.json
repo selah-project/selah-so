@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Elohim, hees cusub baan kuu qaadayaa, kinni-sagaal-lane ah (qanbar laba-iyo-toban xarriiq ah) baan kuu ciyaarayaa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "baan kuu qaadayaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "kinni (qanbar)"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "laba-iyo-toban-xarriiq ah"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "baan kuu ciyaarayaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:14.791599141Z",
+  "model": "glm-5.3"
+}

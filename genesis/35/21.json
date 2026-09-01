@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Yisraa'iilna wuu safriyay, oo khaymadiisii wuu fidiyay ka baxsan Migdal-Eder (burjiga kheyraadda).",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "wuu safriyay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wuu fidiyay"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "khaymadiisii"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal (burjiga)"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder (kheyraadda)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:41.292483286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxayna ku yidhi: Maya, Adonay, addoonadaadu waxay u yimaadeen inay iibsadaan cunto.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Maya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "addoonadaadu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "inay iibsadaan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunto"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:04.007971307Z",
+  "model": "glm-5.3"
+}

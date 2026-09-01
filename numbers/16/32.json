@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Dhulkii furo afkiisa, wuxuu liqay ⟨את⟩ iyaga iyo ⟨את⟩ guryahoodii iyo ⟨את⟩ dadkii oo dhan ee Qoraach la ahaa, iyo ⟨את⟩ hantidoodii oo dhan.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "furo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkiisa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "wuxuu liqay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "guryahoodii"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "guryahoodii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dadkii oo dhan ee Qoraach la ahaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Qoraach la ahaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hantidoodii oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "hantidoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:04.553926943Z",
+  "model": "glm-5.3"
+}

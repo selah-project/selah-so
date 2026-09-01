@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waxaynu ku faraxsanahay badbaadaadaa, oo magaca Elohim keenay waxaynu calan u qaadnaa; Yahweh ha dhammaystiro codsigaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "Waxaynu ku faraxsanahay"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "badbaadaadaa"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "oo magaca"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim keenay"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "calan u qaadnaa"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ha dhammaystiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "codsigaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:23.013963906Z",
+  "model": "glm-5.3"
+}

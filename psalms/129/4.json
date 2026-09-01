@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Yahweh waa kan caddaaladda leh; wuu gooyey xargaha sharka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "caddaaladda leh"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "wuu gooyey"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "xargaha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:23.824753111Z",
+  "model": "glm-5.3"
+}

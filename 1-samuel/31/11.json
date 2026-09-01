@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay maqleen kuwa deggan Yabeesh ee Gileʿad ⟨את⟩ waxa Filistiinti ku sameeyeen Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "waxay maqleen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileʿad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyeen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:10.807550498Z",
+  "model": "glm-5.3"
+}

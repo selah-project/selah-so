@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Eshtoonna wuxuu dhalay ⟨את⟩ Beyt-Raafaa, iyo ⟨את⟩ Paseach, iyo ⟨את⟩ Texinnah aabaha Ciir-Nachash; kuwani waa ragga Reekah.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshtoonna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Raafaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Raafaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Texinnah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Texinnah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabaha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ciir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reekah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:49.655539558Z",
+  "model": "glm-5.3"
+}

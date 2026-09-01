@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Adigu adaa Elaha sameeya mu'jizooyin; waxaad u sheeg-tay shucuubta xooggaaga.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "adigu adaa"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mu'jizooyin"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "waxaad u sheeg-tay"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "shucuubta (ku)"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "xooggaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:50.929723007Z",
+  "model": "glm-5.3"
+}

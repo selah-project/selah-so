@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waayo, kuwa deggan Maaroot waxay sugayeen wanaag, waayo, shar ku soo degyahay ka ⟨את⟩ Yahweh, il albaabbka Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "waxay sugayeen"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maaroot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ku soo degyahay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "il albaabbka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:59.229514130Z",
+  "model": "glm-5.3"
+}

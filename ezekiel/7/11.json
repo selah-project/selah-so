@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Xad-gudubku wuu noqday ul xumaan; ⟨waxba ka ma dhici doonaan⟩ — kooxdooda iyo hilmaansigooda iyo wax kastoo ka mid ah, oo qaylo-dhaanna ma jirto kuwaas.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "xad-gudubku"
+    },
+    {
+      "surface": "קם",
+      "gloss": "wuu soo kacay"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ul"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "waxba ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "kooxdooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "hilmaansigooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "נה",
+      "gloss": "qaylo-dhaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas"
+    }
+  ],
+  "timestamp": "2026-09-01T04:24:58.717261923Z",
+  "model": "glm-5.3"
+}

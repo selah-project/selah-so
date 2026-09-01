@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Daa'uudna wuxuu yimid Maxanaym, Axshaalomna wuxuu dhaafay ⟨את⟩ Webiga Yarden, isagoo kaliya iyo ragga Israa'iil dhamaantood la ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Daa'uudna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Maxanaym"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Axshaalomna"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wuxuu dhaafay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagoo kaliya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhamaantood"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.276284382Z",
+  "model": "glm-5.3"
+}

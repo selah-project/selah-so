@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 28:13",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Sidaas awgood ereyga Yahweh wuxuu iyaga noqonayaa: amar korkiisa amar, amar korkiisa amar, xariiq korkiisa xariiq, xariiq korkiisa xariiq, wax yar halkan, wax yar halkaa — si ay u socdaan, oo ay gadaal u dhacaan, oo la dumiyaan, la qabsanna, la qabsadanna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqonayaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amar"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "korkiisa amar"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amar"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "korkiisa amar"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xariiq"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "korkiisa xariiq"
+    },
+    {
+      "surface": "קו",
+      "gloss": "xariiq"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "korkiisa xariiq"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si ay u"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "socdaan"
+    },
+    {
+      "surface": "וכשלו",
+      "gloss": "ay u dhacaan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gadaal"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "la dumiyaan"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "la qabsanna"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "la qabsadanna"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:03.505723268Z",
+  "model": "glm-5.3"
+}

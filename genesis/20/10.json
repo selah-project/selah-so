@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Abimelekna wuxuu Abraham ku yidhi: Maxaad aragtay inaad samaysay ⟨את⟩ arrintan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "aragtay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "aad samaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arrintan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "arrinta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:57.266908133Z",
+  "model": "glm-5.3"
+}

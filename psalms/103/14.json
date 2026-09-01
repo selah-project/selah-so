@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Waayo, isaga wuxuu garanayaa qaab-dhiskeenna, wuxuu xusaa in aan duug ka nahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuxuu garanayaa"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "qaab-dhiskeenna"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "wuxuu xusaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "duug"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aan nahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:04.471766803Z",
+  "model": "glm-5.3"
+}

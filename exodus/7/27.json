@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Haddii aad diido inaad ka daysid, bal ege, aniga waan ku dhuftaa ⟨את⟩ dhulkaaga oo dhan ranejo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "aad diido"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aad"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "inaad ka daysid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal ege"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "waan ku dhuftaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkaaga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "ranejo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:00.436589703Z",
+  "model": "glm-5.3"
+}

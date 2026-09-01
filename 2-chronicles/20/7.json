@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Miyaadan adiga ahayn Elohim-keennow? Adigoo ka saaray ⟨את⟩ deganaaasha dhulkan, hortaada shacabkaaga Israa'iil, adigoona siisay zeraca Abraham aad jeceshahay, weligiisba.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Miyaadan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keennow"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ka saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deganaaasha"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "deganaaasha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "shacabkaaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "siisay"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "zeraca"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "aad jeceshahay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiisba"
+    }
+  ],
+  "timestamp": "2026-09-01T06:41:46.651011794Z",
+  "model": "glm-5.3"
+}

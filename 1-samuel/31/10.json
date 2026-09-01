@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay dhigeen ⟨את⟩ qalabkiisa gurigii Ashtaroth, ⟨את⟩ jidhkiisana waxay ku dhejiyeen derbiga Beyt-Shean.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "waxay dhigeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalabkiisa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtaroth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "jidhkiisana"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "waxay ku dhejiyeen"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shean"
+    }
+  ],
+  "timestamp": "2026-09-01T07:59:12.923185639Z",
+  "model": "glm-5.3"
+}

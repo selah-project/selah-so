@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Muuse wuxuu faray ⟨את⟩ iyagoo leh: marka la dhammeeyo toddoba san oo dhan, waqtiga la go'an ee sanada cafinaysa, ciidda Daaqinka.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuu faray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga (wadaaddada iyo odayasha)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "marka la dhammeeyo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "san oo dhan"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "waqtiga la go'an"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sanada"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "cafinaysa"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Daaqinka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:01:13.176052387Z",
+  "model": "glm-5.3"
+}

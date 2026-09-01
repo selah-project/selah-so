@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Liq, Adonay, u qaybi carrabtooda, waayo waxaan arkay xadgudub iyo khilaaf ⟨dhexdooda⟩ magaalada.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "liqi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "u qaybi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "carrabtooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "xadgudub"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "iyo khilaaf"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:52.310199198Z",
+  "model": "glm-5.3"
+}

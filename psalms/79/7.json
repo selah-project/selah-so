@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Waayo, ⟨waxay⟩ qadeen ⟨את⟩ Yacquub, iyo ⟨את⟩ hoygiisana way burburiyeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "qadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yacquub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "hoygiisa"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hoygiisa"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "burburiyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:56.742086621Z",
+  "model": "glm-5.3"
+}

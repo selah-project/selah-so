@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ku noqo, Israa'iil, ilaa Yahweh Elohiintaaga; waayo dembigaaga ayaad ku soo dhacday.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ku noqo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiintaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ayaad ku soo dhacday"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "dembigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:49.964173648Z",
+  "model": "glm-5.3"
+}

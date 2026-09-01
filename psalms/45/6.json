@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Gabyadaadu si fiican bay la tiigsan, shacabka hoos taal oo kaga dhacaan wadnaha cadowada boqorka.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "gabyadaadu"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "si fiican bay la tiigsan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "hoos taal"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kaga dhacaan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "wadnaha"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:19.928441697Z",
+  "model": "glm-5.3"
+}

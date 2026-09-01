@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Kan gacantiisu tahay hoosyada dhulka, waana taal buuraha dhaadheer",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisu"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "hoosyada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "waana taal buuraha dhaadheer"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:58.127686881Z",
+  "model": "glm-5.3"
+}

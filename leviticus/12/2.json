@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "U hadal ilmaha Israai'iil, isagoo leh: Haweenay markay dhallo wax uurka ku jira oo dhashay wiil, waa nijaasan tahay toddoba maalmood; sida maalmaha da'keeda [dhibaateeda] waa nijaasan tahay.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Haweenay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "dhallo wax uurka ku jira"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "oo dhashay"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "waa nijaasan tahay"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmaha"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "da'keeda"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "[dhibaateeda]"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "waa nijaasan tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:05.139797499Z",
+  "model": "glm-5.3"
+}

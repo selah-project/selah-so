@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wuxuuna degay wiilashii Yoosef toban, si ay u soo iibsadaan badeecad Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Wuxuuna degay"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "si ay u soo iibsadaan"
+    },
+    {
+      "surface": "בר",
+      "gloss": "badeecad"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:09.975115695Z",
+  "model": "glm-5.3"
+}

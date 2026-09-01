@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo ⟨ma⟩ laguma xisaabin ragga ay gacmahooda ku siin ay ⟨את⟩ lacagta si loo siiyo kuwa shuqulka qabaa, waayo beemaan bay ku falgalaan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "oo ma laguma"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "xisaabin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragga"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ku siin ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lacagta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacmahooda"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si loo siiyo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kuwa shuqulka qabaa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "beemaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bay"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ku falgalaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:48.156702545Z",
+  "model": "glm-5.3"
+}

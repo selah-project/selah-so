@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Kadib Yahweh Elohiinkiin waad soconaysaan, ⟨את⟩ Isagana waad cabsanaysaan, ⟨את⟩ amarradiisiina waad ilaalinaysaan, codkiisana waad maqashaan, ⟨את⟩ Isagana waad caabuddaan, Isagaana wax ku dhowaysaan.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinkiin"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "waad soconaysaan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Isagana",
+      "marks": "Isaga (Yahweh)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "waad cabsanaysaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amarradiisa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amarradiisiina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waad ilaalinaysaan"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "codkiisana"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "waad maqashaan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ Isagana",
+      "marks": "Isaga (Yahweh)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "waad caabuddaan"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "Isagaana"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "wax ku dhowaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:44.469467949Z",
+  "model": "glm-5.3"
+}

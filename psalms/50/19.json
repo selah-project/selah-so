@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Afkaaga shar baad u xirantahay, oo carrabkaaga khiyaano buu ku xidhan yahay.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "baad u dirantahay"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "oo carrabkaaga"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "buu ku xidhan yahay"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:45.465714655Z",
+  "model": "glm-5.3"
+}

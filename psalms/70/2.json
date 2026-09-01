@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 70,
+  "translation": "Elohimow, i badbaadi; Yahwehow, gargaarkaygii degdeg gal.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaarkaygii"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "degdeg gal"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:36.495841095Z",
+  "model": "glm-5.3"
+}

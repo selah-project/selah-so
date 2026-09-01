@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Kehelit wuxuu doonay inuu helo erayo la-doonsan-yaqaan, oo la qoray waa toosan, erayo run ah.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "wuxuu doonay inuu helo"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kehelit"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "helo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "la-doonsan-yaqaan"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "oo la qoray"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:16.313095485Z",
+  "model": "glm-5.3"
+}

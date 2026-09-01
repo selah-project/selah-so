@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Elohim Tsebaoth, noo noqodsi, iyna wajigaaga, waana badbaadaynaa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaoth"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "noo noqodsi"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "iyna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "waana badbaadaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:28.769740085Z",
+  "model": "glm-5.3"
+}

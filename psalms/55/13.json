@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Waayo, cadow igu caayay ma aha, waan qaadi lahaa; igu neceystuhu igu weynaaday ma aha, ka waan qarin lahaa miyaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadow"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "igu caayay"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "waan qaadi lahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "igu neceystuhu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "weynaaday"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "waan qarin lahaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:58.656069665Z",
+  "model": "glm-5.3"
+}

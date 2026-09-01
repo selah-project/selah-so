@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Markii Axaab uu arkay ⟨את⟩ Ilyaas, Axaab wuxuu ku yidhi: Adigu baa tahay kan dilaabaya Israa'iil?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markii"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "uu arkay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ilyaas"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Ilyaas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axaab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "dilaabaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:32.270201519Z",
+  "model": "glm-5.3"
+}

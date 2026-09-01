@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxba ha ka teginaan ilaa subax, lafna ha jebinina; sida sharciga Pesax oo dhan bay sameeyaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "teginaan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "waxba ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "lafna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "jebinina"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bay sameeyaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Iftiinka (bay sameeyaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:57:16.688298759Z",
+  "model": "glm-5.3"
+}

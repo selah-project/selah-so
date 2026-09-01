@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Talo dhigista, waa la baabi'inaa; hadal ka hadla, kuma soo kicinayo; waayo El naga wuu jiraa.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "talo dhigista"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "talo"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "waa la baabi'inaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hadal ka hadla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "soo kicinayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El wuu jiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:11.004243372Z",
+  "model": "glm-5.3"
+}

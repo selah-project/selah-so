@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Maxay faa'iido leeyahay xariifka ka badan nasiibka, iyo saboolka og inuu hor socdo kuwa nool?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "faa'iido... ka badan"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "xariifka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka badan"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "nasiibka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iyo maxay"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "og"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "inuu hor socdo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hor"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kuwa nool"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:40.225766684Z",
+  "model": "glm-5.3"
+}

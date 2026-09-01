@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Qurbaannada Elohim waa ruux jaban; wadne jaban oo la cufay, ayaa Elohim weligiis ma dulleyno.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Qurbaannada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "jaban"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wadne"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "jaban"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "oo la cufay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "dulleyno"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:47.597984040Z",
+  "model": "glm-5.3"
+}

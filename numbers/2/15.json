@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "iyo ciidankiisa iyo kuwa la tirsaday — shan iyo afartan kun iyo lix boqol iyo kontan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "iyo ciidankiisa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "iyo kuwa la tirsaday"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo kontan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:45.702023474Z",
+  "model": "glm-5.3"
+}

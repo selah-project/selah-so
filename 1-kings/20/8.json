@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markaasaa odayaasha oo dhan iyo dadka oo dhan waxay yidhaahdeen: Ha maqalin, hana oggolaadin.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay yidhaahdeen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "maqalin"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "hana"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "oggolaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:14.583208650Z",
+  "model": "glm-5.3"
+}

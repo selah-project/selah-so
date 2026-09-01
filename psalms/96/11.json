@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Samadu ha farxaan, dhulkuna ha gooysto; baddu ha ay-dhex-martoo, iyo buuxdoodaba.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ha farxaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samadu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ha gooysto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ha ay-dhex-martoo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baddu"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "iyo buuxdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:43.495151614Z",
+  "model": "glm-5.3"
+}

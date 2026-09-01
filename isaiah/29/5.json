@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxayna noqon doontaa sidii boqol yar oo ah hudheel-qaad, dadkaaga shisheeye ah, iyo sidii budada soo dhaafto, tirada kuwa xoogga leh; waxayna ahayn doontaa waqtigii degdegga ah, si kedis ah.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waxayna noqon doontaa"
+    },
+    {
+      "surface": "כאבק",
+      "gloss": "sidii boqol yar"
+    },
+    {
+      "surface": "דק",
+      "gloss": "(hudheel-qaad)"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tirada"
+    },
+    {
+      "surface": "זריך",
+      "gloss": "dadkaaga shisheeye ah"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "iyo sidii budada"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "soo dhaafto"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tirada"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "kuwa xoogga leh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waxayna ahayn doontaa"
+    },
+    {
+      "surface": "לפתע",
+      "gloss": "waqtigii degdegga ah"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "si kedis ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:37.974820083Z",
+  "model": "glm-5.3"
+}

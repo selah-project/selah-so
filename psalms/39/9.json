@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Dhammaan caasiyaadayda i naga soo badbaadi; ceebta nabalka ha iga dhigin.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "caasiyaadayda"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "i naga soo badbaadi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ceebta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabalka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "iga dhigin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:11.056174943Z",
+  "model": "glm-5.3"
+}

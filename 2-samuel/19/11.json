@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Absalom na aan Masiixnay inoo sarreeyana wuu dhintay dagaalkii; hadda maxaad u aamustaan boqorka ⟨את⟩ celin?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "aan Masiixnay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "inoo sarreeya"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaalkii"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "aamustaan"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "celin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:22.779420516Z",
+  "model": "glm-5.3"
+}

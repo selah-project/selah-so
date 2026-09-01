@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh waa kan nool, oo barakaysan ha ahaade dhagaxdegayga, oo la sarreeyo Eloah badbaadadayda.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "waa kan nool"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "oo barakaysan ha ahaade"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dhagaxdegayga"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "oo la sarreeyo"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.723970529Z",
+  "model": "glm-5.3"
+}

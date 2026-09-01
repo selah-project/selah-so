@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Nooxna wuxuu ahaa shan boqol oo sanad jir, Nooxna wuxuu dhalay ⟨את⟩ Sheem, ⟨את⟩ Xaam iyo ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noox"
+    },
+    {
+      "surface": "בן",
+      "gloss": "jir"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "oo sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xaam"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xaam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:49.382409874Z",
+  "model": "glm-5.3"
+}

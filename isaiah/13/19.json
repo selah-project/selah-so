@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Baabelna, dhaqanka boqortooyooyinka, quruxda isla-weynidda Kashdim, waxay noqon doontaa sida gorgortankii Elohim ⟨את⟩ Sedom iyo ⟨את⟩ Amorah.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabelna"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "dhaqanka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyooyinka"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "quruxda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "isla-weynidda"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashdim"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sida gorgortankii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Amorah"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:52.347075482Z",
+  "model": "glm-5.3"
+}

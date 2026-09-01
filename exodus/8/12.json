@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Yahweh wuxuu yidhi Muuse: Dheji Axaron: Fiilsan ⟨את⟩ ulaggaaga oo garaac ⟨את⟩ boqolkii dhulka, wuxuuna noqonaa kinni dhammaan dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Dheji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Fiilsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulaggaaga"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ulaggaaga"
+    },
+    {
+      "surface": "והך",
+      "gloss": "oo garaac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqolkii dhulka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuuna noqonaa"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kinni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:42.187741112Z",
+  "model": "glm-5.3"
+}

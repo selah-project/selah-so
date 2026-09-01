@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Haddaba dheeraad u gee ⟨את⟩ xoolahaaga iyo ⟨את⟩ waxa kasta oo aad leeshahay beerka; nin kasta iyo xayawaan kasta oo beerta laga helo oo aan guriga lagu soo uruurin, baraddu waa ku soo dhici doontaa wayna dhimi doonaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dheeraad u gee"
+    },
+    {
+      "surface": "העז",
+      "gloss": "degdeg u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoolahaaga"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "xoolahaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aad leeshahay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nin"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "iyo xayawaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "laga helo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "lagu soo uruurin"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "waa ku soo dhici doontaa"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "baraddu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "wayna dhimi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:49.585261330Z",
+  "model": "glm-5.3"
+}

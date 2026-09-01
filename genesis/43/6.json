@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Yishraayel waxayna yidhi: Maxaad ii xumeyshee, inaad sheegtaan ninka inaad walaal kale leedihiin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yishraayel"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "ii xumeyshee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "inaad sheegtaan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "weli ma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aad"
+    },
+    {
+      "surface": "אח",
+      "gloss": "walaal"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:24.005422653Z",
+  "model": "glm-5.3"
+}

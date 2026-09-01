@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Xataa markhaatiyadaagu waa raaxadayda, waa ⟨kuwa⟩ taliyadayda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Xataa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "markhaatiyadaagu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "raaxadayda"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨kuwa⟩"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "taliyadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:11.328297894Z",
+  "model": "glm-5.3"
+}

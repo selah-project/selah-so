@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Kadibna waxay dhashay gabadh, waxayna u bixisay magaca ⟨את⟩ Diinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kadibna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxayna u bixisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaca"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Diinah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:21.299912836Z",
+  "model": "glm-5.3"
+}

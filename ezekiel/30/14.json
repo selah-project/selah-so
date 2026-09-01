@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waan desolin doonaa ⟨את⟩ Pathros, waxaan gelin doonaa dab Tsoan, waan fulin doonaa xukunno No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Waan desolin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pathros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Pathros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan gelin doonaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "waan fulin doonaa"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "xukunno"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "No"
+    }
+  ],
+  "timestamp": "2026-09-01T04:35:53.315856670Z",
+  "model": "glm-5.3"
+}

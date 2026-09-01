@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo ⟨את⟩ dhulka aan siyay Aabraaham iyo Isxaaq, adigaan ku siin doonaa, oo abuurtaada kadib ⟨את⟩ dhulka waan siin doonaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "siyay"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Aabraaham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "iyo Isxaaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ku siin doonaa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "oo abuurtaada"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "waan siin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:10.265994428Z",
+  "model": "glm-5.3"
+}

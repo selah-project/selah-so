@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wiilashii Israa'iil waxay yimaadeen inay soo iibsadaan ⟨qamadi⟩, dhexdahii kuwii soo yimid, waayo abaartii waxay ku jirtay dhulka Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "inay soo iibsadaan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdahii"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kuwii soo yimid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waxay ku jirtay"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "abaartii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:46.219603600Z",
+  "model": "glm-5.3"
+}

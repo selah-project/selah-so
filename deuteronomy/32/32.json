@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waayo, beertooda (canabkoodu) waa kan beerta Sedom, iyo (waa kan)beeraha Amorah; canabbadoodu waa canabbo roos (sumow), tufoyyo dhammaanna mooram baa lagu qaddiyay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "kan beerta (canabka)"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "beertooda (canabkoodu)"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "iyo (waa kan) beeraha"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "canabbadoodu"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "canabbo"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "roos (sumow)"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "tufoyyo"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "mooram"
+    },
+    {
+      "surface": "למו",
+      "gloss": "lagu qaddiyay (dhammaanna)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:17.371643730Z",
+  "model": "glm-5.3"
+}

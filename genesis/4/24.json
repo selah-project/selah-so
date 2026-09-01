@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waayo Kayin waxaa laga ceshaa (la aarsaa) toddobo-laab, laakiin Lemek toddobaatan-iyo-todobo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "toddobo-laab"
+    },
+    {
+      "surface": "יוקם",
+      "gloss": "waxaa laga ceshaa (la aarsaa)"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "laakiin Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "iyo toddobo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:56.291974434Z",
+  "model": "glm-5.3"
+}

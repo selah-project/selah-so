@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Yahweh wuu ka boggaday ⟨את⟩ gacantiisa quduuska ah ehelka indhaha dhammaan shacabka, oo dhammaan dhulka meelaha dhammaadkoodu wuu arktaan ⟨את⟩ badbaadada Elohimkeenna.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "wuu ka boggaday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantiisa quduuska ah"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ehelka indhaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "oo wuu arktaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "meelaha dhammaadkoodu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badbaadada Elohimkeenna"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:46.431592340Z",
+  "model": "glm-5.3"
+}

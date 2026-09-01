@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuuna dhigay ⟨את⟩ miiska goortii kuulanka ah, dhinaca waqooyi ee Maskaxda, dibedda barxadda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "goortii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kuulanka ah"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskaxda"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dibedda"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "barxadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:20.887563125Z",
+  "model": "glm-5.3"
+}

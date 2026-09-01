@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waxay kor u kacaan samada, waxay hoos u dhacaan tihoomyada; naftoodu waa dagtagtaa sharrarta.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "waxay kor u kacaan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "waxay hoos u dhacaan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "tihoomyada"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "naftoodu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sharrarta"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "waa dagtagtaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:07.064816675Z",
+  "model": "glm-5.3"
+}

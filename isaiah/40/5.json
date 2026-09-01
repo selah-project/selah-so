@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "waa la muujin doonaa ammaanka Yahweh, oo dhulkiibi wuu arki doonaa isla markiiba, sababtoo ah afka Yahweh baa ⟨wuu⟩ hadalay.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "waa la muujin doonaa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "wuu arki doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "dhulkiibi (basar)"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "isla markiiba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:33.084215965Z",
+  "model": "glm-5.3"
+}

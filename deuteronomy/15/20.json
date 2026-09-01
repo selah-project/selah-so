@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Waxaad horraynkaas ku cuni doontaa Yahweh Elohimkaaga hortiisa, sanad kasta (sanadba sanadka kaleba), goobta ay doortaydo ⟨ta⟩ Yahweh, adiga iyo qoyskaaga.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "waxaad ku cuni doontaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad kasta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sanadba sanadka kaleba"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "goobta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay doortaydo ⟨ta⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "doortaydo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "qoyskaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:44.706654069Z",
+  "model": "glm-5.3"
+}

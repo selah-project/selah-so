@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "dhagaxyo shoham, iyo dhagaxyo la dhexgelinayo eefodhka iyo, iyo xeera-tiirarka;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "iyo dhagaxyo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "la dhexgelinayo"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "eefodhka iyo"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "iyo xeera-tiirarka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:43.202838526Z",
+  "model": "glm-5.3"
+}

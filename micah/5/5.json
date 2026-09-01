@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo ⟨waxay⟩ gubi doonaan ⟨את⟩ dhulka Ashshuur seefta, iyo ⟨את⟩ dhulka Nimrood albaabadiisa bannaanka; oo wuu badbaadin doonaa ⟨naftayada⟩ Ashshuur ka, markay timaado dhulkayagii, oo markay lugta ku ta qaato xuduuddayada.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "gubi doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Ashshuur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshuur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seefta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka Nimrood"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrood"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "albaabadiisa bannaanka"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "wuu badbaadin doonaa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashshuur ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "timaado"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "dhulkayagii"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "oo markay"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "lugta ku ta qaato"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "xuduuddayada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:00.556584344Z",
+  "model": "glm-5.3"
+}

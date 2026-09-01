@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Galab iyo subax iyo bered, waan sharraxayaa oo waan oohinayaa, oo wuu maqlay codkayga.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Galab"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "iyo subax"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "iyo bered"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "waan sharraxayaa"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "oo waan oohinayaa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "oo wuu maqlay"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:10.981148793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Paras, Kuush iyo Puut ⟨ iyaga⟩ — dhammaantood miir iyo gaashaan-dhul.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "iyo Puut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (la jira)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaan"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "iyo gaashaan-dhul (miir)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:44:44.942692102Z",
+  "model": "glm-5.3"
+}

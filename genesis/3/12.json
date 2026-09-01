@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu naqushay: Ninku wuxuu yidhi, Naagtaaad iga siisay inay ila jirto — iyadoo geedka ii siisay, anigana waan cunay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Ninku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Naagta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "aad siisay"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "il-la jirto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyadoo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "siisay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedka"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "waan cunay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:58.973368170Z",
+  "model": "glm-5.3"
+}

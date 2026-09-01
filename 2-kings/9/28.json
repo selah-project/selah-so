@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Addoonadiisiina waxay ku rideen ⟨את⟩ Yeruushaalaym, waxayna aasay ⟨את⟩ aaskiisii agtiis aabbayaashiis, magaalada Daawud.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "waxay ku rideen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(Axazyahu)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoonadiisiina"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "waxayna aasay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "aaskiisii"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "aaskiisii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agtiis"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T03:28:27.438503079Z",
+  "model": "glm-5.3"
+}

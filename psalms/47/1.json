@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Hagaha u ogolaaday, ee curada Korah, mazmoor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha u ogolaaday"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmoor"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:30.723726997Z",
+  "model": "glm-5.3"
+}

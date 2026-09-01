@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Tukasho Muuse, ninka Elohim. Adonay, adigu waxay noqotay degganenna, qarni iyo qarni.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tukasho"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "degganenna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waxay noqotay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "qarni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo qarni"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:29.752689155Z",
+  "model": "glm-5.3"
+}

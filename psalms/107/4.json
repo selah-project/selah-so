@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Way ku baaba'eennaa keymaha, jidka aan cidhna lahayn, magaalo ay ku degan yihiin ma ay helin.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "way ku baaba'eennaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "keymaha"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "jidka aan cidhna lahayn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ay ku degan yihiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ay helin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:00.774398315Z",
+  "model": "glm-5.3"
+}

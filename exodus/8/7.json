@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dhul-dhulayaashuna way ka tegeyi doonaan adiga, guryahaaga, addoomadaada iyo dadkaaga; keliya webiga bay ku harayaan.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "way ka tegeyi doonaan"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dhul-dhulayaashuna"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "guryahaaga"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "addoomadaada"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "bay ku harayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:08.046853065Z",
+  "model": "glm-5.3"
+}

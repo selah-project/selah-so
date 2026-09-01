@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna ka jawaabeen ⟨את⟩ Yehooshuuca, iyagoo leh: Waxa kasta oo aan na amartay waqa falin, meeshii kasta oo na dirayna waqa tegnaa.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Waxayna ka jawaabeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehooshuuca"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Waxa kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "aan na amartay"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "waqa falin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "meeshii kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "na dirayna"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "waqa tegnaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:53.578526904Z",
+  "model": "glm-5.3"
+}

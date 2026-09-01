@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Hoggaamiyaha loo qoray (oo qaddarin), bogga xarigga — Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hoggaamiyaha loo qoray"
+    },
+    {
+      "surface": "על",
+      "gloss": "(oo qaddarin)"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "bogga xarigga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:29.408568960Z",
+  "model": "glm-5.3"
+}

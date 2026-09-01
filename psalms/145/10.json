@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Shuqullaaga oo dhan way ku mahadin doonaan, Yahweh, oo khesedkaaguhu way ku barakaysan doonaan.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "way ku mahadin doonaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "shuqullaaga"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "khesedkaaguhu"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "way ku barakaysan doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:15.298056368Z",
+  "model": "glm-5.3"
+}

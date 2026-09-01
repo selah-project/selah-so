@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waad raac-raceyn doontaan ⟨את⟩ cadowdiinna, wayna dhici doontaan hortii la'deen seef.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "waad raac-raceyn doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowdiinna"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowdiinna"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wayna dhici doontaan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "hortii la'deen"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:55.278440605Z",
+  "model": "glm-5.3"
+}

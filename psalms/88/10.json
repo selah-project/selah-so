@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Indhahaygu wuu baabbi'ay dhibka aawadiis; adiga, Yahweh, waan ku yeeray maal kasta; gacmahaygaan kuu fiday.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "wuu baabbi'ay"
+    },
+    {
+      "surface": "מני",
+      "gloss": "aawadiis"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhibka"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "waan ku yeeray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kasta oo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maal"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "waan fiday"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga (ku)"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:54.488155655Z",
+  "model": "glm-5.3"
+}

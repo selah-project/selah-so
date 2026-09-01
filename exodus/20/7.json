@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Magaca Yahweh Elohimkaaga ha ku qaadin waxba (shisheeye); waayo Yahweh ma daayo qofka Magaciisa ku qaada shisheeye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ku qaadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Magaca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "waxba (shisheeye)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "daayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qofka … ku qaada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qofka …"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ku qaada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "shisheeye"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:33.990225594Z",
+  "model": "glm-5.3"
+}

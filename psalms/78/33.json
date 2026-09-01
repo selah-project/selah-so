@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Sidaas darteed wuxuu baabbi'iyay maalmahooda aan waxba tarin, iyo sanadahooda argagax gudahood.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wuxuu baabbi'iyay"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "aan waxba tarin"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "maalmahooda"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "iyo sanadahooda"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "argagax gudahood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:47.628877722Z",
+  "model": "glm-5.3"
+}

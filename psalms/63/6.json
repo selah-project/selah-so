@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Sida baruur iyo duhur ayaa nefshigu ku dhegaanaysaa, oo afkayaa laabta farxadda leh ayaa ku ammaaneeyaa ⟨Adiga⟩.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "baruur"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "iyo duhur"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ku dhegaanaysaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefshigu"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "oo laabta"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "farxadda leh"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ku ammaaneeyaa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:02.469591452Z",
+  "model": "glm-5.3"
+}

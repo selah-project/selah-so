@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Ha taabanina Masiixayda, nebiyadaydana ha u sameynina xum.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "taabanina"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Masiixayda"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "nebiyadaydana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "u sameynina xum"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:17.039987011Z",
+  "model": "glm-5.3"
+}

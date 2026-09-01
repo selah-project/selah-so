@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": " Wuxuuna xidhan doonaa saacidda saacidda ee badhdhka ah, iyo sirwaalal badhdh ah ayuu jidhkiisa ku xidhan doonaa, wuxuuna qaadayaa ⟨את⟩ docolka halka dabku ku cunay ⟨את⟩ allabariga gubaadda ee miisaabta dhexdeeda, wuxuuna dhigayaa miisaabta jiifa.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "Wuxuuna xidhan doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "qamiiskiisa"
+    },
+    {
+      "surface": "בד",
+      "gloss": "badhdh"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "iyo sirwaalal"
+    },
+    {
+      "surface": "בד",
+      "gloss": "badhdh"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "ku xidhan doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jidhkiisa"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "wuxuuna qaadayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "docolka"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "docolka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ku cunay"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabariga gubaadda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabariga gubaadda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miisaabta dhexdeeda"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "wuxuuna dhigayaa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "jiifa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miisaabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:35.919034432Z",
+  "model": "glm-5.3"
+}

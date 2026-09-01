@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Ma faani doonaa balwaarta kan ka soo goyaha? mise miuu waynaan qoriyaha kan dhaqaaqaya? Sidii ugaar u halgamayo kuwa qaaday, iyo ⟨את⟩ kuwa kor u qaadayaa sidii ucddi aan geed ahayn oo kor u qaadayso.",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "Ma faani doonaa"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "balwaarta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "kan soo goyaha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "miuu waynaan"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "qoriyaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "kan dhaqaaqaya"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "u halgamayo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sidii ugaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa kor u qaadayaa"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "kuwa kor u qaadayaa"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "sidii... kor u qaadayso"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ucddi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:55.449808487Z",
+  "model": "glm-5.3"
+}

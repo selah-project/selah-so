@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "wuxuuna la tashi oo dhan yeeshay boqorradiisa iyo adkaadadiisii in la xiro ⟨את⟩ biyaha ilaha ah ee magaalada ka banaan, iyagoon ka caawin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "wuxuuna la tashi oo dhan yeeshay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "boqorradiisa"
+    },
+    {
+      "surface": "וגיבוריו",
+      "gloss": "iyo adkaadadiisii"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "in la xiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyaha ilaha ah"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "ilaha ah ee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka banaan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "iyagoon ka caawin"
+    }
+  ],
+  "timestamp": "2026-09-01T06:46:38.780824283Z",
+  "model": "glm-5.3"
+}

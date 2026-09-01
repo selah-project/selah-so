@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Khazaeliina, boqorkii Aram, wuu cunay ⟨את⟩ Israa'iil dhammaan maalmaha Yehowaashax.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Khazaeliina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "wuu cunay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehowaashax"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:12.736348994Z",
+  "model": "glm-5.3"
+}

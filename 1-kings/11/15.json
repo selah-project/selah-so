@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxay ahayd markii Daawid uu ahaa ⟨את⟩ Adoom, iyo markii Yoo'aab, sarkaalka ciidanka, uu kor u kacay inuu aaso ⟨את⟩ dhimmanaha — wuxuuna diley dhammaan labaha ee Adoom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waxay ahayd"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "markii uu ahaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Adoom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "uu kor u kacay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarkaalka"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "inuu aaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhimmanaha"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "dhimmanaha"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna diley"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "labaha"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Adoom"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:14.300031327Z",
+  "model": "glm-5.3"
+}

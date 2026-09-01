@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Bilowgii boqortooyadiisuna waxay ahayd Baabel, Erek, Akkad iyo Kalneh, dhulka Shiinaar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Bilowgii"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "boqortooyadiisuna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "iyo Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shiinaar"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:35.196610414Z",
+  "model": "glm-5.3"
+}

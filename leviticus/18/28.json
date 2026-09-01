@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waa inaan dhulku idin maatin markaad wasakhaynaysaan ⟨את⟩ dhulka, siduu u matagay ⟨את⟩ qowmkii idinka horreeyay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "waa inaan ... maatin"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "maatin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "markaad wasakhaynaysaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "u matagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qowmkii"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "qowmkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "idinka horreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:59.905485902Z",
+  "model": "glm-5.3"
+}

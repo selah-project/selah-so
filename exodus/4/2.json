@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Yahweh wuxuu ku yidhi: «Maxay tahay tanada gacantaada?» Wuxuu yidhi: «Mahte (ul).»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "maxay tahay tanada"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Mahte (ul)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:35.598633501Z",
+  "model": "glm-5.3"
+}

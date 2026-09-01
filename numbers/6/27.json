@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo si daacad ah bay magacayga ku dhigi doonaan ⟨את⟩ carruurta reer Israa'iil, anigana waan barakayn doonaa.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "bay ku dhigi doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacayga"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta reer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "anigana"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "waan barakayn doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:24.142847048Z",
+  "model": "glm-5.3"
+}

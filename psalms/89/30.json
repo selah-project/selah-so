@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaana dhigi doonaa durriyyadiisa ilaa iyo weligii, iyo kursigiisa sida maalmaha samada.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "waxaana dhigi doonaa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ila iyo weligii"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "durriyyadiisa"
+    },
+    {
+      "surface": "וככסאו",
+      "gloss": "iyo kursigiisa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmaha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:31.831414611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuuna yidhi: Adiga gabadha cui baa tahay? ii sheeg ⟨naa⟩; ma jiraa ⟨meel⟩ inaan ku hallayno guriga aabahaaday?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "cui"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga",
+      "marks": "gabadha cui baa tahay"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "ii sheeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma jiraa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaaday"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "annaga inoo"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "hallayno"
+    }
+  ],
+  "timestamp": "2026-09-01T00:49:40.813345556Z",
+  "model": "glm-5.3"
+}

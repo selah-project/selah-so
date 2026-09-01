@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 67,
+  "translation": "Shacabku ha ku mahad-naadiyaan, Elohim; shacabku dhammaantood ha ku mahad-naadiyaan.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ha ku mahad-naadiyaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ha ku mahad-naadiyaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dhammaantood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:53.839501388Z",
+  "model": "glm-5.3"
+}

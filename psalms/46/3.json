@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Sidaas darteed ma cabsanno, haddii dhulka la beddelo, iyo haddii buuraha laga dhaqaaqo gudaha badaha.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas darteed (sababta)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "cabsanno"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "la beddelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "laga dhaqaaqo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "badaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:58.604385184Z",
+  "model": "glm-5.3"
+}

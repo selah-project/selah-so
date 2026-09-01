@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 35:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Oo waxaan ku nagaannay khaimooyin, oo waxaan maqalnay oo waxaan sameynnay sida wax kasta oo Yonadaab aabbahayagu noo amray.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "waxaan ku nagaannay"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "khaimooyin"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "waxaan maqalnay"
+    },
+    {
+      "surface": "ונעש",
+      "gloss": "waxaan sameynnay"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "noo amray"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadaab"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aabbahayagu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:19:28.309392459Z",
+  "model": "glm-5.3"
+}

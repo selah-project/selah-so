@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wiilasheda Xamna waxay ahaayeen Kuush, iyo Mitsrayim, iyo Fuut, iyo Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Wiilasheda"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xamna"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "iyo Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "iyo Fuut"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "iyo Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:25.344179358Z",
+  "model": "glm-5.3"
+}

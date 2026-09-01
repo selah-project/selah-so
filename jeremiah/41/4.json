@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Waxay dhacday maalinta labaad ee la dilay ⟨את⟩ Gedalyahu — ninna ma ogaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waxay dhacday"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "la dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "iyo nin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ogaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:18:15.313463868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 29:18",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo maalintaas dhegaha la' ahayn waxay maqli doonaan erayada buugga, iyo indhaha indhoolka ah waxay arki doonaan ⟨marka ay ka soo baxaan⟩ mugdi iyo gudcur.",
+  "tokens": [
+    {
+      "surface": "ושמעו",
+      "gloss": "waxay maqli doonaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maas"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "dhegaha la' ahayn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "ומאפל",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "ומחשך",
+      "gloss": "iyo gudcur"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "indhoolka ah"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "waxay arki doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:05.376534146Z",
+  "model": "glm-5.3"
+}

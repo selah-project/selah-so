@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Gabay laga sugay Aasaaf — runtii wanaagsan yahay Yisraa'iil Elohim, kuwa qalbiga daahirka ah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Gabay"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "laga sugay Aasaaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga daahirka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:27.280354002Z",
+  "model": "glm-5.3"
+}

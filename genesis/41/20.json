@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Sacadoodii miista ahaa ee xunna waxay laqdeen ⟨את⟩ toddobadii sacadoodii hore ee lahaa barwaaqo.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "waxay laqdeen"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sacadoodii"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "miista ahaa"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ee xunna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toddobadii sacadoodii hore ee lahaa barwaaqo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddobadiii"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sacadoodii"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "ee lahaa barwaaqo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:58:35.978729256Z",
+  "model": "glm-5.3"
+}

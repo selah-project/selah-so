@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 38:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Lana wuxuu jiray ⟨את⟩ Oholyaab inoo, wiilka Axissaamakh, qabiilka Daan, qoriye iyo naqshadeeye, oo dhejiye cudbi madow-madow (tkelet), ba Burni, tiin iyo bursho shuun ah.",
+  "tokens": [
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ lana wuxuu jiray",
+      "marks": "Oholyaab"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholyaab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "Axissaamakh"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "qoriye (farsamo-celin)"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "iyo naqshadeeye"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "oo dhejiye (dhardhaar)"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "cudbi madow-madow (tkelet)"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "iyo Ba Burni (burbur cas)"
+    },
+    {
+      "surface": "ובתולעת",
+      "gloss": "iyo tiin (kanaanka cas)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shuun ah"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "iyo bursho shuun"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:02.793227835Z",
+  "model": "glm-5.3"
+}

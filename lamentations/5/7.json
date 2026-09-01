@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Aabbayaashii way denbi sameeyeen, way maqaan (waa tageen); dembiyadooda annaga baa dhillay.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "aabbayaashii"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "way denbi sameeyeen"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "way maqaan (waa tageen)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annaga"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "dembiyadooda"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "baa dhillay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:54.220243013Z",
+  "model": "glm-5.3"
+}

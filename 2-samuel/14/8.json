@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo boqorku wuxuu ku yidhi naagtaas: Tag gurigaga, aniguna waan ku amraa ⟨amar ku saabsan⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagtaas"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tag"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gurigaga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "waan amraa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku saabsan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:01:53.247471756Z",
+  "model": "glm-5.3"
+}

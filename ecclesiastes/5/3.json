@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Markaad nadar ugu ballanqaado Elolim—Elohim—ha daahin oofinta; waayo, nacasyada lama doono; ⟨את⟩ waxa aad nadarto oof.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "markaad"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nadar ugu ballanqaado"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "daahin"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "oofinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "la"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "doono"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "nacasyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aad nadarto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa aad"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nadarto"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "oof"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:18.824999204Z",
+  "model": "glm-5.3"
+}

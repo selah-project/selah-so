@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 10:22",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waayo, doonyaha Tarshish boqorku wuxuu ku lahaa badda, oo wuxuu lahaa doonyaha Ciram; hal mar oo saddex sano ah ayay doonyaha Tarshish ku imanayeen, waxna soo wadataan dahab iyo lacag, ilig girri iyo qallaal iyo shimbiro tahriir ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "doonyaha"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oo wuxuu lahaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "doonyaha"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ciram"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal mar"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano ah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ayay ku imanayeen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "doonyaha"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "waxna soo wadataan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "iyo lacag"
+    },
+    {
+      "surface": "שנהבים",
+      "gloss": "ilig girri"
+    },
+    {
+      "surface": "וקפים",
+      "gloss": "iyo qallaal"
+    },
+    {
+      "surface": "ותכיים",
+      "gloss": "iyo shimbiro tahriir ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:54.715174552Z",
+  "model": "glm-5.3"
+}

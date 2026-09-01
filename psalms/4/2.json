@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Markaan u dhawaaqo, ii jawaab, Elohim xaqdayga; marka ay tahay cidhiidhi adag waad ii fidi jirtay; ii naxariiso, oo dhegeyso baryadayda.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "markaan u dhawaaqo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ii jawaab"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "xaqdayga"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "marka ay tahay cidhiidhi adag"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "waad ii fidi jirtay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ii naxariiso"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "oo dhegeyso"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:56.386210206Z",
+  "model": "glm-5.3"
+}

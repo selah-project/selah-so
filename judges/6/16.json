@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahwehna wuxuu ku yidhi: Anigu waan kula jiri doonaa, waadna garaaci doontaa ⟨את⟩ Midyan sidii nin keliya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aan ka jiri doonaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kula"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "waadna garaaci doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sidii nin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:42.853233786Z",
+  "model": "glm-5.3"
+}

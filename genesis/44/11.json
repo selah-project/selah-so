@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Wayna degdegeen, oo nin kasta wuu dhigay ⟨את⟩ boorsadiisa dhulka, nin kastana wuu furay boorsadiisa.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "wayna degdegeen"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "wuu dhigay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boorsadiisa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "boorsadiisa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "wuu furay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "boorsadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:47.857149843Z",
+  "model": "glm-5.3"
+}

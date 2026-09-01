@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Bal eeg, waad quruxsan tahay gacaliyow, bal eeg, waad quruxsan tahay; indhahaagu waa qamadiyo.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "waad quruxsan tahay"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "gacaliyow"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "waad quruxsan tahay"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaagu"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "qamadiyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:23.840397589Z",
+  "model": "glm-5.3"
+}

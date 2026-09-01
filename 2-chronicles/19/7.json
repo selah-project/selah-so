@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 19:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Hadda ha ahaato cabsida Yahweh idinku ahaato, ilaaliya oo sameeya, waayo, Yahweh Elohimkeenna agtiisa ma jirto gardarro iyo waji-qaadis iyo qaadasho rusbasho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha ahaato"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinku ahaato"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "oo sameeya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gardarro"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "iyo waji-qaadis"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "(waji)"
+    },
+    {
+      "surface": "ומקח",
+      "gloss": "iyo qaadasho"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rusbasho"
+    }
+  ],
+  "timestamp": "2026-09-01T06:42:10.618715695Z",
+  "model": "glm-5.3"
+}

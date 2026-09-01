@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Iyo qabiilka Ged: ⟨את⟩ magaalo maklan (magaalada lagu magaanabo dhiiggarayga ah) ⟨את⟩ Ramooth ee Gilcad iyo ⟨את⟩ dhulkeeda daaqsadeed, iyo ⟨את⟩ Machanayim iyo ⟨את⟩ dhulkeeda daaqsadeed.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "iyo qabiilka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ged"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalo maklan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "maklan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dhiiggarayga ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramooth ee Gilcad"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramooth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ee Gilcad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Machanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:45.374862012Z",
+  "model": "glm-5.3"
+}

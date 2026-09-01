@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo aniga waan baabbi'inayaa ⟨את⟩ ⟨dhaqan-dhulka⟩ dhulka, cadowdiinniina kuwa ku nool waxay ku la yaabi doonaan.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "oo waan baabbi'inayaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "waxay la yaabi doonaan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowdiinniina"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kuwa ku nool"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku (gudaheeda)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:30.302102577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Intaas kadib Dawid wuu dhuftay ⟨את⟩ Falistiinta oo uu dhulay, wuxuuna qabsaday Gat iyo degmooyinkeeda gacanta Falistiinta ka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "intaas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Falistiinta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiinta"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "oo uu dhulay"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "iyo degmooyinkeeda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiinta ka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:35.149595146Z",
+  "model": "glm-5.3"
+}

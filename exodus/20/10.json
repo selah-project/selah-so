@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Maalinta toddobaadna waa Sabtid ⟨iyo⟩ Yahweh Elohim-kaaga; wax shaqo ah adiguma sameynayo — ⟨adiga⟩, iyo wiilkaaga, iyo gabadhaaga, addoonkaaga iyo gabadha addoonka ah, xoolahaaga, iyo garriigaaga kuu sugan albaabadaada gudaha.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Maalinta…na"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "todobaad"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "waa Sabtid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨iyo⟩ Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-kaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma…ayn"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameynayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax…ah"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shaqo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨adiga⟩"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "iyo wiilkaaga"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "iyo gabadhaaga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "iyo gabadha addoonka ah"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "xoolahaaga"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "iyo garriigaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuu sugan"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "albaabadaada gudaha"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:46.737619340Z",
+  "model": "glm-5.3"
+}

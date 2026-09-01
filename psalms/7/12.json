@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Elohim waa xukun eennim ah, iyo El xanaaqsan maal walba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "eennim ah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "xanaaqsan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "maal walba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "(maal)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:35.489539077Z",
+  "model": "glm-5.3"
+}

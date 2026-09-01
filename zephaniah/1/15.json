@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Maalin cadaw-nimo ayaa maashi, maalin dhib iyo cidhiidhi, maalin burbur iyo baabi'in, maalin mugdi iyo madoowaad, maalin daruur iyo duul-madoow.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "cadaw-nimo (xanaaq)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maashi (maalinkaas)"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "iyo cidhiidhi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "burbur (dulmar)"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "iyo baabi'in"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "iyo madoowaad"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "daruur"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "iyo duul-madoow"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:00.054049887Z",
+  "model": "glm-5.3"
+}

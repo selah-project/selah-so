@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Muusena wuxuu u sheegay Axaron ⟨את⟩ dhamaan erayada Yahweh ee uu ku soo diray, iyo ⟨את⟩ dhamaan calaamadaha ee uu u faray.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuu u sheegay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axaron (u)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan erayada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "uu ku soo diray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan calaamadaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "calaamadaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "uu u faray"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:34.108900018Z",
+  "model": "glm-5.3"
+}

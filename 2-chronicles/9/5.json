@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxayna tiri boqorkii: run bay tahay hadalkii aan dhulkaygii ku maqlay, oo ku saabsan hadalladaada iyo xigmaddaada.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boqorkii (u)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan (ku maqlay)"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aan maqlay"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "dhulkaygii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "hadalladaada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku saabsan"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "xigmaddaada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:38:22.187465736Z",
+  "model": "glm-5.3"
+}

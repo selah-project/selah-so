@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Galabtii bay ku noqdaan, sida eyda bay u qayliyaan oo magaalada ku wareeggaan.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "way ku noqdaan"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "galabtii"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bay u qayliyaan"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sida eyda"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "oo ku wareeggaan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:54.206143574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo waan xasuusan doonaa ⟨את⟩ ballaankaygii ee i dhexeeya iyo idinka, iyo naf kasta oo nool oo dhan ¬bahal kasta; oo biyuhu mar dambe ma noqon doonaan daadad ku baabi'in ¬bahal kasta.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "waan xasuusan doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballaankaygii"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballaankaygii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "i dhexeeya"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "iyo idinka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "oo nool"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bahal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqon doonaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "daadad"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ku baabi'in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bahal"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:19.241108493Z",
+  "model": "glm-5.3"
+}

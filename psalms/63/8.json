@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Waayo, Adiga waxaad ahayd gargaar ila ii ah, iyo hoosta hoostiyo baabacaylkaaga waan ku faraxsanahay waanan heesaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waxaad ahayd"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "gargaar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ila ii ah"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "iyo hoosta hoostiyo"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baabacaylkaaga"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "waan ku faraxsanahay waanan heesaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:13.360733645Z",
+  "model": "glm-5.3"
+}

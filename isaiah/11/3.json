@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo cabsidda Yahweh waxay ku dhegtahay, oo muxuu indhahiisa arko ma ku xukumo, oo ma waxa dhegahiisa maqleen uu ku cadaadinayo.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "waxay u urursantahay"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "cabsidda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "muxuu arkay"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "indhahiisa"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ku xukumo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "waxa la maqal"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "dhegahiisa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "uu ku cadaadinayo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:20.770137007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Hadduu aan dib ugu dalin ⟨את⟩ beenta, haddiise uu iibiyay ⟨את⟩ beenta nin kale, dib mar laba lama dalo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Hadduu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dib ugu dalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beenta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beenta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddiise"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "uu iibiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beenta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beenta"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dib u dalo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar laba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:24.088942712Z",
+  "model": "glm-5.3"
+}

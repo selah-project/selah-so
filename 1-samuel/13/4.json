@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Israa'iil dhammaanna waxay maqleen in la yidhi: Shaa'uul wuxuu dhuftay ⟨את⟩ deggista Filistiintii, Filistiintu na Israa'iil way ku naceyb qabaan; dadkii Shaa'uul dabadiis Gilgaalta waxay oo buuxsmeen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhammaanna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "waxay maqleen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "in la yidhi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wuxuu dhuftay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deggista Filistiintii"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "deggista"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "way ku naceyb qabaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'iil"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiintu"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "waxay oo buuxsmeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dabadiis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaalta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:37.149243817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Meel kasta waxaa jooga indhaha Yahweh, waxayna fiirinayaan sharka iyo wanaagga.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "waxayna fiirinayaan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "iyo wanaagga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:00.185970241Z",
+  "model": "glm-5.3"
+}

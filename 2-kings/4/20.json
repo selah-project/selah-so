@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu qaaday, wuxuuna keenay hooyadiis, wuxuuna fadhiistay lugaha hooyadiis ilaa galabta, wuuna dhintay.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Wuxuu qaaday"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna fadhiistay"
+    },
+    {
+      "surface": "על",
+      "gloss": "lugaha"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "galabta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:42.860353611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Markaan maqlay ⟨את⟩ ereygan, waan dhararay ⟨את⟩ dhergii iyo abaartii, waana ka bixin timaha madaxayga iyo gadaashiisa, waan fadhiistay aan lalabbo.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "markaan maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "waan dhararay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhergii iyo abaartii"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhergii"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "abaartii"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "waana ka bixin"
+    },
+    {
+      "surface": "משער",
+      "gloss": "timaha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "gadaashiisa"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "waan fadhiistay"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "aan lalabbo"
+    }
+  ],
+  "timestamp": "2026-09-01T06:15:40.245807049Z",
+  "model": "glm-5.3"
+}

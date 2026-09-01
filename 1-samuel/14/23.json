@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yahwehna wuxuu badbaadinayey ⟨את⟩ Israa'iil maalkaas; iyo dagaalku wuu dhaafay ⟨את⟩ inuu gudo maro Beyt-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "wuxuu badbaadinayey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "iyo dagaalku"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "wuu dhaafay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:22.802626885Z",
+  "model": "glm-5.3"
+}

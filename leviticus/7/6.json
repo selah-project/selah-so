@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Kasta oo lab ah oo ka mid ah wadaaddada wuu cuni karaa; meel quduus ah baa lagu cunaa; ⟨waa⟩ quduus quduusyada ⟨uu yahay⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "wuu cuni karaa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus ah"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "lagu cunaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduusyada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:08.953560064Z",
+  "model": "glm-5.3"
+}

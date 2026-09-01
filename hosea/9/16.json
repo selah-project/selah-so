@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Efrayim waa la garaacay, xididdkoodu way engegeen, midhona ma sameeyaan; inkastoo ay dhashaan, waan dilayaa waxa la jecel yahay ee calooshooda.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "la garaacay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "xididdkoodu"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "way engegeen"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midho"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "sameeyaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inkastoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "dhashaan"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "waan dilayaa"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "waxa la jecel yahay ee"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "calooshooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:35.574193684Z",
+  "model": "glm-5.3"
+}

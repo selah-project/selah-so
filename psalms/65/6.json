@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Ficillo cabsi leh oo xaqdaro dhexdood buu naga jawaabayaa, Elohim naga badbaadinkeenna; adigu waa laakovinta dhamaan geesaha dhulka iyo badda dheer.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "ficillo cabsi leh"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "xaqdaro dhexdood"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "naga jawaabayaa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "naga badbaadinkeenna"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "laakovinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וים",
+      "gloss": "iyo badda"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "dheer"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:52.252417259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxay dhaheen ilma Israa'iil Shemu'el: Ha aamusan oo ha naga joojin qaylasha ilaa Yahweh, Eloheenna; naga badbaadi gacanta Filistiinta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Waxay dhaheen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa (u)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "aamusan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "qaylasha (ka)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheenna"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "naga badbaadiyo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:27.684450040Z",
+  "model": "glm-5.3"
+}

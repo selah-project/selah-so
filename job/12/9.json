@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yaa aan garanayn taas oo dhan kuwan, in gacanta Yahweh ay sameysay ⟨tani⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan kuwan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "taas oo dhan kuwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ay sameysay"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨tani⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:48.053686124Z",
+  "model": "glm-5.3"
+}

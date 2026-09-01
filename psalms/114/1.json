@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Markii Israa'iil ka baxayay Mitsrayim, gurigii Yacquub qolodii luuqadda ajnabiga ah.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Markii ... baxayay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "qolodii ka"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "luuqadda ajnabiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:01.813635020Z",
+  "model": "glm-5.3"
+}

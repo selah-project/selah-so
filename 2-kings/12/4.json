@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Laakiin bamaamta (meelaha cibaadada sare) lama tirtirin; dadkuna weli bamaamta ayay ku gowracayaan oo ku shidayaan (qibad u gudbinyaan).",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamaamta (meelaha cibaadada sare)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "tirtirin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "gowracayaan"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "oo ku shidayaan (qibad u gudbinyaan)"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamaamta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:39.325939470Z",
+  "model": "glm-5.3"
+}

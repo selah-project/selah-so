@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Boqorkii Israa'iilna wuxuu jawaabay oo wuxuu yidhi, Dhaheeya, ha faanine kan marsada huwanaa kan dejinaya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu jawaabay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dhaheeya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "faanine"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "kan marsada huwanaa"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "kan dejinaya"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:58.329661617Z",
+  "model": "glm-5.3"
+}

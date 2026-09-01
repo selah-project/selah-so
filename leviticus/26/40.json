@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Way iqraysan doonaan ⟨את⟩ dambigooda iyo ⟨את⟩ dambiga aabayaalkooda, khiyaanadii ay iga khiyaanayeen darteed, iyo sidoo kale ay ila caqabad u socdeen darteed.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "way iqraysan doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambigooda"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dambigooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dambiga aabayaalkooda"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dambiga"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "aabayaalkooda"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "khiyaanadii darteed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iga khiyaanayeen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "u socdeen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "caqabad"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:15.623273792Z",
+  "model": "glm-5.3"
+}

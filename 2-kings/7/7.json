@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Way kaceen wayna carareen waagii hormarka, waxayna ka tegeen ⟨את⟩ teendhooyinkoodii iyo ⟨את⟩ faraskoodii iyo ⟨את⟩ dameeradoodii — xerkii sida ay tahay — wayna carareen ilaa nafahooda.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "way kaceen"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "wayna carareen"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "waagii hormarka"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "waxayna ka tegeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teendhooyinkoodii"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "teendhooyinkoodii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "faraskoodii"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "faraskoodii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dameeradoodii"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dameeradoodii"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "xerkii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ay tahay"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wayna carareen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:26:44.544158252Z",
+  "model": "glm-5.3"
+}

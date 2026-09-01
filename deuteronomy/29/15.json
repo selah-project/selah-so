@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaadse garanaysaan ⟨את⟩ waxa aan ku noolnahay dhulka Mitsrayim, iyo ⟨את⟩ waxa aan u gudubnay bartamaha shucuubta ayaadna idinku gudubteen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaadse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "waxaad garanaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa aan ku noolnahay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "aan ku noolnahay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxa aan u gudubnay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "aan u gudubnay"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bartamaha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shucuubta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "aydaan gudubteen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:48.902902430Z",
+  "model": "glm-5.3"
+}

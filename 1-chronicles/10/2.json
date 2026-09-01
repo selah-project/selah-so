@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo Plishtiintii waxay si adag u raacen Shaa'uul iyo wiilashiisii, oo Plishtiintii waxay ku dhufteen ⟨את⟩ Yonataan iyo ⟨את⟩ Abinadab iyo ⟨את⟩ Malkii-Shuua, wiilashii Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "waxay si adag u raacen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtiintii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "u raacen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxay ku dhufteen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonataan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonataan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkii-Shuua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkii-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T06:26:56.069544002Z",
+  "model": "glm-5.3"
+}

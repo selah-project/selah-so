@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "(beeraha) daaqo-caws ah wuxuu i jiifsiiyaa, biyaha nabadgelyo wuxuu i hanuuniyaa.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "(beeraha)"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "daaqo-caws ah"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "wuxuu i jiifsiiyaa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "nabadgelyo"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "wuxuu i hanuuniyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:07.678113790Z",
+  "model": "glm-5.3"
+}

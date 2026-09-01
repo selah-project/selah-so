@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Heesa Yahweh, ammaana Magaciisa, ogeysi siinta Miisaanka maalintii ilaa maalinta.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Heesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ammaana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ogeysi siinta"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "maalintii ilaa maalinta"
+    },
+    {
+      "surface": "ליום",
+      "gloss": ""
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "badbaadadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:18.611848337Z",
+  "model": "glm-5.3"
+}

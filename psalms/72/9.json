@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Ka horreeyiisa waxay jilbo-dhigi doonaan kuwa duul-bannaanka deggan, cadowdiisina ciidda bay liqi doonaan.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ka horreeyiisa"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "waxay jilbo-dhigi doonaan"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "kuwa duul-bannaanka deggan"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "cadowdiisina"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "bay liqi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.166125840Z",
+  "model": "glm-5.3"
+}

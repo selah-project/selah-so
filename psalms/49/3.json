@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "In kastoo wiilasha Aadam (dadka caadiga ah), in kastoo wiilasha nin (sharaf leh), wada, taajir iyo miskiin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "in kastoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam (dadka caadiga ah)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "in kastoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin (sharaf leh)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "taajir"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo miskiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:19.239965453Z",
+  "model": "glm-5.3"
+}

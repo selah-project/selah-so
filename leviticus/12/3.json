@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo maqaaska sideedaad, bararka jacaylkiisa la gowracaa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Oo maqaaska"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "sideedaad"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "la gowracaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bararka"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "jacaylkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:05.139952979Z",
+  "model": "glm-5.3"
+}

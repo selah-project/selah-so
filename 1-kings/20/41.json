@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wuxuuna ku degdegay, wuxuuna ka saaray ⟨את⟩ boorso-dhulka (maskaxda) ka indhihiisa; boqorkii Israa'iilna wuu garay ⟨את⟩ isaga, inuu ka mid yahay nebiyada.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "wuxuuna ku degdegay"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "wuxuuna ka saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boorso-dhulka"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "boorso-dhulka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "indhihiisa"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "wuu garay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (nabiigii)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inuu"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "ka mid yahay nebiyada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:12.195068140Z",
+  "model": "glm-5.3"
+}

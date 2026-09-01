@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Yaa samada ii ah? Oo ⟨adiga⟩ jirta ⟨dhexdeeda⟩; dhulka ⟨wax kale⟩ ma doonayo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii ah"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "oo ⟨adiga⟩ jirta ⟨dhexdeeda⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "doonayo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:31.968931615Z",
+  "model": "glm-5.3"
+}

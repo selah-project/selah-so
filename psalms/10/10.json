@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu dulinayaa, wuxuu hoos-u-dhigaa, oo ⟨waxbararru⟩ xooggiisii ku liidataa.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "wuxuu dulinayaa"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "wuxuu hoos-u-dhigaa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "oo ku liidataa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "xooggiisii"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "waxbararru"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:20.560952386Z",
+  "model": "glm-5.3"
+}

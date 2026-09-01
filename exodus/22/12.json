@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii laga goynayo (caymil laga cuniyo), wuu keeni markhaati ahaan walxii la cunay; kan la cunay kuma celinayo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "laga goynayo"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "laga cuniyo"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "wuu keeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "markhaati ahaan"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "walxii la cunay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "celinayo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:48.848179920Z",
+  "model": "glm-5.3"
+}

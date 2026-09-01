@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaan muuqday Abraham, Isxaaq iyo Yaaqob, El Shadday (Qaadirka) ahaan, magacaygase Yahweh ma ayan la garanayn.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "waxaan muuqday"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ahaan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "El Shadday (Qaadirka)"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "magacaygase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ayan la garanayn"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:22.679465398Z",
+  "model": "glm-5.3"
+}

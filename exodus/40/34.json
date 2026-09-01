@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Duununa wuu daboolay ⟨את⟩ Khaymada Kulanka, oo ammaanta Yahweh waxay buuxisay ⟨את⟩ Makaanka.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "wuu daboolay"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "Duununa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khaymada Kulanka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "oo ammaanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "waxay buuxisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makaanka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Makaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:31.557971430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "⟨את⟩ ilay ka Lebnaan kaalay, gaalayd, ⟨את⟩ ilay ka Lebnaan kaalay; ka fiirso madaxa Amaana, madaxa Saniir iyo Xermon, godaha libaaxyada, buuraha shabeelasha.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ilay",
+      "marks": "ilay (אתי halkan waa H854 'ilay' — calaamad aan ahayn wax calaamad u ah)"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ka Lebnaan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gaalayd"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ilay",
+      "marks": "ilay (H854 'ilay' — calaamad aan ahayn wax calaamad u ah)"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ka Lebnaan"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "kaalay"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "ka fiirso"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amaana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Saniir"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "iyo Xermon"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "godaha"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "libaaxyada"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "shabeelasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:17.478494202Z",
+  "model": "glm-5.3"
+}

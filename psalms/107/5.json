@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Oo baahan iyo oohan baahay, nafahoodu gudahood bay daciifteen",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "baahan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "oohan baahay"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafahoodu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gudahood"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "bay daciifteen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:55.835173906Z",
+  "model": "glm-5.3"
+}

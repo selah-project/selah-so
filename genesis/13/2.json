@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo Abramna wuxuu ahaa mid aad u culus ⟨adag ah oo hodan ah⟩ xoolaha dhaqatanka, lacagta fiddada iyo dahabka.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Oo Abramna"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "aad u culus ⟨hodan⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "xoolaha dhaqatanka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "lacagta fiddada"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "iyo dahabka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:40.767906333Z",
+  "model": "glm-5.3"
+}

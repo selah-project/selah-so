@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Curunkii Shemuuel wuxuu adeegsanayay ⟨את⟩ Yahweh hortii Eli, oo ereygii Yahweh wuxuu ⟨ahaayay⟩ mid qiimo badan maalmahaas — muuqaal furan ma jirin.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "curunkii"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wuxuu adeegsanayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "oo ereygii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaayay"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mid qiimo badan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmahaas"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "maalmahaas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirin"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "muuqaal"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "furan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:37.723900394Z",
+  "model": "glm-5.3"
+}

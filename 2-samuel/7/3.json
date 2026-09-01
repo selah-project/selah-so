@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Naataanna wuxuu boqorkii ku yidhi: Wixii qalbigaaga ku jiro tag samee, waayo, Yahweh waa adiga kuu wada jira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naataanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Wixii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wixii ku jiro"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "qalbigaaga ku jiro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "samee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "waa adiga kuu wada jira"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:36.601064875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 30:26",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waana fidin doonaa ⟨את⟩ Mitsrayim shucuunta dhexdooda, waana kala-ficin doonaa ⟨את⟩ dalalka dhexdooda, oo way ogaan doonaan inaan aniga Yahweh ahay.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "waana fidin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shucuunta dhexdooda"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "waana kala-ficin doonaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dalalka dhexdooda"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dalalka dhexdooda"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "way ogaan doonaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:36:03.199572717Z",
+  "model": "glm-5.3"
+}

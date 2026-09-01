@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo waxaad ilaali doontaa ⟨את⟩ amarka iyo ⟨את⟩ xukunkiyada iyo ⟨את⟩ xaqa-yeellada aan kuu amarnayoo maanta inaad sameyso.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "waxaad ilaali doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunkiyada"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xukunkiyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xaqa-yeellada"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xaqa-yeellada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kuu amarnayoo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "inaad sameyso"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:49.309270380Z",
+  "model": "glm-5.3"
+}

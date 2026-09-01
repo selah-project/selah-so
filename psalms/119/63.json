@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Saaxiib ⟨baan ah⟩ dhammaan kuwa kaga cabsada, iyo kuwa ilaaliya amarradaada.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Saaxiib"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan ah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "kaga cabsada"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "iyo kuwa ilaaliya"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amarradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:21.942016145Z",
+  "model": "glm-5.3"
+}

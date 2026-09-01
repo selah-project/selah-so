@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Maalmahaygu ⟨waa⟩ sida hoos la fidsan ⟨oo dhacaya⟩; aniguna sida cawska baan engegay.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Maalmahaygu"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sida hoos"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "la fidsan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sida cawska"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "baan engegay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:50.740594565Z",
+  "model": "glm-5.3"
+}

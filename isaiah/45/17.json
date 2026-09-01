@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Israaii wuxuu ku badbaaday Yahweh, badbaado weligeed ah; laydin ma doontid, laydinnana ma ceebayn doontid ilaa wakhtiyo weligeed ah.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israaii"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "wuxuu ku badbaaday"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "weligeed ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "laydin doontid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laydinnana ma"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ceebayn doontid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "wakhtiyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligeed ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:15.086455991Z",
+  "model": "glm-5.3"
+}

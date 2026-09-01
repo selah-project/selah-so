@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Cadaaladu hortiisa bay soconaysaa, oo cagaha kiisana waa uu jid ka dhigaa.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cadaaladu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bay soconaysaa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "oo waa uu dhigaa"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "jid ka"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "cagaha kiisana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:10.609652893Z",
+  "model": "glm-5.3"
+}

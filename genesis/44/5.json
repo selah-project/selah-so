@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Ma kanuma waa kan uu sayidkaygu ka cabbo, oo uu ku tala-baro? Xume bay ahayd waxa aad sameysheen.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waa"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "uu cabbo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sayidkaygu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo uu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "tala-bar"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "uu tala-baro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "xume bay ahayd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "aad sameysheen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:21.383409706Z",
+  "model": "glm-5.3"
+}

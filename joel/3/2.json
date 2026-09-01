@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo xataa addoomada iyo gaalada ku shubi doonaa ⟨את⟩ ruuxayda maalmahaas.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "oo xataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "addoomada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "gaalada"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "as"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "waan shubi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxayda"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxayda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:00.277497165Z",
+  "model": "glm-5.3"
+}

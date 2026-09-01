@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Anigu waan kula degayaa Mitsrayim, aniguna waan ku celinayaa hubaal, Yoosefna gacantiisa ayuu indhahaaga ku saari doonaa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "waan ... degayaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "waan ku celinayaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ku-celin"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yoosefna"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ayuu ... ku saari doonaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:01:44.535621018Z",
+  "model": "glm-5.3"
+}

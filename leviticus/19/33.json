@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo haddii garri uu ku soo goro ⟨את⟩ agtiinna dhulkiinna, ha dullinina ⟨את⟩ka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "uu ku soo goro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ agtiinna"
+    },
+    {
+      "surface": "גר",
+      "gloss": "garri"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "dhulkiinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "dullinina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ka",
+      "marks": "garri (garri-ga)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:22.779777543Z",
+  "model": "glm-5.3"
+}

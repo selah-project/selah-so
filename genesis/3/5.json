@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waayo, Elohim wuu ogyahay in maalinta aad ka cuntaaneenna indhahiinna waxay la furi doonaan, oo waxaad noqon doontaan sidii Elohim, kuwa og khayrka iyo sharka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu ogyahay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "aad ka cuntaaneenna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "waxay la furi doonaan"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "indhahiinna"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "oo waxaad noqon doontaan"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "sidii Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kuwa og"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "khayrka"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "iyo sharka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:32.734269156Z",
+  "model": "glm-5.3"
+}

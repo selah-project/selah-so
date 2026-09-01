@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Waxaan eegay ⟨midigta⟩ oo arkay, oo aan jirin qof ii yaqaan; magangaladdii ii baabba'ay, aan jirin qof nafsadayda raadiya.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "eegay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨midigta⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "oo arkay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan jirin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "baabba'ay"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "magangaladdii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ii (ka)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "raadiya"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nafsadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:55.500229514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Shaxarayim waxuu dhalay Beeraha Mo'aab ka dib markuu tegey ⟨את⟩ Xushiim iyo ⟨את⟩ Ba'araa — naagihiisii.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "iyo Shaxarayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "Beeraha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "markuu tegey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Xushiim iyo Ba'araa"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Xushiim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ba'araa"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Ba'araa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "naagihiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:30.334474811Z",
+  "model": "glm-5.3"
+}

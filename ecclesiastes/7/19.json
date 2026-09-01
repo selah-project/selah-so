@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Xigmaddu xigmeed bay u xoog-baysaa, ka badan toban hoggaamiye oo magaalada ku jira.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "xigmaddu"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "u xoog-baysaa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "xigmeed"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ka badan toban"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "hoggaamiye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ku jira"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:23.605698831Z",
+  "model": "glm-5.3"
+}

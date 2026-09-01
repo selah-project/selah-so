@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Waayo, adiga Yahweh waxaad ii samaaysay farxad shaqadaada, shqooyinka gacantaada waan ku raalli-qaadayaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "waxaad ii samaaysay farxad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "shaqadaada"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "shqooyinka"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "waan ku raalli-qaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:13.422345310Z",
+  "model": "glm-5.3"
+}

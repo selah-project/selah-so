@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Doondoona Yahweh iyo xoaggiisa, wajigiisa mar walba ka doondoonaa.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Doondoona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "iyo xoaggiisa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ka doondoonaa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mar walba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.181615196Z",
+  "model": "glm-5.3"
+}

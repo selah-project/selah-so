@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaa Yahweh leh badbaadada; barakadaada waxay ku tegtay ⟨shaabigaaga⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "shaabigaaga"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "barakadaada"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:28:58.267179520Z",
+  "model": "glm-5.3"
+}

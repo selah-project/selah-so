@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yooax ina kiis, Iddo ina kiis, Zerax ina kiis, Yeataray ina kiis.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "Yooax"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Iddo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerax"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "Yeataray"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:52.082082951Z",
+  "model": "glm-5.3"
+}

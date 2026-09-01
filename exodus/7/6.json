@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Muuse iyo Aharonna way sameeyeen sida Yahweh uu u amray; sidaas bayna sameeyeen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "way sameeyeen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aharonna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse iyo Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bayna sameeyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:00.024326062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Shaa'uul wuxuu u diray Yishay inuu yidhaahdo: Ha ahaado Daawid hortayda fadhiye, waayo wuu ii helay ucunnad ⟨iyada illeen⟩ indhahayga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu u diray"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inuu yidhaahdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ha ahaado fadhiye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "wuu ii helay"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ucunnad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:04.431611168Z",
+  "model": "glm-5.3"
+}

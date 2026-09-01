@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Oo hodorkaaga u horreey, fuul (faras) sabool socodkelin; ereyta runta iyo is-hoosaynta iyo caddaaladda darteed; oo gacantaada midigta waxay kuu sheegaysaa wax yaal cabsi leh.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "oo hodorkaaga"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "u horreey"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "fuul (faras)"
+    },
+    {
+      "surface": "על",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyta"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "runta"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "iyo is-hoosaynta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "iyo caddaaladda"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "gacantaada midigta"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "wax yaal cabsi leh"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kuu sheegaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:19.928198699Z",
+  "model": "glm-5.3"
+}

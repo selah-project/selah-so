@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Oo dhinacyada hal danaboodasha ah waa laba-iyo-toban dhegan oo barxad-dhacaal ah; tiirarkoodana saddex, aasaasaskoodana saddex.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "Oo laba-iyo-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhegan"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "barxad-dhacaal ah"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "dhinaca (hal danaboodasha)"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "tiirarkoodana"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "aasaasaskoodana"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:08.139471275Z",
+  "model": "glm-5.3"
+}

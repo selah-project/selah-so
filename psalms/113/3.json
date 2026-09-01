@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Laga bilaabo soo-bixidda qoraxda ilaa galitaankeeda, waa la ammaanaa magaca Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Laga bilaabo soo-bixidda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "galitaankeeda"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "waa la ammaanaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:43.230765704Z",
+  "model": "glm-5.3"
+}

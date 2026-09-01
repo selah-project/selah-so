@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Sidaas daraadda siduu kaluu odhan Adonay Yahweh: Maadaama aad ilowday ⟨את⟩ aniga, oo aad iga ridday gadaashaaga, adigana qaad zimmadaada iyo ⟨את⟩ zinadaada.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sidaas daraadda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "siduu kaluu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Maadaama"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "aad ilowday"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga (Yahweh)"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "oo aad iga ridday"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "aniga (Yahweh)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gadaasha"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "gadaashaaga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "adigana"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga",
+      "marks": "adiga (magac-u-yaal H859)"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "zimmadaada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zinadaada"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "zinadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:33:11.594872362Z",
+  "model": "glm-5.3"
+}

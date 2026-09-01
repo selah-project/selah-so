@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Adiga waan ku gudbeyaa allabbari mahadda, oo magaca Yahweh waan u dhawaaqayaa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "waan ku gudbeyaa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabbari"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "mahadda"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "oo magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan u dhawaaqayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:09.985514905Z",
+  "model": "glm-5.3"
+}

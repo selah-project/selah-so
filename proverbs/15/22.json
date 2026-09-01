@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Qorsiyadu way jebiyaan marka shir-ficil la'aan tahay, laakiin tiro badan oo taliye ah waa la istaagiyaa.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "way jebiyaan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "qorsiyadu"
+    },
+    {
+      "surface": "באין",
+      "gloss": "marka ... la'aan tahay"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "shir-ficil"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "laakiin tiro badan"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "oo taliye ah"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "waa la istaagiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:43.445989049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Hebel habaal wuxuu yidhi Kohelet, hebel habaal, wax kastaa ⟨waa⟩ hebel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "habaal"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "habaal"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "wax kastaa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:38.457385954Z",
+  "model": "glm-5.3"
+}

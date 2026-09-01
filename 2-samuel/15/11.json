@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Iyo ⟨את⟩ Abshalom waxay la tegeen laba boqol oo nin ah oo ka soo jeeda Yeruushaalaym, la casuubaya, iyagoo si fudud (falanqayn la'aan) u socda, kuma yaqiinin waxba oo ah wareeggii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "waxay la tegeen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "laba boqol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "la casuubaya"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "iyagoo socda"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "si fudud (falanqayn la'aan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yaqiinin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wareeggii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:56.882928774Z",
+  "model": "glm-5.3"
+}

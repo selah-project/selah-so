@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Adiga waxaad furtay ilaha iyo webiyada gaaban; Adiga waad engejisay webiyada waaweyn.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "waxaad furtay"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "iyo webiyada gaaban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "waad engejisay"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "waaweyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:02.424774494Z",
+  "model": "glm-5.3"
+}

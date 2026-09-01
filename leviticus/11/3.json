@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Mid kasta oo cabbir qaybiya oo dhan qaybsan cabbirrada, oo gal soo marinaya — xayawaankaas ⟨את⟩ ayaa la cuni karaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "cabbir qaybiya"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "cabbir"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "oo dhan qaybsan"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "qaybsan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "cabbirrada"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "soo marinaysa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gal"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "xayawaankaas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ayaa la cuni karaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:27.509198933Z",
+  "model": "glm-5.3"
+}

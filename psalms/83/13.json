@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Kuwaas oo yidhi, Aannu la qabsanno nidaamyada daaqsinka ee Elohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kuwaas oo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "aannu la qabsanno"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nidaamyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nidaamyada daaqsinka ee Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "daaqsinka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:23.449397576Z",
+  "model": "glm-5.3"
+}

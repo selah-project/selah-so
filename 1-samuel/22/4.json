@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuuna u hoggaamiyay ⟨את⟩ wejiya boqorka Muwaab, waxayna la dhaafeen isaga dhammaan maalmaha uu Daawuut ku jiray xarunta adag.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "wuxuuna u hoggaamiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejiya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muwaab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "waxayna la dhaafeen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "היות",
+      "gloss": "uu ahaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuut"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "xarunta adag"
+    }
+  ],
+  "timestamp": "2026-09-01T08:21:28.435417845Z",
+  "model": "glm-5.3"
+}

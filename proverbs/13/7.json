@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waa jira mid iska dhigaya hodan ah aan waxba lahayn, iyo mid iska dhigaya sabool ah oo hanti badan leh.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "waa jira"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "mid iska dhigaya hodan ah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxba"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "mid iska dhigaya sabool ah"
+    },
+    {
+      "surface": "והון",
+      "gloss": "oo hanti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.506508275Z",
+  "model": "glm-5.3"
+}

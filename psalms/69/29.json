@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Laga tirtiro buugga nolosha, oo la sokady ha la korin sida kuwa suubsan.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "laga tirtiro"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo la sodata"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "kuwa suubsan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "la korin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:50.636200585Z",
+  "model": "glm-5.3"
+}

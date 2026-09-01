@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxayna odhan doonaan: Sababtoo ah waxay iska tegeen ⟨את⟩ ballankii Yahweh Elohimkood, waxayna sujuudeen ilaaho kale, waxayna caabudeen.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "waxayna odhan doonaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababtoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ah"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "waxay iska tegeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballankii"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballankii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkood"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "waxayna sujuudeen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ilaaho"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "waxayna caabudeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:35.245443037Z",
+  "model": "glm-5.3"
+}

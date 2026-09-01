@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ereyada Yirmiyaahu ina Khilqiyaahu, ka mid ah waaya-dhaqankiis (kohanniintii) kuwaas oo ku noolaa ⟨oo⟩ Anathoth, dhulka Binyaamiin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ereyada"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilqiyaahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "waaya-dhaqankiis (kohanniintii)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨oo⟩ ku noolaa"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:30.725078268Z",
+  "model": "glm-5.3"
+}

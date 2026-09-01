@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waa maxay? Waayo, waa silsilad dheeraad ah oo khesed (raxmad) waxay noqonayaan madaxaaga, iyo hunguryo (qalab naqsi) leh cunahaaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "silsilad dheeraad ah"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khesed (raxmad)"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waxay noqonayaan"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "madaxaaga"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "iyo hunguryo (qalab naqsi) leh"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "cunahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:42.943659777Z",
+  "model": "glm-5.3"
+}

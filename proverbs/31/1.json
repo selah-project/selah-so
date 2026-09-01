@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Ereyadii Lemu'el boqorkii, warka culus oo hooyadiis u diiddayso.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ereyadii"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemu'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "משא",
+      "gloss": "warka culus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "u diiddayso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:48.154374282Z",
+  "model": "glm-5.3"
+}

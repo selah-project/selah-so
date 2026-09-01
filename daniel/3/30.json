@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markaasaa boqorkii Shadrakh, Meyshakh iyo Abed-Negoo ku hormuuriyay ⟨gudaha⟩ dalka Baabilon.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Markaasaa"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "wuu ku hormuuriyay"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Negoo"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabilon"
+    }
+  ],
+  "timestamp": "2026-09-01T06:05:50.790569283Z",
+  "model": "glm-5.3"
+}

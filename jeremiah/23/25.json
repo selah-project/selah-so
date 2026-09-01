@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaan maqlay ⟨את⟩ waxa nebiyada ku dhaheen, iyagoo magacayga ku nebiya beenta, iyagoo leh: Riyo baan arkay, riyo baan arkay.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "waxaan maqlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ku dhaheen"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "iyagoo nebiya"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "magacayga ku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "riyo baan arkay"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "riyo baan arkay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:24.616569272Z",
+  "model": "glm-5.3"
+}

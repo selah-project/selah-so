@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna ka bixin doonaa qurbaankiisa — ishshi (wax la gubo) oo ah Yahweh — ⟨את⟩ baruurta daboolaysa ⟨את⟩ beerka iyo ⟨את⟩ dhammaan baruurta ku taal beerka.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuuna bixin doonaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka (qurbaanka ka mid ah)"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurbaankiisa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ishshi (wax la gubo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta daboolaysa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "daboolaysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beerka"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "beerka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan baruurta ku taal beerka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku taal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "beerka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:10.743941038Z",
+  "model": "glm-5.3"
+}

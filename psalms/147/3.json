@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "(Kan) geneysa jebiyey qalbiga, oo xirxaaraha dhaawacyada ayuu ku xiriyaa.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "(Kan) geneysa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "jebiyey — kuwa jebban"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "oo ku xiriya dhaawacyada"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "xumida\/kacsanaanta — maraakiibta xanuunka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.900759229Z",
+  "model": "glm-5.3"
+}

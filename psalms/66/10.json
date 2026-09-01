@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waayo, Adiga waxaad nagu tijaabisay, Elohimyo; waad na saaffisay sida lacagta la saaffiyo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "waxaad nagu tijaabisay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimyo"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "waad na saaffisay"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "sida la saaffiyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacagta (fiddo)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:05.387824218Z",
+  "model": "glm-5.3"
+}

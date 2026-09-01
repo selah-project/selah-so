@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Gacmahayagana waan qaadhi ilaa amarradaaga, oo aan jeclahay, waana ka fekeri qawaankaaga.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "waan qaadhi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahayaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aan jeclahay"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "waana ka fekeri"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "qawaankaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:06.223122034Z",
+  "model": "glm-5.3"
+}

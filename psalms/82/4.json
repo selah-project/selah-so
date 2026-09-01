@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 82,
+  "translation": "Ka badbaadiya dhaafoorta iyo baahida; gacanta shar-geeyayaasha ka wareejiya.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "ka badbaadiya"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dhaafoorta"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo baahida"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-geeyayaasha"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ka wareejiya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:55.334829374Z",
+  "model": "glm-5.3"
+}

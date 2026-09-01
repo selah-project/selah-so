@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sheem wuxuu noolaa markuu dhashay ⟨את⟩ Arfaksad ka dibshan laba boqol iyo konton sanad, wuxuuna dhashtay wiilal iyo gabdho.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dibshan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "markuu dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arfaksad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arfaksad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "konton"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "laba boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhashtay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdho"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:27.512823548Z",
+  "model": "glm-5.3"
+}

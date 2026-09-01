@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Kanna waa xujo kuu ah ⟨את⟩ xagga Yahweh, in Yahweh sameyn doono ⟨את⟩ eraygan uu sheegay.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kanna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu ah"
+    },
+    {
+      "surface": "האות",
+      "gloss": "xujo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sameyn doono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eraygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eraygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sheegay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:04.206183707Z",
+  "model": "glm-5.3"
+}

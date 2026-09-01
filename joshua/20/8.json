@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo ka gudbay webiga Yarden, Yeriixo agteeda bari, waxay siyeen ⟨את⟩ Beeser miyiga, bananka, qabiilada Re'uven ka mid ah, iyo ⟨את⟩ Raamot Gil'ad ka mid ah qabiilada Gad, iyo ⟨את⟩ Golan Bashan, qabiilada Menasheh ka mid ah.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "oo ka gudbay"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "webiga Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriixo"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "bari"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay siyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beeser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Beeser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "miyiga"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "bananka"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "qabiilada ... ka mid ah"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "qabiilada ... ka mid ah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "qabiilada ... ka mid ah"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:27:29.769821935Z",
+  "model": "glm-5.3"
+}

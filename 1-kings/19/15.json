@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Yahwehna wuxuu yidhi isagii: Tag, jidkaaga ku noqo keyladka Damesaq, markaad timaaddana subi ⟨את⟩ Chazael boqor uu ka noqdaan Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isagii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ku noqo"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "jidkaaga"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "keyladka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesaq"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "markaad timaad"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "subi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:11.513261450Z",
+  "model": "glm-5.3"
+}

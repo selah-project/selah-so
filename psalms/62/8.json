@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Elohim dushiisa waa badbaadaydii iyo ammaantaydii; dhagaxa awooddaydii, magangalyadaydii — waa Elohim ⟨dushiisa⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dushiisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadaydii"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "iyo ammaantaydii"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "awooddaydii"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangalyadaydii"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim (gudihiisa)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:46.348652442Z",
+  "model": "glm-5.3"
+}

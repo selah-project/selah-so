@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuuna keentay ⟨את⟩ waxa quduska ahaa ee aabihii iyo waxa quduska ahaa ee isaga guriga Elohim — lacag iyo dahab iyo wahyo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wuxuuna keentay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa quduska ahaa ee aabihii"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "waxa quduska ahaa ee aabihii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "iyo waxa quduska ahaa ee isaga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "iyo wahyo"
+    }
+  ],
+  "timestamp": "2026-09-01T06:39:35.401998220Z",
+  "model": "glm-5.3"
+}

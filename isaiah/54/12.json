@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Waxaan ka dhigayaa oo dhegago daahaagii qalal (kadkod-ruby), iriddaagana dhagaxyo dab-qabsan (ekdah-carbuncle), iyo dhulkaaga dhan dhagaxyo la doonayo (qurux badan).",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Waxaan ka dhigayaa"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "qalal (kadkod-ruby)"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "dhegago daahaagii"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "iriddaagana"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "dab-qabsan (ekdah-carbuncle)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... dhan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "dhulkaaga"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "la doonayo (qurux badan)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:05.491097950Z",
+  "model": "glm-5.3"
+}

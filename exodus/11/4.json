@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Muusena wuxuu yidhi: Sidaas ayuu Yahweh yidhaahdee: Habeenka markay dhexdheeranto baan bixinayaa dhexda Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusena"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhaahdee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "markay dhexdheeranto"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "Habeenka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "bixinayaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:28.818527457Z",
+  "model": "glm-5.3"
+}

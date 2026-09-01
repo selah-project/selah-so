@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "iyo Shemida, qoysaskii Shemidai; iyo Xefer, qoysaskii Xeferi.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "iyo Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoysaskii"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Shemidai"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "iyo Xefer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoysaskii"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Xeferi"
+    }
+  ],
+  "timestamp": "2026-09-01T01:54:57.550059991Z",
+  "model": "glm-5.3"
+}

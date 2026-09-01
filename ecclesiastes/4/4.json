@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaan arkay aniga ⟨את⟩ dhammaan himilada iyo ⟨את⟩ dhammaan guusha shuqulka, waayo waa xasad nin saaxiibkiis ka qabo; kanuna waa hebel iyo dan-beel ruux.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan himilada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "himilada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan guusha shuqulka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "guusha"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "xasadda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "saaxiibkiis ka qabo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "(kanuna)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo dan-beel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.866908738Z",
+  "model": "glm-5.3"
+}

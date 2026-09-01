@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Muusena wuxuu yidhi: Waan iili doonaa, waxaanan arkayaa ⟨את⟩ muuqaalka weyn ee kan — maxay tahay inuu qoodhku aanan guban?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Waan iili doonaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "arkayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muuqaalka weyn"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "muuqaalka"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ee kan"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxay tahay inuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "guban"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "qoodhku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:50.806535031Z",
+  "model": "glm-5.3"
+}

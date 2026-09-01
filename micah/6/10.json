@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ma weli ⟨jiraan⟩ khasnaado shar ah gurigii sharafta la'-ka, iyo eefad khafiif oo naqhuMid?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharafta la'-ka"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "khasnaado"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "iyo eefad"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "khafiif (qiya-yar)"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "naqhuMid"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:58.447191894Z",
+  "model": "glm-5.3"
+}

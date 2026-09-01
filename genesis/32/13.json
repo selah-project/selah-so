@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Adiguna waxaad dhigtay: hubaal waan ku wanaajinayaa, oo ⟨את⟩ zarcaaga waan dhigi sida ciidda badda, oo aan tirin karin badnaanta darteed.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguna"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "waxaad dhigtay"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "hubaal wanaajin"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "waan wanaajinayaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "oo waan dhigi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarcaaga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zarcaaga"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sida ciidda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "tirin karin"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "badnaanta darteed"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:23.055461832Z",
+  "model": "glm-5.3"
+}

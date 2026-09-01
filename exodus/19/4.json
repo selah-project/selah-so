@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Adiguba waad aragteen waxaan Mitsrayim ku sameeyay, idinkana waan idin siday baalasha shinniyo dhaadheer, idinkana waan idin keenay xaggayga.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Adiguba"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "waad aragteen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxaan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ku sameeyay"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "waan idin siday"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "על",
+      "gloss": "baalasha"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baalasha"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "shinniyo dhaadheer"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "waan idin keenay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "xaggayga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:10.803092753Z",
+  "model": "glm-5.3"
+}

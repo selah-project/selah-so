@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oohin ayaa khamrida ku taal wadooyinka; farxaddu oo dhan way madoobaatay, itaalka dhulka waa la tegey.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "oohin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku taal"
+    },
+    {
+      "surface": "היין",
+      "gloss": "khamrida"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "wadooyinka"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "way madoobaatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farxaddu"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "waa la tegey"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "itaalka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:58.459658749Z",
+  "model": "glm-5.3"
+}

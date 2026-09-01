@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Sidaas daraaddeed bar na maalmahaenna inaan tirinno, si aan u helno qalbiga xikmada.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "in la tirinno"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "maalmahaenna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "na bar"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "aan u helno"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:35.561687900Z",
+  "model": "glm-5.3"
+}

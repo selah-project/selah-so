@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Sidaas baan dib ugu noqday; waanan qorsheeyay maalmahan inaan ⟨את⟩ Yeruushaalaym u samaanno iyo ⟨את⟩ beytkii Yehuudah; ha cabsatanna.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "baan dib ugu noqday"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "waanan qorsheeyay"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmahan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "maalmahan"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "inaan u samaanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beytkii Yehuudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beytkii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "cabsatanna"
+    }
+  ],
+  "timestamp": "2026-09-01T07:28:22.287998586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kuwa la tirsaday ee qabiilka Zabuulun waxay ahaayeen ⟨waxay ahaayeen⟩ toddoba iyo konton kun iyo afar boqol.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "kuwa la tirsaday"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zabuulun"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo konton"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "iyo afar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:05.092231893Z",
+  "model": "glm-5.3"
+}

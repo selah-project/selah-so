@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Wuu nabad ku xoreeyay nafkayda ⟨kan⟩ ii dhowaa, waayo dad badan bay ahaayeen ⟨kuwa⟩ ⟨ii⟩ la jiray.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Wuu xoreeyay"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nabad ku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafkayda"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "⟨kan⟩ ii dhowaa ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "dad badan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bay ahaayeen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "la jiray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:10.981343177Z",
+  "model": "glm-5.3"
+}

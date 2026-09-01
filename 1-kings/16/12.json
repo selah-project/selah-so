@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Sidaasuu Zimri u baabbiyay ⟨את⟩ qoyska dhan ee Baasha, sida hadalka Yahweh ee uu ku yidhi Baasha, gacanta Yehuu nebiga ah.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "u baabbiyay"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoyska dhan ee Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida hadalka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:48.456734438Z",
+  "model": "glm-5.3"
+}

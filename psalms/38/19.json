@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waxaan sheegayaa duniddayda, waan walbahaarayaa dembigayga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaan sheegayaa (maxaa yeelay)"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "duniddayda"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "waan sheegayaa"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "waan walbahaarayaa"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "dembigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.235448364Z",
+  "model": "glm-5.3"
+}

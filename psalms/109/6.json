@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Dharee ruuxa sharr korkiisa, oo ha-satan taago midigta kiisa.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Dharee"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ruuxa sharr"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "oo ha-satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "taago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "midigta kiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:03.221161910Z",
+  "model": "glm-5.3"
+}

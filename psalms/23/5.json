@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaad hortayda ku diyaarisaa ⟨את⟩ miis hortooda cadowdayday; waad salaamisay madaxayga saliidda; koobigayuna waa dherer.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "wad diyaarisaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "miis"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "cadowdayday"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "waad salaamisay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxayga"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "koobigayuna"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "waa dherer"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:07.284334719Z",
+  "model": "glm-5.3"
+}

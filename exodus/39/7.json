@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Wuxuuna dhigay ⟨את⟩ waxaas ku dhex shaqaaleeyay garabaha afudda — dhagaxyo xusuusta ah oo u ah reer binu-Israa'iil, sida Yahweh u amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wuxuuna dhigay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waxaas (dhagaxyada)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex shaqaaleeyay"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "garabaha"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "afudda"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xusuusta ah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "u ah reer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "binu-Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:04.928863629Z",
+  "model": "glm-5.3"
+}

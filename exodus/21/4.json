@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Haddii sayidiisu naag siiyo, oo ay dhasho wiilal ama gabdho, naagta iyo carruurteedu waa sayidkeed noqon doonaan, isaguna wuu baxsan doonaa naag la'aan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sayidiisu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "siiyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "oo ay dhasho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdho"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "iyo carruurteedu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waa ... noqon doonaan"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "sayidkeed"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isaguna"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wuu baxsan doonaa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "naag la'aan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:38.121690588Z",
+  "model": "glm-5.3"
+}

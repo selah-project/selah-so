@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Way maqnaan doonaan oo way argagax doonaan si aad ah dhammaan cadowdayda; way dib u noqon doonaan, waqtigaba way maqnaan doonaan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Way maqnaan doonaan"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "oo way argagax doonaan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad ah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "way dib u noqon doonaan"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "way maqnaan doonaan"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "waqtigaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:21.879081648Z",
+  "model": "glm-5.3"
+}

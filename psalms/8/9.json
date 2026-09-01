@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Shimbiraha samada iyo kalluunka badda, iyo wax kasta oo dhan mara jidadka badda.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Shimbiraha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "iyo kalluunka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oo dhan mara"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:02.338425768Z",
+  "model": "glm-5.3"
+}

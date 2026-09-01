@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Ka soo bixi xabsiga nafsadayda si aan ugu ammaano ⟨את⟩ magacaaga; waqtigaas garab ku noolayaashiin i dhexdana hoolan doonaan, waayo adiga baa ii wanaagsan.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Ka soo bixi"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "xabsiga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsadayda"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "si aan ugu ammaano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacaaga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i dhexdana"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "hoolan doonaan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "garab ku noolayaashiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "ii wanaagsan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:55.501096665Z",
+  "model": "glm-5.3"
+}

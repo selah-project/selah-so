@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Wuxuu diray ereeggiisa oo wuu bogsiiyay, waxayna ka badbaadinay burburkoodii.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wuxuu diray"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ereeggiisa"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "oo wuu bogsiiyay"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "waxayna ka badbaadinay"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "burburkoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:59.494277412Z",
+  "model": "glm-5.3"
+}

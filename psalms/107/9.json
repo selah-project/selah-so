@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Wuxuu dhoohay nafta baahdata, nafana gaajaysata wuxuu ku buuxiyay wanaag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wuxuu dhoohay"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "dhoohay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "baahdata"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "iyo naf"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "gaajaysata"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "buuxiyay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:23.388093878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waayo, addoomadayd ay yihiin, aanan ka soo saaray ⟨את⟩ dalka Mitsrayim; sida iibinta addoon lama iibiyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoomadayd"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay yihiin (waa)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ka soo saaray"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dalka Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dalka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "lama iibiyo"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "iibinta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "addoon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:47.286153687Z",
+  "model": "glm-5.3"
+}

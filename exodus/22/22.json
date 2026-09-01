@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii aad runtii dulayso ⟨את⟩ isaga, haddii uu runtii iigu qaylooyo, waan runtii maqli qayladiisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "aad dulayso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "uu qaylooyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "waan maqli"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "qayladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:51.317879016Z",
+  "model": "glm-5.3"
+}

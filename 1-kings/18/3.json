@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Axabna wuxuu u yeeray Cabdiyaahu, kan guriga koreeya, Cabdiyaahuna wuxuu ahaa mid Yahweh ka cabsi badan.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "wuxuu u yeeray"
+    },
+    {
+      "surface": "אַחְאָב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…u"
+    },
+    {
+      "surface": "עֹבַדְיָהוּ",
+      "gloss": "Cabdiyaahu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…koreeya"
+    },
+    {
+      "surface": "הַבָּיִת",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "וְעֹבַדְיָהוּ",
+      "gloss": "Cabdiyaahuna"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "mid ka cabsi badan"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "…badan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:46.846445476Z",
+  "model": "glm-5.3"
+}

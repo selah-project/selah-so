@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Ha cadhoonin si aad u daran yahow Yahweh, hana xasuusan weligiis dulli; bal fiiri, annaga oo dhan qoomkaaga ayaa nu nahay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "cadhoonin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yahow Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u daran"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hana"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "xasuusan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dulli"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bal"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "fiiri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "annaga oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:58:12.357197827Z",
+  "model": "glm-5.3"
+}

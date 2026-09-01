@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Dhegeysta, samooyinkow, waan hadli doonaa; dhulkuna ha maqlo erayada afayga.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Dhegeysta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samooyinkow"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "waan hadli doonaa"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ha maqlo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuna"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afayga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:05.961019319Z",
+  "model": "glm-5.3"
+}

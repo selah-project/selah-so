@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu yidhi: Markaad dhunkataan ⟨את⟩ Haweenkii Cibraaniga ah oo aad aragtaan ⟨saanduufta dhalashada⟩, hadduu wiil yahay waxaad dishaan, hadday gabar tahayse ha noolaato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "Markaad dhunkataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haweenkii Cibraaniga ah"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "Haweenkii Cibraaniga ah"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "aad aragtaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "saanduufta dhalashada (ku saaran)"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "saanduufta dhalashada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yahay"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "waxaad dishaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wiilka (isaga)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hadday"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tahayse"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ha noolaato"
+    }
+  ],
+  "timestamp": "2026-09-01T08:12:51.573905714Z",
+  "model": "glm-5.3"
+}

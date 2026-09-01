@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxayna tidhi: Codsi yar oo keliya baa aniga kaa weydiinayaa; ha celin ⟨את⟩ wajigayga. Boqorkii wuxuu ku yidhi: Weydii, hooyaday, waayo ⟨את⟩ wajigaaga ma celinayo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "codsi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "yar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kaa weydiinayaa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "celin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigayga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "weydii"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "celinayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajigaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:10:18.099799257Z",
+  "model": "glm-5.3"
+}

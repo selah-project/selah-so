@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Laakiin qof ha dagaallamin, iyo qof ha canaantamin, waayo, shacabkaagu waxay la mid yihiin kuwa la dagaallamaya oo ah wadaaddada.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "dagaallamin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ha"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "canaantamin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "shacabkaagu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "kuwa la dagaallamaya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaaddada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:48.146764459Z",
+  "model": "glm-5.3"
+}

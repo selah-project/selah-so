@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "iyo ⟨את⟩ Bosmath gabadhi Yishmael oo ah walaasheed Nbayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhi"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "oo ah walaasheed"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nbayot"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:48.909496391Z",
+  "model": "glm-5.3"
+}

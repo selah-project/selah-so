@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Sida riyo marka qof toosayo, Adonay, markaad soo toosiso, waxaad naartaan sawirkooda.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "sida riyo"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "marka qof toosayo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "markaad soo toosiso"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "sawirkooda"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "waxaad naartaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:54.375335785Z",
+  "model": "glm-5.3"
+}

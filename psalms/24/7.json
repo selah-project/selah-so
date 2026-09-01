@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Iriddow, qaada madaxyadiinna, oo la qaada iddaha weligood jira, oo boqorka ammaanku ha yimaado.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "qaada"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "iriddow"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "madaxyadiinna"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "la qaada"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "iddaha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood jira"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ha yimaado"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ammaanku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:22.796823072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Dembigii Yarab'am oo uu dembi galay, oo uu uga galay dembi ⟨את⟩ Israa'iil, iyo cadhaddeydii uu ku cadhaystay ⟨את⟩ Yahweh, Eloahay Israa'iil, dartii.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "Dembigii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarab'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "uu dembi galay"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "uu uga galay dembi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "cadhaddeydii uu ku cadhaystay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "uu ku cadhaystay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:04.908722195Z",
+  "model": "glm-5.3"
+}

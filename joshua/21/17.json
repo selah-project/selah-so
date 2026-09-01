@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo qabiilkii Binjamin ka mid ah: ⟨את⟩ Gibcoon iyo ⟨את⟩ beerkeedii, ⟨את⟩ Gebaca iyo ⟨את⟩ beerkeedii.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qabiilkii ka mid ah"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibcoon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibcoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebaca"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebaca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:37.742694173Z",
+  "model": "glm-5.3"
+}

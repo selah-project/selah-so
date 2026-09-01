@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo kan dilo ama wareejiya aabbihis ama hooyadiis, hubaal waa la dili doonaa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kan dilo ama wareejiya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihis"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ama hooyadiis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hubaal waa la dili doonaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dili doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:13.753143036Z",
+  "model": "glm-5.3"
+}

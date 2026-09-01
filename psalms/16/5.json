@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Yahweh waa ⟨qaybta⟩ muunadaaday iyo finjankaaga; adigaa taageeraya qismaddayda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "muunadaaday"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "iyo finjankaaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "taageeraya"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "qismaddayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:03.814177261Z",
+  "model": "glm-5.3"
+}

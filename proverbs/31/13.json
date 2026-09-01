@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay doondoonaysaa dhogor iyo lin, waxayna ku shaqeysaa farxad gacmaheeda.",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "waxay doondoonaysaa"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "dhogor"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "iyo lin"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "waxayna shaqeysaa"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "gacmaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:37.751620450Z",
+  "model": "glm-5.3"
+}

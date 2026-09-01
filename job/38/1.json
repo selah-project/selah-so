@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Markaasaa Yahweh ka jawaabay ⟨את⟩ Ayuub dhexdii onkoddayda, wuxuuna yidhi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Markaasaa ka jawaabay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayuub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "dhexdii"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "onkoddayda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:18.888958768Z",
+  "model": "glm-5.3"
+}

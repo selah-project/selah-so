@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Waxay dabka ku shubeen macbadkaaga; dhulka ayay hoos u dhigeen, waxay wasakhaysiyeen hoyga Magacaaga.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "waxay ku shubeen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "macbadkaaga"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "waxay wasakhaysiyeen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "hoyga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:57.040849609Z",
+  "model": "glm-5.3"
+}

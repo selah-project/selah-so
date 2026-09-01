@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo waxay ku goosiyeen ⟨markay⟩ waxay baabi'iyeen ⟨את⟩ midhaha dhulka ilaa meeshaad Gaaza ka gudubto, oo waxay ka reebi maayin wax nololeed Israa'iil gudaheed — iido iyo lo' iyo dameer.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "waxay ku goosiyeen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨markay⟩"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "waxay baabi'iyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaha dhulka"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "midhaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "meeshaad... ka gudubto"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ay reebin"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "waxay ka reebi"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "wax nololeed"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil gudaheed"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "iido"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "iyo lo'"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "iyo dameer"
+    }
+  ],
+  "timestamp": "2026-09-01T02:32:00.584235904Z",
+  "model": "glm-5.3"
+}

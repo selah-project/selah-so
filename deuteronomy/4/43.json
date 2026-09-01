@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waa ⟨את⟩ Betser ee lamadegga, dhulka miyiga, ee reer Ruubeen; iyo ⟨את⟩ Raamoth ee Gilcad ee reer Gaad; iyo ⟨את⟩ Golaan ee Bashan ee reer Menashe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ee lamadegga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "miyiga"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ee reer Ruubeen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Raamoth"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ee Gilcad"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "ee reer Gaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Golaan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golaan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ee Bashan"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "ee reer Menashe"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:52.603039642Z",
+  "model": "glm-5.3"
+}

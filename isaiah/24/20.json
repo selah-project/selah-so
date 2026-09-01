@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Dhulku wuu dhadhamiyaa madhaqaaqaa sidii sakhraan, wuuna dhaq-dhaqaaqayaa sidii khaymad, caasiyadiisuna waa culays korkiisa ka saaran, wuuna dhici, oo mar dambe ma u sii kici doonto.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "dhaqaaq"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "madhaqaaqayaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "sidii sakhraan"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "wuuna dhaq-dhaqaaqayaa"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "sidii khaymad"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "waa culays"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "korkiisa ka saaran"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "caasiyadiisa"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "wuuna dhici"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "mar dambe ... u sii"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kici doonto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:51.160617105Z",
+  "model": "glm-5.3"
+}

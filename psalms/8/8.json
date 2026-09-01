@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Adhi iyo lo', dhammaantood, iyo xayawaanka beeraha.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "iyo lo'"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dhammaantood"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo xataa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "xayawaanka"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.434320939Z",
+  "model": "glm-5.3"
+}

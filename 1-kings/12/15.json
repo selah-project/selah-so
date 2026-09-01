@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Boqorkii weligiis ma dhegeysan dadka, waayo waxaa jiray tallaabo laga soo yeeshay Yahweh, si uu u oofiyo ⟨את⟩ ereykiisii uu yidhi Yahweh gacanta Axiyah-ka Shiloni-ka ah Yerobeam in bin Nebat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "weligiis ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhegeysan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waxaa jiray"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "tallaabo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "laga soo yeeshay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si uu u"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "oofiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereykiisii"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ereykiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiyah-ka"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Shiloni-ka ah"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:45.211990420Z",
+  "model": "glm-5.3"
+}

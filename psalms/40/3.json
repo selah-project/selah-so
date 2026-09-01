@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuuna ii soo saaray godka qaraxa (qalfoofka cadceeda), wuuna istaagiyay cagahayga dhagax sare, wuuna adkeeyay tallaabadayda.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "wuuna ii soo saaray"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "godka"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "qaraxa"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "(qalfoofka cadceeda)"
+    },
+    {
+      "surface": "היון",
+      "gloss": "—"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wuuna istaagiyay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dhagax sare"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wuuna adkeeyay"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "tallaabadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.727681583Z",
+  "model": "glm-5.3"
+}

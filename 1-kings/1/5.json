@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Adoniyahu ina Xaggith isu sarreeyey oo yidhi, Aniga waan boqorsanayaa; oo wuxuu u sameeyay gaari iyo fardooleeyo iyo konton nin oraaya hortiisa.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Oo Adoniyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Xaggith"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "isu sarreeyey"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo yidhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "waan boqorsanayaa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "oo wuxuu sameeyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "gaari"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "iyo fardooleeyo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iyo konton"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "oraaya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:49.691849249Z",
+  "model": "glm-5.3"
+}

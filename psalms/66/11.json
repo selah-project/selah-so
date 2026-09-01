@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waxaad na keentay shabakadda guduheeda; waxaad dhigtay culeys (dhibaato) sunamaha nadheexda",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Waxaad na keentay"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "shabakadda guduheeda"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "waxaad dhigtay"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "culeys (dhibaato)"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "sunamaha nadheexda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:05.388141883Z",
+  "model": "glm-5.3"
+}

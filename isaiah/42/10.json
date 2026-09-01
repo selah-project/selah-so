@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Heesa Yahweh hees cusub, ammaantiisana ka geeya dhulka darafkiisa; kuwa calool-mararka badda iyo waxa ku dhex jira, jasiiradaha iyo degganayaashooda.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "heesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "darafkiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kuwa calool-mararka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "iyo waxa ku dhex jira"
+    },
+    {
+      "surface": "איים",
+      "gloss": "jasiiradaha"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "iyo degganayaashooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:41.579879666Z",
+  "model": "glm-5.3"
+}

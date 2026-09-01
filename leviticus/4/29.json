@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna saari doonaa gacantiisa ⟨את⟩ madaxa dambi-qurbiga, wuxuuna gowracaa ⟨את⟩ dambi-qurbiga meesha la gowraco qurbo-gubidda.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "wuxuuna saari doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantiisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dambi-qurbiga"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wuxuuna gowracaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambi-qurbiga"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dambi-qurbiga"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qurbo-gubidda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:09.951672543Z",
+  "model": "glm-5.3"
+}

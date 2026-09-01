@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Rootii ma cunteen, khamri iyo musqul ma cabbeen, si aad ogaataan in aan anigu Yahweh Elohimkiin ahay.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "cunteen"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "iyo khamri"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "iyo musqul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "cabbeen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "aad ogaataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:21.338423808Z",
+  "model": "glm-5.3"
+}

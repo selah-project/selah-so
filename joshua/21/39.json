@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon iyo ⟨את⟩ dhulkeeda daaqsadeed, ⟨את⟩ Yaazer iyo ⟨את⟩ dhulkeeda daaqsadeed — dhammaan magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:45.375334248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Quruunuhu way ku dhaceen godkii ay sameeyeen; shabakadda ay qariyeen lithii hore bay lugahoodu ku qabaneen.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "way ku dhaceen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruunuhu"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "godkii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ay sameeyeen"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "lithii hore"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ay qariyeen"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "bay ku qabaneen"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "lugahoodu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:49.856823040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo waxaad dumin doontaan ⟨את⟩ allabarigooda, oo waxaad jajjin doontaan ⟨את⟩ tiirarkooda, oo Asheraha waad gubaysaan dhegi, oo sanamyada ilahayaga waad goyn doontaan, oo waxaad baabbiin doontaan ⟨את⟩ magacooda meeshaas.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "waxaad dumin doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabarigooda"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "allabarigooda"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "waxaad jajjin doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarkooda"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiirarkooda"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "Asheraha"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "waad gubaysaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dhegi"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilahayaga"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "waad goyn doontaan"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "waxaad baabbiin doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magacooda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "magacooda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(isaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:10.189504435Z",
+  "model": "glm-5.3"
+}

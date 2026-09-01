@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Dawid iyo ciddii ⟨את⟩ la jirtay waxay kor u qaadeen ⟨את⟩ codkooda oo ay ooyeen, ilaa ay awood ay oostaan aysad helin.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "waxay kor u qaadeen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "iyo ciddii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(kuwa)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la jirtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkooda"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "codkooda"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "oo ay ooyeen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aysad helin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ay ku jirto"
+    },
+    {
+      "surface": "כח",
+      "gloss": "awood"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "inay oostaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:55:14.450145955Z",
+  "model": "glm-5.3"
+}

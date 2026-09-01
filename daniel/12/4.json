@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Adigana, Daaniyeel, ereyada qarso, oo kitaabka daabac ilaa waqtiga goorta; wax badan baa socod-socodi doonaan, aqoontuna way si kordhi doontaa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adigana"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daaniyeel"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "qarso"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "daabac"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kitaabka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "goorta"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "socod-socodi doonaan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wax badan"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "way si kordhi doontaa"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "aqoontuna"
+    }
+  ],
+  "timestamp": "2026-09-01T06:12:29.882228761Z",
+  "model": "glm-5.3"
+}

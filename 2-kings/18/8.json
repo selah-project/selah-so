@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu ka adkaaday ⟨את⟩ Falastiintiin ilaa Gaaza iyo ⟨את⟩ xadkeedii, laga soo bilaabo dhuurta ilaaliyayaasha ilaa magaalada la dhisay.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ka adkaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Falastiintiin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastiintiin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xadkeedii"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "xadkeedii"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "laga soo bilaabo dhuurta"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ilaaliyayaasha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "la dhisay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:12.786961595Z",
+  "model": "glm-5.3"
+}

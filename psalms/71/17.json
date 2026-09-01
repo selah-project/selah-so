@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Elohim, ilaa yaraayd ayaad i baratay, ilaa haddana waan sheegayaa yaabahaaga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ayaad i baratay"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ilaa yaraayd"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "waan sheegayaa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "yaabahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:09.419109908Z",
+  "model": "glm-5.3"
+}

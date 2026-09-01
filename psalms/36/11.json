@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Khesedkaagaa dheerey kuwa kuu yaqaan, oo cadaadintaadaa kuwa qalbiga toosan.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "dheerey"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kuwa kuu yaqaan"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "oo cadaadintaadaa"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga toosan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:49.646695454Z",
+  "model": "glm-5.3"
+}

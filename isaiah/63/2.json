@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Maxay dharkaagu guduud yihiin, oo dhararkaagu sida mid warshadda khamaarka tuuraya oo kale yihiin?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Maxay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "guduud"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "dharkaagu"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "dhararkaagu"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "sida mid tuuraya"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "warshadda khamaarka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:12.209173721Z",
+  "model": "glm-5.3"
+}

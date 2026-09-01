@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Yahweh wuu ilaaliyaa (dhowrayaa) syaamalka (jaahilka da ' ah); ani waan daciifay (hoos u dhacay), oo ii sidaaday.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "wuu ilaaliyaa (dhowrayaa)"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "syaamalka (jaahilka da ' ah)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ani waan daciifay (hoos u dhacay)"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "oo iiga"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "wuu sidaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.105724281Z",
+  "model": "glm-5.3"
+}

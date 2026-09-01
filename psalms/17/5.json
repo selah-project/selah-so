@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Tallada talladaydu way ku sugnaatay dariiqooyinkaaga; cagahayna weligood ma dhugin.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "way ku sugnaatay"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "talladayda"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "dariiqooyinkaaga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "weligood ma"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "dhugin"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "cagahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:44.861545701Z",
+  "model": "glm-5.3"
+}

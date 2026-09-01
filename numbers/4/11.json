@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Miiqaabka dahabka ah waxay ku fidin doonaan dhar buluug ah, waxayna dabooli doonaan ⟨את⟩ (iyaga) dabool maqaar tahash ah, waxayna dhigi doonaan ⟨את⟩ bangarradiisa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "(kor ah)"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "miiqaabka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka ah"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "waxay ku fidin doonaan"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluug ah"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "waxayna dabooli doonaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "miiqaabka dahabka"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "dabool"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaar"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "waxayna dhigi doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangarradiisa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bangarradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:42:12.474990677Z",
+  "model": "glm-5.3"
+}

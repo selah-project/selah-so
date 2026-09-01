@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "kohlankuna wuxuu baxaa guriga ka dib markuu gaadho iridda guriga, wuxuuna xirayaa ⟨את⟩ guriga toddoba maalmood.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuuna baxaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohlankuna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "markuu gaadho"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wuxuuna xirayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:16.341072436Z",
+  "model": "glm-5.3"
+}

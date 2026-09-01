@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Kuwannaa waa kuwii Rapa ku dhashay ee reer Gata, waxayna gacanta Dawid iyo gacanta addoomahiisu ku dhaceen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kuwannaa"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "kuwii ku dhashay"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "Rapa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ee reer Gata"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "waxayna ku dhaceen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomahiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:00.651449162Z",
+  "model": "glm-5.3"
+}

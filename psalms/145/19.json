@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Raalliyinimada (doonista) kuwa cabsada wuu sameeyaa, oo ⟨את⟩ qayladdooda wuu maqlaa, oo wuu badbaadin doonaa.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "raalliyinimo (doonis)"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuwa cabsada"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wuu sameeyaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qayladdooda"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qayladdooda"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wuu maqlaa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "wuu badbaadin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:35.786435670Z",
+  "model": "glm-5.3"
+}

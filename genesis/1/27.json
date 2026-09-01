@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Elohim wuxuu abuuray ⟨את⟩ aadamaha suumaddiisa; suumadda Elohim ayuu abuuray ⟨את⟩ isaga; lab iyo dhedig ayuu abuuray ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "oo wuxuu abuuray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamaha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaha"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "suumaddiisa"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "suumadda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ayuu abuuray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "iyo dhedig"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ayuu abuuray"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:28.442475975Z",
+  "model": "glm-5.3"
+}

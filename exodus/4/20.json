@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Muusena wuxuu qaadaty ⟨את⟩ xaaskiisii iyo ⟨את⟩ wiilashiisii, wuxuuna saaray dameer, wuxuuna ku noqday dhulka Mitsrayim; Muusena wuxuu qaatay ⟨את⟩ ulgacmeedka Elohim gacantiisa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaaskiisii"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaaskiisii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wiilashiisii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "wuxuuna saaray"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (dushooda)"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "dameerka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuuna ku noqday"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulgacmeedka"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ulgacmeedka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:31.494415242Z",
+  "model": "glm-5.3"
+}

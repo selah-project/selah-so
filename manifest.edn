@@ -1,0 +1,104 @@
+#:rendering{:label "Af-Soomaali",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/adjudication
+              :rendering/checks]},
+            :role :served,
+            :produced {:from "2026-09-01", :to "2026-09-01"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "so.v1",
+            :catalog {:ui "resources/i18n/ui/so.edn"},
+            :license "CC BY-SA 4.0 (The Selah Somali Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/so.md",
+             :rails-commit "caf5239b",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonay",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "יה" "Yah",
+              "יהוה" "Yahweh",
+              "שדי" "Shadday"},
+             :open-questions []},
+            :status :live,
+            :adjudication
+            {:chair 50,
+             :note
+             "the fiftieth chair — the jubilee (Leviticus 25:10)"},
+            :checks
+            {:census
+             {:verses 23213,
+              :elohim 1804,
+              :leak-classes 0,
+              :rabbi-human-lawful 8,
+              :yahweh 5797,
+              :sheol-seat-naar 0,
+              :ilaah-lawful 136,
+              :et-verses 7842,
+              :name-seat-rabbi 0},
+             :aleph-tav {:misaligned 0, :stray 0, :missing 0},
+             :gleaning-rounds [1054 152 42 11],
+             :residue-after-relay 219,
+             :hand-repaired 51,
+             :tekoa {:fixed 67, :lawful 136, :re-rendered 86}},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-so",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :so,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}

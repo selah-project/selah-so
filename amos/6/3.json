@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kuwa maalinta sharka ka dheeraanaya, idinkoo fadhiisashada xadgudubka soo dhowaysa!",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "kuwa ka dheeraanaya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "idinkoo soo dhowaysa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "fadhiisashada"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "xadgudubka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:56.559411768Z",
+  "model": "glm-5.3"
+}

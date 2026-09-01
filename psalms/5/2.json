@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ereyadayda dhege fur, Yahweh; fahansii oohintayda.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Ereyadayda"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhege fur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahansii"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "oohintayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:42.001660071Z",
+  "model": "glm-5.3"
+}

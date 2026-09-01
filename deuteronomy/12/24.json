@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ha cunin; dhulka ku shub sida biyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "shub"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sida biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:06:19.084433646Z",
+  "model": "glm-5.3"
+}

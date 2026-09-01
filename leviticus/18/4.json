@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "⟨את⟩ xukunnadayda sameeya, iyo ⟨את⟩ qawaannadayda ilaaliya inaad ku socdaan; anigu waa ahay Yahweh Elohiintiin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xukunnadayda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunnadayda"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameeya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qawaannadayda"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "qawaannadayda"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "in aad socdaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiintiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:47.004791554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Kan wanaagsiiya shacabka, ma cadaabiyo moyaan? Kan bini-aadamka baraya cilmiga, ma oggolahayn mooyaan?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Kan wanaagsiiya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma cadaabiyo moyaan"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "cadaabiyo"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Kan baraya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bini-aadamka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "cilmiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:39.698032528Z",
+  "model": "glm-5.3"
+}

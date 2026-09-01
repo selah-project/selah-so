@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Oo dhegtahaagu waxay maqli doonaan erey gadaal kaaga ah oo leh: Waa wadankan, ku socdaala; markaad u gudubtaan midig, iyo markaad u gudubtaan bidix.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "dhegtahaagu"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "waxay maqli doonaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "gadaal kaaga ah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "wadankan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ku socdaala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markaad"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "u gudubtaan midig"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iyo markaad"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "u gudubtaan bidix"
+    }
+  ],
+  "timestamp": "2026-09-01T03:47:15.618976210Z",
+  "model": "glm-5.3"
+}

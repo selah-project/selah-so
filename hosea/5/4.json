@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Shuqulladoodu ma oggola inay u noqdaan ⟨את⟩ Elohimkood; waayo, ruux zino ah baa dhexdooda joogta, oo ⟨את⟩ Yahweh ma aqaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "oggola"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "Shuqulladoodu"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "inay u noqdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimkood"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zino ah"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "dhexdooda joogta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "aqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:12.226714568Z",
+  "model": "glm-5.3"
+}

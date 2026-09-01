@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 17:13",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wuxuuna ku yidhi Eeliyaah: Ha cabsan, tee, samee sida adigu ka hadashay, laakiin marka hore samee ii ugax yar ⟨iskasta⟩, ii soo bixina, adiguna iyo ilmahaagana waxaad ka sameysaa dambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eeliyaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "cabsan"
+    },
+    {
+      "surface": "באי",
+      "gloss": "tee"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "samee"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sida hadalkaaga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "samee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iskasta"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "ugax"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "yar"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "marka hore"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "soo bixina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "iyo ilmahaaga"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "sameysaa"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:13.145654824Z",
+  "model": "glm-5.3"
+}

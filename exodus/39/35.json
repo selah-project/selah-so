@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "⟨את⟩ sanduuqa markhaatiga iyo ⟨את⟩ tiirarkeeda, iyo ⟨את⟩ saxanka deme-bixinta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa markhaatiga"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tiirarkeeda"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tiirarkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saxanka deme-bixinta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "saxanka deme-bixinta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:09.912489286Z",
+  "model": "glm-5.3"
+}

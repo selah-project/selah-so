@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Kuwannuuna waa magacyada odayaasha (aluf) ee Esaaw, qoysaskooda iyo meelahooda hoostood, magacyadooda ba: aluf Timna, aluf Alva, aluf Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuwannuuna"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "odayaasha (aluf)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaaw"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "meelahooda"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "magacyadooda"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "aluf"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:28.713948037Z",
+  "model": "glm-5.3"
+}

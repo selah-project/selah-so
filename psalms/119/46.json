@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan ka hadli xaqiiqooyinkaaga hortii boqorrada, oo ma aan shoomaynana.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "waxaan ka hadli"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "xaqiiqooyinkaaga"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma aan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "shoomaynana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:06.222735640Z",
+  "model": "glm-5.3"
+}

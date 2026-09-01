@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Haddii aan shoolmaygii ku abaal-marinay xumaan, oo aan si aan sabab lahayn ka gargaaray cadowday,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "aan ku abaal-marinay"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "shoolmaygii"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "oo aan ka gargaaray"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "cadowday"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "si aan sabab lahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.068455368Z",
+  "model": "glm-5.3"
+}

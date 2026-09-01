@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Dhoobada haweenay iyo gabadheeda ha ka saarin; ⟨את⟩ gabadha wiilkeed iyo ⟨את⟩ gabadha gabadheeda ha qaadan si loo muujiyo dhoobadeeda; qaraabad dhiig baa ay yihiin; waa fasahaad.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Dhoobada"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haweenay"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "iyo gabadheeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ka saarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadha wiilkeed"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wiilkeed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabadha gabadheeda"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "gabadheeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qaadan"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "si loo muujiyo"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "dhoobadeeda"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "qaraabad dhiig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ay yihiin"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "fasahaad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:27.062809805Z",
+  "model": "glm-5.3"
+}

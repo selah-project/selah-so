@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "wuxuu cararay Adad, isaga iyo rag Edom ah oo ka mid ahaa addoomadii aabbihiis, si ay u ⟨את⟩ yimaadaan Mitsrayim; Ha-Dadaduna wuxuu ahaa ilmo yar.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "wuxuu cararay"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "iyo rag"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edom ah"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "addoomadii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (lahjad: 'isaga iyo rag' — calaamadda sahamaysa ilmaha la socda)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "u yimaadaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Ha-Dadaduna"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "yar"
+    }
+  ],
+  "timestamp": "2026-09-01T08:22:42.324326346Z",
+  "model": "glm-5.3"
+}

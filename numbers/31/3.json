@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Muuse wuxuu dadka u hadlay isagoo leh: Ka soo baxa ⟨את⟩ idinka rag ah ciidanka, oo ha noqdaan kuwa Midyaan ku geysta, si ay u gaystaan ciqaabta Yahweh Midyaan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu u hadlay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "ka soo baxa"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "rag ah"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha noqdaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku geysta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyaan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si ay u gaystaan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ciqaabta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:18:19.821499251Z",
+  "model": "glm-5.3"
+}

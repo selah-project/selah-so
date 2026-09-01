@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxayna dhacday kadib ereyadan in Elohim tijaabiyo ⟨את⟩ Abraham, wuxuuna ku yidhi: Abraham. Wuxuuna yidhi: Halkan baan ahay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waxayna dhacday"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "tijaabiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "halkan baan ahay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:50.699091673Z",
+  "model": "glm-5.3"
+}

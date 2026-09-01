@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 11:30",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ma ahaan miyaanay dhinaca kale ee Webiga Yarden, ka dib waddada gelitaanka qorraxda, dhulkii Kanaaniga deggan Arabaha, hortooda Gilgaal, agta ah geedaha More?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma ahaan miyaanay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dhinaca kale ee"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "gelitaanka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "deggan"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Arabaha"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaal"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "agta ah"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "More"
+    }
+  ],
+  "timestamp": "2026-09-01T02:05:34.453640504Z",
+  "model": "glm-5.3"
+}

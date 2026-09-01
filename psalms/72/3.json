@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Buuruhu waxay u sidan nabad ⟨dadka⟩, iyo teendhooyinka xaqnimo.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "waxay u sidan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuruhu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "iyo teendhooyinka"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "xaqnimo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:08.100259757Z",
+  "model": "glm-5.3"
+}

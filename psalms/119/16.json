@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sharcigaada waan ku raaxaysanayaa, ereygaaga weligeen ma illoobi.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "sharcigaada"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "waan ku raaxaysanayaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "illoobi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ereygaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:39.692793214Z",
+  "model": "glm-5.3"
+}

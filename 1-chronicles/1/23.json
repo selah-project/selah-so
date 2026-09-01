@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "iyo ⟨את⟩ Ophir, iyo ⟨את⟩ Chavilah, iyo ⟨את⟩ Jobab — kuwan oo dhan waa wiilashta Yoqtan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ophir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashta"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoqtan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:21:32.044587857Z",
+  "model": "glm-5.3"
+}

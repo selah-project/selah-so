@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Cudurkiisu wuxuu ku noqon doonaa madaxiisa, oo xadgudubkiisuna wuxuu ku degi doonaa qaarka madaxiisa",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "wuxuu ku noqon doonaa"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "cudurkiisu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "qaarka madaxiisa"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "xadgudubkiisuna"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wuxuu ku degi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:47.475293095Z",
+  "model": "glm-5.3"
+}

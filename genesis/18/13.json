@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh waxbuu yidhi Abraham: maxaad u qoslay Sarah, iyadoo odhanaysa: ma run baa an dhalayaa oo an gabowday?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxbuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tan"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "qoslay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyadoo odhanaysa"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ma run baa"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "runtii"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "an dhalayaa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "oo an"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "gabowday"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:36.373706755Z",
+  "model": "glm-5.3"
+}

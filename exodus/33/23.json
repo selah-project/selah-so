@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Oo markaan qaadayo ⟨את⟩ gacantayda, waxaad arki doontaa ⟨את⟩ gadaashayga, laakiin wajigayna lama arki doono.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Oo markaan qaadayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacantayda"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "waxaad arki doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadaashayga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gadaashayga"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "wajigayna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "arki doono"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:31.243284820Z",
+  "model": "glm-5.3"
+}

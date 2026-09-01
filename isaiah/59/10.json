@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Sida indho-la' ayaannu gacmaha ku taabanaynaa ⟨את⟩ derbiga, sidoo kale sida aan indho laheyn baannu taabanaynaa; barqo maalinta sida galab-damcana ku dhaafnaa, meelaha dayaanna sida dhimayaal ayaannu ku dhaafnaa.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "ayaannu gacmaha ku taabanaynaa"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "sida indho-la'"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "sidoo kale sida aan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indho laheyn"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "baannu taabanaynaa"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "baannu dhaafnaa (dhicis)"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "barqo maalinta dhexe"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "sida galab-damcan"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "meelaha dayaan"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "sida dhimayaal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:39.823631748Z",
+  "model": "glm-5.3"
+}

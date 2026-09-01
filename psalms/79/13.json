@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Annagoo ah qoomkaaga iyo adhi daaqaaga waan ku mahadinnaa weligaa, iyo qarni kasta iyo qarni waanu sheeginnaa ammaantaada.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Annagoo ah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "iyo adhi"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "daaqaaga"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "waan ku mahadinnaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iyo qarni kasta"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo qarni"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "waanu sheeginnaa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ammaantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:57.321203523Z",
+  "model": "glm-5.3"
+}

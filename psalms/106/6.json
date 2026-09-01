@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waan denbi galnay la jirka aabayaashay, waan xumeennay, waan sharka falnay.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "waan denbi galnay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la jirka"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aabayaashay"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "waan xumeennay"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "waan sharka falnay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.206267484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxay gowriceen ⟨את⟩ dhibicaha, waxayna keeneen ⟨את⟩ ilmaha ilaa Ciili.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "waxay gowriceen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibicaha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dhibicaha"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waxayna keeneen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ciili"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:36.619130462Z",
+  "model": "glm-5.3"
+}

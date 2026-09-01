@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ka hor inta aan makhluuqda iftiinku madow noqon, iyo dayaxa iyo xiddigaha, oo daruuraha dib ugu noqon roobka ka dib.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ka hor inta aan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "madow noqon"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxdu"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "dayaxa"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "xiddigaha"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dib ugu noqon"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "daruuraha"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "roobka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:19.543202653Z",
+  "model": "glm-5.3"
+}

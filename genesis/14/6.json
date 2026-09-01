@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Iyo ⟨את⟩ Xoriinta oo buurahooda Se'eer ah, ilaa Eyel-Paraan, taas oo ⟨ahayd⟩ saxaraha ku dhow.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xoriinta"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Xoriinta"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "oo buurahooda"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'eer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Eyel-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paraan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taas oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhow"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "saxaraha"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:34.981996229Z",
+  "model": "glm-5.3"
+}

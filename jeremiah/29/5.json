@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Dhisa guryo oo dega, oo beerta (ginno) beerta, oo cunta ⟨את⟩ midhaha.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Dhisa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "oo dega"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "oo beerta"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "(ginno) beerta"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "oo cunta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaha"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "midhaha"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:56.459581158Z",
+  "model": "glm-5.3"
+}

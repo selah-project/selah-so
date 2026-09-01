@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Xuso, yahow Yahweh, waxa noo dhacay; fiiri iyo arag ⟨את⟩ ceebtayada.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Xuso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noo dhacay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "fiiri"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "iyo arag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceebtayada"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ceebtayada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:11.317982766Z",
+  "model": "glm-5.3"
+}

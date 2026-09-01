@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Iyo qori qodis ah ayaa kuu taalli agabkaaga, oo marka aad fadhidaato ka baxsan, waxaad ku qodaysaa, waxaadna ku noqonaysaa, waxaadna daboolaysaa ⟨את⟩ bararkaaga.",
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "iyo qori qodis ah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ayaa kuu taalli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (saaran)"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "agabkaaga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo marka"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "aad fadhidaato"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "waxaad ku qodaysaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "waxaadna ku noqonaysaa"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "waxaadna daboolaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bararkaaga"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "bararkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:00.425001152Z",
+  "model": "glm-5.3"
+}

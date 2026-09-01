@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Duqsigu waa enoyoobaa, ubaxuna waa dhaloobaa, laakiin ereyga Elohim-keenna wuu taagan yahay ilaa iyo weligii.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "waa enoyoobaa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Duqsigu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "waa dhaloobaa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ubaxuna"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "laakiin ereyga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "wuu taagan yahay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:33.084865194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo kani waa sharciga Naziirka: maalinta la dhammeeyo maalmaha waqfidiisa, waa la keenaa ⟨את⟩ isaga ilaa iridda khaymaga kulanka.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Oo kani waa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "Naziirka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "la dhammeeyo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "waqfidiisa"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "waa la keenaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Naziirka)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymaga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:43:25.485548903Z",
+  "model": "glm-5.3"
+}

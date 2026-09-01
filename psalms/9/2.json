@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxaan Yahweh ku mahadin doonaa dhamaan qalbigayga; waanan sheegi doonaa dhammaan la-muujisyadaaga.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Waxaan ... ku mahadin doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "waanan sheegi doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "la-muujisyadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:14.561123582Z",
+  "model": "glm-5.3"
+}

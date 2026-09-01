@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayna yidhaahdeen: ma Yahweh keliya baa Muuse la hadlay? miyaanuu sidoo kale naga la hadlin? Yahwehna wuu maqlay ⟨waxa ay yidhaahdeen⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxayna yidhaahdeen"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "ma ... baa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "miyaanuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la hadlin"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:04.909544556Z",
+  "model": "glm-5.3"
+}

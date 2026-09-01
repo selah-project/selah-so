@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Markaasay Yahweh u qaylieen markay dhib ku dhacay, xawaaruhoodana wuu ka hagaajiyay.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Markaasay u qaylieen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "markay dhib ku dhacay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "xawaaruhooda"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "wuu ka hagaajiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:50.776922163Z",
+  "model": "glm-5.3"
+}

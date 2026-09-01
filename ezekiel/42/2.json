@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Hortiisna dherer ah boqol dheegad, albaabka waqooyi, bannaankiisana heedhall dheegad.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "פני",
+      "gloss": "weji"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dherer"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheegad"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "bannaankiisana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "heedhall"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheegad"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:17.642143060Z",
+  "model": "glm-5.3"
+}

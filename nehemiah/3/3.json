@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo ⟨את⟩ albaabka kalluunta waxay dhisayeen wiilasha Hassenaah; way dheentyadiisa dhigeen, waxayna taageen albaabbadiisa, qufulloodiisa iyo tiraabyadiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "albaabka kalluunta"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "kalluunta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "waxay dhisayeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "way"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "dheentyadiisa dhigeen"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "waxayna taageen"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "albaabbadiisa"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "qufulloodiisa"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "tiraabyadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:17:57.135512306Z",
+  "model": "glm-5.3"
+}

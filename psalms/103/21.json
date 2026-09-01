@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Barkeeya Yahweh, gabdhaha dhan ciidankiisa; addoomadiisa kuwa sameeya raalliyadiisa.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Barkeeya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "ciidankiisa"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kuwa sameeya"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "raalliyadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:48.391009009Z",
+  "model": "glm-5.3"
+}

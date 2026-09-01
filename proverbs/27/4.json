@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Xanaaqa waa naxariis-darro, iyo daadinta cadhiga; yaa hortaga kara hasadka?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "naxariis-darro"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "xanaaqa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "iyo daadinta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadhiga"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hortaga kara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "hasadka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:35.739321081Z",
+  "model": "glm-5.3"
+}

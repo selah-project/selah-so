@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxaa u muuqan doonaa Yahweh Mitsrayim, reer Mitsrayimna waana ogaan doonaan ⟨את⟩ Yahweh maalintaas; waxayna bixin doonaan allabari (zebah) iyo qurbo (minkhah), waxayna Yahweh u balanqaadi doonaan nadar (ballan), waana oofi doonaan.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "Waxaa u muuqan doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "waana ogaan doonaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "reer Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(haalintaas)"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "waxayna bixin doonaan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabari (zebah)"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "iyo qurbo (minkhah)"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "waxayna u balanqaadi doonaan"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadar (ballan)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "waana oofi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:15.366249424Z",
+  "model": "glm-5.3"
+}

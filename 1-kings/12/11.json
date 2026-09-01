@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Haddase aabahay wuu idinku soo riday luul culus, anniguse waan ku dari luulkiinna; aabahay wuu ⟨את⟩ idin ciqaabayay gallada, anniguse waan ⟨את⟩ idin ciqaabayaa abaarso.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddase"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "wuu idinku soo riday"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "על",
+      "gloss": "luul"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "culus"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "anniguse"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "waan ku dari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "luulkiinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wuu ciqaabayay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "gallada"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "anniguse"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "waan ciqaabayaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "abaarso"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:36.248965130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Dor (qarni) aabbihiis wuu caayaa, ⟨את⟩ hooyadana ma duceeyo.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Dor (qarni)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "wuu caayaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hooyadana"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "duceeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:59.702344587Z",
+  "model": "glm-5.3"
+}

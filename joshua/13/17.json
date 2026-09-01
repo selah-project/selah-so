@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 13:17",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Cheshboon iyo magaalooyinkeeda oo dhan kuwaas oo ku yaal miishaarka (baadiyaha): Diiboon, iyo Baamoot-Baal, iyo Beyt-Baal-Me'oan.",
+  "tokens": [
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshboon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "magaalooyinkeeda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo ku yaal"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "miishaarka (baadiyaha)"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Diiboon"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "iyo Baamoot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo Beyt"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-Me'oan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:23.260350097Z",
+  "model": "glm-5.3"
+}

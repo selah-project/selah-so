@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxayna dheheen: Riyo ayaan riyoonnay, fasirayana ma jiro ⟨את⟩. Yoosefna wuxuu ku yidhi: Ma aha in ay Elohim iska leeyihiin fasiraadaha? I sheega, waan baryayaa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay dheheen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "riyo"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "ayaan riyoonnay"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "fasiraya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fasiraadda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma aha in"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim iska leeyihiin"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "fasiraadaha"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "i sheega"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan baryayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:46.194961078Z",
+  "model": "glm-5.3"
+}

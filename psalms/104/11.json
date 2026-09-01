@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Waxay waraabiyaan dhamaan bahalaha beeraha; dameeraha duurka wuu jabiyaa harraadkooda.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "waxay waraabiyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bahalaha"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "wuu jabiya"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "dameeraha duurka"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "harraadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:02.615265531Z",
+  "model": "glm-5.3"
+}

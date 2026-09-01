@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Adigaan kugu dhawaaqayaa, Yahweh, oo Adonay aan u baryayaa inaad ii naxariiso.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Adigaan kuugu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aan kugu dhawaaqayaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aan u baryayoo inaad ii naxariiso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:14.784313189Z",
+  "model": "glm-5.3"
+}

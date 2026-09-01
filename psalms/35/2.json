@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Qaado gaashaanka iyo gaashaandhigga, oo kac i caawi.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Qaado"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gaashaanka"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "gaashaandhigga"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "oo kac"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "i caawi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:01.141809989Z",
+  "model": "glm-5.3"
+}

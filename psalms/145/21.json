@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Dheesha-taadda Yahweh afkaygu wuu sheegi doonaa, oo ⟨dhammaan⟩ jidhku ha ammaan-barricho Magaca quduuska ah, iyo weligii iyo weligoodba.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "dheesha-taadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wuu sheegi doonaa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkaygu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ha ammaan-barricho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨dhammaan⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jidhku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Magaca"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyo weligii"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo weligoodba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:59.816470418Z",
+  "model": "glm-5.3"
+}

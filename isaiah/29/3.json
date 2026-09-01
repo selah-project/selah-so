@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaan ku wareejin doonaa sida goaro, waxaan kuu dhigi doonaa ciidan xira ⟨fagaare⟩, waxaan kuu dhisaa doodmo xiran.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Waxaan ku wareejin doonaa (ku degsan doonaa)"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "sida goaro"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "waxaan kuu dhigi doonaa xira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ciidan xira ⟨fagaare⟩"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "waxaan kuu dhisaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "doodmo xiran"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:16.321300866Z",
+  "model": "glm-5.3"
+}

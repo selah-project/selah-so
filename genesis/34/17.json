@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Haddiise aannu naqoonin inaad noo hoggaansataan in la idinka gudo, waxaanu qaadannaa gabadhayada, waannan tegaynaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddiise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha in"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "aad naqootaan inaad"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "noo hoggaansataan"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "in la idinka gudo"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "waxaanu qaadannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabadhayada"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "gabadhayada"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "waannan tegaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:35.194508639Z",
+  "model": "glm-5.3"
+}

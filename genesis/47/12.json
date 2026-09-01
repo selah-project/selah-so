@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Yoosefna wuxuu aruursaday ⟨את⟩ aabbihiis iyo ⟨את⟩ walaalihiis iyo ⟨את⟩ gurigii aabbihis oo dhan, roodhi ⟨sida⟩ carruurta yari dartood.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "wuxuu aruursaday"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbihiis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gurigii aabbihis oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabbihis"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roodhi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sida … dartood"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "carruurta yari"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:27.348525775Z",
+  "model": "glm-5.3"
+}

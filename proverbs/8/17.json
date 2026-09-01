@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Aniga kuwa aniga i jeclaada waan jeclaahaa, oo kuwa aniga ii hor-berri doonaya waxay i heli doonaan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "kuwa aniga i jeclaada waan jeclaahaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "waan jeclaahaa"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "oo kuwa aniga ii hor-berri doonaya"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "waxay i heli doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:33.490651384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Adiga, aamus-ammaan baa kuu sugnaa, Elohim, Tsiyoon dhexdeed; iyo adiga nadarka waa la oofinayaa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "aamus"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoon dhexdeed"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "iyo adiga"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "waa la oofinayaa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadarka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:44.509693082Z",
+  "model": "glm-5.3"
+}

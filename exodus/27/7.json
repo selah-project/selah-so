@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Alwaadahiisana waa la gelin doonaa ⟨את⟩ wareegyada gacmeed; alwaaduhuna way ahaan doonaan labada dhinac ee miiska gawaarida marka la qaadayo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "waa la gelin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alwaadahiisa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "alwaadahiisa"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "wareegyada gacmeed"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "way ahaan doonaan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "alwaaduhuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "dhinac"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "miiska gawaarida"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "marka la qaadayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "miiska gawaarida"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:23.817355902Z",
+  "model": "glm-5.3"
+}

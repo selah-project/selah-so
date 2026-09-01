@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Markay Raachel dhashay ⟨את⟩ Yuusuf, Ya'aqob wuxuu ku yidhi Labaan: I sii dir inaan aado meeshayda iyo dhulkayga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markay"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dhashay"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "i sii dir"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "inaan aado"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "meeshayda"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "iyo dhulkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:39.519505468Z",
+  "model": "glm-5.3"
+}

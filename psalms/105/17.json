@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu ka horreeyay dirtay nin; Yoosef lagu iibiyay ⟨addoon⟩ ahaan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "wuxuu dirtay"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ka horreeyay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "addoon"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "lagu iibiyay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:29.790572782Z",
+  "model": "glm-5.3"
+}

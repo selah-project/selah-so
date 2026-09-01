@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Maxaa yeelay, Yahweh qoomkiisa ma diido, iyo dhaxalkiisaba ma dhaqaajin doono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaa yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "diido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoomkiisa"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "iyo dhaxalkiisaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "dhaqaajin doono"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:04.490996726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Haddii dambiyo aad ilaaliso, Yah, Adonay, yaa istaagi kara?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dambiyo"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "aad ilaaliso"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "istaagi kara"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:54.309990019Z",
+  "model": "glm-5.3"
+}

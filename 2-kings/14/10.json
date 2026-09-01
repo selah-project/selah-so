@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Waxaad dhab ahaan ku dhuftay ⟨את⟩ Edom, qalbigaagu wuu kuu sarreeyay; kibir u qaad oo gurigaagi joog, maxaad u dhibaysaa xummeed inaad dhiciso adiga iyo Yahuudaba kuu?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "dhab ahaan ku dhuftay"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "waxaad ku dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "wuu kuu sarreeyay"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbigaagu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kibir u qaad"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "oo gurigaagi joog"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaagi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "dhibaysaa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "xummeed"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "inaad dhiciso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yahuudaba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:13:14.798871549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waayo magaalad baad ka dhigtay galoool (dhagxo daldalool ah), magaalad adag baad ka dhigtay burbur; qalcadda shisheeyayaasha, magaalad, weligeed lama dhisayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "baad ka dhigtay"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalad"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "galoool"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaalad"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "adag (la difaacay)"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "qalcadda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "shisheeyayaasha"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalad"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma (la-)"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "dhisayo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:27.308055904Z",
+  "model": "glm-5.3"
+}

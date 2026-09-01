@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "I bar, Yahweh, jidkaaga, si aan ku socon oo runtaada ku socdo; middi wadnimadayda si aan cabsi u qabo Magacaaga.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "I bar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jidkaaga"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "si aan ku socon"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "runtaada ku socdo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "middi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wadnimadayda"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "si aan cabsi u qabo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:18.769719081Z",
+  "model": "glm-5.3"
+}

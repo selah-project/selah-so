@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Iyo mid xidhidha sixir (chever), mid warsanaya oob iyo yid'ooni, iyo mid doonaya dhintay.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "iyo mid xidhidha"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "sixir"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "mid warsanaya"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "oob"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "iyo yid'ooni"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "iyo mid doonaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dhintay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:22.353913581Z",
+  "model": "glm-5.3"
+}

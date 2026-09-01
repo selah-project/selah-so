@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 11:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo markay taal noqoto maalintaa, Adonay wuxuu markale mar labaad ku bilaabi doonaa gacantiisii inuu qabsado ⟨את⟩ hadhiga oo ka hadha qoomkiisa, kuwa ka hadha Ashuur iyo Mitsrayim iyo Pathros iyo Kush iyo Elam iyo Shinaar iyo Chamat iyo jazeeraha badda.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oo markay taal noqoto"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "wuxuu ku bilaabi doonaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "markale mar labaad"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisii"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "inuu qabsado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadhiga"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hadhiga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoomkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "ka hadha"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "ka hadha Ashuur"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "iyo Mitsrayim"
+    },
+    {
+      "surface": "ומפתרוס",
+      "gloss": "iyo Pathros"
+    },
+    {
+      "surface": "ומכוש",
+      "gloss": "iyo Kush"
+    },
+    {
+      "surface": "ומעילם",
+      "gloss": "iyo Elam"
+    },
+    {
+      "surface": "ומשנער",
+      "gloss": "iyo Shinaar"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "iyo Chamat"
+    },
+    {
+      "surface": "ומאיי",
+      "gloss": "iyo jazeeraha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:46.961742588Z",
+  "model": "glm-5.3"
+}

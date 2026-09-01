@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna noqday, sababtoo ah umul-dhawradu bay ka cabsadeen Elohim, wuxuuna u sameeyay ⟨את⟩ guryo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wuxuuna noqday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bay ka cabsadeen"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "umul-dhawradu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna u sameeyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "guryo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:18.093051837Z",
+  "model": "glm-5.3"
+}

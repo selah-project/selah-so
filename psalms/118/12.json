@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Waxay ii dherereen sidii shinni; way la'een sidii naarta ⟨ee⟩ qodaxda; runtiina magaca ⟨ee⟩ Yahweh ayaan ku goyn doonaa.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "waxay ii dherereen"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "sidii shinni"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "way la'een"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "sidii naarta"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "qodaxda"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "runtiina"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ayaan ku goyn doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:31.864091229Z",
+  "model": "glm-5.3"
+}

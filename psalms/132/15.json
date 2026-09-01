@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Rizqigeed waan siyaadin doonaa barako, masaakiinteedana waan hesiin doonaa rooti.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "rizqigeed"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barako"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "waan siyaadin doonaa barako"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "masaakiinteeda"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "waan hesiin doonaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:53.434210868Z",
+  "model": "glm-5.3"
+}

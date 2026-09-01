@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Aniga waan kaa hor marinayaa, waana toosinayaa duqooyinka (meelaha qalloocsan); albaabada naxaasta ah waan jabinayaa, cunsulada birta ahna waan goynayaa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kaa hor"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "waan marinayaa"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "duqooyinka"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "waan toosinayaa"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "naxaasta ah"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "waan jabinayaa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "cunsulada"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "birta ah"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "waan goynayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:54:08.638019752Z",
+  "model": "glm-5.3"
+}

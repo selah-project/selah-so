@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Buuruhu way riixay sidii riyooyinka, teendooyinkuna sidii ilmaha laxaha.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Buuruhu"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "way riixay"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sidii riyooyinka"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "teendooyinkuna"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sidii ilmaha"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "laxaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:01.816308279Z",
+  "model": "glm-5.3"
+}

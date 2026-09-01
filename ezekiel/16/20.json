@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo waxaad qaadatay ⟨את⟩ wiilashaagii iyo ⟨את⟩ gabdhahaagii aan ku dhalay, waxaadna u dhawray in la cuno — ma yar tahay sinaantaadu?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Oo waxaad qaadatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashaagii"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaagii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "gabdhahaagii"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "gabdhahaagii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "aan ku dhalay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku (aniga)"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "waxaadna u dhawray"
+    },
+    {
+      "surface": "להם",
+      "gloss": "uwada"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "in la cuno"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ma yar tahay"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "sinaantaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:23:14.786052396Z",
+  "model": "glm-5.3"
+}

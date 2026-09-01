@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wax kastoo ah waxa la nacay ha cunin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kastoo ah"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "waxa la nacay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:18:51.481498251Z",
+  "model": "glm-5.3"
+}

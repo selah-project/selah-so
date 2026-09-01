@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxay saareen korkooda hogamiyayaal cadeys ah si ay u dhibiyaan uguna cudsiiyaan culayskooda; waxay dhisayeen magaalooyin kayd ah oo Farcoon u ah, ⟨את⟩ Pitom iyo ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "waxay saareen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hogamiyayaal"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "cadeys ah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si ay u"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "dhibiyaan"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "culayskooda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "waxay dhisayeen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "kayd ah"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farcoon u ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:13.925148977Z",
+  "model": "glm-5.3"
+}

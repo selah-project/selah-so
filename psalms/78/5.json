@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu u taagay markhaati Yacquub gudaheeda, Sharcigana wuxuu dhigay Israa'iil, kaas oo uu amray ⟨את⟩ aabbayaasheen, in ay carruurtooda uga ogeysiisiin.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuu u taagay"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "markhaati"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yacquub gudaheeda"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "Sharcigana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaas oo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbayaasheen"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aabbayaasheen"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "in ay uga ogeysiisiin"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "carruurtooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:45.263541208Z",
+  "model": "glm-5.3"
+}

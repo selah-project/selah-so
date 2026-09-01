@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Iska ilaali inaad hilmaamayso Yahweh Elohimkaaga ⟨את⟩, adigoon ilaalinayn amarkiisa iyo xukunkiisa iyo qawaankiisa oo aan kuu amraya maanta.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "iska ilaali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "in"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "aad hilmaamayso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "adioon"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaalinayn"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amarkiisa"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "iyo xukunkiisa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "iyo qawaankiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kuu amraya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:45.851685314Z",
+  "model": "glm-5.3"
+}

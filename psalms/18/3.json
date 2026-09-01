@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh waa dhagax-keydkaygii iyo qalcaddaydii iyo badbaadiyahaygii; Elkeey, sallaxdaay, isaga ayaan u magan galaa; gaashaankeydii iyo geeska badbaadaydii, meel-sarreeysa oo magan ah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dhagax-keydkaygii"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "iyo qalcaddaydii"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "iyo badbaadiyahaygii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elkeey"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sallaxdaay"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ayaan u magan galaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "gaashaankeydii"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "iyo geeska"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadaydii"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "meel-sarreeysa oo magan ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:18.293040125Z",
+  "model": "glm-5.3"
+}

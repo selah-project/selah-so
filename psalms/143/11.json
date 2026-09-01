@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 143,
+  "translation": "Magacaaga dartii, Yahweh, i sii nolol; xaqaada dartii naftayda ka soo saar dhibta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "i sii nolol"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "xaqaada dartii"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ka soo saar"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.722618345Z",
+  "model": "glm-5.3"
+}

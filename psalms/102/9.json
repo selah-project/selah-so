@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Maalinta oo dhan cadowdaydu way i ceebyeeysteen; kuwa i waalwana way ii balan-qaadeen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "way i ceebyeeysteen"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "kuwa i waalwan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "balan-qaadeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:50.739595891Z",
+  "model": "glm-5.3"
+}

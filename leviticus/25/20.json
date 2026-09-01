@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo haddaad tidhaahdaan: Maxaan ku cunnaa sanadka toddobaadka? Bal ege, ma beerayno oo ma ururinno ⟨את⟩ dalagyadayada.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "oo haddaad"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "tidhaahdaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ku cunnaa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "toddobaadka"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bal ege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "beerayno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "ururinno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalagyadayada"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "dalagyadayada"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:13.938069243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Ii soo wada shira kuwa khesed ii ah, kuwa ballaadhigayga ula gooyay allabari.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "soo wada shira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "kuwa khesed ii ah"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ula gooyay"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballaadhigayga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabari"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.731225315Z",
+  "model": "glm-5.3"
+}

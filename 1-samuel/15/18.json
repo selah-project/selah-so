@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Yahwehna wuu ku soo diray wadadda, oo wuxuu yidhi: Tag, oo waxaad ku herem-gelay ⟨את⟩ dambiilayaasha ⟨את⟩ Camaalek, oo waxaad la dagaallantay ⟨ku⟩ ilaa ay buuxsamayn ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "wuu ku soo diray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "wadadda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tag"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "waxaad ku herem-gelay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambiilayaasha"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "dambiilayaasha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camaalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Camaalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "waxaad la dagaallantay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ay buuxsamayn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(buuxsamayn — waxa la dagaallanayay)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:03.474963540Z",
+  "model": "glm-5.3"
+}

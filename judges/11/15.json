@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuuna ku yidhi: Sidaas ayuu Yiftaax leeyahay: Ma qaadabin Israa'iil ⟨את⟩ dhulkii Mo'aab iyo ⟨את⟩ dhulkii wiilasha Camuun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "leeyahay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma...-in"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "qaaday"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii Mo'aab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkii wiilasha Camuun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Camuun"
+    }
+  ],
+  "timestamp": "2026-09-01T02:35:56.962455952Z",
+  "model": "glm-5.3"
+}

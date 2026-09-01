@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "si aanaan laynaha aan la ahayn ayan ku shixin xooggagaaga, iyo jirradaadu guriga shisheeye;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "si aanaan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ayan ku shixin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "laynaha aan la ahayn"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "xooggagaaga"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "iyo jirradaadu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "shisheeye"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:38.460856720Z",
+  "model": "glm-5.3"
+}

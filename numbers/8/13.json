@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaad taaggi doontaa ⟨את⟩ Laywiyiinta horta Ahaaron iyo horta wiilashiisa, waadna dhaqaaqin doontaa ⟨את⟩ iyaga dhaqaaqin (tenuphah) Yahweh u.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "Waxaad taaggi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laywiyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laywiyiinta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahaaron"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "iyo horta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "waadna dhaqaaqin doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dhaqaaqin (tenuphah)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:35.147139318Z",
+  "model": "glm-5.3"
+}

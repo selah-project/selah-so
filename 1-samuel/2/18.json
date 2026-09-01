@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Shemuuelna wuu adeegayaa ⟨את⟩ wajiga Yahweh, curuur xannuunsan ephod lin.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuuelna"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wuu adeegayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "curuur"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "xannuunsan"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:14.985107538Z",
+  "model": "glm-5.3"
+}

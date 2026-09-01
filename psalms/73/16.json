@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Oo waan ka fikiray in aan garado tan; waa cudud iyo dhib ⟨⟨indahayga⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "oo waan ka fikiray"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "in aan garado"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cudud iyo dhib"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.675918830Z",
+  "model": "glm-5.3"
+}

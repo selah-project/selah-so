@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxay ahayd markii dagaaladu ma la helin seef iyo waran gacanta dadka oo dhan ee ⟨la jiray⟩ Shaa'uul iyo ⟨את⟩ Yoonataan; waxaase la helay Shaa'uul iyo Yoonataan inankiis.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "markii (maantii)"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "dagaaladu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "la helin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "iyo waran"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee (la jiray)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yoonataan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yoonataan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "waxaase la helay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "iyo Yoonataan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiis"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:39.386332293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Kii ka mid ah wiilasha Axaron ee bixiya ⟨את⟩ dhiigga nabadqaddooyinka iyo ⟨את⟩ baruurta, ligga midigta waxaa iska leh qayb ahaan.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "kii bixiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiigga nabadqaddooyinka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "nabadqaddooyinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ka mid ah wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "לו",
+      "gloss": "waxaa iska leh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxaa noqonaysaa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ligga"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "midigta"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "qayb ahaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:57.703370404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Intaanan ceynin anigu waan baabba'ay, laakiin hadda hadalkaagii waan ilaaliyay.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Intaanan"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ceynin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "waan baabba'ay"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "laakiin hadda"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaagii"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "waan ilaaliyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:07.712640635Z",
+  "model": "glm-5.3"
+}

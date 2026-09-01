@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Raalli noqo, Yahweh, inaad ii badbaadiso; Yahweh, gargaaraydey ii degdeg.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "raalli noqo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "inaad ii badbaadiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "gargaaraydey"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ii degdeg"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:27.881820887Z",
+  "model": "glm-5.3"
+}

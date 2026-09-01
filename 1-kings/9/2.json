@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehna wuu muuqday Shelomoo labaad jeer, sidii uu ugu muuqday Gibʿon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuu muuqday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "labaad jeer"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "uu muuqday"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibʿon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:00.445325597Z",
+  "model": "glm-5.3"
+}

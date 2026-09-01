@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ilaalin aad u ilaaliyaan ⟨את⟩ amarrada Yahweh Elohiinna, iyo markhaatiyadiisa iyo xukunkiisa uu idinku amray.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "aad u ilaaliyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarrada"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amarrada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinna"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "iyo markhaatiyadiisa"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "iyo xukunkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "idinku amray"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:13.925879657Z",
+  "model": "glm-5.3"
+}

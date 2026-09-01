@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Iyo ⟨את⟩ labada kelmo iyo ⟨את⟩ baruurta ku taal kuwaas iyo waxa kiisaha (hoos u dhumucda) ku yaal, iyo ⟨את⟩ mararka (walxaha dheeriga ah) ee jirrka sare, kiiska kelmaryaha lagu soo saaray",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "labada kelmo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kelmo (kelmaryo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ku taal kuwaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "waxa ku yaal"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "kiisaha (hoos u dhumucda)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "mararka"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "mararka (walxaha dheeriga ah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee sare"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jirrka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku jirta"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "kelmaryaha"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "lagu soo saaray"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:51.206323262Z",
+  "model": "glm-5.3"
+}

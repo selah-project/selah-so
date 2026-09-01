@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 150,
+  "translation": "Waxaad u amaantan tahayaan ⟨את⟩ Yahweh saxmadda dhawaaqa leh ee shumaamadda; waxaad u amaantan tahayaan ⟨את⟩ Yahweh saxmadda qaylo-bixinta leh.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "waxaad u amaantan tahayaan"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "saxmadda"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhawaaqa leh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "waxaad u amaantan tahayaan"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "saxmadda"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "qaylo-bixinta leh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:20.826294862Z",
+  "model": "glm-5.3"
+}

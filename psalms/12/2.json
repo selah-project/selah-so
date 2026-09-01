@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Ito, Yahweh, waayo, khesed-ka leh ayaa dhammaaday, waayo, rumaysadaha waxay ka dhammaadeen ilma aadamka.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "waxaa dhammaaday"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "khesed-ka leh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "waxay ka dhammaadeen"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "rumaysadaha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ka ilma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:22.071719357Z",
+  "model": "glm-5.3"
+}

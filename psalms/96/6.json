@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Sharaaf iyo weynaan waa hortiisa taal, xoog iyo qurux waa macbadkiisa.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "sharaaf"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "iyo weynaAN"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "iyo qurux"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "macbadkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:53.125846072Z",
+  "model": "glm-5.3"
+}

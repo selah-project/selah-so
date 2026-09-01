@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuuna sidoo kale faray ⟨את⟩ kii labaad iyo ⟨את⟩ kii saddexaad iyo ⟨את⟩ dhammaan kuwa kooxaha raaca, isagoo leh: Sida hadalkan oo kale baad ugu odhantaan Esav marka aad ⟨את⟩ isaga haysaan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wuxuuna faray"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kii labaad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kii labaad"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyo sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kii saddexaad"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kii saddexaad"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan kuwa kooxaha raaca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kuwa raaca"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "kooxaha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sida hadalkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo kale"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "baad ugu odhantaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uggu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "marka aad haysaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:08.915815596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxay saareen ⟨את⟩ baruuraha laabaha, wuxuuna shiday baruuraha guddiga allabariga.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "waxay saareen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruuraha"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "baruuraha"
+    },
+    {
+      "surface": "על",
+      "gloss": "laabaha ku"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "laabaha"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wuxuuna shiday"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "baruuraha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "guddiga allabariga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:47.912291481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Hadalladiisiina waxay ahaayeen ⟨laha⟩ Yoab wiilka Saruyaah iyo ⟨laha⟩ Abiyatar wadaadda; wayna daba-gargaareen Adoniyah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hadalladiisiina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨laha⟩"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Saruyaah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "iyo ⟨laha⟩"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "wayna gargaareen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daba-"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:36.514084673Z",
+  "model": "glm-5.3"
+}

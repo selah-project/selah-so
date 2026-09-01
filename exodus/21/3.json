@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Hadduu naag la'aan yimaado, naag la'aan buu baxsan doonaa; hadduu xaas leeyahay, xaastiisuna way la baxsan doontaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hadduu"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "naag la'aan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yimaado"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "naag la'aan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "buu baxsan doonaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "xaas leeyahay"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "way la baxsan doontaa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xaastiisuna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:38.121530708Z",
+  "model": "glm-5.3"
+}

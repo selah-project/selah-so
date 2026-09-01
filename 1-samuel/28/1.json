@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 28:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo markay taal maalmahaas, Pelishtiimtu waxay kulmiyeen ⟨את⟩ gooshadoodii si ay u dagaallamaan Israa'iil, Akishna wuxuu Dawid ku yidhi: Waad ogaanaysaa taas waad ogtahay inaad ila baxdo gooshada ⟨את⟩ ila, adiga iyo raggaaga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oo markay taal"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "maalmahaas"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "maalmahaas"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "waxay kulmiyeen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiimtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooshadoodii"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "gooshadoodii"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "si ay u dagaallamaan"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "u dagaallamaan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Waad ogaanaysaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "waad ogtahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ila"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "aad baxdo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "gooshada"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ואנשיך",
+      "gloss": "iyo raggaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:44.499145513Z",
+  "model": "glm-5.3"
+}

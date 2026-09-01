@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo khesed sameeya kun (nasab) kuwa i jecel, iyo kuwa ilaaliya amarkayga.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "oo sameeya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kun (nasab)"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kuwa i jecel"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "iyo kuwa ilaaliya"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:33.990045877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaan ⟨את⟩ idin keenay dhulka reer Emoriyotta oo ku noolaa dhinaca kale ee Yarden, wayna idinla dagaallameen, waxaana idinka siiyay gacantiinna, waxaadna dhaxashay ⟨את⟩ dhulkoodii, waxaana idinka baabi'iyay.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "waxaan idin keenay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "reer Emoriyotta"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oo ku noolaa"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "dhinaca kale ee"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wayna dagaallameen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin (la)"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "waxaana siiyay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "gacantiinna"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "gacantiinna"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "waxaadna dhaxashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkoodii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkoodii"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "waxaana baabi'iyay"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "idinka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:47.054227767Z",
+  "model": "glm-5.3"
+}

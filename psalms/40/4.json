@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuuna afkayga geliyay hees cusub, ammaan ⟨u⟩ qoran Elohimkeenna; waxay arkaan badidiis, waxayna cabsadaan, waxayna Yahweh ku tala-saaraan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna geliyay"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "waxay arkaan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badidiis"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "waxayna cabsadaan"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "waxayna ku tala-saaraan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.729596725Z",
+  "model": "glm-5.3"
+}

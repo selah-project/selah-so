@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ilaali naftaada inaadan halmin ⟨את⟩ Yahweh, kan kaa soo bixiyay dhulkii Mitsrayim, gurigii adoomaha.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ilaali naftaada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "inaadan halmin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "halmin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "kaa soo bixiyay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "adoomaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:36.579984691Z",
+  "model": "glm-5.3"
+}

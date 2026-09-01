@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Maxay yeelay nafteyda Sheool ma tiritayso, khesedkaagana ma siinayso inuu arko burburka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxay yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tiritayso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafteyda"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siinayso"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inuu arko"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "burburka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:16.261167374Z",
+  "model": "glm-5.3"
+}

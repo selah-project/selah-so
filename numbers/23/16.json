@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yahweh wuxuu u yimid Bilaam isagoo la kulmaya, wuxuuna yeelay erey afkiisa, wuxuuna yidhi: Ku noqo Balak, sidaas aad ku hadasho.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "wuxuu u yimid oo la kulmay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilaam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna yeelay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ku noqo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "aad ku hadasho"
+    }
+  ],
+  "timestamp": "2026-09-01T01:54:01.181058608Z",
+  "model": "glm-5.3"
+}

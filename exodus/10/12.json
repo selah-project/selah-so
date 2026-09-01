@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: gacantaada ku fid dhulka Mitsrayim arbiga awgood, inay dhulka Mitsrayim ku soo baxaan, oo ay cunaan ⟨את⟩ cawska dhulka oo dhan, ⟨את⟩ wax kasta oo baraddu ka teagay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ku fid"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "…awgood"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "arbiga"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "inay ku soo baxaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "oo ay cunaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cawska dhulka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "cawska"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wax kasta oo baraddu ka teagay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ka teagay"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "baraddu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:01.902408763Z",
+  "model": "glm-5.3"
+}

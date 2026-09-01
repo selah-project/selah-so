@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Kanina waa kuwanaysan la cuni karin: haanqadhaha, iyo perlaha, iyo aznayaha.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cuni karin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuwanaysan"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "haanqadhaha"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "iyo perlaha"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "iyo aznayaha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:53.856091543Z",
+  "model": "glm-5.3"
+}

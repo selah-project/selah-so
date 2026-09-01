@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxay qaadan doonaan ⟨את⟩ dhamaan qalabka adeegga qaddimka oo ay ku adeegtaan, waxayna gelin doonaan dhar buluug ah, waxayna dabooli doonaan ⟨את⟩ (iyaga) dabool maqaar tahash ah, waxayna saari doonaan bogsga.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "waxay qaadan doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan qalabka adeegga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qalabka"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ay ku adeegtaan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qaddimka"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna gelin doonaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(gudaha)"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluug ah"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "waxayna dabooli doonaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "qalabka adeegga"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "dabool"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaar"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna saari doonaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "(kor ah)"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "bogsga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:42:12.475152791Z",
+  "model": "glm-5.3"
+}

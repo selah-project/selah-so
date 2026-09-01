@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuu degay Yahweh inuu arko ⟨את⟩ magaalada iyo ⟨את⟩ tuulada, ee wiilasha aadamaha dhiseen.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Wuxuu degay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "inuu arko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tuulada"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "tuulada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dhisecen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:55.835533598Z",
+  "model": "glm-5.3"
+}

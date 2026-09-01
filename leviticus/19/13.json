@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha dulmeyn ⟨את⟩ deriskaaga, oo ha dhicin; shaqada shaqa-lagasha ha kuu dhicin ⟨את⟩ ⟨adiga⟩ ilaa subax.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "dulmeyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deriskaaga"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "deriskaaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "dhicin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "kuu dhicin"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "shaqa-lagasha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨adiga⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subax"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:15.132827513Z",
+  "model": "glm-5.3"
+}

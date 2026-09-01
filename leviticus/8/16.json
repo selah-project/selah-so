@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu qaatay ⟨את⟩ dhammaan baruurta (chelév) oo ku taal caloosha dheeriga ah (qereb), iyo ⟨את⟩ qaydda dheeriga ah ee jigarkeenna (yoteret ha'kaaved), iyo ⟨את⟩ labada kilyo (kil'ya), iyo ⟨את⟩ baruurtooda; Muuse wuxuu ku shiilay (qatar) guddiga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan baruurta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta (chelév)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku taal"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "caloosha dheeriga ah (qereb)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qaydda jigarkeenna"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "qaydda dheeriga ah (yoteret)"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigarkeenna (kaaved)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labada kilyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kilyo (kil'ya)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurtooda"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "baruurtooda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ku shiilay (qatar)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "guddiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:19.946493398Z",
+  "model": "glm-5.3"
+}

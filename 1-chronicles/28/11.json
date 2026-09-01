@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Dawidna wuxuu Shelomah inankiisii siyay ⟨את⟩ qaab-dhismeedka barxadda hore iyo ⟨את⟩ qolalkeedii, kaydkeedii, qolalka sare iyo qolalkeeda gudaha ah, iyo ⟨את⟩ baytkapporeeta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siyay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaab-dhismeedka barxadda hore"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "qaab-dhismeedka"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "barxadda hore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qolalkeedii"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "qolalkeedii"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "kaydkeedii"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "qolalka sare"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "qolalkeeda gudaha"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "gudaha ah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo baytka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporeeta"
+    }
+  ],
+  "timestamp": "2026-09-01T06:33:14.834662389Z",
+  "model": "glm-5.3"
+}

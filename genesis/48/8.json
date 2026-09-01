@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Oo Israa'iil wuu arkay ⟨את⟩ wiilasha Yosuuf, wuxuuna yidhi: Yaa kuwan?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Yosuuf"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuuf"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:44.233092892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Elohim gacantiisa baynu geysannaa sharafta, oo isagaa cadowyadeenna ku dul tudhaya.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim gacantiisa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "baynu sameynaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sharafta\/geesinimada"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "oo isagaa"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ku dul tudhaya"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "cadowyadeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:48.157995089Z",
+  "model": "glm-5.3"
+}

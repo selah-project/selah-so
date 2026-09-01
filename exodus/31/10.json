@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "iyo ⟨את⟩ dhararka adeegga, iyo ⟨את⟩ dhararka quduska ah ee Axaroonsan kahinta, iyo ⟨את⟩ dhararka wiilashiisa inay ka adeeggaan (inay yihiin kahinro)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhararka adeegga"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhararka"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "adeegga (dhararka adeegga)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhararka quduska ah"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhararka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduska ah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axaroonsan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhararka wiilashiisa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhararka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "inay ka adeeggaan (kahinro)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:00.297033483Z",
+  "model": "glm-5.3"
+}

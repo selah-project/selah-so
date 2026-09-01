@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaadna saartaa safka kasta oon {luban} nadiif ah; waxay noqonaysaa rootiga xus, allabari olol ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "waxaadna saartaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "(saarista)"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "safka kasta"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "oon luban nadiif ah"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "nadiif ah (daahir)"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "waxay noqonaysaa"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "xus"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabari olol ah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:11.461592263Z",
+  "model": "glm-5.3"
+}

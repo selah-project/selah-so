@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna ku yidhi: Anigu Cibriani baan ahay, oo Yahweh, Elohimka samada, baan ka cabsanayahaa, kan oo sameeyay ⟨את⟩ badda iyo ⟨את⟩ dhulka engeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Cibriani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "baan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ka cabsanayahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka engeg"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dhulka engeg"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:02.955806761Z",
+  "model": "glm-5.3"
+}

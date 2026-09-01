@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Sida calaamad baan ugu noqday dad badan, laakiin adigu adigaa ah magangal xoog leh.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Sida calaamad"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "baan ugu noqday"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "dad badan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adigu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangal"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog leh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:19.144940549Z",
+  "model": "glm-5.3"
+}

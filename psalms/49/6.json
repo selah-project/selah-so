@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Maxaan baqayaa maalmaha sharka, marka xadgudubku cagahaygii (lumiyaasha) igu dhex wareegayo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "baqayaa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "xadgudubku"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "cagahaygii (lumiyaasha)"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "igu dhex wareegayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:25.976716347Z",
+  "model": "glm-5.3"
+}

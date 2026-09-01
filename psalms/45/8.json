@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Waxaad jeceshahay caddaaladda, waxana karahay sharka; sidaas darteed, Elohim, Elohim-kaaga, wuu kuu subkay ⟨salliidda⟩ farxadda ka sarreeysa saaxiibbaada.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "jeceshahay"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "karahay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "kuu subkay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-kaaga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "salliidda"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "farxadda"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "saaxiibbaada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:28.383124718Z",
+  "model": "glm-5.3"
+}

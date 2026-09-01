@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Waayo, wuxuu xusay ⟨את⟩ hadalkiisii quduuska ahayd, ⟨את⟩ Ibraahiim addoonkiisii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wuxuu xusay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkiisii quduuska ahayd"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalkiisii"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuska ahayd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahiim addoonkiisii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiim"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "addoonkiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:09.968692858Z",
+  "model": "glm-5.3"
+}

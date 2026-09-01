@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuuna isku xiray ⟨את⟩ shan bardahaasho iskoodii, iyo ⟨את⟩ lix bardahaasho iskoodii.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Wuxuuna isku xiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shan bardahaasho"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "bardahaasho"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iskoodii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lix bardahaasho"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "bardahaasho"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "iskoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:04.267035080Z",
+  "model": "glm-5.3"
+}

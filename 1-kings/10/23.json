@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Sidaas oo kale boqorka Shelomoh wuxuu ka weynaa dhammaan boqorada dhulka, oo xoolo iyo xikmad labadaba.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "wuxuu ka weynaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan ka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "xoolo"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "iyo xikmad labadaba"
+    }
+  ],
+  "timestamp": "2026-09-01T03:13:54.715346515Z",
+  "model": "glm-5.3"
+}

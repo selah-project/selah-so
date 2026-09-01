@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Waayo, cadhadkaada baan ku baabbi'nay, xanaaqaadana waa la yaab-siinnay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "baan ku baabbi'nay"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "cadhadkaada"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "xanaaqaadana"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "waa la yaab-siinnay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.013160236Z",
+  "model": "glm-5.3"
+}

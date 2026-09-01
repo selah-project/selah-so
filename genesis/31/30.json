@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Haddana waxaad si weyn u niciftay aqalkii aabahaa markaad tegaysay, laakiin maxaad xigtay ⟨את⟩ ilaahyaday?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tegaaysay (si xoojin ah)"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "waxaad tegaysay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "si weyn u niciftay (si xoojin ah)"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "waxaad niciftay"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "aqalkii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "xigtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahyaday"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahyaday"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:49.569577557Z",
+  "model": "glm-5.3"
+}

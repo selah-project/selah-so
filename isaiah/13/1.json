@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Masaco Babel ah, oo Yeshaayahu ina Amots uu arkay.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masaco"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "uu arkay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:18.141881487Z",
+  "model": "glm-5.3"
+}

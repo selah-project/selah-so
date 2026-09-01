@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waayo, anigu dhulkan ayaan ku dhimanayaa; ⟨את⟩ Webiga Yarden ma dhaafo, idinkase waad dhaafaysaan, waadna dhaxlaysaan ⟨את⟩ dhulkii wanaagsan ee kan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "aan ku dhimanayaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dhaafo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "idinkase"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "waad dhaafaysaan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "waadna dhaxlaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkii wanaagsan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:00.913691508Z",
+  "model": "glm-5.3"
+}

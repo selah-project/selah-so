@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maalintaas waan dhaqaaqi doonaa Eli ⟨את⟩ waxa dhan oo aan ka hadlay baartiisa, bilow ilaa dhamaad.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maantaas"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "waan dhaqaaqi doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laga hadaayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aan ka hadlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laga hadaayo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "baartiisa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bilow"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ilaa dhamaad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:09.033618883Z",
+  "model": "glm-5.3"
+}

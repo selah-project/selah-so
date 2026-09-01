@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Xadgudubka aabbayaashiis ha la xusuusto Yahweh agtiisa; dembiga hooyadisna ha la tirtirin.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ha la xusuusto"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Xadgudubka"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadisna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "la tirtirin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:56.606585660Z",
+  "model": "glm-5.3"
+}

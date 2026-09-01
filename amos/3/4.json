@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ma libaax ku qayliyaa kaynta goortuu uun lagu dilay? Ma shabeel carruur ah codkiisa ka bixiyaa booskiisa haddaan uu qabsaday?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Ma ku qayliyaa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "libaax"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "kaynta"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "goortuu uun lagu dilay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Ma ka bixiyaa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "shabeel carruur ah"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "codkiisa"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "booskiisa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "qabsaday"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:19.513079455Z",
+  "model": "glm-5.3"
+}

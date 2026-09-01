@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Wuxuu baxay, wuxuu ku dagaalamay Filistiintii, wuxuu burburiyay ⟨את⟩ derbiga Gath iyo ⟨את⟩ derbiga Yabhneh iyo ⟨את⟩ derbiga Ashdod, wuxuuna dhisay magaalooyin Ashdod iyo Filistiintii dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuu baxay"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "wuxuu ku dagaalamay"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "wuxuu burburiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derbiga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "derbiga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabhneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "derbiga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod (gobolka)"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "iyo Filistiintii dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:44:15.585744271Z",
+  "model": "glm-5.3"
+}

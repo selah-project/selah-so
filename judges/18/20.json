@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo wadaankii wuxuu farxay qalbigu, wuxuu qaaday ⟨את⟩ haadowga iyo ⟨את⟩ terafimka iyo ⟨את⟩ sanamka, wuxuu galay dadka dhexdood.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wuxuu farxay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbigu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaankii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haadowga"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "haadowga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "terafimka"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sanamka"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "sanamka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu galay"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdood"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:39:17.232260211Z",
+  "model": "glm-5.3"
+}

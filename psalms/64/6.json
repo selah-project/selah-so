@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Waxay adkeeyaan ugu horumar amac xun, waxay ka warramaan qarsoonda dhigidda makhnuulo; waxay yidhaahdeen: Yaa naga arkaya?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "waxay adkeeyaan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amac"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "waxay ka warramaan"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "qarsoonda"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "makhnuulo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "waxay yidhaahdeen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "naga arkaya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:01:06.741025428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Oo ay dhigaan kalsoonidooda Elohim, ayan hilmaabin falalka El, amarradiisana ilaaliyaan.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "oo ay dhigaan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "kalsoonidooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayan"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "hilmaabin"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "falalka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "amarradiisana"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ilaaliyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:45.264423937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Aniguna waa il bare ah aan ahayn ⟨nin⟩, ceeb dadka ah, oo shacabtu ku caymiso.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "il bare ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan ahayn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dadka ah"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "oo ku caymiso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabtu"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:21.815471046Z",
+  "model": "glm-5.3"
+}

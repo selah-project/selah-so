@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Anigoo ah Yahweh, Elohaaga, tan iyo laga soo bilaoway dhulka Mitsrayim; Elohim iigu aan ahayn ma garanayso, badbaadiye aan aniga ahayn ma jiro.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "anigoo ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohaaga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "iigu aan ahayn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "garanayso"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "badbaadiye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "aan aniga ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:49.185824853Z",
+  "model": "glm-5.3"
+}

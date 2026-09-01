@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Ha igu tuurin waqtigii gabowga; markay tamorto taalladaydu, ha iga tegin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "igu-tuurin"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "gabowga"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "markay tamorto"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "taalladaydu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "iga tegin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:39.193058062Z",
+  "model": "glm-5.3"
+}

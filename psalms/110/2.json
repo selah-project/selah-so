@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Ushka xooggaga Yahweh wuu ka soo diraa Siyoon: xukumo dhexdaha cadowdaada.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Ushka"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "xooggaga"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "wuu ka soo diraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "xukumo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdaha"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowdaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.527996743Z",
+  "model": "glm-5.3"
+}

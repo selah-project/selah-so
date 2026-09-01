@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Wuxuu yidhi Dawiid: Adiga ayaa ku dhawaaqayaa Yahweh, xadhkaygii, ha iigu oggol in aad ka ammaan-daato, haddii aad xabad ka iigu dhigin, waan la mid noqonayaa kuwa godka ku dhex dhaca.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wuxuu yidhi Dawiid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Adiga ayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ku dhawaaqayaa"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "xadhkaygii (cdhkaygii)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "iigu oggol in aad ka ammaan-daato"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "aad xabad ka iigu dhigin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "waan la mid noqonayaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la (kuwa)"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kuwa dhaqaaji (dhaca)"
+    },
+    {
+      "surface": "בור",
+      "gloss": "godka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:54.600659515Z",
+  "model": "glm-5.3"
+}

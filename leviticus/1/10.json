@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Haddii qurubkiisu ka mid yahay adhiga — ka mid ah iddooyinka ama ka mid ah riyaha — allabari (olol) ah, wuu bixin doonaa lib ax ⟨aan⟩ cayn lahayn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "adhiga"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurubkiisu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "iddooyinka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "riyaha"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "allabari (olol) ah"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lib"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cayn lahayn"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "wuu bixin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:39.841540080Z",
+  "model": "glm-5.3"
+}

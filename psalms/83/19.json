@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Oo ay ogaan in adigu — magacagaa waa Yahweh — adiga oo keliya, adiga oo ah Elyon (ka sarreeya), ka sarreeya dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "oo ay ogaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacagaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "adiga oo keliya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:11.295148768Z",
+  "model": "glm-5.3"
+}

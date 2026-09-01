@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 110,
+  "translation": "Adonay ta midigtaada; wuxuu jabi doonaa boqorada maalinta cadhoodkiisa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaada"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "wuxuu jabi doonaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cadhoodkiisa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:01.625191461Z",
+  "model": "glm-5.3"
+}

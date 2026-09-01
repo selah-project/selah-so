@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "ee wiilasha Yuusuf: ee Efrayim, Elishama ina Ammihud; ee Menasheh, Gamliel ina Pedahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ee wiilasha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ee Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ee Menasheh"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsur"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:35.870584619Z",
+  "model": "glm-5.3"
+}

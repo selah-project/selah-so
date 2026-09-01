@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Elohim wuxuu ka hadlay quddusnimadiisa; waan farxayaa, waan qaybinayaa Shekhem, iyo webiga Sukkot waan cabbiraa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wuxuu ka hadlay"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "quddusnimadiisa"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "waan farxayaa"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "waan qaybinayaa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "iyo webiga"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "waan cabbiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:20.509548445Z",
+  "model": "glm-5.3"
+}

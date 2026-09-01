@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Qof nadiif ah waxaad nadiif u noqonaysaa, qof qudhun ahna waxaad qudhun u noqonaysaa.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "qof nadiif ah"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "waxaad nadiif u noqonaysaa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "la"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "qof qudhun ah"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "waxaad qudhun u noqonaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:05.846014759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh waxuu yidhi Axaron: adiga iyo wiilashaada iyo reerka aabahaa la ⟨את⟩ jira waxaad dhaamineysaan ⟨את⟩ dembiga macbadda, iyo adiga iyo wiilashaada la ⟨את⟩ jira waxaad dhaamineysaan ⟨את⟩ dembiga wadaadnimadiinna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "iyo wiilashaada"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo reerka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la jira"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "waxaad dhaamineysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembiga macbadda"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "macbadda"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iyo adiga"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "iyo wiilashaada"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la jira"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "waxaad dhaamineysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dembiga wadaadnimadiinna"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "wadaadnimadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:36.675783006Z",
+  "model": "glm-5.3"
+}

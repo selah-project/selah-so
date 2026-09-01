@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Sidaas ayuu yidhi Yahweh Tseba'oot: Waan hubyay ⟨את⟩ waxa Camaaleq u sameeyay Israa'iil, oo uu u dhigay jidka hoostiisa markuu ka soo kacay Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseba'oot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Waan hubyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa Camaaleq u sameeyay Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "u sameeyay"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Camaaleq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil (u)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uu u dhigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hoostiisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "markuu ka soo kacay"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:48:21.421939511Z",
+  "model": "glm-5.3"
+}

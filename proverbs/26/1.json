@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Sida baraf gu'ga ah iyo sida roob goysiga, sidaas oo kale sharaf kuma habboona nacas.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Sida baraf"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "gu'ga ah"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "iyo sida roob"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "goysiga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas oo kale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kuma habboona"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "nacas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sharaf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:59.394003104Z",
+  "model": "glm-5.3"
+}

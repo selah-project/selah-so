@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsevaot, maqal baryaday; dhegeysi, Elohimka Yacquub. Selah",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryaday"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeysi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:20.091797693Z",
+  "model": "glm-5.3"
+}

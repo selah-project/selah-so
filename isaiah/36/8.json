@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Haddase, la ⟨את⟩ Adonayga boqorka Ashuur ballan qaado, naa, waana kuu siin laba kun oo fardo ah, haddii aad kartid inaad kuu taabisid fardo-fooryo ku saaraya.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddase"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "ballan qaado (maandhoowSamee)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "את",
+      "gloss": "la ⟨את⟩",
+      "marks": "Adonayga boqorka Ashuur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waana kuu siin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "laba kun"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "aad kartid"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inaad siin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "fardo-fooryo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku saaraya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:08.532783822Z",
+  "model": "glm-5.3"
+}

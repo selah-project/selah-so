@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Codka Yahweh wuxuu goynaa ololaha dabta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "wuxuu goynaa (qodaa)"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ololaha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dabta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:15.623688637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Qaali bay ka sarreysaa laamaha, iyo waxa aad doontaba ma la mid noqdo ⟨iyada⟩.",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "Qaali"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bay"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "ka sarreysaa laamaha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo waxa...ba"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "aad doonto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "la mid noqdo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨iyada⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:07.123655038Z",
+  "model": "glm-5.3"
+}

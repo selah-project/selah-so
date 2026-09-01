@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waan kuu hoggaanayaa, waan kuu keenaa gurigii hooyaday; adigaa i barsaa; waan ku waraabaa khamri daarta ah iyo mirkii rummaankayga.",
+  "tokens": [
+    {
+      "surface": "אֶנְהָגֲךָ",
+      "gloss": "Waan kuu hoggaanayaa"
+    },
+    {
+      "surface": "אֲבִיאֲךָ",
+      "gloss": "waan kuu keenaa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "gatii"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אִמִּי",
+      "gloss": "hooyaday"
+    },
+    {
+      "surface": "תְּלַמְּדֵנִי",
+      "gloss": "adigaa i barsaa"
+    },
+    {
+      "surface": "אַשְׁקְךָ",
+      "gloss": "waan ku waraabaa"
+    },
+    {
+      "surface": "מִיַּיִן",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "הָרֶקַח",
+      "gloss": "daarta ah"
+    },
+    {
+      "surface": "מֵעֲסִיס",
+      "gloss": "mirkii"
+    },
+    {
+      "surface": "רִמֹּנִי",
+      "gloss": "rummaankayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:39.000248015Z",
+  "model": "glm-5.3"
+}

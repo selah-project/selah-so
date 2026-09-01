@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Subaxdii ubaxaysaa oo dhaftaa; galabta waa la goyaa oo wuu engegayaa.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ubaxaysaa"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "oo dhaftaa"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "galabta"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "waa la goyaa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "wuu engegayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.012907599Z",
+  "model": "glm-5.3"
+}

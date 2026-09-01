@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "markaad maqasho samada ⟨את⟩ baryadooda iyo ⟨את⟩ khidmadooda, oo aad sameyso xukunkooda.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maqasho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baryadooda"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "baryadooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khidmadooda"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "khidmadooda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "aad sameyso"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "xukunkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:30.983444606Z",
+  "model": "glm-5.3"
+}

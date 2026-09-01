@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxay ka heleen ⟨את⟩ nin Mitsrayim ah beeri dhexdeedeed, waxayna ⟨את⟩ isaga keeneen xagga Daawud, waxayna siyeleen rooti, wuuna cunay, waxayna siyeen biyo inuu cabo.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "waxay ka heleen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim ah"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeri dhexdeedeed"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "waxayna keeneen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (ninka Mitsrayimka ahaa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "waxayna siyeleen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "wuuna cunay"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "waxayna siyeen inuu cabo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:07:00.999627213Z",
+  "model": "glm-5.3"
+}

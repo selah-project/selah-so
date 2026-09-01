@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Waxaan dadka ka qaali dhigaa dahabka nadiinka ah, oo binu-aadamka ka qaali dahabka Fiinaha ee Oofiir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Waxaan ka qaali dhigaa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "dahabka nadiinka ah"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "oo binu-aadamka"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "dahabka Fiinaha"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ee Oofiir"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:06.595862825Z",
+  "model": "glm-5.3"
+}

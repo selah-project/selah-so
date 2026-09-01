@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Yahwehna wuxuu Kajin ku yidhi: Maxaad u xanaqsantahay, oo maxaad u dhaceen wajigaagaa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad u"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "xanaqsantahay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "oo maxaad u"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "dhaceen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaagaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:53.493860103Z",
+  "model": "glm-5.3"
+}

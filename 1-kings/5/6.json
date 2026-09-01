@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Shlomoh waxuu lahaa afartan kun (40,000) oo godad faras ah oo gaadhihiisa lagu rido, iyo laba iyo toban kun (12,000) oo faraskaxye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu lahaa"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "godad"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras ah"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "gaadhihiisa lagu rido"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "faraskaxye"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:18.301163701Z",
+  "model": "glm-5.3"
+}

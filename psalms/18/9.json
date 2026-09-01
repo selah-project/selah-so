@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Qiyaas baa ka soo kacay sanka Klinga, iyo naarta afkiisa bay cuntoon; gubro waa laga shiday.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "waa ka soo kacay"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "qiyaas"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sanka Klinga"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "iyo naarta"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bay cuntoon"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gubro"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "waa laga shiday"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:33.452000641Z",
+  "model": "glm-5.3"
+}

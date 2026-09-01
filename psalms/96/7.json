@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Bixiya Yahweh qoysasku shacabka, bixiya Yahweh ammaan iyo xoog.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "bixiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qoysasku"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bixiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "iyo xoog"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:53.126143272Z",
+  "model": "glm-5.3"
+}

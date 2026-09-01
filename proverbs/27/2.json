@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Qalaad ha kuu faaniyo, afkaagana ha ahaan; shisheeye ha kuu faaniyo, laabahaagana ha ahaan.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ha kuu faaniyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "qalaad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo (ha ahaan)"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "shisheeye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "laabahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:35.738947122Z",
+  "model": "glm-5.3"
+}

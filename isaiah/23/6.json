@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Gudba Tarshish; qaylya kuwa jasiiradda deggan.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "gudba"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "qaylya"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "jasiiradda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:16.215099537Z",
+  "model": "glm-5.3"
+}

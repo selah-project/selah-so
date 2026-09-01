@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Hadda waa maxay waxaan sugayey, Adonay? filashadaydu adigaa ku jirtaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waa maxay"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "waxaan sugayey"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "filashadaydu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigaa ku jirtaa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.891999780Z",
+  "model": "glm-5.3"
+}

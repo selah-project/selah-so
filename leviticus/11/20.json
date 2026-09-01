@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Dhammaan waxa xashishaya ee duusha oo afartaba cag ugu socda, waxa nacaan baa idiin ah",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "waxa xashishaya"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ee duusha"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "oo ku socda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar (cag)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "waxa nacaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.120602295Z",
+  "model": "glm-5.3"
+}

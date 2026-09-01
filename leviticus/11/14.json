@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ ha-Da'ah, iyo ⟨את⟩ ha-Ayah noocaheeda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Da'ah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ha-Da'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Ayah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ha-Ayah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "noocaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:09.176024895Z",
+  "model": "glm-5.3"
+}

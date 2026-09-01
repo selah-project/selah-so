@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Qaaligi tahay indhaha Yahweh geeridii barbaariyadiisa.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Qaaligi tahay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "geeridii"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "barbaariyadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:27.652194239Z",
+  "model": "glm-5.3"
+}

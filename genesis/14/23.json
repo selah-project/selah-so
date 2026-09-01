@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "in aan cilad ilaa dheri-gacan naal ka qaadin wax kastoo adiga kuu ah, si aadan u odhan: anigaa hodan ku dhigay ⟨את⟩ Abraham.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "in aan ... qaadin"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "cilad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "dheri-gacan"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "naal"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo in aan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "qaadan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wax kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga kuu ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "odhan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigaa"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "hodan ku dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abraham"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:24.402386980Z",
+  "model": "glm-5.3"
+}

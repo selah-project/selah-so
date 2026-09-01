@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Oo hadda qayaxannada macbadka si wada ayay ku jajabiyeen qooro iyo masaarad.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "oo hadda"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "qayaxannada"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "si wada"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "qooro"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "iyo masaarad"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ayay ku jajabiyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:57.040664794Z",
+  "model": "glm-5.3"
+}

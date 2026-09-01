@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuuna dhaqaajin doonaa ⟨את⟩ cammarka Yahweh horti, si aysan idinka aqbalin; berriyada Sabti kadib ayaa wadaaddu dhaqaajin doonaa.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Wuxuuna dhaqaajin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cammarka"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "cammarka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "si aysan idinka aqbalin"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "berriyada"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabti kadib"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "dhaqaajin doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:13.877747336Z",
+  "model": "glm-5.3"
+}

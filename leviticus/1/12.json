@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu u qaybinayaa ⟨את⟩ qaybihiisa, iyo ⟨את⟩ madhaxiisa, iyo ⟨את⟩ baruurtiisa; wadaadduna wuxuu habayn doonaa ⟨את⟩ kuwan qoryaha ku yaal ololkii ku yaal madhbaxa.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "wuxuu u qaybinayaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wuxuu qaybinayo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "qaybihiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "madhaxiisa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madhaxiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "baruurtiisa"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "baruurtiisa"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "wuxuuna habayn doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "qoryaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ololkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhbaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:39.841854811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wiilasha Merari, qoysaskooda iyo reer aabbayaashooda, adigu waad tiri doontaa ⟨את⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wiilasha"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "reer"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "aabbayaashooda"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "waad tiri doontaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga (wiilasha Merari)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:42:12.752916488Z",
+  "model": "glm-5.3"
+}

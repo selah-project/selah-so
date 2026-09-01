@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "U hadal ilmaha Israa'iil oo dheh: Bisha toddobaad, maalinta koowaad ee bisha, waa idiin noqonaysa sabbaton (nasasho buuxda), xus buuqa shofarka, shir qudsi ah.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "u hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo dheh"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "bisha"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "toddobaad"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "maalinta koowaad"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bisha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa noqonaysa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabbaton"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xus"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "buuqa shofarka"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "shir"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudsi ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:29.841637820Z",
+  "model": "glm-5.3"
+}

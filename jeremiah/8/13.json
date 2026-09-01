@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 8:13",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waan aruuri doonaa aruurin, neunka Yahweh: canab ma jiro geedka canabbada, oo tin ma jiro geedka tinta, oo cawsku wuu hallay, waxaanan siyay iyaga waxay (iyaga) ka gudbaan.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Waan aruuri doonaa"
+    },
+    {
+      "surface": "אסיפם",
+      "gloss": "aruurin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neunka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "canab"
+    },
+    {
+      "surface": "בגפן",
+      "gloss": "geedka canabbada"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo ... ma jiro"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "tin"
+    },
+    {
+      "surface": "בתאנה",
+      "gloss": "geedka tinta"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "oo cawsku"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wuu hallay"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "waxaanan siyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "יעברום",
+      "gloss": "waxay ka gudbaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:04.363179534Z",
+  "model": "glm-5.3"
+}

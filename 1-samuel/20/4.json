@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Yehonataanna wuxuu Daa'uud ku yidhi: Maxay noloshaadu tiraahdaan? aniga ayaan kuu samayn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Maxay"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tiraahdaan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "noloshaadu"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ayaan samayn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:40.699703782Z",
+  "model": "glm-5.3"
+}

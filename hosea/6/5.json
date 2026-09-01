@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Sidaas darteed nebiyada ayaan ku jiray, waan dilay ereyada afkayga, oo xukunnadaadu sida iftiin bay soo baxaan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "aan ku jiray"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "waan dilay"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "xukunnadaadu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sida iftiin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bay soo baxaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:07.500446152Z",
+  "model": "glm-5.3"
+}

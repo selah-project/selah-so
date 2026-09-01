@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Kohniguna sanduuqa (tena) wuu qaadan doonaa gacantaada, wuuna dhigi doonaa meel horteeda altarka Yahweh Elohimkaagii.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuu qaadan doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohniguna"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "sanduuqa (tena)"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "wuuna dhigi doonaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "meel horteeda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:12:09.185934990Z",
+  "model": "glm-5.3"
+}

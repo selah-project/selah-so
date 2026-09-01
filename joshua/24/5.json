@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaan diray ⟨את⟩ Muuse iyo ⟨את⟩ AXaron, waxaana cudur-dhigay ⟨את⟩ Mitsrayim sida aan u sameeyay dhexdeeda, kadibna waxaan ⟨את⟩ idinka soo bixiyay.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "waxaan diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "AXaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "AXaron"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "waxaana cudur-dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan u sameeyay"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kadibna"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "waxaan soo bixiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:47.053602984Z",
+  "model": "glm-5.3"
+}

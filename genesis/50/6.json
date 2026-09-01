@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Farcoonna wuxuu yidhi: Kor oo aas aabbahay, siduu kuugu dhaartay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kor"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "oo aas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbahay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabbahay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "kuugu dhaartay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:45.377801894Z",
+  "model": "glm-5.3"
+}

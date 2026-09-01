@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yaa ii siya ⟨in aan ogaado⟩ oo aan helo, waana tegi ilaa meesha uu ku deggan yahay?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ii siya"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "⟨in aan ogaado⟩"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "oo aan helo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "waana tegi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "meesha uu ku deggan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:43.132646212Z",
+  "model": "glm-5.3"
+}

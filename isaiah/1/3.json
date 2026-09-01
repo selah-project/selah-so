@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Saca wuxuu garanayaa mulkiilaha, dameerana aqalka sayidkiis (sanqaadhka); Israa'iil ma garanayo, dadkayna ma fahansanaayo.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "wuu garanayaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "saca"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "mulkiilaha"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "dameerna"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sanqaadhka (aqalka luqunta)"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sayidkiis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkayga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "fahansanaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:34.402532105Z",
+  "model": "glm-5.3"
+}

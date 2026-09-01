@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Waxay sameeyeen zig il Gacan-dhaqaajihii Horeb, waxayna sujuudeen sanamka la dhangariyey.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "wiil lil"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Gacan-dhaqaajihii Horeb"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "waxayna sujuudeen"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "sanamka la dhangariyey"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:59.960329951Z",
+  "model": "glm-5.3"
+}

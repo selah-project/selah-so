@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Qorraxdana waxay soo baxday markuu dhaafay ⟨את⟩ Penuuel, isagoo lugta ka hooseysa lug-reeb.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "waxay soo baxday"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Qorraxdana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dhaafay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "lug-reeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka hooseysa"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "lugta"
+    }
+  ],
+  "timestamp": "2026-09-01T00:54:58.227978784Z",
+  "model": "glm-5.3"
+}

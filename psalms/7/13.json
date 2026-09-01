@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Haddii aanuu noqon, seeftiisa wuu dheejinayaa; gaashiishiisii wuu dhaariyey, wuuna diyaariyey.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanuu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "noqon"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "seeftiisa"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "wuu dheejinayaa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "gaashiishiisii"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wuu dhaariyey"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "wuuna diyaariyey"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.035790823Z",
+  "model": "glm-5.3"
+}

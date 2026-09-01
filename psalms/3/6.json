@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Aniga waan seexday, waan huray, waana toosay, waayo Yahweh baa i taageerayaa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "waan seexday"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "waan huray"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "waana toosay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "baa i taageerayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:08.460458510Z",
+  "model": "glm-5.3"
+}

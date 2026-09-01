@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "«Ii soo kora, ii gargaara, oo aannu ku jadeyno ⟨את⟩ Gibcoon, waayo, way nabad-galyo la washedtay ⟨את⟩ Yehooshuuca iyo ⟨את⟩ curada Israa'iil.»",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "soo kora"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ii gargaara"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "aannu ku jadeyno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibcoon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibcoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "way nabad-galyo la washedtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehooshuuca"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:21:46.208910853Z",
+  "model": "glm-5.3"
+}

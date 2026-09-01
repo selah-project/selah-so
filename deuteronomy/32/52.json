@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waayo, waxaad arki doontaa ⟨את⟩ dhulka meel fog, laakiin halkaa ma aadi doontid, dhulkii aan siyeyo ilmaha Israaiil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "waxaad arki doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "laakiin halkaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "aadi doontid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siyeyo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:36.834760586Z",
+  "model": "glm-5.3"
+}

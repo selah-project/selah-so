@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna u dhowaaday Aahron altarka, wuxuuna gowriyay ⟨את⟩ weyligii dembiga ahaa ee isaga lagu talo jiray.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuuna u dhowaaday"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aahron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "wuxuuna gowriyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weyligii dembiga"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "weyligii"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga lagu talo jiray"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:38.048736060Z",
+  "model": "glm-5.3"
+}

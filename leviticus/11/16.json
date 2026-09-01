@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "iyo ⟨את⟩ gabadha ya'anaha (baat ha-Ya'anah), iyo ⟨את⟩ ha-Tachmas, iyo ⟨את⟩ ha-Shachaf, iyo ⟨את⟩ ha-Netz noociisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabadha ya'anaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ya'anaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ha-Tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ha-Shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ha-Netz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ha-Netz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "noociisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:09.176341023Z",
+  "model": "glm-5.3"
+}

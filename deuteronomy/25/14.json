@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Gurigaaga ha lagu dhigin eefah iyo eefah, weyn iyo yar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lagu dhigin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuugu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eefah"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "iyo eefah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "iyo yar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:30.801820470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Oo aan wada xiri kala hadal macaan ah ⟨sodhigii⟩, gurigii Elohim ku socno oo dhan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "xiri kala hadal macaan"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨sodhigii⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ku socno"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:58.656363372Z",
+  "model": "glm-5.3"
+}

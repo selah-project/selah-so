@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 126,
+  "translation": "Hees Koritaanno. Markii Yahweh uu soo celinayey ⟨את⟩ soo-noqdaashii Tsiyoon, waxaan nahay sida kuwa riyooda.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Koritaanno"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "markii uu soo celinayey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soo-noqdaashii Tsiyoon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "soo-noqdaashii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "waxaan nahay"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sida kuwa riyooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:21.071996067Z",
+  "model": "glm-5.3"
+}

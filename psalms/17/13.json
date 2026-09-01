@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Kac Yahweh, hor u qabo wajigiisa, hoos u dhig; ka badbaadi nafidayda sharka seeftaada.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "hor u qabo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "hoos u dhig"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ka badbaadi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafidayda"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "seeftaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:30.359856827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Haddaba habeenkii qaad adiga iyo ⟨את⟩ dadka kula jira, oo beerka ku qarsado.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kula jira"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ku qarsado"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:33:54.556275881Z",
+  "model": "glm-5.3"
+}

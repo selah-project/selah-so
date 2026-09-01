@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Boqorkii wuxuu ninka Elohim ku yidhi: Soo gal ⟨את⟩ ilay guriga, oo cunto, waan ku siinayaa hadiyad.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku hadlay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באה",
+      "gloss": "soo gal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ilay"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "oo cunto"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waan ku siinayaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "hadiyad"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:02.760348946Z",
+  "model": "glm-5.3"
+}

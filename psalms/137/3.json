@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Waayo, halkaas ayaa na waydiistay kuwii na qabsaday ereyada hees, iyo kuwii na baabi'iyay farax, iyagoo leh: Naga heeysa hees ka mid ah heesaha Tsiyoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "na waydiistay"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "kuwii na qabsaday"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hees"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "iyo kuwii na baabi'iyay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farax"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Naga heeysa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "hees ka mid ah"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:32.378322771Z",
+  "model": "glm-5.3"
+}

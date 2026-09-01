@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "El ma aha nin oo been abuura, inoo aadamiga ah oo niyad beddelaya. Hadduu yidhi, ma falayo ma aha? Hadduu hadlay, ma dhaqaynayo ma aha?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "oo been abuura"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "inoo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga ah"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "oo niyad beddelaya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hadduu yidhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma aha inuu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "falo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "hadduu hadlay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma aha inuu"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "dhaqaysho"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:41.119055826Z",
+  "model": "glm-5.3"
+}

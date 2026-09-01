@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Noxa wuxuu sameeyay sida wax kasta oo Elohim ku amaray ⟨את⟩; saasuu sameeyay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noxa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ku amaray"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Noxa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:11.473776099Z",
+  "model": "glm-5.3"
+}

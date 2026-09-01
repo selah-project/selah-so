@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Waxaan si weyn ku farxaa Yahweh, naftaydu waxay ku riyaqaysaa Elohay; waayo wuu ii xidhay dhar badbaado, wuu ii soo labistay maro cedaqa, sida cijaalka oo wadaad ah oo qaata p'er (meherad), iyo sida caffada (aroosada) oo qurxiya alaabteeda.",
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gloss": "waxaan si weyn ku farxaa"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "si weyn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "waxay ku riyaqaysaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "wuu ii xidhay"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "maro"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedaqa"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "wuu ii soo labistay"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "sida cijaalka"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "oo wadaad ah"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "p'er (meherad)"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "iyo sida caffada (aroosada)"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "oo qurxiya"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "alaabteeda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:20.191474588Z",
+  "model": "glm-5.3"
+}

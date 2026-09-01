@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo waxaad gowricaysaan ⟨את⟩ gudcurka qalbigiinna, oo luqunkiinnana ha adkeynina mar dambe.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Oo waxaad gowricaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gudcurka qalbigiinna"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "gudcurka"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbigiinna"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "oo luqunkiinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ... ay"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "adkeynina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:08.627721945Z",
+  "model": "glm-5.3"
+}

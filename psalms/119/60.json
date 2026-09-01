@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan degdegay, oo aan dib u dhigin inaan ilaaliyo amarradaaga.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "waxaan degdegay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "dib u dhigin"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "inaan ilaaliyo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:56.079324854Z",
+  "model": "glm-5.3"
+}

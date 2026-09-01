@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Oo waxaad gelin doontaa ⟨את⟩ ilasha giraadaha kuwaas oo ah dhinacyada sanduuqa, si loo qaado ⟨את⟩ sanduuqa kuwanna.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "oo waxaad gelin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilasha"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ilasha"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "giraadaha kuwaas oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "dhinacyada"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "si loo qaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwanna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:05.099562853Z",
+  "model": "glm-5.3"
+}

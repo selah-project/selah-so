@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Dhulkii wuxuu furmay, wuxuu liqay Dhaataan, wuxuuna daboolay ⟨את⟩ kooxda Abiiraam.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "wuxuu furmay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Dhulkii"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "wuxuu liqay"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dhaataan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "wuxuuna daboolay"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kooxda"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abiiraam"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:54.702049114Z",
+  "model": "glm-5.3"
+}

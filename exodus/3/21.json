@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaan siin doonaa dadkan garab indhaha reer Mitsrayim, oo ⟨markay⟩ dhacaan waayadaan, madhan ma tegaan doontaan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Waxaan siin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garab"
+    },
+    {
+      "surface": "חן",
+      "gloss": "garab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "reer Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo noqon doontaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "waayadaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "tegaan doontaan"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "madhan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:57.497356004Z",
+  "model": "glm-5.3"
+}

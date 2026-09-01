@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 18:18",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Kuwanna waxay galeen gurigii Miyikhaah, waxay qaadteen ⟨את⟩ sanamkii haadowga iyo ⟨את⟩ terafimka iyo ⟨את⟩ sumaaddii la dhoobay; oo wadaankii wuxuu ku yidhi, Maxaad layabseen?",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kuwanna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay galeen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miyikhaah"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaadteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamkii haadowga"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamkii"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "haadowga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "terafimka"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sumaaddii la dhoobay"
+    },
+    {
+      "surface": "המסכה",
+      "gloss": "sumaaddii la dhoobay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaankii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "layabseen"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "layabseen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:39:17.231869416Z",
+  "model": "glm-5.3"
+}

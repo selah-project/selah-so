@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Ya'aqobna wuxuu Yoosef ku yidhi: El Shadday ii muuqday Luus, dhulka Kena'an, wuxuuna ii barakaystay ⟨את⟩(anna).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wuu muuqday"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "Luus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuuna barakaystay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ii (anna)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:31.194140836Z",
+  "model": "glm-5.3"
+}

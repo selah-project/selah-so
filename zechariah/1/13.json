@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo Yahweh wuxuu ka jawaabay ⟨את⟩ malaa'igta igula hadlaysa ereyo wanaagsan, ereyo tasallo ah.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuuna ka jawaabay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaa'igta"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaa'igta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "igula hadlaysa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ereyo"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "tasallo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:56:51.582539629Z",
+  "model": "glm-5.3"
+}

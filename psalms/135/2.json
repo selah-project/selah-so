@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Kuwa guriga Yahweh istaaga, barxaddaha guriga Elohim-keenna.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "kuwa ... istaaga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "barxaddaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:26.609617750Z",
+  "model": "glm-5.3"
+}

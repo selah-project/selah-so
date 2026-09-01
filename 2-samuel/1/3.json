@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Daa'uudna wuxuu ku yidhi, meeqay ka timid? Wuxuuna ku yidhi, kampidda Israa'iil ayaan ka cararay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kiisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "אי",
+      "gloss": "meeqay"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "timid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kiisa"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "kampidda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ayaan ka cararay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:57:30.228365512Z",
+  "model": "glm-5.3"
+}

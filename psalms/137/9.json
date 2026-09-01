@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Nasiib-saan baa leh kan qaadayo ⟨את⟩ ilmahaaga nuujinta oo ku dhufto dhagaxa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib-saan baa leh"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "kan qaadayo"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "oo ku dhufto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmahaaga nuujinta"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ilmahaaga nuujinta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "dhagaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:46.663815476Z",
+  "model": "glm-5.3"
+}

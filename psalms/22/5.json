@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Adiga aawaday waxay kuu talax-taagleen aabbayaashankeenu; waxay talax-taagleen, oo adigaa ⟨waxaa⟩ gargaaray.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Adiga aawaday"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "waxay talax-taagleen"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aabbayaashankeenu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "waxay talax-taagleen"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "oo adigaa gargaaray"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:40.420217497Z",
+  "model": "glm-5.3"
+}

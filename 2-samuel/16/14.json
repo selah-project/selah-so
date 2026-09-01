@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Boqorku iyo dadkii oo dhan ee ⟨את⟩ la ahaa way yimaadeen daal badan, oo halkaa bay naftoodu u nasatay.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "way yimaadeen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo … oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la ahaa"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "daal badan"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "bay naftoodu u nasatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:02:59.860257789Z",
+  "model": "glm-5.3"
+}

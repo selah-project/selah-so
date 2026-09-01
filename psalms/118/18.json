@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Wuu i ciqaabay Yah (si adag), laakiin dhimasho ma ii dhiibin.",
+  "tokens": [
+    {
+      "surface": "יסור",
+      "gloss": "(si adag)"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "Wuu i ciqaabay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "laakiin dhimasho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "ii dhiibin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:23.163542015Z",
+  "model": "glm-5.3"
+}

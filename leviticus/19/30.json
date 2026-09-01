@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Sabbadayda ⟨את⟩ dhawra, iyo macbadkayga ka cabsada; anigu waan Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbadayda"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabbadayda"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "dhawra"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "iyo macbadkayga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ka cabsada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:13.569632490Z",
+  "model": "glm-5.3"
+}

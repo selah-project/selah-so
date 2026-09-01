@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Samo oo sar, iyo dhul oo qoto-dheer, iyo wadnaha boqorroyinkuna ⟨waa⟩ wax aan la baadhin karin.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "samo"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "oo sar"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhul"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "oo qoto-dheer"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "iyo wadnaha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorroyinkuna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "la baadhin karin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:56.996516983Z",
+  "model": "glm-5.3"
+}

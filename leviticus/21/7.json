@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Naag zina-falays ah iyo mid wasakhdaysan ma guursadaan, oo naag ninkeeda ka guuryay ma guursadaan, waayo isagu waa quduus u ah ⟨iyo⟩ Elohiisa.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "zina-falays ah"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "iyo mid wasakhdaysan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "guursadaan"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "oo naag"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "la guuryay"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "ninkeeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "guursadaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu waa"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "Elohiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:24.229164929Z",
+  "model": "glm-5.3"
+}

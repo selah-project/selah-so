@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Korkooda shimbiraha samada way deggan yihiin; laamaha geedaha dhexdooda cod bay ka bixiyaan.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "way deggan yihiin"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "laamaha geedaha"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bay ka bixiyaan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:02.615458169Z",
+  "model": "glm-5.3"
+}

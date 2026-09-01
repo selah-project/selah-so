@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 126,
+  "translation": "Soo noqo, Yahweh, ⟨את⟩ soo-noqdaashayada, sida dooxooyinka biyaha Negeb.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Soo noqo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soo-noqdaashayada"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "soo-noqdaashayada"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sida dooxooyinka biyaha"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negeb"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:21.072622456Z",
+  "model": "glm-5.3"
+}

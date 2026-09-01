@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Ma Yahweh baad u galaan tan, dad nabad-qallan oo aan xigmad laheyn? Ma isaga maahan aabbahaaga, kan iigu dhaqay? Isaga ayuu ku sameeyay oo ku dhisay.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "baad u galaan (u galabtaan)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabad-qallan"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "xigmad laheyn"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabbahaaga"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "kan iigu dhaqay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "ku sameeyay"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "oo ku dhisay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:40.249299688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Waxaad hortiisa ka nadiifisay ⟨dulka⟩, xididdadiisiina wuxuu xididdo qoto dheer, wuxuuna buuxshay dhulka.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "nadiifisay"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "xididdo qoto dheer"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "xididdadiisii"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "buuxshay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:21.889396981Z",
+  "model": "glm-5.3"
+}

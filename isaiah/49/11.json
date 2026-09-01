@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Oo buurahayga dhammaantiis waan ka dhigi doonaa wado, oo jidadkayana waa la kor qaadi doonaa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "waan ka dhigi doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantiis"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "buurahayga"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "wado"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "jidadkayana"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "waa la kor qaadi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:57.393403947Z",
+  "model": "glm-5.3"
+}

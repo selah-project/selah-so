@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ma adiga dheg baad u dhisay ku wareegiisa iyo gurigiisa iyo wuxuu leeyahay oo dhan, dhammaan hareerihiisa? Shuqullada gacmihiisa waad barakaysay, awrtiisana wuu balaadhmay dhulka.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "dheg baad u dhisay"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ku wareegiisa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "iyo ku wareeg"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "iyo ku wareeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "leeyahay"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "hareerihiisa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "waad barakaysay"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "awrtiisana"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "wuu balaadhmay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:49.017753121Z",
+  "model": "glm-5.3"
+}

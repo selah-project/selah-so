@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Qaxootigana ha dhibin, ha naasa-jirin; waayo, idinkoo qaxooti ahayd baad aad ka tihiin dalka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "qaxootigana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "dhibin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "naasa-jirin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "qaxooti ahayd"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "baad aad ka tihiin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:05.685563542Z",
+  "model": "glm-5.3"
+}

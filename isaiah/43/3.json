@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Waayo anigu waxaan ahay Yahweh, Eloimaagii, Quduuska Israa'iil, Badbaadiyaahaa. Waxaan ku siiyay fur naarta ah Mitsrayim, Kush iyo Seba naarta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloimaagii"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Quduuska"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Badbaadiyaahaa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan ku siiyay"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "fur naarta ah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "iyo Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "naarta"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:11.640413766Z",
+  "model": "glm-5.3"
+}

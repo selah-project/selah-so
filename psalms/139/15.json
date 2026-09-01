@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Lafooyinkaygu lama qarin adiga, markii aan la sameeyn meel qarsoon, oo la dookhiyay hoosyada dhulka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "loma"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "lama qarin"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Lafooyinkaygu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "markii"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan la sameeyn"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "meel qarsoon"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "la dookhiyay"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "hoosyada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:21.730523055Z",
+  "model": "glm-5.3"
+}

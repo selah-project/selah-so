@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Dawidna wuxuu koray meeshaas, iyo labadiisa naagoodba: Axinoam ta reer Yizreel, iyo Abigayil naagii Nabaal Karmeliga ah.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu koray"
+    },
+    {
+      "surface": "שם",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "iyo ... ba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labadiisa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "naagood"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Axinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "ta reer Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "iyo Abigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagii"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmeliga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:29.759478862Z",
+  "model": "glm-5.3"
+}

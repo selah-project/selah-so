@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yahweh waxna wuxuu Muuse ku yidhi: ma gacanta Yahweh baa go'day? Imminka waxaad arki doontaa inay kuu dhacaan hadalladayda iyo in aanay dhicin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "היד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "ma ... go'day"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "imminka"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "waxaad arki doontaa"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "inay kuu dhacaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadalladayda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanay dhicin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:46:50.508959783Z",
+  "model": "glm-5.3"
+}

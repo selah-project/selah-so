@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "waxayna dabooli doontaa ⟨את⟩ indhaha dhulka, waana la arki karin ⟨את⟩ dhulka; waxayna cuni doontaa ⟨את⟩ waxa hartay ee ka badbaaday barafka idinkaga harey, waxayna cuni doontaa ⟨את⟩ dhammaan geedaha idiinku koray beeraha.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "waxayna dabooli doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhaha dhulka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waana la"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karin"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "arki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "waxayna cuni doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa hartay"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "waxa hartay"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "ka badbaaday"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "harey"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiinka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "barafka"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "waxayna cuni doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan geedaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "koray"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiinku"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:50.003740712Z",
+  "model": "glm-5.3"
+}

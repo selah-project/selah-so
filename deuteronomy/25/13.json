@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Kiiskaaga ha lagu dhigin il iyo il, weyn iyo yar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lagu dhigin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuugu"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "kiiskaaga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "il"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo il"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "iyo yar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:30.801521313Z",
+  "model": "glm-5.3"
+}

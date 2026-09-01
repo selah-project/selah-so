@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Adiga, adiga keliya ayaan ku denbi galay, oo xumaanta xaflagaaga ayaa aan sameeyay, si aad u adagto Xaqa hadalkaaga, si aad u daahir noqoto xukunkaaga.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ayaan ku denbi galay"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "xumaanta"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "xaflagaaga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aan sameeyay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "adagto Xaqa"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "daahir noqoto"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "xukunkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:43.271605373Z",
+  "model": "glm-5.3"
+}

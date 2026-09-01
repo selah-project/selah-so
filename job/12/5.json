@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Laambigu waa la fool-xunshaa fikirka nabad-qabaha, waana loo diyaariyay kuwa cagtu u dhaqaaqdo.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "laambigu"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "fool-xun"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "fikirka"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "nabad-qabaha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "loogu diyaariyay"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "cagta u dhaqaaqdo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:12.402903425Z",
+  "model": "glm-5.3"
+}

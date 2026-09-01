@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Aabayaashiin, xaggeed bay yihiin? Oo nebiyadiina, ma weligay bay noolaan doonaan?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Aabayaashiin"
+    },
+    {
+      "surface": "איה",
+      "gloss": "xaggeed"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bay yihiin"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "Oo nebiyadiina"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ma weligay"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bay noolaan doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:56:19.823649804Z",
+  "model": "glm-5.3"
+}

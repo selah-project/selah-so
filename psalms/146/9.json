@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Yahweh wuxuu ilaaliyaa ⟨את⟩ garoobada, agoonta iyo milugdana wuu taaggiyaa, jidka sharksanana wuu qalloocsiiyaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wuxuu ilaaliyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garoobada"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "garoobada"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "agoonta"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "iyo milugda"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "wuu taaggiyaa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharksan"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wuu qalloocsiiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:08.822356358Z",
+  "model": "glm-5.3"
+}

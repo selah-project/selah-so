@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu yidhi Yehooshuuca, Waxaa ⟨⟨jira⟩⟩ ⟨את⟩ hadalka Yahweh isaga dhexgiisa, markaasay u degteen boqorka Israa'iil iyo Yehooshuuca iyo boqorka Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Waxaa jira"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hadalka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "markaasay u degteen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga (u)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "iyo Yehooshuuca"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "iyo boqorka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:22.961963671Z",
+  "model": "glm-5.3"
+}

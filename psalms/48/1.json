@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Hees mizmor ah oo cururada Korach ka mid ah.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hees"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (qaab muusig)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cururada"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:56.101133410Z",
+  "model": "glm-5.3"
+}

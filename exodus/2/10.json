@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ilmuhu wuu weynaaaday, haweenaydii waxay u keentay gabadha Farcoon, wuxuuna noqday ⟨ilmo⟩ in ay u yahay wiil. Waxay u yeertay magiciisa Muuse, waxayna tiri: waayo, biyaha baan ka soo saaray.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "wuu weynaaaday"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmuhu"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "waxay u keentay"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna noqday"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ay u yahay"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waxay u yeertay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magiciisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "baan ka soo saaray"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:31.350330406Z",
+  "model": "glm-5.3"
+}

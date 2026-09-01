@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Kaalaya oo aannu u noqonno Yahweh, waayo isagaa ayuu na gooyay, oo wuu na daweyn doonaa; wuu na garaacay, oo wuu na daawin doonaa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "oo aannu u noqonno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagaa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ayuu na gooyay"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "oo wuu na daweyn doonaa"
+    },
+    {
+      "surface": "יך",
+      "gloss": "wuu na garaacay"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "oo wuu na daawin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:28.724747390Z",
+  "model": "glm-5.3"
+}

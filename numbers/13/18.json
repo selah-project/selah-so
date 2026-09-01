@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Oo egaantaan ⟨את⟩ dhulka — waa maxay? — iyo ⟨את⟩ shacabka ku deggan: miyuu adag yahay mise daciif? Miyuu yahay yar mise badan?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "egaantaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waa maxay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ay]]"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ku deggan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "adag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "miyuu"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "daciif"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "miyuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:55.882639015Z",
+  "model": "glm-5.3"
+}

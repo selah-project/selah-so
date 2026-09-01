@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 146,
+  "translation": "Noloshayda oo dhan waan ammaanayaa Yahweh; weligayba waan qaadayaa Heesaha Elohimay ilaa iigu jiro.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "waan ammaanayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "noloshayda gudheed"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waan qaadayaa hees"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimay (u)"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ilaan weli noolahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:53.366548962Z",
+  "model": "glm-5.3"
+}

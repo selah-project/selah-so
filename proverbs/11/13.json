@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ruux socda oo gafa-qaade ah wuu muujinaa sir (sod), laakiin kan ruuxiisu aaminsan tahay wuu daboolaa hadal.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "socda"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "gafa-qaade ah"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "wuu muujinaa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sir (sod)"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "laakiin kan aaminsan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxiisu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "wuu daboolaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadal"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:44.940025282Z",
+  "model": "glm-5.3"
+}

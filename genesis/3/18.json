@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo qodax iyo riid-ma-dhisay baa kuu bixin doontaa, adiguna waxay cuni doontaa ⟨את⟩ geedka-beeraha beeriga.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "oo qodax"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "iyo riid-ma-dhisay"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "baa kuu bixin doontaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "adiguna waxay cuni doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geedka-beeraha beeriga"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "geedka-beeraha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beeriga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:44.245821627Z",
+  "model": "glm-5.3"
+}

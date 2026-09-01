@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Wuxuu Muuse tagay, oo wuxuu ka hadlay ⟨את⟩ ereyadaan dhammaan Israa'iil.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu tagay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oo wuxuu ka hadlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(aqonsi: ereyadaan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:10.827482416Z",
+  "model": "glm-5.3"
+}

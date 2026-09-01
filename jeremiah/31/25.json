@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waayo, anigoo wax ku cabayay nefesh daallan, oo nefesh kasta oo dhaawacaysan baan waan ka dhergay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "wax ku cabayay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "daallan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo kasta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "dhaawacaysan"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "waan ka dhergay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:58.728562806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Labbadaagu way qaylo-dhaqaaqi doonaan markaan ku heeso, iyo nafdayda, tidhahaad gaadhsiiyay.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "way qaylo-dhaqaaqi doonaan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "labbadaagu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markaan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ku heeso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "iyo nafdayda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tidhaha"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "gaadhsiiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:14.819578105Z",
+  "model": "glm-5.3"
+}

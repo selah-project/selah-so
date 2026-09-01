@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo waxay dhashay ilmo lab — ⟨את⟩ Yeush iyo ⟨את⟩ Shemaryah iyo ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(u)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmo lab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:51.333244361Z",
+  "model": "glm-5.3"
+}

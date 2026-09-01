@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wiil keliya oo Aximelex, wiilkii Axitoob, buu cararay oo badbaaday, magaciisuna Abiyaatar, wuuna Dahawid ka cararay.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "buu cararay oo badbaaday"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "oo Aximelex"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Axitoob"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "magaciisuna"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyaatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wuuna cararay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dahawid"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:25.687824629Z",
+  "model": "glm-5.3"
+}

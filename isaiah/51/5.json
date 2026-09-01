@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Dhow bay tahay xaqnimadayda, baxdaysay badbaadaydayda, oo gacmahaygu quruunaha bay xukumi doonaan; jazeeruhu i sugayaan, oo gacmeyda bay rajo moodayaan.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dhow"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "xaqnimadayda"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baxdaysay"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "badbaadaydayda"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "oo gacmahaygu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "quruunaha"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "bay xukumi doonaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "איים",
+      "gloss": "jazeeruhu"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "sugayaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "gacmeyda"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "bay rajo moodayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:20.087824920Z",
+  "model": "glm-5.3"
+}

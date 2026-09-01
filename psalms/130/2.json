@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Adonay, maqal codkay; dhegtahaaga ha ahaadaan kuwa dhegeysanaya codka baryaday.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "codkay"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ha ahaadaan"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "dhegtahaaga"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "kuwa dhegeysanaya"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "baryaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:54.309746811Z",
+  "model": "glm-5.3"
+}

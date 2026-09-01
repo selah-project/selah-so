@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaana ay ku noolayd faracii Yisraa'iil Mitsrayim afartan iyo saddex boqol oo sano.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "waxaana ay ku noolayd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "faracii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ku noolaaheen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "saddex(30)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "afartan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "saddex boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:57.116479356Z",
+  "model": "glm-5.3"
+}

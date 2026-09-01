@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo ay ilaaliyaan ⟨את⟩ dhowridda khaymada kulanka, iyo ⟨את⟩ dhowridda waxa quduuska ah, iyo dhowridda wiilasha Aaroon walaalahood, adeebka baytkii Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמְר֞וּ",
+      "gloss": "oo ay ilaaliyaan"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "dhowridda"
+    },
+    {
+      "surface": "מִשְׁמֶ֣רֶת",
+      "gloss": "dhowridda"
+    },
+    {
+      "surface": "אֹֽהֶל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מוֹעֵ֗ד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhowridda"
+    },
+    {
+      "surface": "מִשְׁמֶ֣רֶת",
+      "gloss": "dhowridda"
+    },
+    {
+      "surface": "הַקֹּ֔דֶשׁ",
+      "gloss": "waxa quduuska ah"
+    },
+    {
+      "surface": "וּמִשְׁמֶ֖רֶת",
+      "gloss": "iyo dhowridda"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "Aaroon"
+    },
+    {
+      "surface": "אֲחֵיהֶ֑ם",
+      "gloss": "walaalahood"
+    },
+    {
+      "surface": "לַעֲבֹדַ֖ת",
+      "gloss": "adeebka"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:32:20.249745705Z",
+  "model": "glm-5.3"
+}

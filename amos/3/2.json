@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Keliya idinkoo ⟨את⟩ aan aqaan, ka mid ah dhammaan qoysaska dhulka; sidaa darteed waan idiin celiyaa ⟨את⟩ dhammaan xadgudubyadiinna.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "idinkoo ⟨את⟩",
+      "marks": "aan aqaan (waxa ay calaamadeysayso: idinka)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aan aqaan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka mid ah dhammaan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qoysaska"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaa darteed (ul)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaa darteed"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "waan idiin celiyaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan xadgudubyadiinna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "xadgudubyadiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T08:28:56.010582345Z",
+  "model": "glm-5.3"
+}

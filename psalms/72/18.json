@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Waa la barakadaynayaa Yahweh Elohim, Eloah Yisra'el, kan keligiis samaysta waxyaalaha la yaabka leh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Waa la barakadaynayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kan samaysta"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "waxyaalaha la yaabka leh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "keligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:18.626158953Z",
+  "model": "glm-5.3"
+}

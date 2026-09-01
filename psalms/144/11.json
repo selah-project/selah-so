@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "I gargaar oo i soo saar gacanta curuurta shisheeyaha ah, afkoodana wax been ah bay hadlaan, gacantooda midigna waa gacan khiyaano ah.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "i gargaar oo i soo saar"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "oo i badbaadi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curuurta"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "shisheeyaha ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(kan)"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "afkooda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bay hadlaan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "wax been ah"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "gacantooda midigna"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "khiyaano ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:14.792251164Z",
+  "model": "glm-5.3"
+}

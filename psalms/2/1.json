@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Maxay quruunuhu u qeyliyeen, oo shacabku ma waxay qorsheeyaan wax madhan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maxay"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "u qeyliyeen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "quruunuhu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "oo shacabku"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "qorsheeyaan"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "wax madhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:20.471073385Z",
+  "model": "glm-5.3"
+}

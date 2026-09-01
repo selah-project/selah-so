@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Marka Abraham wuu istaagay oo wuu u sujuuday dadka dhulka, Ilmii Chet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuu istaagay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wuu u sujuuday"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ilmii"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:31.587957448Z",
+  "model": "glm-5.3"
+}

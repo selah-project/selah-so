@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Nadarka dhilliguba iyo kan la eryayba, wax kastoo ay ku xiratay nafteeda wuu taaggi yahay iyaga.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "nadarka"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "dhilliguba"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "iyo kan la eryayba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ay ku xiratay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nafteeda"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "wuu taaggi yahay"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:50.381170377Z",
+  "model": "glm-5.3"
+}

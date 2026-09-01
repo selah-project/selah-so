@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Kan sameeyay iftiin weyn (waaweyn) — maxaa yeelay, weligiis baahay khesedkiisu.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kan sameeyay"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "weyn (waaweyn)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:13.714806180Z",
+  "model": "glm-5.3"
+}

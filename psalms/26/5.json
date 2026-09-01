@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan necebahay shirka xumeeyaasha, oo ⟨⟩ Rasuul-xume aanan la fadhiyin.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Waxaan necebahay"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "xumeeyaasha"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo ⟨⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Rasuul-xume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "la fadhiyin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:26.814368200Z",
+  "model": "glm-5.3"
+}

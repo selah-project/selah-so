@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Ma wanaagsan baa inuu ⟨את⟩ idin baaro? ama sidii dadka laga qoslo miyaad isaga ku qoslaysaan?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Ma wanaagsan baa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "uu baaro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "sidii laga qoslo"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "aad ku qoslaysaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:10.807484527Z",
+  "model": "glm-5.3"
+}

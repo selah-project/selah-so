@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay u samaysaa wanaag oo shar ma aha, inta maalmada nolosheeda.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Waxay u samaysaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo shar ma aha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "inta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmada"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "nolosheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:37.042370647Z",
+  "model": "glm-5.3"
+}

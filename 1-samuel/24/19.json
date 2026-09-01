@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oo adigu maanta waxaad muujisay ⟨את⟩ wanaagga aad ⟨את⟩ iila sameysay, ⟨את⟩ markii Yahweh ii dhisay gacantaada, oon aan ku dilin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo adigu"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "waxaad muujisay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanaagga aad ila sameysay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iila"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markii Yahweh ii dhisay gacantaada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "markii"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ii dhisay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oon"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "aan ku dilin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:05.127234463Z",
+  "model": "glm-5.3"
+}

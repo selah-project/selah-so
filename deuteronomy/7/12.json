@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 7:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo waxay noqon doontaa, hoggaanka oo ah inaad maqashaan ⟨את⟩ xaqa-yeelladan, aadna ilaaliysaan oo sameysaan ⟨את⟩ ⟨waxayba⟩, in Yahweh Elohimkaaga kuu ilaaliyo ⟨את⟩ ballanka iyo ⟨את⟩ khesedka uu ku dhaartay aabayaashii.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hoggaanka oo ah"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "inaad maqashaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaqa-yeelladan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xaqa-yeelladan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "aadna ilaaliysaan"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "oo sameysaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨waxayba⟩"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "kuu ilaaliyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballanka"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ballanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "khesedka"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "khesedka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kuu dhaartay"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aabayaashii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:49.313330374Z",
+  "model": "glm-5.3"
+}

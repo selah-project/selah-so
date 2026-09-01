@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Bisha toddobaad iyo sagaalkeedii, abaartu way adkaatay magaalada, oo dadka dhulka cunto ma jirin.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "sagaalkeedii"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "Bisha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "way adkaatay"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "abaartu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "jirin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:36:49.433070374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Anigu aafka boqorka ⟨waxaan kugula talinayaa⟩ inaad dhawrato, iyo sababta qasamka Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "aafka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "inaad dhawrato"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo sababta"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sababta"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "qasamka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:25.209247032Z",
+  "model": "glm-5.3"
+}

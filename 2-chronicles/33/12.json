@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Oo markuu dhibtay wuxuu u baryay ⟨את⟩ wajiga Yahweh Elohiimkiis, wuxuuse is-dullay aad u badan ka hor wajiga Elohiima aabbayaashiis.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "markuu dhibtay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "u baryay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiimkiis"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "wuxuuse is-dullay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ka hor wajiga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiima"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:45:28.966663162Z",
+  "model": "glm-5.3"
+}

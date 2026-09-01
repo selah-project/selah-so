@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ha damcin quruxdeeda ⟨wadanakaaga gudihiisa⟩, ha oollinna adiga ay ku qaadato ilmo-dhareereheeda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha (diid)"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "damcin"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "quruxdeeda"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "wadanakaaga gudihiisa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha oollinna"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "ay ku qaadato adiga"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "ilmo-dhareereheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:07.329050969Z",
+  "model": "glm-5.3"
+}

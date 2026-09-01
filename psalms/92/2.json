@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Wanaag baa Yahweh ku mahadin, iyo magacaaga oo Dugsarreeya in lagu xameeyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Wanaag"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "mahadin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "xameeyo"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Dugsarreeya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.116587143Z",
+  "model": "glm-5.3"
+}

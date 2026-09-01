@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Buuraha wuxuu ku dheelay hooskiisii, laambadahiisuna waxay ahaayeen sidii sidaaraha El (sidaar waaweyn).",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "dheelay"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "hooskiisii"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "laambadahiisuna"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sidaaraha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:21.889640887Z",
+  "model": "glm-5.3"
+}

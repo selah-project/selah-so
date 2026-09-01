@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yaa tiri kara foosha Ya'aqoob, ama tirinta ⟨את⟩ rubucca Israa'iil? Naaftaydu ha dhinto geeridii kuwa toosan, oo dhammaadkaygu ha noqdo sida iyaga.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "tiri kara"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "foosha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqoob"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ama tirinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rubucca Israa'iil"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "rubuc"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "ha dhinto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Naaftaydu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "geeridii"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oo ha noqdo"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "dhammaadkaygu"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sida iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:27.303743398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Sida wasakhhooda iyo fasahaadkooda ayaan ⟨את⟩ iyaga u sameeyey, oo aan qaray wejigayga ka teganay.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sida wasakhhooda"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "iyo fasahaadkooda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ayaan u sameeyey"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "oo aan qaray"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejigayga"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka teganay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:18.455158986Z",
+  "model": "glm-5.3"
+}

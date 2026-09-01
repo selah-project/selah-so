@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaad gaabisay maalmaha dhalinyaranimadiisii, waxaadna ku dulegtidisay sharmar. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "waad gaabisay"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "dhalinyaranimadiisii"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "waadna ku dulegtidisay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "sharmar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:51.464696819Z",
+  "model": "glm-5.3"
+}

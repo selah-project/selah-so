@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Iyo ⟨את⟩ Ashan iyo ⟨את⟩ merasheeda, iyo ⟨את⟩ Beyt-Shemesh iyo ⟨את⟩ merasheeda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "merasheeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "merasheeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Beyt-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "merasheeda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "merasheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:21.322725252Z",
+  "model": "glm-5.3"
+}

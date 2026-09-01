@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Yahweh wuxuu la hadlay Muuse iyo Axaron ⟨markii lagu odhanayey⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨markii lagu odhanayey⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T01:32:32.136636919Z",
+  "model": "glm-5.3"
+}

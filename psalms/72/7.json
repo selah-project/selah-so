@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Wuu ubaxi doonaa maalmahiisa ⟨kuwa⟩ xaqa ah, iyo nabad badan, ilaa dayaxu aan jirin.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "wuu ubaxi doonaa"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "maalmahiisa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "xaqa ah"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "iyo badnaan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "aan jirin"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "dayaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.648622221Z",
+  "model": "glm-5.3"
+}

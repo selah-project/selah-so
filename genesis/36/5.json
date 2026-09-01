@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Oholibamahna waxay dhashay ⟨את⟩ Ye'iish, iyo ⟨את⟩ Ya'laam, iyo ⟨את⟩ Qorach — kuwan waa wiilasha Esav oo ku dhashay ⟨dalka⟩ Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Oholibamahna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'iish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ye'iish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Ya'laam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ya'laam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Qorach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waa wiilasha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ku dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dalka⟩"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:53.709603188Z",
+  "model": "glm-5.3"
+}

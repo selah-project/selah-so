@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Nabadow ayaa tahay kan magaca Yahweh ka yimid; waannu idinla naxariistay (waannu barakaynay) guriga Yahweh ka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nabadow ayaa tahay"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kan... ka yimid"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "waannu idinla naxariistay (waannu barakaynay)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "guriga... ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:46.656055340Z",
+  "model": "glm-5.3"
+}

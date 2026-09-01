@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo iyaga oo cuna lahabka degmadayda, oo garkooda ka goystay, iyo ⟨את⟩ lafahooda ay jajabiyeen, oo sidii wax berdin laga diiday si ay u dhiibtaan sida ku jirta digsi, iyo sida hilibka dhexda kiishka.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "oo iyaga oo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "cuna"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lahabka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "degmadayda"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "garkooda"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ka goystay"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "oo ka goystay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lafahooda"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "lafahooda"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ay jajabiyeen"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "oo u dhiibteen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "ku jirta digsi"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "iyo sida hilibka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kiishka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:45.922462970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Haddii buun magaalo laga dhawaaqo, dadku ma cabsanayaan ma aha? Haddii xumaan magaalo ka dhacayso, Yahweh ma ku sameeyay ma aha?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "laga dhawaaqo"
+    },
+    {
+      "surface": "שופפר",
+      "gloss": "buun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dadku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "cabsanayaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka dhacayso"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ku sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:48:11.793587805Z",
+  "model": "glm-5.3"
+}

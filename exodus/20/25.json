@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo haddii aad ii sameysato meel-allabari oo dhagax ah, ha dhisan ⟨את⟩ dhagaxyada la jaray (gaziit); waayo, qoriinkaaga (seefkaaga) aad kor u dhaaftay, waadna ka nijaanaysay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meel-allabari"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "oo dhagax ah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aad sameysato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha dhisan (ma aha)"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "aad dhisaan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyada la jaray (gaziit)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "dhagaxyada la jaray (gaziit)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qoriinkaaga (seefkaaga)"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "aad kor u dhaaftay"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "saaran"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "waadna ka nijaanaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:29.816846614Z",
+  "model": "glm-5.3"
+}

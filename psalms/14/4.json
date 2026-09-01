@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ma miyaan wax garadin dhammaan kuwa fala xumeed, cunayaasha qabcaddayda sida ay rootiga cunaan? Yahweh ma ay caayeen.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma miyaan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wax garadin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kuwa fala"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumeed"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "cunayaasha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qabcaddayda"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "cunaan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rootiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ay caayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:53.864169293Z",
+  "model": "glm-5.3"
+}

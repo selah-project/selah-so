@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Luuq nadiif ii abuur, Elohimow, oo ruux sugan ii cusboonaysii gudahayday.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Luuq"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadiif"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "abuur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "oo ruux"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sugan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusboonaysii"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "gudahayday"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:43.365758332Z",
+  "model": "glm-5.3"
+}

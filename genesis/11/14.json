@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Shelach wuxuu noolaa sodon sano, oo wuxuu dhalay ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Oo Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuxuu noolaa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "sodon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:31.501317132Z",
+  "model": "glm-5.3"
+}

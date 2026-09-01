@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Na'aami-na waxay qaadatay ⟨את⟩ ilmaha, waxayna dhigtay gacmihiisa hoostooda; waxayna noqotay ilmaha hooyadis (daryeel).",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "waxay qaadatay"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'aami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "waxayna dhigtay"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "gacmihiisa hoostooda"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uxii"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "hooyadis (daryeel)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:36.535348032Z",
+  "model": "glm-5.3"
+}

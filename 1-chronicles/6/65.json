@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo qabiilka Gad waxay bixiyeen ⟨את⟩ Raamoot ee Gilcaad iyo ⟨את⟩ beeraha qarsooda, iyo ⟨את⟩ Maxanayim iyo ⟨את⟩ beeraha qarsooda.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qabiilka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamoot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamoot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ee Gilcaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beeraha qarsooda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beeraha qarsooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Maxanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maxanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beeraha qarsooda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beeraha qarsooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:03.933762796Z",
+  "model": "glm-5.3"
+}

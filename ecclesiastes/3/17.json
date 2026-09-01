@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxaan qalbiga ku idhi, ani: ⟨את⟩ il-baxa iyo ⟨את⟩ gardarrada wuu xukumi doonaa Elohim, waayo waqtigu waa kan shan kasta, iyo wax kasta oo camal ah halkaas.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "qalbiga ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il-baxa"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "il-baxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gardarrada"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "gardarrada"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "wuu xukumi doonaa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqtigu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "shan kasta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "la doono"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku saabsan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "camal ah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:55.211796636Z",
+  "model": "glm-5.3"
+}

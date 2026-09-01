@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Dhulka oo dhan wuu ku sujuudi doonaa, waxayna ku qabi doonaan (muusiga); waxay qabi doonaan Magacaaga. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Dhulka"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "wuu ku sujuudi doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "waxayna ku qabi doonaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "waxay qabi doonaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:25.573118635Z",
+  "model": "glm-5.3"
+}

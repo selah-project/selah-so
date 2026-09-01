@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Cabsi iyo god-noqod ⟨waa⟩ noo gaaray — habaar iyo burbur.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "cabsi"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "iyo godka-tuulada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noo gaaray ⟨waa⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "habaarta"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "iyo burburka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:39.642073413Z",
+  "model": "glm-5.3"
+}

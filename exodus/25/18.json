@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxaad samaynaysaa laba keruub ah oo dahab ah, shaqo la dul-dubay (mikshah) aad ku samaynaysaa ⟨את⟩ labada daraf ee Kapporetka.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaynaysaa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruub ah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "shaqo la dul-dubay (mikshah)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aad ku samaynaysaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labada daraf"
+    },
+    {
+      "surface": "משני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "daraf ee"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporetka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:25.984674275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "God wuu qoday, wuuna balaariyey; wuuna ku dhacay godkii uu sameeyay ⟨shaqadiisii⟩.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "God"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "wuu qoday"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "wuuna balaariyey"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wuuna ku dhacay"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "godkii"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "uu sameeyay ⟨shaqadiisii⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:47.036300570Z",
+  "model": "glm-5.3"
+}

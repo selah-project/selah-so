@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Gacantiisa waxaa ku jiraa nafii wax nool oo dhan, iyo ruuxii basasha cbasasha dhammaan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "(xiriir)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax nool oo dhan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wax nool"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "iyo ruuxii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "basasha cbasasha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:41:48.053935128Z",
+  "model": "glm-5.3"
+}

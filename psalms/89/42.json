@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Dhammaan kuwa waddada maraya way saacidayeen ⟨isaga⟩; wuxuu noqday ceeb derbihiisa.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "way saacidayeen ⟨isaga⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kuwa wax maraya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "derbihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:07.984581359Z",
+  "model": "glm-5.3"
+}

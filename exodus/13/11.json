@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wayna noqon doontaa markay Yahweh adiga keeno dhulkii Kenaaniga ah, sida uu kugu dhaartay adiga iyo aabbayaashaa, oo kuu siiyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wayna noqon doontaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "adiga keeno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaaniga ah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "uu dhaartay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga (kugu)"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "iyo aabbayaashaa"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "oo kuu siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga (kuu)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:11:25.637405421Z",
+  "model": "glm-5.3"
+}

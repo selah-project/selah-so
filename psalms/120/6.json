@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 120,
+  "translation": "Waqti dheer bay noloshaydu ku dhalatay ⟨celiyada⟩ cunugga nabad-diidka ah.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Waqti dheer"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "bay ku dhalatay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨celiyada⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "noloshaydu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "cunugga nabad-diidka ah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:11.698137665Z",
+  "model": "glm-5.3"
+}

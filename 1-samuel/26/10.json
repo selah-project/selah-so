@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Dawidna wuxuu yidhi: Yahweh oo nool esshaa, haddii Yahweh aysan garaacin karin, ama maalintiisu ay timaaddo o uu dhinto, ama uu dagaal ku dhaco oo baabbi'o.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oo nool"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddii ay tahay in"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aysan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "garaacin karin"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "maalintiisu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ay timaaddo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o uu dhinto"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ku dhaco"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "oo baabbi'o"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:23.393707554Z",
+  "model": "glm-5.3"
+}

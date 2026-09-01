@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Muuse wuxuu soo saaray ⟨את⟩ shacabka si ay u kulmaan Elohim, ka baxsan xerada, wayna taagan yihiin hoosha buurta.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "wuxuu soo saaray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "si ay u kulmaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka baxsan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "xerada"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "wayna taagan yihiin"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:09.986318245Z",
+  "model": "glm-5.3"
+}

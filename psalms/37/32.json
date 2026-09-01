@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Xume wuxuu soo eegayaa gar-yaqaanka, wuuna doonayaa inuu dilo.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "wuxuu soo eegayaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "xume"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "gar-yaqaanka"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "wuuna doonayaa"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "inuu dilo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:47.730205210Z",
+  "model": "glm-5.3"
+}

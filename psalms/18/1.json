@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Madaxa gabayga (oo ah) addoonka Yahweh, oo ah Daawuud, kaasi oo u hadlay Yahweh ⟨את⟩ erayada heestan, maalintii Yahweh uu badbaadinayay ⟨את⟩ isaga gacanta dhammaan cadowyihiisa iyo gacanta Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "madaxa gabayga"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "addoonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasi oo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu u hadlay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada heestan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "heesta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "uu badbaadinayay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowyihiisa"
+    },
+    {
+      "surface": "ו מיד",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:18.290059249Z",
+  "model": "glm-5.3"
+}

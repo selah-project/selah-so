@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Kuwanu waa wiilashii Se'ir ee Horiiga, kuwa ku noolaa ⟨dalka⟩: Lotaan, iyo Shobal, iyo Sibeon, iyo Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwanu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horiiga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa ku noolaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨dalka⟩"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotaan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "iyo Shobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "iyo Sibeon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "iyo Anah"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:00.796837255Z",
+  "model": "glm-5.3"
+}

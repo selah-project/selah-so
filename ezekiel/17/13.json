@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 17:13",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Wuxuuna qaatay mid durriyada boqortooyada, wuxuuna la ⟨את⟩ isaga gooyay balli, wuxuuna keenay ⟨את⟩ isaga dhaarta, iyo ⟨את⟩ adkaayaasha dhulkana wuu qaaday.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "mid durriyada"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wuxuuna la gooyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "balli"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna keenay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (dhaarta)"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "dhaarta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adkaayaasha dhulka"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "adkaayaasha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuu qaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T04:30:37.619709748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "markaas aa qaadi doonaan aabihii gabadha iyo hooyadeed, oo ay soo saari doonaan ⟨את⟩ calaamadaha bikradnimada gabadha, xagga odayaasha magaalada ee iridda.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "oo ay qaadi doonaan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "iyo hooyadeed"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "oo ay soo saari doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calaamadaha bikradnimada gabadha"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "calaamadaha bikradnimada"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "iridda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:12:16.689593155Z",
+  "model": "glm-5.3"
+}

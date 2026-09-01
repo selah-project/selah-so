@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuu yidhi: Elohim ee Israa'iil ii hadlay, oo Dhagaxgii Israa'iil wuxuu yidhi: kan aadmiga xukumaa waa mid gar adag, kan cabsida Elohim ku xukumaa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadlay"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Dhagaxgii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kan... xukumaa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "aadmiga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mid gar adag"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ku xukumaa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:07:57.425729108Z",
+  "model": "glm-5.3"
+}

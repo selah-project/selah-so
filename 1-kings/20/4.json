@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Boqorka Israa'iilna wuxuu jawaabay, wuxuuna yidhi: Sida hadalkaaga, sayidkay boqorkow, waxba waa adiga; ani iyo waxa ⟨aniga⟩ ila ah oo dhan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu jawaabay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Boqorka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sida hadalkaaga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sayidkay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkow"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waxba waa adiga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo waxa oo dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aniga ila ah"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:35.912688497Z",
+  "model": "glm-5.3"
+}

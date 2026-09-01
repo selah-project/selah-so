@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu dildilay dhagaxyada (dhagaxa adag) barbaaaraha, wuxuuna siyay cabitaan sida tamarta badan.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "wuxuu dildilay"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "dhagaxyada (dhagaxa adag)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "barbaaaraha"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "wuxuuna siyay cabitaan"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "sida tamarta"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:35.043926209Z",
+  "model": "glm-5.3"
+}

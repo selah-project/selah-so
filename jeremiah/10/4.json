@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Lagaga qurxiyaa lacag iyo dahab, lagana adkeeyaa miiro iyo biiro si ayan u dhaaqin.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "lagaga qurxiyaa"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "miiro"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "iyo biiro"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "lagana adkeeyaa"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "si ayan u"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "dhaaqin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:13.738732154Z",
+  "model": "glm-5.3"
+}

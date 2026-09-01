@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 55,
+  "translation": "Codka cadowga dartii, xaqdarrada shar-leyda dartii, waayo iyagu waxay ii soo tuurayaa xumeed, oo xanaaq ka dib igu cunaya cadow-nimo.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "codka... dartii"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "xaqdarrada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shar-leyda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "waxay... soo tuurayaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "און",
+      "gloss": "xumeed"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "oo xanaaq ka dib"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "igu cunaya cadow-nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:19.751505538Z",
+  "model": "glm-5.3"
+}

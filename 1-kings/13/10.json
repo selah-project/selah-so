@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "wuxuuna aaday jidad kale, uma noqon jiddada uu ku yimid Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuuna aaday"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שב",
+      "gloss": "noqon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jiddada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ku yimid"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T03:16:55.655866679Z",
+  "model": "glm-5.3"
+}

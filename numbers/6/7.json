@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Aabbihiis iyo hooyadiis, walaalkiis iyo walaashiis kuma nacinayo geeridooda, waayo nezerkii Elohiis ah waa ku dhigan madaxiisa.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "iyo hooyadiis"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "iyo walaashiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nacinayo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "geeridooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezerkii"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhigan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:51:30.999555856Z",
+  "model": "glm-5.3"
+}

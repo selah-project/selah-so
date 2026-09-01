@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Harag iyo jidh baad iigu dhuftay, oo lafo iyo xididdo baad igu dhisay (iga dhigtay).",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Harag"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "iyo jidh"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "baad iigu dhuftay"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "oo lafo"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "iyo xididdo"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "baad igu dhisay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:00.629417914Z",
+  "model": "glm-5.3"
+}

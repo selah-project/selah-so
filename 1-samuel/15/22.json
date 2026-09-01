@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuu yidhi Shamuʼeel: Ma Yahweh baa ku farxa holcado iyo allabari sidii maqalka codka Yahweh? Bal! Maqalka waa ka fiican allabari, oo gacansiga waa ka fiican dhibicda baruurta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuʼeel"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ma … baa ku farxa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "holcado"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "iyo allabari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sidii maqalka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal!"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqalka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabari ka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "waa ka fiican"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "gacansiga"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dhibicda ka"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "baruurta"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:38.526370055Z",
+  "model": "glm-5.3"
+}

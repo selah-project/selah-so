@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Oo Miryam nebigadda ahayd, walaashiis Axarbe, waxay qaadatay ⟨את⟩ durbaanka gacanteeda, oo naagaha oo dhan way ka baxeen gadaasheeda durbaanno iyo cayaaro.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "waxay qaadatay"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "nebigadda"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "walaashiis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axarbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "durbaanka"
+    },
+    {
+      "surface": "התף",
+      "gloss": "durbaanka"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "gacanteeda"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "way ka baxeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naagaha"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "gadaasheeda"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "durbaanno"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "cayaaro"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:02.243036968Z",
+  "model": "glm-5.3"
+}

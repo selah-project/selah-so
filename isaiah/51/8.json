@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Waayo, balanqastihu sida maro bay ku cuni, iyo digiiruhu sida dhogor bay ku cuni; laakiin xaqnimadaydu weligeed bay ahaan doontaa, badbaadaydaydana jiil jiilal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sida maro"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "bay ku cuni"
+    },
+    {
+      "surface": "עש",
+      "gloss": "balanqastihu"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "iyo sida dhogor"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "bay ku cuni"
+    },
+    {
+      "surface": "סס",
+      "gloss": "digiiruhu"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "xaqnimadaydu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wellige"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay ahaan doontaa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "badbaadaydaydana"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "jiilal"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:20.088674539Z",
+  "model": "glm-5.3"
+}

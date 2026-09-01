@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo qabiilkii Asher ka mid ah: ⟨את⟩ Maashaal iyo ⟨את⟩ beerahiisa, iyo ⟨את⟩ Abdon iyo ⟨את⟩ beerahiisa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qabiilkii ka mid ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maashaal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Maashaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:10.216116514Z",
+  "model": "glm-5.3"
+}

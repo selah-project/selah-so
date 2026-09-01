@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Kuwan waxay tageera gaari-dagaararka, kuwanna faraskaba; laakiin innagoo magaca Yahweh Elohim-keenna ah ayaannu xusaynaa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwan"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "waxay tageera gaari-dagaararka"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kuwanna"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "faraskaba"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "laakiin innagoo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ayaannu xusaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:23.015024258Z",
+  "model": "glm-5.3"
+}

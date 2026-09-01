@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyana Elohim wuxuu sameeyay ⟨את⟩ raqiicada, oo wuxuu kala saaray biyaha ku yaal ⟨hoos⟩ raqiicada iyo biyaha ku sarreeya raqiicada; oo si aan baa noqday.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "oo wuxuu sameeyay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raqiicada"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "raqiicada"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "oo wuxuu kala saaray"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "⟨hoos⟩"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiicada"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku sarreeya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku sarreeya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiicada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo … noqday"
+    },
+    {
+      "surface": "כן",
+      "gloss": "si aan"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:02.466596047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Maqal, shacabkaygii, waana kula markhaati-farinayaa; Israa'iil, haddii adigu i maqanayso;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "shacabkaygii"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "waana kula markhaati-farinayaa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "aad maqanayso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:20.431092360Z",
+  "model": "glm-5.3"
+}

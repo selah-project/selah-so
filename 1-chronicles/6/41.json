@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Beerta magaalada iyo ⟨את⟩ guryo-xeradeeda waxay siiseen Kaleeb inna Yefunneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beerta magaalada"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guryo-xeradeeda"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "guryo-xeradeeda"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay siiseen"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunneh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:21.322151808Z",
+  "model": "glm-5.3"
+}

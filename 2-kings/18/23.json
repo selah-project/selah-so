@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Haddaba bal, la dhaqso ballan ⟨את⟩ sayidkayga ⟨את⟩ boqorka Ashshuur, waanan kuu siin laba kun oo faras, haddii aad karin inaad adigu siiso fardooley dhulkooda sare.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddaba"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "la dhaqso ballan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayidkayga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sayidkayga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqorka Ashshuur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshuur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waanan siin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "laba kun"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "faras"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "aad karin"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "in aad siiso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "fardooley"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dhulkooda sare"
+    }
+  ],
+  "timestamp": "2026-09-01T03:33:07.115457824Z",
+  "model": "glm-5.3"
+}

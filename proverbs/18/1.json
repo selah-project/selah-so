@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Rabitaan aawadiis, kan is-go'ay wuu doondoonshaa, xagga tushiyah dhan buu isku dhaawacmo (yuu caddeeyo).",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "rabitaan aawadiis"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "wuu doondoonshaa"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "kan is-go'ay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "xagga... dhan"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "tushiyah"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "buu isku dhaawacmo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:34.713046880Z",
+  "model": "glm-5.3"
+}

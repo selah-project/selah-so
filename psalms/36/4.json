@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Ereyada afkiisa waa sharr iyo khiyaano; wuu joojiyay inuu caqli-galo inuu sama falo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "און",
+      "gloss": "sharr"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "iyo khiyaano"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wuu joojiyay"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "inuu caqli-galo"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "inuu sama falo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:23.142262516Z",
+  "model": "glm-5.3"
+}

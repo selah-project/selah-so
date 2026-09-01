@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaan ku siisay ⟨את⟩ gurigii sayidkaaga, iyo ⟨את⟩ haweenkii sayidkaaga chinaarkaaga; waxaana ku siisay ⟨את⟩ gurigii Israa'iil iyo Yahuudah; haddii ay wax yar tahay, waxaan ku dari lahaa sidaas iyo sidaas.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "waxaan ku siisay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurigii sayidkaaga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sayidkaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haweenkii sayidkaaga"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "haweenkii"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sayidkaaga"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "chinaarkaaga"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "waxaana ku siisay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurigii Israa'iil iyo Yahuudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iyo Yahuudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar tahay"
+    },
+    {
+      "surface": "ואosפה",
+      "gloss": "waxaan ku dari lahaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "iyo sidaas"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:44.740257610Z",
+  "model": "glm-5.3"
+}

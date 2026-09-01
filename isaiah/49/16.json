@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Ee, gacmahayga aa kuu diyaariyay; dejadaadu waa hortayda joogto.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "gacmahayga... ku dhex (aa)"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "gacmaha (cagaraha)"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "kuu diyaariyay"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dejadaadu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "joogto"
+    }
+  ],
+  "timestamp": "2026-09-01T03:53:14.010370190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Ii soo jeedi naftaada, ii naxariis, sii xooggaaga addeeckaaga, oo badbaadi ila naagtay adhi-galmeedkaaga ah.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ii soo jeedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii (jeei)"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "oo ii naxariis"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "xooggaaga"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "addeeckaaga"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "oo badbaadi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ilasha"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "naagtay adhi-galmeedkaaga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.329671800Z",
+  "model": "glm-5.3"
+}

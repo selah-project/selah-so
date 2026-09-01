@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ciidankiisa iyo kuwa la tiriyay waxay ahaayeen afar iyo toddobaatan kun, lix boqol.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ciidankiisa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "kuwa la tiriyay"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "iyo toddobaatan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:30.018727380Z",
+  "model": "glm-5.3"
+}

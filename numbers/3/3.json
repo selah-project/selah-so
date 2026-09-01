@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kuwanu waa magacyada wiilasha Aharon, waana wadaaddada la subkay, oo gacmahoodii la buuxshay inay wadaaddo noqdaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwanu waa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "waana wadaaddada"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "la subkay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "la buuxshay"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacmahoodii"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "inay wadaaddo noqdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:50.145429799Z",
+  "model": "glm-5.3"
+}

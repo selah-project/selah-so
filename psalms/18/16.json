@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waa la arkay duruustyada biyaha, oo aasaasyada dhulka waa la muujiyay — canaantaada, Yahweh, neefsiga ruuxda xanaaqiisa awgood.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Waa la arkay"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "duruustyada"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "waa la muujiyay"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "aasaasyada"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "canaantaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "neefsiga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxda"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "xanaaqiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:59.373619369Z",
+  "model": "glm-5.3"
+}

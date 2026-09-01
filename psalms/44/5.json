@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Adiga ⟨adigoo ah⟩ boqorkayga Elohim, amri degganno Yaaqob.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨adigoo ah⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorkayga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amri"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "degganno"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:55.682426884Z",
+  "model": "glm-5.3"
+}

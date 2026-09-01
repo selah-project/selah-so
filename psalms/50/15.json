@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Oo iigu yeedh maalinta cidhiidhiga; waan badbaadin doonaa, waana ammaanaysaa.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Oo iigu yeedh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "cidhiidhiga"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "waan badbaadin doonaa"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "waana ammaanaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:28.327097900Z",
+  "model": "glm-5.3"
+}

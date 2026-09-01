@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna noqday markii Shelomoh dhammeeyay inuu dhiso ⟨את⟩ baytkii Yahweh iyo ⟨את⟩ baytkii boqorka, iyo ⟨את⟩ kheelashaqii Shelomoh oo dhan uu doonay inuu sameeyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wuxuuna noqday"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "markii uu dhammeeyay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "inuu dhiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baytkii Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baytkii boqorka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kheelashaqii Shelomoh oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kheelashaqii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "uu doonay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu sameeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:00.445113751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Ma dhimi doono, bal waan noolaan doonaa, oo waan sheegi doonaa shuqullada Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhimi doono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bal"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "noolaan doonaa"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "oo waan sheegi doonaa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:23.163240136Z",
+  "model": "glm-5.3"
+}

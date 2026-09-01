@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Adiguuse dhegaysiga ereyga Yahweh, dhammaan dadka aan ka soo saaray Yeruushaalaym Babiloon.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "adiguuse"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dhegaysiga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "aan ka soo saaray"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babiloon"
+    }
+  ],
+  "timestamp": "2026-09-01T04:13:20.360076657Z",
+  "model": "glm-5.3"
+}

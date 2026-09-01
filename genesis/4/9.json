@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu yidhi Yahweh Qaabiil: Xaggee buu ahaa Heybel walaalkaa? Wuxuuna yidhi: Ma aan ogi; miyaanan ahayn ilaaliyaha walaalkay?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugga"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaabiil"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Xaggee"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Heybel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aan ogi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ilaaliyaha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "miyaanan ahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:16.736056232Z",
+  "model": "glm-5.3"
+}

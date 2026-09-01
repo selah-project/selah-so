@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Isaga ayaa ilaay guri dhisayaa, aniguna waan xaqijin doonaa ⟨את⟩ carshigiisa ilaa weligiis.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ayaa dhisayaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ilaay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "וככנתי",
+      "gloss": "waan xaqijin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carshigiisa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "carshigiisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:01.129082125Z",
+  "model": "glm-5.3"
+}

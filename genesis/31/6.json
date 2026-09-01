@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Oo idinku waad ogtihiin in aan kulligiin xooggii igu adeegay ⟨את⟩ aabahiin.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "oo idinku"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "waad ogtihiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulligiin"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "xooggii"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "aan igu adeegay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabahiin"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "aabahiin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:53:46.312040459Z",
+  "model": "glm-5.3"
+}

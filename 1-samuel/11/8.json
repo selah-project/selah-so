@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo wuxuu tiriyay Bezeq, oo curaduuba Israa'iil ahaayeen saddex boqol oo kun, oo ragga Yahuudah saddex iyo tobán kun.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "wuxuu tiriyay"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezeq"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ahaayeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curaduuba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saddex boqol"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "saddex iyo tobán"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:29.468380141Z",
+  "model": "glm-5.3"
+}

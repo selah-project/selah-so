@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Nafdaydu ha noolaato, oo ha i ammaanto, iyo xukumadaada ha i caawiyaan.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ha noolaato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "oo ha i ammaanto"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "iyo xukumadaada"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ha i caawiyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:19.070514425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo Suleymaan wuxuu dhisay ⟨את⟩ guriga, oo wuxuu dhammeeyay.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Oo wuxuu dhisay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "oo wuxuu dhammeeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:10.637654401Z",
+  "model": "glm-5.3"
+}

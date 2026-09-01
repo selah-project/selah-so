@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Daruuraha waaweyn biyo bay daadiyeen, shahaqimku cod bay siiyeen; haatan qaansaskaagii bay soconeen ⟨is-dhaqaaqeen⟩.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "bay daadiyeen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "daruuraha waaweyn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bay siiyeen"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "shahaqimku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haatan"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "qaansaskaagii"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bay soconeen"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:06.411900649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yaa kan dheeraadsanaya tala oo aan garasho lahayn? Sidaas darteed waan sheegay, laakiin ma fahmo; wax yaabo la yaab leh baa i dhaafay, aanan garanayn.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "dheeraadsanaya"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "garasho"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Sidaas darteed"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "waan sheegay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laakiin ma"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fahmo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wax yaabo la yaab leh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "i dhaafay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "garanayn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:42.068794417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxaanan ahayn madaxda aabayaashood iyo is-qorista nasabka ah kuwa ii kacay booga Artachshashta ⟨boorka⟩ uu yahay, Baabil ka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "waxaanan ahayn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "aabayaashood"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "iyo is-qorista nasabka ah"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kuwa kacay"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "booga"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshashta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨boorka⟩ uu yahay"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Baabil ka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:15:41.487714952Z",
+  "model": "glm-5.3"
+}

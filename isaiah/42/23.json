@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yaa idinka mid ah oo tan dhegaysanaya? Kan fiirinaya oo dhegaysanaya wixii dambe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idinka mid ah"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "dhegaysanaya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "fiirinaya"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dhegaysanaya"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "wixii dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:20.147693038Z",
+  "model": "glm-5.3"
+}

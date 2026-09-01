@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Falaastiintiintii waxay qaadatay ⟨את⟩ sanduuqa Elohim, waxayna ka keeneen Eben-ha-Ezer ilaa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Falaastiintiintii"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "waxay qaadatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "waxayna ka keeneen"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eben (macnaha: dhagax)"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ilaa Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:23.923284160Z",
+  "model": "glm-5.3"
+}

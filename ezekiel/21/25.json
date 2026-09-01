@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Jid waad dhigaysaa in ay seeftu timaado ⟨את⟩ Rabbah ee wiilasha Cammoon, iyo ⟨את⟩ Yahuudah ee Yeruushaalaym ee la xoog-dhisay.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jid"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "waad dhigaysaa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "in ay timaado"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Cammoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yahuudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ee Yeruushaalaym"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ee la xoog-dhisay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:31:30.968942448Z",
+  "model": "glm-5.3"
+}

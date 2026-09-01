@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo waan cadaabi doonaa ⟨את⟩ farcanka Da'uud sababtan awgeed, laakiin ma dhammaan maalmaha.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "waan cadaabi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farcanka Da'uud"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "farcanka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Da'uud"
+    },
+    {
+      "surface": "למען",
+      "gloss": "awgeed"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sababtan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "maalmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T03:16:58.627095776Z",
+  "model": "glm-5.3"
+}

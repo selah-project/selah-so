@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Markay istaagaan way istaagaan, oo markay la sarreeyaan way la sarreeyaan ⟨את⟩ iyaga; waayo, ruuxa ⟨waxa⟩ nool waa ku dhex jirto.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "markay istaagaan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "way istaagaan"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "oo markay la sarreeyaan"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "way la sarreeyaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (girooyinka)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨waxa⟩ nool"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku dhex jirto"
+    }
+  ],
+  "timestamp": "2026-09-01T08:27:13.808374370Z",
+  "model": "glm-5.3"
+}

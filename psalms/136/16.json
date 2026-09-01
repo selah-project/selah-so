@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Wuxuu hagay dadkiisii gebiyada, waayo iloowgiisii wuu waaraa.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Wuxuu hagay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisii"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gebiyada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iloowgiisii"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wuu waaraa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:03.454328499Z",
+  "model": "glm-5.3"
+}

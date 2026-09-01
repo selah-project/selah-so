@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "⟨את⟩ Aaroonge iyo ⟨את⟩ wiilashiisa waad taliyeysaa, iyagana waxay ilaali doonaan ⟨את⟩ wadaarnimadooda; qalanjaale-arrinta la soo dhowaada waa la dileynaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaroonge"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "waad taliyeysaa"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "waxay ilaali doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadaarnimadooda"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "wadaarnimadooda"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "qalanjaale-arrinta"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "la soo dhowaada"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dileynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:08.557069229Z",
+  "model": "glm-5.3"
+}

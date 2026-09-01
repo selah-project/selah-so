@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waqtigaas, qawlkii Yahweh, waxay soo saari doonaan ⟨את⟩ lafaha boqorrada Yehudah, iyo ⟨את⟩ lafaha saraakiishooda, iyo ⟨את⟩ lafaha wadaaddada, iyo ⟨את⟩ lafaha nebiyada, iyo ⟨את⟩ lafaha kuwa deggan Yeruushaalaym, qubuurahooda.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Waqtigaas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "(taas)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "qawlkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "waxay soo saari doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafaha boqorrada Yehudah"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lafaha saraakiishooda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "saraakiishooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lafaha wadaaddada"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lafaha nebiyada"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lafaha kuwa deggan Yeruushaalaym"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "lafaha"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kuwa deggan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "qubuurahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:18:59.515547935Z",
+  "model": "glm-5.3"
+}

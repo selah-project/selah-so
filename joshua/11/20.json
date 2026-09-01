@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 11:20",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxayna ka timid ⟨את⟩ Yahweh inuu adkeeyo ⟨את⟩ quluubtooda, si ay dagaalka ugu yimaadaan ⟨את⟩ ⟨la⟩ Israa'iil, si loo halaagsado (cherem), aysan wax warsanid ah helin — waayo si loo baabi'iyo ayuu u amray, sidii uu Yahweh ku amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka ⟨את⟩ xigta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "waxay ahayd"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "inuu adkeeyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quluubtooda"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "quluubtooda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "si ay ugu yimaadaan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨la⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si loo"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "halaagsado (cherem)"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "in aysan"
+    },
+    {
+      "surface": "היות",
+      "gloss": "helin"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "wax warsanid ah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si loo"
+    },
+    {
+      "surface": "השמידם",
+      "gloss": "baabi'iyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu ku amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:49.041589049Z",
+  "model": "glm-5.3"
+}

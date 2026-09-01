@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Ha ahaato gacantaada nin ka mid ah midigtaada, ibnka aadamka aad adkeesatay adiga.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ha ahaato"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ibnka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamka"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "aad adkeesatay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:34.869078257Z",
+  "model": "glm-5.3"
+}

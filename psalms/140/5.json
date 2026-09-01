@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Ilaali may, Yahweh, gacmaha sharka, ninka rabshadda iga ilaali, kuwaasoo qorsheeyay inay diidaan talaabadayda.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ilaali may"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "rabshadda"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "iga ilaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaasoo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "qorsheeyay"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "inay diidaan"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "talaabadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:26.974600251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaan dhammaystiran baabbi'in doonaa wax kasta oo Wajiga dhulka ka mid ah, sheegaysa Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "waxaan baabbi'in"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "dhammaystiran baabbi'in doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Wajiga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sheegaysa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:51.084957175Z",
+  "model": "glm-5.3"
+}

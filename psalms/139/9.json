@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Haddaan qaado baalasha waabariga, aan degto qeybta dambe ee badda;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "Haddaan qaado"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baalasha"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "waabariga"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "aan degto"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "qeybta dambe ee"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:35.834812299Z",
+  "model": "glm-5.3"
+}

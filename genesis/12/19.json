@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Maxaad ku tidhi 'Waa walaashay', anigoon qaadan ⟨את⟩ iyada ii xigsiin xaas? Haddaba bal eeg, xaaskaaga waa qaad oo teg.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ku tidhi"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "'Waa walaashay'"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tahay"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "anigoon qaadan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (naagta)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xaas"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "xaaskaaga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "oo teg"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:09.920822905Z",
+  "model": "glm-5.3"
+}

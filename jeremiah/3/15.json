@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo waxaan idin siin doonaa idilayaal qalbigayga ah, oo ⟨את⟩ idin dhaqan doonaan aqoon iyo xigmad.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan idin siin doonaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "idilayaal"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "qalbigayga ah"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "way dhaqan doonaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idin"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "iyo xigmad"
+    }
+  ],
+  "timestamp": "2026-09-01T04:02:28.471091083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaad ii ogeysiisaa jidka nolosha; barwaaqo farax ah ⟨waa⟩ ⟨ku⟩ ⟨jirta⟩ ⟨את⟩ ⟨la⟩ wajigaaga; waxyaabo macaan ⟨waa⟩ ⟨yahay⟩ gacantaada midig, weligeed.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Waxaad ii ogeysiisaa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "barwaaqo"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "farax ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨la⟩",
+      "marks": "wajigaaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "waxyaabo macaan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "gacantaada midig"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:16.261373843Z",
+  "model": "glm-5.3"
+}

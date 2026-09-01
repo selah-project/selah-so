@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Gaanmo iyo qoryo ayaa lagu soo geli doonaa halkaas, sababtoo ah midho-daaq iyo qodax bay noqon doontaa dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "gaanmo"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "iyo qoryo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ayaa lagu soo geli doonaa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "midho-daaq"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "iyo qodax"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay noqon doontaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:01.465938013Z",
+  "model": "glm-5.3"
+}

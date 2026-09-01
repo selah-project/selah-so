@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Maqla buuraha ⟨את⟩ doodka Yahweh, iyo durduryada aasaasku dhulka; waayo dood Yahweh wuxuu la leeyahay ⟨את⟩ qabiilkiisa, oo Israa'iil wuu la doodayaa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doodka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "doodka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "iyo durduryada"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "aasaasku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dood"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qabiilkiisa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "wuu la doodayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:41.945314866Z",
+  "model": "glm-5.3"
+}

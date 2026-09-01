@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Wajigaaga ka qari dembigayga, dhammisoonna dulmigayga tirtir.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "ka qari"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Wajigaaga"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "dembigayga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammiyo"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "dulmigayga"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "tirtir"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:43.365522948Z",
+  "model": "glm-5.3"
+}

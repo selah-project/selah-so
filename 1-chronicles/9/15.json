@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "iyo Bakbakkar, Cheresha iyo Galala, iyo Mattanyaa ina Mikaa, ina Zikrii, ina Asaafa.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "iyo Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Cheresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "iyo Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "iyo Mattanyaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mikaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikrii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaaf"
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:57.491022500Z",
+  "model": "glm-5.3"
+}

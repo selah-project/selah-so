@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Biyuhuna badda waa la waayeen, wabiyuna wuu engeggi doonaa, wuu qallalan doonaa.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "waa la waayeen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "wabiyuna"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "wuu engeggi doonaa"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "wuu qallalan doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:05.412922347Z",
+  "model": "glm-5.3"
+}

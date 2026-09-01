@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaad dhaafteynaan keentaa ⟨את⟩ allabariga daqiiqada ah ee kan laga sameeyo kuwan, si aad u keento Yahweh; waa loo dhoweynayaa kahan-ka, isaguna wuu u dhoweynayaa altarka.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "waxaad dhaafteynaan keentaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabariga daqiiqada ah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "allabariga daqiiqada ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "laga sameeyo"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "waa loo dhoweynayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "loo dhoweynayoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahan-ka"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "wuu u dhoweynayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u dhoweynayoo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:24.683905852Z",
+  "model": "glm-5.3"
+}

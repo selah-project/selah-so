@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo Yahweh Elohim wuu beereeyay beerta Aden, bari, halkaasna wuu dhigay ⟨את⟩ aadanka uu sameeyay.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "wuu beereeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Aden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bari"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuu dhigay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadanka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:25.002241764Z",
+  "model": "glm-5.3"
+}

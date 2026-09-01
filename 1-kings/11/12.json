@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Laakiin maalmaheedkaaga ma sameyn doono, dartii Daawid aabbahaaga; gacanta wiilkaaga ayaa ka jajabin doonaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laakiin"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "maalmaheedkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "sameyn doono"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dartii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabbahaaga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wiilkaaga"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ka jajabin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:35.093208660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sidaas darteed amarradaaga waan jeclahay, ka voglu dahab kaana voglu dahab nadiif ah.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "waan jeclahay"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarradaaga"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "dahab ka"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "dahab nadiif kaana voglu ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.466267330Z",
+  "model": "glm-5.3"
+}

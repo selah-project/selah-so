@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuu diiday khaymadda Yoosef, qabiilkana Efrayam uma doortan.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "wuu diiday"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "qabiilkana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "doortan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:01.531488438Z",
+  "model": "glm-5.3"
+}

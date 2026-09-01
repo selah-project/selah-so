@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Aniga waan kuu celin ereyada, iyo ⟨את⟩ saaxiibadaada adigoo wata.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "waan kuu celin"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibadaada"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "saaxiibadaada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adigoo wata"
+    }
+  ],
+  "timestamp": "2026-09-01T05:49:08.880988385Z",
+  "model": "glm-5.3"
+}

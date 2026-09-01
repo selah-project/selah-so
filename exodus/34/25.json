@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ha gowrin dhiigga allabbarradaygii la wada khamaasad, oo allabbarradii ciidda Pasxaggana ha aannin ilaa subax.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "gowrin"
+    },
+    {
+      "surface": "על",
+      "gloss": "la wada"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "khamaasad"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "allabbarradaygii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha aannin"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ha aannin (ha sii joomin)"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ilaa subax"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabbarradii"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasxagga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:42.398145831Z",
+  "model": "glm-5.3"
+}

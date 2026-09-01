@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Wiilasha Israa'iil ee la helay waxay sameeyeen ⟨את⟩ Pesaxa waqtigaas, iyo ⟨את⟩ ciidda rogaanka ah toddoba maalmood.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ee la helay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaxa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaxa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ciidda"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ciidda"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roganka ah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T06:47:47.614686051Z",
+  "model": "glm-5.3"
+}

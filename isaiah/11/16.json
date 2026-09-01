@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waxayna jiri doontaa jidad dheeraad ah ⟨oo ah waddo weyn⟩ ⟨untii⟩ hadhiga beesha Israa'iil ee ka hadhsan Ashuur, sidii ay u ahayd Israa'iil maalintii uu ka soo kacay dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "waxayna jiri doontaa"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "jidad dheeraad ah ⟨waddo weyn⟩"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "hadhigii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "beesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "ka hadhsan"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "u ahayd"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "uu ka soo kacay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:37.895749292Z",
+  "model": "glm-5.3"
+}

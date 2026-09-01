@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Yeesha barwaaqo gaajo-ahaan dhulka, sararka buuraha firriidu wuu dhaqaaqi doonaa sida Labanoon, oo magaalooyinkii bay ka soo bixin doonaan sida geedaha dhulka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "yeesha"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "barwaaqo gaajo"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gaajo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sararka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "wuu dhaqaaqi doonaa"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "sida Labanoon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "firriidiisa"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "bay ka soo bixin doonaan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "magaalooyinkii"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sida geedaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:16.422176884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Khariid lacag ah ayuu gacantiisa ku qaatay, maalinta dayaxa oo dhan buu gurigiisa ku soo noqonayaa.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "khariid"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacag ah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ayuu qaatay"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "dayaxa oo dhan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "buu ku soo noqonayaa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:26.466029172Z",
+  "model": "glm-5.3"
+}

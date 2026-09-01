@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Dhiigguna kama cuneysaan idinku dhiig xilli kasta, meel aad deggan tihiinba, shimbiraha iyo xayawaankaba.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dhiigguna kama"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cuneysaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "xilli kasta"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "meel aad deggan tihiinba"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "iyo xayawaankaba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:57.978833795Z",
+  "model": "glm-5.3"
+}

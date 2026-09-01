@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Barako leh ⟨∂⟩ tahay adiga magaalada, barakona leh tahay adiga beeraha.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barako leh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tahay adiga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "barakona leh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tahay adiga"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:44.676589511Z",
+  "model": "glm-5.3"
+}

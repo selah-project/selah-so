@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Iyo ⟨את⟩ maqaarka dhulbahalka, iyo ⟨את⟩ jirkiisa oo dhan, madaxiis iyo lugahiisaba, iyo dhexdiisa iyo saxaradiisaba —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "maqaarka dhulbahalka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dhulbahalka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "jirkiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jirkiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "lugahiisa"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "saxaradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:56:15.819179735Z",
+  "model": "glm-5.3"
+}

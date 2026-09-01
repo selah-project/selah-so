@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Waayo, Yahweh wuu xukumi doonaa dabka, oo seeftiisa ⟨את⟩ dhamaan ligaha; oo kuwa Yahweh la dilay way badan doontaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "wuu xukumi doonaa"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "oo seeftiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan ligaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ligaha"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "way badan doontaan"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "kuwa la dilay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:12.066106725Z",
+  "model": "glm-5.3"
+}

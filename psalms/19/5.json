@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Gebiga dhulka oo dhan baa xariijadoodi ka baxday, oo erayadoodu ilaa dhulka dhinacyadiisa; shemmeshana wuxuu ku dhigay teendho ⟨dhexdooda⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "gebiga…oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "baa ka baxday"
+    },
+    {
+      "surface": "קום",
+      "gloss": "xariijadoodi"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "oo ilaa dhinacyadiisa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "erayadoodu"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "shemmeshana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teendho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dhexdooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:35.976212868Z",
+  "model": "glm-5.3"
+}

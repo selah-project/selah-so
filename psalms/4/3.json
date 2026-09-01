@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Ilmo ragga, ilaa goormaa sharafayda la soo sharmarayaa, jeclaan hurdo ma dheeraad ah, raadin been? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "goormaa"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "sharafayda"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "la soo sharmarayaa"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "jeclaan"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hurdo ma dheeraad ah"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "raadin"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:56.386337468Z",
+  "model": "glm-5.3"
+}

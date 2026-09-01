@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ha igaga tirtirin gebi ahaanba erayga runta ah afkayga ka, waayo, xukunkaaga baan ku sugnaaday.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "igaga tirtirin"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "afkayga ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "runta ah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gebi ahaanba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gebi ahaanba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "xukunkaaga"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "baan ku sugnaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:36.225168371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maalintaas Adonay wuxuu ka saarayaa ⟨את⟩ quruxda dhawaalaha (qurxinta cagaha), iyo shaabaha, iyo halbeegyada dayaxa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "asaga ah"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "wuxuu ka saarayaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quruxda dhawaalaha"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "quruxda"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "dhawaalaha (qurxinta cagaha)"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "iyo shaabaha"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "iyo halbeegyada dayaxa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:18.119454682Z",
+  "model": "glm-5.3"
+}

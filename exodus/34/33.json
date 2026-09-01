@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Muuse markuu dhammeeyay hadalkii ⟨את⟩ la gudbayay iyaga, wuxuu saaray wajigiisa masweed.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dhammeeyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ la gudbayay iyaga",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu saaray"
+    },
+    {
+      "surface": "על",
+      "gloss": "saaray"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "masweed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:41.449125410Z",
+  "model": "glm-5.3"
+}

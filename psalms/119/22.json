@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ka ii rog ceeb iyo caay, waayo markhaatiyadaaga waan ilaaliyay.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Ka ii rog"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "iyo caay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "markhaatiyadaaga"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "waan ilaaliyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:11.327831036Z",
+  "model": "glm-5.3"
+}

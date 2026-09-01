@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Boqorkana wuxuu ka saaray ⟨את⟩ haltiisii uu Haman ka dhaafay, wuxuuna u dhiibay Mordekay; Esterna waxay Mordekay ka dhigtay kan maamula guriga Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wuxuu ka saaray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorkana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haltiisii"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "haltiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ka dhaafay"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wuxuuna u dhiibay"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "waxay ka dhigtay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kan maamula"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:58.630065117Z",
+  "model": "glm-5.3"
+}

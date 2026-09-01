@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Malaga janno ah ayaa indhahaagu arki doonaan ⟨inuu⟩ yahay boqor (eegi doonaan) waddada meel fog",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "janno ah"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "eegi doonaan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaagu"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "arki doonaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "meel fog"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:51.828749941Z",
+  "model": "glm-5.3"
+}

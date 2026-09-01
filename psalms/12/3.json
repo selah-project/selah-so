@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Been bay isku yidhaahdaan nin ⟨את⟩ saaxiibkiis; laba-dhawaaq oo jilican (nabcas) iyo wadna laba-jibaaran bay ku hadlaan.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Been"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bay isku yidhaahdaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiis"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "laba-dhawaaq"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "oo jilican (nabcas)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "wadna (keliya)"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "iyo wadna (kale)"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bay ku hadlaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:22.071877632Z",
+  "model": "glm-5.3"
+}

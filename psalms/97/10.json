@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Kuwa jecelahay Yahweh, naca xumaanta; ⟨isagu⟩ wuxuu ilaaliyaa nafaha kuwa khesedka ah ee ⟨kiisa⟩, gacanta shar-leydahtaana wuu ka badbaadinayaa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Kuwa jecelahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "naca"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xumaanta"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wuxuu ilaaliyaa"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nafaha"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kuwa khesedka ah ee ⟨kiisa⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-leydahta"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wuu ka badbaadinayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:01.131835639Z",
+  "model": "glm-5.3"
+}

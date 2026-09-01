@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Sidaasuu Yehuu baabi'iyey ⟨את⟩ Baal ka mid ah Israa'iil.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "baabi'iyey"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ka mid ah Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T03:26:18.589742934Z",
+  "model": "glm-5.3"
+}

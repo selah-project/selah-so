@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waayo adiga ku waan ku dhaqaaqaa ciidan, oo Elohimaygii laakiin waan boodaa derbi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "waan ku dhaqaaqaa"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "oo Elohimaygii laakiin"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "waan boodaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "derbi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:12.879370674Z",
+  "model": "glm-5.3"
+}

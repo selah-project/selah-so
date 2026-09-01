@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Maxaad u istaajisaa Rabbi—maynan—Yahweh masaafad dheer ku istaajisaa, maxaad u qaraysaa waqtigii murugada?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "waad istaajisaa"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "masaafad dheer"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "waad qaraysaa"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "waqtigii"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "murugada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:01.501567979Z",
+  "model": "glm-5.3"
+}

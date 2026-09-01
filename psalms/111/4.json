@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Xusuus wuu ka dhigay mucjisooyinkiisii; Yahweh waa deeqsin badan iyo naxariis badan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Xusuus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuu ka dhigay"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "mucjisooyinkiisii"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "deeqsin badan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "iyo naxariis badan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:17.384260173Z",
+  "model": "glm-5.3"
+}

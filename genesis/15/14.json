@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Laakiin ⟨את⟩ qowlkaas oo ay adeegi doonaan, Anigu waan xukumi doonaa; kadib waxay soo baxi doonaan hantii aad u weyn.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qowlkaas"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "qowlkaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "ay adeegi doonaan"
+    },
+    {
+      "surface": "דן",
+      "gloss": "waan xukumi doonaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taas"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "waxay soo baxi doonaan"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "hantii"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "aad u weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:46.204538187Z",
+  "model": "glm-5.3"
+}

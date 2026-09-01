@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo anigu igu dagaalamayaa ⟨את⟩ idinka gacan la fiday iyo gacal adag, iyo cadho, iyo xanaaq, iyo murugo weyn.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "igu dagaalamayaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka (adiga oo dhan)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "la fiday"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "iyo gacal"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "iyo cadho"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "iyo xanaaq"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "iyo murugo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T04:09:42.207484044Z",
+  "model": "glm-5.3"
+}

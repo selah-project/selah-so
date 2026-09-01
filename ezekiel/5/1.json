@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 5:1",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Adigase ilmo-aadam, iska qaad seef cad cad, qaawan baabacyada ku qaad adiga, oo ka gudbi madaxaaga iyo gogaashaaga, oo iska qaad miisaanno miisaar, oo u qaybi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adigase"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ilmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iska"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "cad cad"
+    },
+    {
+      "surface": "תער",
+      "gloss": "qaawan"
+    },
+    {
+      "surface": "הגלבים",
+      "gloss": "baabacyada"
+    },
+    {
+      "surface": "תקחנה",
+      "gloss": "qaad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku qaad adiga"
+    },
+    {
+      "surface": "והעברת",
+      "gloss": "oo ka gudbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saar"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "madaxaaga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku saar"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "gogaashaaga"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "oo iska qaad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iska"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "miisaanno"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "miisaar"
+    },
+    {
+      "surface": "וחלקתם",
+      "gloss": "oo u qaybi"
+    }
+  ],
+  "timestamp": "2026-09-01T04:26:26.332827872Z",
+  "model": "glm-5.3"
+}

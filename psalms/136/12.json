@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Gacan adag iyo sacab ⟨la]] fiday]], waayo, ilaa iyo weligiis baahuu tahay khesedkiisu.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "iyo sacab"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "la fiday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:51.514011723Z",
+  "model": "glm-5.3"
+}

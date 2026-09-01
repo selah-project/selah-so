@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Elohim wuxuu koriyaa keliyeyaasha guryo; wuxuu soo saaraa xabsiga ku jira si aan xiranayn lahayn; laakiin kuwa caasiya ahi waa kuwo degan meel engeg (oo engeg ah).",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "wuxuu koriyaa"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "keliyeyaasha"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "wuxuu soo saaraa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "xabsiga ku jira"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "si aan xiranayn lahayn"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "kuwa caasiya ah"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "waa kuwo degan"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "meel engeg"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:06.740948228Z",
+  "model": "glm-5.3"
+}

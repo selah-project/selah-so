@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Dawidse ma celin ⟨את⟩ sanduuqa ⟨את⟩ Elohim isagii geda degmada Dawid, laakiin wuu u dhaqaaqay gurigii Cebil-Edoomaha Gitiiga ah.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "celin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isagii geda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meele"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "degmada"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "wuu u dhaqaaqay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Cebil-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoomaha"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitiiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:27:12.867666769Z",
+  "model": "glm-5.3"
+}

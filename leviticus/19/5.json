@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo haddii aad gowracsataan gowrac shlomim Yahweh u yeelataan, si loo aqbalayaa waxaad ku gowracsataan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "aad gowracsataan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "gowrac"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shlomim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u yeelataan"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "si loo aqbalayaa"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "waxaad ku gowracsataan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:57.651806090Z",
+  "model": "glm-5.3"
+}

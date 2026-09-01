@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Axaazna wuu qaatay ⟨את⟩ lacagta iyo ⟨את⟩ dahabka laga heli karo baytkii Yahweh iyo khazaanadihii baytkii boqorka, wuuna u diray boqorka Ashuur shashi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuu qaatay"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lacagta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dahabka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "laga heli karo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "iyo khazaanadihii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wuuna u diray"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "shashi"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:58.860560650Z",
+  "model": "glm-5.3"
+}

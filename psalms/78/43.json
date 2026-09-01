@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Markuu calaamadihiisii dhigay Mitsrayim, iyo mucjizihiisii beerta Tsoo'an.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "markuu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "calaamadihiisii"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "mucjizihiisii"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoo'an"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:54.980930022Z",
+  "model": "glm-5.3"
+}

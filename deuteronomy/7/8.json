@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Laakiin waayo, Yahweh wuu idin jecel yahay, waana ilaalinayaa ⟨את⟩ dhaaradii uu ku dhaartay aabayaalkiin, ayaa Yahweh idinka soo saaray gacan adag, idinkana ka furay gurigii addoonnimo, gacanta Farcoon, boqorka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "jacaylka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka ilaalintiisa (וּמִשָּׁמְרוּ)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "ilaalintiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaaradii"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "dhaaradii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "uu ku dhaartay"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aabayaalkiin"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "soo saaray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka gacan adag"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ka furay"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoonnimo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:28.798271385Z",
+  "model": "glm-5.3"
+}

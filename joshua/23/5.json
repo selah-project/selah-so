@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Yahweh Elohim kiinna — Isagu buu ka dhaqaaqsiin doonaa iyaga ka horreeya idiin, wuuna ka hor eryi doonaa ⟨את⟩ iyaga ka horreeya idiin, idinkuna waxaad dhaxlaysaan ⟨את⟩ dhulkooda, siduu Yahweh Elohim kiinna idinku yidhi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kiinna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isagu"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "buu ka dhaqaaqsiin doonaa iyaga"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ka horreeya idiin"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "wuuna ka hor eryi doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga (qoomamada)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "ka horreeya idiin"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "idinkuna waxaad dhaxlaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkooda"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkooda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "u yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kiinna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:46.734151992Z",
+  "model": "glm-5.3"
+}

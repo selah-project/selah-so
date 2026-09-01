@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Daad ayaad ku tuurtay, hurdada bay noqdeen; subaxdii sida dhirta oo dhaqso ah bay gudubtaa.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "waxaad ku tuurtay (daad)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hurdada"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay noqdeen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sida dhirta"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "bay gudubtaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.012510308Z",
+  "model": "glm-5.3"
+}

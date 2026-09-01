@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Maxaad na ilaawaynaa weligeed, maxaad na dayeysaa muggo maalmo dheer?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "na ilaawaynaa"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "na dayeysaa"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "muggo dheer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:57:57.230819761Z",
+  "model": "glm-5.3"
+}

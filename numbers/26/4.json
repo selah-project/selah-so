@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "(Tiro-kooba) laga bilaabo labaatann jirka ah iyo ka weyn, sida Yahweh u amray ⟨את⟩ Muuse; iyo wiilasha Israa'iil ee ka soo baxay dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "laga bilaabo labaatann jirka ah iyo ka weyn"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatann"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jirka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "iyo ka weyn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iyo wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ee ka soo baxay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:54:20.918326847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo qabiilkii Yissaskar ka mid ah: ⟨את⟩ Qedesh iyo ⟨את⟩ beerahiisa, ⟨את⟩ Daberath iyo ⟨את⟩ beerahiisa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "oo qabiilkii ka mid ah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerahiisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beerahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:24:10.215773355Z",
+  "model": "glm-5.3"
+}

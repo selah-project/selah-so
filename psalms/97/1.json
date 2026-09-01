@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Yahweh ayaa boqor noqday; dhulkuu ha guddoonsado; jazeerooyin badan hagu farmaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqor noqday"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ha guddoonsado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkuu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hagu farmaan"
+    },
+    {
+      "surface": "איים",
+      "gloss": "jazeerooyin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:26.011275243Z",
+  "model": "glm-5.3"
+}

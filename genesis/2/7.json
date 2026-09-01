@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo Yahweh Elohim wuu samaystay ⟨את⟩ aadanka — dhoobo ka carrada dhulka — oo wuxuu afkiisa ku neefeeyay neefta nolosha, oo aadanku wuxuu noqday nef nololeed.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "wuu samaystay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadanka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dhoobo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "carrada dhulka"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ku neefeeyay"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "neefta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu noqday"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanku"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nef"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nololeed"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:25.002003376Z",
+  "model": "glm-5.3"
+}

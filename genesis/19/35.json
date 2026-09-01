@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo habeenkaasna sidoo kale waxay waraabiyeen ⟨את⟩ aabahood khamri, waxayna kacday tii yareyd, waxayna la seexdatay isaga, isagoo aan garanayn markay seexatay iyo markay soo kacday.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "waxay waraabiyeen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabahood"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "aabahood"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "waxayna kacday"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "tii yareyd"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "waxayna la seexdatay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayn"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "markay seexatay"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "iyo markay soo kacday"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:43.156368265Z",
+  "model": "glm-5.3"
+}

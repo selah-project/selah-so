@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Waxaad iska dhaaftay dhammaan xanaaqaaga; waxaad ka jeedsatay cadhoodka wejkaaga.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "waxaad iska dhaaftay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "xanaaqaaga"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "waxaad ka jeedsatay"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "cadhoodka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wejkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.515398488Z",
+  "model": "glm-5.3"
+}

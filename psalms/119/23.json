@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Xataa madaxdu way fadhiisteen, iga soo hadaleen; adoonkaaguna wuxuu ka fekerayaa xeerarkaaga.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Xataa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "way fadhiisteen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "madaxdu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "soo hadaleen"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adoonkaaguna"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "wuxuu ka fekerayaa"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "xeerarkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:11.328056014Z",
+  "model": "glm-5.3"
+}

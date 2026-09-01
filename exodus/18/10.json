@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo Yithro wuxuu yidhi: Wanagsan yahay Yahweh, kan ka badbaadiyay ⟨את⟩ idinka gacanta Mitsrayim iyo gacanta Farcoon, kan ka badbaadiyay ⟨את⟩ shacabka hoosta gacanta Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Wanagsan yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ka badbaadiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימיד",
+      "gloss": "iyo gacanta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ka badbaadiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:50.262167697Z",
+  "model": "glm-5.3"
+}

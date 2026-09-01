@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaan ku farxayaa hadalkaaga, sidii mid boonadan weyn helayo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "waxaan ku farxayaa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "sidii mid ... helo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "boonadan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:26.719789744Z",
+  "model": "glm-5.3"
+}

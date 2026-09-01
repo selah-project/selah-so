@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ma jiraa tow Gilcaad, iyo takhtar halkaas ma jiraa? Maxaadse boggashadu u soo korin gabadha dadkay?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "towda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraa"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gilcaad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo (su'aal)"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "takhtar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oo (maxaadse)"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxaadse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma (korin)"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "soo korin"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "bogsashadu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:19:15.886741909Z",
+  "model": "glm-5.3"
+}

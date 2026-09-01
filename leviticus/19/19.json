@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 19:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Xeerarkayga ilaaliya. Behimadaada kilayim ha dheelin, beerkaaga kilayim ha beerin, oo dhar kilayim ah — shaatnez — korkaaga ha ku kor marin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarkayga"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "xeerarkayga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "behimadaada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרביע",
+      "gloss": "dheelin"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kilayim"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "beerkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "beerin"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kilayim"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "oo dhar"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kilayim ah"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "shaatnez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ku"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kor marin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "korkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:31.366258084Z",
+  "model": "glm-5.3"
+}

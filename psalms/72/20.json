@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Waxay dhammaatay baryo Dawiid, wiilkii Yishay.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Waxay dhammaatay"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "baryo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:18.626688673Z",
+  "model": "glm-5.3"
+}

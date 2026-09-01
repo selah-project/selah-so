@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Maxaad u dhuubantahay, nafdayday, oo maxaad ila gariirtaa? Elohim sug, waayo weligaa waan u mahadnaqi doonaa — badbaadooyin ⟨waa⟩ wajigiisa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "dhuubantahay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayday"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "oo maxaad ila gariirtaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "sug"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "waan u mahadnaqi doonaa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badbaadooyin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:10.375052073Z",
+  "model": "glm-5.3"
+}

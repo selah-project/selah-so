@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waayo, waxaad noqon doontaan sida geed iil ah oo cawkiisu engegay, iyo sidii beer biyo la'aan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "waxaad noqon doontaan"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "sida geed iil ah"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "oo engegay"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "cawkiisu"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "iyo sidii beer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:29.023705839Z",
+  "model": "glm-5.3"
+}

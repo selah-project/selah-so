@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wanaagsan tahay waxa indhuhu aragga ka socodka nafta; kanna waa hebel iyo dhib ruux.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan tahay"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aragga"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indhuhu"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "socodka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "naa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo dhib"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:26.294483788Z",
+  "model": "glm-5.3"
+}

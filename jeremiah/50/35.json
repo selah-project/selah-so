@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Seef ayaa ku dhacaysa Kasdiim, ayuu yidhi Yahweh, iyo dadka deggan Babel, iyo boqorradooda, iyo kuwii xigmadaha lahaa.",
+  "tokens": [
+    {
+      "surface": "חֶרֶב",
+      "gloss": "Seef"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ku dhacaysa"
+    },
+    {
+      "surface": "כַּשְׂדִּים",
+      "gloss": "Kasdiim"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "dadka deggan"
+    },
+    {
+      "surface": "בָּבֶל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שָׂרֶיהָ",
+      "gloss": "boqorradooda"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "חֲכָמֶיהָ",
+      "gloss": "kuwii xigmadaha lahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:21:26.508042316Z",
+  "model": "glm-5.3"
+}

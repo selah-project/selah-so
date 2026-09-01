@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markuu caayay ⟨את⟩ Yisraa'iil, Yehonataan wiilkii Shim'aa ah walaalkii Dawid ayaa diley.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Markuu caayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ayaa diley"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shim'aa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalkii"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:00.651202323Z",
+  "model": "glm-5.3"
+}

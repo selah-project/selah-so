@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Boqorkiiuna wuxuu ku yidhi: Riyo waan riyooday, ruuxaydana waa la cabsi-geliyay si aan u ogaado ⟨את⟩ riyada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Boqorkii"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "riyo"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "waan riyooday"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "waa la cabsi-geliyay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxayda"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "si aan u ogaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riyada"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "riyada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:35.945977012Z",
+  "model": "glm-5.3"
+}

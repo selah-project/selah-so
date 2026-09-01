@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Iyo nin kaa ah qaado ⟨את⟩ naagta walaalkiis — nidaa bay tahay; carnaalka walaalkiis buu qaaday; ilmo-la'aan bay ahaan doonaan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "oo nin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaa ah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "qaado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naagta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nidaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay tahay"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "carnaalka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "uu qaaday"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ilmo-la'aan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay ahaan doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:42.935023903Z",
+  "model": "glm-5.3"
+}

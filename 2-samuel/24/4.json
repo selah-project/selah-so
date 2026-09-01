@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Ereygii boqorku wuxuu adkaa Yo'aab iyo hogaamiyayaasha ciidanka, Yo'aabna iyo hogaamiyayaashii ciidanku waxay ka baxeen horfaha boqorka, si ay u tiraan ⟨את⟩ shacabka, ⟨את⟩ Yisraai'il.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wuxuu adkaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ereygii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'aab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hogaamiyayaasha"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waxay ka baxeen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'aabna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "iyo hogaamiyayaashii"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ciidanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horfaha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "si ay u tiraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraai'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraai'il"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:15.002936245Z",
+  "model": "glm-5.3"
+}

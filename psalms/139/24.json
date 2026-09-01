@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Oo arag haddii jirto wado xun ⟨aniga⟩ gudahay; oo i hanuuni waddada weligeed ah",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Oo arag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "wado"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "xun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨aniga⟩ gudahay"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "oo i hanuuni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligeed ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:38.499137336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Lahadda allabariga shukriga nabad-samayntiisana waxaa la cunaa maalinta uu qorshaha ku bixiyay; waxba lama tegayo ka mid ilaa aroorta.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "lahaddana"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "shukriga"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "nabad-samayntiisa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uu qorshaha ku bixiyay"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "waxaa la cunaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waxba lama tegayo (ma)"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lama tegayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroorta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:55.857487829Z",
+  "model": "glm-5.3"
+}

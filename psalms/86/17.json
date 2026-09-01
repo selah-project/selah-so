@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Samee ilay calaamad khayr ah, oo cadowdaydu ha armaan oo ha ceeboobeen, waayo adiga, Adonay Yahweh, adigaa i caawisay oo naftayda ii qalbigaray.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Samee"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "אות",
+      "gloss": "calaamad"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "khayr ah"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "oo ha armaan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "oo ha ceeboobeen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "adigaa i caawisay"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "oo naftayda ii qalbigaray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:07.832053366Z",
+  "model": "glm-5.3"
+}

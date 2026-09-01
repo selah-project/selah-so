@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Sida tirada aad sameysaan, saasaad u sameysaan mid kasta, sida tiradooda.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "sida tirada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysaan"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saasaad u"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameysaan"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mid kasta"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sida tiradooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:58.008426541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Barxumayaal badan baa baabi'iyay beertaydii canabka, waxayna dul dhufeen ⟨את⟩ qeybtaydii; ⟨את⟩ qeybtii aan laga heli karay waxay dhigteen kolle baabba'baysan.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "barxumayaashu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "baabi'iyeen"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "beertaydii canabka"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "dul dhufeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qeybtaydii"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "qeybtaydii"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waxay dhigteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qeybtii aan laga heli karay"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "qeybta"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "aan laga heli karay"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "kolle"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "baabba'baysan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:06:48.318333025Z",
+  "model": "glm-5.3"
+}

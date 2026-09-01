@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuuna qori doonaa wadaajuhu ⟨את⟩ naqadaydaas buugga, wuuna tirtiri doonaa biyaha mararka ah.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Wuxuuna qori doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naqadaydaas"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "naqadaydaas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kaasoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaajuhu"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "buugga"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "wuuna tirtiri doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-dhaw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "mararka ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:33.879500174Z",
+  "model": "glm-5.3"
+}

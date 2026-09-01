@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Ma cabsan doontid cabsida habeenkii, ama gantaalada maalin-dhaqaqa ah ee duusha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsan doontid"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "gantaalada"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "duusha"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalin-dhaqaqa ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:00.900453007Z",
+  "model": "glm-5.3"
+}

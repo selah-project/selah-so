@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Wuxuu i wici doonaa, waana ka jawaabi doonaa; aniga ayaa la jirkiisa ah marka dhibta ku dhacdo; waana badbaadin doonaa, waana sharfi doonaa.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Wuxuu i wici doonaa"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "waana ka jawaabi doonaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la jirkiisa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "marka dhibta ku dhacdo"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "waana badbaadin doonaa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "waana sharfi doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:00.425182786Z",
+  "model": "glm-5.3"
+}

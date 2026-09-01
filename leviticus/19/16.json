@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha ku socon sheeko-xun-qoris qoomkaaga dhexdiisa; ha istaagin dhiigga deriskaaga: ani Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha ku socon"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ku socon"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "sheeko-xun-qoris"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "qoomkaaga dhexdiisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "istaagin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "deriskaaga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:15.133486723Z",
+  "model": "glm-5.3"
+}

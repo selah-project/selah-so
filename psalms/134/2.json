@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 134,
+  "translation": "Qiyaasta gacmihiinna qodsan, oo barakeeya ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "qiyaasta"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "gacmihiinna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodsan"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "oo barakeeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:43.637705810Z",
+  "model": "glm-5.3"
+}

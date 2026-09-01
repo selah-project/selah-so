@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Elohimna wuxuu yidhi Abraham: Saray, xaaskiigu, ha ugu dhawaaqin ⟨את⟩ magaceeda Saray; waayo, Sarah baa magaceedu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "xaaskiigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ugu dhawaaqin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaceeda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "magaceeda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "magaceedu"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:57.063547644Z",
+  "model": "glm-5.3"
+}

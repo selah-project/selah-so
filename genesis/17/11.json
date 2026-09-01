@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo idinku waad xiniinaysaan ⟨את⟩ jidhka gudcurkiinna, oo ⟨waxaasu⟩ noqon doonaa calaamad axdi ah aniga iyo idinka dhexdiinna.",
+  "tokens": [
+    {
+      "surface": "וונמלתם",
+      "gloss": "waad xiniinaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jidhka gudcurkiinna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "jidhka"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "gudcurkiinna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "oo noqon doonaa"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "calaamad"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "axdi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "aniga iyo"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "idinka dhexdiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T00:46:11.466427690Z",
+  "model": "glm-5.3"
+}

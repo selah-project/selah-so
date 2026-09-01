@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Indhahaygu way daalleen badbaadaada iyo hadalka caddaaladaada.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "indhahaygu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "way daalleen"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "badbaadaada"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "iyo hadalka"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "caddaaladaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:55.161109106Z",
+  "model": "glm-5.3"
+}

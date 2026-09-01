@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "iyo ⟨את⟩ saldhigyada bartilmaha dhexdooda ku wareegan, iyo ⟨את⟩ saldhigyada albaabka bartilmaha, iyo ⟨את⟩ dhammaan mindicyada miyriska, iyo ⟨את⟩ dhammaan mindicyada bartilmaha ku wareegan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saldhigyada bartilmaha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "saldhig yada"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bartilmaha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku wareegan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saldhig yada albaabka bartilmaha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "saldhig yada"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bartilmaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan mindicyada miyriska"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mindic yada"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miyriska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan mindicyada bartilmaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mindic yada"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bartilmaha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku wareegan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:05.993365178Z",
+  "model": "glm-5.3"
+}

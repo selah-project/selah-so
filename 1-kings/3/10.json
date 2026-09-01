@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuuna wanaagsanayd erayga indhaha Adonay, maxaaddeed Shelomoh ayaa weydiiyey ⟨את⟩ eraygan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wuxuuna wanaagsanayd"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaaddeed"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "weydiiyey"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eraygan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eraygan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:57.570305040Z",
+  "model": "glm-5.3"
+}

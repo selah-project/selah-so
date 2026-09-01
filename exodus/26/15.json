@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaad samaynaysaa ⟨את⟩ alwaaxyada miishaanka, ah geedo shittim (acaasia) oo taagan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad samaynaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alwaaxyada"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "alwaaxyada"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "miishaanka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "oo taagan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:36.643551803Z",
+  "model": "glm-5.3"
+}

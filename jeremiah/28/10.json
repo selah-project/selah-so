@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Markaasaa Hananyah oo ah nabi ahaan wuxuu qaatay ⟨את⟩ sarahaas ka hurdada cunuqta Yirmiyaah nabi ahaan, wuxuuna jajabay.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Markaasaa wuxuu qaatay"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi ahaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarahaas"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "sarahaas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka hurdada"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "cunuqta"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmiyaah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi ahaan"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "wuxuuna jajabay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:21.392872931Z",
+  "model": "glm-5.3"
+}

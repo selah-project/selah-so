@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Qarni tagaysa iyo qarni imanaysa, dhulkuse weligiis ⟨wuu⟩ taagan yahay.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Qarni"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tagaysa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo qarni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "imanaysa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dhulkuse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "taagan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:38.457749438Z",
+  "model": "glm-5.3"
+}

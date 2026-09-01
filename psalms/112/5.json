@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Wanaagsan ⟨waa⟩ nin saaxiib-fadli ah oo deeqsi ah oo amaaha bixiya; wuxuu ilaaliyaa waxa uu sameeyaa caddaalad (miisaan) ku dhan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Wanaagsan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "saaxiib-fadli ah oo deeqsi ah"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "oo amaaha bixiya"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "wuxuu ilaaliyaa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "waxa uu sameeyaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "caddaalad (miisaan) ku dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:28.892523740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markaas aniga waan dhigi doonaa ⟨את⟩ wejiigayga ka dhan ninkaas iyo qoyskiisa, oo waan baabbi'in doonaa ⟨את⟩ isaga iyo ⟨את⟩ dhammaan kuwa zinaysanaya kadibkiisa, inay zinaysadaan kadib Molekh, ka dhexdooda dadkooda.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "waan dhigi doonaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wejiigayga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiigayga"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ninkaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "iyo qoyskiisa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "waan baabbi'in doonaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan kuwa zinaysanaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "kuwa zinaysanaya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kadibkiisa"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "inay zinaysadaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ka dhexdooda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "dadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:01.061381962Z",
+  "model": "glm-5.3"
+}

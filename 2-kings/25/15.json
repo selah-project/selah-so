@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Iyo ulkaha lubadaha, iyo maydhaha, waxa dahab ahaa (dahab), waxa qalin ahaa (qalin), wuxuu qaatay Rabbigii ilaalayaasha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "ulkaha lubadaha"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ulkaha lubadaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "maydhaha"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "maydhaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa ee"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ahaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "(dahab)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "waxaana ee"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qalin ahaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "(qalin)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabbigii"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ilaalayaasha (gorya-yaalka)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:51.664925173Z",
+  "model": "glm-5.3"
+}

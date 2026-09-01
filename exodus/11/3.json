@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yahweh wuxuu siiyay ⟨את⟩ garabka ⟨shaqsi ahaan⟩ dadka indhaha rageedii Mitsrayim; sidoo kale ninkii Muuse wuxuu ahaa mid aad u weyn dhulka Mitsrayim, indhaha addoonadii Farcoon iyo indhaha dadka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garabka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "garabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha rageedi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonadii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "iyo indhaha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T08:40:38.626057895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan sameeyay anigaba beero iyo bostaano, waxaan beeray gudahooda geed kasta oo midho ah.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "waxaan sameeyay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anigaba"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "beero"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "iyo bostaano"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "waxaan beeray"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gudahooda"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "midho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:56.134410025Z",
+  "model": "glm-5.3"
+}

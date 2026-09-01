@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Idinkase waad nijaamaysaan ⟨את⟩ Magaca, markaad tidhaahdaan: Miiska Adonay waa nijaasan, oo midhihiisa cuntadiisana waa la dhaleeyahay.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Idinkase"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "waad nijaamaysaan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Magaca"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "markaad tidhaahdaan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Miiska"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "nijaasan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "oo midhihiisa"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "la dhaleeyahay"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "cuntadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:00.168038146Z",
+  "model": "glm-5.3"
+}

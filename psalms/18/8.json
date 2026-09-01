@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxay gacan-gashay oo waxay ruxsay dhulka, oo aasaasaha buurahuna waa la ruxay, waxayna gacan-gasheen — waayo, wuu caro-daray.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "waxay gacan-gashay"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "oo waxay ruxsay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "oo aasaasaha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buurahuna"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "waa la ruxay"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "waxayna gacan-gasheen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wuu caro-daray"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:05.210246193Z",
+  "model": "glm-5.3"
+}

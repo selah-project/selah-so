@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Kuwa cabsada ha ii laabtaan, oo ay yaqaannaan markhaatiyaada.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ha ii laabtaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "kuwa cabsada"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "oo ay yaqaannaan"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "markhaatiyaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:24.420385817Z",
+  "model": "glm-5.3"
+}

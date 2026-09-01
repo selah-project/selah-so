@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wuxuu doortay ⟨את⟩ qabiilka Yahuudah, ⟨את⟩ buurta Tsiyoon uu jeclaaday.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "wuxuu doortay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabiilka Yahuudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta Tsiyoon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "jeclaaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:01.531787524Z",
+  "model": "glm-5.3"
+}

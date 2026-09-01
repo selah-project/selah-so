@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Haddiise aadan dirin, ma soo degayno, waayo ninkii wuxuu na odhan jiray: Ma aragaysaan wajigayga aan walaalkiin ⟨את⟩ idinla aheyn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddiise"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "adan ahayn"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "aadan dirin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "soo degayno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninkii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu odhan jiray"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "aragaysaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "walaalkiin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinla aheyn",
+      "marks": "idinla aheyn"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:24.005164497Z",
+  "model": "glm-5.3"
+}

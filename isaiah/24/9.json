@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Hees laguma cabbayso khamri; sharaabta adig (shekhar) waxay dhadhamis khud ah ku tahay kuwa cabbaya.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "hees laguma cabbayso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "cabbayso"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "waxay khud ka noqonaysa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sharaabta adig"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kuwa cabbaya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:58.459232962Z",
+  "model": "glm-5.3"
+}

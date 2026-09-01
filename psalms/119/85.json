@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxay ii qodeen tuulo kuwa islaweyn, ⟨tuulo⟩ aan raacsanan sharcigaaga.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "waxay qodeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kuwa islaweyn"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "tuulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan (diidmo)"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "raacsanan sharcigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:03.701755359Z",
+  "model": "glm-5.3"
+}

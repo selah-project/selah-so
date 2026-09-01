@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Ha baqin, waayo aniga iigu jira; ha walbahaarin, waayo aniga ahay Elohimkaaga; waxaan adkaa kuu dhigay, xataa waxaan kuu gargaaray, xataa gacanta midigta ah ee cadaaladdayda baan ku taageelay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "baqin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iigu jira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "walbahaarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "adkaa kuu dhigay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "kuu gargaaray"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ku taageelay"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "gacanta midigta ah"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "cadaaladdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:51:19.130057583Z",
+  "model": "glm-5.3"
+}

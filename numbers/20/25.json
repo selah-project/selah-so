@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Qaad ⟨את⟩ Aharon iyo ⟨את⟩ Elazar wiilkiisa, oo qaadi ⟨את⟩ labadooda buurta Hoor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Qaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisa"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "oo (kor u) qaadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labadooda"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buurta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:05.247099260Z",
+  "model": "glm-5.3"
+}

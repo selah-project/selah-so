@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kadib waxaa jiray allabari daa'im ah, iyo kan bilaha cusub, iyo dhammaan waqtigyada moyaadka ee Yahweh la quddusaystay, iyo kan kasta oo si xor ah u baxsho bixi lahu ugu baxsho Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taas"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "allabari"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daa'im ah"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "iyo kan bilaha cusub"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "waqtigyada moyaadka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "la quddusaystay"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo kan kasta"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "oo si xor ah u baxsho"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "bixi lahu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh ugu"
+    }
+  ],
+  "timestamp": "2026-09-01T06:14:10.691268148Z",
+  "model": "glm-5.3"
+}

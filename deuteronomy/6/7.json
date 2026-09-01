@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaad carruurtuaga si dadaal ah u barisaa, waxaadna ka hadashaa ⟨kuwo𝇡 dhan⟩ markaad gurigaaga fadhido, markaad waddada ku socoto, markaad seexato, iyo markaad kacdo.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "si dadaal ah u barisaa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "carruurtuaga"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "waxaadna ka hadashaa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "markaad fadhido"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "markaad socoto"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "markaad seexato"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "markaad kacdo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:41.830600473Z",
+  "model": "glm-5.3"
+}

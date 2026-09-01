@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Aabayaashaynii Mitsrayim ma fahamsan ⟨את⟩ aajoyaadkaaga, ma xusin ⟨את⟩ badhtamidda khesedkaaga, way caasiyeen badhtanka iyo badda Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "aabayaashaynii"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fahamsan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "aajoyaadkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "xusin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badhtamidda khesedkaaga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badhtamidda"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "way caasiyeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "badhtanka iyo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:38.206481216Z",
+  "model": "glm-5.3"
+}

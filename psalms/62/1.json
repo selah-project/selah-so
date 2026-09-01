@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "La hage (maqaanka) ku saabsan Yeduutun; mazmoor (gabay ilaaliyo ah) oo Dawuud ah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "la hage (maqaanka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmoor (gabay ilaaliyo ah)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawuud ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.280256471Z",
+  "model": "glm-5.3"
+}

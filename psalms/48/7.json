@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Ruxanno ayaa halkaas ku qabsatay, dardar-gablood sida hawo dhasha.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Ruxanno"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ayaa ku qabsatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dardar-gablood"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "sida hawo dhasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:32.166801656Z",
+  "model": "glm-5.3"
+}

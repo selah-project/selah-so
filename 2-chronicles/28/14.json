@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Markaasaa kuwii hubka qaatay waxay ka tegeen ⟨את⟩ maxaabiista iyo ⟨את⟩ bahda hortooda hogaamiyayaasha iyo dhamaan sharciga.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "waxay ka tegeen"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "kuwii hubka qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maxaabiista"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "maxaabiista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "bahda"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "bahda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "hogaamiyayaasha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhamaan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sharciga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:44:07.661648829Z",
+  "model": "glm-5.3"
+}

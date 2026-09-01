@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "waxaadna keentaa khamri dhiibasho la-shubto, heltii hin-ka — gelin dab-ah, ur qancsiiya, loo gudbay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "waxaadna keentaa khamri"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "dhiibato"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "dhiibasho la-shubto"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "heltii"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hin-ka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "gelin dab-ah"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "qancsiiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "loo gudbay Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:58.008074303Z",
+  "model": "glm-5.3"
+}

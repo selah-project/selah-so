@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo si dhammaan kuwa kuu maqan (kugu maqan) farxad ha helaan, iyo weligeed ha guhaayaan, adigoo ku daboolaya; oo kuwa magacaaga jecel ha kugu farxaan.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ha farxaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "si dhammaan"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "kuwa kuu maqan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga kuu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyo weligeed"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ha guhaayaan"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "adigoo ku daboolaya"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "ha kugu farxaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga kugu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "kuwa jecel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:24.313966028Z",
+  "model": "glm-5.3"
+}

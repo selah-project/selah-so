@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "buuraha iyo dhulka hoose iyo carada iyo dhaadhamaha iyo barwaaqaha iyo koonfurta — Xittiinta, Emoriyada, Kanaanayaasha, Periziyada, Xiwiinta iyo Yebuusiyaasha.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "iyo dhulka hoose"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "iyo carada"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "iyo dhaadhamaha"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "iyo barwaaqaha"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "iyo koonfurta"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xittiinta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyada"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kanaanayaasha"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Periziyada"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Xiwiinta"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebuusiyaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:02.626663990Z",
+  "model": "glm-5.3"
+}

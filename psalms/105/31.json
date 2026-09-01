@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuu yidhi, oo waxaa yimid diin (maqaar-roob), iyo kirmitiyaal dhulkaa dhammaan xadkooda.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Wuu yidhi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "oo waxaa yimid"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "diin (maqaar-roob)"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kirmitiyaal"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "xadkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:46.232741567Z",
+  "model": "glm-5.3"
+}

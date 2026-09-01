@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wadaadduuna wuxuu fari doonaa in loo qaadasho kan la daahiriyo labo shimbiro oo nool oo daahir ah, iyo geed arar, iyo casaan-diid, iyo zuf.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "wuxuu fari doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "in loo qaadasho"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "kan la daahiriyo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "shimbiro"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "nool"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "daahir ah"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "iyo geed"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arar (geedka ararka)"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iyo casaan-diid (shuban) — laakiin halkan waxa aan qoray: iyo casaan-diid"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "casaan-diid (diiq cas)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "iyo zuf (zuf-geed)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:52.750334182Z",
+  "model": "glm-5.3"
+}

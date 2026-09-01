@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Kuwase ilaa baabba'itaan nafiyayda doondhaayaan, hoosyada dhulka bay geli doonaan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kuwase"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ilaa baabba'itaan"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "doondhaayaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafiyayda"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bay geli doonaan"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "hoosyada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:14.506243107Z",
+  "model": "glm-5.3"
+}

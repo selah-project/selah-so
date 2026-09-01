@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Sababtoo ah waxaad tidhi, ⟨את⟩ labada qoom iyo ⟨את⟩ labada dhulba anigay ii noqon doonaan, waannan dhaqsi doonaa, iyadoo Yahweh halkaas joogay.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sababtoo ah"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "waxaad tidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada qoom"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "qoom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labada dhulba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "labada"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dhulba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anigay ii"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "noqon doonaan"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "waannan dhaqsi doonaa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "joogay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:38:19.232643445Z",
+  "model": "glm-5.3"
+}

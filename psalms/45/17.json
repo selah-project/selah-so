@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 45,
+  "translation": "Meesha aabbayaashaa waa dhigi doonaa carruuradaada, waad ka dhigi doonaa amiirro ⟨dhan⟩ dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "meesha aabbayaashaa (beddelkeeda)"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "aabbayaashaa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waa noqon doonaa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "carruuradaada"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "waad ka dhigi doonaa"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "amiirro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka oo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:07.610630841Z",
+  "model": "glm-5.3"
+}

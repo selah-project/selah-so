@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Ilmihii Israa'iilna waxay addoontay ⟨את⟩ Cegloon boqorka Mo'aab siddeed-iyo-toban sano.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxay addoontay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cegloon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Cegloon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mo'aab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "siddeed"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iyo-toban"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:34.905107071Z",
+  "model": "glm-5.3"
+}

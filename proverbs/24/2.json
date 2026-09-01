@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waa maxay sababta — qalbigoodu wuu fekerayaa burbur, oo dhaqaaqoodu waxay ka hadlaan dhib.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa maxay sababta"
+    },
+    {
+      "surface": "שד",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "wuu fekerayaa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbigoodu"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "oo dhib"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "dhaqaaqoodu"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "waxay ka hadlaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:36:45.238128401Z",
+  "model": "glm-5.3"
+}

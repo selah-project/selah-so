@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Dadka dhulka oo dhan way u farxeen, magaaladuna way xasishay, oo Athalyahu bay seef ku dileen gurigii boqorka.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "way u farxeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "magaaladuna"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "way xasishay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "bay dileen"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:30:08.071214046Z",
+  "model": "glm-5.3"
+}

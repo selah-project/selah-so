@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Cimrigii Teraxna wuxuu ahaa shan iyo laba boqol oo sano; Teraxna wuxuu ku dhintay Xaran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Cimrigii"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iyo laba boqol oo sano"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuxuu ku dhintay"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Xaran"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:22.381950149Z",
+  "model": "glm-5.3"
+}

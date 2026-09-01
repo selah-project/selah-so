@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waayo wuxuu ka yimid Israa'iil; farsaanku wuu sameeyay, mana aha Elohim — waayo cudi Shomeroon wuxuu noqon doonaa gooyo burbur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "wuxuu ka yimid Israa'iil"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "farsaanku"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "wuu sameeyay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "gooyo burbur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "cudi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroon"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:35.183541200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxaad goyn doontaa ⟨את⟩ wanaha qaybo qiyaas ah, waxaad maydhaysaa dhexdiisa iyo lugahiisa, waxaadna dhigi doontaa qaybihiisa kor iyo madaxiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wanaha"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "goyn doontaa"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "qaybo qiyaas ah"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "maydhaysaa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "lugahiisa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dhigi doontaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "qaybihiisa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo kor"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "madaxiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:34.078372494Z",
+  "model": "glm-5.3"
+}

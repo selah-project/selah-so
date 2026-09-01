@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Waxaa caddeeya in cadhada aadanaha ay ku ammaanayso; hadhaagii cadhada Adigaa ku xidhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waxaa caddeeya in"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "cadhada"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ay ku ammaanayso"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "hadhaagii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "cadhada"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Adigaa ku xidhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:30.428784524Z",
+  "model": "glm-5.3"
+}

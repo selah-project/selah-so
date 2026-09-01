@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Yahwehow, iigu kaxayso ninka sharka ah; ninka rabshadaha igu waardi ⟨adigu⟩.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "iigu kaxayso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ninka ka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharka ah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ninka ka"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "rabshadaha"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "igu waardi"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:37.366130566Z",
+  "model": "glm-5.3"
+}

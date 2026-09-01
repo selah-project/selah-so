@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "oo ⟨את⟩ dhamaan tayada u dheelitir irridka Cadhdha Kulanka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "dhamaan tayada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tayada"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "u dheelitir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irridka… u"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "irridka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cadhdha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:31.952356743Z",
+  "model": "glm-5.3"
+}

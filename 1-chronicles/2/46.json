@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Eefah, surwaaqa Kaleyb, waxay dhashay ⟨את⟩ Jaaraan iyo ⟨את⟩ Mootsa iyo ⟨את⟩ Gaasees; oo Jaaraanna wuxuu dhalay ⟨את⟩ Gaasees.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Eefah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "surwaaqa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleyb"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaaraan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Jaaraan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "Mootsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mootsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "Gaasees"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gaasees"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "oo Jaaraanna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaasees"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gaasees"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:28.549871437Z",
+  "model": "glm-5.3"
+}

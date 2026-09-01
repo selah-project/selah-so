@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Makhiyad waa qalbiga kuwa shar dhigaya, laakiin kuwa nabad taliya waxay heli doonaan farxad.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "makhiyad"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kuwa ... dhigaya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "laakiin kuwa ... taliya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "farxad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:19.410798640Z",
+  "model": "glm-5.3"
+}

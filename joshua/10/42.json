@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ boqoradan oo dhan iyo ⟨את⟩ dhulkoodii Yehooshuuca wuu qabsaday hal mar, waayo Yahweh, Elohimka Israa'iil, ayaa Israa'iil u dagaallamay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boqoradan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqoradan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkoodii"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkoodii"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "wuu qabsaday"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "mar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ayaa dagaallamay"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil u"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:58.569708959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Iyo ⟨את⟩ Atrot-Shoofan iyo ⟨את⟩ Yaazer iyo Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Atrot-Shoofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shoofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "iyo Yogbeha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:03.641167183Z",
+  "model": "glm-5.3"
+}

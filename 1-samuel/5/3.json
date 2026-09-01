@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ashdod-dii waxay waaga hor inta kacbadeen, bal eeg — Daagon wuxuu dhacay wejigiisii dhulka, hortiisa sanduuqa Yahweh; waxayna qaadeen ⟨את⟩ Daagon, waxayna celiyay ⟨את⟩ meeshii.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "waaga hor inta kacbadeen"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "Ashdod-dii"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "berri (maalintii xigta)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wuxuu dhacay"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wejigiisii"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "waxayna qaadeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "waxayna celiyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "meeshii"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "meeshii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:23.923663638Z",
+  "model": "glm-5.3"
+}

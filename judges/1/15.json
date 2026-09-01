@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxayna ku tidhi, I sii barako, waayo waad ii siisay ⟨את⟩ dhulka Koonfureed, ee i sii ilaha biyaha ah. Markaasuu Caleb siiyay ⟨את⟩ ilaha sare iyo ⟨את⟩ ilaha hoose.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna ku tidhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "i sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Koonfureed (Negeb)"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "waad ii siisay"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ee i sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha ah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "markaasuu siiyay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Caleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaha sare"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "ilaha hoose"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "hoose"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:34.999899210Z",
+  "model": "glm-5.3"
+}

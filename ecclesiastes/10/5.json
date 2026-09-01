@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxaan arkay xumaan ⟨waa jirta⟩ oo hoos tagta qorraxda, sida khalad ka soo baxa wajiga talada haya.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨waa jirta⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos tagta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "sida khalad"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ka soo baxa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "talada haya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:35.817754135Z",
+  "model": "glm-5.3"
+}

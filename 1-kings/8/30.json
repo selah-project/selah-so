@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 8:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo waxaad maqashiin doontaa baryada addoonkaaga iyo dadkaaga Israa'iil markay u baryaan meesha kan; adiguna waxaad maqashiin doontaa meesha aad ku degto, tan samada, oo waxaad maqashoo waxaadna dhaafsiisoo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "waxaad maqashiin doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "תחנת",
+      "gloss": "baryada"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "iyo dadkaaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "markay"
+    },
+    {
+      "surface": "יתפללו",
+      "gloss": "u baryaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "waxaad maqashiin doontaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "aad ku degto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "waxaad maqashoo"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "waxaadna dhaafsiisoo"
+    }
+  ],
+  "timestamp": "2026-09-01T07:09:01.964946222Z",
+  "model": "glm-5.3"
+}

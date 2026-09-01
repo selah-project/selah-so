@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo wadaaddu wuu tanuufayn doonaa ⟨את⟩ kuwaas — rootigii bikuurka ayuu ku tanuufayn doonaa, tanuufah ka hor Yahweh, iyo (kor) labada laxba — qaddim (wax muqaddas ah) bay noqonmaan, u Yahweh iyo u wadaadda.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "wuu tanuufayn doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (rootiga iyo labada laxba)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor (ku socda)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "bikuurka"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tanuufah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iyo (kor)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "laxba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qaddim (muqaddas)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bay noqonmaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wadaadda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:46.690830474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 6:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Aannu aadno bal ilaa Yardeen, aannu halkaas ka qaadanno qof keliya qoryo, aannu u sameynno halkaas meel aan ku noolaanno, wuxuunaa yidhi: Aada.",
+  "tokens": [
+    {
+      "surface": "נלכה",
+      "gloss": "aannu aadno"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeen"
+    },
+    {
+      "surface": "ונקחה",
+      "gloss": "aannu ka qaadanno"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof keliya"
+    },
+    {
+      "surface": "קורה",
+      "gloss": "qoryo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "(keliya)"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "aannu u sameynno"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "naga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aan ku noolaanno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuunaa yidhi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Aada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:25:58.451287406Z",
+  "model": "glm-5.3"
+}

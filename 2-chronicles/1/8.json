@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "wuxuuna Sulaymaan yidhi Elohim: Adigu waxaad la sameysay Daawid aabahay khesed (naxariis weyn) weyn, adigana igoo boqor ka dhigay meeshiisii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulaymaan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adigu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waxaad sameysay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed (naxariis weyn)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "igoo boqor ka dhigay"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "meeshiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:33:49.135472611Z",
+  "model": "glm-5.3"
+}

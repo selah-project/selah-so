@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Waa la tuuri doonaa dhinacyada dhagaxa weerar-garsoorayaashooda, wayna maqli doonaan hadalkayga, waayo waa macaan.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "waa la tuuri doonaa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "dhinacyada"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dhagaxa"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "weerar-garsoorayaashooda"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "wayna maqli doonaan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "hadalkayga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "waa macaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:40.378306436Z",
+  "model": "glm-5.3"
+}

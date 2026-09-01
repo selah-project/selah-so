@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Sayidkey wuxuu weydiiyay ⟨את⟩ addoomadiisa oo yidhi: Ma waxaad leedhiin aabbe ama walaal?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Sayidkey"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wuxuu weydiiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadiisa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo yidhi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma waxaad leedhiin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "אב",
+      "gloss": "aabbe"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אח",
+      "gloss": "walaal"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:11.703204073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Yoowaabuna wuxuu u yimid boqorka gurigii gudihiisa, wuxuuna yidhi: Maanta waad ceebaystay ⟨את⟩ wajiyada addoomadaada oo dhan, kuwa maanta badbaadinayay ⟨את⟩ naftadaada iyo ⟨את⟩ nafadda wiilashaaga iyo gabdhahaaga, iyo nafadda haweenkaaga iyo nafadda surriyadaaga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu u yimid"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "gurigii gudihiisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "waad ceebaystay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajiyada addoomadaada"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "addoomadaada"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "kuwa badbaadinayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naftadaada"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftadaada"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "nafadda wiilashaaga iyo gabdhahaaga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafadda"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaaga"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "iyo gabdhahaaga"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "iyo nafadda"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "haweenkaaga"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "iyo nafadda"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "surriyadaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:06:35.647157519Z",
+  "model": "glm-5.3"
+}

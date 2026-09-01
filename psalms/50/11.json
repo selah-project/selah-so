@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Shimbiraha buuraha oo dhan waan ogyahay, xayawaanka bannaankuna ⟨waa⟩ ⟨la⟩ ii wada yahay.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "xayawaanka bannaankuna"
+    },
+    {
+      "surface": "שדי",
+      "gloss": ""
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "la ii wada yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:37.514165940Z",
+  "model": "glm-5.3"
+}

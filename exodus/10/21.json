@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Yahweh wuxuu yidhi Muuse: Fir gacantaada samada, ha noqdo mugdi dhulka Mitsrayim, iyo mugdigu ha taabto ⟨(waa la taabtaa)⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(sideedii)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Fir"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "ha taabto"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdigu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:09:43.296708540Z",
+  "model": "glm-5.3"
+}

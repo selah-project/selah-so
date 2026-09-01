@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo nimanku waxay qaateen cunadooda, oo ⟨את⟩ afka Yahweh kuma weydiiseen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "way qaadeen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nimanku"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "cunadooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "afka Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "weydiiseen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:43.962306557Z",
+  "model": "glm-5.3"
+}

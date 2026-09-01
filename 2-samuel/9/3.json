@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 9:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Boqorku wuxuu yidhi: ma jiro nin kale oo qoyska Shaa'uul ka mid ah, aan u sameeyo khesed Elohim? Wuxuuna yidhi Tsiba boqorka: wuxuu jiraa wiil uu dhalay Yehonatan, lugaha naageey («naas-la') ah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "האפס",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "aan u sameeyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wuxuu jiraa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "ליהונתן",
+      "gloss": "uu dhalay Yehonatan"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "naageey («naas-la') ah"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "lugaha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:34.211059827Z",
+  "model": "glm-5.3"
+}

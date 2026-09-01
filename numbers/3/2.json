@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kuwanu waa magacyada wiilasha Aharon: ilmo-laboorkii ah oo ah Nadaab, iyo Abiyhuu, Elazar iyo Iytaamaar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kuwanu waa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ilmo-laboorkii ah"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "iyo Abiyhuu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "iyo Iytaamaar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:50.145285077Z",
+  "model": "glm-5.3"
+}

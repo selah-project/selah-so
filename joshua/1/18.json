@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Qof kastoo caasiyo ⟨את⟩ afkaaga oo aan dhegeysan ⟨את⟩ erayadaaga, wax kasta oo aad amarto, waa la dileynaa; adigu keliya adkaa oo adkaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Qof kastoo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "caasiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkaaga"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhegeysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayadaaga"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "erayadaaga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "aad amarto"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waa la dileynaa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "adkaa"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "oo adkaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:29.260511983Z",
+  "model": "glm-5.3"
+}

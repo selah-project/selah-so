@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Dhammaan kuwa barwaaqaysan ee dhulka way cuni doonaan oo way sujuudi doonaan wajigiisa hortiis; dhammaan kuwa carada hoos u dhaca way jilci doonaan, iyo kan naftiisa aan karin inuu noolaado.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "way cuni doonaan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "way sujuudi doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "kuwa barwaaqaysan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "wajigiisa hortiis"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "way jilci doonaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kuwa hoos u dhaca"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "carada"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "naftiisuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan karin"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "inuu noolaado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:26.311860576Z",
+  "model": "glm-5.3"
+}

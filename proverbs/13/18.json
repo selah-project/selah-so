@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Sabool iyo ceeb bay tahay kan diidanta waxbarashada (casbada), laakiin kan ixtiyaama qaab-dhismeedka waa lagu sharfaa.",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "sabool"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "iyo ceeb"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "kan diidanta (ku waayahay)"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "waxbarashada (casbada)"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "laakiin kan ixtiyaama"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "qaab-dhismeedka"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "waa lagu sharfaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.279418806Z",
+  "model": "glm-5.3"
+}

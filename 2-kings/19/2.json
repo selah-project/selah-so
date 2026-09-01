@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Wuuna soo diray ⟨את⟩ Elyaqiim oo ah kan gacanta ku haya baytkii, iyo Shebna qoraha, iyo ⟨את⟩ odayada waayeelka ah ee wadaaddada, iyagoo isu duuban sagxadh, xagga Yeshayahu nebigii, ina Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuuna soo diray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqiim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqiim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ah kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "gacanta ku haya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "iyo Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "odayada waayeelka ah ee wadaaddada"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayada waayeelka ah ee"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "iyagoo isu duuban"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "sagxadh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebigii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:52.676420927Z",
+  "model": "glm-5.3"
+}

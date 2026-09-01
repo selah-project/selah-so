@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Rabitaanka wadnihiisa waad siisay, oo codka lafahaagiisa ma waajisinaad. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "rabitaanka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "wadnihiisa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "waad siisay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "oo codka"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lafahaagiisa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "waajisinaad"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:39.503702692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan idinla soo diri doonaa ⟨את⟩ duuryada duurka, wayna idin lumi doontaa, waxayna baabbi'in doontaa ⟨את⟩ xoolihiinna, wayna idin yarayn doontaa, wadooyinkiinnuna waaba la dayn doonaa.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "waxaan idinla soo diri doonaa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duuryada duurka"
+    },
+    {
+      "surface": "חית",
+      "gloss": "duuryada"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "duurka"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "way idin lumi doontaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "idin ⟨את⟩",
+      "marks": "way idin lumi doontaa"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "way baabbi'in doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoolihiinna"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "xoolihiinna"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "way idin yarayn doontaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "idin ⟨את⟩",
+      "marks": "way idin yarayn doontaa"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "waa la dayn doonaa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "wadooyinkiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:21.198525727Z",
+  "model": "glm-5.3"
+}

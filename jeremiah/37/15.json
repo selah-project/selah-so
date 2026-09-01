@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waxay cadhoodeen wahdadii Yirmeyah, waxayna dhuftay ⟨את⟩ isaga, waxayna dhigeen ⟨את⟩ isaga guriga xabsiga — guriga Yehonatan qoragii; waayo ⟨את⟩ isaga bay ka dhigeen guri xabsi.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "Waxay cadhoodeen"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wahdadii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "waxayna dhuftay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yirmeyah)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "waxayna dhigeen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yirmeyah)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "xabsiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qoragii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yirmeyah)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bay ka dhigeen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "xabsi"
+    }
+  ],
+  "timestamp": "2026-09-01T04:16:43.252790317Z",
+  "model": "glm-5.3"
+}

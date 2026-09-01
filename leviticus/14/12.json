@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo wadaaddu wuu qaadani doonaa ⟨את⟩ wan kowaad wuxuuna dhowaarayn doonaa ⟨את⟩ inuu noqdo asham (dhaawac-allabarris), iyo ⟨את⟩ logga saliidka, wuxuuna dhaadhaci doonaa (tenufah) ⟨את⟩ waxaas oo dhan Yahweh hortiis.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuu qaadani doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wan kowaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kowaad"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wuxuuna dhowaarayn doonaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inuu noqdo asham"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "logga saliidka"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "saliidka"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "wuxuuna dhaadhaci doonaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "waxaas oo dhan"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenufah (dhaadhac)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:25.805721387Z",
+  "model": "glm-5.3"
+}

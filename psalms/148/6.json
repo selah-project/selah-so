@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Wuxuuna waqti dheer u istaagiyay, ilaa weligeed; sharcigana wuu siyay, oo lama dhaafo.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "wuxuuna u istaagiyay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "waqti dheer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa weligeed"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sharci"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuu siyay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo lama"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "dhaafo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:39.232428613Z",
+  "model": "glm-5.3"
+}

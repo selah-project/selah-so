@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo haddii waxyeello dhacdo, waxaad siin naf bedelkeed naf.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "waxyeello"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dhacdo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "waxaad siin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bedelkeed"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:49.173743106Z",
+  "model": "glm-5.3"
+}

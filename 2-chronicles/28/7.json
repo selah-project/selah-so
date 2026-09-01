@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Wuxuuna dilay Sikri, oo ah nin xoog badan oo reer Efrayim, ⟨את⟩ MaaseYahu ina boqorka, iyo ⟨את⟩ Azriqam, oo ah hoggaamiyaha guriga, iyo ⟨את⟩ Elqana, oo ah labaad ee boqorka.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "wuxuuna dilay"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Sikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nin xoog badan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "MaaseYahu ina boqorka"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "MaaseYahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Azriqam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azriqam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hoggaamiyaha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Elqana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:44:12.316778563Z",
+  "model": "glm-5.3"
+}

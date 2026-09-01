@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo kanu waa waxa aad u samaynayso inaad si lesan u qaddaysid ⟨את⟩ iyaga inay noqdaan wadaaddo aniga; qaado hal dibi, wiil baqooleed, iyo laba wan oo aan dhaawac lahayn.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Oo kanu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "waa waxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "u samaynayso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "inaad si lesan u qaddaysid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "inay noqdaan wadaaddo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "qaado"
+    },
+    {
+      "surface": "פר",
+      "gloss": "hal dibi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baqooleed"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "iyo laba wan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "aan dhaawac lahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:50.745205945Z",
+  "model": "glm-5.3"
+}

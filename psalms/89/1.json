@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Mashal-bar-warran ah oo laga qoray Eeytan oo ahaa mid ka mid ah Ezrachiyiinta.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "bar-warran (nooca qaraacada ah)"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Eeytan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezraaxiga (oomada Ezrachiyiinta)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:03.897661587Z",
+  "model": "glm-5.3"
+}

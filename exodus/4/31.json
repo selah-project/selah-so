@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Dadku way rumeeyeen, markay maqleen in Yahweh ⟨uu⟩ booqday ⟨את⟩ wiilasha Israa'iil iyo inuu arkay ⟨את⟩ dhibaatadooda, waxay salaaxdeen oo sujuudeen.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "way rumeeyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Dadku"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "markay maqleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "booqday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "iyo in"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibaatadooda"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "dhibaatadooda"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "waxay salaaxdeen"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oo sujuudeen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:31.605354529Z",
+  "model": "glm-5.3"
+}

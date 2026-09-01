@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Merajoth wuxuu dhalay ⟨את⟩ Amarjah, Amarjaana wuxuu dhalay ⟨את⟩ Achituub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amarjaana"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituub"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:32.264289019Z",
+  "model": "glm-5.3"
+}

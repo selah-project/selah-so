@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Nafiyaydu kuu dhegtay; midigtaada baa aniga i taageysaa.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kuu dhegtay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafiyaydu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kuu (ka dibgaaga)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "i taageysaa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "midigtaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:14.505822487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Kani markii aan hoos u dhignay ay noo xusuustay, waayo ilaa iyo weligeed baa khesedkiisu jira.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "markii aan hoos u dhignay"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ay noo xusuustay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligeed"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.349521347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "Haddii Yahweh aanan ahayn mid nala jooga, markay dadku noo kacen...",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "haddii ... aanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "aanan ahayn mid nala jooga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na (naga)"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "markay ... kacen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "noo (naga)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dadku"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:51.872677576Z",
+  "model": "glm-5.3"
+}

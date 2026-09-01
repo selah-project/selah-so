@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Naaftaydu, ammaan Yahweh; Yahweh, Eloahayga, waad weyn tahay; hod iyo dheemanba waad xiratay.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Naaftaydu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahayga"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "waad weyn tahay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hod"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "iyo dheemanba"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "waad xiratay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:31.629534842Z",
+  "model": "glm-5.3"
+}

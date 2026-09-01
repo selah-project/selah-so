@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Afka eelanka ul faanuun bay ku jirtaa, oo dhaqanku kuwa xariifsan waxay ilaaliyaan.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "eelanka"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ul"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "faanuun"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "oo dhaqanku"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "kuwa xariifsan"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "waxay ilaaliyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:12.230234363Z",
+  "model": "glm-5.3"
+}

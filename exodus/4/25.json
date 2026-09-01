@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Tipporahna waxay qaadatay dhagax qaawsan, waxayna goysay ⟨את⟩ qorodhka wiilkeeda, waxayna taabatay cagahiisa, waxayna tidhi: Hubaal adigu waxaad tahay ii-geed-dhiig ah.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "waxay qaadataay"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhagax qaawsan"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "waxayna goysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorodhka wiilkeeda"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "qorodhka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wiilkeeda"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "waxayna taabatay"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "cagahiisa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ii-geed (xidid-dheer)"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:34.108274257Z",
+  "model": "glm-5.3"
+}

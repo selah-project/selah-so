@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Markaad lakirtid ⟨את⟩ madaxa wiilasha Yisraa'eel si loo tiriyo, nin kastaa wuxuu bixin doonaa nafdiisa lafhoor Yahweh u ah, marka ⟨את⟩ iyaga la tirinayo; si aysan ku dhicin cudur-dhac marka ⟨את⟩ iyaga la tirinayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "marka(aad)"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "aad lakirtid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madaxa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'eel"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "si loo tiriyo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wuxuu bixin doonaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kastaa"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lafhoor"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafdiisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "marka la tirinayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si aysan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aysan ku dhicin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "cudur-dhac"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "marka la tirinayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:23.845586553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo Muuse iyo Aharon waxay yimaadeen horfaceeda khaymadta kulanka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhanka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "horfaceeda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymadta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:49:35.543130731Z",
+  "model": "glm-5.3"
+}

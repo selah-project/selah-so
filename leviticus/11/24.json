@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kuwana waa lagu nijaasanayaa: mid kasta oo taabata meydahooda wuu nijaansmaanayaa illaa galabta.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "kuwana"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "waa lagu nijaasanayaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mid kasta oo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taabata"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "meydahooda"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wuu nijaansmaanayaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:27.861189721Z",
+  "model": "glm-5.3"
+}

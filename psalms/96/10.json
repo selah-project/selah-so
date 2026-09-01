@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Dheh ummaddaha: Yahweh wuu xukumay; weliba tebel ⟨waa⟩ la aasaasay, ma dhaqaaqi doonto; wuu xukumi ummadaha ⟨cadaalad⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dheh"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ummaddaha gudaheeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuu boqor u noqday"
+    },
+    {
+      "surface": "אף",
+      "gloss": "weliba"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "waa la aasaasay"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel (adduunka)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma dhaqaaqi doonto"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ma dhaqaaqi doonto"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "wuu xukumi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ummadaha"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "cadaalad (toosan)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:43.494874880Z",
+  "model": "glm-5.3"
+}

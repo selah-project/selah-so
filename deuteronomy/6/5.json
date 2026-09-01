@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaad jeceshahay Yahweh Elohim-kaaga ⟨את⟩ oo ah kan aad leedahay, qalbigaaga oo dhan, iyo nafsheeda oo dhan, iyo xooggaga oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "waxaad jeceshahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim-kaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-kaaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsheeda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "xooggaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:41.829320668Z",
+  "model": "glm-5.3"
+}

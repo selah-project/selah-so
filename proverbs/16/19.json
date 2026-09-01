@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Wanaagsan ruux dulan oo ⟨את⟩ saboolka ah, kaas oo qaybaysa ganiimada ⟨את⟩ isla-weynayaasha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "dulan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saboolka"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "qaybaysa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ganiimada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isla-weynayaasha"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "isla-weynayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:33:53.617598938Z",
+  "model": "glm-5.3"
+}

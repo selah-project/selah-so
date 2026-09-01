@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Raamna wuu dhalay ⟨את⟩ Amminadab, Amminadabna wuu dhalay ⟨את⟩ Nachshon, oo ah madaxa wiilasha Yahuudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Raamna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "Amminadabna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:23.833533799Z",
+  "model": "glm-5.3"
+}

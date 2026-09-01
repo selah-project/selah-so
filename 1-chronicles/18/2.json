@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuuna dhuftay ⟨את⟩ Moab, Moabana waxay ahaadeen adeegto Dawid, iyagoo bixiya kharaaj (kaniin).",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuuna dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay ahaadeen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabna"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "adeegto"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bixiya"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kharaaj (kaniin)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:35.149790229Z",
+  "model": "glm-5.3"
+}

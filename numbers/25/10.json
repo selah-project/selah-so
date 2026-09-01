@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yahweh wuxuu Muuse ku hadlay ⟨inuu yidhaahdo⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨inuu yidhaahdo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:53.835478392Z",
+  "model": "glm-5.3"
+}

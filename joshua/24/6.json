@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaan ka soo bixiyay ⟨את⟩ aabbayaashiin Mitsrayim, waxayna tegeen badda; Mitsrayimna waxay ku soo raaceen aabbayaashiin gaari-dhulleys iyo fardo ilaa Badda Suuf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "waxaan ka soo bixiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aabbayaashiin"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "waxayna tegeen"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "badda"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "waxay ku soo raaceen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aabbayaashiin"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "gaari-dhulleys"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "iyo fardo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:47.053833899Z",
+  "model": "glm-5.3"
+}

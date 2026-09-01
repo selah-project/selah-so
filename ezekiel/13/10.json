@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Sababtoo ah waayo, waayo bay ⟨את⟩ qolkay habaabshay, oo odhan: Nabad! nabadana ma jirto; kan dhisa derbi, iyagoo ku dhufta ⟨את⟩ tapel (dhoobo aan la dhoobon).",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "waayo (labanlaab)"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "bay habaabshay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qolkay"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Nabad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana jirto"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabad"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dhisa"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "derbi"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "iyagoo"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "ku dhufta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tapel (dhoobo aan la dhoobon)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tapel"
+    }
+  ],
+  "timestamp": "2026-09-01T04:27:54.770534561Z",
+  "model": "glm-5.3"
+}

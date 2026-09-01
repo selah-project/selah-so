@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Iyo ⟨את⟩ Yehu inra Nimshi subo boqor ka noqda Israa'iil, iyo ⟨את⟩ Elisha inra Shafat, ka Abel-Mexolah, subo nebi adiga meeshaada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inra"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "subo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inra"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Abel-Mexolah"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "subo"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "nebi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "meeshaada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:21:11.513457370Z",
+  "model": "glm-5.3"
+}

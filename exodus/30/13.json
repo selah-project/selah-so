@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 30:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Tani waa inay bixiyaan kulli mid ka gudbayay kuwa la tiriyo: badh sheqel, sheqelka qudska ahaa (sheqelu waa labaatan geerah), badh sheqel baa ah hadiyad loo qaaday Yahweh.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Tani"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "waa inay bixiyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "mid ka gudbayay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "la tiriyo"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "badh"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sheqel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sheqelka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qudska ahaa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geerah"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sheqelu"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "badh"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sheqel"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "hadiyad loo qaaday"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:28.724291572Z",
+  "model": "glm-5.3"
+}

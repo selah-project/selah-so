@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Kelyaasi garashada ma jecel yahay, laakiin waxa jecel yahay (waa) in qalbigiisa la ogaado.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "jecel yahay"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kelyaasi"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "garashada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "waxa jecel yahay"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "in la ogaado"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:34.714156882Z",
+  "model": "glm-5.3"
+}

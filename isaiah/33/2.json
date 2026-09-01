@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Yahweh, noo naxariis; adigaa bannu sugnay; noqo gacmahooda subixi kasta, iyo badbaadannayada waqtiga dhibaatada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "noo naxariis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "bannu sugnay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "gacmahooda"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "subixi kasta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "badbaadannayada"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhibaatada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:47:25.110234716Z",
+  "model": "glm-5.3"
+}

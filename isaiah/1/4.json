@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Balay! Shacab demiile ah, dad culays dembi u dhintay ah, durri sharfalayaal, carruur baabi'aya; waxay ka tegeen ⟨את⟩ Yahweh, waxay caayay ⟨את⟩ Quduuska Israa'iil, waxay gadaal u jeedsteen.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Balay!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "shacab"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "demiile ah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "culays"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dembi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "durri"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sharfalayaal"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "carruur"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "baabi'aya"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "waxay ka tegeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "waxay caayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Quduuska Israa'iil"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Quduuska"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "waxay gadaal u jeedsteen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "gadaal"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:34.402814985Z",
+  "model": "glm-5.3"
+}

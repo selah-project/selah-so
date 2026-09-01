@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waannu idinku dhaartooday, gabdhaha Yeruushaalaym: maxaad ku kicinaysaan iyo maxaad todorsiinaysaan ⟨את⟩ jacaylka, ilaa uu doono?",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּעְתִּי",
+      "gloss": "Waannu idinku dhaartooday"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "gabdhaha Yeruushaalaym"
+    },
+    {
+      "surface": "בְּנוֹת",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "יְרוּשָׁלִָם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "תָּעִירוּ",
+      "gloss": "ku kicinaysaan"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "iyo maxaad"
+    },
+    {
+      "surface": "תְּעֹרְרוּ",
+      "gloss": "todorsiinaysaan"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jacaylka"
+    },
+    {
+      "surface": "הָאַהֲבָה",
+      "gloss": "jacaylka"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּץ",
+      "gloss": "uu doono"
+    }
+  ],
+  "timestamp": "2026-09-01T05:54:39.000644816Z",
+  "model": "glm-5.3"
+}

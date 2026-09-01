@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Waxaad u muuqisay dadkaaga waayo'-jir, waxaad nagu siyaatisay khamri tartiis ah.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "waxaad u muuqisay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "waayo'-jir"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "waxaad nagu siyaatisay"
+    },
+    {
+      "surface": "יין",
+      "gloss": "khamri"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "tartiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:20.508675146Z",
+  "model": "glm-5.3"
+}

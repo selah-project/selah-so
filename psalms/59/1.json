@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Tagaha hanuuniyaha ⟨ahaan⟩; Ha baabin; Gabaygii Daawud, miktam; markii uu Shaa'uul soo diray, oo ay dhuleeyeen ⟨את⟩ guriga si ay u dilaan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Tagaha hanuuniyaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "baabin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Gabaygii Daawud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "markii uu soo diray"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "oo ay dhuleeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "si ay u dilaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.707823955Z",
+  "model": "glm-5.3"
+}

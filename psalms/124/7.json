@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 124,
+  "translation": "Nafkeennay sidii shimbir baa ka carartay foosha ku-goyaha; fooshtu waa la jajabisay, oo annagii waannu cararnay.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nafkeennay"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "sidii shimbir"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "baa ka carartay"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "foosha"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ku-goyaha"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "fooshtu"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "waa la jajabisay"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "oo annagii"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "waannu cararnay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:49.798827984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waxay Muuse dheehen: Adigu noo hadal waannu maqallaa; hana haadin Elohim inuu nagu hadlo, bal inaan dhimanno.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay dheehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "waannu maqallaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hana"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "haadin inuu hadlo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bal inaan"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "dhimanno"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:23.573382469Z",
+  "model": "glm-5.3"
+}

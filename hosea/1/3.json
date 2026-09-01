@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna tegey oo qaatay ⟨את⟩ Goomar gabadha Diblaayiim, waxayna uuray, waxayna u dhashay wiil.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wuxuuna tegey"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oo qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Goomar"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Goomar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblaayiim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "waxayna uuray"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxayna dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:54.919552135Z",
+  "model": "glm-5.3"
+}

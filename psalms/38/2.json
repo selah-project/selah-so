@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Yahweh, cadhadkaaga ha i cadaabin, xanaaqadaadana ha i ciqaabin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "cadhadkaaga"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ha i cadaabin"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "xanaaqadaadana"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ha i ciqaabin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:30.869909035Z",
+  "model": "glm-5.3"
+}

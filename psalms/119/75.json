@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waan ogyahay, Adonay Yahweh, in xukunnadaadu ḍaqa-Xaqa yihiin, oo aan runtiis kuugu adoonsatay.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Waan ogyahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Adonay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Xaqa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunnadaadu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "runtiis"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "aad i adoonsatay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:37.422306016Z",
+  "model": "glm-5.3"
+}

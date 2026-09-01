@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Sida ⟨waran⟩ la goynayo lafeeyahayga waxay i cambaareynayaa cadowdaydii, markay igu yidhaahdaan maalintoo dhan: Xaggee ku tahay Elohimkaaga?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Sida waran (dil)"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "lafeeyahayga"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "waxay i cambaareynayaa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "cadowdaydii"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "markay yidhaahdaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan (oo dhan)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintoo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Xaggee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:51.127676302Z",
+  "model": "glm-5.3"
+}

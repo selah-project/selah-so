@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Waxay dhigteen calaamadihiisa dhexdooda, iyo yaabaha dhulka Khaam.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Waxay dhigteen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "(arrinka)"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "calaamadihiisa"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "iyo yaabaha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khaam"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.985122502Z",
+  "model": "glm-5.3"
+}

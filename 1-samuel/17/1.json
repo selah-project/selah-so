@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo Pelishtiintii waxay ku soo aruursadeen ⟨את⟩ goortoodii duullaalka, waxayna aruursadeen Sokoh oo ka mid ah Yehudaa, waxayna deggadeen dhulka u dhexeeya Sokoh iyo Azeqah, oo ku yaal Eefes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "waxay ku soo aruursadeen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goortoodii"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "goortoodii"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "duullaalka"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "waxayna aruursadeen"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ka mid ah"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna deggadeen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhulka u dhexeeya"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ku yaal Eefes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammim"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:16.574647015Z",
+  "model": "glm-5.3"
+}

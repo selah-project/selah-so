@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Kuwaas oo gacmohoodu sharr qorshe xun ku jiro, midigtodonaa waxay ka buuxsantahay rashsho.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "gacmohoodu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "sharr qorshe xun"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "midigtodonaa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "waxay ka buuxsantahay"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rashsho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:08.423246331Z",
+  "model": "glm-5.3"
+}

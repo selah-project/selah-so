@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Iyo dhinaca waqooyi oo ah boqol dheemir — tiirarkoodu waa labaatan, iyo saldhigyadoodu waa labaatan, najaas; fishaya tiirarka iyo wareeggoodu waa lacag.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "iyo dhinaca"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "waqooyi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dheemir"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "tiirarkoodu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "iyo saldhigyadoodu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "najaas"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "fishaya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "iyo wareeggoodu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    }
+  ],
+  "timestamp": "2026-09-01T09:00:31.296954502Z",
+  "model": "glm-5.3"
+}

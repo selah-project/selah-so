@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Waxay ka dhergmi doonaan barwaaqada gurigaaga, oo webiga farxaddaadaaad ka siin doontaa.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "Waxay ka dhergmi doonaan"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "barwaaqada"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "oo webiga"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "farxaddaadaa"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ka siin doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:49.643726037Z",
+  "model": "glm-5.3"
+}

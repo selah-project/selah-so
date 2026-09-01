@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Ii fura albaabada cadaalada, waan soo galayaa dhexdooda, waan ammaanayaa Yah.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Ii fura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cadaalada"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "waan soo galayaa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "waan ammaanayaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:23.163707134Z",
+  "model": "glm-5.3"
+}

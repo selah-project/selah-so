@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 54,
+  "translation": "Ha cabsanin, waayo, ma maqaysaa; ha naqushin, waayo, ma fool-xumaataan; waayo, fool-xumadii innankii aad hilmaamaysaa, naqdigii carmalkiina mar dambe ma xasuusaysaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "cabsanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "maqaysaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ha"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "naqushin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "fool-xumaataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "fool-xumada"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "innankii"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "hilmaamaysaa"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "iyo naqdigii"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "carmalkii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "xasuusaysaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T03:55:55.004382253Z",
+  "model": "glm-5.3"
+}

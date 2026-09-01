@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Waxay dheheen cadowdaydu, oo ilaaliyaashu nafdaydu way wada taliyeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "way dheheen"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "layn"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "oo ilaaliyaashu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "way taliyeen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:39.193303155Z",
+  "model": "glm-5.3"
+}

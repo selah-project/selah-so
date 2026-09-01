@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "iyo ⟨את⟩ Dedan, iyo ⟨את⟩ Temaa, iyo ⟨את⟩ Buuz, iyo ⟨את⟩ dhammaan kuwa goonsi-goonsi ah ee geesaha (jaawiyada) gooyay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Temaa"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Temaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Buuz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buuz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan kuwa geesaha gooyay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "gooyay"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "geesaha (jaawiyada)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:16.334265260Z",
+  "model": "glm-5.3"
+}

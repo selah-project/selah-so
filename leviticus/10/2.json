@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxayna ka soo baxday dab ka hor Yahweh, waxayna cunteen ⟨את⟩ iyagii, wayna dhinteen ka hor Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waxayna ka soo baxday"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "waxayna cunteen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyagii",
+      "marks": "iyagii (Nadab iyo Abiyyuuhu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wayna dhinteen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:49.752663688Z",
+  "model": "glm-5.3"
+}

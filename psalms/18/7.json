@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Cadaadiskayda gudaheeda waxaan u dhawaaqayaa Yahweh, oo Eloahayga ayaan u gurmadayaa; wuxuu maqlay codkayga macalladkiisa, oo gurmadkayguna wuxuu horay u gaaray isaga, asaga dhegtiisii.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "cadaadiskayda gudaheeda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waxaan u dhawaaqayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo … u"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahayga"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ayaan u gurmadayaa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "macalladkiisa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "oo gurmadkayguna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "horay u \/ isaga horta"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wuxuu gaaray"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "asaga dhegtiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:47.240814546Z",
+  "model": "glm-5.3"
+}

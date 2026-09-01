@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Sababtoo ah annigaa kugu qaaray ⟨ciidanka⟩ qowlka, oo aan kuu dhigay hoggaamiye dadkayga Israa'iil, adiguna waxaad ku socotay jidka Yerobeaam, aadna dhaawo ⟨את⟩ dadkayga Israa'iil inaad i caddeysiso dembiyadooda.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "annigaa kugu qaaray"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨ciidanka⟩ qowlka ka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "qowlka"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "aan kuu dhigay"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hoggaamiye"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkayga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "waxaad ku socotay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jidka"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeaam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "aadna dhaawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkayga Israa'iil"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dadkayga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "inaad i caddeysiso"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "dembiyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:10:49.703013985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "La-hordhacaha; mazmuar leh Dawuud. Eloah-yadii ammaantayda, ha aamusan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "La-hordhacaha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "leh Dawuud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmuar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloah-yadii"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ammaantayda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "aamusan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:58.754215068Z",
+  "model": "glm-5.3"
+}

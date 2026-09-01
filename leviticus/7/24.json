@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Dufanka bahal isagoo dhintay iyo dufanka bahal libaax cunayba wax lagu shaqeeyaa amar kasta, laakiin ha cunina.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "dufanka"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bahal isagoo dhintay"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dufanka"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "bahal libaax cunay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wax lagu shaqeeyaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amar kasta"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shaqayn"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "cunina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:58.784548652Z",
+  "model": "glm-5.3"
+}

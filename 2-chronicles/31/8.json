@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Yechizqiyaahu iyo sareecayaadiisii markay yimaadeen bay arkeen ⟨את⟩ taallada, waxayna barakeeyeen ⟨את⟩ Yahweh iyo ⟨את⟩ dadkiisii Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "markay yimaadeen"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizqiyaahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "iyo sareecayaadiisii"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bay arkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taallada"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "taallada"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "waxayna barakeeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dadkiisii Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T06:45:42.626559891Z",
+  "model": "glm-5.3"
+}

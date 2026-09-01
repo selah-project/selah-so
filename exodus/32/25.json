@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Muuse wuxuu arkay ⟨את⟩ shacabka, waayo wuu foorarsan yahay, waayo Aaruun baa foorariyay si ay ugu noqdaan ⟨wax-la-cay⟩ kuwa ka soo horjeedayaasha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "wuu foorarsan yahay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "foorariyay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaruun"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "si ay ugu noqdaan wax-la-cay"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "kuwa ka soo horjeedayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:37.797090636Z",
+  "model": "glm-5.3"
+}

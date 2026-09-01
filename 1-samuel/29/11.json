@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo Dawud wuxuu baraaray isaga iyo raggiisii inay subaxda tegeen, inay ku soo noqdaan dhulkii Filistiintii; oo Filistiintii waxay soo dheexeereen Yizre'eel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wuxuu baraaray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "iyo raggiisii"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "inay tegeen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxda"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "inay ku soo noqdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "oo Filistiintii"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "waxay soo dheexeereen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'eel"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:21.391981281Z",
+  "model": "glm-5.3"
+}

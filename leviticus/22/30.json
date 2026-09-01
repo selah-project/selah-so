@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Maalintaas la cuni doonaa; waxba ha ka tegin ilaa aroor; aniga ah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(waligeed)"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la cuni doonaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תותירu",
+      "gloss": "waxba ha ka tegin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:39.713199918Z",
+  "model": "glm-5.3"
+}

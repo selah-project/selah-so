@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ma jiro erey oo la odhan karo: Eegee, kan waa cusub — haddana keliya wuxuu horay u ahaa ⟨waqtiyo dheer⟩, kan ahaa tan iyo inta naga horreeyay.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "waa jira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "oo la odhan karo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Eegee"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "keliya horay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "uu ahaa"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "waqtiyo dheer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aha"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "inta naga horreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:40.740653096Z",
+  "model": "glm-5.3"
+}

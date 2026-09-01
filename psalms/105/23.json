@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu yimid Israa'iil Mitsrayim, Ya'aqubna wuu ku soo gaaray dhulkii Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu yimid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aqubna"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wuu ku soo gaaray"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:08.400271199Z",
+  "model": "glm-5.3"
+}

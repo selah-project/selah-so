@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Madaxa askarta-dilayaashuna wuxuu Yuusuf u dhiigay ⟨את⟩ inuu la noolaado; wuuna adeegay ⟨את⟩; waxayna maalmo ilaalin ku dheceen.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wuxuu u dhiigay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "askarta-dilayaasha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ (la)"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "wuuna adeegay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "labada masnu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ilaalin"
+    }
+  ],
+  "timestamp": "2026-09-01T00:58:44.264581541Z",
+  "model": "glm-5.3"
+}

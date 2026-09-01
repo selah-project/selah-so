@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Maalintaas waxaa jiri doonta waddo ka soo baxda Mitsrayim ilaa Ashuur; Ashuurna wuxuu galayaa Mitsrayim, Mitsrayimna Ashuur, reer Mitsrayimna waxay la adeegsan doonaan ⟨את⟩ Ashuur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(haalintaas)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waxaa jiri doonta"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "waddo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ka soo baxda Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ilaa Ashuur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wuxuu galayaa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimna"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "waxay la adeegsan doonaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "reer Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashuur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:15.366654187Z",
+  "model": "glm-5.3"
+}

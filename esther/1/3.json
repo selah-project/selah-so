@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "sannadkii saddexaad ee xukunkiisa, wuxuu sameeyay zamaan (casaad) dhammaan amiirradiisa iyo addoomadiisa — ciidanka Faras iyo Maaday, ha-yada sare (ha-parthemim-ka) iyo amiirrada gobolada — isagoo hortiisa ah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sannadkii"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "saddexaad"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ee xukunkiisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "zamaan (casaad)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "amiirradiisa"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "iyo addoomadiisa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Faras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "iyo Maaday"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "ha-yada sare (ha-parthemim-ka)"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "iyo amiirrada"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "gobolada"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hortiisa ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:02:50.467208703Z",
+  "model": "glm-5.3"
+}

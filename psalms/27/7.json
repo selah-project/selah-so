@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Maqal, Yahweh, codkayga markaan u dhawaaqo; ii naxariiso, iina jawaabo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "maqal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "markaan u dhawaaqo"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ii naxariiso"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "iina jawaabo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:51.133690488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Xataa Ashshur wuxuu la midoobay iyaga; waxay noqdeen gacan ⟨את⟩ carmada ubadka Luut. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "wuxuu la midoobay"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "waxay noqdeen"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "gacan (carmad)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:12.268426508Z",
+  "model": "glm-5.3"
+}

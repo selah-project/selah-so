@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Tani waa sida aad u sameyso ⟨את⟩ iyada: dhererka sanduuqa saddex boqol oo cubo ah, ballaarnaantiisana konton cubo, taagnaantiisana saddex-iyo-toban cubo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "tani waa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aad u sameyso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyada (sanduuqa)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dhererka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "konton"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ballaarnaanta"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo saddex-iyo-toban"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubo"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "taagnaanta"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:39.803097877Z",
+  "model": "glm-5.3"
+}

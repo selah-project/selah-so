@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Adiguse, Yahweh Adonay, ii samee ⟨את⟩ lixira Magacaaga, waayo wanaagsan yahay khesedkaaga; i gargaar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ii samee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "lixiira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaagsan yahay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "i gargaar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:25.081320330Z",
+  "model": "glm-5.3"
+}

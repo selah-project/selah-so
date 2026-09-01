@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Sida Yahweh u amray ⟨את⟩ Muuse, sidaas buu ku tiriyay carro-miyigga Siinay.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "buu ku tiriyay"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "carro-miyigga"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:40:40.349559781Z",
+  "model": "glm-5.3"
+}

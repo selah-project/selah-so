@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuuse bixiyey ⟨את⟩ dadkiisii farxad, iyo ⟨את⟩ kuwa uu doortay hees.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Wuxuuse bixiyey"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisii"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "farxad"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "hees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa uu doortay"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "kuwa uu doortay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:09.968918325Z",
+  "model": "glm-5.3"
+}

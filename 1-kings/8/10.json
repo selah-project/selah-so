@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuuna noqday markay wadaadadii ka soo baxeen ⟨quduska⟩, in daruurta ay buuxisay ⟨את⟩ baytkii Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wuuna noqday"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "markay ka soo baxeen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaadadii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduska"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "in daruurta"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ay buuxisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baytkii Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:35.818364916Z",
+  "model": "glm-5.3"
+}

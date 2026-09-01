@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Way doonan (way xamaasaan) beero, way qabsadaan; guryo way qaataan; nin iyo gurigiisay kastaayaan, nin iyo dhaxalkiisiiba.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "way doonan (xamaasaan)"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "beero"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "way qabsadaan (qudhun)"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "way qaataan"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "way kastaayaan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "iyo gurigiisa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "iyo dhaxalkiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:18.543121046Z",
+  "model": "glm-5.3"
+}

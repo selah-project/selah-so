@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kii daneeya dabaylka ma beerayo, iyo kii fiiriya daruuraha ma goynayaa.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kii daneeya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabaylka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "beerayo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "iyo kii fiiriya"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "daaraha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "goynayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:48.202431517Z",
+  "model": "glm-5.3"
+}

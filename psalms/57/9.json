@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 57,
+  "translation": "Kac, waanayda amaantaydu; kac, nabela iyo kinora; waan kicin doonaa waagu.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "kac"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "waa­nayda amaantaydu"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "kac"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nabela"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "iyo kinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "waan kicin doonaa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "waagu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:57.143657567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 3:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Markaasay ruuxa Yahweh korkiisa taal, wuuna xukumay ⟨את⟩ Yisra'iil, wuuna baxay dagaal, markaas Yahweh wuu gacantiisa dhigay ⟨את⟩ Kushan-Rishatayim boqorka Aram, gacantiisuna way adkaatay Kushan-Rishatayim.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "markaasay taal"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "wuuna xukumay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuuna baxay"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "markaas wuu dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kushan-Rishatayim"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishatayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ותעז",
+      "gloss": "way adkaatay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka dhan"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishatayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:14.834415803Z",
+  "model": "glm-5.3"
+}

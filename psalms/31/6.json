@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Gacantaada waan dhiibaa ruuxdayda, Adigoo i gaadhsiiyay ⟨את⟩ Yahweh, El runta ah.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Gacantaada"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "waan dhiibaa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxdayda"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "Adigoo i gaadhsiiyay"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "runta ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:32.765770188Z",
+  "model": "glm-5.3"
+}

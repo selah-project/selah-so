@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waad saaraysaa ⟨את⟩ middaas gaar ah ee tumanka tekhelet-ka ah, waxayna noqonaysaa tumaha sare — hortiisa, agtooha wejiga tumaha sare, ayay noqonaysaa.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Waad saaraysaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "middata (badda dahabka ah ee qudusnimo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "gaar ah ee"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "tumanka"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet-ka (buluug)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waxayna noqonaysaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sare"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tumaha sare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agtooha"
+    },
+    {
+      "surface": "מול",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tumaha sare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ayay noqonaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:13:55.339343527Z",
+  "model": "glm-5.3"
+}

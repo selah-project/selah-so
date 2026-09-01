@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxayna ku tidhi sayidadii, Hadday tahay sayidkaygii uu hor taal Nebiyigii ku sugnaa Shomroon, markaasuu ka qaadi lahaa ⟨את⟩ cuddadiisa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna ku tidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sayidadii"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "hadday tahay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sayidkaygii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hor taal"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "Nebiyigii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku sugnaa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroon"
+    },
+    {
+      "surface": "אז",
+      "gloss": "markaasuu"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ka qaadi lahaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cuddadiisa"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "cuddadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:51.555518725Z",
+  "model": "glm-5.3"
+}

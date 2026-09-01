@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 53,
+  "translation": "Hagaagiye loo qoray (tummaal), oo ku saabsan ⟨machalath⟩, waxbaro (mashkiil) uu David qoray.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaagiye loo qoray"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "waxbaro (mashkiil)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uu David qoray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:05.778196448Z",
+  "model": "glm-5.3"
+}

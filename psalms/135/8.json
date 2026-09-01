@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Kan diley curada Mitsrayim, aadamiga iyo xayawaanka.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Kan diley"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "curada"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "aadamiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "xayawaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:31.085834333Z",
+  "model": "glm-5.3"
+}

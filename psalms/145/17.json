@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 145,
+  "translation": "Yahweh waa ⟨xaq⟩ dhammaan waddooyinkiisa, oo khesed (axlaaq wanaagsan) dhammaan shuqulladiisa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "xaq (camal xaqa ah)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "waddooyinkiisa"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "khesed (axlaaq wanaagsan)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "shuqulladiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:35.785950373Z",
+  "model": "glm-5.3"
+}

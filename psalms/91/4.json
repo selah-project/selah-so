@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Wuxuu ku dabooli doonaa baalashiisa, hoosteeda baalashiisa waad magan doontaa; gaashaan iyo gaashaan-dheer oo run ah ayuu noqon doonaa.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "baalashiisa"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "wuxuu ku dabooli doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "baalashiisa"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "waad magan doontaa"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "gaashaan"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "gaashaan-dheer"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "runtiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:17.491955501Z",
+  "model": "glm-5.3"
+}

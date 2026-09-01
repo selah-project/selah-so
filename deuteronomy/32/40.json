@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waayo gacantayda waxaan samada ku qaadayaa, oo waxaan odhanayaa: Aniga weligay baan noolahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "waxaan ku qaadayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku (u guud)"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "oo waxaan odhanayaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool baan ahay (dhaar)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "weligay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:32.299651091Z",
+  "model": "glm-5.3"
+}

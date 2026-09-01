@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Oo tani waa barakaddii uu Muuse, ninaha Elohim, ku barakayay ⟨את⟩ ilmaanka Israa'iil ka hor geeridiisa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "oo tani"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barakaddii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay (uu ku barakayay)"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakayay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninaha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaanka Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaanka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "geeridiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:16:01.604774959Z",
+  "model": "glm-5.3"
+}

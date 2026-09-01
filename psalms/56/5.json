@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Elohim baan ammaanayaa erigiisa, Elohim baan kalsoonidii; ma cabsanayo waxa basaaru i sameeyo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "baan ammaanayaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "erigiisa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "baan kalsoonidii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "cabsanayo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i sameeyo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "basaaru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(i)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:21.683464819Z",
+  "model": "glm-5.3"
+}

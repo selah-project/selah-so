@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaa jira xumaan aan arkay hoos ⟨את⟩ qoraxda, oo way weyn tahay ⟨waa culays ku tahay⟩ dadka.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "waxaa jira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "way weyn tahay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "way"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku tahay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:04.650367486Z",
+  "model": "glm-5.3"
+}

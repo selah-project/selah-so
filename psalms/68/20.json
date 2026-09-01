@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Ammaan beerialaysan Adonay; maalin maalmaha ka mid ah wuu na culeyn (wuu na rarsiin), Elaha naga badbaadinayo. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ammaan beerialaysan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalmaha ka mid ah"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "wuu na culeyn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "naga badbaadinayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:50.010147099Z",
+  "model": "glm-5.3"
+}

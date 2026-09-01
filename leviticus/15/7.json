@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Iyo kii taabaya jirka kan dheecaysan, wuu dhaqi doonaa dharkiisa, wuuna maydhanaa biyaha, wuuna najaas ahaan ilaa galabta.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "iyo kii taabaya"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "jirka"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "kan dheecaysan"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "wuu dhaqi doonaa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dharkiisa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "wuuna maydhanaa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "wuuna najaas ahaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "galabta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:10.558131115Z",
+  "model": "glm-5.3"
+}

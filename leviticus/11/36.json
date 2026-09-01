@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Laakiin il iyo god — uruuris biyo — waa daahir; oo taabato jidhkooda meyta wuu wasakhmaysaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "il"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "iyo god"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "uruuris"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "daahir"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "oo taabato"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "jidhkooda meyta"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "wuu wasakhmaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:17.070194662Z",
+  "model": "glm-5.3"
+}

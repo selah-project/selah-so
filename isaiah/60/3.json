@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Oo shacabku waxyuu ku socon iftiinkaaga, oo boqorraduna iftiinka soo-bixintaada.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "waxyuu ku socon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabku"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "iftiinkaaga"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "oo boqorraduna"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "iftiinka"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "soo-bixintaada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:57:45.295867391Z",
+  "model": "glm-5.3"
+}

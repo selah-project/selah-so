@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Wadooyinkaaga, Yahweh, ii sheeg; dariiqoyinkaagana ii bar.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Wadooyinkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ii sheeg"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "dariiqoyinkaaga"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ii bar"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.929335934Z",
+  "model": "glm-5.3"
+}

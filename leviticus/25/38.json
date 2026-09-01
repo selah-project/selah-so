@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Anigu waxaan ahay Yahweh Elohimkiin, kan idinka soo bixiyay ⟨את⟩ dalka Mitsrayim, inaan idin siiyo ⟨את⟩ dhulka Kenaan, inaan noqdo Elohigiin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "idinka soo bixiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka (אתכם sharciga ah)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inaan siiyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "inaan noqdo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohigiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:54.215735567Z",
+  "model": "glm-5.3"
+}

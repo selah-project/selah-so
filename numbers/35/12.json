@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 35:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Magaalooyinkasu waxay idiin noqon doonaan magangal laga welwelo dila dhiigga ah, dilana wuu dhiman maayaa inta uu ka hor istaago shirka xukunka.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Magaalooyinkasu"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "magangal"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "laga welwelo dila dhiigga ah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maayaa (not)"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wuu dhiman"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dilana (the manslayer)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inta"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "uu ka hor istaago"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "xukunka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:58:55.798177559Z",
+  "model": "glm-5.3"
+}

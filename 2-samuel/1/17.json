@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dawudna wuxuu barooray ⟨את⟩ baroordiiqdan, Shaa'uul iyo Yehonataan inankiisa awgiis.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "wuxuu barooray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baroordiiqdan"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "baroordiiqda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "על",
+      "gloss": "awgiis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo awgiis"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:20.473219443Z",
+  "model": "glm-5.3"
+}

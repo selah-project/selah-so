@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuuna Yoosef u yimid subaxdii, wuuna arkay ⟨את⟩ iyaguna waxay ahaayeen murugo qabtesa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuu u yimid"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "murugo qabtesa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:46.194653472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo ⟨את⟩ kuwa ka noqday Yahweh ka dib, iyo kuwaan doondoonin ⟨את⟩ Yahweh, aanana doondoonin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "kuwa ka noqday"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "kuwa ka noqday"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "iyo kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "doondoonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanana"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "doondoonin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:28.464826808Z",
+  "model": "glm-5.3"
+}

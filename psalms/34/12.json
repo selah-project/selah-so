@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ka yimaada, ilmadow, i maqla; cabsida Yahweh baan idin bara.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ka yimaada"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ilmadow"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "i maqla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "cabsida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "baan idin bara"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:44.223699830Z",
+  "model": "glm-5.3"
+}

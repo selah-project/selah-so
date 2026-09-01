@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Labaadna, dhinaca berri (yàm) waxaa ahaa barxamo konton il (amaah), tiirarkoodii toban, oo saldhiggygoodii toban; filinnada tiirarka iyo wareeggooduba waa lacag (fiddo).",
+  "tokens": [
+    {
+      "surface": "וְלִפְאַת",
+      "gloss": "iyo dhinaca"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "berri (yàm)"
+    },
+    {
+      "surface": "קְלָעִים",
+      "gloss": "barxamo"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "konton"
+    },
+    {
+      "surface": "בָּאַמָּה",
+      "gloss": "il (amaah)"
+    },
+    {
+      "surface": "עַמּוּדֵיהֶם",
+      "gloss": "tiirarkoodii"
+    },
+    {
+      "surface": "עֲשָׂרָה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶם",
+      "gloss": "iyo saldhiggygoodii"
+    },
+    {
+      "surface": "עֲשָׂרָה",
+      "gloss": "toban"
+    },
+    {
+      "surface": "וָוֵי",
+      "gloss": "filinnada"
+    },
+    {
+      "surface": "הָעַמֻּדִים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "וְחֲשׁוּקֵיהֶם",
+      "gloss": "iyo wareeggooduba"
+    },
+    {
+      "surface": "כָּסֶף",
+      "gloss": "lacag (fiddo)"
+    }
+  ],
+  "timestamp": "2026-09-01T09:00:30.925999771Z",
+  "model": "glm-5.3"
+}

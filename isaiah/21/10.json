@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Middii la-tumiday iyo ilmaha gurigayga garabka: waxaan ⟨את⟩ Yahweh Tsabaot ka maqalay, Eloahay Israaiil, waan idiinku sheegay.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Middii la-tumiday"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "iyo ilmaha"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "gurigayga garabka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxaan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ka maqalay"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsabaot, Eloahay Israaiil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "waan idiinku sheegay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:41:54.775688962Z",
+  "model": "glm-5.3"
+}

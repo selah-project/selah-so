@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii aad rug ku qaadato dheriga saaxiibkaaga, ilaa gelitaanka qoraxda ayaa waxaad u celin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "rug-qaadasho"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "aad ku qaadato rug"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "dheriga"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gelitaanka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "waxaad u celin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:47.747179472Z",
+  "model": "glm-5.3"
+}

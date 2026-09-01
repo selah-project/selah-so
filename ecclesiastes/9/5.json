@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waayo, kuwa nool way ogaan inay dhimi doonaan, laakiin kuwa dhintay waxba ma oga, waxna ma jirto dheeraad ah oo ay heli karaan abaalgud, waayo xusuustoodii way luntay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kuwa nool"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "way ogaan"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "inay dhimi doonaan"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "laakiin kuwa dhintay"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "oga"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waxba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waxna ma jirto"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeraad ah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "abaalgud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "way luntay"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "xusuustoodii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:35.787941901Z",
+  "model": "glm-5.3"
+}

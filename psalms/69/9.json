@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Cibriani baan noqday walaalahay, oo shisheey baan ahay ilmada hooyaday.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "Cibriani"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "baan noqday"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "walaalahay"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "oo shisheey baan ahay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmada"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "hooyaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:11.006019047Z",
+  "model": "glm-5.3"
+}

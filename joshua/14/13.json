@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Yehooshuuca wuxuu duceeyay, wuxuuna siiyay ⟨את⟩ Khebron Kaleeb ina Yefunne si dhaxal.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "wuxuu duceeyay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "si dhaxal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:28.808792131Z",
+  "model": "glm-5.3"
+}

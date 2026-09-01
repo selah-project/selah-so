@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna burburiyay ⟨את⟩ munaaradda Penuel, wuxuuna dilay ⟨את⟩ ragga magaalada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "munaaradda Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "munaaradda"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "burburiyay"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wuxuuna dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragga magaalada"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:54.155867701Z",
+  "model": "glm-5.3"
+}

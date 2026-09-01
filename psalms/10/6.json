@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu qalbigiisa ku yidhi: Anigu lama dhaqaaqo, jiil iyo jiilba xumaan iga ma taal.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "qalbigiisa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lama"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "dhaqaaqo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "iyo jiilba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "xumaan iga ma taal"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:52.532256593Z",
+  "model": "glm-5.3"
+}

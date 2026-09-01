@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo mid kasta oo aan dhicin oo aan sujuudin — waa la tuuri ⟨gudaha⟩ tanuurta dabka gubta.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "iyo mid kasta"
+    },
+    {
+      "surface": "די",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "dhicin"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "aan sujuudin"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "waa la tuuri"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "tanuurta"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "gubta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:39:36.734196281Z",
+  "model": "glm-5.3"
+}

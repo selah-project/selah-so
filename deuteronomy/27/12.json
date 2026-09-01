@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Kuwani waxay taagi doonaan inay barakaayaan ⟨את⟩ dadka buurta Geriziim, markaad dhaaftaan ⟨את⟩ Yardaan: Shimcoon iyo Leefi iyo Yahuudah iyo Yisaskaar iyo Yuusuf iyo Bunyaamiin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kuwani"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "waxay taagi doonaan"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "inay barakaayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "על",
+      "gloss": "buurta...ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Geriziim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "markaad dhaaftaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaan"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimcoon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "iyo Leefi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iyo Yahuudah"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "iyo Yisaskaar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "iyo Yuusuf"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "iyo Bunyaamiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:45.514052119Z",
+  "model": "glm-5.3"
+}

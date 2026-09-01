@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuuna yimid ilaa hortii albaabka boqorka, waayo lama bixin kartid in albaabka boqorka lagu galo dhar saq ah.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "lama bixin kartid"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "in lagu galo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saq ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:22.284574569Z",
+  "model": "glm-5.3"
+}

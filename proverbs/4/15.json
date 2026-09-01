@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Iska fogow, ha ka dhaafin; ka jees oo dhaaf.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "iska fogow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ka dhaafin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ka jees"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "oo dhaaf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:07.709978633Z",
+  "model": "glm-5.3"
+}

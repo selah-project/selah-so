@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Haddii tuugga la helo oo luqunta goystay (qarwal-goyn), waa la garaacay, oo wuu dhintay — dhiig ma jiraan kiisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "luqunta-goysta (qarwal-goyn)"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "la helo"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "tuugga"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "waa la garaacay"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wuu dhintay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kiisa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigyo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:20.551265650Z",
+  "model": "glm-5.3"
+}

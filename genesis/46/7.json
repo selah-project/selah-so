@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Wiilashiisii iyo wiilasha wiilashiisii ⟨את⟩ la, gabdhahiisii iyo gabdhaha wiilashiisii, iyo durriyadiisii oo dhan wuu la keenay ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "iyo wiilasha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la",
+      "marks": "wiilashiisii iyo wiilasha wiilashiisii (preposition 'with him', H854, not the direct-object marker)"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "gabdhahiisii"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdhaha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "durriyadiisii"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "wuu keenay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ la",
+      "marks": "durriyadiisii oo dhan (preposition 'with him', H854)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T07:57:31.286070729Z",
+  "model": "glm-5.3"
+}

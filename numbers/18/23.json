@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 18:23",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo Lefiiguna iyagaa qaban doona ⟨את⟩ adeegga khaymadda kulanka, oo iyagaa dembigooda qaadi doona; sharci weligey ah oo ah qarniyadiinna, oo dhexdooda ilmaha Israa'iil ma dhaxalsanayaan dhaxal.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oo ... qaban doona"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lefiiguna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyagaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegga khaymadda kulanka"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "והם",
+      "gloss": "oo iyagaa"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "qaadi doona"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dembigooda"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sharci"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligey ah"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "oo ah qarniyadiinna"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "oo dhexdooda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "dhaxalsanayaan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaxal"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:11.400060863Z",
+  "model": "glm-5.3"
+}

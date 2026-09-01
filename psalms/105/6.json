@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Tiro-dda Abraham adeeggiisii, wiilasha Yacquub, kuwuu doortay.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Tiro-dda"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "adeeggiisii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "kuwuu doortay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:06.158555341Z",
+  "model": "glm-5.3"
+}

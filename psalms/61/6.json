@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Waayo, adiga, Elohim, waad maqashay nadarradayda; waxaad siisay dhaxalka kuwa cabsan magacaaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "waad maqashay"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "nadarradayda"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "waxaad siisay"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "dhaxalka"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kuwa cabsan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:32.873155878Z",
+  "model": "glm-5.3"
+}

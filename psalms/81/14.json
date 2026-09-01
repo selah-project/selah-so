@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Haddii qoomkaygu ii maqal lahaa, Yiisraa'iil wuxuu waddooyashay socod lahaa!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qoomkaygu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ii maqal lahaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiisraa'iil"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "waddooyashay"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "socod lahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:29.549465282Z",
+  "model": "glm-5.3"
+}

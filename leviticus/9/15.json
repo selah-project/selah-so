@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna u dhoweeyay ⟨את⟩ qurbaanka dadka, wuxuuna qaatay ⟨את⟩ sharoodkii dembiga ee dadka ahaa, wuxuuna gowracay, wuxuuna u dembi-hoos-dhigay sidii hore.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wuxuuna u dhoweeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbaanka"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qurbaanka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharoodkii"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sharood"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka ahaa"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "wuxuuna gowracay"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "wuxuuna u dembi-hoos-dhigay"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "sidii hore"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.427424232Z",
+  "model": "glm-5.3"
+}

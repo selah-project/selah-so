@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Wuxuuna keenay ⟨את⟩ wadaarrada iyo ⟨את⟩ Lafiyiinta, wuuna kulmiyay meesha bannaan ee bariga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wuxuuna keenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadaarrada"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaarrada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Lafiyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lafiyiinta"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "wuuna kulmiyay"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "meesha bannaan ee"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "bariga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:45:01.133897350Z",
+  "model": "glm-5.3"
+}

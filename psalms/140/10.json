@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Madaxda kuwa ii dhaafay (kuwa ii xeeray), dhibta labadhooda ha ka daboolto.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Madaxda"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "kuwa ii dhaafay"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhibta"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "labadhooda"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ha ka daboolto"
+    }
+  ],
+  "timestamp": "2026-09-01T09:02:07.938521389Z",
+  "model": "glm-5.3"
+}

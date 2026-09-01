@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waa maxay enowsh, inaad xusuusannahay, iyo ina-aadam, inaad booqato?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enowsh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "xusuusannahay"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "iyo ina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "booqato"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.433334554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 150,
+  "translation": "Ammaana u saara xoogtiisa weyn, ammaana u saara sida weynida uu leeyahay.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaana u saara"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "xoogtiisa weyn"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaana u saara"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sida"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "weynida uu leeyahay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:39.650219497Z",
+  "model": "glm-5.3"
+}

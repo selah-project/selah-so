@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Dhulku wuu gariiray, samoona waxyay dhiig-dhegeysiin ah u daatay wajiga Elohim — kan Siinayiba — wajiga Elohim, Elohimka Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Dhulku"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "wuu gariiray"
+    },
+    {
+      "surface": "אף",
+      "gloss": "samoona"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samo (lamaan)"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "waxyay u daatay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinayiba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:14.986173573Z",
+  "model": "glm-5.3"
+}

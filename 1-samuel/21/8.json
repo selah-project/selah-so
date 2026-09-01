@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 21:8",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Maalintaas waxaa joogay nin ka mid ah addoommadii Shaa'uul, oo laga qabanayay Yahweh hortiis; magaciisana wuxuu ahaa Doog Edomiga ah, kan awoodka badan ee waaweynaha adhiga waayeyasha Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "waxaa joogay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ka mid ah addoommadii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-as"
+    },
+    {
+      "surface": "נעצר",
+      "gloss": "laga qabanayay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "magaciisana"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doog"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomiga ah"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "kan awoodka badan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "adhiga waayeyasha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:50.085940746Z",
+  "model": "glm-5.3"
+}

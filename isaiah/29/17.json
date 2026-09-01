@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Ma weli waqtiga yar oo gaaban, oo Lubnaan lama beddelayo beerta midho leh, iyo beerta midho leh ma lagu tiri doonaa kayn?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma weli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "yar"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "oo gaaban"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lama beddelayo"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnaan"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "beerta midho leh"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "iyo beerta midho leh"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "kayn"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ma lagu tiri doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:05.376246935Z",
+  "model": "glm-5.3"
+}

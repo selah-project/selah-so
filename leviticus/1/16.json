@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu ka saaraa ⟨את⟩ baadhkiisa firdihiisaba, wuxuuna tuurayaa ⟨את⟩ dhinaca aldaarta bari, meesha ashshaha.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "wuxuu ka saaraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baadhkiisa"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "baadhkiisa (luqunta)"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "firdihiisaba"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "wuxuuna tuurayaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "baadhka (ged) — oo feminine ah"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "dhinaca \/ agabka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aldaarta"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bari (hore)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ashshaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:41.106858530Z",
+  "model": "glm-5.3"
+}

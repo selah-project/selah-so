@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu yidhi: Bal, Adonay, dir waan baryayaa, gacanta midka aad dirayso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waan baryayaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "aad dirayso"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:45.777127628Z",
+  "model": "glm-5.3"
+}

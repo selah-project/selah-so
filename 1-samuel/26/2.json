@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Markaasaa Shaa'uul oo kacay, hoos ugu degay keystda Siif, wuxuuna la ahaa ⟨את⟩ saddex kun oo nin, doortay Yisraa'iil, si ay uga baadhaan ⟨את⟩ Dawid keystda Siif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "oo kacay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "hoos ugu degay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "keystda"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ wuxuuna la ahaa",
+      "marks": "saddex kun oo nin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oo nin"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "doortay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "si ay uga baadhaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "keystda"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siif"
+    }
+  ],
+  "timestamp": "2026-09-01T02:54:57.454165842Z",
+  "model": "glm-5.3"
+}

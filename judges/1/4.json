@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Yahuudahna wuxuu koray, Yahwehna wuxuu dhiibay ⟨את⟩ Kanaaniga iyo Periziga gacantooda; waxyoona ku dileen Bezek tiro toban kun oo nin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu koray"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu dhiibay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaniga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Periziga"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "gacantooda"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "waxyoona ku dileen"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:30.990129644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "⟨את⟩ baruurka dhibicadda dembiga oo dhan wuu ka qaadi doonaa; ⟨את⟩ baruurka daboolaya lafe-dhexdaha, iyo ⟨את⟩ baruurka lafe-dhexdaha ku dhow oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurka dhibicadda dembiga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "baruurka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "dhibicadda"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dembiga"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wuu ka qaadi doonaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurka daboolaya lafe-dhexdaha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurka"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "daboolaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lafe-dhexdaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baruurka lafe-dhexdaha ku dhow oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhow"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lafe-dhexdaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:08.865624959Z",
+  "model": "glm-5.3"
+}

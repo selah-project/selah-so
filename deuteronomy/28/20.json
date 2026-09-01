@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahweh wuxuu kuu diri doonaa ⟨את⟩ nacuudda iyo ⟨את⟩ qiiq-yakhaysi iyo ⟨את⟩ canaanta, wax kasta oo gacantaadu ku fushato, ilaa la engeyo oo aad si degdeg ah u baabba'ayso, xagga xumaanta falalkaaga ee aad iga tagtay dartii.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "wuxuu diri doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nacuudda"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "nacuudda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiiq-yakhaysi"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "qiiq-yakhaysi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "canaanta"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "canaanta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ku fushato"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaadu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ku fushato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "la engeyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "oo aad"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "u baabba'ayso"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "si degdeg ah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xumaanta"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "falalkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "aad iga tagtay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:01:44.528801387Z",
+  "model": "glm-5.3"
+}

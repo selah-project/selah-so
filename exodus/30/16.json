@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Adigana waxaad qaadannaa ⟨את⟩ lacagta dhaafaha ka ⟨את⟩ wiilasha Israa'iil, waxaadna dhigaysaa ⟨את⟩ (isaga) shaqada khaymada kulanka, wuuna noqonayaa wiilasha Israa'iil xusuus Yahweh hortiis, si loo dhaafo nafahiinna.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Adigana waxaad qaadannaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lacagta dhaafaha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacagta"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "dhaafaha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "waxaadna dhigaysaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (isaga)"
+    },
+    {
+      "surface": "על",
+      "gloss": "(shaqada)"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuuna noqonayaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "xusuus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "si loo dhaafo"
+    },
+    {
+      "surface": "על",
+      "gloss": "(nafahiinna)"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nafahiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:20:28.724946947Z",
+  "model": "glm-5.3"
+}

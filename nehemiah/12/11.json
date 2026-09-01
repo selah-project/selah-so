@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yoyadaana wuxuu dhalay ⟨את⟩ Yonataan, Yonataanna wuxuu dhalay ⟨את⟩ Yadduua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Yoyadaana"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonataan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonataan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Yonataanna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadduua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadduua"
+    }
+  ],
+  "timestamp": "2026-09-01T06:20:15.782911863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Yahuudah iyo Israa'iil waxay ahaayeen ⟨waxay ahaayeen⟩ tiro badan, sida cadada badda ku dhow tiro aad u badan, cunaya, cabaya oo farxaya.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "iyo Israa'iil"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tiro badan"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sida cadada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku dhow"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "aad u badan"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "cunaya"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "cabaya"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "oo farxaya"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:06.959799682Z",
+  "model": "glm-5.3"
+}

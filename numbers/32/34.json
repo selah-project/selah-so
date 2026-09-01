@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Carruurada Gaad way dhisayeen ⟨את⟩ Diibon iyo ⟨את⟩ Atarot iyo ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "way dhisayeen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Carruurada"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Diibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Diibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-09-01T01:57:03.640626079Z",
+  "model": "glm-5.3"
+}

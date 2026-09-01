@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Maxayyeelay way caasiyeen hadalkii El, taladii Elyonna na way dheceen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxayyeelay"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "way caasiyeen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "hadalkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "taladii"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonna"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "way dheceen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:23.388701548Z",
+  "model": "glm-5.3"
+}

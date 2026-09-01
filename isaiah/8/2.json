@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo anigoo igu markhaatiyo ah waxaan u diiday markhaatiyo amaan ah: ⟨את⟩ Uuriyaha wadaadda iyo ⟨את⟩ Zakariyaah ina Yeberekyaahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "waxaan u diiday in aan markhaati ahaado"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "markhaatiyo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "amaan ah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaha wadaadda"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zakariyaah ina Yeberekyaahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zakariyaah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekyaahu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:35.887625799Z",
+  "model": "glm-5.3"
+}

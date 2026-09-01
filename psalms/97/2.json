@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Duufaan iyo mugdi dheer ayaa ku wareegsan ⟨xaggiisa⟩; caddaalad iyo xukun waxay yihiin saldhigga carshiga ⟨Yawciis⟩.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "duufaan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "iyo mugdi dheer"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ku wareegsan xaggiisa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "saldhigga"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "carshiga Yawciis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:26.011588298Z",
+  "model": "glm-5.3"
+}

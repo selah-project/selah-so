@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 130,
+  "translation": "Yisra'iil, Yahweh ha u sugto, waayo Xagga Yahweh waxaa jira khesed, oo xaggiisa waxaa jira badbaado (fidiin) fara-badan.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ha u sugto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "waxaa jira khesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "oo fara-badan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "badbaado (fidiin)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:50.257718268Z",
+  "model": "glm-5.3"
+}

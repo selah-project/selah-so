@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waayo, Yahweh ma dhaaci doono ⟨את⟩ dadkiisa, awgood Magaciisa weyn; waayo, Yahweh wuu doortay inuu ⟨את⟩ idinko dhigmo dad isaga u noqda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo, (lama dhaafayo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "dhaaci doono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkiisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Magaciisa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo, (lama dhaafayo)"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "wuu doortay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu ... dhigmo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga u noqda"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:02.846243406Z",
+  "model": "glm-5.3"
+}

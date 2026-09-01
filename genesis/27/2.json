@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Wuxuuna yidhi: Bal eeg waan oday, mana yaqaan maalinta geeridaydayda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bal"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "waan oday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "geeridaydayda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:51:02.729605064Z",
+  "model": "glm-5.3"
+}

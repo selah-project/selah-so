@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markaasaan ii jeediyay inaan arko xigmad, walwal iyo nacas-xumo; maxay dadku sameyn karaa boqorka ka dambeeya ⟨wuxuuna samayn karaa⟩ ⟨את⟩ waxa hore loo sameeyay?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Markaasaan ii jeediyay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "inaan arko"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmad"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "walwal"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "nacas-xumo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadku"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "ka dambeeya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dambeeya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa hore loo sameeyay (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "loo sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:37.528021164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Tsiyon waxay maqashay oo farxaysay, oo gabdhaha Yahuudah way ku farxeen xukunkaaga awgood, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "waxay maqashay"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "oo farxaysay"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלنה",
+      "gloss": "way ku farxeen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabdhaha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunkaaga"
+    },
+    {
+      "surface": "י׊הוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:15.725662193Z",
+  "model": "glm-5.3"
+}

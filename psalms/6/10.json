@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh wuu maqlay baryaday; Yahweh baryaday salaadday wuu aqbalaa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "baryaday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "salaadday"
+    },
+    {
+      "surface": "ייקח",
+      "gloss": "wuu aqbalaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:21.878943560Z",
+  "model": "glm-5.3"
+}

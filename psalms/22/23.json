@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxaan magacaga walaalahayga u sheegayaa, oo dhexdooda shirka waan ku ammaanaa.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "waxaan u sheegayaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaga"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "walaalahayga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "waan ku ammaanaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:57.429259907Z",
+  "model": "glm-5.3"
+}

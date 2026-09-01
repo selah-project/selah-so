@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo ⟨את⟩ haashafka (shafaha dhagaxe), waayo wuxuu marinayaa gerraraha (wuxuu ka soo celinayaa cunista dibedda), laakiin farasada wuu faarisin, waa nijaas ⟨wuu⟩ idiin yahay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "haashafka (shafaha dhagaxe)"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "haashafka (shafaha dhagaxe)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "wuxuu marinayaa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerraraha (cunista dibedda loo marinayo)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "laakiin farasada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "faarisin"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "waa nijaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:40.537439242Z",
+  "model": "glm-5.3"
+}

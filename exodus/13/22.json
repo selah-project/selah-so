@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Tiirarka daruurigu maalintii iyo tiirarka dabka habenkaba lama yeerin ⟨ka horreeyinka⟩ dadka ka tegeyn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "lama yeerin"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "daruurigu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "iyo tiirarka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habenkaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka horreeyinka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:20.478453850Z",
+  "model": "glm-5.3"
+}

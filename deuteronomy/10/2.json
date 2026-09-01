@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Oo aan ku qoro laaxyada ⟨את⟩ ereyadii ku maqnaa laaxyadiii hore ee aad jajirtay, oo aad ka dhigto sanduuqa.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Oo aan qoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "laaxyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadii"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ku maqnaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "laaxyadii"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "aad jajirtay"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "oo aad dhigto"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sanduuqa (ku)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:04:30.438096311Z",
+  "model": "glm-5.3"
+}

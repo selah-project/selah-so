@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Markaa dhamaan shirka waxay bixiyeen ⟨את⟩ codkooda, dadkuna way ooyeen habeenkaaas.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Markaa...waxay kor u qaadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "waxay bixiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkooda"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "codkooda"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "way ooyeen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkuna"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaaas"
+    }
+  ],
+  "timestamp": "2026-09-01T01:47:27.021898423Z",
+  "model": "glm-5.3"
+}

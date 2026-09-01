@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Dadka oo dhan waxay dhaafeen ⟨את⟩ Webiga Yarden, boqorkiina wuu dhaafay, boqorkiina wuu dhunkaday Barsilay duceeynay, isagoo ku noqday meeshiisii.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "waxay dhaafeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Webiga Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "boqorkiina"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wuu dhaafay"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "wuu dhunkaday"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barsilay"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "duceeyay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ku noqday"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "meeshiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:19.182734388Z",
+  "model": "glm-5.3"
+}

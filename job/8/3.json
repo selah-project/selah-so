@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ma El baa wax xumo ka dhigaa xukunka, ama Shadday baa wax xumo ka dhigaa ⟨sinnada⟩?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wax xumo ka dhigaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wax xumo ka dhigaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨sinnada⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:58.517023221Z",
+  "model": "glm-5.3"
+}

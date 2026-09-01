@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Elohimkeenuse wuxuu ku dhex jiraa ⟨samos⟩, wax kastoo uu doono wuu sameeyaa.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohimkeenuse"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ku dhex jiraa ⟨samos⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "doono"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuu sameeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:05.670645880Z",
+  "model": "glm-5.3"
+}

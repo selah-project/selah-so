@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Waayo, noloshiisa ayuu naftiisa ammaanay, oo waxaad ku wanaajisid naftaada waayay ay ku ammaanaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "naftiisa"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "noloshiisa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ammaanay"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ay ku ammaanaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayay"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "ku wanaajisid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:41.883072991Z",
+  "model": "glm-5.3"
+}

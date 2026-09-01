@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "⟨את⟩ baruurta waad cuniheenna, ⟨את⟩ ilkaha waad xidhiheenna, taanna waad gawajaysaan, adhigana ma daaqsiiheysaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "waad cuniheenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilkaha"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ilkaha"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "waad xidhiheenna"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "taanna (cunto-barwaaqaysan)"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "waad gawajaysaan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "adhigana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "daaqsiiheysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:37:35.846764019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo ilaaliya ⟨את⟩ sharcigyadayda, sameyana ⟨את⟩ iyaga; aniga waxaan ⟨ahay⟩ Yahweh kan idin quduusiya.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ilaaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharcigyadayda"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sharcigyadayda"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sameyana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "iyaga (sharcigyada)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "kan idin quduusiya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:01.061982362Z",
+  "model": "glm-5.3"
+}

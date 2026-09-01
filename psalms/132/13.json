@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Waxaa Yahweh doortay Tsiyoon, wuxuu doonay inuu noqdo ⟨waqtiga⟩ fadhigiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "doortay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "wuxuu doonay"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "fadhigiisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga loogu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:53.433653488Z",
+  "model": "glm-5.3"
+}

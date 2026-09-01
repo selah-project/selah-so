@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wax la yaab leh oo naxdin leh ayaa dhulka ka dhacay ⟨את⟩ — shammah iyo sha'arurah ⟨waa⟩ la noqday dhulka gudaheeda",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "shammah (wax naxdin leh)"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "iyo sha'arurah (wax la yaab leh)"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "waa la noqday"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka gudaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:25:25.855934300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waxaadna ku subki doontaa ⟨את⟩ alluka guryo-samaynta iyo ⟨את⟩ wadamadiisa oo dhan, waxaadna quduusiin doontaa ⟨את⟩ allusha, allushuna wuxuu noqon doonaa quduus ka quduusan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "waxaadna ku subki doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alluka guryo-samaynta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allusha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "guryo-samaynta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wadamadiisa oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "wadamadiisa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "waxaadna quduusiin doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allusha"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "allusha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuuna noqon doonaa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "allushu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduus ka"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduusan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:34.200201740Z",
+  "model": "glm-5.3"
+}

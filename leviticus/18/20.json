@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo ⟨את⟩ naagaha saaxiibkaaga ha siinnin seexashadaada si abuur raadin (si la wasakheyso) adigoo bannaha ka dhigaya naagtaas.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "siinnin"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "seexashadaada"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "si abuur raadin"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "si la wasakheyso"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bannaha ka dhigaya naagtaas"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:25.894845344Z",
+  "model": "glm-5.3"
+}

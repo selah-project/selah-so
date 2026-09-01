@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Boqorkii Damashiq ka yimidna, boqorkii wuu arkay ⟨את⟩ allabbarigii, boqorkii wuu agta u dhowaaday allabbarigii, wuxuuna sarreeyay ku allabay.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wuu yimid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damashiq ka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allabbarigii"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "allabbarigii"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "wuu agta u dhowaaday"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "על",
+      "gloss": "agta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "allabbarigii"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wuxuu ku allabay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sarreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:24.074718774Z",
+  "model": "glm-5.3"
+}

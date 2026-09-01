@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maalintaas wuu istaagi doonaa oo odhan: Ma ihín mid xidha; gurigayna ma jiro rooti iyo maro midna; ha igaga dhigin hogaamiyaha dadka.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "wuu istaagi doonaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "intaas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo odhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ihín"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "mid xidha"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "gurigayna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo midna"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "maro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "igaga dhigin"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "hogaamiyaha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:36:54.203046084Z",
+  "model": "glm-5.3"
+}

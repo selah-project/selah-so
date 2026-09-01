@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Wuxuu garaacay Yehooshuuca ballan dadka maalintaas, wuxuuna u dhigay qaanuun iyo xukun Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Wuxuu garaacay (ballan)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka",
+      "marks": "dadka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maalintaas"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna u dhigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qaanuun"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xukun"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.307516618Z",
+  "model": "glm-5.3"
+}

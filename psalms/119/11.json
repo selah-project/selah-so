@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Qalbigayga waan ku qariyay hadalkaaga, si aanan ku denbin.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "waan ku qariyay"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "hadalkaaga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "denbin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:00.642179687Z",
+  "model": "glm-5.3"
+}

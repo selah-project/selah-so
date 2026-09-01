@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxay cuni doonaan mana ay dheefsan doonaan; zinay sameyn doonaan mana tarmaan; waayo ⟨את⟩ Yahweh way ka teageen markay ilaalineen.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Waxay cuni doonaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ay dheefsan doonaan"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zinay sameyn doonaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "tarmaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "way ka teageen"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "markay ilaalineen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:03.968204657Z",
+  "model": "glm-5.3"
+}

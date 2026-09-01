@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo markay dhacaan inaad dagaalka u dhowaantaan, wuxuu soo dhowaan doonaa Kahiintu, oo wuu ka hadli doonaa qowlaska.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Oo markay dhacaan"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "inaad u dhowaantaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "wuxuu soo dhowaan doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahiintu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "oo wuu ka hadli doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "qowlaska"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.355950299Z",
+  "model": "glm-5.3"
+}

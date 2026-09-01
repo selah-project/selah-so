@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Zebuluun ma saarin ⟨את⟩ degganaha Kitron iyo ⟨את⟩ degganaha Nahalal, oo Kanaanigii wuxuu degay dhexdiisa, waxayna noqdeen kuwa khidmad-lacag bixiya.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "saarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degganaha Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "degganaha Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu degay"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanigii"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna noqdeen"
+    },
+    {
+      "surface": "למס",
+      "gloss": "kuwa khidmad-lacag bixiya"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:55.986516957Z",
+  "model": "glm-5.3"
+}

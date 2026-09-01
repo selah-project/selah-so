@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Xeryaha Sheool waxay ii wareegeen, oo xinjirrada dhimashaday hor iiga soo baxeen.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "xeryaha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "waxay ii wareegeen"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "hor iiga soo baxeen"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "xinjirrada"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dhimashada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:05.209428840Z",
+  "model": "glm-5.3"
+}

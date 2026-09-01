@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dhaliyayaashii waxay ka cabsadeen ⟨את⟩ Elohim, oo ma sameeyn sidii uu boqorkii Mitsrayim ku hadlay, ee waxay noolayshiin ⟨את⟩ ilmaha.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "waxay ka cabsadeen"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "dhaliyayaashii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ku hadlay"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "waxay noolayshiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ilmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:28.140362479Z",
+  "model": "glm-5.3"
+}

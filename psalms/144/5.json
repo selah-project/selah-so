@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Yahweh, dheji samadaada oo hoos ugu soo dheqaaday, taal buuraha, way u dhoola-cadeenayaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "dheji"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samadaada"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "oo hoos ugu soo dheqaaday"
+    },
+    {
+      "surface": "גע",
+      "gloss": "taal"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "way u dhoola-cadeenayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:49.112576130Z",
+  "model": "glm-5.3"
+}

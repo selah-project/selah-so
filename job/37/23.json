@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 37:23",
+  "book": "job",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Shadday laga heli ma karo — aad buu ugu weyn yahay xoogga — xukunna iyo caddaalad badan, lamana dulqaad dhib.",
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "heli karo"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "aad u weyn"
+    },
+    {
+      "surface": "כח",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "xukunna"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "iyo ... badan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lanama"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "dulqaad dhib"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:41.251413064Z",
+  "model": "glm-5.3"
+}

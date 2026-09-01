@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna ku dhisay derbiga guriga yaatsuo (dhismo dhexdheeh), ⟨את⟩ derbiyada guriga dhexdheeh, heerka iyo Devirka; wuxuuna sameeyey laamo dhexdheeh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Wuxuuna ku dhisay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "yaatsuo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhexdheeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "derbiyada guriga"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "derbiyada"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhexdheeh"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heerka"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "iyo Devirka"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyey"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "laamo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhexdheeh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:12:24.837189789Z",
+  "model": "glm-5.3"
+}

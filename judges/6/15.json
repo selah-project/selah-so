@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna ku yidhi: Fadlan, Adonay, sidee baan u badbaadin karaa ⟨את⟩ Israaiiisha? Bal, qolo daydaydu waa tan ugu liita Mansheh, anigana waan kan ugu yaraa gurigii aabahay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Fadlan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "במה",
+      "gloss": "sidee"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "baan u badbaadin karaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israaiiisha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiiisha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "qolo daydaydu"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "tan ugu liita"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "Mansheh"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "anigana waan"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "kan ugu yaraa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aabahay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:31:42.853084663Z",
+  "model": "glm-5.3"
+}

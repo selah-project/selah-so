@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Taamarna, qumaadadiisii, waxay u dhashay ⟨את⟩ Pereets iyo ⟨את⟩ Zeraax; curmada Yehuudah oo dhan waxay ahaayeen shan.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Taamarna"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "qumaadadiisii"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeraax"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "iyo Zeraax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curmada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:40.203268544Z",
+  "model": "glm-5.3"
+}

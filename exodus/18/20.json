@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo waxaad u digtaa ⟨את⟩ iyaga ⟨את⟩ xeerarka iyo ⟨את⟩ sharciga, oo waxaad u sheegtaa ⟨את⟩ waddada ay ku socdaan, iyo ⟨את⟩ shuqulka ay qabtaan.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "waxaad u digtaa"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarka"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xeerarka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sharciga"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "sharciga"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "waxaad u sheegtaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waddada"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ay ku socdaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shuqulka"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "qabtaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:18.304067189Z",
+  "model": "glm-5.3"
+}

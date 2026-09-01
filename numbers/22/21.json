@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Bilam waagu markii horaantii wuu kacay, wuxuu ridey ⟨את⟩ geeddadiisii, wuxuuna tegey la madaxdii Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuu kacay"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "waagu horaantii"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "wuxuu ridey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geeddadiisii"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "geeddadiisii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuuna tegey"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxdii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:51:45.258032953Z",
+  "model": "glm-5.3"
+}

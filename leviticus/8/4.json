@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Muusena wuxuu sameeyay sida Yahweh ku amru isaga ⟨את⟩; oo tayada waxay isu dheelitirtay irridka Cadhdha Kulanka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ku amru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "isaga ⟨את⟩",
+      "marks": "isaga (Muuse)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "waxay isu dheelitirtay"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tayada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…u"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "irridka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Cadhdha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:31.952545260Z",
+  "model": "glm-5.3"
+}

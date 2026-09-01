@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Sacaasheenna waa culeys qaadaan; ma jirto burbur, iyo ma jirto bixitaan, iyo ma jirto qaylo barxamadaheenna.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "sacaasheenna"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "culeys qaadaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "burbur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo ma jirto"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "bixitaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo ma jirto"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "qaylo"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "barxamadaheenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:24.126184448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yaa ninkani cabsi qabta Yahweh? Wuxuu hanuunin doonaa dariiqa uu doorto.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ninkani"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cabsi qabta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "wuxuu hanuunin doonaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dariiqa"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "uu doorto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:55.413056504Z",
+  "model": "glm-5.3"
+}

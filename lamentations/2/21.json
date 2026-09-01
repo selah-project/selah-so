@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 2:21",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxay dhulka ku hurteen wadooyinka dhexdooda, da'yar iyo oday; gabdhaydii bikrad ahayd iyo ciyaalkaydii wiilasha ahaa waxay seef ugu dhaceen; maalinta cadhadaadaaad dilay, waad gowracday, waxba ma u naxariisay.",
+  "tokens": [
+    {
+      "surface": "שכבו",
+      "gloss": "waxay dhulka ku hurteen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "wadooyinka dhexdooda"
+    },
+    {
+      "surface": "נער",
+      "gloss": "da'yar"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "iyo oday"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "gabdhaydii bikrad ahayd"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "iyo ciyaalkaydii wiilasha ahaa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "waxay ugu dhaceen"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "maalin aad dilay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cadhadaada"
+    },
+    {
+      "surface": "טבחת",
+      "gloss": "waad gowracday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "waxba ma u naxariisay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:40.148840768Z",
+  "model": "glm-5.3"
+}

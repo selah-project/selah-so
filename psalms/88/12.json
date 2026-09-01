@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Miyeey khesedkaaga lagu sheegaa qabriga? Miyeey run-aada lagu sheegaa ⟨Avaddon⟩?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Miyeey lagu sheegaa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "qabriga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "run-aada"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Avaddon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:54.488405219Z",
+  "model": "glm-5.3"
+}

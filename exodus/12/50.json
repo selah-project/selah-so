@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay sameeyeen dhamaan ilmaha Israa'iil, sida Yahweh uu amray ⟨את⟩ Muuse iyo ⟨את⟩ Axaron; sidaas bay sameeyeen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Waxay sameeyeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "uu amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Axaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bay sameeyeen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:29.828072461Z",
+  "model": "glm-5.3"
+}

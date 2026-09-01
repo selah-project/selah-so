@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "La yaqaanna in Yahweh uu u kala saaray cibaado-yahankeenna; Yahweh wuu maqlayaa markaan u dhawaaqo isaga.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "la yaqaanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "uu u kala saaray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "cibaado-yahankeenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wuu maqlayaa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "markaan u dhawaaqo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:56.386473601Z",
+  "model": "glm-5.3"
+}

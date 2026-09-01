@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Raalliyadaada ku wanaag samee ⟨את⟩ Sayoon; dhis dhaararka Yeruushaalaym.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "wanaag samee"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "raalliyadaada ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sayoon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sayoon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "dhis"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "dhaararka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:47.598220613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "si cagtaadu u mashuqdo dhiigga, iyo carrabka eeyadaada in ay ka helaan cadowta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si aad u"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "u mashuqdo"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "cagtaada"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dhiigga ku"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "eeyadaada"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "cadowta ka"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ka helaan (qayb ka mid ah)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:12.479471047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Dhis dhisay ⟨את⟩ guri zevel (hoggaan sare) adiga, makoan meel degistaada tan iyo weligood.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "dhis"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "dhisay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zevel (hoggaan sare)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "makoan"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "meel degistaada"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tan iyo weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T03:15:19.286970700Z",
+  "model": "glm-5.3"
+}

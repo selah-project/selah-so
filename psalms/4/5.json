@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Qiiq oo ha dambiin, dhehi laabtaadii gondolkii giinyo lagu seesto, oo aad ka ha hadlin. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Qiiq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "dambiin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dhehi"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "laabtaadii"
+    },
+    {
+      "surface": "על",
+      "gloss": "gondolkii"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "giinyo lagu seesto"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ka ha hadlin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:27.996519259Z",
+  "model": "glm-5.3"
+}

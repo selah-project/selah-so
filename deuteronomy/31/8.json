@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Yahwehna ⟨isaggii⟩ waa kii hortaada socda, ⟨isaggii⟩ ayaa la jiri doona adiga; kuma dhaafayo kuma tegayo; ha cabsanin ha naxin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨isaggii⟩"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kii socda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨isaggii⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "la jiri doona"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "dhaafayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "tegayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "cabsanin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "naxin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:04.840024074Z",
+  "model": "glm-5.3"
+}

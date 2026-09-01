@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Raggan saddexda ah — Shadrakh, Meyshakh iyo Abed-Nego — waxay ku dhaceen dhexda atasadda ddabta gubanaysa iyagoo xirxiran.",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "Raggan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "saddexda ah"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "waxay ku dhaceen"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "atasadda"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ddabta"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "gubanaysa"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "iyagoo xirxiran"
+    }
+  ],
+  "timestamp": "2026-09-01T06:07:01.164937007Z",
+  "model": "glm-5.3"
+}

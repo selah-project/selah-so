@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waxaan kor u qaaday ⟨את⟩ indhahayga, waanan arkay, oo bal ege — afar geeso.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Waxaan kor u qaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhahayga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "waanan arkay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bal ege"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "geeso"
+    }
+  ],
+  "timestamp": "2026-09-01T04:57:23.232505446Z",
+  "model": "glm-5.3"
+}

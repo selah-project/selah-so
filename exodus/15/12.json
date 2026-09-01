@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Gacantaada midig ayaad fidisay, dhulkii wuu liqay.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "ayaad fidisay"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "gacantaada midig"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "wuu liqay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:39.144269942Z",
+  "model": "glm-5.3"
+}

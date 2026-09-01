@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waan siinayaa tiirarkayda dhiin (waa waan sakhraamiyaa), oo seeftaydu way cuni doontaa laho; dhiigga la diloofyay iyo kuwa laga qabsaday, iyo madaxda hoggaamiyayaasha cadowga.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "waan sakhraamiyaa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "tiirarkayda"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiin"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "oo seeftaydu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "way cuni doontaa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laho"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dhiigga"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "la diloofyay"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "iyo kuwa laga qabsaday"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "cadowga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:15.785140776Z",
+  "model": "glm-5.3"
+}

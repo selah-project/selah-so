@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Kac oo toos oo xaqa i sii, Elohay iyo Adonay, dooddayda",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "toos"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "oo kac"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "xaqa i sii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "iyo Adonay"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "dooddayda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:59.197432985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Kaddib shaabku waxay ka tegtay Xatsarot, waxayna degtay Saxaraha Paaran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kaddib"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "waxay ka tegtay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shaabku"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Xatsarot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "waxayna degtay"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "Saxaraha"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    }
+  ],
+  "timestamp": "2026-09-01T01:46:44.418708986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Oo haddii Yahweh Elohimkaagu ⟨את⟩ xudduddaada uu ballaariyo, sida uu u dhaaranayay aabayaashaagii, oo uu ku siiyo ⟨את⟩ dhulka oo dhan ee uu ka hadlay inuu siiyo aabayaashaagii,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "uu ballaariyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xudduddaada"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "xudduddaada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "uu u dhaaranayay"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aabayaashaagii"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "oo uu ku siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu ka hadlay"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inuu siiyo"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aabayaashaagii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:00.576336008Z",
+  "model": "glm-5.3"
+}

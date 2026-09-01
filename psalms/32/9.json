@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Ha noqonina sida fardaha ama sida dameeraha wax fahitaan la'aan, oo afkooda waxaa lagu xiraa mitag iyo rasan (qurxin loo dhigay) si loo joojiyo, haddii kale kuma dhowaayaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha (diidmo)"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "noqonina"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sida fardaha"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ama sida dameeraha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wax fahinta ma laha"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "fahitaan"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mitag"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "iyo rasan"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "(qurxin loo dhigay afka)"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "si loo joojiyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haddii kale ma"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "dhowaayaan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuma (adiga dhowaayaan)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.091739281Z",
+  "model": "glm-5.3"
+}

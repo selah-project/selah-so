@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Waxay arkeen socodkaagi, Elohim — socodka El-ka iyo Boqorkayga, ⟨dhexdooda⟩ qiddadda.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "waxay arkeen"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "socodkaagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "socodka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-kayga (Ilahay)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Boqorkayga"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qiddadda dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:44.471033601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Elohim, adiga ⟨adig tahay⟩ Eligay, waan hore u kuu doonayaa, nafadaydu waa laguu harraadsaday, jidhkaygu waa laguu baahay, dhul ⟨engeggan⟩ oo daal badan, biyo la'aan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eligay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "waan hore u kuu doonayaa"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "waa laguu harraadsaday"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafadaydu"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "waa laguu baahay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "jidhkaygu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "⟨engeggan⟩"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "oo daal badan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "la'aan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:54.150398565Z",
+  "model": "glm-5.3"
+}

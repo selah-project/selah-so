@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waa maxay sababta — erayga Yahweh waa mid toosan, dhammaan shuqulliisuna run buu ku dhisnaaday.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxay sababta —"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toosan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "shuqulliisu"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "run (kaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:24.525417609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Elohim wuxuu dhiigay ⟨את⟩ ⟨iyaga⟩ bannaanka samada, si ay u iftiimaan dhulka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuu dhiigay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨iyaga⟩",
+      "marks": "iftiinnada iyo xiddigaha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "si ay u iftiimaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:01.678997937Z",
+  "model": "glm-5.3"
+}

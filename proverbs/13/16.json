@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Kii hodanka ah (gar-yaqaan) kulli wuxuu camal falgelaa ⟨את⟩ gar-aqoonta, laakiin nacasyigu wuu soo-bandhigaa ⟨את⟩ nacasyada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "kii hodanka ah (gar-yaqaan)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wuxuu camal falgelaa"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "gar-aqoonta"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "laakiin nacasyigu"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "wuu soo-bandhigaa"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "nacasyada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:09.044649362Z",
+  "model": "glm-5.3"
+}

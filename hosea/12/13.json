@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Jaakob wuu cararay ⟨iyo⟩ beeraha Aram, Yisra'iil wuu adeegay ⟨wuxuu kasbay⟩ naag (la dowdoyo), naag buuna ⟨iday⟩ adhi.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "wuu cararay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "wuu adeegay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wuu iday"
+    }
+  ],
+  "timestamp": "2026-09-01T08:28:58.285411635Z",
+  "model": "glm-5.3"
+}

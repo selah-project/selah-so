@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "To'ii boqorkii Chamatu wuxuu maqlay in Da'uud ku dhuftay ⟨את⟩ ciidanka dhammaan ee Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuu maqlay"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "To'ii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ku dhuftay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Da'uud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciidanka dhammaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ciidanka"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-09-01T02:58:12.119048224Z",
+  "model": "glm-5.3"
+}

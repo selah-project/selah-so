@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahwehna wuxuu Muuse ku yidhi: Qalbiga Farcoon waa culus yahay, wuu diiday inuu dadka sii daayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuse ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "culus yahay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wuu diiday"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "inuu sii daayo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:58.838271859Z",
+  "model": "glm-5.3"
+}

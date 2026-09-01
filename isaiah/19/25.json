@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Kan uu Yahweh Tseba'oot ku barakeeyay, isagoo leh: Barakeysan ha ahaado gaashiigay Mitsrayim, iyo shuqulkay gacmahaygu sameeyeen Ashshuuri, iyo dhaqankay Israa'iil.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ku barakeeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseba'oot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barakeysan ha ahaado"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gaashiigay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "iyo shuqul"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahaygu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshuuri"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "iyo dhaqankay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:00.760546055Z",
+  "model": "glm-5.3"
+}

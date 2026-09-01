@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Ma dhibaan, ma baabi'in, buur kesada oo dhan; waayo, dhulkii wuu buuxsantahay garashada ⟨את⟩ Yahweh, sidii biyuhu badda ku dheehaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "dhibaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "baabi'in"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buur"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kesada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "wuu buuxsantahay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "garashada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sidii biyuhu"
+    },
+    {
+      "surface": "לים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "ku dheehaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:38.787361738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Kuwan waa wiilasha Ismaaciil, oo kuwan waa magacyadooda, degmooyinkooda iyo daarioollooda: laba-iyo-toban oo amiir ah, laga soo bilaabo qowmiyadooda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waa kuwan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismaaciil"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "oo kuwan"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "magacyadooda"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "degmooyinkooda"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "iyo daarioollooda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo-toban"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "amiirro"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "qowmiyadooda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:00.149640378Z",
+  "model": "glm-5.3"
+}

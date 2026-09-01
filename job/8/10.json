@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ma iyaga ma aanay ku barin, ma aanay kuu sheegin, oo wuxuu qalbigooda ka soo baxsho ereyo ma ayaanay soo saarin?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma ma aanay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ku barin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kuu sheegin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "oo qalbigooda ka"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "soo baxsho"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ereyo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:19.834792520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Elqana wuxuu teagay Raamata, gurigiisii; oo wiilkii wuxuu ahaa mid fadhiya ⟨את⟩ Yahweh, ⟨את⟩ Wejiga Ciili wadaadda.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wuxuu teagay"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Raamata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisii"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "oo wiilkii"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mid fadhiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wejiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Wejiga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ciili"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:14.064133869Z",
+  "model": "glm-5.3"
+}

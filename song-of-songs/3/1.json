@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Sariirtayda saaran habeennooyinkii waan doondoonday ⟨את⟩ kan ay nafdaydu jeceshahay; waan doondoonday, oo ma helin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saaran"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sariirtayda"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "habeennooyinkii"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "waan doondoonday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan ay nafdaydu jeceshahay"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "kan ay jeceshahay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "waan doondoonday"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "helin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:53:04.369524465Z",
+  "model": "glm-5.3"
+}

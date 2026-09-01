@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "laakiin Yahweh Elohim kiinna ayaa waxaad la mid noqotaan, sidii aad ilaa maantadan sameysay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ayaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kiinna"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "waxaad la mid noqotaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "aad sameysay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maantadan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:46.734674797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Allabari iyo bixis ma doonaysin; dhego baad ii furay; allabari guban iyo allabari dembi ah ma weydiisan.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Allabari"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "iyo bixis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "doonaysin"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "dhego"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "baad ii furay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "allabari guban"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "iyo allabari dembi ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "weydiisan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:49.311866683Z",
+  "model": "glm-5.3"
+}

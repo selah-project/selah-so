@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Hadda eebe ha qaboojina, anigu waan idin daryeeli doonaa ⟨את⟩ idinka iyo ⟨את⟩ carruurtiinna. Wuxuuna u qalbalay, wuuna ka hadlay ⟨את⟩ qalbigooda.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hadda eebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qaboojina"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "waan daryeeli doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka",
+      "marks": "idinka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "carruurtiinna"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "carruurtiinna"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wuxuuna u qalbalay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "qalbigooda"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuuna ka hadlay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbigooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:56.812094884Z",
+  "model": "glm-5.3"
+}

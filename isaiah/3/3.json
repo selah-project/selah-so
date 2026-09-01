@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Suldaan-tirliin iyo qof weji la siin, iyo talo-siiye, iyo xariif oo dhaqameed, iyo fahansan erey-siib.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "Suldaan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tirliin"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "iyo qof weji la siin"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "weji"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "iyo talo-siiye"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "iyo xariif"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "oo dhaqameed"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "iyo fahansan"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "erey-siib"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:04.062237775Z",
+  "model": "glm-5.3"
+}

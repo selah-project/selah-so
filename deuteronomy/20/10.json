@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Markaad u dhowaatay magaalo aad ku dagaallankartay, ugu dheji nabad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "aad u dhowaatay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "aad ku dagaallankartay"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ugu dheji"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "u"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nabad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:17.699644731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Iiga yeedh, waana ku jawaabi doonaa, waana ku sheegi doonaa waxyaabo waaweyn iyo kuwo ⟨adan gelin karin⟩ oo aadan taqaan.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "iiga yeedh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "waana ku jawaabi doonaa"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "waana ku sheegi doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waxyaabo waaweyn"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "kuwo adag (qarsoon)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "aad taqaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:15:25.953845183Z",
+  "model": "glm-5.3"
+}

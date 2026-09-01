@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Yisra'eelna wuu teagey, waxa kastoo uu lahaadbana, wuxuuna yimid Be'eer-Shabaca, wuxuuna u gudbay qalmeed Elohim aabihii Yitsxaq.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "wuu teagey"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "waxa kastoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu lahaa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shabaca"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "wuxuuna u gudbay"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qalmeed"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihii"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    }
+  ],
+  "timestamp": "2026-09-01T01:01:44.535071111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Boqor xukun cadaalad ah wuu taagnaanisiyaa dhulka; laakiin nin qaata hibaado wuu duminiyaa.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Boqor"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukun cadaalad ah"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "wuu taagnaanisiyaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "laakiin nin"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "qaata hibaado"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "wuu duminiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:33.412177603Z",
+  "model": "glm-5.3"
+}

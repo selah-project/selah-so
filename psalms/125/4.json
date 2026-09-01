@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 125,
+  "translation": "Yahwehoy, sama fala kuwa san oo kuwa toosan qalbigooda.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "sama fala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehoy"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kuwa san"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "iyo kuwa toosan"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "qalbigooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:16.454797196Z",
+  "model": "glm-5.3"
+}

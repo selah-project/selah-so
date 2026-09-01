@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Afka gar-yaqaannu wuxuu sixi xikmad, carrabkiisuna wuxuu ka hadlaa caddaalad.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gar-yaqaannu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "wuxuu sixi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xikmad"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "carrabkiisuna"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "wuxuu ka hadlaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaalad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:47.726409711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo ⟨את⟩ Gaat iyo ⟨את⟩ Maresha iyo ⟨את⟩ Ziif.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iyo ⟨את⟩",
+      "marks": "Gaat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ziif"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziif"
+    }
+  ],
+  "timestamp": "2026-09-01T06:37:03.692122347Z",
+  "model": "glm-5.3"
+}

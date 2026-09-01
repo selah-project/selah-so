@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kanaanana wuxuu dhalay ⟨את⟩ Siidoon oo ah ilmihiisii koowaad, iyo ⟨את⟩ Jeej.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kanaanana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siidoon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Siidoon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ilmihiisii koowaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Jeej"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Jeej"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:19.271900689Z",
+  "model": "glm-5.3"
+}

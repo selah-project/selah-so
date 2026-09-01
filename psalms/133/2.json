@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 133,
+  "translation": "Sida saliidda wanaagsan ee madaxa ku dhex jirta, oo gadaasha ku soo socota, gadaashii Axaron, oo socodkeenna kiishaha dhexdooda mariira.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Sida saliidda"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex jirta"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ku soo socota"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "gadaasha"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gadaashii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaron"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "oo socota"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku mariira"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kiishaha dhexdooda"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "dhararkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:20.627068459Z",
+  "model": "glm-5.3"
+}

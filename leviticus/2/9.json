@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wuxuu qaadi doonaa wadaaddu minchada (hadhyada) ka mid ah ⟨את⟩ xusidda (qayhta xusista), wuxuuna gubi doonaa meel dheer ah — altarkan — waana allabbari lagu gubo olol, ur farax leh, Yahweh u ah.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "wuxuu qaadi doonaa (qaadista)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchada (hadhyada)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xusidda (qayhta xusista)"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "xusidda (qayhta xusista)"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "wuxuuna gubi doonaa (olol u gubi)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "meel dheer ah — altarka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabbari lagu gubo olol"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "farax leh (nijaad leh)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:57.374565251Z",
+  "model": "glm-5.3"
+}

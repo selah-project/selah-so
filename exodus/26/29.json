@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaadna ku qolli doontaa ⟨את⟩ albaabadu dahab, waxaadna sameyn doontaa ⟨את⟩ habennadooda dahab, si ay hoy u noqdaan barroosigyada, waxaadna ku qolli doontaa ⟨את⟩ barroosigyada dahab.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "albaabadu"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "albaabadu"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "ku qolli doontaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "habennadooda"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "habennadooda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameyn doontaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "barroosigyada"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ku qolli doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barroosigyada"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "barroosigyada"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:08.360259224Z",
+  "model": "glm-5.3"
+}

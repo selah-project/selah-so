@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waayo, yubel bay tahay; qudus bay idiin noqon doontaa; beerada ka mid ah baa cuni doontaan ⟨את⟩ midhihiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay tahay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qudus"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay noqon doontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "beerada"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "cuni doontaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhihiisa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "midhihiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:48.139046892Z",
+  "model": "glm-5.3"
+}

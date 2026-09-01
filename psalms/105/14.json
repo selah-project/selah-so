@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Ma uuminin ⟨ciyaal aadan ah⟩ inay ku gardarroodaan, wuxuuna canaanay boqorrada ⟨xaggiinna⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "uuminin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "inay ku gardarroodaan"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "wuxuuna canaanay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "xaggiinna"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "boqorrada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:17.039798354Z",
+  "model": "glm-5.3"
+}

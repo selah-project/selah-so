@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Ma sida ⟨oo lagu dhuftay⟩ kan dhuftay baa loo dhuftay, mise sida la dilay dadkiisii la dilay baa la dilay?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Ma sida lagu dhuftay"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "kan dhuftay"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "loo dhuftay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sida la dilay"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "dadkiisii la dilay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "la dilay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:44.529141710Z",
+  "model": "glm-5.3"
+}

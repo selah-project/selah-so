@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Oona ka sarreejiyaan shirka shacabka, iyo fadhiista odayaasha ha ammaanaan",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Oona ka sarreejiyaan"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "shirka shacabka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "iyo fadhiista odayaasha"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ha ammaanaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:08.209330088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ bartilmaha; dhinaca koonfureed, dhanka midigta koonfur, mararka bartilmaha waxay ahaayeen maro budh ah oo la dhegaystay, boqol dheer (cubits).",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bartilmaha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bartilmaha"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "koonfureed"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "dhanka midigta koonfur"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mararka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bartilmaha"
+    },
+    {
+      "surface": "שש",
+      "gloss": "maro budh ah"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "oo la dhegaystay"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dheer (cubits)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:17.980676966Z",
+  "model": "glm-5.3"
+}

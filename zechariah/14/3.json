@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo Yahweh wuu soo bixi doonaa, oo wuu ku dagaallami doonaa qoomamadaas, sida uu ku dagaallamay maalinta dagaalka.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wuu soo bixi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "wuu ku dagaallami doonaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "qoomamadaas"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sida maalinta"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "uu ku dagaallamay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:27.615995294Z",
+  "model": "glm-5.3"
+}

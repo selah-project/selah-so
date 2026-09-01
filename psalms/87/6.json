@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Yahweh wuu xisaabin doonaa markuu qorayo shacabka: kan halkaas ku dhashay. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wuu xisaabin doonaa"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "markuu qorayo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ku dhashay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:30.353765278Z",
+  "model": "glm-5.3"
+}

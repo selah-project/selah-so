@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo hadda, Elohim-keenna, maxaan dhahnaa kan kadib, maxaa yeelay waannan dhaafnay amarradaada?",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֛ה",
+      "gloss": "Oo hadda"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "נֹּאמַ֥ר",
+      "gloss": "dhahnaa"
+    },
+    {
+      "surface": "אֱלֹהֵ֖ינוּ",
+      "gloss": "Elohim-keenna"
+    },
+    {
+      "surface": "אַחֲרֵ֣י",
+      "gloss": "kadib"
+    },
+    {
+      "surface": "זֹּ֑את",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "עָזַ֖בְנוּ",
+      "gloss": "waannan dhaafnay"
+    },
+    {
+      "surface": "מִצְוֺתֶֽיךָ",
+      "gloss": "amarradaada"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:54.993100938Z",
+  "model": "glm-5.3"
+}

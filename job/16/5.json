@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waxaan idinku adkeyn lahaa afkaygii, oo dhaqdhaqaaqa labbadaydu wuu deyn lahaa.",
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "waxaan idinku adkeyn lahaa"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ugu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkaygii"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "oo dhaqdhaqaaqa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "labbadaydu"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "wuu deyn lahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:43:37.037631043Z",
+  "model": "glm-5.3"
+}

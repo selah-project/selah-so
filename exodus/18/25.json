@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Muuse wuxuu doortay rag geesinimada ah oo ka mid ah dhammaan Israa'iil, waxayna ka dhigay madaxda ⟨את⟩ dadka gaar ah: hogamiyeyaashii kunada, hogamiyeyaashii boqlaha, hogamiyeyaashii kontonaasha iyo hogamiyeyaashii tobanka.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "wuxuu doortay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "rag"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "geesinimada ah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka mid ah dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waxayna ka dhigay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "madaxda"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "על",
+      "gloss": "gaar ah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hogamiyeyaashii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kunada"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hogamiyeyaashii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqlaha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hogamiyeyaashii"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kontonaasha"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "iyo hogamiyeyaashii"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tobanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:52.189819512Z",
+  "model": "glm-5.3"
+}

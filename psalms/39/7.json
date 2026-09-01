@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Hubaal sawad (dul-mar) buu ku socdaa nin; hubaal hebel bay ku hamiyaan; wuxuu dhoobo maal, mana oga ciddii soo ururin doonta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hubaal"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sawad (dul-mar) buu ku"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "socdaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bay ku hamiyaan"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "wuxuu dhoobo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "oga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ciddii"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "soo ururin doonta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:31.890618481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Elohimna wuxuu diyaariyay diir markii barri toddhaadheysay maalinta xigtay, waxayna ku dhuftay ⟨את⟩ qiqayoonka, wuuna engegday.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "wuxuu diyaariyay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diir"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "markay toddhaadheysay"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "barri"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "maalinta xigtay"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "waxay ku dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayoonka"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayoonka"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "wuuna engegday"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:21.601854738Z",
+  "model": "glm-5.3"
+}

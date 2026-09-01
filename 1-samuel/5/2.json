@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Falaastiintiintii waxay qaadatay ⟨את⟩ sanduuqa Elohim, waxayna geliyay ⟨את⟩ guriga Daagon, waxayna dhigay ⟨את⟩ agta Daagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "waxay qaadatay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falaastiintiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waxayna geliyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "guriga Daagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "waxayna dhigay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "agta Daagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "agta"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagon"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:23.923514515Z",
+  "model": "glm-5.3"
+}

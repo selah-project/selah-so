@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "iyo Sheva ahaa qoraaga, iyo Tsadoq iyo Evyatar ahayeen wadaaddada",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "iyo Sheva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qoraaga"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "iyo Tsadoq"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "iyo Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "wadaaddada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:04:10.342240766Z",
+  "model": "glm-5.3"
+}

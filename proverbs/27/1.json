@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Ha ku faanine maalinta berri, waayo adigu ma taqaan waxa maalintu dhalinayso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ku faanine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "berri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "taqaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dhalinayso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalintu"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:55.219495582Z",
+  "model": "glm-5.3"
+}

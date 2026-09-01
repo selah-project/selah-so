@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 113,
+  "translation": "Ha ahaado magaca Yahweh la barakeeyay, tan iyo hadda iyo ⟨wakhti ilaa weligood⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ha ahaado"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "la barakeeyay"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "tan iyo hadda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:43.230592553Z",
+  "model": "glm-5.3"
+}

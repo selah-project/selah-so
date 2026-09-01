@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kac, Yahweh! I badbaadi, Elohay! Waayo waxaad ku garaacday ⟨את⟩ dhammaan cadowdayda ⟨jaanka⟩; ilkaha sharka-luuqayasha waad jajjisay.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "I badbaadi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "waxaad ku garaacday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan cadowdayda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "jaanka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ilkaha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka-luuqayasha"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "waad jajjisay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:08.460795454Z",
+  "model": "glm-5.3"
+}

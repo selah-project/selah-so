@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Biriqiihiisu way iftiimiyeen adduunka; dhulkii wuu arkay, wuuna gariiray.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "way iftiimiyeen"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "biriqiihiisu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adduunka"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "wuu arkay"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "wuuna gariiray"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:26.011967079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Adigase, Yahweh, ii naxariis oo i kici, si aan uga abaal- marinno.",
+  "tokens": [
+    {
+      "surface": "וְאַתָּה",
+      "gloss": "Adigase"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חָנֵּנִי",
+      "gloss": "ii naxariis"
+    },
+    {
+      "surface": "וַהֲקִימֵנִי",
+      "gloss": "oo i kici"
+    },
+    {
+      "surface": "וַאֲשַׁלְּמָה",
+      "gloss": "si aan uga abaal- marinno"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "(ka)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:24.245481737Z",
+  "model": "glm-5.3"
+}

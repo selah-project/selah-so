@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Iyo ⟨את⟩ Chiwigga, iyo ⟨את⟩ Arqiga, iyo ⟨את⟩ Siiniga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chiwigga"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwigga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Arqiga"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Siiniga"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siiniga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:13.894147741Z",
+  "model": "glm-5.3"
+}

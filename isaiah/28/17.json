@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 28:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaan dhigi doonaa xukun ⟨qaabka dheelidda⟩, iyo sinaan ⟨miisaanka⟩; waana gayn doonaa baraf dahsiga beena, biyuna waa dhaafi doonaan ⟨meesha⟩ qarsoonta.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "waxaan dhigi doonaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "qaabka dheelidda"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "iyo sinaan"
+    },
+    {
+      "surface": "למשקלת",
+      "gloss": "miisaanka"
+    },
+    {
+      "surface": "ויעה",
+      "gloss": "waana gayn doonaa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "baraf"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "dahsiga"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "beena"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "iyo meesha qarsoonta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyuna"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "waa dhaafi doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:32.194906171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Markay cadowdaydu dib ugu noqdaan, way dheereyn doonaan, oo way halaabi doonaan wajigaaga.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Markay ... ugu noqdaan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowdaydu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dib"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "way dheereyn doonaan"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "way halaabi doonaan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "wajigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:14.562079233Z",
+  "model": "glm-5.3"
+}

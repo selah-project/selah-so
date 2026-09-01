@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Biyo daallanka ah ma siisay, oo rootiga gaajaysanhaa waad ka hayaysay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "daallanka ah"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "siisay"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "gaajaysanhaa"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ka hayaysay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rootiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:13.892153514Z",
+  "model": "glm-5.3"
+}

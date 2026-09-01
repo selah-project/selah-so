@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddii aad ku dhuftid ⟨את⟩ nacaslaha baakii dhexdiisa, booraha lagu dhuftay qamadada, nacasyadiisa wey ka tegeyn maaytaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "aad ku dhuftid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nacaslaha"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "nacaslaha"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "baakii"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "qamadada la dhuftay"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "booraha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maaytaan"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "way ka tegeyn"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "nacasyadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:25.840508260Z",
+  "model": "glm-5.3"
+}

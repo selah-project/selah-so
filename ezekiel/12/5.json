@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Indhahooda ka hor iska qod si taalloottaadaha qodda dhexdiisa oo soo saar.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "indhahooda ka hor"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "iska qod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si taall (adiga)"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ottaadaha"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "oo soo saar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dhexdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:27:01.022369494Z",
+  "model": "glm-5.3"
+}

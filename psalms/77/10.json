@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Ma iloway miyaa Eloah bixinta axsaanka? Hadduu xiray miyaa cadhoodiisa naxariistiisa? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Ma iloway miyaa"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "bixinta axsaanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Hadduu"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "xiray miyaa"
+    },
+    {
+      "surface": "באף",
+      "gloss": "cadhoodiisa (dhexdiisa)"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "naxariistiisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:56.638053561Z",
+  "model": "glm-5.3"
+}

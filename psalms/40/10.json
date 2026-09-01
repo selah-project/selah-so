@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Waan soo waramay sinaanta keena ah jamaacadda gudaheeda oo weyn; bal, farahayga ma celinayo, Yahweh, adiga waad ogtahay.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "Waan soo waramay"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sinaanta keena ah"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamaacadda gudaheeda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "farahayga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "celinayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad ogtahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:35.410126163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Hadday sidaas noo dheheen, \"Naga sugu oo istaaga inaynu idinku gaadhno,\" markaa waanu joogannaa meesheenna oo kuma soo kicinnayno agtooda.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hadday"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dheheen"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "Naga sugu oo istaaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inaynu"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "gaadhno"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "waanu joogannaa"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "meesheenna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "soo kicinnayno"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "agtooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:47:59.731510949Z",
+  "model": "glm-5.3"
+}

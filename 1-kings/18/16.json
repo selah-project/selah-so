@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuuna tegey Obadyahu inuu la kulmo Axab, wuxuuna u warramay; wuxuuna tegey Axab inuu la kulmo Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wuxuuna tegey"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "inuu la kulmo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuuna u warramay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wuxuuna tegey"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "inuu la kulmo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:20:22.369377712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 93,
+  "translation": "Wabiyaashu way kor u qaadeen, yaa Yahweh, wabiyaashu way kor u qaadeen codkoodii, wabiyaashu way kor u qaadeen mowjadoodii oo dheceysan.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "way kor u qaadeen"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "wabiyaashu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaa Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "way kor u qaadeen"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "wabiyaashu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "codkoodii"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "way kor u qaadeen"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "wabiyaashu"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "mowjadoodii oo dheceysan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:09.068558908Z",
+  "model": "glm-5.3"
+}

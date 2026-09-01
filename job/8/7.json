@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo bilowgaagu wuu yar yahay, laakiin dhammaadkaagu aad buu u weynaa doonaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oo wuu noqon doonaa"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "bilowgaagu"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "wuu yar yahay"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "laakiin dhammaadkaagu"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "aad buu u weynaa doonaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad u"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:33.846860587Z",
+  "model": "glm-5.3"
+}

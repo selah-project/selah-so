@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Oo markale dagaal Falestiin ku dhacay ⟨את⟩ Israa'iil; Dawit iyo addoomadiisiiba way degeen, wayna la dagaallameen ⟨את⟩ Falestiin; Dawitna wuu daalay.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Oo markale noqday"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "markale"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Falestiin ku dhacay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "way degeen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawit"
+    },
+    {
+      "surface": "ויעבדיו",
+      "gloss": "addoomadiisiiba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wayna la dagaallameen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Falestiin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falestiin"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "wuu daalay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawit"
+    }
+  ],
+  "timestamp": "2026-09-01T07:08:15.413636824Z",
+  "model": "glm-5.3"
+}

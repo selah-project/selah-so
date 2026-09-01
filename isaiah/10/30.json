@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Codkaaga ka qaylo, gabadha Galiim! Dhegeysto, Layish! Anatotoo tabarta-la'!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "ka qaylo"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "codkaaga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Galiim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "dhegeysto"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layish"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "tabarta-la'"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:30.774035786Z",
+  "model": "glm-5.3"
+}

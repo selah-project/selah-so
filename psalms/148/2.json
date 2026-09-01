@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ammaaniya oo dhan farushiisii, ammaaniya oo dhan ciidankiisa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "farushiisii"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ciidankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:34.967155206Z",
+  "model": "glm-5.3"
+}

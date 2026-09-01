@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Maalmaha sanadahaenna toddobaatan sanad ayay yihiin, haddii kalsoonida (geesinimada) jirto siddeedtan sanad; haddana faantoodu waa dhib iyo xun, maxaytu degdeg ayay goysay, waannu duulannahay.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "sanadahaenna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ayay yihiin"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "kalsoonida (geesinimada)"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "siddeedtan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "faantoodu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "dhib"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "iyo xun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaytu"
+    },
+    {
+      "surface": "גז",
+      "gloss": "goysay"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "waannu duulannahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:35.561177318Z",
+  "model": "glm-5.3"
+}

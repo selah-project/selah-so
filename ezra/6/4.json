@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Safarro sadax ah oo dhagax weyn, iyo saf oo alwaan cusub; kharashkana guriga boqorka laga bixi baa la siin.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "Safarro"
+    },
+    {
+      "surface": "די",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "sadax"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "iyo saf"
+    },
+    {
+      "surface": "די",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אע",
+      "gloss": "alwaan"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "kharashkana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga bixi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "baa la siin"
+    }
+  ],
+  "timestamp": "2026-09-01T06:14:18.421419959Z",
+  "model": "glm-5.3"
+}

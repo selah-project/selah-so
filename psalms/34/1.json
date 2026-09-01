@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Qoraalkii Dawuud, markuu beddelayay ⟨את⟩ dhaqankiisii hortiis Abimelek, waana eryay, wauna tegay.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Qoraalkii Dawuud"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "markuu beddelayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaqankiisii"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "dhaqankiisii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiis"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "waana eryay"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wauna tegay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:30.612709366Z",
+  "model": "glm-5.3"
+}

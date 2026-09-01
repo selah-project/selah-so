@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Aniguna, bal eega, waan taaganayaa balladaydii ⟨את⟩ iyo ⟨את⟩ firada idiin kadib,",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "waan taaganayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balladaydii"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "balladaydii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "firada idiin"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "kadib"
+    }
+  ],
+  "timestamp": "2026-09-01T00:41:18.424470394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo haddii hubaal laga xado xaggiisa, wuxuu celinayaa mulkiilahiisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddii"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "hubaal laga xado"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "laga xado"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wuxuu celinayaa"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "mulkiilahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:48.848062087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Waadhiyey (mahadnaqaa) Adonayta sayidyada, waayo ilaa iyo weligiis ahba waa khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Waadhiyey (mahadnaqaa)"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayta"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "sayidyada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ilaa iyo weligiis ahba"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:21.792256651Z",
+  "model": "glm-5.3"
+}

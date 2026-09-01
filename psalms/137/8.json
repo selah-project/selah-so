@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Gabadha Babilow, kan la gubayaa, saatana ha ahaato kan ku abaalmarinaya ⟨את⟩ abaalmarintaada, waxa aad na siisay.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilow"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "kan la gubayaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "saatana ha ahaato"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "kan ku abaalmarinaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaalmarintaada"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "abaalmarintaada"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "aad na siisay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:45.951394254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxay ka jawaabeen waxayna dhaheen Nebukadnesar boqorkii: Boqorow, boqorka weligiis ha noolaado!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Waxay ka jawaabeen"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "waxayna dhaheen"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Boqorow"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ha noolaado"
+    }
+  ],
+  "timestamp": "2026-09-01T08:01:45.520789184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Markaan eegayo samadaada, shuqullada farahaaga, dayaxa iyo xiddigaha aanaad dhigaysay —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markaan"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "eegayo"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "samadaada"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "shuqullada"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "farahaaga"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "dayaxa"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "iyo xiddigaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "dhigaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:04.027881817Z",
+  "model": "glm-5.3"
+}

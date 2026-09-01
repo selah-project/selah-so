@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Seef ayaa xunthaa furtay, waxayna diidday qawsaskooda, si ay u dhigiyan sabarka iyo baahida, si ay u gowriciaan toosanada waddada.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Seef"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ayaa xunthaa furtay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "xunthaa"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "waxayna diidday"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "qawsaskooda"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "si ay u dhigiyan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sabarka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "iyo baahida"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "si ay u gowriciaan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "toosanada"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:38.008598221Z",
+  "model": "glm-5.3"
+}

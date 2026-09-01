@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Yoosefna wuxuu ku dhaartay ⟨את⟩ cururada Israa'iil inuu yidhaahdo: Elohim wuu hubaal xaqiijin doonaa ⟨את⟩ idinko, idinkuna waxaad keenti doontaane ⟨את⟩ lafdawalkayga halkan.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "wuxuu ku dhaartay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cururada Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cururada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inuu yidhaahdo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "xaqiijin"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "wuu hubaal xaqiijin doonaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinko"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "idinkuna waxaad keenti doontaane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lafdawalkayga"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "lafdawalkayga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:03:21.852035748Z",
+  "model": "glm-5.3"
+}

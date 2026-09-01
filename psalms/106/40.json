@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Oo cadhadu Yadweh ay ka qarxday qoomkiisa, wuuna naqjay ⟨את⟩ dhaqankiisa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ay ka qarxday"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cadhada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yadweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "qoomkiisa"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "wuuna naqjay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaqankiisa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "dhaqankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:28.255431138Z",
+  "model": "glm-5.3"
+}

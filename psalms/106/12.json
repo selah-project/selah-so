@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Markaasay rumeeyeen erayadiisa, waxayna heesan ammaantiisa.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "rumeeyeen"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "erayadiisa"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "waxayna heesan"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ammaantiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:22.179015140Z",
+  "model": "glm-5.3"
+}

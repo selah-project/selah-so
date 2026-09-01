@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waxaadna ka soo saartay ⟨את⟩ dadkaaga ⟨את⟩ Israa'iil dhulka Mitsrayim, calaamado iyo yaabo, gacan adag iyo liver la fidin, iyo cabsi weyn.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waxaad ka soo saartay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadkaaga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "calaamado"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "iyo yaabo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "iyo gacan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "iyo liver"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "la fidin"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "iyo cabsi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T04:15:31.591141830Z",
+  "model": "glm-5.3"
+}

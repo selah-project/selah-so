@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Wuu xasuustay khesedkiisa iyo runtiisa (gurigii) Israa'iil; dhammaan geesaha dhulka way arkeen ⟨את⟩ badbaadada Eloheenna.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wuu xasuustay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "iyo runtiisa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "geeysa gurigii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "way arkeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "geesaha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badbaadada"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "badbaadada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:32.113021246Z",
+  "model": "glm-5.3"
+}

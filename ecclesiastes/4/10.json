@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waayo haddii ay dhacaan, midka wuxuu saariyaa ⟨את⟩ saaxiibkiis; laakiin haddii kan keliya uu dhaco, oo aan jirin labaad oo saarisa, waayahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ay dhacaan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midka"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "wuxuu saariyaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiis"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "laakiin haddii"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kan keliya"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "uu dhaco"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "oo aan jirin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "oo saarisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:54.330539463Z",
+  "model": "glm-5.3"
+}

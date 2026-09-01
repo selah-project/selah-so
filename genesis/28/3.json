@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Oo El Shadday ha ku duceeyo, ha kuu tarayo, ha kuu badsiiyo, oo aad noqoto koox shacab.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Oo El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ha ku duceeyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga (Yacquub)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ha kuu tarayo"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ha kuu badsiiyo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "aad noqoto"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "koox"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacab"
+    }
+  ],
+  "timestamp": "2026-09-01T00:52:30.528553689Z",
+  "model": "glm-5.3"
+}

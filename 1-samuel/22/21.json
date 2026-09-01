@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Abiyatharna wuxuu u sheegay Dawiid in Shaa'uul dishay ⟨את⟩ wadaaddada Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wuxuu sheegay"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatharna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "u Dawiid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dishay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadaaddada"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:04.808617527Z",
+  "model": "glm-5.3"
+}

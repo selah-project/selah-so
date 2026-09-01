@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Ma karaysid inaad gowriddo ⟨את⟩ Peesaxa mid ka mid ah albaabadaaga, kan uu Yahweh Elohimkaagu ku siiyay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "karaysid"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "in aad gowriddo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peesaxa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Peesaxa"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mid ka mid ah"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "albaabadaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uu ku siiyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T02:07:09.484530793Z",
+  "model": "glm-5.3"
+}

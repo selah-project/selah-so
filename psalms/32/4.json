@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Waayo, maalinta iyo habeenkaba gacantaada way iga culays tahay; nafaqudaydii waxay u beddeshay sidii engegga xagaaga. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iyo habeenka"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "way culays tahay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iga saaran"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "waxay u beddeshay"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "nafaqudaydii"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "engegga"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "xagaaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:11.421758432Z",
+  "model": "glm-5.3"
+}

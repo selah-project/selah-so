@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Lagu ammaaney, waan u dhawaaqayaa Yahweh, cadowdaydana waan laga badbaadayaa.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "lagu ammaaney"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan u dhawaaqayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "laga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowdaydana"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "waan badbaadayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:18.293828841Z",
+  "model": "glm-5.3"
+}

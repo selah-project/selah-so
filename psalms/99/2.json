@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Yahweh wuxuu weyn yahay Tsiyoon, oo wuxuu ka sarreeyaa shacabbada oo dhan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wuxuu weyn yahay"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "wuxuu ka sarreeyaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuxuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabbada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:23.082606375Z",
+  "model": "glm-5.3"
+}

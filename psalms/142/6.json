@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 142,
+  "translation": "Waxaan qaylinayay adiga, Yahweh; waxaan idhi: Adiga baa magangalaygay iyo qaybtayda dhulka ⟨ku nool⟩.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "qaylinayay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "waxaan idhi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "magangalaygay"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "qaybtayda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "⟨ku nool⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:55.500585385Z",
+  "model": "glm-5.3"
+}

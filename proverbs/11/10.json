@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wanaagga suubbayaasha dartii magaaladu way ku faraxdaysaa, oo marka sharku hallaabo waa qaylo-dhaweyn.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "wanaagga … dartii"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "suubbayaasha"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "way ku faraxdaysaa"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "magaaladu"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "oo marka … hallaabo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "waa qaylo-dhaweyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:08.565278516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Adiga ayaa xukuntaa koritaanka ⟨את⟩ badda; markay mawjadihiisa kacayaan, adiga baa dheejisa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "xukuntaa"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "koritaanka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "markay ... kacayaan"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mawjadihiisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "dheejisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:34.920216842Z",
+  "model": "glm-5.3"
+}

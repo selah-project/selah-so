@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waayo, wajaha seefaha bay u carareen; wajaha seefta la soo saaray, iyo wajaha qawska la shiday, iyo wajaha culaysa dagaalka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajaha"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "seefaha"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "bay u carareen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajaha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seefta"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "la soo saaray"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "iyo wajaha"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qawska"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "la shiday"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "iyo wajaha"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "culaysa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaalka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:16:17.097218083Z",
+  "model": "glm-5.3"
+}

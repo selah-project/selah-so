@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Waayo-barwaaqo-darradii xilliga qaboobuhuu sahaluhu fardoon mayn; goorta goosista wuu weydiistaa, waxna ma jiraan.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "xilliga qaboobuhuu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "sahaluhuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mayn"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "fardoon"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "wuu weydiistaa"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "goorta goosista"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waxna ma jiraan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:19.061581875Z",
+  "model": "glm-5.3"
+}

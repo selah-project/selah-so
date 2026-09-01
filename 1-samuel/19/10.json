@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Shaa'uul wuxuu doonayay inuu gantaanta ku dhufto Dawid derbiga; Dawidna wuu ka nawaystay xeedka Shaa'uul, wuxuuna dhuftay ⟨את⟩ gantaanta derbiga, Dawidna wuu cararay, habeenkaaas na wuu badbaaday.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "wuxuu doonayay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "inuu dhufto"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "gantaanta"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "wuu ka nawaystay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "xeedka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gantaanta"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "gantaanta"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "derbiga"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawidna"
+    },
+    {
+      "surface": "נס",
+      "gloss": "wuu cararay"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wuu badbaaday"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "habeenkaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:50:17.146562528Z",
+  "model": "glm-5.3"
+}

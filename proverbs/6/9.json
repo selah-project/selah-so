@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Hangow baad, adigoo caajis ah, seexanaysaa? Hangow baad seexashadaada ka soo toosan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangow"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "baad"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "adigoo caajis ah"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "seexanaysaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Hangow baad"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "soo toosan"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "seexashadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:52.450932484Z",
+  "model": "glm-5.3"
+}

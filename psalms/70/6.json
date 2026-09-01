@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 70,
+  "translation": "Aniguna waxaan ahay miskiin oo baahan; Elohimow i dheereysi, adiguna adigu tahay gargaarkeyga iyo gacan-geeyahayga; Yahwehow ha daahin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskiin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "oo baahan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "i dheereysi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "gargaarkeyga"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "oo gacan-geeyahayga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "daahin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:06.024332023Z",
+  "model": "glm-5.3"
+}

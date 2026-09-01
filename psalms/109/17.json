@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Wuxuu jeclaa naqdishada, waxayna ⟨ku⟩ timid ⟨dabadeed⟩; uma jeclay barako, waxayna ka fogowday.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Wuxuu jeclaa"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "naqdishada"
+    },
+    {
+      "surface": "וַתְּבוֹאֵהוּ",
+      "gloss": "waxayna ku timid"
+    },
+    {
+      "surface": "וֽלֹא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "חָפֵץ",
+      "gloss": "jeclay"
+    },
+    {
+      "surface": "בִּ֝בְרָכָ֗ה",
+      "gloss": "barako"
+    },
+    {
+      "surface": "וַתִּרְחַץ",
+      "gloss": "waxayna ka fogowday"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "ka (iska fog)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:57.737509889Z",
+  "model": "glm-5.3"
+}

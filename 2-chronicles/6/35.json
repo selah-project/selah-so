@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "waxaadna samada ka maqashaa ⟨את⟩ duucooda iyo ⟨את⟩ baryadooda, waxaana sameysaa xukunkooda.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "waxaadna maqashaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duucooda"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "duucooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baryadooda"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "baryadooda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waxaana sameysaa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "xukunkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:35:39.493576121Z",
+  "model": "glm-5.3"
+}

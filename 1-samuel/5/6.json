@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Yaddii Yahweh waxay ku culaysdhay kuwii Ashdod, wuxuuna baabbi'iyay, wuxuuna ku dhuftay ⟨את⟩ iyaga booro (tumooro), ⟨את⟩ Ashdod iyo ⟨את⟩ xudduudahiisa.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "waxay ku culaysdhay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Yaddii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "kuwii Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "wuxuuna baabbi'iyay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna ku dhuftay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyaga"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "booro (tumooro)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xudduudahiisa"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "xudduudahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:57.415941194Z",
+  "model": "glm-5.3"
+}

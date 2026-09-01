@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Kac, Yahweh, xanaaqadaada gudaheeda ku; isla soo bax cadowdayda dararrooday dartiid; oo i toosi xukunkii aad amartay.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "xanaaqadaada gudaheeda"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "isla soo bax"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "dararrooday dartiid"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "oo i toosi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunkii"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "aad amartay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:15.068966861Z",
+  "model": "glm-5.3"
+}

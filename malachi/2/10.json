@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ma aan nahay annaga oo dhan aabbe keliya? Ma El keliya baa nagu abuuray? Maxay ugu wadan dadku khiyaano walaal kiisii, si loo najaasiyo ballantii aabayaashayno?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ma aan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "aabbe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "annaga oo dhan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "baa nagu abuuray"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Maxay ugu"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "wadan khiyaano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dadku"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "walaal kiisii"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "si loo najaasiyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballantii"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aabayaashayno"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:02.057550404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Yahwehna wuxuu diyaariyay dallal weyn inuu liqo ⟨את⟩ Yoonis, Yoonisna wuxuu ahaa caloosha dalgaska saddex maalmood iyo saddex habeen.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "wuxuu diyaariyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "דג",
+      "gloss": "dallal"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "inuu liqo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonis"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonis"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonisna"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "dalgaska"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "iyo saddex"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "habeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:03.277264425Z",
+  "model": "glm-5.3"
+}

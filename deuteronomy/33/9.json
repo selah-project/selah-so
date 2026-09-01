@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Kan yidhi aabbiis iyo hooyiis: ma arag; walaalihiisna ⟨את⟩ ma garan, curadiisana ⟨את⟩ ma yaqaan, maxaa yeelay way dhawrayeen ereygaaga, xiriirkaagana way ilaalinayaan.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Kan yidhi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "aabbiis"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "iyo hooyiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "arag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "walaalihiis"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "garan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "curadiis"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "curadiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yaqaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "way dhawrayeen"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ereygaaga"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "xiriirkaagana"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "way ilaalinayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:23.803345555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Dhulkii wuu barooray, wuuna enayay; adduunku wuu daalay, wuuna enayay; sareeyayaasha dadweynaha dhulkana way daaleen.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "wuu barooray"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "wuuna enayay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Dhulkii"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "wuu daalay"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "wuuna enayay"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adduunku"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "way daaleen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sareeyayaasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadweynaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:15.088975156Z",
+  "model": "glm-5.3"
+}

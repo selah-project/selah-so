@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Kan keliya oo sameeya ⟨את⟩ yaabaha waaweyn, waayo ilaa iyo weligiis ahba waa khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kan ... sameeya"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "yaabaha"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waaweyn"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligiis ahba"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:21.792444540Z",
+  "model": "glm-5.3"
+}

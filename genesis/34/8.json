@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Xamoorna wuxuu ⟨את⟩ iyaga la hadlay isagoo odhan: Shekhem wiilkaygii, nafteedu waa ku dhowatay gabadhiinna; fadlan siya ⟨את⟩ u xaas.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Xamoor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo odhan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygii"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "waa ku dhowatay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafteedu"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "gabadhiinna"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fadlan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "gabadha (siya)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xaas"
+    }
+  ],
+  "timestamp": "2026-09-01T00:56:01.339253652Z",
+  "model": "glm-5.3"
+}

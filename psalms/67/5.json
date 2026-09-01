@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 67,
+  "translation": "Waxay ku farxaan oo waxay ku qayli-dheecaan qoomamada, waayo ⟨adigu⟩ waxaad xukumaysaa shacabka cadaalad, oo qoomamada dhulka waad hanuuninaysaa. Selah",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "waxay ku farxaan"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "oo waxay ku qayli-dheecaan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "qoomamada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "waxaad xukumaysaa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "oo qoomamada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "waad hanuuninaysaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:32.982662494Z",
+  "model": "glm-5.3"
+}

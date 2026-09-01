@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ma aniga baa ah badda, mise bahal-badmeed, inaad ii dhigto ilaaliye?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "bahal-badmeed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ii dhigto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ii⟩"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ilaaliye"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:15.893181841Z",
+  "model": "glm-5.3"
+}

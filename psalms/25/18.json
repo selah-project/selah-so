@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Eeg murugadayda iyo hilmaantayda, oo dhammi wanaga noqo dembiyadayda oo dhan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "murugayda"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "iyo hilmaantayda"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "oo dhammi wanaga noqo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "dembiyadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:01.351057408Z",
+  "model": "glm-5.3"
+}

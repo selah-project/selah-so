@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Samee iyaga sida Midyan, sida Siseraa, sida Yaabiin, waadi gaar ah ee Kishoon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Samee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "sida Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "sida Siseraa"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "sida Yaabiin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "waadi gaar ah"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ee Kishoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:12.268768759Z",
+  "model": "glm-5.3"
+}

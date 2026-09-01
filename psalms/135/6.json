@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Wixii Yahweh doonayay wuu sameeyay ⟨wuxuu sameeyay⟩ samada iyo dhulka, badda iyo dhammaan hoosyada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wixii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "doonayay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuu sameeyay"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "iyo dhulka"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "hoosyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:31.085567098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Oo ⟨wuxuu noqonayaa⟩ sida iftiinka subax markay qorraxdu soo baxdo, subax aan daruur lahayn, oo ka dib iftiin-baroor iyo roob, dhir-taarada dhulka ka soo baxda.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Oo sida iftiinka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "markay... soo baxdo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxdu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "daruur lahayn"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "iftiin-baroor"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "iyo roob"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "dhir-taarada"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka ka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:07:57.426246605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 136,
+  "translation": "Kan fidiyay dhulka ku kor biyaha — khesedkiisu ⟨wuu⟩ sii wadoaa weligiis.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Kan fidiyay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku kor"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisu sii wadoaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:52:14.376225183Z",
+  "model": "glm-5.3"
+}

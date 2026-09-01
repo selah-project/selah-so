@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Labaarkeyga keliya waan sheegay dhammaan xukuumadda afkaaga.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "labaarkeyga keliya"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "waan sheegay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukuumadda"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:39.692145941Z",
+  "model": "glm-5.3"
+}

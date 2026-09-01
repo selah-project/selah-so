@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Yahweh Elohimayow, adiga waad ka jawaabtay; El dhaafaya ahaad ⟨את⟩ kooda, laakiin waxaad u ciqaabtay falalahooda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimayow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "waad ka jawaabtay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dhaafaya"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ahaad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kooda"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "laakiin waxaad u ciqaabtay"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "falalahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.905993719Z",
+  "model": "glm-5.3"
+}

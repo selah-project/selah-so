@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Dadkaana waa la fididiyay dhulka Mitsrayim oo dhan, si ay u aruuraan qashin laxa caws.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "waa la fididiyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Dadkaana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "si ay u aruuraan"
+    },
+    {
+      "surface": "קש",
+      "gloss": "qashin"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "laxa caws"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:10.547311894Z",
+  "model": "glm-5.3"
+}

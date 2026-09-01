@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuu ku yidhi dadkiisii: Bal eega, dadka wiilasha Yisraai'il ⟨waa⟩ badan yahay, oo kan naga ka awood badan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dadkiisii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraai'il"
+    },
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "oo awood badan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kan naga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:13.924694481Z",
+  "model": "glm-5.3"
+}

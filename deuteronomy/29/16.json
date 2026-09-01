@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo waad arkaysaan ⟨את⟩ nacaydkooda iyo ⟨את⟩ sanamyadooda — geed iyo dhagax, lacag iyo dahab ay la jireen.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "oo waad arkaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nacaydkooda"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "nacaydkooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "sanamyadooda"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "sanamyadooda"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "iyo dhagax"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "la jireen"
+    }
+  ],
+  "timestamp": "2026-09-01T02:13:48.903137396Z",
+  "model": "glm-5.3"
+}

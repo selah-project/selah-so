@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Aniguna cagayahey waxay taagnaayeen in yar in ay dheceen; tallabayaashayguna waxay dhuuntaa in yar.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "in yar"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "in ay dheceen"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagayahey"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "in yar (si la mid ah)"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "waxay dhuuntaa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "tallabayaashayguna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:27.281000786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Biyaheedu way dhawaaqayaan, way karaaraan, buuruhuna way gariiraan isla weynaantaas. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "way dhawaaqayaan"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "way karaaraan"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "biyaheedu"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "way gariiraan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuruhuna"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "isla weynaantaas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:58.604569720Z",
+  "model": "glm-5.3"
+}

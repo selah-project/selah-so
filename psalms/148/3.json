@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ammaaniya cadceedda iyo dayaxa, ammaaniya oo dhan xiddigaha iftiinka.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ammaaniya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "cadceedda"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "iyo dayaxa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ammaaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "xiddigaha"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiinka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:34.967323887Z",
+  "model": "glm-5.3"
+}

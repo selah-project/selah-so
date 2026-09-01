@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kanaan wuxuu dhalay ⟨את⟩ Tsiidoon oo ahilkii ka ahaa iyo ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiidoon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiidoon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ahilkii ka ahaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:13.893748216Z",
+  "model": "glm-5.3"
+}

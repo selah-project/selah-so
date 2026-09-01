@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Elohimow ii xukum, oo dacwadayda diido ⟨את⟩ qolo aan khesed lahayn; nin khiyaano ah iyo gardarro xaggiisa ka ii najaansho.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ii xukum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimow"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "oo dacwadayda diido"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "dacwadayda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ka qolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "khesed lahayn"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano ah"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "iyo gardarro"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ii najaansho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:54.146105452Z",
+  "model": "glm-5.3"
+}

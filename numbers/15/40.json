@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Si aad u xusataan oo aad faysaan ⟨את⟩ amarrayda dhammi, oo aad noqotaan quduus oo aad ahaydan kuwa loo ah Elohiin.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Si aad u"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "xusataan"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "oo aad faysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarrayda dhammi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammi"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarrayda"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "oo aad noqotaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohiin (loo ah)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:49:22.547576272Z",
+  "model": "glm-5.3"
+}

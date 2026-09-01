@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Qof kastaa ha cabsado hooyadiis iyo aabahiis, oo ⟨את⟩ Sabtiyadayda ha ilaaliyaan; ani Yahweh Elohimkiin baan ahay.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Qof kastaa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "iyo aabahiis"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ha cabsado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabtiyadayda"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabtiyadayda"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ha ilaaliyaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:21.177658366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Nabadgelyo dhexdeeda waan seexanayaa, waana hurtaa; adiga ayaa, Yahweh, keliya, ammaan ⟨ah⟩ igu deggeliyaysaa.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Nabadgelyo dhexdeeda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "waan seexanayaa"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "waana hurtaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ayaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ammaan"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "igu deggeliyaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:36.892714117Z",
+  "model": "glm-5.3"
+}

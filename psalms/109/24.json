@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Labbada jilib ee aniga way daciifeen soonka awgiis, oo jidhkaygii wuxuu khafiifay baruurka ka soo horjeeda.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Labbada jilib ee aniga"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "way daciifeen"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "soonka awgiis"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "oo jidhkaygii"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "wuxuu khafiifay (khuseysi waayay)"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "baruurka ka soo horjeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:25.082120219Z",
+  "model": "glm-5.3"
+}

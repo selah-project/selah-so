@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Hadda waxballaaran, wiilkaygiiow, i dhegeyso codkayga, waxa aan kuu amaro ⟨את⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Hadda waxballaaran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilkaygiiow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i dhegeyso"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "kuu amaro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga",
+      "marks": "adiga (caqabka tooska loo cadeeyay)"
+    }
+  ],
+  "timestamp": "2026-09-01T00:50:40.361192378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna dhacay ⟨maalinta⟩ siddeedaad markii Muuse u yeeray Axaroon iyo wiilashiisa iyo odayaasha Yisraa'iil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna dhacay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "siddeedaad"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yeeray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axaroon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "iyo odayaasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:01.958111398Z",
+  "model": "glm-5.3"
+}

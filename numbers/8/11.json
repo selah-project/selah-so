@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo Axron wuu dhaadhici doonaa ⟨את⟩ Leewiyiinta dhaadhicis horta Yahweh, ka βannaan ubadka Israa'iil, oo waxay noqon doonaan inay fuliyaan ⟨את⟩ adeegga Yahweh.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "wuu dhaadhici doonaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leewiyiinta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiyiinta"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dhaadhicis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "inay fuliyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adeegga"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "adeegga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:44:47.309449553Z",
+  "model": "glm-5.3"
+}

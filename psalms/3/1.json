@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Mizmoor (qasiido la heli karo) ee Daawiid, markuu cararayay wajiga Absalom inankiisa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor (qasiido la heli karo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Daawiid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "markuu cararayay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:45.805339275Z",
+  "model": "glm-5.3"
+}

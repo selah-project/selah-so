@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Ilaali ⟨את⟩ maalinta Sabtiinta si aad u quduusayso, siduu kuu amray Yahweh Elohimkaaga.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalinta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabtiinta"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "si aad u quduusayso"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "siduu"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "kuu amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:55.593801584Z",
+  "model": "glm-5.3"
+}

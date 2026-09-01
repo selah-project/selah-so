@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo xaqiiq, ⟨את⟩ dhiiggiinna, dhiigga nafahiinna, waan ka doondoon doonaa gacanta xayawaanka nool ee kasta oo ka mid ah; gacanta dadkana — gacanta nin kasta iyo walaalkiis — nafta dadka waan doondoon doonaa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "oo xaqiiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiiggiinna"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "dhiiggiinna"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "nafahiinna"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "waan doondoon doonaa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "xayawaanka nool"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "waan doondoon doonaa"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "waan doondoon doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafta dadka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:36.802401380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Nin walaalkiis ayuu ku dhergaa; waxay isku qabsadaan oo kala-go'an wayna fogaan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "ku dhergaa"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "way isku qabsadaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo... wayna"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "kala-go'an ma fogaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:33.599982999Z",
+  "model": "glm-5.3"
+}

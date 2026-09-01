@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxaas waan xasuustay, oo naftayda ⟨gudaha iga⟩ baan shubay; waayo, dadweynaha dhexdiisa baan marin, si tartiib ahna u hoggaamiyay ilaa baytkii Elohim, cod riixaad iyo mahadnoq — dadweyne ciid dhigaysa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "waan xasuustay"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "oo baan shubay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gudaha igu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "baan marin"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "dadweynaha dhexdiisa"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "si tartiib ah u hoggaamiyay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riixaad"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "iyo mahadnoq"
+    },
+    {
+      "surface": "המון",
+      "gloss": "dadweyne"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ciid dhigaysa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:10.374641580Z",
+  "model": "glm-5.3"
+}

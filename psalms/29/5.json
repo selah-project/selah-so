@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Codka Yahweh wuxuu jebiyaa arzaga (geedaha arar); oo Yahweh wuxuu jebiyay ⟨את⟩ arzagii Lubnaan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wuxuu jebiyaa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arzaga (geedaha arar)"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "oo wuxuu jebiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arzagii Lubnaan"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arzagii"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lubnaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:15.619759028Z",
+  "model": "glm-5.3"
+}

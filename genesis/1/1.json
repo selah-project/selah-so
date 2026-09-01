@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Bilowgii Elohim wuxuu abuuray ⟨את⟩ samada iyo ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Bilowgii"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wuxuu abuuray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:38:09.557588253Z",
+  "model": "glm-5.3"
+}

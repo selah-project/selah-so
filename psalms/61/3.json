@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 61,
+  "translation": "Dhamaadka ⟨dhe→ ee⟩ dhulka xaggiisa ayaa waan ku dhawaaqayaa, markay qalbigu uu gacan-yaal baxay — dhagax dheer ii aan igu ka sarreeya ha i hanuunin.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Dhamaadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "xaggiisa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waan ku dhawaaqayaa"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "markay... gacan-yaal baxay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigu"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "dhagax"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "dheer ii aan igu ka sarreeya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "igak (aniga ka)"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ha i hanuunin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:29.409011442Z",
+  "model": "glm-5.3"
+}

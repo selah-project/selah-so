@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Toban-iyo-shan dhudhun ayay ka sarreysay biyuhu, buurahana waxaa la daboolay.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tocban-iyo-"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhudhun"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka sarreysay"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ayay adkaatay"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "waxaa la daboolay"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "buurahana"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:57.802851361Z",
+  "model": "glm-5.3"
+}

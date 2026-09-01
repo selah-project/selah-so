@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Ha imtixaannina ⟨את⟩ Yahweh Elohiinkiin, sidii aad u imtixaanneysay Massaah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "imtixaannina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinkiin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "aad u imtixaanneysay"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Massaah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:45.201777191Z",
+  "model": "glm-5.3"
+}

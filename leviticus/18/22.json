@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Oo ⟨את⟩ rag ha seegin maaridda haweenay; waa nijaas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "oo ⟨את⟩",
+      "marks": "rag"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "seegin"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "maaridda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haweenay"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "nijaas (walbahaar)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:08.494196922Z",
+  "model": "glm-5.3"
+}

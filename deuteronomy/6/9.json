@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waxaadna ku qortaa tiirarka albaabka ee gurigaaga iyo albaabadaada.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "waxaadna ku qortaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (sawir)"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "tiirarka albaabka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigaaga"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "iyo albaabadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:36.578546612Z",
+  "model": "glm-5.3"
+}

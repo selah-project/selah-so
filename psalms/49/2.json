@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Maqalka tan, shacabka oo dhan; dhegeysta dhammaan kuwa ku nool ⟨chelled (nolosha gaaban ee dunida)⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqalka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "dhegeysta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa ku nool"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "chelled (nolosha gaaban ee dunida)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:19.239718753Z",
+  "model": "glm-5.3"
+}

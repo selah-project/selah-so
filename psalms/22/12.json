@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ha iga fogowmayo, waayo, dhibaatadu dhow bay tahay; waayo, wax gargaara ah ma jiro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ka fogowmayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhibaatadu"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dhow bay tahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "wax gargaara ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:47.744736453Z",
+  "model": "glm-5.3"
+}

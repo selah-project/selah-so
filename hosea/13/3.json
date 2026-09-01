@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Sidaas darteed way noqon doonaan sida daruuraha waabarida iyo sida roobabkii waabarid dhaqso dhaqso u dhaca, sida booska dabayshu ka riixdo barniiskii, iyo sida qiiqa shabakadda ka soo baxa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "way noqon doonaan"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "sida daruuraha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "waabarida"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "iyo sida roobabkii"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "waabarid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dhaqso dhaqso u dhaca"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sida booska"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "dabayshu ka riixdo"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "barniiskii"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "iyo sida qiiqa"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "shabakadda ka soo baxa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:49.185643111Z",
+  "model": "glm-5.3"
+}

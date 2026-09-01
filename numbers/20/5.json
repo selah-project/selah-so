@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo maxaad noo keenseen inaan ka soo baxno Mitsrayim si aad noogu keento ⟨את⟩ inaan u yaraanno meeshan xun? Ma aha meesha abuur-Beeraha, ama Tiinta, ama Canabka, ama Rumaanka; biyana ma jiraan la cabo.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Oo maxaad"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "noo keenseen inaan ka soo baxno"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "si aad noogu keento"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "inaan u yaraanno (iyaga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inaan u yaraanno"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ma aha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abuur-Beeraha"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "Tiinta"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "Canabka"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "Rumaanka"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "biyana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiraan"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "la cabo"
+    }
+  ],
+  "timestamp": "2026-09-01T08:40:56.156177620Z",
+  "model": "glm-5.3"
+}

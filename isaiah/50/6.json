@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Dhabartayda waxaan u siyay kuwa garaaca, lataanyadaydana kuwa gooya; wajigayna kuma qarin ceeb iyo tufid.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "dhabartayda"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan u siyay"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kuwa garaaca"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "lataanyadaydana"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kuwa gooya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "qarin"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "iyo tufid"
+    }
+  ],
+  "timestamp": "2026-09-01T03:56:27.747418374Z",
+  "model": "glm-5.3"
+}

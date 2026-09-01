@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Kuma noqdo gurigiisa weligeed, oo meeshiisana ma aqooneto weligeed.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "noqdo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ma"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "aqooneto"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "meeshiisana"
+    }
+  ],
+  "timestamp": "2026-09-01T05:40:15.892776450Z",
+  "model": "glm-5.3"
+}

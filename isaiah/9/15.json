@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Kuwii beadbeenaya dadkan waxay lunsiiyeen, kuwii la beadbeenana waa la liqay.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "waxay ahaayeen"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "kuwii beadbeenaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "waxay lunsiiyeen"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "kuwii la beadbeenana"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "waa la liqay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:20.733413875Z",
+  "model": "glm-5.3"
+}

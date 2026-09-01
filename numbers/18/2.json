@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 18:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waxaad sidoo kale la ⟨את⟩ soo qaadtaa walaalahaaga, qabiilkii Lewi, qabiilkii aabahaa, inay kula ⟨את⟩ biraan oo kuu adeegaan; laakiin adiga iyo wiilashaada la ⟨את⟩ jira waxaad ka horreeddaan teendhada markhaatiga.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalahaaga qabiilkii Lewi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalahaaga"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabiilkii"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabiilkii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "la soo qaad"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la"
+    },
+    {
+      "surface": "וילוו",
+      "gloss": "inay kula biraan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וישרתוך",
+      "gloss": "oo kuu adeegaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "laakiin adiga"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "iyo wiilashaada"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la jira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka horreeddaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teendhada"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "markhaatiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:50:36.676319779Z",
+  "model": "glm-5.3"
+}

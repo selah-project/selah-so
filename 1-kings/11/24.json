@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuxuuna ururiyay rag isaga soo waday, wuxuuna noqday hogamiyaha koox (dagaal-yahanno ah) markii Dawid la dilay ⟨את⟩; way tagteen Dimashq, wayna ku noolaayeen, wayna xukumeen Dimashq.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Wuxuuna ururiyay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga soo waday"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "rag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna noqday"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hogamiyaha"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "koox dagaal-yahanno ah"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "markii... la dilay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(way - kuwa la dilay)"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "way tagteen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimashq"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wayna ku noolaayeen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wayna xukumeen"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Dimashq"
+    }
+  ],
+  "timestamp": "2026-09-01T03:16:57.728125080Z",
+  "model": "glm-5.3"
+}

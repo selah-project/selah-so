@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Oo kuwa ku ololi Chormah, iyo kuwa ku ololi Bor-Ashan, iyo kuwa ku ololi Atach,",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ku ololi Chormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ku ololi Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ku ololi Atach"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:47.178222999Z",
+  "model": "glm-5.3"
+}

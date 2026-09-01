@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Xuso wakhtiyadii hore, fahansho sanadaha jiil iyo jiil; weydii aabbahaaga, wuuna kuu sheegi, odayaashaagana wayna kuu dhahaan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xuso"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wakhtiyadii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hore (tan iyo tan)"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "fahansho"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sanadaha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo jiil"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "weydii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabbahaaga"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "wuuna kuu sheegi"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "odayaashaaga"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wayna dhahaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:15:40.249470954Z",
+  "model": "glm-5.3"
+}

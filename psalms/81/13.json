@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Markaa waan teediyay ⟨wuu⟩ si ay u gaddoonsadaan shucuur-cadaadiska qalbigooda, way ku soconaatay talooyinkooda.",
+  "tokens": [
+    {
+      "surface": "וָאֲשַׁלְּחֵהוּ",
+      "gloss": "waan teediyay"
+    },
+    {
+      "surface": "בִּשְׁרִירוּת",
+      "gloss": "shucuur-cadaadis (addeys)"
+    },
+    {
+      "surface": "לִבָּם",
+      "gloss": "qalbigooda"
+    },
+    {
+      "surface": "יֵלְכוּ",
+      "gloss": "way ku soconayaan"
+    },
+    {
+      "surface": "בְּמוֹעֲצוֹתֵיהֶם",
+      "gloss": "talooyinkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:29.061200873Z",
+  "model": "glm-5.3"
+}

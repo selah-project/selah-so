@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Hal gacmo qaalis oo nasiyo ah waa ka khayr badan laba gacmoon oo hawlgab iyo dhibaato ruux ah.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "waa ka khayr badan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "buuxa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "gacmo qaalis"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nasiyo"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "in laba"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "gacmoon buuxa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "hawlgab"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo dhibaato"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:23.748039405Z",
+  "model": "glm-5.3"
+}

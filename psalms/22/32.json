@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxay iman doonaan oo waxay sheegi doonaan xaqnimadiisa qowm la dhashay, waayo wuu sameeyay.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "way iman doonaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "way sheegi doonaan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "xaqnimadiisa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qowmka"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "la dhashay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuu sameeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:26.313476843Z",
+  "model": "glm-5.3"
+}

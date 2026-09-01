@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Efrayim ma saarin ⟨את⟩ Kanaaniga degan Gézer, oo Kanaanigii wuxuu degay dhexdiisa, Gézer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "saarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaniga degan Gézer"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "degan"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gézer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wuxuu degay"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanigii"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gézer"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:55.986282061Z",
+  "model": "glm-5.3"
+}

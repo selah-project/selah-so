@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Markaasaa addoonada boqorka Chizkiyahu waxay yimaadeen xagga Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "markaasaa waxay yimaadeen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoonada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:28.999026361Z",
+  "model": "glm-5.3"
+}

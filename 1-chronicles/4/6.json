@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Naarah waxay u dhashay ⟨את⟩ Axuzzam iyo ⟨את⟩ Xefer iyo ⟨את⟩ Teemani iyo ⟨את⟩ Axashtaari; kuwan waa curyada Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "waxay u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Axuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Xefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Teemani"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Teemani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axashtaari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Axashtaari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curyada"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:01.506012596Z",
+  "model": "glm-5.3"
+}

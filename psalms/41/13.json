@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Aniguna xaq-nimoadayda waad i taageysay, waadna i dhigtay hortaada ilaa iyo weligay.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aniguna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "xaq-nimoadayda"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "waad taageysay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "waadna i dhigtay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ilaa iyo weligay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:41.186037350Z",
+  "model": "glm-5.3"
+}

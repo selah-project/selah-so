@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Elohim, ha illoobin ⟨adiga⟩, ha ammaan qarin iyo ha degaan, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "illoobin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ha ammaan qarin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ha"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ha degaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:32.182250324Z",
+  "model": "glm-5.3"
+}

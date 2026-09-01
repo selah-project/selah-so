@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wada iyaga i waxyeeleyaan — dhammaan kuwa i neceb —; i doorka waxay qorsheeyeen il-xun aniga.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Wada iyaga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "waxyeeleyaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kuwa i neceb"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i doorka"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "waxay qorsheeyeen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il-xun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.106622516Z",
+  "model": "glm-5.3"
+}

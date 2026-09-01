@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Yahweh Elohimkaagu wuxuu dhigi doonaa ⟨את⟩ habaaradan oo dhan cadowyaashaaga korkooda iyo kuwa ku neceb yihiin, kuwa ku soo raacay.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "wuxuu dhigi doonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habaaradan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "habaaradan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan (halkan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowyaashaaga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo korkooda"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "kuwa ku neceb yihiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ku soo raacay"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:31.416343730Z",
+  "model": "glm-5.3"
+}

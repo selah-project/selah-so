@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ka dhammaan barayaashay wax badan baan ka garanayaa, waayo markhaatiyaada waa feker igoo ah.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ka dhammaan"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "barayaashay"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "wax badan baan ka garanayaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "markhaatiyaada"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "feker"
+    },
+    {
+      "surface": "לי",
+      "gloss": "igoo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:53.501834496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Noqda waanida aniga; bal eega, ruuxdayda baan idiinku daadinayaa, ereyadaydana waan idiin sheegayaa ⟨את⟩ adiga.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Noqda"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "waanida aniga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eega"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "baan idiinku daadinayaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxdayda"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "waan sheegayaa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyadaydana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T08:32:03.767748646Z",
+  "model": "glm-5.3"
+}

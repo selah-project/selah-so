@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "El-ay, El-ay, maxaad ii dayaysay? Waxaad ka fogtahay badbaadaydayda, ereyada qayladeyda.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-ay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ii dayaysay"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "waxaad ka fogtahay"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "badbaadaydayda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "qayladeyda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:24.967445517Z",
+  "model": "glm-5.3"
+}

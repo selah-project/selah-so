@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "iyo dhaxeel maatsot ah: rooto budad fiican laga dheelay saliid, iyo roota maatsot yar yar la shubay saliid, iyo minxat-tooda iyo naskaheeda.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "iyo dhaxeel"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maatsot ah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "budada fiican"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "rooto"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "laga dheelay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliid"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "iyo roota yar yar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maatsot"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "la shubay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "saliid"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "iyo minxat-tooda"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "iyo naskaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:43:25.486067934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Haddii adigu cabsi tahay in aad hoos u degto, adiga iyo Purah oo addoonkaaga ah ayaad hoos u degi doontaan ⟨el⟩ kooxta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "cabsi tahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "in aad hoos u degto"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hoos u deg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "iyo Purah"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "addoonkaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kooxta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:03:53.640454742Z",
+  "model": "glm-5.3"
+}

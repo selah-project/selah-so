@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahwehna wuxuu ka fogeeyaa ⟨את⟩ dadka, waxaana laga tegin badan ⟨dhexda⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Yahwehna wuxuu ka fogeeyaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "waxaana badan"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "waxa laga tegin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:14:38.806663193Z",
+  "model": "glm-5.3"
+}

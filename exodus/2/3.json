@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markay suurtogelin weyday in ay dheeraad u qariso, waxay u diyaarishay sanduuq daanyeer ah, waxayna ku dhugsay dhirki iyo zeef, waxayna ku riday ⟨את⟩ ilmuhu, waxayna dhigtay sufuulaha geeska wabiga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma-"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "suurtogelin weyday"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dheeraad"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "in ay qariso"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "waxay u diyaarishay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sanduuq"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "daanyeer"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "waxayna ku dhugsay"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "dhirki"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "zeef"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "waxayna ku riday"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmuhu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmuhu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "waxayna dhigtay"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "sufuulaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "geeska"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wabiga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:52.172935003Z",
+  "model": "glm-5.3"
+}

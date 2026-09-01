@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo waan idinku aruuri doonaa ⟨את⟩ idin, oo waan olol ku dul-marin doonaa olol cadhadayda, oo waad dhex qaadhmi doontaan dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "Waan idinku aruuri doonaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "waan olol ku dul-marin doonaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "korkiinna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olol"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "cadhadayda"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "waad dhex qaadhmi doontaan"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "dhexdeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:23:24.173484439Z",
+  "model": "glm-5.3"
+}

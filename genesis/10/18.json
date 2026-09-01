@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Iyo ⟨את⟩ Arwadigi, iyo ⟨את⟩ Tsemarigi, iyo ⟨את⟩ Chamatigi; ka dibna qabiilaha Kenaaniga waxay faaftaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Arwadigi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadigi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tsemarigi"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemarigi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Chamatigi"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatigi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ka dibna"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "faaftaan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qabiilaha"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaaniga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:30.109369720Z",
+  "model": "glm-5.3"
+}

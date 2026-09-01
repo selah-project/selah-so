@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Xoolahaadu way ku noolaayeen; Adigu, Elohim, wanaaggaaga ayaad ku diyaarisay dadka saboolsan.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Xoolahaadu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "way ku noolaayeen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku (gabeysi)"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ku diyaarisay"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "wanaaggaaga"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "dadka saboolsan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:14.987795494Z",
+  "model": "glm-5.3"
+}

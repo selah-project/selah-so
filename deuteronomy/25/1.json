@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Hadduu jiro muran u dhexeeya dad, oo ay soo galaan xukunka, oy xukumaan, waana oofin ⟨את⟩ kan xaqa ah, oo demin ⟨את⟩ kan dembiga ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hadduu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "muran"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dad"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "oo ay soo galaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "oy xukumaan"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "waana oofin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan xaqa ah"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "kan xaqa ah"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "oo demin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kan dembiga ah"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kan dembiga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:42.509684355Z",
+  "model": "glm-5.3"
+}

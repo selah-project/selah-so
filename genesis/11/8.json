@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sidaasuu Yahweh ku firiday ⟨את⟩ halkaas, oo wajiga dhulka oo dhan; wayna joojiyeen dhisidda magaalada.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Sidaasuu ku firiday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "halkaas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "oo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "wayna joojiyeen"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "dhisidda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:55.836132257Z",
+  "model": "glm-5.3"
+}

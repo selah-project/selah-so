@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Shalluuma wuxuu dhalay ⟨את⟩ Yeqamyah, Yeqamyahna wuxuu dhalay ⟨את⟩ Eliishaama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shalluuma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeqamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yeqamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "Yeqamyahna"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliishaama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliishaama"
+    }
+  ],
+  "timestamp": "2026-09-01T07:41:43.810009963Z",
+  "model": "glm-5.3"
+}

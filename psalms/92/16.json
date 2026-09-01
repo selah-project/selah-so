@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Si loo sheego in Yahweh oo toosan yahay, K intenselya ah iyo; shar ku ma jiro Isaga.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "si loo sheego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "oo toosan yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "K intenselya ah iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jiro Isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:50.936335392Z",
+  "model": "glm-5.3"
+}

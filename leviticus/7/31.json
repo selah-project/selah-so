@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Oo wadaahuna wuu gubi doonaa ⟨את⟩ baruurta altarka gaar ah, godhkuna wuxuu noqon doonaa kan Axraabiin iyo wiilashiisa.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "wuu gubi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "godhka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kan Axraabiin"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:27:30.886261631Z",
+  "model": "glm-5.3"
+}

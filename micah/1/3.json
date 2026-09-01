@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waa maxay sababta? Bal eeg, Yahweh wuxuu ka soo baxay meeshiisa, wuxuuna soo degayaa, wuxuuna wax tala saarayaa buuraha sarreeya ee dhulka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waa maxay sababta?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bal eeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wuxuu ka soo baxay"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "meeshiisa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wuxuuna soo degayaa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "wuxuuna wax tala saarayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "במותי",
+      "gloss": "buuraha sarreeya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:51:41.197021184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "«Tirada wiilasha Qehat ka mid ah wiilasha Lewi, qoysaskooda iyo guryo awowayaashooda ⟨la tiri⟩:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "tir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ras (raska wiilasha Qehat)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "raska"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qoysaskooda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guryo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "awowayaashooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:41:37.381265529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waannay idiin horu diray ⟨את⟩ shaanqaraha, wuuna idinka eryay labada boqor ee Emoriyi — ma seydaada, may qaansadaadana.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "waannay diray"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "idiinku hor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaanqaraha"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "shaanqaraha"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wuuna eryay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "labada boqor"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "idiinka hor"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "seydaada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "qaansadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:25.784372190Z",
+  "model": "glm-5.3"
+}

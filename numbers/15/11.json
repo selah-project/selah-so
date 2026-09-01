@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Saasa ayaa loo sameeyaa lo' keli ah, ama wan keli ah, ama ido gees-aha ama geesaha ri'aha.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "saasa ayaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "loo sameeyaa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "wan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "keli ah"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ido"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "gees-aha"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "geesaha ri'aha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:58.008280631Z",
+  "model": "glm-5.3"
+}

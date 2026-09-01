@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waana soo diri doonaa ⟨את⟩ shinnida hortiiina, waxayna eryi doontaa ⟨את⟩ Xiwiyigii, ⟨את⟩ Kanaanigii iyo ⟨את⟩ Xittigii hortiiina.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Waana soo diri doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shinnida"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "shinnida"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortiiina"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "waxayna eryi doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xiwiyigii"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Xiwiyigii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanigii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanigii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Xittigii"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xittigii"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "hortiiina"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:34.908554378Z",
+  "model": "glm-5.3"
+}

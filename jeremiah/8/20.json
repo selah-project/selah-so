@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Bernaqa dhaafay, xaggii dhacay dhammaatay, annagana lama badbaadin.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "dhaafay"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "bernaqa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dhammaatay"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "xaggii"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "annagana"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "la badbaadin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:05:31.730266358Z",
+  "model": "glm-5.3"
+}

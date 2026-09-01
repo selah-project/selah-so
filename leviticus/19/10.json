@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Beerta canabkaagana ha ka buux-samayn, oo wixii canab ah ee beertaada ka dhacay ha qashandin; saboolka iyo sokeeyaha uga taga ⟨את⟩ — Anigu waxaan ahay Yahweh Elohihiin.",
+  "tokens": [
+    {
+      "surface": "וְכַרְמְךָ",
+      "gloss": "iyo beerta canabkaaga"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תְעוֹלֵל",
+      "gloss": "ka buux-samayn"
+    },
+    {
+      "surface": "וּפֶרֶט",
+      "gloss": "iyo wixii canab ah ee ka dhacay"
+    },
+    {
+      "surface": "כַּרְמְךָ",
+      "gloss": "beertaada"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תְלַקֵּט",
+      "gloss": "qashandin"
+    },
+    {
+      "surface": "לֶעָנִי",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "וְלַגֵּר",
+      "gloss": "iyo sokeeyaha"
+    },
+    {
+      "surface": "תַּעֲזֹב",
+      "gloss": "uga taga"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "wixii la tegey — saboolka iyo sokeeyaha"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "Anigu"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Elohihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:23.459582402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "wiilka Deker, Makatz iyo Shaalbim iyo Beyt-Semes, iyo Elon-Beyt-Chanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wiilka"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makatz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "iyo Shaalbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo Beyt-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semes"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "iyo Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:43.387379052Z",
+  "model": "glm-5.3"
+}

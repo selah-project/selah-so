@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Tiirarkoodu waxay ahaayeen ⟨awgiin⟩ laba-iyo-toban, iyo saldhigyadooda laba-iyo-toban, bir naxaas ah; filimaha tiirarka iyo dusha-mararkoodu waa lacag.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "tiirarkooda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "laba-iyo-toban"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "iyo saldhigyadooda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "laba-iyo-toban"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "naxaas"
+    },
+    {
+      "surface": "ושוי",
+      "gloss": "filimaha"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "iyo dusha-mararkooda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    }
+  ],
+  "timestamp": "2026-09-01T09:01:03.310318401Z",
+  "model": "glm-5.3"
+}

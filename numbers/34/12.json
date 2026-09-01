@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Markaasaa xuduuddu waxay ku degaysaa Yardan, oo bixitaankeedu yahay Badda Milixda; taas waa kan idiin noqonaya dhulka, xuduudihiisa ku wareegsan.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "waxay ku degaysaa"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "xuduuddu"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yardan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "waa"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "bixitaankeedu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Milixda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waa kan idiin noqonaya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "xuduudihiisa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku wareegsan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:58:25.563573246Z",
+  "model": "glm-5.3"
+}

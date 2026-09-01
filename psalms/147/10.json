@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Ma jecel yahay xoogga fardaha, ma raalli noqdo lugaha nin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "fardaha"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "jecel yahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "lugaha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "raalli noqdo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:09.535008382Z",
+  "model": "glm-5.3"
+}

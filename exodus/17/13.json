@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Yehooshuuca wuxuu tabbardaray ⟨את⟩ Camaleek iyo ⟨את⟩ qoloodiisa af gacunta seef.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "wuxuu tabbardaray"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camaleek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Camaleek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qoloodiisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoloodiisa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "af gacunta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:30.711152812Z",
+  "model": "glm-5.3"
+}

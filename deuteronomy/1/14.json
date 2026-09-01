@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Idinkuse waxaad ⟨את⟩ ii jawaabteen, waxaadna tidhiiseen: Wanaagsan yahay erayga aad ku hadashay in la sameeyo.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "waxaad jawaabteen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ii (aniga)"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "waxaadna tidhiiseen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Wanaagsan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "erayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ku hadashay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "in la sameeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:09.416173603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Yoonataanna wuxuu dhuftay ⟨את⟩ deggista Filistiintii ku nool-tahay Geeba, Filistiintii na maqleen; Shaa'uulna wuxuu cunug-shoonfur buu dhan dhulka ku dhawaajiyay isagoo leh: Ha maqleen Iberiyiintu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuxuu dhuftay"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yoonataanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deggista Filistiintii"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "deggista"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ku nool-tahay"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Geeba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "maqleen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintii"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'uulna"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "wuxuu dhuwaajiyay"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "cunug-shoonfur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ha maqleen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Iberiyiintu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:37.149016256Z",
+  "model": "glm-5.3"
+}

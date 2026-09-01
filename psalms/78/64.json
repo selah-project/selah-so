@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Wadaaddadiisu seefta waxay ku dhaceen, oo armalyadiisu ma ooyin.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "wadaaddadiisu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "seefta"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "waxay ku dhaceen"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "oo armalyadiisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ooyin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:13.688048610Z",
+  "model": "glm-5.3"
+}

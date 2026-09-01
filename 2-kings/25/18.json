@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Madaxa ciidanka gargaarkuna wuxuu qaatay ⟨את⟩ Serayah wadaadda madaxa ah, iyo ⟨את⟩ Tsefanyah wadaadda labaad, iyo ⟨את⟩ saddexda ilaaliyayaalood ee iridda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ciidanka gargaarka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "saddexda ilaaliyayaalood"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddexda"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ilaaliyayaalood"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "iridda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:37:18.968445263Z",
+  "model": "glm-5.3"
+}

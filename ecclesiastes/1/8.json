@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dhammaan hadalladu waa daal ⟨ay yihiin⟩; ninna ma karao inuu sheego; indhuhu ma helaan ⟩hufnaan⟨ aragga, dhegtuhuna ma buuxsanto maqalka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Dhammaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hadalladu"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "waa daal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "karao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "inuu sheego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "helaan hufnaan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indhuhu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aragga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waase ma"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "buuxsanto"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dhegtuhuna"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "maqalka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:58.736437452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxay qortay warqado magaca Axab, waxayna ku xirtay muhradiisa, waxayna u dirtay warqadaha odayaasha iyo xorriyiinta ee ku noolaa magaaladiisa, kuwa ⟨את⟩ Naboot la deggan.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "waxay qortay"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "warqado"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "waxayna ku xirtay"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "muhradiisa"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "waxayna u dirtay"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "warqadaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "odayaasha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "xorriyiinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "magaaladiisa"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kuwa la deggan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naboot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboot"
+    }
+  ],
+  "timestamp": "2026-09-01T03:22:21.240409611Z",
+  "model": "glm-5.3"
+}

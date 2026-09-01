@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddii ciidan i la xijiyo, wadnuhay ma cabsado; haddii dagaal ii kaco, taas ayaan ku kalsoonahay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haddii"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "i la xijiyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ciidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "cabsado"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnuhay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ii kaco"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "taas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ayaan"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ku kalsoonahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:13.349483627Z",
+  "model": "glm-5.3"
+}

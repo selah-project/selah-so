@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Dawid wuxuu u diray Yoab ⟨iyogu⟩: Ii dir ⟨את⟩ Uuriyah Xittiga. Oo Yoab wuxuu diray ⟨את⟩ Uuriyah xagga Dawid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu u diray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ii dir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xittiga"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T03:00:30.727466292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ereyga Yahweh oo uu u yimid Yow'eel ina Pethuuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "uu u yimid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yow'eel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Pethuuel"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:57.439325194Z",
+  "model": "glm-5.3"
+}

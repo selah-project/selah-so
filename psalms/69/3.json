@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Waan dhacay gudaha il dheer oo maalqac ah, meel taallonina ma jirto; waan galay barxamadii biyaha, oo socodkii biyuhu ii qaracay.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Waan dhacay"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "il dheer oo maalqac ah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "meel taallo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "waan galay"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "barxamadii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "oo socodkii"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ii qaracay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:56.705574407Z",
+  "model": "glm-5.3"
+}

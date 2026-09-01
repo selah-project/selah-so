@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Kuwa qalbiga ku qorsheeya sharka, maalintii dhan bay dagaallo ku kiciyaan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kuwa"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "qorsheeya"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qalbiga ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ku kiciyaan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dagaallo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:37.366345695Z",
+  "model": "glm-5.3"
+}

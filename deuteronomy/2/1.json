@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markaas waannu laabannoo waannu soconaan waana dhulka-liiba (bahal-liiba) ee waddada Badda Reedka, sida uu Yahweh ii hadlay; waannu wareeginnay ⟨את⟩ buurta Seir maalmo badan.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "waannu laabannay"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "waannu soconaan"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "waana dhulka-liiba (bahal-liiba)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "waddada"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Badda"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Reedka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "waannu wareeginnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buurta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:00:04.104779972Z",
+  "model": "glm-5.3"
+}

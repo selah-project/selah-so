@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Wuxuuna yidhi: Ma awoodi karo inaan la ⟨את⟩ ku noqdo ama la ⟨את⟩ ku galo, rootigana ma cuni, biyana ma cabbin la ⟨את⟩ adiga meeshan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "awoodi karo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "inaan ku noqdo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩ (ku)"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ama la ku galo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ la (ku)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cuni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "cabbin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "la ⟨את⟩ (adiga)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "meeshan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(this-kan)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:04.239210037Z",
+  "model": "glm-5.3"
+}

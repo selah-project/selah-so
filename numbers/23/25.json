@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Balak wuxuu yidhi Bilam: ha naqdin labadan midna — ha naqdin, ha barakinna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "labadan midna"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ha naqdin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "naqdin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ha barakinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "barakinna"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:01.432743951Z",
+  "model": "glm-5.3"
+}

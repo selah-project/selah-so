@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Elqana ina kiis, iyo Ebyasaf ina kiis, iyo Asir ina kiis.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "iyo Ebyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "iyo Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ina kiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:52.082361990Z",
+  "model": "glm-5.3"
+}

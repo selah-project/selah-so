@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxaad dhigtaa ⟨את⟩ shameda — saliidda subkista quduuska ah, ur ka mid ah isku-darka, shuqulkii ur-sameeyaha; saliidda subkista quduuska ah bay noqonaysaa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waxaad dhigtaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "shameda"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "shameda"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "subkista"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "ka mid ah isku-darka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ur-sameeyaha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "subkista"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bay noqonaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:06.759305177Z",
+  "model": "glm-5.3"
+}

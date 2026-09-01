@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "waayo, ⟨את⟩ meelaha allabbarigooda waad dumin doontaan, iyo ⟨את⟩ tiirarkooda (sanamyada) waad jajabin doontaan, iyo ⟨את⟩ shiinaha Ashearaha waad goyn doontaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meelaha allabbarigooda"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "meelaha allabbarigooda"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "waad dumin doontaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tiirarkooda (sanamyada)"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiirarkooda (sanamyada)"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "waad jajabin doontaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "shiinaha Ashearaha"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "shiinaha Ashearaha"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "waad goyn doontaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:42.239167216Z",
+  "model": "glm-5.3"
+}

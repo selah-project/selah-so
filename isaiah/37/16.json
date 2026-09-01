@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Yahweh Sabao'oot, Eloah Israa'iil, Kan fadhiya kerubiimka, adigaa ⟨is⟩ ah Elohim keliya, dhammaan boqortooyada dhulka; adigaad sameysay ⟨את⟩ samada iyo ⟨את⟩ dhulka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabao'oot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fadhiya"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubiimka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ ah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigaad"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sameysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:49:15.937877077Z",
+  "model": "glm-5.3"
+}

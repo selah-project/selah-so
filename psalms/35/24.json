@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "I xukun sida xaqnimadaada, Yahweh Elohay, ha ugu farxin aniga",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "i xukun"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "sida xaqnimadaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ugu farxin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:59.197645111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waqtiga kasta dharkaaga ha ahaadaan cad, oo saliidda madaxaagana ha la'aan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Waqtiga kasta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha ahaadaan"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "dharkaaga"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "cad"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "oo saliidda"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "madaxaaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "la'aan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:00:35.788899294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Farcoonse ma dhageysan doono idinkoo dhan, aniguna waxaan gacantayda ku ridi doonaa ⟨את⟩ Mitsrayim, waxaana soo saari doonaa ⟨את⟩ ciidammadayda iyo ⟨את⟩ shacabkayga wiilasha Israa'iil dhulkii Mitsrayim, xukunno weyn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageysan doono"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "idinkoo dhan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoonse"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "waxaan ku ridi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "waxaana soo saari doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciidammadayda"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ciidammadayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabkayga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "shacabkayga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "xukunno"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:19.218975757Z",
+  "model": "glm-5.3"
+}

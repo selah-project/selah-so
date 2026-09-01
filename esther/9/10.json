@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Tobanka wiil ee Haamaan ina Hamedataa, cadowga Yuhuudda, waxay dileen, laakiin wax la-saaho ku dhufan ⟨את⟩ gacmooda ma ay dirin.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "Tobanka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedataa"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yuhuudda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "waxay dileen"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "laakiin wax la-saaho ku dhufan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ay"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dirin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmooda"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "gacmooda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:16.211418401Z",
+  "model": "glm-5.3"
+}

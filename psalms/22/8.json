@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Kuwa ii arkaba oo dhan way ii qoslayaan, iyagoo afka furaya ⟨makes⟩ dhegta, madaxana wuu wada dhaqaaqdaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Kuwa ii arkaba"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "way ii qoslayaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "afka furaya"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "dhegta"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "wuu wada dhaqaaqdaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxana"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:21.815693369Z",
+  "model": "glm-5.3"
+}

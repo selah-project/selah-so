@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 140,
+  "translation": "Ololo shidhan ha ku dhoco; naar ha ku tuuro; godaha qoto dheer — weligeed ma soo kacaan.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "ha ku dhoco"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ololo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "shidhan"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ha ku tuuro"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "godaha qoto dheer"
+    },
+    {
+      "surface": "בל",
+      "gloss": "weligeed ma"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "soo kacaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:56.706733695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo wuxuu tartiibay ⟨את⟩ wiilasha madaxda gobolada, waxayna ahaayeen laba boqol iyo labo-iyo-sodon; kaddiboodna wuxuu tartiibay ⟨את⟩ dadka oo dhan, wiilasha Israa'iil oo dhan, toddoba kun.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wuxuu tartiibay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha madaxda gobolada"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "gobolada"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "waxayna ahaayeen"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "laba boqol"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iyo sodon"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "kaddiboodna"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wuxuu tartiibay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-09-01T03:22:08.866687832Z",
+  "model": "glm-5.3"
+}

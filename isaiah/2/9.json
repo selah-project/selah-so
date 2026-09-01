@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Aadamigu wuu dhul-baxay, oo ninna wuu hoos-u-dhigmay ⟨isaga⟩; ee ha dhaafin ⟨waxaas⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "wuu dhul-baxay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamigu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "wuu hoos-u-dhigmay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ee ha (dhaafin)"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ha dhaafin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨waxaas⟩ (iyaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:35:36.180619928Z",
+  "model": "glm-5.3"
+}

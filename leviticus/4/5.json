@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu qaadan doonaa kohniigii la subkay (Masiixiga) qaar ka mid ah dhiigga dhibicadda, wuxuuna keeni doonaa ⟨את⟩ uu guriga kulanka ah.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohnigii"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "la subkay (Masiixiga)"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qaar ka mid ah dhiigga"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dhibicadda"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "wuxuuna keeni doonaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uu (dhiigga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:28:08.864923904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Waxay_sameeyeen saas_xiriiriyayaashu xigmadooda_sirta_ah, waxayna soo saareen ⟨את⟩ dheelaha dhulka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "xiriiriyayaasha"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "xigmadooda sirta ah"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "waxayna soo saareen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dheelaha"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dheelaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:43.701172649Z",
+  "model": "glm-5.3"
+}

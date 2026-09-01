@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Wadnigaygu waa diidan tahay, Elohim; waan heesayaa, waanana cayaabayaa, ammaantayduna ⟨waa⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "waa diidan tahay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Wadnigaygu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "waan heesayaa"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "waanana cayaabayaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ammaantayduna ⟨waa⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ammaantayduna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:41.470107020Z",
+  "model": "glm-5.3"
+}

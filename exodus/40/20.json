@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Wuxuuna qaatay, wuxuuna dhigay ⟨את⟩ markhaatiga sanduuqa gudihiisa, wuxuuna dhigay ⟨את⟩ qalmooyinka sanduuqa korkiisa, wuxuuna dhigay ⟨את⟩ Kapporetka (daboolka naxariista) sanduuqa korkiisa kor.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markhaatiga"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "markhaatiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gudihiisa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalmooyinka"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "qalmooyinka"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kapporetka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporetka (daboolka naxariista)"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkiisa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kor"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:52.557287527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 96,
+  "translation": "Beeraha ha u fooxaan, iyo waxa dhan oo ⟨dhex⟩ keli ah; markaas geedaha kaynta oo dhan ha qayliyaan farxad.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ha u fooxaan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dhexdiisa ah"
+    },
+    {
+      "surface": "אז",
+      "gloss": "markaas"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ha qayliyaan farxad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kaynta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:43.495382808Z",
+  "model": "glm-5.3"
+}

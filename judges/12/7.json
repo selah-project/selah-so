@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wuxuuna xukumay Yiftax ⟨את⟩ Israa'iil lix sano, wuxuuna dhintay Yiftax Gilcadii, wuxuuna lagu aasay magaalooyinka Gilcad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wuxuuna xukumay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sano"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuxuuna dhintay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftax"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gilcadii"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wuxuuna lagu aasay"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilcad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:35:47.474246351Z",
+  "model": "glm-5.3"
+}

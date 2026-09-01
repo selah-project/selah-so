@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Waxaan noqonnay ceeb ⟨eesha⟩ deriskeenna, qaalis iyo qosol kuwa na wareegsan.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Waxaan noqonnay"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ceeb ⟨eesha⟩"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "deriskeenna"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "qaalis"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "iyo qosol"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kuwa na wareegsan"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:13.158015330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Haddii aad aragto tuug, laftiisa baad la orodaysaa, oo la fasaxyada ninka xaaskiisa guursada qaybtaadu way tahay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "aad aragto"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tuug"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "baad la orodaysaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "laftiisa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "la"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "fasaxyada ninka xaaskiisa guursada"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "qaybtaadu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:45.465527115Z",
+  "model": "glm-5.3"
+}

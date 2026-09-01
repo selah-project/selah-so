@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxayna tiri Ester: Nin cadow ah iyo cadownaa — Haamaan xaaskan shar ah; Haamaanna wuu cabsaday horsha boqorka iyo boqoradda.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Waxayna tiri"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Nin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "cadow ah"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "iyo cadownaa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xaaskan shar ah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Haamaanna"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "wuu cabsaday"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "horsha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "iyo boqoradda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:55.575067547Z",
+  "model": "glm-5.3"
+}

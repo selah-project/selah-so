@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Maxaayeelay waad nafayday (siiftay) naftayda ⟨wer⟩ geerida, ⟨את⟩ indhahayga ⟨wer⟩ oohinta, ⟨את⟩ cagahayga ⟨wer⟩ tuugashada (dhiciska).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaayeelay"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "waad nafayday (siiftay)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftayda"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "⟨wer⟩ geerida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhahayga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "indhahayga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨wer⟩"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "oohinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cagahayga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "tuugashada (dhiciska)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:48.106138684Z",
+  "model": "glm-5.3"
+}

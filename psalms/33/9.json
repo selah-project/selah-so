@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Waayo, isaga ayuu yidhi, oo wuu noqday; isaga ayuu amray, oo wuu taagnaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "oo wuu noqday"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayuu amray"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "oo wuu taagnaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:44.799858240Z",
+  "model": "glm-5.3"
+}

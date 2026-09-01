@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna ku dul dheelay dahabka ⟨את⟩ saqaf- dhulka (fadhiga) guriga — gudaha iyo dibadda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fadhiga guriga"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "fadhiga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ku dul dheelay"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "gudaha"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "iyo dibadda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:48.605715515Z",
+  "model": "glm-5.3"
+}

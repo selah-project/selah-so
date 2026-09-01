@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 132,
+  "translation": "Haddii ilmodaagu ilaaliyaan ballankaygii iyo maragiyadaydii aan barraabo, ilmodoodu sidoo kale ilaa iyo weligood carshigaaga ha fadhiyaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ilaaliyaan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ilmodaagu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballankaygii"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "maragiyadaydii"
+    },
+    {
+      "surface": "זו",
+      "gloss": "taas"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "aan barraabo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilmodoodu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilaa iyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "fadhiyaan"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "carshi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:58.663977729Z",
+  "model": "glm-5.3"
+}

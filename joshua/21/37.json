@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemoth iyo ⟨את⟩ dhulkeeda daaqsadeed, iyo ⟨את⟩ Meephaath iyo ⟨את⟩ dhulkeeda daaqsadeed — magaalooyin afar.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Meephaath"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meephaath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dhulkeeda daaqsadeed"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "magaalooyin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:45.374529191Z",
+  "model": "glm-5.3"
+}

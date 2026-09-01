@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Hadday ku qaldamaan Sheool, gacantayda ayaa halkaa ka qaadanaysaa; hadday kor u kacaan ⟨samtida⟩, halkaanna ka soo dejin doonaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hadday"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "ku qaldamaan"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacantayda"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "ayaa ka qaadanaysaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hadday"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kor u kacaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samtida"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaanna"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "ka soo dejin doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:39.255186527Z",
+  "model": "glm-5.3"
+}

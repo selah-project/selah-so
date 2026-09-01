@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Yehooshuuca wuxuu qaatay dhulkaan oo dhan: buuraha iyo ⟨את⟩ Koonfurta oo dhan iyo ⟨את⟩ dhulka Goshen oo dhan iyo ⟨את⟩ deebada iyo ⟨את⟩ baadiyaha iyo ⟨את⟩ buurta Israel iyo deebadeede.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuu qaatay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkaan oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkaan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dhulkaan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Koonfurta oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Koonfurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka Goshen oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "deebada"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "deebada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "baadiyaha"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "baadiyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "buurta Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "deebadeede"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:58.821130455Z",
+  "model": "glm-5.3"
+}

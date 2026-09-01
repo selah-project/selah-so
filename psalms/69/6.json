@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Adiga, Elohim, waad garanaysaan doqonnimadayda; iyo dhaawacyadayaba adiga laga ma qarsoomayn.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad garanaysaan"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "doqonnimadayda"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "iyo dhaawacyadayaba"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga laga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "qarsoomayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:18.635317363Z",
+  "model": "glm-5.3"
+}

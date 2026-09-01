@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 102,
+  "translation": "Waayo, boorso sida rooti baan cunay, oo cabitaankaygii baan ooyin ku qasaday.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "boorso"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "sida rooti"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "baan cunay"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "cabitaankaygii"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ooyin"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "baan ku qasaday"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:50.740056324Z",
+  "model": "glm-5.3"
+}

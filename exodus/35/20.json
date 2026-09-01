@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Markaasaa waxaa baxay dhammaan hay'adda wiilasha Israa'iil jir hortii Muuse",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Markaasaa waxaa baxay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hay'adda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "jir hortii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:46.179840823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 7:22",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxaa madaxa tiirarka kor ka yaal samays ubax ah (nooca bushimaha), oo waa la dhammaystiray shuqulkii tiirarka.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "waxaana kor"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "samays"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ubax (bushimo)"
+    },
+    {
+      "surface": "ותתם",
+      "gloss": "waxaana la dhammaystiray"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:12:29.745310908Z",
+  "model": "glm-5.3"
+}

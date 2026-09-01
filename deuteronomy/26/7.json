@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaanu u qaylinay Yahweh, Elohimka aabayaashayo, Yahwehna wuxuu maqlay ⟨את⟩ codkeenna, wuxuuna arkay ⟨את⟩ dhibkeenna iyo ⟨את⟩ daalkeenna iyo ⟨את⟩ culaabkeenna.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Waxaanu u qaylinay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aabayaashayo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wuxuuna maqlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "codkeenna"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "codkeenna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wuxuuna arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhibkeenna"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "dhibkeenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "daalkeenna"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "daalkeenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "culaabkeenna"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "culaabkeenna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:18.201165186Z",
+  "model": "glm-5.3"
+}

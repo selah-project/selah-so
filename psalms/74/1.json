@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 74,
+  "translation": "Mashkiil (sheeko barays) laga soo saaray Asaf. Maxaad ugu talaxday weligaa, Elohim, maxaad neefkaada uu u giltamayaa adigoo reerkaaga daaqsada ah?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Mashkiil (sheeko barays)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "laga soo saaray Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maxaad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "uguu talaxday"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligaa"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "uu u giltamayaa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "neefkaada (qeybaddaada)"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "adigoo reerkaaga"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "daaqsadaada ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:32.176607174Z",
+  "model": "glm-5.3"
+}

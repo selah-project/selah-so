@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Bal eeyah, waan kicinayaa korkooda ⟨את⟩ Maday, kuwaas oo lacag ma tirin, iyo dahab ma doonayn.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bal eeyah"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "waan kicinayaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maday"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaas oo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "tirin"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "iyo dahab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "doonayn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:40:52.346642500Z",
+  "model": "glm-5.3"
+}

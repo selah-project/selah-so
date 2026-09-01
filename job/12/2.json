@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Runtii, idinku baad tihiin ⟨qoomka⟩, oo xigmadu way idinla dhimanaysaa.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Runtii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨qoomka⟩"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "idinla"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "way dhimanaysaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmadu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:39.070340290Z",
+  "model": "glm-5.3"
+}

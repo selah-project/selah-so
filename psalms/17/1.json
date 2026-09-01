@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Tukasho oo Daawud ah. Maqal ⟨saxda⟩, Yahweh; dhegeysi qaylkayga, dhegeysto tukashadayda — aan labaro khiyaano lahayn.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tukasho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Daawud ah"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨saxda⟩"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "dhegeysi"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "qaylkayga"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dhegeysto"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tukashadayda"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "labaro"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "khiyaano lahayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:13.519684725Z",
+  "model": "glm-5.3"
+}

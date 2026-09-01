@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Wuxuu qaadi doonaa ⟨את⟩ dhammaan baruurka ka mid ah, wuxuuna gubi doonaa meesha allabari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan (baruurka)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "baruurka"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "qaadi doonaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "gubi doonaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "meesha allabari"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:13.826962196Z",
+  "model": "glm-5.3"
+}

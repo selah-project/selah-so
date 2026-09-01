@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Bishii labaad, maalintii toddoba-iyo-labaneyaad ee bishii, dhulku wuu qalalley.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Bishii"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "maalintii toddoba-iyo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "labaneyaad"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bishii"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "wuu qalalley"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulku"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:20.645176999Z",
+  "model": "glm-5.3"
+}

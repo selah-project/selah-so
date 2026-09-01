@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Efronna wuxuu ka jawaabay ⟨את⟩ Ibraahim, isagoo ku leh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wuxuu ka jawaabay"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo ku leh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:36.512739239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Elohim wuxuu barakay ⟨את⟩ maalintii toddobaad, wuxuuna qaddimay ⟨את⟩ isaga, maadaama gudaheeda uu ka nasay shuqulkii oo dhan uu abuuray Elohim in la sameeyo.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wuxuu barakay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalintii toddobaad"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "toddobaad"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wuxuuna qaddimay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "maalintii toddobaad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gudaheeda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "uu ka nasay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "shuqulkii oo dhan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "shuqulkiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "uu abuuray"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "in la sameeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:27.308757442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo waxaad cuni doontaa oo waad hareyn doontaa, waadna mahadnaan doontaa Yahweh Elohimkaaga ⟨את⟩ dhulka wanaagsan ee kuu siyay.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "waxaad cuni doontaa"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "waad hareyn doontaa"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "waadna mahadnaan doontaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimkaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    }
+  ],
+  "timestamp": "2026-09-01T02:03:45.849321484Z",
+  "model": "glm-5.3"
+}

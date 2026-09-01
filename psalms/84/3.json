@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 84,
+  "translation": "Nafdaydu hawo u qabatay, oo xataa cunsatay, goobaha Yahweh; wadnaygii iyo jidhkeygii way u qaylimeen El nool.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "hawo u qabatay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "oo xataa"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "cunsatay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "goobaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnaygii"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "iyo jidhkeygii"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "way u qaylimeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.743902855Z",
+  "model": "glm-5.3"
+}

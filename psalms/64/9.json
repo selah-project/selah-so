@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 64,
+  "translation": "Waxay dhaafiyeen isaga inuu shilmo, carrabkoodu waa ka soo horjeedaa; waxaa madaxa ruxaa dhammaan kuwa arkaya ⟨iyaga⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "waxay dhaafiyeen isaga inuu shilmo"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ka soo horjeedaa (waa kuwa)"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "carrabkoodu"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "waxaa madaxa ruxaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuwa arkaya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨iyaga⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:55.913127613Z",
+  "model": "glm-5.3"
+}

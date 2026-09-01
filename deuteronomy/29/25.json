@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Way tegeen, waxay caabudeen Elohim kale, oo waxay u sujuudeen — ilaahyo aan ay garan, oo aan ⟨loo⟩ qaybin;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "way tegeen"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "waxay caabudeen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "waxay u sujuudeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ay garan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "qaybin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loo ⟨loo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:52.608302564Z",
+  "model": "glm-5.3"
+}

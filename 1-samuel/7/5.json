@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Wuxuu yidhi Shemu'el: Kulmiya ⟨את⟩ dhammaan Israa'iil Mitsba, aniguna waan idiin barynayo ilaa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Kulmiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitsba"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "waan barynayo"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:43:27.683838669Z",
+  "model": "glm-5.3"
+}

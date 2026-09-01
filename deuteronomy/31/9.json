@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Muuse wuxuu qoray ⟨את⟩ Sharcigan, wuuna siyay wadaaddada, wiilasha Liwi, ee sidta ⟨את⟩ sanduuqa ballanka Yahweh, iyo odayasha dhammaan Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "wuxuu qoray"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharcigan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Sharciga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wuuna siyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wadaaddada (u)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Liwi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ee sidta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "odayasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T07:01:13.175589929Z",
+  "model": "glm-5.3"
+}

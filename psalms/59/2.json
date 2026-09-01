@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "I gargaar cadowdayda, Elohimay, kuwa ii taagna ka kor ii dhig.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "I gargaar"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "cadowdayda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimay"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "kuwa ii taagna"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ka kor ii dhig"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:40.708620981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha falina xaq-darro xukunka; ha qaadin wajiga saboolka, oo ha weyneerin wajiga weynaa; caddaalad ku xukun la-tolkaaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha falina"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "falina"
+    },
+    {
+      "surface": "עול",
+      "gloss": "xaq-darro"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "qaadin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "דל",
+      "gloss": "saboolka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "weyneerin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weynaa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ku xukun"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "la-tolkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:15.133295484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "In barakeyn ayaan ku barakadayn, oo sii kordhin ayaan kordhin doonaa ⟨את⟩ abuurkaaga sida xiddigaha samada iyo sida cidida ee qolofa badda; oo abuurkaagu wuu dhaxli doonaa ⟨את⟩ albaabbada cadowdiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakeyn"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ayaan ku barakadayn"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "oo sii kordhin"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ayaan kordhin doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abuurkaaga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "abuurkaaga"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sida xiddigaha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "oo sida cidida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku sugan"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "qolofa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "oo wuu dhaxli doonaa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "abuurkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "albaabbada cadowdiisa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabbada"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cadowdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:39.221137584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Cirka biyo-baari ku qabsado (birqiso) oo hanuunib, waxaa diritaan geesahaaga, way lumiyaan.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "birqiso"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "birqinta"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "oo hanuunib"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "waxaa diritaan"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "geesahaaga"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "way lumiyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:49.112838196Z",
+  "model": "glm-5.3"
+}

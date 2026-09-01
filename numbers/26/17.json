@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "l'-Ar od {Arod}: qoyska Ha-Arodi; l'-Ar'eli {Areli}: qoyska Ha-Areli.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "l'-Arod"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Ha-Arodi"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "l'-Ar'eli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qoyska"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "Ha-Areli"
+    }
+  ],
+  "timestamp": "2026-09-01T01:53:44.702038498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Oo ciibinta ⟨את⟩ nafdooda waa qaali, wuxuuna weligiis istaagaa.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "waa qaali"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ciibinta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafdooda"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "wuxuuna istaagaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:09.018273492Z",
+  "model": "glm-5.3"
+}

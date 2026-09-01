@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Ilo biyo daqsii ah ay ka soo hooyeen ilmadayda, maadaama ay ilaalin waayeen Sharcigaaga.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "daqsii ah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ay ka soo hooyeen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ilmadayda"
+    },
+    {
+      "surface": "על",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waayeen"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ay ilaalin"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sharcigaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:38.543993971Z",
+  "model": "glm-5.3"
+}

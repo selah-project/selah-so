@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh wuu ka noqday arrintan; ma dhici doontaa, ayuu yidhi Yahweh.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "wuu ka noqday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "arrintan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dhici doontaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayuu yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:50:10.375460455Z",
+  "model": "glm-5.3"
+}

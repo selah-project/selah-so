@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Kheseddaydana ka ma tirtirayo ⟨isaga⟩, aanan beenin xaqnimadayda.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kheseddaydana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "tirtirayo"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ka isaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanan"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "beenin"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "xaqnimadayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:56.854520697Z",
+  "model": "glm-5.3"
+}

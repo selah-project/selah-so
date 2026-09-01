@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo isagu mar dambe ma uusan karin inuu ⟨את⟩ Abner ugu jawaabo eray, cabsidii uu ka qabay ⟨את⟩ isaga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Oo ma"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "karin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "inuu ugu jawaabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eray"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "cabsidii uu ka qabay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:29.185412571Z",
+  "model": "glm-5.3"
+}

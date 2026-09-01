@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Adiga, Yahweh, waan magan galay; ha i dhiirrigelin waligeen.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "waan magan galay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "i dhiirrigelin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "waligeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:04.413036873Z",
+  "model": "glm-5.3"
+}

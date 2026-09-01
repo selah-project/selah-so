@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Iyo ⟨את⟩ miiska iyo ⟨את⟩ dhamaan agabkiisa, iyo ⟨את⟩ nujuumta iyo ⟨את⟩ agabkeeda, iyo ⟨את⟩ altarka qoondaynta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "miiska"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "miiska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan agabkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "agabkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "nujuumta"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "nujuumta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "agabkeeda"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "agabkeeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "altarka qoondaynta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarka"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qoondaynta"
+    }
+  ],
+  "timestamp": "2026-09-01T01:19:40.717019155Z",
+  "model": "glm-5.3"
+}

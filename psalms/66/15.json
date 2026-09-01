@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Olol-dhafooyin duq-leh waan ku soo kordhin doonaa, iyo udi udiyeyl maqaar ah; waan diyaarin doonaa lo' iyo riyo waaweyn. Selaah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "Olol-dhafooyin"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "duq-leh"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "waan soo kordhin doonaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "udi udiyeyl"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "maqaar ah"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "waan diyaarin doonaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "riyo waaweyn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:30.206476868Z",
+  "model": "glm-5.3"
+}

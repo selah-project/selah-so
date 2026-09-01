@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Ajimacaas oo ku sugan Naf-taali; isaguna wuu guursaday ⟨את⟩ Basmat gabadha Sheelomaa.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ajimacaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "oo ku sugan Naf-taali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isaguna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "guursaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat gabadha Sheelomaa"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheelomaa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "wuxuu ka dhigay xaas"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:00.331676965Z",
+  "model": "glm-5.3"
+}

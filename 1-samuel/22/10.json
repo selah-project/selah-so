@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuu xigasho ka weydiiyay Yahweh, wuxuuna siiyay cunno, waxaana siiyay ⟨את⟩ seyfta Golyaath Filistiigii.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wuxuu xigasho ka weydiiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "cunno"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuuna siiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "waxaana siiyay ⟨את⟩",
+      "marks": "seyfta Golyaath"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seyfta"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyaath"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiigii"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wuxuu siiyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-09-01T02:51:15.837684394Z",
+  "model": "glm-5.3"
+}

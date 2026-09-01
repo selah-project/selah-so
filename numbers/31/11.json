@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Waxay qaadateen ⟨את⟩ ganiigsiga oo dhan iyo ⟨את⟩ qaniimada oo dhan — dad iyo xoolo labaad.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Waxay qaadateen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganiigsiga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ganiigsiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qaniimada oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "qaniimada"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "iyo xoolo labaad"
+    }
+  ],
+  "timestamp": "2026-09-01T06:59:47.153875313Z",
+  "model": "glm-5.3"
+}

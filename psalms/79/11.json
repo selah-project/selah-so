@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 79,
+  "translation": "Qayladda xabsigaaska hortaada ha u timaado; sida weynida gacantaada, ha uga hadho kuwa la xukumay dhimasho.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ha u timaado"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaada"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "qayladda"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "xabsigaaska"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "sida weynida"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "ha uga hadho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "la xukumay dhimasho"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:35.818740571Z",
+  "model": "glm-5.3"
+}

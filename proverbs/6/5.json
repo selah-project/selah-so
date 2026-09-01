@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Naftaada ka bax sida tsabiyada gacanta ⟨eddígga⟩, iyo sidii shimbiraha gacanta qabowsataha.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Naftaada ka bax"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "sida tsabiyyada"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "iyo sidii shimbiraha"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "qabowsataha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:48.197409783Z",
+  "model": "glm-5.3"
+}

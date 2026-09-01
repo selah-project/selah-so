@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo haddaad ku soconto jidadayda, adigoo ilaalinaya xeerarkayga iyo amarkayga, sida uu Daawid aabahaagu u socday, waan dheereyn doonaa ⟨את⟩ maalmahaaga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Oo haddaad"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ku soconto"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "jidadayda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "adigoo ilaalinaya"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "xeerarkayga"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "iyo amarkayga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "u socday"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaagu"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "waan dheereyn doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalmahaaga"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "maalmahaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:09:36.363539357Z",
+  "model": "glm-5.3"
+}

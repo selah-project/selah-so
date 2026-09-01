@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 81,
+  "translation": "Wuu ku siin lahaa miirarka qamadiga (khayrkiisa ugu wanaagsan), iyo dhagax kasoo baxa malab baan ku dhererin lahaa.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Wuu ku siin lahaa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "miirarka"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "qamadiga"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "dhagax kasoo baxa"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "malab"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "baan ku dhererin lahaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:03.414468165Z",
+  "model": "glm-5.3"
+}

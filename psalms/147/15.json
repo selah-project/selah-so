@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Kani waa kan diraya amarkiisa dhulka, eraygiisuna si dagdag ah ayuu u ordayaa.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Kani waa kan diraya"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "amarkiisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "si"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "dagdag ah"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ayuu u ordayaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "eraygiisuna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:23.180442586Z",
+  "model": "glm-5.3"
+}

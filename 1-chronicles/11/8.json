@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Wuuna dhisay magaalada wax ku xeeran, laga bilaabo Milloo ilaa wareeggaba; Yoo'aabna wuu sii-soo-nooshiyay ⟨את⟩ inta ka hadhay ee magaalada.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuuna dhisay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "wax ku xeeran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga bilaabo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "wareeggaba"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Yoo'aabna"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "wuu sii-soo-nooshiyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inta ka hadhay ee magaalada"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "inta ka hadhay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    }
+  ],
+  "timestamp": "2026-09-01T06:25:40.411105349Z",
+  "model": "glm-5.3"
+}

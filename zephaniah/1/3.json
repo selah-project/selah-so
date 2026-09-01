@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Waxaan baabbi'in doonaa Aadam iyo xayawaanka; waxaan baabbi'in doonaa shimbiraha samada iyo kalluunada badda, iyo (cirdhiyaha) ⟨את⟩ sharka; waxaan goyn doonaa ⟨את⟩ aadanaha Wajiga dhulka ka mid ah, sheegaysa Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "waxaan baabbi'in doonaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "iyo xayawaanka"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "waxaan baabbi'in doonaa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "iyo kalluunada"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "iyo cirdhiyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sharka"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "waxaan goyn doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadanaha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Wajiga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sheegaysa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:51.085365221Z",
+  "model": "glm-5.3"
+}

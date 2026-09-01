@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Oo wadaaddaha daahirayna wuu taagi doonaa ⟨את⟩ ninka la daahirinayo iyo ⟨את⟩ waxaas oo dhan Yahweh hortiisa, iridda Buurta (Tentada) Kulanka ag.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "wuu taagi doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "daahiraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninka la daahirinayo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "la daahirinayo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "waxaas oo dhan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tentada"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kulanka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:25.805552008Z",
+  "model": "glm-5.3"
+}

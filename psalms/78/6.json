@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Si ay u ogaadaan durriyada dambeeyay, carruurta dhalatay, oo ay kacaan, uguna sheegaan carruurtooda.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "si ay u"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ogaadaan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "durriyada"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "dambeeyay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "dhalatay"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ay kacaan"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "uguna sheegaan"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "carruurtooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:45.264071348Z",
+  "model": "glm-5.3"
+}

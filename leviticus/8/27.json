@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuuna dhigay ⟨את⟩ waxa oo dhan gacmihiisa Axroon iyo gacmihiisa wiilashiisa ku dhex, wuxuuna dhaqaajiyay ⟨את⟩ kuwa dhaqaaq (tenufa) ah horta Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa oo dhan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "waxa oo dhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dhex"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axroon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku dhex"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "wuxuuna dhaqaajiyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhaqaaqa (tenufa)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dhaqaaq (tenufa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:30:45.295457448Z",
+  "model": "glm-5.3"
+}

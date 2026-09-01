@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Muuqaalkoodu waa sida libaax oo gaajaysan inuu qajiyo, iyo sida shabeel-dhalinyaro ah oo meel qarsoon fadhiya.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "muuqaalkoodu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sida libaax"
+    },
+    {
+      "surface": "יככסוף",
+      "gloss": "oo gaajaysan"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "inuu qajiyo"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "iyo sida shabeel-dhalinyaro"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fadhiya"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "meel qarsoon"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:26.040528024Z",
+  "model": "glm-5.3"
+}

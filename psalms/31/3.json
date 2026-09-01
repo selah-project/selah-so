@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Laqaadi dhegeyshaagii iiga geey degdeg ii badbaadi noqo ii geeye dhagax adag qalab taageero guri qalcado ah inaad ii badbaadinayso",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "iiga geey dhegeyshaaga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegeyshaaga"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "degdeg"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ii badbaadi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "noqo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii geeye"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dhagax adag"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalab taageero"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guri"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "qalcado ah"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "inii badbaadinayso"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:57.486255464Z",
+  "model": "glm-5.3"
+}

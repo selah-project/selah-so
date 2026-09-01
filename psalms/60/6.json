@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 60,
+  "translation": "Waxaad siisay kuwa kaa cabsida calan kor loo qaadayo, xagta runta. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "waxaad siisay"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kuwa kaa cabsida"
+    },
+    {
+      "surface": "נס",
+      "gloss": "calan"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "kor loo qaadayo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "xagta"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "runta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:20.509110923Z",
+  "model": "glm-5.3"
+}

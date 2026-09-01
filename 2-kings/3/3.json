@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Keliya dembiyadii Yarobam, wiilkii Nebat, uu ku dhaawacay ⟨את⟩ Israa'iil, wuu ku xirnaa, uma cararin waxba.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "dembiyadii"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiilkii"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ku dhaawacay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "wuu ku xirnaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "סר",
+      "gloss": "cararin"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "waxba"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:11.418497373Z",
+  "model": "glm-5.3"
+}

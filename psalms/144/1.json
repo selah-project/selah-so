@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 144,
+  "translation": "Wuxuu Doray Dawiid. la ammaanay Yahweh, Dhagaxgayga, kan ii baraya gacmahayga dagaal, farahayga col-dagaal.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wuxuu Doray Dawiid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "la ammaanay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Dhagaxgayga"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "kan ii baraya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gacmahayga"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "dagaal"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "farahayga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "col-dagaal"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:00.616799349Z",
+  "model": "glm-5.3"
+}

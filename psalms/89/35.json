@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Ballan-qaadkayga ma najaasiyeyno, waxa afkayga ka baxaba ma beddelo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "najaasiyeyno"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ballan-qaadkayga"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "waxa ka baxa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "afkayga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "beddelo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:56.854636573Z",
+  "model": "glm-5.3"
+}

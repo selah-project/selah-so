@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Madaxooda carrab ma samaynayaan, oo geesaha garkoodana ma jarayaan, oo jirkoodana jar jarid ma gaynayaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "carrab ma samaynayaan"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "carrab"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "madaxooda"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "oo geesaha"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "garkooda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "jarayaan"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "oo jirkooda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "gaynayaan"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "jar jarid"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:24.228751927Z",
+  "model": "glm-5.3"
+}

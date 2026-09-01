@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Kaléeb wuxuu aaminyin ⟨את⟩ dadka watay Muuse, wuxuuna yidhi: Aanno koren, waanno dhaxlaynaynee ⟨את⟩, waayo, karti baan nahay.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "wuxuu aaminyin"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaléeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "watay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Aanno koren"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "koren"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "waanno dhaxlaynaynee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "(ay) — waxa la dhaxlayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "karti"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(ay)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:58:22.230031746Z",
+  "model": "glm-5.3"
+}

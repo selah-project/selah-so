@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Oo waxaa Aharon loo dhalay ⟨את⟩ Nadab iyo ⟨את⟩ Abiyxu, ⟨את⟩ Elcazar iyo ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Oo waxaa loo dhalay"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Abiyxu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abiyxu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elcazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elcazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:09.366227428Z",
+  "model": "glm-5.3"
+}

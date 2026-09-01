@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Waxay eegayeen Isaga, oo way iftiimeen, oo wejiyadoodu ma naceen doonaan.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "waxay eegayeen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Isaga"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "oo way iftiimeen"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "oo wejiyadoodu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "naceen doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:07.882082478Z",
+  "model": "glm-5.3"
+}

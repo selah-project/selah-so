@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Markay Israai'il dhallin ahaa waan jeclahayay, oo Mitsrayim ka baa wiilkaygii u yeedhay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "markay"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dhallin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'il"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "waan jeclahayay"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "Mitsrayim ka"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "u yeedhay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilkaygii"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:16.898460941Z",
+  "model": "glm-5.3"
+}

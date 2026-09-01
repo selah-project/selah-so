@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Suriiddiisiina — magaceduna Rehuma — iyaduna waxay dhashay ⟨את⟩ Tebah iyo ⟨את⟩ Gaham iyo ⟨את⟩ Tahash iyo ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Suriiddiisiina"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "magaceduna"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Rehuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iyaduna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Tahash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:10.589843240Z",
+  "model": "glm-5.3"
+}

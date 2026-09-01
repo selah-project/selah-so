@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Waayo, marag kuma dhaafin waxaan idinku markhaatiyay aabayaashiin maalintaan idinka soo kaxaystay ⟨את⟩ dhulka Mitsrayim ilaa maalmahan — waqtigii hore ayaan kicinayaa waxaana markhaatiyinayaa oo aan leh: Maqla codkayga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "העד",
+      "gloss": "markhaati ka dhaaf"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "waan markhaatiyay"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "aabayaashiin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "maalintaan"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "aan idinka soo kaxaystay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "idinka (aabayaashiin)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalmahan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "waqtigii hore ayaan kicinayaa"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "waxaana markhaatiyinayaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo aan leh"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqla"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "codkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:18:29.222446355Z",
+  "model": "glm-5.3"
+}

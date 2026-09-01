@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wuxuuna Abraham qaatay ⟨את⟩ alwaaxada allabbarida, wuxuuna saaray Isxaaq wiilkiisa; wuxuuna gacantiisa ku qaatay ⟨את⟩ dabka iyo ⟨את⟩ mindida, waxayna socdaalaba labaduba wadnaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alwaaxada allabbarida"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "alwaaxada"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabbarida"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wuxuuna saaray"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isxaaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaaday"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dabka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "mindida"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "mindida"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "waxayna socdaaleen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labaduba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wada"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:03.066989031Z",
+  "model": "glm-5.3"
+}

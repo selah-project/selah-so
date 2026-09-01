@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waayo geerida ma jirto xusuustaada; Sheool ⟨dhexdeeda⟩ yaa adiga mahdinaya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "במות",
+      "gloss": "geerida"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "xusuustaada"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheool ⟨dhexdeeda⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "mahdinaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:03.473530232Z",
+  "model": "glm-5.3"
+}

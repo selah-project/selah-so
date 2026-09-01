@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ha cidin afka lo'da hargaysigeeda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha cidin"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "afka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "hargaysigeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:11:42.510342037Z",
+  "model": "glm-5.3"
+}

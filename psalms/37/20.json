@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waxayse shar-yeelladu halligmaan, cadowyiinta Yahwehna sida baruurta wanawna way baabbi'iyeen, oo sidii qiiqa bay baabbi'een.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxayse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-yeelladu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "halligmaan"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "cadowyiinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "baruurta wanawna"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "way baabbi'iyeen"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sidii qiiqa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bay baabbi'een"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.823132088Z",
+  "model": "glm-5.3"
+}

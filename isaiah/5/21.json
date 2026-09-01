@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Hoween kuwa ku gar oollahay indhahooda gudaheed, oo hortooda kugar oollahay!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoween"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ku gar oollahay"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "indhahooda gudaheed"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "oo hortooda"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "kugar oollahay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:38.671628617Z",
+  "model": "glm-5.3"
+}

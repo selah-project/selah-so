@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 50,
+  "translation": "Maqal, qolkeygii, waan hadli; Israaiil, waan kuu markhaati-fadhiin; Elohim, Elohimkaaga baan ahay.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qolkeygii"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "waan hadli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "waan kuu markhaati-fadhiin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "baan ahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:54.731701463Z",
+  "model": "glm-5.3"
+}

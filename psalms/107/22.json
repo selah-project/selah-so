@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Oo ha galaan allabariyada mahad-naqa, ha sheegaanna camalladiisa farxad qabow.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "oo ha galaan allabari"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "allabariyada"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "mahad-naqa"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ha sheegaanna"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "camalladiisa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "farxad qabow"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:32.696856353Z",
+  "model": "glm-5.3"
+}

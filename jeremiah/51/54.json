@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Cod qaylo ah oo ka soo baxa Babiloon, iyo burbur weyn oo ka soo baxa dhulka Kashdiinta!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "cod"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "qaylo"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babiloon ka"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "iyo burbur"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka ka"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashdiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T04:23:22.957588182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Iyo xadhig hortii qolalka dheer mid, iyo dheer mid xadhig halkan; qolka lix dheer halkan, iyo lix dheer halkan.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "iyo xadhig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "qolalka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "iyo dheer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mid"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xadhig"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "qolka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "halkan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:40:21.921649988Z",
+  "model": "glm-5.3"
+}

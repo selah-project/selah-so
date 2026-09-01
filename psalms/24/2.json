@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waayo, isagoo ⟨dul saaran⟩ badda wuxuu aasaasay ⟨dheefkiisii⟩, oo webimyada dul saaran wuxuu sugayaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isagoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dul saaran"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "wuxuu aasaasay dheefkiisii"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "oo webimyada dul saaran"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "webimyada"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "wuxuu sugayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:34.721734909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 125,
+  "translation": "Maxaa yeelay, ulta sharku kuma nasta goorta sharaf leh ee kuwa suubban, si kuwa suubban ay gacmaha ugu dhiibin xume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxaa yeelay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nasta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ulta"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku ... dusha"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "goorta"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "kuwa suubban"
+    },
+    {
+      "surface": "למען",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "u dhiibin"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "dhiibin"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "kuwa suubban"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "xume"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:16.454625582Z",
+  "model": "glm-5.3"
+}

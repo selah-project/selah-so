@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oy faraxsamaan madaxda oo dhan iyo dadka oo dhan, oy keenaan oy tuuraan sanduuqa ilaa la dhammeeyo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "wayna faraxsamaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madaxda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wayna keenaan"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "wayna tuuraan"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "la dhammeeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T06:43:18.833626270Z",
+  "model": "glm-5.3"
+}

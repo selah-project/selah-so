@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Yahweh waa xoog ⟨dadka⟩, oo waa degti badbaado Masiixiisa isaga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨dadka⟩"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "oo waa degti"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "badbaado"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masiixiisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:28.376707636Z",
+  "model": "glm-5.3"
+}

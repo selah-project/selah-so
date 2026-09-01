@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo wuxuu ku odhan doonaa: Maqalka, Israa'iil, idinku maanta waxaad tihiin kuwo dagaalka u soo dhowowday cadowgiinna; qalbigiinna ha jabin, ha cabsadena, oo ha degdegina, hana ka gacan-gabina iyaga.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Oo wuxuu ku odhan doonaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Maqalka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "kuwo u soo dhowowday"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowgiinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "jabin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbigiinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "cabsadena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "degdegina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha-na"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "ka gacan-gabina"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.356310432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 108,
+  "translation": "Elohim wuxuu ka hadlay quddusnimadiisa; waan farxayaa, waan qaybin doonaa Shekhem, waan cabbiraa doonaa webiga Sukkoot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wuxuu ka hadlay"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "quddusnimadiisa"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "waan farxayaa"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "waan qaybin doonaa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkoot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "waan cabbiraa doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:44.930248090Z",
+  "model": "glm-5.3"
+}

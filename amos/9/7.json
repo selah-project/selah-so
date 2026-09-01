@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Ma idinku si la mid ah ilmaha Kushiyiin ma tihidiin ii-gu, ilmaha Israa'iil? awldigii Yahweh. Ma ⟨את⟩ Israa'iil miyaanan kor uixin ka dhulka Mitsrayim, iyo Falastiintiin Kaftor ka, iyo Aram Kiir ka?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma...ma"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "si la mid ah ilmaha"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kushiyiin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii-gu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "awldigii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "miyaan kor uixin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "iyo Falastiintiin"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "Kaftor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "iyo Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "Kiir"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:05.487984237Z",
+  "model": "glm-5.3"
+}

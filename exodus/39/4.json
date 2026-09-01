@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Garbo ayay u sameeyeen, kuwo la isku xiray, labada geesood ee ay ka mid yihiin ayaa isku xiran.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "Garbo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ayay sameeyeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "kuwo la isku xiray"
+    },
+    {
+      "surface": "על",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "geesood"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "isku xiran"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:03.702132153Z",
+  "model": "glm-5.3"
+}

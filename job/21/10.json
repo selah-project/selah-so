@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Dibigoodu wuu dhex-marayaa ⟨oo⟩ dhaawac ma noqodo, sacooduna wuu soo saaraa, gacmo-dhaqasho ma noqoto.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "dibigoodu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wuu dhex-marayaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "dhaawac ma noqodo"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "wuu soo saaraa"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "sacoodu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "gacmo-dhaqasho ma noqoto"
+    }
+  ],
+  "timestamp": "2026-09-01T05:44:55.913078057Z",
+  "model": "glm-5.3"
+}

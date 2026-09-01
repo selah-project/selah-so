@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuu amari doonaa wadaaddu, waxayna soo saari doonaan ⟨את⟩ dhagaxyada ay xuubu ku jirto, waxayna tuuri doonaan kuwaas bannaanka magaalada, meel najaas ah.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "wuxuu amari doonaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wadaaddu"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "waxayna soo saari doonaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxyada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ku jirto"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "xuubu"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "waxayna tuuri doonaan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (dhagaxyada)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meel"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "meel"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najaas ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:32.661110468Z",
+  "model": "glm-5.3"
+}

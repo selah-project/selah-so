@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuxuuna dhisay ⟨את⟩ dhismaha dheeraadka ee ku abuurmiya guriga oo dhan, dhererkiisana shan ammo; wuuna ku qabsaday guriga geedaha alwaanka.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wuxuuna dhisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhismaha dheeraadka"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "dhismaha dheeraadka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku abuurmiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dhererkiisa"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "wuuna ku qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guriga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "alwaanka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:30.458522323Z",
+  "model": "glm-5.3"
+}

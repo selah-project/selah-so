@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Ciiluna wuxuu ku yidhi: Ilaa intaaba ma sakhraanaysaan? Ka saar ⟨את⟩ khamrigaaga xaaggaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ciilu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "intaaba"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ma sakhraanaysaan"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "ka saar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khamrigaaga"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "khamrigaaga"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "xaaggaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:41:32.733559356Z",
+  "model": "glm-5.3"
+}

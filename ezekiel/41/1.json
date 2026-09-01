@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 41,
+  "translation": "Wuxuuna i geeyay heerkolka, wuuna cabbiray ⟨את⟩ tiirarka: lambad lix dheeradood ah oo ballac ah dhinac kasta, iyo lix dheeradood oo ballac ah dhinac kasta — ballaca khaymada.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "wuxuuna i geeyay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gal"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heerkolka"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "wuuna cabbiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheeradood"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ballac"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dhinac kasta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "iyo lix"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dheeradood"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ballac"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dhinac kasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ballaca"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymada"
+    }
+  ],
+  "timestamp": "2026-09-01T04:41:23.456107808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Maalinta koowaad waxay idiin noqon doontaa miqaar qodsan (shir wanaagsan); wax shuqoor ah oo dhan ha sameynina.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "miqaar (shir wanaagsan)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodsan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax...ah oo dhan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "shuqoor"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "(ah)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sameynina"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:10.210425500Z",
+  "model": "glm-5.3"
+}

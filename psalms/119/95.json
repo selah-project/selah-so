@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sharliyihi baa i sugaya si ii baabi'iyo, laakiin maraggyadaaga baan ka fekerayaa.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "sugaya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Sharliyihi"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "si ii baabi'iyo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "maraggyadaaga"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "baan ka fekerayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:28.463514939Z",
+  "model": "glm-5.3"
+}

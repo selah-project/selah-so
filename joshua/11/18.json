@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Maalmo dheer ayaa Yehooshuuca ku sameeyay dagaal ⟨את⟩ dhammaan boqorradaas.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "maalmo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ku sameeyay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan boqorradaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "boqorrada"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kaas oo dhan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaal"
+    }
+  ],
+  "timestamp": "2026-09-01T02:23:49.040975931Z",
+  "model": "glm-5.3"
+}

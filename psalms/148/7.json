@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 148,
+  "translation": "Ka dhulka Yahweh ammaana ⟨את⟩; bahalada badda iyo hoosyada oo dhan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ammaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "bahalada badda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "hoosyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:39.232597713Z",
+  "model": "glm-5.3"
+}

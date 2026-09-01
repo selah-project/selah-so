@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Waayo anigu waan tabar-darraysanahay oo baahanahay, oo wadnahaygii waxay dhaawac ku tahay gudahayda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "waan tabar-darraysanahay"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "oo baahanahay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "oo wadnahaygii"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "waxay dhaawac ku tahay"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "gudahayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:25.081718109Z",
+  "model": "glm-5.3"
+}

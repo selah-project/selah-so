@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "I dhegeyso aniga, Yaacquub, iyo Israa'iil kan aan u yeero: ani waa isaga; ani waa kan hore, aan ahaado kan dambe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "i dhegeyso"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaacquub"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "iyo Israa'iil"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "kan aan u yeero"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa isaga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "waa kan hore"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aan ahaado"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kan dambe"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:30.263425641Z",
+  "model": "glm-5.3"
+}

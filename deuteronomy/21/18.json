@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markuu nin leeyahay wiil adag oo caasi ah, aan dhageysan codka aabihis iyo codka hooyadiis, oo ay cadaabiyaan ⟨את⟩ga oo aanu iyaga dhageysanayn:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markuu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "leeyahay"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "adag"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "oo caasi ah"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhageysan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihis"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "iyo codka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "cadaabiyaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aanu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dhageysanayn"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:09:38.607995759Z",
+  "model": "glm-5.3"
+}

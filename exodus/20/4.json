@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Wax sanam lagu shaqeeyay iyo waliba taswiir kasta oo samada sare ku taal, ama dhulka hoostiisa, ama biyaha dhulka hoostiisa ku dhex yaal ha samaysan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "samaysan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wax"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanam lagu shaqeeyay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo waliba"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "taswiir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sare"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoostiisa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ama"
+    },
+    {
+      "surface": "במים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hoostiisa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:57.605179369Z",
+  "model": "glm-5.3"
+}

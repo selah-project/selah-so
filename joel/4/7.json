@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Bal eeg, anigoo kiciya ka meesha aad ⟨את⟩ iibisheen halkaas, oo waan celin doonaa abaal-marinnooda madaxiinna.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bal eeg, anigoo"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "kiciya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meesha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "iibisheen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(iyaga) — sharafta ay sheegayso waxaa la fiiro gaar ah: iyaga la iibiyay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "oo waan celin doonaa"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "abaal-marinnooda"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "madaxiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T04:47:50.818974945Z",
+  "model": "glm-5.3"
+}

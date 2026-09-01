@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Nasiyadda (shabbadda) dhulkana waxay idiin noqon doontaa cunto — adiga, addooystaada, gacmoonadaada, kirahaaga, iyo degganahaaga soke ee kula jooga.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "waxay idiin noqon doontaa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nasiyadda (shabbadda)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "cunto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "addooystaada"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "gacmoonadaada"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "kirahaaga"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "degganahaaga soke"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "kula jooga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-09-01T01:37:45.067744379Z",
+  "model": "glm-5.3"
+}

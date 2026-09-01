@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Halkaas waxay dhafeen doonyo; Livyatankaas ⟨adigoo⟩ samaysay inuu ku ciyaaro.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Halkaas"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "doonyo"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "waxay dhafeen"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatankaas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "samaysay"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "inuu ku ciyaaro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gudaheeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:19.015473383Z",
+  "model": "glm-5.3"
+}

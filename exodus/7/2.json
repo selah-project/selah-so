@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Adiga waxaad sheegaysaa ⟨את⟩ waxa kasta oo aan ku amro, oo Axaroon walaalkaagu wuxuu u sheegi Farcoon inuu sii daayo ⟨את⟩ wiilasha Israa'iil dhulkii hooyadiis.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Adiga"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "waxaad sheegaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waxa kasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "waxa kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "aan ku amro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "oo Axaroon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaagu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wuxuu u sheegi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "sii daayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilasha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dhulkii hooyadiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:07:19.218658441Z",
+  "model": "glm-5.3"
+}

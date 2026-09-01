@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo Aram kooxo duulla ah baa ka soo baxay, waxayna ka qafaasheen dhulka Israa'iil gabadh yar; waxayna noqotay ⟨adeegta⟩ hortiisa naagta Naamaan.",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "Oo Aram"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baa ka soo baxay"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "kooxo duulla ah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "waxayna qafaasheen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ka dhulka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "yar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waxayna noqotay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamaan"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:57.352394138Z",
+  "model": "glm-5.3"
+}

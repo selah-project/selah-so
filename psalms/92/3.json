@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Si aad u sheegto subaxii khesedkaaga, iyo runtaada habeenkii.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sheegto"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxii"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "runtaada"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "habeenkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.116738292Z",
+  "model": "glm-5.3"
+}

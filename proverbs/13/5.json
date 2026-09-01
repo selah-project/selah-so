@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Erey beenaan ah wuu neceb yahay kan ⟨gar-qaadsan⟩, kinniguna wuu qatar-geliyaa oo wuu ceeboobaa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "erey"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenaan ah"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "wuu neceb yahay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kan gar-qaadsan"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kinniguna"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "wuu qatar-geliyaa"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "oo wuu ceeboobaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:25.506060276Z",
+  "model": "glm-5.3"
+}

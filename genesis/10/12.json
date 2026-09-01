@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "iyo ⟨את⟩ Resen u dhexeeya Niinwe iyo Kelach — taasina waa magaalo weyn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "u dhexeeya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "taasina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T08:45:11.572185240Z",
+  "model": "glm-5.3"
+}

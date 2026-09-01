@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waxa fogtaa wixii jiray, oo qoto dheer, qoto dheer — yaa heli kara?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "waxa fogtaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wixii"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jiray"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "oo qoto dheer"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "qoto dheer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "heli kara"
+    }
+  ],
+  "timestamp": "2026-09-01T05:59:45.387223121Z",
+  "model": "glm-5.3"
+}

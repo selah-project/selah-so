@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Ka hor intay ogaan digiinnadiinnu ⟨את⟩ qodaxda, wuu ku daad'in doonaa sida dabayl qaadhsan, sida nool iyo sida kululba.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ka hor intay"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ogaan"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "digiinnadiinnu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "qodaxda"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nool"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "iyo sida"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kulul (la shidan)"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "wuu ku daad'in doonaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:25.555966661Z",
+  "model": "glm-5.3"
+}

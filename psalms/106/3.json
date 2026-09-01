@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 106,
+  "translation": "Nasiib wanaagsan kuwa ilaaliya xukunka, kuwa sameeya cadaalada waqti kasta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib wanaagsan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "kuwa ilaaliya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuwa sameeya"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cadaalada"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "waqti kasta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waqti"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:44.850909064Z",
+  "model": "glm-5.3"
+}

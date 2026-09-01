@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Haddii aad aragto dimrilaha cadowgaaga hoos fadhiya Culayskiisa, oo aad ka joojiso inaad ka tagto, waqtiyada tagista waad la tagi doontaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "aad aragto"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "dimrilaha"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "hoos fadhiya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "culayskiisa"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "oo aad ka joojiso"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "inaad ka tagto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tagista"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "waad la tagi doontaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la (kiisa)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:43.244200677Z",
+  "model": "glm-5.3"
+}

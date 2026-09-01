@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Saas ayaad u kala-soocaysaan ⟨את⟩ ilmaha Israa'iil wasakhdooda, ayna ku dhimin wasakhdooda, markay wasakheeyaan ⟨את⟩ Booskayga ka mid ah xoogagga ay ku dhex jiraan.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "ayaad u kala-soocaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmaha Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "wasakhdooda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ayne"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ku dhimin"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "wasakhdooda"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "markay wasakheeyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Booskayga"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Booskayga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "xoogagga ay ku dhex jiraan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:33.412687758Z",
+  "model": "glm-5.3"
+}

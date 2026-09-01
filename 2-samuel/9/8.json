@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna sujuuday, wuxuuna yidhi: Addoonkaagu waa maxay, in aad u soo jeesto eeygii dhintay oo ila mid ah?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "wuxuuna sujuuday"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxay"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaagu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "aad u soo jeesto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "eeygii"
+    },
+    {
+      "surface": "המת",
+      "gloss": "dhintay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ila mid ah"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:32.846828476Z",
+  "model": "glm-5.3"
+}

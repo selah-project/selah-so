@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Immisa jeer bay ka caasiyayn middiga, kuna xanuuniyay Yeshimoon-ka!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Immisa jeer"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "bay ka caasiyayn"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "middiga"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "kuna xanuuniyay"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "Yeshimoon-ka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:51.961729435Z",
+  "model": "glm-5.3"
+}

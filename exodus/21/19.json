@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "hadduu kaco oo bannaanka ku socdo ulihiisa, kan dhuuntay waa la cafiyaa; keliya waqti giiraashiisa buu bixin, oo daaweyn buu dhamaystiraa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hadduu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kaco"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "oo ku socdo"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "bannaanka"
+    },
+    {
+      "surface": "על",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "ulihiisa"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "waa la cafiyaa"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "kan dhuuntay"
+    },
+    {
+      "surface": "רק",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "waqti giiraashiisa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "buu bixin"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "oo daaweyn"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "buu dhamaystiraa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:15:50.817154270Z",
+  "model": "glm-5.3"
+}

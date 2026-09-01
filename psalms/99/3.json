@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 99,
+  "translation": "Magacaaga weyn oo cabsi qabin baa ha ammaanaan, waayo quduus buu yahay.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ha ammaanaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "cabsi qabin"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buu yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:23.082823600Z",
+  "model": "glm-5.3"
+}

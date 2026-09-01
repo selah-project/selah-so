@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxaana lagu aasay ⟨את⟩ qabrigiisii beeradda Uzzaa, oo wiilkiisii Yooshiyaah baa boqor noqday boqorkii ka horreeyay ⟨meerahay⟩.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Waxaana lagu aasay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (Amon)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "qabrigiisii"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "beeradda"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzzaa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "boqor noqday"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yooshiyaah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "boqorkii ka horreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:33:12.837840028Z",
+  "model": "glm-5.3"
+}

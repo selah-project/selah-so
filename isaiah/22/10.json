@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxaadna tiriseen ⟨את⟩ guryaha Yeruushaalayim, waxaadna jebiseen guryihii si loo adkeeyo deyrta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guryaha Yeruushaalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "guryaha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "tiriseen"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "jebiseen"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "guryihii"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "si loo adkeeyo"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "deyrta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:29.212307996Z",
+  "model": "glm-5.3"
+}

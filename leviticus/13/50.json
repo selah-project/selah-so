@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Kahanku wuu eegaa ⟨את⟩ cudurka, wuxuuna xiraa ⟨את⟩ cudurka toddoba maalmood.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "wuu eegaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cudurka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cudurka"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wuxuuna xiraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cudurka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cudurka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:53.847743598Z",
+  "model": "glm-5.3"
+}

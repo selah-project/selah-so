@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuu xukumay ⟨את⟩ Israa'iil toddoba iyo labatan sanad, wuuna dhintay, wuuna la aasay Shaamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wuxuu xukumay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labatan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "iyo toddoba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wuuna dhintay"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wuuna la aasay"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Shaamir"
+    }
+  ],
+  "timestamp": "2026-09-01T02:34:35.524617504Z",
+  "model": "glm-5.3"
+}

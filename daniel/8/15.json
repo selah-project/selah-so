@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Markii anigu Daniyeel arkay ⟨את⟩ muuqashada, aqoon baan doondoonayay, oo waxaa istaagay hortayada sida muuqaal nin ah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markii"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "arkay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muuqashada"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "muuqashada"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "baan doondoonayay"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "aqoon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "oo waxaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "istaagay"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "hortayada"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "sida muuqaal"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nin ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:08:25.437910538Z",
+  "model": "glm-5.3"
+}

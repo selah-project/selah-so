@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 43,
+  "translation": "Kullaha ⟨kan⟩ magacayga lagu magacaabo, iyo ammaantayda darteed ⟨aan⟩ u abuuray, aan qaabeeyey, xataa aan u sameeyey.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kullaha"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "magacayga lagu magacaabo"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "magacayga lagu"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "iyo ammaantayda darteed"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "u abuuray"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "aan qaabeeyey"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "aan u sameeyey"
+    }
+  ],
+  "timestamp": "2026-09-01T03:50:40.973053087Z",
+  "model": "glm-5.3"
+}

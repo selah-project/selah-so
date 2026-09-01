@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Wuxuu jecel yahay gardarrada-siinta iyo xeerka; khesedka Yahweh dhulka wuu ka buuxsamaa.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Wuxuu jecel yahay"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gardarrada-siinta"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo xeerka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "wuu ka buuxsamaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:36.920131536Z",
+  "model": "glm-5.3"
+}

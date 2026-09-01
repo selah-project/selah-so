@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Waxayna ku dhacday cagahiisa, waxayna tidhi: aan ii saaray, sayidow, aan ii saaray dambiga, oo cadaawadahda ha hadlayso, fadlan, dhegahaaga, oo dhegow ⟨את⟩ hadalka cadaawadahdaag.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Waxayna ku dhacday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "cagahiisa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aan ii saaray"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sayidow"
+    },
+    {
+      "surface": "העון",
+      "gloss": "dambiga"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ha hadlayso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fadlan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cadaawadahda"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "dhegahaaga"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "oo dhegow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cadaawadahdaag"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:01.839107371Z",
+  "model": "glm-5.3"
+}

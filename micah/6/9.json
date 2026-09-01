@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Codka Yahweh ayuu magaalada u dhawaaqayaa, oo tusiyya (xikmad-sare) waa cabsadda magacaaga; maqla ulaha iyo cidda ⟨cidi⟩ cusbooneysay.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ayuu u dhawaaqayaa"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "iyo tusiyya (xikmad-sare)"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "cabsadda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqla"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ulaha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "iyo cidda"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "cusbooneysay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:52:58.446856Z",
+  "model": "glm-5.3"
+}

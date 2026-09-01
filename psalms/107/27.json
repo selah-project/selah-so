@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Waxay wareegtaa oo ay leexlataa sidii sakhraan, xigmaddooda oo dhan waa la liqiay.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "waxay wareegtaa"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "oo ay leexlataa"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "sidii sakhraan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "xigmaddooda"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "waa la liqiay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:07.065070499Z",
+  "model": "glm-5.3"
+}

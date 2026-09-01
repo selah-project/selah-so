@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Isaguna ⟨את⟩ waa la geeyn doonaa Ashuur, inay tahay kaniinad boqor Yareb; Efrayam wuu qaadan doonaa ceeb, Israa'iilna wuu xun u noqon doonaa taladiisii.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "isaguna"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "isaga (weylaha)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "waa la geeyn doonaa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kaniinad"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "boqor"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayam"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuu qaadan doonaa"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "wuu xun u noqon doonaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "taladiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:26:38.669062991Z",
+  "model": "glm-5.3"
+}

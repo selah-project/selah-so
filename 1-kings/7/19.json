@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Kotoorarrada ku yaal madaxa tiirarkana ⟨waxay ahayd⟩ mijaab ubax liili ah, hoolka hore, afar las.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "kotoorarrada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku yaal"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mijaab"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ubax liili"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "hoolka hore"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "afar"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "las"
+    }
+  ],
+  "timestamp": "2026-09-01T03:12:41.378298902Z",
+  "model": "glm-5.3"
+}

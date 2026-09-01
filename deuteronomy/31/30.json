@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Muusena wuxuu dheehay dhegaha shirka Israaiil dhammaantiis ⟨את⟩ erayada heestan tan ilaa ay dhammaatayso.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu dheehay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dhegaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantiis"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erayada heesta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "erayada"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "heestan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ay dhammaatayso"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:48.697452654Z",
+  "model": "glm-5.3"
+}

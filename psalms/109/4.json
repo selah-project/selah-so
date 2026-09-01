@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Xaggii jacaylkayga way iga soo-cayaareen; anigoo ah baryo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Xaggiiba"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jacaylkayga"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "way iga soo-cayaareen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "anigoo ah"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "baryo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:58.756364613Z",
+  "model": "glm-5.3"
+}

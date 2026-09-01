@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Inta aan la jarjarin xariigga fiddiga, oo aan la jabin qaaddadda dahabka, oo aan la jabin dhoobo-qaaddadda ilaha, oo aan la jabin galmadda godka.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "inta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lahayn"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "la jarjarin"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "xariigga"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fiddiga"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "la jabin"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "qaaddadda"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dahabka"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "la jabin"
+    },
+    {
+      "surface": "כד",
+      "gloss": "dhoobo-qaaddadda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "la jabin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "galmadda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "godka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:56.770160425Z",
+  "model": "glm-5.3"
+}

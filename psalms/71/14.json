@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Aniguse walwal joogto ah baan u sugayaa, waxaan ku darayaa ⟨dhan⟩ ammaantaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aniguse"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "walwal joogto ah"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "baan u sugayaa"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "waxaan ku darayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ammaantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.797774229Z",
+  "model": "glm-5.3"
+}

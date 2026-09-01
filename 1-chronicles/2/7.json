@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Wiilashienna Karmi: Axaar, kan ku dhibay Israa'iil, oo khayaanayn ku galo-ma-galay waxa la qaddariyey ⟨(la dhammaystiray)⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "wiilashienna"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Axaar"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "kan ku dhibay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khayaanayn ku galo-ma-galay"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "waxa la qaddariyey ⟨(la dhammaystiray)⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T06:21:36.449313686Z",
+  "model": "glm-5.3"
+}

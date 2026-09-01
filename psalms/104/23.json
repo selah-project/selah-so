@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Aadamka wuxuu ka baxaa shuqulkiisa iyo adeegistiisa ilaa galabta habeen dhacayso.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "wuxuu ka baxaa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadamka"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "shuqulkiisa"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "iyo adeegistiisa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "galabta habeen dhacayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:07.208392008Z",
+  "model": "glm-5.3"
+}

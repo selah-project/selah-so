@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Ha ku dhufto carrabkaygi oo ku dhuqmo dhulkii afkayga, haddii aan aan ku xusuusto, haddii aan aan kor u qaadin ⟨את⟩ Yeruushaalaym oo ka sarreeya farxaddayda ugu weyn.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ha ku dhuqmo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "carrabkaygi"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "dhulkii afkayga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "aan ku xusuusto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aan kor u qaadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeruushaalaym"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka sarreeya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "farxaddayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:45.950630196Z",
+  "model": "glm-5.3"
+}

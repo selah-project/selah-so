@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maxaan ilcosha ku dhiman? Ilcosha ka soo baxay, maxaan go'dhin?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "may"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ilcosha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhiman"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "caloosha"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ka soo baxay"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "go'dhin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:39:05.892049938Z",
+  "model": "glm-5.3"
+}

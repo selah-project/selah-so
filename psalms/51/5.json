@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 51,
+  "translation": "Waayo, caasiyaashayda waan ogahay, denbigayguna i hortaada waqti kasta buu igaga taagan yahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "caasiyaashayda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ogahay"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "denbigayguna"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "i hortaada igaga taagan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "waqti kasta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:43.271263052Z",
+  "model": "glm-5.3"
+}

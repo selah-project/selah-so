@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sadaqada iyo si toos ah ee afkay ha ka raali noqo, Yahweh, oo xukuumadaada i bar.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "sadqada iyo si toos ah"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkay"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ha ka raali noqo"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "xukuumadaada"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "i bar"
+    }
+  ],
+  "timestamp": "2026-09-01T08:00:37.469901935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Haddase taagi naqaada, oo aan idiinku xukumo Yahweh hortiisa ⟨את⟩ dhammaan xaqnimada Yahweh ee uu ⟨את⟩ idiinku sameeyay iyo ⟨את⟩ aabbayaashiin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Haddase"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "taagi naqaada"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "aan idiinku xukumo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idiin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhammaan xaqnimada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "xaqnimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee uu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idiinku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "aabbayaashiin"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aabbayaashiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:45:32.868623832Z",
+  "model": "glm-5.3"
+}

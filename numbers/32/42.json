@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Oo Novach wuu tegay, wuuna qabsaday ⟨את⟩ Kenath iyo ⟨את⟩ guryoodeeda (deerimyadeeda), waxayna u bixiyay Novach magiciisii.",
+  "tokens": [
+    {
+      "surface": "וינבח",
+      "gloss": "Oo Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wuu tegay"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wuuna qabsaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenath"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "guryoodeeda"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "guryoodeeda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waxayna u bixiyay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "isa"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "magiciisii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:56:31.922085380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Abigayilna waxay dhashay ⟨את⟩ Amasa, aabaha Amasana ⟨wuxuu ahaa⟩ Yeter oo Yishmaeli ah.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Abigayilna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "waxay dhashay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "aabahana"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "oo Yishmaeli ah"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:48.257311857Z",
+  "model": "glm-5.3"
+}

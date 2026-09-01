@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 52,
+  "translation": "Sidaas oo kale ayaa Elohim ku burburin doonaa weligiis, wuu kaa soo jiido doonaa, wuuna kaga soo saari doonaa dayyiggaaga, xididkana wuu ka bixi doonaa dhulka nolosha. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sidaas oo kale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ku burburin doonaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "wuu kaa soo jiido doonaa"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "wuu kaga soo saari doonaa"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dayyiggaaga"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "xididkana wuu ka bixi doonaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:18.060762896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ha saaxiibo la noqon ⟨את⟩ baal-afka (nin xanaaqsan), iyo ⟨את⟩ ninka xanaaqa kulul ha la soo gelin",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha (ha…)"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "saaxiibo la noqon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baal-afka (nin xanaaqsan)"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal (milkiile)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "afi (xanaaq)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "xanaaq kulul (kul)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha… (diidmo)"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "soo gelin (la timid)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:33:03.154817684Z",
+  "model": "glm-5.3"
+}

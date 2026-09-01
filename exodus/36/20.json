@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Wuxuuna sameeyay ⟨את⟩ alwaaxa Mishkaanka, geedaha shittim, taagan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alwaaxa"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "alwaaxa"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkaanka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "geedaha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim (acacia)"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "taagan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:36.035661780Z",
+  "model": "glm-5.3"
+}

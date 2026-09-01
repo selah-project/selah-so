@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "I igu baar, El, oo gartaa wadaydii; i tijaabi oo gartaa fikirrahaygada",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "I igu baar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "oo gartaa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wadaydii"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "i tijaabi"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "oo gartaa"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "fikirrahaygada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:38.498866819Z",
+  "model": "glm-5.3"
+}

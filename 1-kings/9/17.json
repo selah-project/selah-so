@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo Shelomoh wuxuu dhisay ⟨את⟩ Gezer iyo ⟨את⟩ Beith-Choron oo hoos-taalleydu tahay.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Oo wuxuu dhisay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Beith-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "hoos-taalleydu tahay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:14:50.892680150Z",
+  "model": "glm-5.3"
+}

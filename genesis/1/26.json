@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo Elohim wuxuu yidhi: Aannu samayno aadan suumaddayadda, oo sidii waxaannu ahayn oo kale, oo ay xukumaan kalluunta badda iyo shimbiraha samada, iyo xoolaha, iyo dhulka oo dhan, iyo rammaska kasta oo dhulka ku dul rammaysa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oo wuxuu yidhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "aannu samayno"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "suumaddayadda"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "oo sidii waxaannu ahayn oo kale"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "oo ay xukumaan"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "kalluunta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "iyo shimbiraha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "iyo xoolaha"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo wax kasta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "oo dhulka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "iyo rammaska kasta"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "rammaska"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ku dul rammaysa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku dul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:28.441948211Z",
+  "model": "glm-5.3"
+}

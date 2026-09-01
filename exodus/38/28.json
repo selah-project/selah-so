@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Ku-na ⟨את⟩ kunka (iyo toddoba boqol iyo toddoba-iyo-shan iyo toddobaatan shiqil) wuxuu sameeyay sangabyo tiirarka, wuxuuna daboolay madaxeeda, wuxuuna ku xidhay ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kunka iyo shiqilaha ka dambeeya"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "iyo toddoba"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "iyo shan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "toddobaatan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "sangabyo"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "tiirarka"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "wuxuuna daboolay"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "madaxeeda"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "wuxuuna ku xidhay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:24:38.712386336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Haddaba, boqorkow, wixii noloshaadu dhammaystirto ku dheeho, dheeh, annagaa isaga gacmada boqorka ku dhiibaynaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "haddaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wixii"
+    },
+    {
+      "surface": "אות",
+      "gloss": "dhammaystirto"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "noloshaadu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkow"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ku dheeho"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dheeh"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "annagaa"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "isaga ku dhiibaynaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacmada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T02:52:19.644330157Z",
+  "model": "glm-5.3"
+}

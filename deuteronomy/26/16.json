@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Maantaan, Yahweh Elohimkaaga wuxuu kugu amaraa inaad sameyso ⟨את⟩ xeerarkan kuwan iyo ⟨את⟩ xukunka; ilaali waana samee ⟨את⟩ iyaga qalbigaaga oo dhan iyo naftaada oo dhan.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "maantaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "wuxuu kugu amaraa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inaad sameyso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xeerarkan kuwan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "xeerarkan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "xukunka"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ilaali"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waana samee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:12:42.326191760Z",
+  "model": "glm-5.3"
+}

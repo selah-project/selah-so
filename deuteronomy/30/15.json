@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Eeg, waxaan maanta hortaa dhigay ⟨את⟩ nolosha iyo ⟨את⟩ wanaagga, iyo ⟨את⟩ geerida iyo ⟨את⟩ sharra.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan dhigay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nolosha"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaagga"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "geerida"
+    },
+    {
+      "surface": "המות",
+      "gloss": "geerida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sharra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharra"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:30.555579458Z",
+  "model": "glm-5.3"
+}

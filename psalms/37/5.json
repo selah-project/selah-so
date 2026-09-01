@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Ruuxdhig Yahweh wegtaada ⟨את⟩, kana rumayso Adiga-Xaggiisa, waana Isaga oo Sameyn doona.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Ruuxdhig"
+    },
+    {
+      "surface": "על",
+      "gloss": "Xaggiisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "wegtaada"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "kana rumayso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Adiga-Xaggiisa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "waana Isaga oo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Sameyn doona"
+    }
+  ],
+  "timestamp": "2026-09-01T08:59:32.288144293Z",
+  "model": "glm-5.3"
+}

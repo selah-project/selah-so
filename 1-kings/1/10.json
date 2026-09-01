@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "laakiin ⟨את⟩ Natan nebigii, iyo Benayahu, iyo ⟨את⟩ adkaaga, iyo ⟨את⟩ walaalkiis Shelomoh ma uusan yeerin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan nebigii"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nebigii"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "iyo Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "adkaaga"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "adkaaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh walaalkiis"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalkiis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yeerin"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:40.270869883Z",
+  "model": "glm-5.3"
+}

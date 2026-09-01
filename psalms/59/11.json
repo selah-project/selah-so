@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 59,
+  "translation": "Eloimkay khesedka ah ayaa iga hor marayaa; Elohim wuu ii tusi doonaa cadowdayda (oo aan adkaaday).",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloimkay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedka ah"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "iga hor marayaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "wuu ii tusi doonaa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "cadowdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:04.629194125Z",
+  "model": "glm-5.3"
+}

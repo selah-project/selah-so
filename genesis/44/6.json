@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Wuxuuna ka horreeyay, oo wuxuu ula hadlay ⟨את⟩ ereyadaan.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "wuxuuna ka horreeyay"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "oo wuxuu hadlay"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:21.383664020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Lewiyadiintuna weligeed ma wataan inay sidaan ⟨את⟩ waayaha iyo ⟨את⟩ dhamaan qalabkiisa, shaqada adeeggaadiistiis.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lewiyadiintuna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma wataan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "inay sidaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waayaha"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "waayaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan qalabkiisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qalabkiisa"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "shaqada adeeggaadiistiis"
+    }
+  ],
+  "timestamp": "2026-09-01T06:31:45.049825219Z",
+  "model": "glm-5.3"
+}

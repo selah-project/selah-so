@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Shuqul iyo hadal been ah ha iga fogaadiya; faqri iyo maal ha i siin; i quudi rootigay qaddarka ah.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "shuqul (been)"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "iyo hadal"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been ah"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ha iga fogaadiya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "faqri"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "iyo maal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha... siin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ha i siin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "i quudi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "qaddarkayga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:38:18.116338618Z",
+  "model": "glm-5.3"
+}

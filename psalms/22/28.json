@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 22:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Dhammaan shuunada dhulka waxay xasuustaan, waxayna u noqdaan Yahweh; dhammaan qoysaska shucuurta waxay u sujuudaan wajigaaga hore.",
+  "tokens": [
+    {
+      "surface": "יזכרו",
+      "gloss": "waxay xasuustaan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "waxayna u noqdaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "shuunada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "waxay u sujuudaan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wajigaaga hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "qoysaska"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shucuurta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:27.650038677Z",
+  "model": "glm-5.3"
+}

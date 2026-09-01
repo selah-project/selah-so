@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 131,
+  "translation": "Ha sugiyo Israa'iil Yahweh, laga soo bilaabo hadda iyo weligiis.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Ha sugiyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "laga soo bilaabo hadda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligiis"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:03.881749172Z",
+  "model": "glm-5.3"
+}

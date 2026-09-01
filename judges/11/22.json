@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo waxay dhaqeen ⟨את⟩ xuddudda Emorita oo dhan, laga bilaabo Arnnon ilaa Yabboq, iyo laga bilaabo bariga ilaa Yardaan.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "waxay dhaqeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xuddudda Emorita oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "xuddudda"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "laga bilaabo Arnnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iyo laga bilaabo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bariga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:35:23.658733291Z",
+  "model": "glm-5.3"
+}

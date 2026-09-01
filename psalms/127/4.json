@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 127,
+  "translation": "Sida fallaadhaha oo gacanta geesi ku jiro, saas oo kale wiilashii ciyaalka noqdeen.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Sida fallaadhaha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "geesi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas oo kale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ciyaalka noqdeen (da'da yar)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:38.422815796Z",
+  "model": "glm-5.3"
+}

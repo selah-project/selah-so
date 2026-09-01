@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 98,
+  "translation": "Buunaha iyo codka soofarka, ka dhawaqsada hortaga ⟨Boqorka⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "buunaha"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "iyo codka"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "soofarka"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ka dhawaqsada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨Boqorka⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:06.197924393Z",
+  "model": "glm-5.3"
+}

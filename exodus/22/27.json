@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Elohim ha naakilin, iyo hogaamiye dadkaaga ha habaarin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "naakilin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "iyo hogaamiye"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "habaarin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:47.747616575Z",
+  "model": "glm-5.3"
+}

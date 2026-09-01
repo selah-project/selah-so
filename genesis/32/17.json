@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 32:17",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Wuxuuna gacmaha addoomadiisa ku dhiibay, koox koox iskeed, wuxuuna ku yidhi addoomadiisa: Ka gudba iiga horreeya, oo fasiraan ka dhiga koox iyo koox dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wuxuuna ku dhiibay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "koox"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "koox"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "iskeed"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna ku yidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ka gudba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iiga horreeya"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "fasiraan"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ka dhiga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda koox iyo"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "koox"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "koox"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:08.915246832Z",
+  "model": "glm-5.3"
+}

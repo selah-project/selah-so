@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Buuraha sidii durdural (wax) ayaa la dhalaalay horraanta Yahweh, horraanta Adonay dhulka oo dhan.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sidii durdural"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "la dhalaalay"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "horraanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "horraanta"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:15.724874666Z",
+  "model": "glm-5.3"
+}

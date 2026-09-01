@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Iyo ruux caddaalad ah kan fadhiya gar-sooka, iyo xoog kuwa dagaalka ka celinaya ilaa albaabbada.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "iyo ruux"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "caddaalad"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kan fadhiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "gaar ahaan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "gar-sooka"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "iyo xoog"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kuwa celinaya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dagaalka"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "albaabbada"
+    }
+  ],
+  "timestamp": "2026-09-01T03:45:07.995244537Z",
+  "model": "glm-5.3"
+}

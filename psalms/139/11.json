@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Waxaanna idhi: hubaal gudcurku wuu i shumi doonaa, oo habeenku waa iftiin ii agdhow.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "waxaanna idhi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gudcurku"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "wuu i shumi doonaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "laakiin habeenku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iftiin"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ii agdhow"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:05.619029985Z",
+  "model": "glm-5.3"
+}

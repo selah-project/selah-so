@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Meeshii ay gowracaan ⟨את⟩ ololaha ayay ku gowracayaan ⟨את⟩ qalladmada dembiga; ⟨את⟩ dhiigana wuu ku shubayaa altaarka dushiisa dhinacyada dhan.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "meeshii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "gowracaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ololaha"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ololaha"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ku gowracayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalladmada dembiga"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "qalladmada dembiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dhiigana",
+      "marks": "dhiigana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dhiigana"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "wuu ku shubayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dushiisa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaarka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhinacyada dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:49.744198794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Sida aabbaha uu u naxariisto carruurtiisa, sidaas oo kale Yahweh wuxuu naxariistaa kuwa ka cabsada.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Sida uu u naxariisto"
+    },
+    {
+      "surface": "אב",
+      "gloss": "aabbaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "uu u"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "carruurtiisa"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "wuxuu naxariistaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "uu u"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuwa ka cabsada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:04.471498590Z",
+  "model": "glm-5.3"
+}

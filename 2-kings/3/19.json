@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 3:19",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waxayna garaacaysaan magaalo kasta oo xigan iyo magaalo kasta oo la doortay, geed kasta oo wanaagsan waad dhigi doontaan, ilaha biyaha oo dhan waad xiraysaan, dhulka wanaagsan ee dhan waanna dhagaxaysaysaan.",
+  "tokens": [
+    {
+      "surface": "והכיתם",
+      "gloss": "waxayna garaacaysaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... kasta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "oo xigan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo ... kasta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "מבחור",
+      "gloss": "oo la doortay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "... kasta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "oo wanaagsan"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "waad dhigi doontaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "... oo dhan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ilaha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "תסתמו",
+      "gloss": "waxaad xiraysaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "... ee dhan"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wanaagsan"
+    },
+    {
+      "surface": "תכאבו",
+      "gloss": "waanna dhagaxaysaysaan"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "(dhagaxyo)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:28.153184007Z",
+  "model": "glm-5.3"
+}

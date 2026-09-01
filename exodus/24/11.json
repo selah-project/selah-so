@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Oo wuxuu kuwa il-baxsan ee curadka Israa'iil ku ma dhigin gacantiisa, wayna fiiriyeen ⟨את⟩ Elohim-ka, waxayna cuneen waxayna cabbayeen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "oo wuxuu kuwa"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "il-baxsan (kuwa sharaf leh)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curadka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dhigin (ma dirin)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "wayna fiiriyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-ka"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "waxayna cuneen"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "waxayna cabbayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:19.647801963Z",
+  "model": "glm-5.3"
+}

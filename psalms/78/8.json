@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Oo aynaan noqon sida aabbayaashood — durri madax-adag oo caasiya, durri qalbiggeedu diidmi waayay, ruuxiisuna ⟨את⟩ El aan aaminsanayn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aynaan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "noqon"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "sida aabbayaashood"
+    },
+    {
+      "surface": "דור",
+      "gloss": "durri"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "madax-adag"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "oo caasiya"
+    },
+    {
+      "surface": "דור",
+      "gloss": "durri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waayay"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "diidmi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbiggeedu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "aaminsanayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruuxiisuna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:45.264824859Z",
+  "model": "glm-5.3"
+}

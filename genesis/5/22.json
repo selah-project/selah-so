@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Hanokh wuxuu la socday ⟨את⟩ Elohim ka dib markuu dhalay ⟨את⟩ Metushelax, saddex boqol oo sano, wuxuuna dhalay wiilal iyo gabdho.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "wuxuu la socday"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "markuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelax"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelax"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdho"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:38.531395909Z",
+  "model": "glm-5.3"
+}

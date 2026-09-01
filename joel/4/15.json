@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Shemesh iyo dayaxu waa madow yihiin, oo xiddiguhu way joojiyeen iftiinkooda.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "iyo dayaxa"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "waa madow yihiin"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "oo xiddiguhu"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "way joojiyeen \/ soo ururiyeen"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "iftiinkooda (iftiinna)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:28:43.912042898Z",
+  "model": "glm-5.3"
+}

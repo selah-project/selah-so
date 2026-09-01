@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Xaggee baan ka tegaa ruuxaaga? Oo xaggee baan wajigaaga ka cararaa?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "xaggee"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "baan ka tegaa"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ruuxaaga"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "oo xaggee"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "wajigaaga ka"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "baan cararaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:07.378324081Z",
+  "model": "glm-5.3"
+}

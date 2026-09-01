@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Oo Yahweh wuxuu soo diray ⟨את⟩ Yerubbaal iyo ⟨את⟩ Bedan iyo ⟨את⟩ Yiftaax iyo ⟨את⟩ Shemu'el, wuuna ⟨את⟩ idinka badbaadiyey gacmaha cadowgiinna ee hareeraha ah, oo waxaad degganteen ⟨ammaan⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu soo diray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yiftaax"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "wuuna idinka badbaadiyey"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gacmaha"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadowgiinna"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ee hareeraha ah"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "oo waxaad degganteen"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "⟨ammaan⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:52.928333156Z",
+  "model": "glm-5.3"
+}

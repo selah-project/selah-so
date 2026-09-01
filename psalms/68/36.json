@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 68,
+  "translation": "Cabsi leh ⟨ waa ⟩ Elohim laga soo bilaabo meelahaaga quduuska ah; El-ka Israa'iil, Isaga ayaa siiya xoog iyo awood ⟨ Dadka-ga ⟩. La ammaanay Elohim.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "Cabsi leh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "laga soo bilaabo meelahaaga quduuska ah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Isaga ayaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "iyo awood"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "La ammaanay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:31.469319810Z",
+  "model": "glm-5.3"
+}

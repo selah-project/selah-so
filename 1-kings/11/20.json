@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Walaashii Tahappenes waxay u dhashay ⟨את⟩ Genubath inankiisa; Tahappenesna waxay naasteysay gurigii Farcoon dhexdiisa; Genubathna wuxuu ahaa gurigii Farcoon dhexdiisa, wiilashii Farcoon dhexdooda.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "waxay u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isagu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "walaashii"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahappenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubath inankiisa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "inankiisa"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "waxay naasteysay"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahappenesna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubathna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:10.117129103Z",
+  "model": "glm-5.3"
+}

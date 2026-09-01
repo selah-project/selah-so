@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 126,
+  "translation": "Wuxuu socdaa wuu socdaa, ooyaa, wuxuu qaadayaa Qalabka Beeritaanka; hubaal wuxuu yimaadaa si farxad leh, wuxuu qaadayaa Gummadigiisii.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "wuxuu socdaa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "wuu socdaa"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ooyaa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wuxuu qaadayaa"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Qalabka"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "Beeritaanka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hubaal wuxuu yimaadaa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "(wuu yimaadaa)"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "si farxad leh"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wuxuu qaadayaa"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "Gummadigiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:38.708286364Z",
+  "model": "glm-5.3"
+}

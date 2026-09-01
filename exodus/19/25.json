@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Muuse wuxuu degay ⟨ilaa⟩ ⟨sha⟩ ummadda, waxayna u sheegay ⟨ilaa⟩ iyaga.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wuxuu degay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sha ummadda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waxayna u sheegay"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ilaa iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:12.256597726Z",
+  "model": "glm-5.3"
+}

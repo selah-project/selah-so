@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wuxuu sameeyay laba kerub oo dahab ah; shaqo garaacan (mikshah) buu ka sameeyay ⟨את⟩ kuwaas, labada dhinac ee kapporetha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wuxuu sameeyay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab ah"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "shaqo garaacan (mikshah)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buu ka sameeyay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaas (laba kerub)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "labada"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dhinac"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:50.700603126Z",
+  "model": "glm-5.3"
+}

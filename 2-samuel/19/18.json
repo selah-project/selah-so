@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Waxaa jiray kun nin oo Bin-Yamiin ah oo la jira, iyo Siiba, adeegaha baytkii Shaa'uul, iyo shan-iyo-toban wiilkiisii iyo labaatan addoonkiisii ⟨את⟩; wayna si degdeg ah u gudbeen Webiga Urdun hortii boqorka.",
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la jira"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "Bin-Yamiin"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "Siiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "adeegaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytkii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "shan-iyo-toban"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilkiisii"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "labaatan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoonkiisii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "la jira (addoonkiisii iyo wiilkiisii)"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "wayna si degdeg ah u gudbeen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Webiga Urdun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:05:40.984413381Z",
+  "model": "glm-5.3"
+}

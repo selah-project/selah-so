@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 46,
+  "translation": "Waxaan ka sheegaya dhammaadka bilowga, iyo waxyaalaha wakhti dheer laga bilaabay aan weli la sameyn, oo aan odhanaya: talaashaydu way taagan tahay, oo rabcadeyga oo dhan waan sameynayaa.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "waxaan ka sheegaya"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "bilowga"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhammaadka"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "iyo waxyaalaha wakhti dheer laga bilaabay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "weli la"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "sameyn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oo aan odhanaya"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "talaashaydu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "way taagan tahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "rabcadeyga"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "waan sameynayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:52:31.657927526Z",
+  "model": "glm-5.3"
+}

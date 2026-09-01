@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Walaalaha ninka sablan oo dhan waa neceb yihiin; xoogaa ka sii fogowday saaxiibadiis; ereyana wuu ku raadinayaa, laakiin ⟨way maqan yihiin⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "walaalaha"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ninka sablan"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "waa neceb yihiin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xoogaa ka sii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sii"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "saaxiibadiis"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "fogowday"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "wuu ku raadinayaa"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ereyana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "way maqan yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:50.629238793Z",
+  "model": "glm-5.3"
+}

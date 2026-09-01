@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Waayo waan kaa soo saaray ⟨את⟩ dhulka Mitsrayim, iyo guriga addoommada waan kaga badbaadinayay, oo waan hortaa soo diray ⟨את⟩ Muuse, Aaaron iyo Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "waan kaa soo saaray"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "iyo guriga"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "addoommada"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "waan kaga badbaadinayay"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "oo waan soo diray"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "hortaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaaron"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "iyo Miryam"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:41.945716556Z",
+  "model": "glm-5.3"
+}

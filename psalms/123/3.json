@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 123,
+  "translation": "Naxariis ina sii Yahweh, naxariis ina sii, waayo aad bay na habartay faladhiista.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Naxariis ina sii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "naxariis ina sii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aad"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "bay na habartay"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "faladhiista"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:37.890741563Z",
+  "model": "glm-5.3"
+}

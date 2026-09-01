@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 83,
+  "translation": "Khaymeedaha Edom iyo Ismaa'iili, Moab iyo Hagriyiinta.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Khaymeedaha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "iyo Ismaa'iili"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "iyo Hagriyiinta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:28.810834793Z",
+  "model": "glm-5.3"
+}

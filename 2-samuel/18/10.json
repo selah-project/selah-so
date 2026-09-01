@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Nin baa arkay oo Yoo'aab u sheegay, wuxuuna yidhi: Bal eeg, waxaan arkay ⟨את⟩ Abshalom oo iilka ku dheggan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "baa arkay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "baa\/qof"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "u sheegay"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "oo ku dheggan"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "iilka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:03:56.276570995Z",
+  "model": "glm-5.3"
+}

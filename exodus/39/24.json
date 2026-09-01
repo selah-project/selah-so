@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxay sameeyeen cawaaqibta gadhguduudka iyo bunniyada morka ah iyo casaanidda iyo dankii casaani ahaa ee la qoslay, dul saaray shimbiraha gadhkaa",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Waxay sameeyeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dul saaray\/shimbiraha ku yaal"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "shimbiraha\/gadhguduudka"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "khudhkii\/gadhkii"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "bunniyada"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "gadhguduud (morka) iyo"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "morka ah iyo"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dankii iyo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "casaani ah"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "la qoslay"
+    }
+  ],
+  "timestamp": "2026-09-01T08:15:29.317071719Z",
+  "model": "glm-5.3"
+}

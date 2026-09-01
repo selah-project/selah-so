@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Maa hadal badan laguma jawaabo? Mii nin laba-lab wanaagsan yahay?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma..."
+    },
+    {
+      "surface": "יענה",
+      "gloss": "jawaabo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Mii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "laba-lab (liidaha badan)"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "wanaagsan yahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:40.908184817Z",
+  "model": "glm-5.3"
+}

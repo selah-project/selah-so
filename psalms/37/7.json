@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Aamini dhageyste Yahweh, ugu sug dalabkiisa; ha cararine kan si fiican u socda jidkiisa, kan fala sharcigyo xun.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Aamini dhageyste"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ugu sug dalabkiisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "cararine"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "kan si fiican u socda"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jidkiisa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fala"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "sharcigyo xun"
+    }
+  ],
+  "timestamp": "2026-09-01T08:30:29.708544238Z",
+  "model": "glm-5.3"
+}

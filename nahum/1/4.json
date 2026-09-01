@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuu canaantamaa badda oo wuu engejiyaa, wuxuuna engejiyaa webiyada oo dhan; Bashan wuu bartamiyay, iyo Karmel, iyo ubaxa Lubnaanna wuu bartamiyay.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "wuu canaantamaa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "oo wuu engejiyaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "wuxuuna engejiyaa"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "wuu bartamiyay"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "iyo Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "iyo ubaxa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnaanna"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "wuu bartamiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:54:06.369990672Z",
+  "model": "glm-5.3"
+}

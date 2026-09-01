@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Markaasaa Muuse qayliyay isagoo Yahweh u dhahaya: Maxaan u sameeyaa dadkan? Wax yar oo dheeri ah bay i dhagaxyeyn doonaan.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "markaasaa qayliyay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo dhahaya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maxaan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "u sameeyaa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wax yar oo dheeri ah"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "bay i dhagaxyeyn doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:53:03.366286006Z",
+  "model": "glm-5.3"
+}

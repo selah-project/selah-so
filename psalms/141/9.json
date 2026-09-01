@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Ilaali ⟨את⟩ iyaga gacmahooda ka eegan — shabakadda ay ii dhigeen iyo makhmasyada falayaasha sharka.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ilaali"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gacmahooda ka eegan"
+    },
+    {
+      "surface": "פח",
+      "gloss": "shabakadda"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "ay ii dhigeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "iyo makhmasyada"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "falayaasha"
+    },
+    {
+      "surface": "און",
+      "gloss": "sharka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:50.037346604Z",
+  "model": "glm-5.3"
+}

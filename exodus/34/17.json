@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Ilaahyo shuban (sanam bir shuban ah) ha ku sameyn.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ilaahyo"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "shuban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sameyn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:50.684524485Z",
+  "model": "glm-5.3"
+}

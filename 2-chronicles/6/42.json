@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, ha u dhigin wajiga Masiixiiba; xusuuso khesedka Daawud, addoonkaaga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "u dhigin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "Masiixiiba"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "xusuuso"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "khesedka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "addoonkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:34:49.705229881Z",
+  "model": "glm-5.3"
+}

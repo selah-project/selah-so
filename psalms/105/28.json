@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu diray mugdi, oo waa mudday, oo ay aanan caasiin ⟨את⟩ hadalkiisa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wuxuu diray"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugdi"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "oo waa mudday"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo ay aanan"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "caasiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadalkiisa"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "hadalkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:27.985294186Z",
+  "model": "glm-5.3"
+}

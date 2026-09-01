@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 9:16",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo waxay noqotay dhamaadkii saddex maalmood ka dib markii ay la goosteen axdiga, inay maqleen inay ⟨iyagu⟩ deris yihiin, oo ay dhexdooda ku nool yihiin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Oo waxay noqotay"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhamaadkii"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "markii ay"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "la goosteen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "axdiga"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "inay maqleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "deris yihiin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "la"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ku nool yihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:43.962936858Z",
+  "model": "glm-5.3"
+}

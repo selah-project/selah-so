@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Yahweh wuu ogyahay fikirrada aadanaha, inay yihiin ⟨hebel⟩ (walaw).",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wuu ogyahay"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "fikirrada"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨hebel⟩ (walaw)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:31:19.496380874Z",
+  "model": "glm-5.3"
+}

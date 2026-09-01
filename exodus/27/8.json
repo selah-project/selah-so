@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Wax mood ah oo la godlay, laamaha dhexdood ku samayn kartaa ⟨את⟩; sidii lagu muujiyay ⟨את⟩ buurta, sidaas bay sameyn doonaan.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "la godlay (mood ah)"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "laamaha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "samayn kartaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "miiska gawaarida"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sidii"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "lagu muujiyay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "adiga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bay sameyn doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:23.817513826Z",
+  "model": "glm-5.3"
+}

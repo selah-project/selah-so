@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Muuse wuxuu ku yidhi shirkii: Kani waa ereyga Yahweh amray in la sameeyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shirkii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kani"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "in la sameeyo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:29:43.555789999Z",
+  "model": "glm-5.3"
+}

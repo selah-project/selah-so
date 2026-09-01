@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Oo Axiyah wuu qabsaday dharkii cusubaa ee saarnaaday, wuuna jeexay laba-iyo-toban qaybood.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "wuu qabsaday"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiyah"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "dharkii"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "cusubaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "saarnaaday"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "wuuna jeexay"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "qaybood"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:45.060765486Z",
+  "model": "glm-5.3"
+}

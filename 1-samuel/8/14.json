@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Wuxuu qaadan doonaa ⟨את⟩ beerahiinna iyo ⟨את⟩ beero-canabihiinna iyo zeitunnadiinna kuwa wanaagsan, wuxuuna siin doonaa addoomadiisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beerahiinna"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "beerahiinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "beero-canabihiinna"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "beero-canabihiinna"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "zeitunnadiinna"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kuwa wanaagsan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "wuxuu qaadan doonaa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wuxuuna siin doonaa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "addoomadiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:42:06.232397030Z",
+  "model": "glm-5.3"
+}

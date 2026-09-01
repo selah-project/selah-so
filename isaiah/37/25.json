@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Aniga waan qoday, oo biyo waan cabbay, oo kabahaadka cagahayga baan ku engejiyey dhammaan webiyada Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aniga"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "waan qoday"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "oo biyo waan cabbay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "baan ku engejiyey"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kabahaadka"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "cagahayga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "webiyada"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:37.341284562Z",
+  "model": "glm-5.3"
+}

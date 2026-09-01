@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waayo, Yahweh wuxuu idinku ku daadiyay ruux hurdada dhowr, wuxuuna xiray ⟨את⟩ indhihiinna — ⟨את⟩ nebiyada, iyo ⟨את⟩ madaxiinna fiirooyinka (khoyaalayaasha) wuu daboolay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wuxuu ku daadiyay"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "hurdada dhowr (tardemah)"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "wuxuuna xiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indhihiinna"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "indhihiinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebiyada"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "madaxiinna"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "madaxiinna"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "fiirooyinka (khoyaalayaasha)"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "wuu daboolay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:46:28.809631960Z",
+  "model": "glm-5.3"
+}

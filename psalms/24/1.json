@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Dawuud buu qoray mizmoor. Yahweh waa taa dhulka iyo buuxsanaantiisa, adduunka iyo kuwa ku nool.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud buu qoray"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "iyo buuxsanaantiisa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "adduunka"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "iyo kuwa ku nool"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-01T08:43:04.086585870Z",
+  "model": "glm-5.3"
+}

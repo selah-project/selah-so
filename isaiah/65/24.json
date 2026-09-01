@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Waxay noqon doontaa: ka hor inta ay dhawaqaan waan ka jawaabayaa, inta ay weli hadlayana waan maqalaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Waxay noqon doontaa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ka hor inta"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ay dhawaqaan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ka jawaabayaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ay"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "hadlayan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "waan"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "maqalaa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:25:58.905359766Z",
+  "model": "glm-5.3"
+}

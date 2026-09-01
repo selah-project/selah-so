@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Waayo, xukunnadiisii oo dhan way iga horreeyeen, oo qawaannadiisii aan ka ceelin naftayda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "xukunnadiisii"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "way iga horreeyeen"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "oo qawaannadiisii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma aha oo"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "aan ka ceelin"
+    },
+    {
+      "surface": "מני",
+      "gloss": "naftayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:32.593041607Z",
+  "model": "glm-5.3"
+}

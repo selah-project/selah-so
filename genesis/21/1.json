@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Yahweh wuxuu u tebisay ⟨את⟩ Saaray siduu yidhi, oo Yahweh wuxuu Saaray u sameeyay siduu ku hadlay.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wuxuu u tebisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saaray"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uu yidhi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu u sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Saaray"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu ku hadlay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:02.209032147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 19:10",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Yoowaab markuu arkay in ⟨duruusta⟩ dagaalku u taal hortiisa iyo gadaashiis, wuxuu ka doortay dhammaan doortamayaasha Israa'iil, wuxuuna u diyaariyay ⟨in la kulmo⟩ Aram.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "markuu arkay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "uu u taal"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨duruusta⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "dagaalku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "hortiisa"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "gadaashiis"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "wuxuu ka doortay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka dhammaan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "doortamayaasha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "wuxuuna u diyaariyay"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "in la kulmo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T06:29:46.904918801Z",
+  "model": "glm-5.3"
+}

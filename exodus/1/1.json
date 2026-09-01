@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo waa kuwani magacyadii wiilasha Israa'iil ee Mitsrayim ku yimid, ⟨את⟩ Yacquub iyo nin kasta iyo baytidiiaba waxay yimaadeen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Oo waa kuwani"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyadii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ku yimid"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yacquub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "iyo baytidiiaba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay yimaadeen"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:20.734352585Z",
+  "model": "glm-5.3"
+}

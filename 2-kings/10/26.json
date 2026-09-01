@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waxyeyna soo saareen ⟨את⟩ tiirarasta gurigii Baal,waxyeyna gubeen.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "waxyeyna soo saareen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiirarasta"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tiirarasta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "waxyeyna gubeen"
+    }
+  ],
+  "timestamp": "2026-09-01T03:26:18.589599958Z",
+  "model": "glm-5.3"
+}

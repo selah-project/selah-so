@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Yahweh, khesedkaagu wuu ku jiraa samada; amaanantaaduna waxay gaartaa daruuraha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaagu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amaanantaadu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waxay gaartaa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "daruuraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:21.450013973Z",
+  "model": "glm-5.3"
+}

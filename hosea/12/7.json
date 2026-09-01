@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Adiguna Elohimkaagaa u noqod; khesed iyo caddaalad ilaow, Elohimkaagana ka sug waqti walba.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Adiguna"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "Elohimkaagaa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "u noqod"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "iyo caddaalad"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ilaow"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ka sug"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "waqti walba"
+    }
+  ],
+  "timestamp": "2026-09-01T04:45:57.420341532Z",
+  "model": "glm-5.3"
+}

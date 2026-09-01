@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wuxuuna Abraham ka mid ah u digay ⟨את⟩ toddoba wan ilma-riyo ah ee idada, isaga oo u goynay.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Wuxuuna u digay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toddoba wan ilma-riyo ah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toddoba"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "wan ilma-riyo ah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ee idada"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "isaga oo u goynay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:47:58.530719203Z",
+  "model": "glm-5.3"
+}

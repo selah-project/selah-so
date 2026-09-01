@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Elohim kale ha ahaadoon ∙ adiga wax uga horreeya wajigayga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha ... ahaadoon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ahaadoon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "על",
+      "gloss": "uga horreeya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:46.337687591Z",
+  "model": "glm-5.3"
+}

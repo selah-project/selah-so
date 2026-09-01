@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Gabadhii Farcoon waxay soo degtay inay ku dhaqato webiga, gabdhahaheedu waxay socdeen dhinaca webiga; wayna arkaysay ⟨את⟩ sanduuqa dhexda qasabaha, waxayna u dirtay ⟨את⟩ addoonadeed, oo qaadatay.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "waxay soo degtay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadhii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "inay ku dhaqato"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "gabdhahaheedu"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "waxay socdeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhinaca"
+    },
+    {
+      "surface": "יד",
+      "gloss": "jiidka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "webiga"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wayna arkaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "qasabaha"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "waxayna u dirtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoonadeed"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "addoonadeed"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "oo qaadatay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:28.980645465Z",
+  "model": "glm-5.3"
+}

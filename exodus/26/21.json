@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "iyo afartan aasaasoodood ee lacagta ah: laba aasaas hoosha ⟨laxda⟩ midka kowaad, iyo laba aasaas hoosha ⟨laxda⟩ midka kale.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "iyo afartan"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "aasaasoodood"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lacagta ah"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "aasaas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laxda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midka kowaad"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iyo laba"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "aasaas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosha"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laxda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midka kale"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:59.454396319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Elohim wuu maqlay, oo wuu xanaaqsan (wuu cadhooday), oo wuu ka nacooyay aad iyo aad Israa'iil.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wuu maqlay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "wuu xanaaqsan"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "wuu ka nacooyay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad iyo aad"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:50.577809164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Kii eloahim ⟨kale⟩ u shubeeyo waa la xarmin doonaa, Yahweh keliya mooyaane.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "u shubeeyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "eloahim ⟨kale⟩"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "waa la xarmin doonaa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mooyaane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "keliya"
+    }
+  ],
+  "timestamp": "2026-09-01T01:16:05.685367481Z",
+  "model": "glm-5.3"
+}

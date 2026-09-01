@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 38,
+  "translation": "Waxaan idhi, bal ha i farxin; marka uu lugtaydu dhaqaajiso, way ii weynaayeen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaan idhi (maxaa yeelay)"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aan idhi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bal \/ in"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ha farxin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "marka uu dhaqaajiso"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lugtaydu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ii (korkayga)"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "way weynaayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.232181749Z",
+  "model": "glm-5.3"
+}

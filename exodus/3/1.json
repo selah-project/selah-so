@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Muuse weligiis wuxuu ahaa ruux ⟨את⟩ adhigii Yitro, sodohgiisii, wadaadda Midyan, oo wuxuu dhiibay ⟨את⟩ adhigaa gadaasha dallalka, wuxuuna yimid buurta Elohim, Xoreb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wuxuu ahaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ruux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigii"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhigii"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sodohgiisii"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wadaadda"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "wuxuu dhiibay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigaa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "adhigaa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gadaasha"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dallalka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Xoreb"
+    }
+  ],
+  "timestamp": "2026-09-01T01:04:50.806038208Z",
+  "model": "glm-5.3"
+}

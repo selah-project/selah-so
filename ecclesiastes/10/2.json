@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wadnigii oggaaduhay waxaa uu ku yaallaa ⟨midigiisa⟩, wadnigii nacasnaana waxaa uu ku yaallaa ⟨bidixdiisa⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "wadnigii"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "oggaaduhay"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "midigiisa"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "wadnigii"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nacasnaa"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "bidixdiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:38:15.575533899Z",
+  "model": "glm-5.3"
+}

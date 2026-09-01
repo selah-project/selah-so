@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 92,
+  "translation": "Kumeel-labaatan oo dhan iyo kannuunka (nabalka) dushii, iyo dhawaaq hoosays ah kinnuurka (kanbaarada) dhexdeeda.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "dushii"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kumeel-labaatan"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "iyo... dushii"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kannuunka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhexdeeda"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "dhawaaq hoosays ah"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnuurka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:06.116920034Z",
+  "model": "glm-5.3"
+}

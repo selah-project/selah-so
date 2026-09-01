@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 15,
+  "translation": "Wuxuu ka saaray dhulka kuwa la subkay (dadka qosolka ah), oo wuu tirtiray ⟨את⟩ dhamaan sanamyada ay aabbayaashiis sameeyeen.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "wuxuu ka saaray (ka dhaafiyay)"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kuwa la subkay (dadka qosolka ah)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "wuu tirtiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan sanamyada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "sanamyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sameeyeen"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aabbayaashiis"
+    }
+  ],
+  "timestamp": "2026-09-01T03:18:42.854779240Z",
+  "model": "glm-5.3"
+}

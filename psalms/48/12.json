@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Ha farxaa buurta Tsiyoon, ha la raysannaan gabadhaha Yehuudah, xukunnadaada awgood.",
+  "tokens": [
+    {
+      "surface": "יִשׂמַח",
+      "gloss": "ha farxaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ha la raysannaan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "gabadhaha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "awgood"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "xukunnadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.803452687Z",
+  "model": "glm-5.3"
+}

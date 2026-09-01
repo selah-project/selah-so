@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuu qabsaday Daawud ⟨את⟩ dhis-yaqiinka Tsiyon, kaas oo ⟨ah⟩ magaaladii Daawud.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wuxuu qabsaday"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhis-yaqiinka"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "dhis-yaqiinka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kaas oo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaaladii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:41.138579589Z",
+  "model": "glm-5.3"
+}

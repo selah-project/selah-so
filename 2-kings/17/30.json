@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Ragii Baabel waxay sameeyeen ⟨את⟩ Sukkot-Benot, ragii Kuut waxay sameeyeen ⟨את⟩ Nergal, ragii Xamaatna waxay sameeyeen ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ragii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot-"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ragii"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ragii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamaat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:16.305447045Z",
+  "model": "glm-5.3"
+}

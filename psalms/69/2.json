@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Naftayda ii badbaadi, Elohim, waayo biyuhu waxay yimaadeen ilaa ⟨nafahay⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Naftayda ii badbaadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyuhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:56.704941731Z",
+  "model": "glm-5.3"
+}

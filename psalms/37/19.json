@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Shar-guhuna ma ay quustaan waqtiga xumaa, cunugga maalmaha abaartana way dherreeyaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma ay"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "quustaan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "xumaa"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "abaartana"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "way dherreeyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:57.821764479Z",
+  "model": "glm-5.3"
+}

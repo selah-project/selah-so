@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 97,
+  "translation": "Ku farxa Yahweh, gar-laawayaalow, uguna mahadnaada xuska quduuskiisa.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Ku farxa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gar-laawayaalow"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "uguna mahadnaada"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "xuska"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "quduuskiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:01.132244873Z",
+  "model": "glm-5.3"
+}

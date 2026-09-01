@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Yahweh wuxuu ka hadlay Muuse isagoo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ka hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u (ka)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:33:47.004075979Z",
+  "model": "glm-5.3"
+}

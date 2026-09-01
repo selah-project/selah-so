@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Sarartaada waxaa lagu soo dejiyay Sheool, iyo dhawaalada naafadahaaga; hoostaada waxaa lagu farsiiyay dir, daboohaagna waxay ku dulsaanyihiin dir.",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "waxaa lagu soo dejiyay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "sarartaada"
+    },
+    {
+      "surface": "המית",
+      "gloss": "iyo dhawaalada"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "naafadahaaga"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "hoostaada"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "waxaa lagu farsiiyay"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "daboohaagna"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:45.145000305Z",
+  "model": "glm-5.3"
+}

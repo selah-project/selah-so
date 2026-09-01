@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo markaad timaado halkaas, eeg halkaas Yehu ina Yehoshaphat ina Nimshi, oo aad adigu kiciso midigta walaalihiisa, oo aad keentid ⟨את⟩ qol gudaha qol ah.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "markaad timaado"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "aad"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "kiciso"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "midigta"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "walaalihiisa"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "aad keentid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "qol gudaha qol ah"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "qol"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "gudaha qol ah"
+    }
+  ],
+  "timestamp": "2026-09-01T03:26:42.718265173Z",
+  "model": "glm-5.3"
+}

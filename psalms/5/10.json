@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waayo, afka shisheeye ma jirto wax sugnaan; gudahoodu waa hallimo; qoortaasu waa qabri furan, carrabkanay ka noqon shuquli (qallooc).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "afka"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "wax sugnaan"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "gudahoodu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "hallimo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabri"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "furan"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "qoorta"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "carrabka"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "shuqulaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:24.313657931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Oo waxaad i baryaysaan ⟨את⟩ aniga, oo waxaad tegaysaan oo i tukanaysaan, oo anigu waan idinku dhageysanayaa.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "waxaad baryaysaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ i",
+      "marks": "i"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "waxaad tegaysaan"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "i tukanaysaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "waan idinku dhageysanayaa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "idin"
+    }
+  ],
+  "timestamp": "2026-09-01T04:12:46.830573473Z",
+  "model": "glm-5.3"
+}

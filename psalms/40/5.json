@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Barwa ninka ee dhigay Yahweh kalsoonadiisa, oo aan u jeedin goonniinayaasha iyo kuwa iilooda been.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Barwa"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dhigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "kalsoonadiisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ujeedin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "goonniinayaasha"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "iyo kuwa iilooda"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "been"
+    }
+  ],
+  "timestamp": "2026-09-01T05:08:49.308458767Z",
+  "model": "glm-5.3"
+}

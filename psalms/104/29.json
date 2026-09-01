@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Haddaad qariso wajigaaga way argagaxaan; haddaad ka qaaddo ruuxooda way dhintaan, oo boqolleydooda bay u noqdaan.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "haddaad qariso"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "way argagaxaan"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "haddaad ka qaaddo"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruuxooda"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "way dhintaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo u"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "boqolleydooda"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "bay noqdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:07.604580679Z",
+  "model": "glm-5.3"
+}

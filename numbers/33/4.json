@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Mitsrayimna waxay aasaanaysay ⟨את⟩ kuwii Yahweh ku garaacay — ilmolaha kasta; ilaahyadoodana Yahweh wuxuu sameeyay xukunno.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimna"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "waxay aasaanaysay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwii"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ku garaacay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ilmolaha"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "ilaahyadoodana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "xukunno"
+    }
+  ],
+  "timestamp": "2026-09-01T01:58:50.123804021Z",
+  "model": "glm-5.3"
+}

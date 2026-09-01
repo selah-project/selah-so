@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Dhagaxyo buuxa ⟨ah⟩ waxaad dhisaysaa ⟨את⟩ altar Yahweh Elohimkaaga, oo waxaad ku kori doontaa ololal (allabbari la gubiyo) Yahweh Elohimkaaga.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "dhagaxyo"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "buuxa ⟨ah⟩"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "waxaad dhisaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "waxaad ku kori doontaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ololal (allabbari la gubiyo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:01:20.787080559Z",
+  "model": "glm-5.3"
+}

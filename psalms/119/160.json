@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxa koowaad ee ereygaagu waa run, iyo weligii dhammaan xukunnadaaga shinaha ⟨ayaa waaraan⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Waxa koowaad"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ee ereygaagu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "iyo weligii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunnadaaga"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "shinaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:17.190785693Z",
+  "model": "glm-5.3"
+}

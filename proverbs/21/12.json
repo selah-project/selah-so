@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Qumuusku wuu si xariif ah u eegaa guriga sharka leh; sharka-lahiintana wuu baabi'inayaa xumaantooda darteed.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "wuu si xariif ah u eegaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Qumuusku"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharka leh"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "wuu baabi'inayaa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka-lahiinta"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "xumaantooda darteed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:46.725275181Z",
+  "model": "glm-5.3"
+}

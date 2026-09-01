@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Markay i soo dhowaadeen sharku inay cunaan ⟨את⟩ baruurkayga — colaadayday iyo cadowdayday — way dheellaabeen wayna dhaceen.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Markay soo dhowaadeen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "inay cunaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baruurkayga"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "baruurkayga"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "colaadayday"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "iyo cadowdayday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "way"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "dheellaabeen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wayna dhaceen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:13.347438708Z",
+  "model": "glm-5.3"
+}

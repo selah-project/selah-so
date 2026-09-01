@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Isaga kadib wuu kacay Ya'iir ee reer Gilcad, wuxuuna xukumay ⟨את⟩ Israa'iil labaan iyo labatan sanad.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wuu kacay"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "isaga kadib"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'iir"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ee reer Gilcad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "wuxuuna xukumay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "labatan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "iyo labaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    }
+  ],
+  "timestamp": "2026-09-01T02:34:35.524743927Z",
+  "model": "glm-5.3"
+}

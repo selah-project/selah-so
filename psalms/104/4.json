@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Kan sameeya malaa'igtiisii dabaylo, adeegayaashiisna naarta la leh (naar oo gubanaysa).",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "kan sameeya"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaa'igtiisii"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "dabaylo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "adeegayaashiisa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naarta"
+    },
+    {
+      "surface": "להט",
+      "gloss": "la leh (oo gubanaysa)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:29.931684919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Kaalaya, maqla, dhammaan idinkoo Elohim ka cabsada, waan idinku sheegi doonaa waxa uu nafdayda u sameeyay.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kaalaya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maqla"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "waan idinku sheegi doonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "idinkoo ka cabsada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu u sameeyay"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nafdayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:30.206647784Z",
+  "model": "glm-5.3"
+}

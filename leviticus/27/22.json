@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "Haddii uu Yahweh u qudusheeyo ⟨את⟩ beerta iibsi ahaa ee aan ka mid ahayn beeraha hantinadiisa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beerta iibsi ahaa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "beerta"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "iibsi ahaa (uu iibsaday)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan ka mid ahayn"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "beeraha"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "hantinadiisa"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "uu qudusheeyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh u"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:45.854245698Z",
+  "model": "glm-5.3"
+}

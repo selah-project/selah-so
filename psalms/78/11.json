@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Oo waxay hilmaameen ficilladiisa iyo yaabahiisii uu muujiyay.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Oo waxay hilmaameen"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ficilladiisa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "iyo yaabahiisii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uu"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "muujiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:29.845397706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waan dheelitiray Yahweh hortayda had iyo jeer; maxaa yeelay midigtaaday ayuu ⟨yahay}}, markaa anigu ma socdaan.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Waan dheelitiray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "hortayda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "had iyo jeer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "midigtaaday"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "socdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:03.816106305Z",
+  "model": "glm-5.3"
+}

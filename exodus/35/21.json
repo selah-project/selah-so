@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 35:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waxay yimaadeen dad kastaa qof kasta oo qalbigu dhaafiyay, iyo mid kastaa oo ruuxiisu u diyaarisay, waxay keeneen ⟨את⟩ bixinta Yahweh, shaqada khaymadga shirka iyo adeeggeeda oo dhan, iyo dharka quduska ah.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "waxay yimaadeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dhaafiyay"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo mid kastaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "u diyaarisay"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruuxiisu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "qofka ruuxu u diyaarisay"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "waxay keeneen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bixinta"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "bixinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "shaqada"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khaymadga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "adeeggeeda"
+    },
+    {
+      "surface": "ולבגדי",
+      "gloss": "iyo dharka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduska ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:22:54.779471343Z",
+  "model": "glm-5.3"
+}

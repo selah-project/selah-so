@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "I ilaali sida ishuunka (middaha) indhaha; hoostaa baalashaada i qari.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "I ilaali"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "sida ishuunka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "middaha"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "hoostaa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baalashaada"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "i qari"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:44.863253539Z",
+  "model": "glm-5.3"
+}

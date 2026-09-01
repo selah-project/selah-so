@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Oo khamrigu wuxuu faraxsiiyaa qalbiga bini-aadamka, saliidduna waxay ka dhigtaa wejiga inuu ifiyo, oo roodhku qalbiga bini-aadamka ayuu taageeraa.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "oo khamriga"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuxuu faraxsiiyaa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bini-aadamka"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "waxay ka dhigtaa inuu ifiyo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wejiga"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "saliidda"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "oo roodhka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bini-aadamka"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "ayuu taageeraa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:26.881000092Z",
+  "model": "glm-5.3"
+}

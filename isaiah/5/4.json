@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Maxaan kale oo aan u sameeyo kirtayda oo aan u sameeyin? Maxay tahay inaan sugay inay inab keento, waxayna keentay inab xun (beushim)?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "maxaan kale"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aan u sameeyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kirtayda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "u sameeyin"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxay tahay inaan"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "sugay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inay keento"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "inab"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "waxayna keentay"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "inab xun (beushim)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:39:16.414178341Z",
+  "model": "glm-5.3"
+}

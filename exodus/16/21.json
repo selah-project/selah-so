@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Way aruursadeen ⟨את⟩ subax subax kasta, nin kasta qadarka cunihiisa, markuu qorraxdu diidatana wuu dib u dhacey.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "way aruursadeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "waxa la aruursaday (manna) — la dhejiyay wixii la aruursaday"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subax"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subax kasta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "qadarka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "cunihiisa"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "markuu diidatay"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxdu"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "wuu dib u dhacey"
+    }
+  ],
+  "timestamp": "2026-09-01T01:12:46.713768961Z",
+  "model": "glm-5.3"
+}

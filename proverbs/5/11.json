@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Oo adigu waxaad oohin ku taagi doontaa dhamaadkaaga, marka jidhkaaga iyo ⟨gowrakaaguba⟩ la baysho.",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "oo adigu waxaad oohin ku taagi doontaa"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "dhamaadkaaga"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "marka la baysho"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jidhkaaga"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "gowrakaaguba"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:11.148286327Z",
+  "model": "glm-5.3"
+}

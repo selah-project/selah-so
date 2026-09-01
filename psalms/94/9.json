@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Kan dhegta Beeray, ma maqlayo moyaan? Kan indhaha sameeyay, ma arkayo moyaan?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Kan dhegta Beeray"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dhegta"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma moyaan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "maqlayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "עין",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ma arkayo moyaan"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "arkayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:39.697655214Z",
+  "model": "glm-5.3"
+}

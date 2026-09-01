@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Shaa'uulna wuxuu diray ⟨את⟩ rusaasha si ay u armaan ⟨את⟩ Daawud, iyadoo lagu yidhi: keeniwa ⟨את⟩ isaga sariirta ii ag taal, si loo dilo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rusaasha"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "rusaasha"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "si ay u armaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyadoo lagu yidhi"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "keeniwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "sariirta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ii ag taal"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "si loo dilo"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:49.984832723Z",
+  "model": "glm-5.3"
+}

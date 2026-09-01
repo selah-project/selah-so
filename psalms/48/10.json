@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Waxaan ka fikirnay, Elohow, khesedkaaga (naxariistaada), dhexda macbudkaaga.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "waxaan ka fikirnay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohow"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexda"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "macbudkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:27.802925760Z",
+  "model": "glm-5.3"
+}

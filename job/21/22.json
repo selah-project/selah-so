@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Ma Dad baa El ka bartaa aqoonta, isla markaasna isaga sarreeyayaashiyyaa uu xukumaa?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "El ka"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "baa... bartaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "aqoonta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "isla markaasna isaga"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "sarreeyayaashiyyaa"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "uu xukumaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:03.687436806Z",
+  "model": "glm-5.3"
+}

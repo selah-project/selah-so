@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 125,
+  "translation": "Yeruushaalaym — buuro ayaa hareereheedis ah, iyo Yahweh wuxuu ka hareereeyaa dadkiisa, laga bilaabo hadda iyo weligayba.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hareereheedis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ayaa ... ah"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "iyo Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wuxuu ka hareereeyaa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "dadkiisa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "laga bilaabo hadda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligayba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:16.454411990Z",
+  "model": "glm-5.3"
+}

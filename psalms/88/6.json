@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": " Waxaan ahay mid ka baxsan kuwa dhintay, sida la diley oo qabriga ku jiifsaday, kuwaadanAdonay xusuusin faqri waxayna gacantaada laga goostay.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "kuwa dhintay"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "mid ka baxsan"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "la diley"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "ku jiifsaday"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabriga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuwaasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "xaqsanayn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "faqri"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iyo iyaga"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gacantaada"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "waa laga goostay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:12.558640593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Sheeko-beleashaagu dadka bay u aaminteen, waadna cun-cunaysay, oo cidna wax ceebayso ma jirto.",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "Sheeko-beleishaagu"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "u aaminteen"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "waadna cun-cunaysay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "cidna... ma jirto"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "wax ceebayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:42:40.908324720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Wuxuu gooyay ⟨את⟩ AXbraaham, iyo dhaartiiisa ee loo ballanqaaday Is-Xaaq;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kaas oo (axdii)"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wuxuu gooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "AXbraaham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "AXbraaham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "iyo dhaartiisii"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "loo ballanqaaday Is-Xaaq"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:15.638051703Z",
+  "model": "glm-5.3"
+}

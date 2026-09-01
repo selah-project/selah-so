@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Iyagu way jilceen oo way dhaceen, laakiin innaga waannu kicinnay waannuna si adag u taagnay.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "iyagu"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "way jilceen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "wayna dhaceen"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "innaga"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "waannu kicinnay"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "waannuna si adag u taagnay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:31.172519412Z",
+  "model": "glm-5.3"
+}

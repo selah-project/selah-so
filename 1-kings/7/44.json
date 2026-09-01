@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "iyo ⟨את⟩ badda mid, iyo ⟨את⟩ lo'da laba iyo toban oo badda hoosteeda ah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "badda mid"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "lo'da laba iyo toban"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lo'da"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "laba iyo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosteeda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    }
+  ],
+  "timestamp": "2026-09-01T03:11:38.497340028Z",
+  "model": "glm-5.3"
+}

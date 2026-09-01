@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Kii xaqiinaya sharka-luuqada iyo kii galinaya dembiga xaqa, wax labadaba waa ker Yahweh.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "Kii xaqiinaya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharka-luuqada"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "iyo kii galinaya dembiga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "xaqa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wax"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "labadaba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:12.509404148Z",
+  "model": "glm-5.3"
+}

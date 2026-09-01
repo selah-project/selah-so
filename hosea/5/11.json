@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Efrayim waa la cuneeyay, waa la jajiyay xukunka; waayo, wuu doortay inuu raaco amarka.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "waa la cuneeyay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "waa la jajiyay"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukunka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo,"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "wuu doortay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "inuu raaco"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "(raaco)"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amarka"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:59.815491970Z",
+  "model": "glm-5.3"
+}

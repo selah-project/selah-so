@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 114,
+  "translation": "Ka hor Adonay, dhulkaow, gariir! Ka hor Eloah Ya'aqob!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "gariir!"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulkaow"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:49.367648090Z",
+  "model": "glm-5.3"
+}

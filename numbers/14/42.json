@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ha kicina, waayo, Yahweh ma aha dhexdoodkiin, waxaadna la qaban doontaan ciddi idinka neceb.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "kicina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "dhexdoodkiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waxaadna"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "la qaban doontaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortiinna"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ciddi idinka neceb"
+    }
+  ],
+  "timestamp": "2026-09-01T01:48:09.983187526Z",
+  "model": "glm-5.3"
+}

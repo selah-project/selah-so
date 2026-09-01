@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 27,
+  "translation": "U hadal ilmaha Israaiil, oo ku dhah ⟨iddinku⟩: Qof kastoo nadar gaar ah ah dhiyoyo, qiimahaada nafaha ayuu lagu qiimeeyaa — ⟨nafahaasu» Yahweh bay u noqonaysaa»⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "U hadal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "il"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "oo ku dhah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iddinku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Qof kastoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-oo"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "gaar ah"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadar"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "qiimahaada"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nafaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:56.046927019Z",
+  "model": "glm-5.3"
+}

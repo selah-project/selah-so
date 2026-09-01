@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kuwani waa curuurka Cham, qabiiladooda iyo luuqadooda, dhulkooda iyo shacabkooda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kuwani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "curuurka"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "qabiiladooda"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "luuqadooda"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "dhulkooda"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "shacabkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T00:44:30.109690877Z",
+  "model": "glm-5.3"
+}

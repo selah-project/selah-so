@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 121,
+  "translation": "Gargaarkaygii wuxuu ka yimaadaa Yahweh, sameeyaha samada iyo dhulka.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Gargaarkaygii"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka yimaadaa (laga soo bilaabmaya)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sameeyaha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "iyo dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:25:14.792376559Z",
+  "model": "glm-5.3"
+}

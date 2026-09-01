@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ha necebin ⟨את⟩ walaalkaa qalbigaaga dhexdiisa; si sugan u hanuini ⟨את⟩ saaxiibkaaga, oo dembi ha ku dhaarin isaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "necebin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walaalkaa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "qalbigaaga dhexdiisa"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "si sugan u"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "hanuini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkaaga"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "saaxiibkaaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo dembi ha ku"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dhaarin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dembi"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:31.365715867Z",
+  "model": "glm-5.3"
+}

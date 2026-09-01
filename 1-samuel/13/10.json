@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Markuu dhammeeyay gudbintii allabari daahistankii, saas ma tahay, Shemu'el baa yimid; wuxuuna Shaa'uul ka baxay la kulankiis inuu duceeyo (inuu barakeeyo).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Markuu (noqday)"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "markuu dhammeeyay"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "inuu gudbiyo (kor u qaado)"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "allabari daahistankii"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "saas ma tahay \/ bal eeg"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baa yimid"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wuxuuna ka baxay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "la kulankiis \/ hor istaagi"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "inuu duceeyo (barakeeyo)"
+    }
+  ],
+  "timestamp": "2026-09-01T07:05:12.244060999Z",
+  "model": "glm-5.3"
+}

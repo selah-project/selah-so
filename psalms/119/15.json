@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Amaradaada waan ka fekerayaa, oo jidadkaada waan tijaabiyaa.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "amaradaada"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "waan ka fekerayaa"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "oo waan tijaabiyaa"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jidadkaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:39.692627117Z",
+  "model": "glm-5.3"
+}

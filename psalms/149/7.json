@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Si ay u sameeyaan cn-u-dil (ddaaraar) shacabka aan-Yuhuudda ahayn, iyo xukun-celin bulshooyinka.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "si ay u sameeyaan"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "cn-u-dil (ddaaraar)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shacabka aan-Yuhuudda ahayn ku"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "xukun-celin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bulshooyinka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:36.349240576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 104,
+  "translation": "Carrabtaada ka carareen; codka onkodkaaga dhegey si degdeg ah u carareen.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "Carrabtaada"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "carareen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "codka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "codka"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "onkodkaaga"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "si degdeg ah u carareen"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:17.701562282Z",
+  "model": "glm-5.3"
+}

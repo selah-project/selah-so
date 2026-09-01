@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Waxaad baartay wadnahayga, waxaad booqatay habeenkii, waxaad i sisayb-tirisay mana helin wax; dammaystayda wax dhaafka ma labartaan.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Waxaad baartay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wadnahayga"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Waxaad booqatay"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "waxaad i sisayb-tirisay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "helin wax"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "dammaytayda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "wax dhaafka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "labartaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:13.520562357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 116,
+  "translation": "Waxaan rumeeyay, maxaa awgeed waxaan hadlay; anniga waxaan si weyn loo dhibay.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "waxaan rumeeyay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa awgeed"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "waxaan hadlay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "anniga"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "waxaan loo dhibay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si weyn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:12.403852937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Haddii aad wax garad noqotay, naftaada baaad u noqotay; haddii aad qoslisay, adiga keligaa baaad dhibka qaadaysoo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "aad wax garad noqotay"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wax garad noqotay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "aad qoslisay"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "adiga keligaa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dhibka qaadaysoo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:45.674519055Z",
+  "model": "glm-5.3"
+}

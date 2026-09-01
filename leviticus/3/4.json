@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo ⟨את⟩ labada bowdho, iyo ⟨את⟩ baruurta korkooda ah ee lumbaha ku dhow, iyo ⟨את⟩ walxadda jirriska ka hooseysa — bowdhaha la socda baa laga saari doonaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "labada bowdho"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bowdhaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "baruurta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "baruurta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lumbaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "walxadda jirriska"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "walxadda (jirriska ka hooseysa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jirriska"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "bowdhaha"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "baa laga saari"
+    }
+  ],
+  "timestamp": "2026-09-01T01:26:56.819429051Z",
+  "model": "glm-5.3"
+}

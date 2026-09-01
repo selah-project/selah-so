@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Magaciisu ha noqdo weligiis; magaciisu hortooda qorraxda ha sii bixo (yinin), oo dhammaan shacabka ay naftooda ku barakeeyaan oo ay xarragsan yihiin ku dhahaan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ha noqdo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortooda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "ha sii bixo (yinin)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisu"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "ay naftooda ku barakeeyaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "oo ay xarragsan yihiin ku dhahaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:18.625865874Z",
+  "model": "glm-5.3"
+}

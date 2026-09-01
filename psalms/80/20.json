@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim ciidammada, noo noqo; iftiimi wajigaaga, oo waannu badbaadaynaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciidammada"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "noo noqo"
+    },
+    {
+      "surface": "האר",
+      "gloss": "iftiimi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "oo waannu badbaadaynaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:34.869652191Z",
+  "model": "glm-5.3"
+}

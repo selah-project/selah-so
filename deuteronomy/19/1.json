@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Markay Yahweh Elohimkaagu gooyo ⟨את⟩ shacabkaa aan-Yahweh-Elohimkaagu-ku-siiyo-⟨את⟩-dhulkooda, aad dhaxasho, aadna degto magaalooyinkooda iyo guryahooda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Markay"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "gooyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shacabkaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "shacabkaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimkaagu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ku-siiyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkooda"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dhulkooda"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "aad-dhaxasho"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "aadna-degto"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "magaalooyinkooda"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "guryahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:08:49.624285856Z",
+  "model": "glm-5.3"
+}

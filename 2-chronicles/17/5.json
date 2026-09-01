@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Yahwehna wuxuu sugay ⟨את⟩ boqortooyada gacantiisa, dadka Yehuudahana oo dhan waxay bixiseen munaxo Yehooshuufaca, wuxuuna lahaa hoddi iyo sharaf baaxad leh.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "wuxuu sugay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boqortooyada"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "boqortooyada"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "waxay bixiyeen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuudaha"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "munaxo (qeddhin)"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Yehooshuufaca"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wuxuuna ahaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "hoddi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "iyo sharaf"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "baaxad leh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:15.675959498Z",
+  "model": "glm-5.3"
+}

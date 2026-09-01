@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Laakiin khesedka Yahweh wuxuu ka sii socdaa min waqti la ooyin ilaa waqti la ooyin, kuwa cabsanaya shaqigiisa iyo xaqiisigiisna ilaa wiilashii wiilasha.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Laakiin khesedka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "min waqti la ooyin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waqti la ooyin"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuwa…ku"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cabsanaya shaqigiisa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "iyo xaqiisigiisna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilaa wiilashii"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilasha"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:00.479899720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Oo boqorkii Israa'iil wuxuu Yehooshafat ku yidhi: Ma aanan ku idhin inaanu i saarin wanaag, laakiin shar mooyaane?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ma aanan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ku idhin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "aanu"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "saarin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mooyaane"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    }
+  ],
+  "timestamp": "2026-09-01T03:23:28.985945800Z",
+  "model": "glm-5.3"
+}

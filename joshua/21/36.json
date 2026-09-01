@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Qabiilada Reʿuuben ⟨את⟩ Beser iyo ⟨את⟩ beerteeda, iyo ⟨את⟩ Yahtsa iyo ⟨את⟩ beerteeda.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Qabiilada"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reʿuuben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Beser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerteeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerteeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Yahtsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahtsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerteeda"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerteeda"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:34.975472589Z",
+  "model": "glm-5.3"
+}

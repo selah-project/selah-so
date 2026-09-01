@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan ku socon doonaa dhexdiinna, waxaan idiin noqon doonaa Elohim, idinkuna waxaad ii noqon doontaan qolo.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "Waxaan ku socon doonaa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "dhexdiinna"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "waxaan noqon doonaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "idinkuna"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "waxaad noqon doontaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "qolo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:44.079868270Z",
+  "model": "glm-5.3"
+}

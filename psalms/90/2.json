@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Ka hor inta buuraha la dhalin, iyo ka hor inta aad dhulka iyo adduunka samaynid, tan iyo weligey ilaa weligey adigu Adonay, adigu Adigay tahay El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ka hor inta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "la dhalin"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "iyo ka hor inta aad samaynid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "iyo adduunka"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "tan iyo weligey"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligey"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:29.753104955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Markaan aamusay, lafahaygay way daaleen, iyadoo qayladdaydu socoto maalintii oo dhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "marka"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "aan aamusay"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "way daaleen"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "lafahayga"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "qayladdayda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalinta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:11.419619150Z",
+  "model": "glm-5.3"
+}

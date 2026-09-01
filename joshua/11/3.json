@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Iyo ⟨aan qorsheynin⟩ Kanaaniga bari iyo galbeed, iyo Emorita, iyo Xittita, iyo Ferizita, iyo Yebusita buuraha, iyo Xiwita hoos-ta Xermoon, dhulka Micpa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaniga"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "bari"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "iyo galbeed"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "iyo Emorita"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "iyo Xittita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iyo Ferizita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "iyo Yebusita buuraha"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "iyo Xiwita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos-ta"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Xermoon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpa"
+    }
+  ],
+  "timestamp": "2026-09-01T08:19:33.254264881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Bilowgii gebigaada, cabbitaankaaa (khamarkaaga cusub) iyo salaydaa, iyo bilowgii dhogorta adhigaabaad, adiga baa u siinaysaa isaga.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "bilowgii"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "gebigaada"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "cabbitaankaaa (khamar cusub)"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "iyo salaydaa"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "iyo bilowgii"
+    },
+    {
+      "surface": "גז",
+      "gloss": "dhogorta"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "adhigaabaad"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "baad u siinaysaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:07.458955376Z",
+  "model": "glm-5.3"
+}

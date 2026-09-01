@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "boqorkii Axashweerowshna wuxuu ku yidhi boqaraddi Ester iyo Mordekhayga Yuhuudiga ee bal gurigii Haamaan waxaan Ester siyay oo ⟨את⟩ isagana waa la dhangaystiyay geedka durriyada waayo uu gacantiisa ku dhex fiday Yuhuudda",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkii"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Axashweerowshna"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "boqaraddi Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "boqaraddii"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "iyo Mordekhayga"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Yuhuudiga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ee bal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haamaan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "waxaan siyay"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "oo ⟨את⟩ isagana",
+      "marks": "isagana (Haamaan)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "waa la dhangaystiyay"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedka durriyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uu ku dhex fiday"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "Yuhuudda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:04:06.897477835Z",
+  "model": "glm-5.3"
+}

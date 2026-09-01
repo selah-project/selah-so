@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Haddiise uu dharka uusan maydhin, jidhkiisana uusan dhaqmin, wuxuu xil u saaran doonaa denbigiisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "haddiise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uusan"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "maydhin (dharka)"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "jidhkiisana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uusan"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dhaqmin"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "wuxuu xil u saaran doonaa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "denbigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:34:33.961289502Z",
+  "model": "glm-5.3"
+}

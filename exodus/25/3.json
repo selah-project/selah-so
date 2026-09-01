@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Kanina waa hibaha aad ka qadanaysid ⟨את⟩ iyaga: dahab iyo lacag iyo bir (nekhoshet).",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "hibaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ka qadanaysid"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ iyaga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahab"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "iyo lacag"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "iyo bir (nekhoshet)"
+    }
+  ],
+  "timestamp": "2026-09-01T01:18:01.894318579Z",
+  "model": "glm-5.3"
+}

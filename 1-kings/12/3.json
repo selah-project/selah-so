@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxayna diray, waxayna u yeeray; wuxuuna yimid Yarobeam iyo dhamaan golaha Israa'iil, waxayna Rejaboam ku hadlay, si ay u dhahaan:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "waxayna diray"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "waxayna u yeeray"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wuxuuna yimid"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhamaan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "golaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "waxayna ku hadlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejaboam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si ay u dhahaan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:17:49.213379556Z",
+  "model": "glm-5.3"
+}

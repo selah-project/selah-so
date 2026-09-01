@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Marka sharku yimaado, waana la'niddu (waxay) timaadaa; oo wata dullana caay.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "marka... yimaado"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sharku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "(waxay) timaadaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "waana"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "la'niddu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "oo wata"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "dulla"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "caay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:34.714363209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 66,
+  "translation": "Ereyo ay laftaydu fureen, oo afkaygu wuu sheegay markii aan cidhiidhi ku jiray.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ereyo"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ay fureen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "laftaydu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "oo wuu sheegay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkaygu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "cidhiidhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan ku jiray"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:30.206270399Z",
+  "model": "glm-5.3"
+}

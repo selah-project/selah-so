@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Ma weligiis baad noo cadhataa? Ma suuxaysaa neefkaaga ilaa durru ilaa durru?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Ma weligiis"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "baad noo cadhataa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Ma suuxaysaa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "neefkaaga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ilaa durru"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ilaa durru"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:34.082345943Z",
+  "model": "glm-5.3"
+}

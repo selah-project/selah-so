@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Keliya qaraabadiisa u dhowaa — hooyadiis iyo aabbihis, wiilkiis iyo gabadhiis, iyo walaalkiis.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "keliya haddii"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "qaraabadiisa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kan u dhow"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "hooyadiis"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "iyo aabbihis"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "wiilkiis"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "iyo gabadhiis"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "iyo walaalkiis"
+    }
+  ],
+  "timestamp": "2026-09-01T01:36:14.343066143Z",
+  "model": "glm-5.3"
+}

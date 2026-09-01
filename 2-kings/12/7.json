@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Markay ahayd sanadkii laba-iyo-asharaad iyo saddexaad ee boqorka Yehoash, wadaaddadu ma ay adkin ⟨את⟩ burburka guriga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "markay ahayd"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sanadkii"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "laba-iyo-asharaad"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "iyo saddexaad"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ee boqorka"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ay"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "adkin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddadu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burburka"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "burburka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:32.295168563Z",
+  "model": "glm-5.3"
+}

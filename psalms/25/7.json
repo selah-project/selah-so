@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Dembiyadii carruurnimadayda iyo caasiyaannadayda ha xusuusanin; sida khesedkaaga ii xusuusnow, aawadiis wanaagaaga, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "dembiyadii"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "carruurnimadayda"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "iyo caasiyaannadayda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha ... (diidmo)"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ha xusuusanin"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sida khesedkaaga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ii xusuusnow"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨adiga⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aawadiis"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "wanaagaaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:16.841784302Z",
+  "model": "glm-5.3"
+}

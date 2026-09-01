@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Yahwehna dhegtii Shemu'el baa u furoofuray ⟨את⟩ dhegta, maalin ka hor inta Shaa'uul u imaan, isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "baa u furoofuray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhegta"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dhegta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ka hor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "inta ka hor"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "u imaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:46:18.551364910Z",
+  "model": "glm-5.3"
+}

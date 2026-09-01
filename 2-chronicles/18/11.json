@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 18:11",
+  "book": "2-chronicles",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Nebiyadu oo dhan sidoo bay u nebi-yihiin, iyagoo leh: Kac Ramoot-Gilcaad oo guulsoo, si Yahweh ugu dhiibo gacanta boqorka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "iyo dhammaan"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "nebiyada"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "bay u nebi-yihiin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidoo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyagoo leh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kac"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilcaad"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "oo guulsoo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "si ... ugu dhiibo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T06:40:50.356058427Z",
+  "model": "glm-5.3"
+}

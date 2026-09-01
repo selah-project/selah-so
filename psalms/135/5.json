@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Waayo, aniga waan ogyahay in Yahweh weyn yahay, iyo Adonayanna ka tii dhammaan ilaahyada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "waan ogyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "iyo Adonayanna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka tii dhammaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilaahyada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:31.085324519Z",
+  "model": "glm-5.3"
+}

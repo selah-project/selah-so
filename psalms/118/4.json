@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Ha yidhaahdeen hadda kuwa Yahweh ka cabsada: ki l'olam khesedkiisa.",
+  "tokens": [
+    {
+      "surface": "ייאמרו",
+      "gloss": "Ha yidhaahdeen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hadda"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kuwa...ka cabsada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "l'olam"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:15.852329192Z",
+  "model": "glm-5.3"
+}

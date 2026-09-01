@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Is-laweynidda Israa'iil waxay wajigiisa ka markhaati-furnaysaa, Israa'iilna iyo Ef rayim waxay xadgudubkooda ku dhici doonaan, Yahuudahna wuu iyaga la dhici doonaa.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "waxay ka markhaati-furnaysaa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "is-laweynidda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'iilna"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "iyo Ef rayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "waxay ku dhici doonaan"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "xadgudubkooda"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "wuu dhici doonaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudahna"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "iyaga la"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:40.234288035Z",
+  "model": "glm-5.3"
+}

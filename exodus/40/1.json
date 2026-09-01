@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Yahweh wuxuu la hadlay Muuse ⟨isaga⟩ oo leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu la hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la (gelin)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "oo leh"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:33.156475704Z",
+  "model": "glm-5.3"
+}

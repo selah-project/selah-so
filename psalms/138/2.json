@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "Waan u sujuudayaa geesta haykalka quduuskaaga ah, waan ku mahadnaqaa ⟨את⟩ Magacaaga xagga khesed-kaaga iyo xagga runtaada; waayo waad ka weyneysay dhammaan Magacaaga, eraygaaga.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Waan u sujuudayaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geesta"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "haykalka"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "quduuskaaga ah"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "waan ku mahadnaqaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Magacaaga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed-kaaga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo xagga"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "runtaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "waad ka weyneysay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "eraygaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:52.152944160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo maxaad u keenteen ⟨את⟩ jamaca Yahweh baadiyadan si aan halkaas u dhimanno anaga iyo bahdayada ba?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "maxaad u"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "keenteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaca Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baadiyadan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "u dhimanno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anaga"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "iyo bahdayada ba"
+    }
+  ],
+  "timestamp": "2026-09-01T01:52:01.079014994Z",
+  "model": "glm-5.3"
+}

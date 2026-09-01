@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wiilasha Israa'iil ha sameeyaan ⟨את⟩ Peska wakhtihiisa la cayimay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ha sameeyaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Peska"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "wakhtihiisa la cayimay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:58.242105799Z",
+  "model": "glm-5.3"
+}

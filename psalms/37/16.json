@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Wanaagsan yahay wax yar oo xaqiya leh, ka badan maal badan oo xuntho badan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Wanaagsan yahay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "oo xaqiya leh"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ka badan maal badan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oo xuntho"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:38.012444988Z",
+  "model": "glm-5.3"
+}

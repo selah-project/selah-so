@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 149,
+  "translation": "Wadaaddadu (khesed-leh) waa inay farax ku qabtaan sharaf, waa inay hees-cayn ku qaataan sariirahooda.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "farax ku qabtaan"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "wadaaddadu (khesed-leh)"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sharaf ku"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hees-cayn ku qaataan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "sariirahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:36.348745710Z",
+  "model": "glm-5.3"
+}

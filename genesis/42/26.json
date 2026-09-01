@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Waxayna saaray ⟨את⟩ qamadigooda dameerahooda dushooda, waxayna ka tegeen halkaas.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "waxayna saaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qamadigooda"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "qamadigooda"
+    },
+    {
+      "surface": "על",
+      "gloss": "dushooda"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dameerahooda"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "waxayna tegeen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "halkaas"
+    }
+  ],
+  "timestamp": "2026-09-01T00:59:55.811191036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 85,
+  "translation": "Lagu talagalay hoggaamiyaha ⟨muusikada⟩, oo wiilasha Korah; mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "lagu talagalay hoggaamiyaha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:19.514557808Z",
+  "model": "glm-5.3"
+}

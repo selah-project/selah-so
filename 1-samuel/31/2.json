@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Falistiintii waxay si adag u soo raaceen ⟨את⟩ Shaa'uul iyo ⟨את⟩ wiilashiisii, oo Falistiintii waxay dileen ⟨את⟩ Yehonatan iyo ⟨את⟩ Abinadab iyo ⟨את⟩ Malki-shua, wiilashii Shaa'uul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "waxay si adag u soo raaceen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaa'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiilashiisii"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wiilashiisii"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "waxay dileen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistiintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    }
+  ],
+  "timestamp": "2026-09-01T02:56:41.105123738Z",
+  "model": "glm-5.3"
+}

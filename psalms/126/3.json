@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 126,
+  "translation": "Yahweh wuxuu weyneeyay inuu nala sameeyo; waan faraxsan nahay.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "wuxuu weyneeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inuu sameeyo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "waan nahay"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "faraxsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:21.072453426Z",
+  "model": "glm-5.3"
+}

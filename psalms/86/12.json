@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 86,
+  "translation": "Waannu ku mahadin, Adonay Eloahayga, dhammaan wadnimadayda, oo waannu ammaani doonaa Magacaaga weligiisba.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Waannu ku mahadin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahayga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wadnimadayda"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "oo waannu ammaani doonaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Magacaaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiisba"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:18.769926597Z",
+  "model": "glm-5.3"
+}

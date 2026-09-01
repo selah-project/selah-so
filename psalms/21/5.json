@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Nolosheed wuu weydiiyay adiga koo, waxaad siisay isaga — dherer maalmood, ilaa iyo weligaa iyo saxda.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "nolol"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wuu weydiiyay"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "adiga koo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "waxaad siisay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dherer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wigaa ah"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iyo saxda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:59.700149916Z",
+  "model": "glm-5.3"
+}

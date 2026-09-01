@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Waxaad xataa celisay geeska seeftiisa, oo aadan taagnin colaadda.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "waxaad xataa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "celisay"
+    },
+    {
+      "surface": "צור",
+      "gloss": "geeska (dhagax weyn)"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "seeftiisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oo aadan"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "taagnin ⟨isaga⟩"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "colaadda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:07.985111359Z",
+  "model": "glm-5.3"
+}

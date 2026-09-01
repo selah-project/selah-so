@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 93,
+  "translation": "Yahweh wuxuu xilka haayay (mulacaabay), sharaf buu xidhay, sharaf buu xidhay Yahweh, xoog buu naftiisa ku maray (xeray); saa darteed dhulku waa la sugay, uma dhaqaaqi karo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wuxuu xilka haayay"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "sharaf"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "buu xidhay"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "buu xidhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "buu naftiisa ku maray (xeray)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "saa darteed"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "waa la sugay"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dhulku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "dhaqaaqi karo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:19:09.068028069Z",
+  "model": "glm-5.3"
+}

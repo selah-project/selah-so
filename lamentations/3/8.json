@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Xataa markaan qaylo-dhaayo oo caawimo-baro, wuu xiray (sidaa oo kale) baryadaydii",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xataa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "markaan"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "qaylo-dhaayo"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "oo caawimo-baro"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "wuu xiray"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "baryadaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:37.675876664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Oo idinkuna waxay ka soo qaadanaysaan inay kacaan qarso-guul-dhigidda, aadna ku hawl-gelyeesaan ⟨את⟩ magaalada, oo Yahweh Elohiinna wuu ku siinayaa gacantiinna.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Oo idinkuna"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "waxay ka soo qaadanaysaan inay kacaan"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "qarso-guul-dhigidda ka"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "aadna ku hawl-gelyeesaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "wuu ku siinayaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiinna"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "gacantiinna"
+    }
+  ],
+  "timestamp": "2026-09-01T02:20:40.980141440Z",
+  "model": "glm-5.3"
+}

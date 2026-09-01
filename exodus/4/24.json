@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Dhexdii socodka, goortuu manzil joogay, Yahweh baa la kulmay isaga, oo wuu doonayay inuu dilo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dhexdii socodka goortuu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "socodka"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "manzil"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "la kulmay isaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "wuu doonayay"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "inuu dilo"
+    }
+  ],
+  "timestamp": "2026-09-01T01:05:12.040318901Z",
+  "model": "glm-5.3"
+}

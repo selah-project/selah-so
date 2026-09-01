@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Naag sharaf leh waa taaj ninkeed; laakiin mid walaal ceeb ah ku kordhisa waa sida kan ceelka ku dhalan lahaa dhexda lafeelahaa.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Naag"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sharaf leh"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taaj"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ninkeed"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "laakiin sida cuqbad"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "dhexda lafeelahaa"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "mid ceeb ku kordhisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:33:18.086257972Z",
+  "model": "glm-5.3"
+}

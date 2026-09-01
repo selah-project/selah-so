@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Wuxuuse Ayyuub dhintay, oo waaye duq oo maalmaha ka sugan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Wuxuuse dhintay"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "duq"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "oo maalmaha ka sugan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmaha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:51:45.399902183Z",
+  "model": "glm-5.3"
+}

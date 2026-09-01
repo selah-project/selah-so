@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oohintayda ayaan ku daalay; habeenkii kullo sariirtayda waan biyo-dhexbaahayaa; oo'dayda baa miiskayga dhaloolinaysa.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "waan ku daalay"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "oohintayda"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "waan biyo-dhexbaahayaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kullo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "sariirtayda"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "oo'dayda"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "miiskayga"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "dhaloolinaysa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:03.473763383Z",
+  "model": "glm-5.3"
+}

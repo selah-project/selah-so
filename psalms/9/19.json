@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Maxayeede, weligeed lama hilmaaan doono baahida; rajsada dullugga weligeed ma baabbi'aan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maxayeede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "lama hilmaaan doono"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "baahida"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "rajsada"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dullugga"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ma baabbi'aan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:28.496282188Z",
+  "model": "glm-5.3"
+}

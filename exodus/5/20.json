@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Way la kulmeen ⟨את⟩ Muuse iyo ⟨את⟩ Axaroow, oo taagan iyagoo dood ah, markay ka soo baxayeen ⟨את⟩ Farcoon.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "way la kulmeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Axaroow"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Axaroow"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "taagan"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "iyagoo dood ah"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "markay soo baxayeen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    }
+  ],
+  "timestamp": "2026-09-01T01:06:13.734523217Z",
+  "model": "glm-5.3"
+}

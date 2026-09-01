@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waad ku darsatay qaranka, Yahweh; waad ku darsatay qaranka; waad la ammaanantay; waad ballaarisay dhammaan dhulka geesahiisa.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "Waad ku darsatay"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "qaranka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "waad ku darsatay"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "qaranka"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "waad la ammaanantay"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "waad ballaarisay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "geesahiisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:44:10.018971999Z",
+  "model": "glm-5.3"
+}

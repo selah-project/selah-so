@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Waxay odhan doonaan: Sababtoo ah ay ka teageen ⟨את⟩ ballanka Yahweh, Elohimka aabbayaashood, oo uu la galay iyaga markuu ⟨את⟩ iyaga ka bixinayay dhulkii Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "waxay odhan doonaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababtoo ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ay ka teageen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ballanka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ballanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "aabbayaashood"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uu la galay"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "markuu ka bixinayay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "iyaga ⟨את⟩",
+      "marks": "dhulkii Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulkii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T02:14:15.713220187Z",
+  "model": "glm-5.3"
+}

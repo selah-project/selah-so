@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Midhahooda waad baabi'in doontaa dhulka, uurkoodana wiilasha aadamka.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Midhahooda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "waad baabi'in doontaa"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "uurkoodana"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:50.024549611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Wadnaygii wuu lumi waayay; argax i qabatay; ⟨את⟩ fiiddkii raalliyaddaydii wuxuu ii dhigay cabsi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "wuu lumi waayay"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Wadnaygii"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "argax"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "i qabatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiiddkii raalliyaddaydii"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "fiiddkii"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "raalliyaddaydii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "cabsi"
+    }
+  ],
+  "timestamp": "2026-09-01T03:42:41.785840879Z",
+  "model": "glm-5.3"
+}

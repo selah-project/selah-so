@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Cadowgu wuu dhammaaday, barbaarradu way socdaan tan iyo weligii; magaalooyinkana adigaa dumi say; xusishadoodi wey baabbi' day, iyagoo dhan.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Cadowgu"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "wuu dhammaaday"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "barbaarradu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tan iyo weligii"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "magaalooyinka"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "adigaa dumi say"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wey baabbi' day"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "xusishadoodi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iyagoo dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:29.680492383Z",
+  "model": "glm-5.3"
+}

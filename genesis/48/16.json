@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 48,
+  "translation": "Malagga iiga gujiyay ⟨את⟩ dhammaan sharta ha barakaysto ⟨את⟩ curuuraha, magacaygana kuwaas ha loogu yeero, iyo magaca aabayaashay Ibraahiim iyo Isxaaq, oo ha tarmaan fara badan dhulka dhexdiisa.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "Malagga"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "iiga gujiyay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aniga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sharta"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ha barakaysto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "curuuraha"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "curuuraha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha loogu yeero"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "magacayga"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "iyo magaca"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "aabayaashay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiim"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "iyo Isxaaq"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "ha tarmaan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "fara badan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dhexdiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:47.287491758Z",
+  "model": "glm-5.3"
+}

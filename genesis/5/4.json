@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxay ahaayeen maalmihii Aadanka ka dib markii uu dhalay ⟨את⟩ Sheydh sideed boqol oo sano, wuxuuna dhalay wiilal iyo gabdho.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Waxay ahaayeen"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmihii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadanka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka dib"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "markii uu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheydh"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheydh"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sideed"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "boqol"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wuxuuna dhalay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wiilal"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "iyo gabdho"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:15.600724325Z",
+  "model": "glm-5.3"
+}

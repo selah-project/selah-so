@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo waxaan ka hadli doonaa xukunnadayagii ⟨את⟩ iyaga, xagga dhammaan sharkooda, ah inay i tageen, oo ay u shidaan cuudsi ⟨u shidaan qumbo Elohim kale⟩, oo ay sujuudaan shuqulladii gacmohooda.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "oo waxaan ka hadli doonaa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "xukunnadayagii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iyaga",
+      "marks": "xukunnadayagii (eshaahta lagu tilmaamay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "sharkooda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ah inay"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "i tageen"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "oo ay u shidaan cuudsi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim kale u"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "oo ay sujuudaan"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "shuqulladii"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    }
+  ],
+  "timestamp": "2026-09-01T04:00:09.056601167Z",
+  "model": "glm-5.3"
+}

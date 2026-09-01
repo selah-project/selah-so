@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Ha noqdaan sidii boorsood hortii dabaysha, oo malakigii Yahweh ha siibay.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ha noqdaan"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sidii boorsood (kemos)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dabaysha (ruux)"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "oo malakigii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ha siibay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:19.984006258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Madaxa martigeliyeyaasha biyahuna ma xusuusin ⟨את⟩ Yoosef, wuuna hilmaamay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "xusuusin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "madaxa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "martigeliyeyaasha biyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "wuuna hilmaamay"
+    }
+  ],
+  "timestamp": "2026-09-01T00:57:07.189275001Z",
+  "model": "glm-5.3"
+}

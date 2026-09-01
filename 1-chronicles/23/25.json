@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waxaa Dawid yidhi: Yahweh, Elohimka Israa'iil, wuxuu nasiiyay umaddiisii, oo wuxuu deggan yahay Yeruushaalaym ilaa iyo weligii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waxaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "wuxuu nasiiyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umaddiisii"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "oo wuxuu deggan yahay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa iyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:31:45.049587390Z",
+  "model": "glm-5.3"
+}

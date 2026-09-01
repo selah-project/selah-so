@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kii saaxiibkiis dillo waa qalbiga yar (caqli xun), laakiin nin gar qaba wuu aamusaa.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "kii … dillo"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "saaxiibkiis"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "waa … ka maqan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "laakiin nin"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "gar qaba"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "wuu aamusaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:08.565631873Z",
+  "model": "glm-5.3"
+}

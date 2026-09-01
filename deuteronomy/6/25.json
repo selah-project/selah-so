@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Oo ⟨waa⟩ caddeyn-dhaqan bay noqon doontaa, haddaan ilaalinno inaan sameyno ⟨את⟩ amarka oo dhan kan horteeda Yahweh Eloheenna, sida uu na amray.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "caddeyn-dhaqan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bay noqon doontaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo (inaga)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "ilaalinno"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "inaan sameyno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarka oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "horteeda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloheenna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "uu na amray"
+    }
+  ],
+  "timestamp": "2026-09-01T02:01:29.936363913Z",
+  "model": "glm-5.3"
+}

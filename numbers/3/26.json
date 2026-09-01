@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Iyo barxadda duubka — bulooleyda ⟨את⟩ barxadda, iyo ⟨את⟩ tolleeda, wax kasta oo adeeg ah oo xiriira.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "iyo duubka (bulooleyda)"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maqaarka (derbiga) iridda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "maqaarka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iridda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "barxadda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taas oo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku xiran"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkaanka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo ku xiran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meeltaallada"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wareeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tolleeda"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "tolleeda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wax kasta oo"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "adeeg ah"
+    }
+  ],
+  "timestamp": "2026-09-01T08:16:55.237570987Z",
+  "model": "glm-5.3"
+}

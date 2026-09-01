@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Hubaal cadowadayadii waa la qariyay (la baabbi'iyay), oo hadda iyo harraankooda naarta bay cunto.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hubaal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "la qariyay (la baabbi'iyay)"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "cadowadayadii"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "hadda iyo harraankooda"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "bay cunto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "naarta"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:28.352553673Z",
+  "model": "glm-5.3"
+}

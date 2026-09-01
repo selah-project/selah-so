@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Indhahoodii way ka soo baxday baruur; waxay dhaafeen fikirrada qalbiga.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "way ka soo baxday"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "baruur"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "indhahoodii"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "waxay dhaafeen"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "fikirrada"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:00.713104215Z",
+  "model": "glm-5.3"
+}

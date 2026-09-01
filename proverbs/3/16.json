@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Cimri dheer ⟨wuxuu ku jiraan⟩ gacanta midigkeeda, gacanta bidixkeedana maal iyo sharaf.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "dheer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Cimri"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "gacanta midigkeeda"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "gacanta bidixkeedana"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "maal"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "iyo sharaf"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:07.123826443Z",
+  "model": "glm-5.3"
+}

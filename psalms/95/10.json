@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 95,
+  "translation": "Afartan sano baan nacay dorogii, oo waxaan idhi: waa qol qalbi luntay, oo iyagu ma aqaan jidaddeyga.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Afartan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sano"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "baan nacay"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dorogii"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "oo waxaan idhi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qol"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "qalbi luntay"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "waa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "oo iyagu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "aqaan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jidaddeyga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:36.747071628Z",
+  "model": "glm-5.3"
+}

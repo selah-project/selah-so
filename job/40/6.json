@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Markaasaa Yahweh ka jawaabay ⟨את⟩ Ayuub duufaanka ka mid ah, wuxuuna yidhi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Markaasaa ka jawaabay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayuub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "duufaanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    }
+  ],
+  "timestamp": "2026-09-01T07:36:06.533181229Z",
+  "model": "glm-5.3"
+}

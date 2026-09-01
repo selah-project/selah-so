@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Maalintaas ha noqoto muggi; ha raadin Eloah ka korka; iyo ha ku iftayn iftiin maalinta.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "taas"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha noqoto"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "muggi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "raadin"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ka korka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo ha"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ku iftayn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "iftiin maalinta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:45.432696543Z",
+  "model": "glm-5.3"
+}

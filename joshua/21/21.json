@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Waxay siiseen ⟨את⟩ magaalada magangalada dhillayaasha ⟨את⟩ Shekhem iyo ⟨את⟩ beerkeedii buuraha Efrayim, iyo ⟨את⟩ Gezer iyo ⟨את⟩ beerkeedii.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "waxay siiseen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaalada magangalada"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "magangalada"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "dhillayaasha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "beerkeedii"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "beerkeedii"
+    }
+  ],
+  "timestamp": "2026-09-01T02:26:32.846383365Z",
+  "model": "glm-5.3"
+}

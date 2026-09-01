@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Wuxuuna sameyn midkaa ⟨את⟩ ka mid ah tumooyinka ama carruurta doolasha, waxa gacantiisu gaadhayso.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "wuxuuna sameyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midkaa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "midkaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "tumooyinka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "carruurta"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "doolasha"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "waxa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "gaadhayso"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:31:44.995823255Z",
+  "model": "glm-5.3"
+}

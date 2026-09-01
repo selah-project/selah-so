@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 103,
+  "translation": "Yahweh wuxuu falaa cadaalad iyo xukunno dhammaan kuwa la dul-saaran.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "wuxuu falaa"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cadaalad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "iyo xukunno"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "kuwa la dul-saaran"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:03.869817704Z",
+  "model": "glm-5.3"
+}

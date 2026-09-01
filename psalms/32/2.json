@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Nasiib wanaagsan wuxuu leeyahay aadanaha aan Yahweh u xisaabinin xumeedka, ruuxiisana aan jirin khiyaano.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nasiib wanaagsan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "uxisaabinin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "עון",
+      "gloss": "xumeed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aanan jirin"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruuxiisa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "khiyaano"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:11.412380529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Gaashaandhigayga waa ⟨ku⟩ Elohim, Badbaadiyaha kuwa qalbiga toosan.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "gaashaandhigayga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Badbaadiyaha"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "kuwa toosan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:35.489370605Z",
+  "model": "glm-5.3"
+}

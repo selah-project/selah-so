@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "iyo Beyt-Pe'or, iyo ceyriinaha Pisgaah, iyo Beyt-ha-Yeshimoot.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "iyo Beyt"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Pe'or"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "iyo ceyriinaha"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgaah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "iyo Beyt"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "-ha-Yeshimoot"
+    }
+  ],
+  "timestamp": "2026-09-01T02:22:23.260881634Z",
+  "model": "glm-5.3"
+}

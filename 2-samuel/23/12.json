@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Isagoo qaydka dhexdeed taagan ayuu ka badbaadinay, Filistiintana ⟨את⟩ wuu dhuftay; Yahwehna wuu sameeyay badbaad weyn.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "Isagoo... taagan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dhexdeed"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "qaydka"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "ka badbaadinay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuu dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiintana"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuu sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "badbaad"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "weeny"
+    }
+  ],
+  "timestamp": "2026-09-01T03:08:07.299212773Z",
+  "model": "glm-5.3"
+}

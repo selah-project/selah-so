@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 30:28",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Iyo kuwa ku sugan Aroer, iyo kuwa ku sugan Sifmoth, iyo kuwa ku sugan Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa ku sugan"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa ku sugan"
+    },
+    {
+      "surface": "בשפמות",
+      "gloss": "Sifmoth"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "iyo kuwa ku sugan"
+    },
+    {
+      "surface": "באשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:22.203500380Z",
+  "model": "glm-5.3"
+}

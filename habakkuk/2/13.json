@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Ma aha mise? Bal eeg — ⟨את⟩ waxaa ka yimid Yahweh Tzevaot in shacabku dabadooda ku daallaan, iyo ummaduhu waxba'a ku daalan.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ma aha mise"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ka",
+      "marks": "Yahweh Tzevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "way ku daallaan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "iyo ummadaha"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "waxba'a"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T04:54:09.185141246Z",
+  "model": "glm-5.3"
+}

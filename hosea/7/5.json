@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Maalinta boqorkayaga, madaxdu wuxuu isku dhaliyay kulayl khamriga; wuxuu fidiyay gacantiisii ⟨את⟩ jees-jeesayaasha.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "boqorkayaga"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "wuxuu isku dhaliyay"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "madaxdu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kulayl"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "khamriga"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wuxuu fidiyay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jees-jeesayaasha"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "jees-jeesayaasha"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:24.763607334Z",
+  "model": "glm-5.3"
+}

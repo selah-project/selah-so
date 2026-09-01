@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Waxay dhaqaaqeen ⟨ummad⟩ kasta ila ⟨ummad⟩ kale, boqortooyo ila dad kale.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "waxay dhaqaaqeen"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ummad kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ummad kale"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "boqortooyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:17.039510654Z",
+  "model": "glm-5.3"
+}

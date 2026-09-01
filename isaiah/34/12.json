@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Sharafteedii waxaa lagu yeelan maayo boqortooyo jiritaan; oo madaxdooda oo dhan waxay noqon doonaan waxba ma ahaan.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "sharafteedii (xorriyiinteedii)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waxaa ma jiro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "boqortooyo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "lagu yeelan maayo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "madaxdooda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waxay noqon doonaan"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "waxba ma ahaan (dhamaad)"
+    }
+  ],
+  "timestamp": "2026-09-01T03:48:18.425415021Z",
+  "model": "glm-5.3"
+}

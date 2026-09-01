@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 62,
+  "translation": "Ilaa goormaad nin ku weerartaan, aad ku dishaan idinkoo dhan, sida derbi la foolay iyo deyr la dhaqaaqay?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "ku weerartaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (xaggiisa)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "aad ku dishaan"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "idinkoo dhan"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "sida derbi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "la foolay"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "deyr"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "la dhaqaaqay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:12:38.280905630Z",
+  "model": "glm-5.3"
+}

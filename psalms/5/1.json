@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Madaxa korkiisa loo dhigay ⟨ee ku saabsan Nechiilot⟩, mizmoor oo Dawuud ah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Madaxa korkiisa loo dhigay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ee ku saabsan"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oo Dawuud ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:00:42.001466803Z",
+  "model": "glm-5.3"
+}

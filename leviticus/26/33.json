@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Idinkana waan idin kala-qaybsan doonaa ⟨את⟩ shacabbada dhexdooda, waanna idiin dhaawici doonaa seef idinkoo damba; dhulkiinna wuxuu noqon doonaa barbacad, magaalooyinkiinnuna waa noqon doonaa engeg.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ idinkana",
+      "marks": "idinka"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "waan idin kala-qaybsan doonaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "shacabbada dhexdooda"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "waanna idiin dhaawici doonaa"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "idinkoo damba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seef"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dhulkiinna"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "barbacad"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "magaalooyinkiinnuna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "waa noqon doonaa"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "engeg"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:30.081919422Z",
+  "model": "glm-5.3"
+}

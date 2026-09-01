@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Hogaanayaashaagu dhammaantiin waxay wada carareen, qaansada laga qabsaday; kuwa laga helay dhammaantiin waxaa la isku xidhay, waxay carareen meel fog.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaantiin"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "Hogaanayaashaagu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "waxay carareen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wada"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "qaansada"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "laga qabsaday"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaantiin"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "kuwa laga helay"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "la xidhay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "isku"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "waxay carareen"
+    }
+  ],
+  "timestamp": "2026-09-01T03:43:27.619402542Z",
+  "model": "glm-5.3"
+}

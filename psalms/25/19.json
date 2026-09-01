@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Eeg cadowyadayda, waayo way badan yihiin, oo nebca xun bay ii necabyihiin.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "eeg"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cadowyadayda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "way badan yihiin"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "oo nebca"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "xun"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "bay ii necabyihiin"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:01.352733534Z",
+  "model": "glm-5.3"
+}

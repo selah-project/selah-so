@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "Sidaasuu Esav ku degay buuraha Se'iir — Esav waa isaga Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Sidaasuu ku degay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "waa isaga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T00:55:53.710432202Z",
+  "model": "glm-5.3"
+}

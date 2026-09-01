@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "iyo gurigaagii, iyo shaacabkaagii, iyo addoomahaagii oo dhan — haasaha (dhul-xirida ama badiyaha yar yar ee biyaha ku nool) bay soo bixi doonaan.",
+  "tokens": [
+    {
+      "surface": "וּבְכָה",
+      "gloss": "iyo gurigaagii"
+    },
+    {
+      "surface": "וּבְעַמְּךָ",
+      "gloss": "iyo shaacabkaagii"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "iyo ... oo dhan"
+    },
+    {
+      "surface": "עֲבָדֶיךָ",
+      "gloss": "addoomahaagii"
+    },
+    {
+      "surface": "יַעֲלוּ",
+      "gloss": "bay soo bixi doonaan"
+    },
+    {
+      "surface": "הַצְפַרְדְּעִים",
+      "gloss": "haasaha (dhul-xirida ama badiyaha yar yar ee biyaha ku nool)"
+    }
+  ],
+  "timestamp": "2026-09-01T06:52:58.079750858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Shiggayon (qasiido baadi-obaysa) ee Daawud, kaasuu u heesay Yahweh, ereyada Kuush ee Bin-Yamiiniga.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shiggayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ee Daawud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaasuu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "uu u heesay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku saabsan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ee Bin-Yamiiniga"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:23.021262935Z",
+  "model": "glm-5.3"
+}

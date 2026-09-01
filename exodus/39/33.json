@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxay keeneen Miuse ⟨את⟩ masjadka, ⟨את⟩ khaymadda iyo ⟨את⟩ dhamaan qaalabkeeda — cidhifyadeeda, alwaaxyadeeda, sararkeeda, tiirarkeeda iyo salxiggiisa.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "waxay keeneen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masjadka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "masjadka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Miuse (u)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Miuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaymadda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khaymadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhamaan qaalabkeeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qaalabkeeda"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "cidhifyadeeda"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "alwaaxyadeeda"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sararkeeda"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "tiirarkeeda"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "salxiggiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:09.912124405Z",
+  "model": "glm-5.3"
+}

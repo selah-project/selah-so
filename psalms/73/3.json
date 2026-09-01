@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Waayo, waxaan ku xasdeen is-qanciyayaasha, markaan arkay nabadgada sharxumeleyda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "waxaan ku xasdeen"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "is-qanciyayaasha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadgada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharxumeleyda"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "markaan arkay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:27.281287020Z",
+  "model": "glm-5.3"
+}

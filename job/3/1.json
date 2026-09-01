@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Kadibka wuxuu furay Ayuub ⟨את⟩ afkiisa, oo wuxuu naartamay ⟨את⟩ maalintiisa.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Kadibka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(taas)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wuu furay"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkiisa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "afkiisa"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "wuu naartamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalintiisa"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "maalintiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:31.188604618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Markhaatiyaada waan ku lifaaqay, Adahay Yahweh, ha i ceebayn.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "waan ku lifaaqay"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "Markhaatiyaada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Adahay Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "i ceebayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:07.290527839Z",
+  "model": "glm-5.3"
+}

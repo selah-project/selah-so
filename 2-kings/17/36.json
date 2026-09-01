@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Laakiin keliya ⟨את⟩ Yahweh — kan ⟨את⟩ idinka soo bixiyay dhulka Mitsrayim xoog weyn iyo gacan la fidiyay — ⟨את⟩ Isaga ka cabsada, Isagana u sujuuda, Isagana allabari u gawraca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "keliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "soo bixiyay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "xoog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "weyn"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "iyo gacan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "la fidiyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Isaga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ka cabsada"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "Isagana"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "u sujuuda"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "Isagana"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "allabari u gawraca"
+    }
+  ],
+  "timestamp": "2026-09-01T03:32:08.120780104Z",
+  "model": "glm-5.3"
+}

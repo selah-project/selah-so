@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Ma Elohim ma baaraayo tani? Waayo, Adigaa garanayo siraha qalbiga.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ma baaraayo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Adigaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "garanayo"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "siraha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:03.967668350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 30,
+  "translation": "Waxayna u bixisay magaciisa ⟨את⟩ Yoosef, waxayna tidhi: Yahweh i sii wiil kale.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "waxayna u bixisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magaciisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magaciisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "waxayna tidhi"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "i sii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:21.300551657Z",
+  "model": "glm-5.3"
+}

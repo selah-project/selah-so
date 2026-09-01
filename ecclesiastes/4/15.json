@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Waxaan arkay ⟨את⟩ dhamaan kuwa nool ee ku socda hooska qorraxda, iyagoo la jira ilmada labaad ee hor istaagi laheyd meeshiisa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Waxaan arkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaan kuwa nool"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhamaan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kuwa nool"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ee ku socda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hooska"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la jira"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmada"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hor istaagi laheyd"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "meeshiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:20.134515160Z",
+  "model": "glm-5.3"
+}

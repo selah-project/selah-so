@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Oo maalintii la taagay ⟨את⟩ Masaajidka, daruurtu waxay daboolaysay ⟨את⟩ Masaajidka, Khaymadka Markhaatiga ah; galabtiina waxay ku ahaan jirtay Massaajidka sida muuqaalka dab ah ilaa aroortii.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Oo maalintii"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "la taagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masaajidka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Masaajidka"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "waxay daboolaysay"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "daruurtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masaajidka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Masaajidka"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "Khaymadka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Markhaatiga ah"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "galabtiina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxay ku ahaan jirtay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Massaajidka"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "sida muuqaalka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dab ah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aroortii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:45:49.375627735Z",
+  "model": "glm-5.3"
+}

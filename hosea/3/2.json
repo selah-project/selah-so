@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Oo aniga waxaan ka iibsaday ⟨aniga iigu⟩ shan iyo toban qadbas oo lacag (kumi) ah, iyo homer ah oo galo ah, iyo letekh ah oo galo ah.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "waxaan ka iibsaday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga iigu"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "shan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qadbas oo lacag (kumi) ah"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "iyo homer ah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "oo galo ah"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "iyo letekh ah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "oo galo ah"
+    }
+  ],
+  "timestamp": "2026-09-01T07:25:50.004590895Z",
+  "model": "glm-5.3"
+}

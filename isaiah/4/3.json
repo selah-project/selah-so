@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Oo wuxuu noqon doonaa: kan Ziyoon ka hadha iyo kan Yeruushaalaym ka jooga, «quduus» ayaa lagu odhan doonaa, iyo kan kasta oo nolosha Yeruushaalaym lagu qoray.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Oo wuxuu noqon doonaa"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "kan ka hadha"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ziyoon"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "oo kan ka jooga"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "quduus"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "lagu odhan doonaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨isu⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iyo kan kasta oo"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "lagu qoray"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruushaalaym"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:15.069828226Z",
+  "model": "glm-5.3"
+}

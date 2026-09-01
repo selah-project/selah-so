@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo xataa gacantii Yahweh way korkooda ahayd, in lagu baabi'iyo ka mid ah kampinka, ilaa ay dhammaatay.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Oo xataa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gacantii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "way ahayd"
+    },
+    {
+      "surface": "בם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "in lagu baabi'iyo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ka mid ah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampinka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ay dhammaatay"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:50.360341146Z",
+  "model": "glm-5.3"
+}

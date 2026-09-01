@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Kadibna Yehooshuuca wuxuu amray ⟨את⟩ hoggaamiyayaasha ⟨את⟩ dadka isagoo leh:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kadibna wuxuu amray"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "hoggaamiyayaasha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "isagoo leh:"
+    }
+  ],
+  "timestamp": "2026-09-01T08:41:18.513300046Z",
+  "model": "glm-5.3"
+}

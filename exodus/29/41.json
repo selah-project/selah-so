@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 29:41",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Il-lamasha labaadna waxaad sameynaysaa ⟨את⟩ waqtiga galabta — sida bixinta subaxa iyo sida cabitaanka lahayd ayaad u sameynaysaa, inay noqoto ur khexdisho, allabari oo dab luhun ah loogu gudbiyo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il-lamasha labaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "il-lamasha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaad sameynaysaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "waqtiga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galabta"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "sida bixinta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaxa"
+    },
+    {
+      "surface": "וכנסכה",
+      "gloss": "iyo sida cabitaanka lahayd"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "u sameynaysaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "inay"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "khexdisho"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "allabari oo dab luhun ah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T08:14:18.075333329Z",
+  "model": "glm-5.3"
+}

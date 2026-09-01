@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 107,
+  "translation": "Yaa leh xigmad oo ilaaliya waxaas, fahamsanna khesedka (naxariista) Yahweh?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "leh xigmad"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "oo ilaaliya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waxaas"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "fahamsanna"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesedka (naxariista)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:58.118393105Z",
+  "model": "glm-5.3"
+}

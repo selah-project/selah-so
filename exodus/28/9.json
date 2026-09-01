@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Waxaad qaadanaysaa ⟨את⟩ labada dhagax ee shoham, waxaana ku qoraysaa korkooda magacyadii wiilasha Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "waxaad qaadanaysaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labada dhagax ee shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "laba(da)"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dhagaxyada"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "waxaana ku qoraysaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "korkooda"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "magacyadii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-01T01:17:46.925294719Z",
+  "model": "glm-5.3"
+}

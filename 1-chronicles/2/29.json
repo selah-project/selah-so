@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Magaca naagta Abishuurna wuxuu ahaa Avihayil, waxayna u dhashay ⟨את⟩ Axbaan iyo ⟨את⟩ Moliid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Abishuur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "waxayna u dhashay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axbaan"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Axbaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "Moliid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Moliid"
+    }
+  ],
+  "timestamp": "2026-09-01T06:22:41.412659837Z",
+  "model": "glm-5.3"
+}

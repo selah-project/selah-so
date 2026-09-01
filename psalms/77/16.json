@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 77,
+  "translation": "Adigoo lugta ku gacan-siinayo waxaad guiltay qoomkaaga, wiilasha Yaaqub iyo Yuusuf. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "waxaad guiltay"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "lugta (ku gacan-siin)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qoomkaaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqub"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "iyo Yuusuf"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:50.929907613Z",
+  "model": "glm-5.3"
+}

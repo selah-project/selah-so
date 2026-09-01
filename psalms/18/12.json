@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Wuxuu dhigay mugidda qarsoortiisa, waana agta mudan waadadii; muga biyo ah iyo duullaha daruuraha.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "wuxuu dhigay"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mugidda"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "qarsoortiisa"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "agta mudan"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "waadadii"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "muga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyo ah"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "duullaha"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "daruuraha"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:33.454111428Z",
+  "model": "glm-5.3"
+}

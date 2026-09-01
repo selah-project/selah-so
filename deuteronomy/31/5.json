@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 31,
+  "translation": "Yahwehna wuxuu dhihi doonaa iyagoo gacmihiina hore, idinkuna waxaad u sameyn doontaan sida amarka oo dhan ee aan ⟨את⟩ idinku amray.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "wuxuu dhihi doonaa iyagoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "gacmihiina hore"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "waxaad u sameyn doontaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sida"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amarka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "aan amray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinku"
+    }
+  ],
+  "timestamp": "2026-09-01T02:17:04.839396497Z",
+  "model": "glm-5.3"
+}

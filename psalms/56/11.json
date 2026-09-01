@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 56,
+  "translation": "Elohim ayaan ammaanayaa ereygiisa; Yahweh ayaan ammaanayaa ereygiisa.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ayaan ammaanayaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereygiisa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ayaan ammaanayaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereygiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:10:36.164366104Z",
+  "model": "glm-5.3"
+}

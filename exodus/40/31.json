@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 40,
+  "translation": "Muuse iyo Aaroonto iyo wiilashiisiiba waxay ka maydheen ⟨את⟩ gacmohooda iyo ⟨את⟩ cagahooda.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "waxay maydheen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "iyo Aaroonto"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iyo wiilashiisiiba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gacmohooda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "gacmohooda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "cagahooda"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "cagahooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:35.774916030Z",
+  "model": "glm-5.3"
+}

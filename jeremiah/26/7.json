@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxay maqleen wadaaddada iyo nebiyada iyo dadka oo dhan ⟨את⟩ Yirmiyaahu isagoo ka hadlaya ⟨את⟩ ereyadan, guriga Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Waxay maqleen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "iyo nebiyada"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iyo oo dhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmiyaahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "isagoo ka hadlaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyadan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T04:11:29.856252048Z",
+  "model": "glm-5.3"
+}

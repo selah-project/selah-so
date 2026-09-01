@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 76,
+  "translation": "Adigu waad ifaysan tahay, waad sharraysan tahay ⟨marka loo eego⟩ buuraha hilibsiga.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "waad ifaysan tahay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adigu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "waad sharraysan tahay"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "hilibsiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:21.478927710Z",
+  "model": "glm-5.3"
+}

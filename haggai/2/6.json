@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Waa sidaas oo kale oo Yahweh ciidammadu yidhi: weli hal mar (waa wax yar) — aniga ayaan gilgilayaa ⟨את⟩ samada iyo ⟨את⟩ dhulka iyo ⟨את⟩ badda iyo ⟨את⟩ tan engegga ah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa sidaas oo kale oo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ciidammadu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weli"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal mar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wax yar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "waa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ayaan gilgilayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "samada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhulka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "badda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "badda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "tan engegga ah"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "tan engegga ah"
+    }
+  ],
+  "timestamp": "2026-09-01T04:55:50.581642172Z",
+  "model": "glm-5.3"
+}

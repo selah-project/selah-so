@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Waan ammaanayaa ⟨את⟩ Yahweh ka ii siinayo talo; habeenkiiisna kalabyadaydu ii barayaan.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Waan ammaanayaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ii siinayo talo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "habeenkiiisna"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "habeenkii"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ii barayaan"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "kalabyadaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:03:03.815527690Z",
+  "model": "glm-5.3"
+}

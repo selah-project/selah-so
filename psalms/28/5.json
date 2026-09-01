@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "Ma aha kuwa fahmay falalka Yahweh iyo shuqulkay gacmihiisu — wuu baabi'in doonaa, kuma dhisayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma aha kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fahmay"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "falalka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqulka"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisu"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "wuu baabi'in doonaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "dhisayo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:05:28.371570857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Hagaha (mugga) ee u qoran — «Ayeelet ha-Shachar» (gamaadirta waabarida) — mizmoor (hees calaamadeysan) oo Dawuud ah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Hagaha (mugga) ee u qoran"
+    },
+    {
+      "surface": "על",
+      "gloss": "— «…» ku saabsan"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayeelet (gamaadirta)"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shachar (waabaridda)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor (hees)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud ah"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:24.966881011Z",
+  "model": "glm-5.3"
+}

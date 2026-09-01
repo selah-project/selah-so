@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markay bihihii dheecaankii ka dhammaadeen, wayna tuurtay ⟨את⟩ ilmihii hoosta mid ka mid ah qoolaha.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "wayna dhammaadeen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "biyihii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laga"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dheecaankii"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wayna tuurtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmihii"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilmihii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoosta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid ka mid ah"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "qoolaha"
+    }
+  ],
+  "timestamp": "2026-09-01T00:48:32.829288677Z",
+  "model": "glm-5.3"
+}

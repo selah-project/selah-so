@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sida ay u badeen, sidaas bay iigu dhaafeen; sharaftooda waan beddelaa ceeb.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "sida ay u badeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bay dhaafeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iigu"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "sharaftooda"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ceeb"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "waan beddelaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:25:17.073544104Z",
+  "model": "glm-5.3"
+}

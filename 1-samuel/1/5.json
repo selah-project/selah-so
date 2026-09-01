@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Oo xaggana Chanah wuxuu siinayaa qiyaas hal ah oo laba la'an (dhibco afar) — maadaama ⟨את⟩ Chanah uu jeclaaday, oo Yahweh wuu xiray reerkeedii (ichenkeedii).",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "oo xaggana Chanah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wuxuu siinayaa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "qiyaas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hal ah"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "oo laba la'an (dhibco afar)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chanah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uu jeclaaday"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "oo Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wuu xiray"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "reerkeedii (ichenkeedii)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:40:47.017612832Z",
+  "model": "glm-5.3"
+}

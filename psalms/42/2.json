@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Sida seyle (ceeg) u oolle biyo-ilaha (wadada biyaha), saas ayay nafdaydu ii oollaysaa adiga, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Sida seyle (ceeg)"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "u oolle"
+    },
+    {
+      "surface": "על",
+      "gloss": "…"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "biyo-ilaha (wadada biyaha)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyaha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdaydu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ayay ii oollaysaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:28.707498197Z",
+  "model": "glm-5.3"
+}

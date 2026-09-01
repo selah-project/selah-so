@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waxaa la dul-say aad iyo aad, Yahweh; i nololee sida hadalkaaga.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "waxaa la dul-say"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aad iyo aad (ilaa)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad iyo aad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "i nololee"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sida hadalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:20.988118085Z",
+  "model": "glm-5.3"
+}

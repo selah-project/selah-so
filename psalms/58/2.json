@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Ma run baa waxaad ku hadashaan ⟨⟨xaqa⟩⟩, kuwa aan hadlin, sida toosnimo baad xukuntaan, wiilasha aadamiga?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Ma run baa"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "kuwa aan hadlin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "xaqa"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "waxaad ku hadashaan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sida toosnimo"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "baad xukuntaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:32.021720064Z",
+  "model": "glm-5.3"
+}

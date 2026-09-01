@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 28,
+  "translation": "⟨את⟩ wanka koowaad waad sameysaa subaxdii, iyo ⟨את⟩ wanka labaad waad sameysaa galabaha dhexdooda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanka koowaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "koowaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waad sameysaa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaxdii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "wanka labaad"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "labaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waad sameysaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galabaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:55:38.899703467Z",
+  "model": "glm-5.3"
+}

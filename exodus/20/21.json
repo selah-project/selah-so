@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Shacabkuna wuu istaagay meel fog, Muusena wuu soo dhowaaday carfanka halkaas oo ay Elohim ahaayeen.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wuu istaagay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "meel fog"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Muusena"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "wuu soo dhowaaday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "carfanka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "halkaas oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ay ku ahaayeen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:19.136938536Z",
+  "model": "glm-5.3"
+}

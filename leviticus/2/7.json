@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo haddii qorshaddaada allabari ah mid mariqeshet (dheh) lagu karay — waxaa laga sameeyaa middo (soleet) shuulka lagu dheelay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "oo haddii"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "qorshadda allabari"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "mariqeshet (dheh)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "qorshaddaada allabari"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "middo (soleet)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "shuulka lagu dheelay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waxaa laga sameeyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:54.595016490Z",
+  "model": "glm-5.3"
+}

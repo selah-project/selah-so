@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 111,
+  "translation": "Awoodda shuqulladiisa wuu sheegay qoomkiisii, si uu u siiyo dhaxalka shacabka.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "awoodda"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "shuqulladiisa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "wuu sheegay"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "qoomkiisii"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "si uu u siiyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dhaxalka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "shacabka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:53.554271156Z",
+  "model": "glm-5.3"
+}

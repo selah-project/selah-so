@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Lii sanood ayaa waxaad ku beertaa beeradaada, oo lii sanood ayaa waxaad qeeleyaysaa beerta canabkaaga, oo waxaad uruurisaa ⟨את⟩ midhihii.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Lii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sanood"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "waxaad ku beertaa"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "beeradaada"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "oo lii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sanood"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "waxaad qeeleyaysaa"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "beerta canabkaaga"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "oo waxaad uruurisaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhihii"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "midhihii"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:07.966229389Z",
+  "model": "glm-5.3"
+}

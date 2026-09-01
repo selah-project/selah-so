@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 37,
+  "translation": "Waayo, sida udaarta dheeraha si dhakhso leh way go'yeeshaan (⟨waa la jarayaa⟩), oo sida cawska cagaaran way enaysaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sida udaarta dheeraha"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "si dhakhso leh"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "way go'yeeshaan"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "oo sida cawska cagaaran"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "cawska"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "way enaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:34.797867264Z",
+  "model": "glm-5.3"
+}

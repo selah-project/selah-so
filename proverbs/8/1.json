@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Ma xaq ma tahay in xigmadu ay dhawaaqayso, oo fahamku uu codkiisa bixiyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ma xaq ma tahay in"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "xigmadu"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ay dhawaaqayso"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "oo fahamku"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uu bixiyo"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "codkiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:24.952289359Z",
+  "model": "glm-5.3"
+}

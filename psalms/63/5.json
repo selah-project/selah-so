@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 63,
+  "translation": "Saas baan ku barakaysannaa noloshayda, magacaaga baan gacmahayga qaadayaa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "saas"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "baan ku barakaysannaa"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "noloshayda"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "magacaaga"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "baan qaadayaa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gacmahayga"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:02.468900316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Wuxuuna wasakhayay ⟨את⟩ Tofet ee waadiiga wiilasha Hinom, si aan nin u dhaarin ⟨את⟩ wiilkiisa iyo ⟨את⟩ gabadhiisa dabka Molokh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Wuxuuna wasakhayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "waadiiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "u dhaarin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiilkiisa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wiilkiisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "gabadhiisa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "gabadhiisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dabka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molokh"
+    }
+  ],
+  "timestamp": "2026-09-01T03:34:33.382694605Z",
+  "model": "glm-5.3"
+}

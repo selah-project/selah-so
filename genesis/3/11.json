@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Wuxuu yidhi, Yaa kuu sheegay inaad qaawan tahay? Ma geedka aan kugu amaray inaan ka cunin baad ka cuntay?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuu yidhi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Yaa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "kuu sheegay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inaad"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "qaawan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "geedka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "kugu amaray"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "inaan ka cunin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cunin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "baad ka cuntay"
+    }
+  ],
+  "timestamp": "2026-09-01T06:49:58.973010483Z",
+  "model": "glm-5.3"
+}

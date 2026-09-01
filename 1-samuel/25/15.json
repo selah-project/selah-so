@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Ragguna aad bay noo ahaayeen wanaag, lama naqullin, waxna lama waayin dhammaan maalmaha aan ⟨את⟩ la soconay iyaga, markaannu ku jirnay beeraha.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ragguna"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "noo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "naqullin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lama"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "waayin"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "waxna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "aan la soconay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ la",
+      "marks": "iyaga (la socod)"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "markaannu ku jirnay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "beeraha"
+    }
+  ],
+  "timestamp": "2026-09-01T02:53:12.756697706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Wax kasta oo dhaawac ku jira ha dhiginna, waayo ma noqon doonto idiin ⟨wax⟩ la aqbalo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wax kasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku jira"
+    },
+    {
+      "surface": "מום",
+      "gloss": "dhaawac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "dhigin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "wax la aqbalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqon doonto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:35:36.729542672Z",
+  "model": "glm-5.3"
+}

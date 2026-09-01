@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Kuwa fadhiya albaabka waxay iga hadlaan, iyo kuwa cabba khamriga waxaan noqday heesood (loo ciyaaro).",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "waxay hadlaan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kuwa fadhiya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "albaabka"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "iyo loo ciyaaro"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "kuwa cabba"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "khamriga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:30.251084120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Dad badan ayaa sheegaya khesedkiisa; laakiin nin aamin ah yaa heli kara?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "badan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dad"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sheegaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedkiisa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "laakiin nin"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "aamin ah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "heli kara"
+    }
+  ],
+  "timestamp": "2026-09-01T05:34:37.634328596Z",
+  "model": "glm-5.3"
+}

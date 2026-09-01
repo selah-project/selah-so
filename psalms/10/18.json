@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Inaad xukumto ⟨⟨ahmiyaysanaha⟩⟩ iyo dulliga, in bini-aadamkii dhulkii mar dambana cabsi u gelin.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "in la xukumo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ahmiyaysanaha"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "iyo dulliga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "in aan"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "sii wadin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mar dambe"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "cabsi gelin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bini-aadamkii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulkii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:08.342525616Z",
+  "model": "glm-5.3"
+}

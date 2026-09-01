@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Waxaan dhigi doonaa maskaxdayda dhexdiinna, oo naftaydu ma nacayso doonto ⟨את⟩ idin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Waxaan dhigi doonaa"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "maskaxdayda"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "dhexdiinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "nacayso doonto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "naftaydu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idin",
+      "marks": "idin"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:44.079732698Z",
+  "model": "glm-5.3"
+}

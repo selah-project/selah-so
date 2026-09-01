@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Wuxuuna cararay Adoni-Bezek, wayna raaceen, waxayna qabteen ⟨את⟩ waqtigiisa, waxayna goyseen ⟨את⟩ sudaha gacmihiisa iyo cagahiisa.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "wuxuuna cararay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wayna raaceen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "wuu damcee (gadaashiisa)"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "waxayna qabteen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ waqtigiisa",
+      "marks": "Adoni-Bezek (isaga)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "waxayna goyseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudaha gacmihiisa iyo cagahiisa"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "sudaha"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "gacmihiisa"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "iyo cagahiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T02:29:07.746719205Z",
+  "model": "glm-5.3"
+}

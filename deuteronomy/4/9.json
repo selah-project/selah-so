@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Keliya isku ilaali naftaada, oo ilaali naftaada si aad u xoog badan, si aadan u hilmaamin ⟨את⟩ ereyada ay indhahaagu arkeen, oo si aanay uga soo gaadhobin qalbigaaga dhammaan maalmaha nolosheeda; oo u sheeg wiilashaada iyo wiilasha wiilashaada.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Keliya"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "isku ilaali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "oo ilaali"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "si aad u xoog badan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si aadan u"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "hilmaamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyada"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ereyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "arkeen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "indhahaagu"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "oo si aanay"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "uga soo gaadhobin"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "qalbigaaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nolosheeda"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "oo u sheeg"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "wiilashaada"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "oo wiilasha"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wiilashaada"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:28.946761453Z",
+  "model": "glm-5.3"
+}

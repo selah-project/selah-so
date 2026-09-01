@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Qulqulka wajigaaga ayaad mudada cuni doontaa rooti, ilaa aad ku noqoto dhulka, waayo, kaaga laga qaadaye; maxaa yeelay, ciid adiga bentay, oo ciid baad ku noqon doontaa.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "qulqulka"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "wajigaaga"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ayaad cuni doontaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "aad ku noqoto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kaaga"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "laga qaadaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaa yeelay"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga bentay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ku"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ciid"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "baad ku noqon doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T00:39:44.246076429Z",
+  "model": "glm-5.3"
+}

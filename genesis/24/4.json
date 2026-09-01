@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "laakiin adigu waxaad tagaysaa dhulkayga iyo qolo-mooyaashayda, waxaadna qaadaysaa naag ibigaaga Isxaaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "laakiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waxaad tagaysaa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dhulkayga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "qolo-mooyaashayda"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tagaysaa"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "waxaadna qaadaysaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naag"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ibigaaga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isxaaq"
+    }
+  ],
+  "timestamp": "2026-09-01T06:50:39.892122627Z",
+  "model": "glm-5.3"
+}

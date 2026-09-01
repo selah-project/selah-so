@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Noqo, Yahweh, nafdayda ka dheeree; i badbaadi khesedkaaga ⟨darteed⟩.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Noqo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ka dheeree"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafdayda"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "i badbaadi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨darteed⟩"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:03.473202857Z",
+  "model": "glm-5.3"
+}

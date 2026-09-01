@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 32,
+  "translation": "Dhibato badan bay ku jirtaan cfacaasha (demiilaha), laakiin kan kalsoonida ku haya Yahweh, khesed (xaerada naxariista ah) baa ku wareegaya.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "dhibato"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ku jirtaan cfacaasha"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "laakiin kan kalsoonida ku haya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "baa ku wareegaya"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.093993252Z",
+  "model": "glm-5.3"
+}

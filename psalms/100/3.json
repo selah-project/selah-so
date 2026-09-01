@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 100,
+  "translation": "Ogaada in Yahweh — isaga ⟨waa⟩ Elohim; isaga ayaa naga sameeyey, anagana ma aanan nahay (naftenna); annaga waa qoloodiis, oo adhigii daaqsadiisii.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Ogaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isaga"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "naga sameeyey"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma... nahay"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "annaga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "qoloodiis"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "adhigii"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "daaqsadiisii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:20:16.263492672Z",
+  "model": "glm-5.3"
+}

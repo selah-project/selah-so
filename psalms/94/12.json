@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 94,
+  "translation": "Nasiib wanaagsan oo leh geeskaas aad haggiorto, Yah, oo aad Sharcigaaga ku barayso!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasiib wanaagsan oo leh"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "geeskaas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad haggiorto oo aad barayso"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "haggiorto"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "Sharcigaaga"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "barayso"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:39.698475359Z",
+  "model": "glm-5.3"
+}

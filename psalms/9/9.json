@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuuna ⟨dhexdulla⟩ ⟨uu⟩ gar dhexdhulka caddaaladda, wuxuu xukumi ummadaha sinnaan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "wuxuuna"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "gar dhexdhulka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨dhexdulka⟩"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "caddaaladda"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "wuxuu xukumi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ummadaha"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sinnaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:02:11.417185698Z",
+  "model": "glm-5.3"
+}

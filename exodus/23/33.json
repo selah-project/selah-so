@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Waa inayaan dhaqsi la'aan ku noolaan dhulkagaga, si ayan kuugu dhigin dembi ⟨aniga⟩ ilaahyadooda aad u adeegto, waayo, waxay noqon doontaa kugu mid fureed.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ayaan ku noolaan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dhulkagaga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si ayan"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "kuugu dhigin dembi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ adiga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo, haddii"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "aad u adeegto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaahyadooda"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaahyadooda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxay noqon doontaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kugu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mid fureed"
+    }
+  ],
+  "timestamp": "2026-09-01T01:14:24.366933834Z",
+  "model": "glm-5.3"
+}

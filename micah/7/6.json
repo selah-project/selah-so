@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Waa in wiil aabbihiis quud-jariyo, in gabadh hooyadeed hor taagto, in chama sudoheeda hor taagto; cadowga ninna waa ragga gurigiisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa in"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wiil"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "quud-jariyo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "aabbihiis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "gabadh"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "hor taagto"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hooyadeed"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "chama"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "sudoheeda"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "cadowga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "gurigiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T04:53:37.467226731Z",
+  "model": "glm-5.3"
+}

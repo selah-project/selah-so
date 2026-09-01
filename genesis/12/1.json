@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Yahweh wuxuu ku yidhi Abram: Aad adiga, ka teg dhulkagii, iyo qaraabadadii, iyo gurigii aabahaadaba, oo aad tagto ⟨dhammaan⟩ dhulka aan ku tusi doono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "ka teg dhulkagii"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "iyo qaraabadadii"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "iyo gurigii"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "aabahaadaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oo aad tagto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ku tusi doono"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:27.989070652Z",
+  "model": "glm-5.3"
+}

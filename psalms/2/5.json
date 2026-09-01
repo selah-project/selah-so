@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Markaas buu ku hadli doonaa cadawgiisa, oo xanaaqadiisa buu u gargin doonaa iyaga.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Markaas"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "buu ku hadli doonaa"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "cadawgiisa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "cadawgiisa (ee xanaaqa)"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "xanaaqadiisa"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "buu u gargin doonaa iyaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:01:07.938753264Z",
+  "model": "glm-5.3"
+}

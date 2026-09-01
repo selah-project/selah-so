@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Hagaha muusikada, ⟨ee ku saabsan⟩ Shoshannim-Eduth, marag — mizmoor uu u hoggaansan yahay Asaaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "hagaha muusikada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ee ku saabsan⟩"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth (marag)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:41.097165961Z",
+  "model": "glm-5.3"
+}

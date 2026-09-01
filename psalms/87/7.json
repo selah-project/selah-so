@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Fanaaniintuna sidii kuwa sheeko-cayaaraha oo kale, waxay odhan: ilahayda oo dhan adigay ku jiraan.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "fanaaniintuna"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "sidii kuwa sheeko-cayaaraha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ilahayda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adigay ku jiraan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:30.354020570Z",
+  "model": "glm-5.3"
+}

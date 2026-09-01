@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 69,
+  "translation": "Dambi kor u saar dambigooda, oo ha u dillaacin sinaantaada.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "saar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kor u"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "dambigooda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "oo ha"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "u dillaacin"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sinaantaada"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:39.937295796Z",
+  "model": "glm-5.3"
+}

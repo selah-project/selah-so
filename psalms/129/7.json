@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 129,
+  "translation": "Taas oo aan buuxin gacanta gooyaha, na gacanta ⟨ururaha dhuxusha⟩.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "buuxin"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "gooyaha"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "na gacanta"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "⟨ururaha dhuxusha⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:25.485816217Z",
+  "model": "glm-5.3"
+}

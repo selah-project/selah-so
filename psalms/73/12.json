@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 73,
+  "translation": "Ee bal, kuwan waa sharka leh, kuwa weligood xasilloon — hantina bay aad u kordhiyeen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ee bal"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kuwan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sharka leh"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "kuwa xasilloon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "bay aad u kordhiyeen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hanti"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:43.300194622Z",
+  "model": "glm-5.3"
+}

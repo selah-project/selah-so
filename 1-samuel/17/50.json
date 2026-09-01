@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 17,
+  "translation": "Oo Daa'uud baa Filistiinka ka adkaaday fundo iyo dhagaxba, wuuna dhuftay ⟨את⟩ Filistiinka, wuuna dilay; se seef ×lama jirin gacanta Daa'uud.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "baa ka adkaaday"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiinka"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "fundo"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "iyo dhagaxba"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wuuna dhuftay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinka"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiinka"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wuuna dilay"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "se seef"
+    },
+    {
+      "surface": "אין",
+      "gloss": "lama jirin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gacanta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daa'uud"
+    }
+  ],
+  "timestamp": "2026-09-01T02:49:57.032580501Z",
+  "model": "glm-5.3"
+}

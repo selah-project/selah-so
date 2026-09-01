@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxay idiin noqonaysaa ilaalin ilaa maalintii afartan-iyo-tobnaad ee bishan; waxayna gowracaan ⟨את⟩ isu dhammaan shirka jamciyadda Israa'iil dhexdaha galabaha.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "oo noqonaysaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ilaalin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "afar"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iyo toban"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ee bisha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "an"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "gowracaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "isu (wedarka)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shirka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamciyadda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dhexdaha"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "galabaha"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:43.565516162Z",
+  "model": "glm-5.3"
+}

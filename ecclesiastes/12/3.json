@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Maalinta ay gilgilmaan ilaalinta guriga, oo curcuraan ragii xoogga leh, oo jajabyaasha ay joojimaan waayo yar yihiin, oo madow qaataan kuwa irida ka fiiriya iridda.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalinta"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "gilgilmaan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ilaalinta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "guriga"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "curcuraan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ragii"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "xoogga leh"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "joojimaan"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "jajabyaasha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "yar yihiin"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "madow qaataan"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "kuwa fiiriya"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "iridda"
+    }
+  ],
+  "timestamp": "2026-09-01T06:01:19.543473101Z",
+  "model": "glm-5.3"
+}

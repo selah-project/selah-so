@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Qoomkii waxay ku yidhi Yehooshuuca: ⟨את⟩ Yahweh Elohimkeenna baa aan adeegaynaa, oo codigiisa ayaan waqtinaa maqli.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "waxay ku yidhi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Qoomkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehooshuuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimkeenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimkeenna"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "aan adeegaynaa"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "codigiisa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ayaan waqtinaa maqli"
+    }
+  ],
+  "timestamp": "2026-09-01T02:28:08.432935967Z",
+  "model": "glm-5.3"
+}

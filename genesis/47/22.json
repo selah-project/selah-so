@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 47,
+  "translation": "Kalige dhulka wadaaddada ma iibsabin; waayo wadaaddadu qayb ⟨את⟩ Farcoon laga helay bay lahaayeen, waxayna cunaayeen ⟨את⟩ qaybtii ee Farcoon siiyay; sidaas darteed ⟨את⟩ dhulkooda ma iibiyeen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kalige"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "iibsabin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qayb sharci ah"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "wadaaddada"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Farcoon (laga helay)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "waxayna cunaayeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaybtii"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "qaybtii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siiyay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyaga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farcoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "iibiyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhulkooda"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "dhulkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T01:02:52.466307244Z",
+  "model": "glm-5.3"
+}

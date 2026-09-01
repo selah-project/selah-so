@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "Iyo ⟨את⟩ labadiisa wiil, oo magaca kowaad ahaa Gershom, maadaamauu yidhi, Dayo ahaan baan ahay dhul shisheeye ah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "labadiisa wiil"
+    },
+    {
+      "surface": "שני",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magaca"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kowaad"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maadaamauu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yidhi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Dayo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ahaan baan ahay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "shisheeye ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:13:59.586533436Z",
+  "model": "glm-5.3"
+}

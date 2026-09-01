@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Wuxuuna ka buuxiyay ⟨את⟩ ruuxa Elohim — xigmad, fahmid, aqoon iyo shuqul kasta oo xirfad ah.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Wuxuuna ka buuxiyay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ruuxa Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "xigmad"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "fahmid"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "aqoon iyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "kasta oo"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "shuqul xirfad ah"
+    }
+  ],
+  "timestamp": "2026-09-01T01:23:36.617943523Z",
+  "model": "glm-5.3"
+}

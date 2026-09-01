@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Waawan ilaalin farajadaada iyo maraggaada, waayo jidadkaygu oo dhan hortooda ayay kaga muuqdaan.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Waawan ilaalin"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "farajadaada"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "iyo maraggaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jidadkaygu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "hortooda ayay kaga muuqdaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:40.048136836Z",
+  "model": "glm-5.3"
+}

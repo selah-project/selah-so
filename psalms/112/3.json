@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Hanti iyo hodan bay ⟨ahaydeen⟩ gurigiisa, oo saxda kiisuna way taagan tahay ⟨weligeed⟩.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "hanti"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "iyo hodan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "gurigiisa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "saxda kiisa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "way taagan tahay"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "weligeed"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:04.967330192Z",
+  "model": "glm-5.3"
+}

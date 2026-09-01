@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 58,
+  "translation": "Maya, wadamada ku celceliya sharr; dhulka dadka xadgufbay gacmahiinna ku miisaawaan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Maya"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "wadamada"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sharr"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ku celceliya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dadka xadgufbay"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "gacmahiinna"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ku miisaawaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:32.021958173Z",
+  "model": "glm-5.3"
+}

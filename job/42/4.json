@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Maqal ⟨hadda⟩, annigana waan hadli; waan warsanayaa, adigana ii sheeg.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Maqal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨hadda⟩"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "annigana"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "waan hadli"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "waan warsanayaa"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "adigana ii sheeg"
+    }
+  ],
+  "timestamp": "2026-09-01T07:35:42.068990268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Sidoo kale haddii labo ⟨waa⟩ la seexdaan, kulul bay u noqdaan; laakiin kan keliya sida ayuu u kululeysanayaa?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sidoo kale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "la seexdaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "labo"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "oo kulul"
+    },
+    {
+      "surface": "להם",
+      "gloss": "u (bay u)"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "laakiin kan keliya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sida"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "u kululeysanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:37:52.309456490Z",
+  "model": "glm-5.3"
+}

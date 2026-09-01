@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Waxaan barakadayn kuwa kuu barakadaysa, kana naaloodna kuwa kuu naalooda; oo qowlallada dhulka oo dhan adigay ku barakadayn doonaan.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Waxaan barakadayn"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "kuwa kuu barakadaysa"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "kana naaloodna kuwa kuu naalooda"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "aan naalooda"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "way ku barakadayn doonaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "qowlallada"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T00:45:27.989459211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 12,
+  "translation": "Wedar dhan, lab ah, in sanad geliyey, ayaa idiin noqonayaa; wanarka ama riyaha ayaad ka soo qaadanaysaan.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "wedar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "in"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "noqonayaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "wanarka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ama ka"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "riyaha"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "qaadanaysaan"
+    }
+  ],
+  "timestamp": "2026-09-01T01:10:43.565214911Z",
+  "model": "glm-5.3"
+}

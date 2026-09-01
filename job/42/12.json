@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yahwehna wuu barakaystay ⟨את⟩ dhamaadka Ayuub ka bilowgiisii; waxayna noqdeen laba-iyo-toban kun oo adhi, lix kun oo geel, kun oo juu' lo', iyo kun oo dameero.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwehna"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wuu barakaystay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamaadka"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "dhamaadka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayuub"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ka bilowgiisii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waxayna noqdeen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "laba-iyo-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toban"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "lix"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "geel"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "juu'"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "dameero"
+    }
+  ],
+  "timestamp": "2026-09-01T05:52:27.143284249Z",
+  "model": "glm-5.3"
+}

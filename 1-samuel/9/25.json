@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Waxay ka degeen baylamarka ⟨guriga magaalada⟩, wuuna la hadlay Shaa'uul ⟨saakuutii⟩ sagxadda guriga.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "waxay ka degeen"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "baylamarka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨guriga magaalada⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wuuna la hadlay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨saakuutii⟩"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "sagxadda guriga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:44:24.833523959Z",
+  "model": "glm-5.3"
+}

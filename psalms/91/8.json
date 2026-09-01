@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 91,
+  "translation": "Waxaad ilko-gelisaan oo keliya ⟨waxaad⟩ indhahaaga ku arki doontaa ⟨abaalka⟩ shar-luumayaasha.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "waxaad ilko-gelisaan"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "⟨abaalka⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "shar-luumayaasha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "arki doontaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:31:02.097655393Z",
+  "model": "glm-5.3"
+}

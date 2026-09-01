@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Elohimna wuxuu Nux ku hadlay iyadoo lagu leh:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku hadlay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nux"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iyadoo lagu leh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:40:20.645345750Z",
+  "model": "glm-5.3"
+}

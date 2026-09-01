@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Eliyaahu wuxuu ku yidhi Eliishaa: Fadlan hoos fadhiiso, waayo Yahweh wuxuu i soo diray ilaa Beyt-El. Eliishaa wuxuuna yidhi: Ishbay Yahweh, iyo nolosha naftaada, haddaan kaa tago. Waxayna hoos tegeen Beyt-El.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliishaa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "fadhiiso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fadlan"
+    },
+    {
+      "surface": "פה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "wuxuu i soo diray"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliishaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "waa nool"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "iyo nolosha"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "naftaada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "kaa tago"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "waxayna hoos tegeen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T07:11:02.495806379Z",
+  "model": "glm-5.3"
+}

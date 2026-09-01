@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 141,
+  "translation": "Sida mid goynaya oo dhulka qoday, laftayadu waa la baabbi'iyay afka Sheool.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "sida"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "goynaya"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "qoday"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "waa la baabbi'iyay"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "laftayadu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheool"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:40.378487829Z",
+  "model": "glm-5.3"
+}

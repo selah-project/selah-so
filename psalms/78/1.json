@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 78,
+  "translation": "Mashal-bar_bar (qoraal barbaarineed) ee Asaaf: Dhegeysto, quruygaygay, sharcigayga; u jeeda dhegahiinna hadalka afkayga.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "qoraal barbaarineed"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ee Asaaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Dhegeysto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "quruygaygay"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sharcigayga"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "u jeeda"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "dhegahiinna"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "hadalka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkayga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:15:39.148648140Z",
+  "model": "glm-5.3"
+}

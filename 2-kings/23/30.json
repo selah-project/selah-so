@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 23,
+  "translation": "Addoomadiisi waxay fuuliseen ⟨את⟩ gaari meydh ah ay ka geeyeen Megiddo, waxayna keeneen Yeruushaalaym, waxaana aaseen qabrigiisa; dadka dhulkuna waxay qaadteen ⟨את⟩ Yeho'achaz ina Yooshiyah, waxayna subciyeen ⟨את⟩ isaga, waxayna boqorsiiyeen ⟨את⟩ isaga beddelkii aabihii.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "waxay fuuliseen gaari"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "addoomadiisi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meydh ah"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "Megiddo ka"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "waxayna keeneen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "waxaana aaseen"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "qabrigiisa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "waxay qaadteen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeho'achaz ina Yooshiyah"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yooshiyah"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "waxayna subciyeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yeho'achaz)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "waxayna boqorsiiyeen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isaga",
+      "marks": "isaga (Yeho'achaz)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "beddelkii"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "aabihii"
+    }
+  ],
+  "timestamp": "2026-09-01T08:24:19.493163915Z",
+  "model": "glm-5.3"
+}

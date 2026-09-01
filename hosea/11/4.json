@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 11:4",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Xadhkaha aadanaha baan ku jiiday, xiriirada jaceylka; waxaan u noqday sida kuwa qubka dhafoorrada ka qaadayaa, waana u dhaqsaday, quudin ayaa siyay.",
+  "tokens": [
+    {
+      "surface": "בחבלי",
+      "gloss": "xadhkaha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanaha"
+    },
+    {
+      "surface": "אמשכם",
+      "gloss": "baan ku jiiday"
+    },
+    {
+      "surface": "בעבתות",
+      "gloss": "xiriirada"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "jaceylka"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "waan u noqday"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(u)"
+    },
+    {
+      "surface": "כמרימי",
+      "gloss": "sida kuwa qaadayaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "qubka"
+    },
+    {
+      "surface": "על",
+      "gloss": "(dhafoorrada)"
+    },
+    {
+      "surface": "לחיהם",
+      "gloss": "dhafoorrada"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "waan u dhaqsaday"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "אוכיל",
+      "gloss": "quudin siyay"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:16.899172892Z",
+  "model": "glm-5.3"
+}

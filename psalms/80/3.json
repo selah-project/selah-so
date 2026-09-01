@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 80,
+  "translation": "Horta Efrayim iyo Benyamiin iyo Menashe, kici awowradkaaga, oo kan si nabad-gelyo ina noqoto.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "horta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "iyo Benyamiin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "iyo Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "kici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awowradkaaga"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "awowradkaaga"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "oo kan"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "si nabad-gelyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-01T05:16:41.097795703Z",
+  "model": "glm-5.3"
+}

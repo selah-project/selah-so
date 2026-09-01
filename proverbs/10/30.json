@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Kan xaqa ah weligiis ma dhaqaaqi doonaa, iyo kuwa sharka ah ma degaan ⟨dhulka⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "kan xaqa ah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligiis"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ma (dheri)"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dhaqaaqi doonaa"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "iyo kuwa sharka ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "degaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T05:32:02.953773947Z",
+  "model": "glm-5.3"
+}

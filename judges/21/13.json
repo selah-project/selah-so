@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 21:13",
+  "book": "judges",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Markaasaa dhammaan guddigii waxay u direen, waxayna la hadleen wiilasha Benyamin oo ahaa kuwa ku sugan dhagaxa Rimmon, waxayna ugu dhawaaqeen ⟨nabadsan⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "waxay u direen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "guddigii"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "waxayna la hadleen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo ahaa"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ku sugan dhagaxa"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "waxayna ugu dhawaaqeen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ugo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nabadsan"
+    }
+  ],
+  "timestamp": "2026-09-01T02:39:47.155064450Z",
+  "model": "glm-5.3"
+}

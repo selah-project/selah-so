@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 9:9",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "La nolol ⟨adiga⟩ naagta aad jeceshahay dhammaan maalmaha noloshaada ee hebelka, ee la siiyay adiga hoos ⟨qorraxda⟩, dhammaan maalmaha hebelkaaga; waayo kaasu waa qaybtaada nolosha, iyo mashquulkaaga aad ku mashquulayso hoos qorraxda.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "La nolol (arko\/arag nolol)"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nolol"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naagta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad (qodob)"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "jeceshahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "noloshaada"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "hebelkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee (qodob)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "la siiyay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmaha"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "hebelkaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaasu"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "qaybtaada"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "ובעמלך",
+      "gloss": "iyo mashquulkaaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aad (qodob)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "adiga"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mashquulayso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qorraxda"
+    }
+  ],
+  "timestamp": "2026-09-01T08:34:04.376558380Z",
+  "model": "glm-5.3"
+}

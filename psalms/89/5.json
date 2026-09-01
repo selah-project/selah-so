@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 89,
+  "translation": "Ilaa weligay zercaaga waan diyaarinayaa, waana dhisayaa carshigaaga jiil iyo jiil. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ilaa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "weligay"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "waan diyaarinayaa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zercaaga"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "waana dhisayaa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jiil"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iyo jiil"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "carshigaaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T05:17:53.906857888Z",
+  "model": "glm-5.3"
+}

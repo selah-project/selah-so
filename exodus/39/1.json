@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Iyo laga mid ah hawlaha buluuga ah (tekelet) iyo ba_buurka (argamaan) iyo duubka buninta (tolaat shani) waxay sameeyeen dhar shaqo (bigdei serad) si loo adeego baydka quduuska ah, waxayna sameeyeen ⟨את⟩ dharka quduuska ah ee Axun (Aharon) leeyahay, sida Yahweh u amray ⟨את⟩ Muuse.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "iyo laga mid ah"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelet (buluug)"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "iyo argamaan (ba_buur)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "iyo tolaat (duubka buninta)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani (bunin)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waxay sameeyeen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dhar"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "shaqo (la tolay)"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "si loo adeego"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "baydka quduuska ah"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dharka quduuska ah"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dharka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quduuska ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axun (Aharon) u taliyey"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "u amray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muuse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    }
+  ],
+  "timestamp": "2026-09-01T08:45:13.313775552Z",
+  "model": "glm-5.3"
+}

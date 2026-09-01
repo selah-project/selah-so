@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 14,
+  "translation": "Ayyal (sakarrige), iyo tsebi (saganuun), iyo yachmur, iyo aqqo (riyaha duurka), iyo dishon, iyo te'o, iyo samer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ayyal (sakarrige)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "iyo tsebi (saganuun)"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "iyo yachmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "iyo aqqo (riyaha duurka)"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "iyo dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "iyo te'o"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "iyo samer"
+    }
+  ],
+  "timestamp": "2026-09-01T07:00:34.936902279Z",
+  "model": "glm-5.3"
+}

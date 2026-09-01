@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 29,
+  "translation": "Laaban wuxuu ururiyey ⟨את⟩ dadka ⟨asalka⟩ meeshaas oo dhan, wuxuuna sameeyay cunto-wadareed.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "wuxuu ururiyey"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadka meeshaas oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dadka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "meeshaas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuuna sameeyay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "cunto-wadareed"
+    }
+  ],
+  "timestamp": "2026-09-01T00:51:24.781764691Z",
+  "model": "glm-5.3"
+}

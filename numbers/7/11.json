@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Yahweh wuxuu Muuse ku yidhi: nin madax ah oo keliya maalintii, nin madax ah oo keliya maalintii bay ⟨את⟩ allowna xertiisyadooda u dhaweeyaan hanuunista ⟨albaabka⟩ allabbariga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nin madax ah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nin madax ah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oo keliya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bay u dhaweeyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allowna xertiisyadooda"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "allowna xertiisyadooda"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "hanuunista"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "albaabka allabbariga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:57:15.185023484Z",
+  "model": "glm-5.3"
+}

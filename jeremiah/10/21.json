@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Waayo, barayaashu waxay noqdeen ⟨waa⟩ naqhyo, oo ⟨את⟩ Yahweh ma-doondawiin, sidaas darteed ma-fallooyin, oo kulligiin laxoodoodu waa la baajiyay (la qaybsiyay).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "waxay noqdeen naakhyo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barayaasha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma-"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "doondawiin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sidaas darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sidaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma-"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fallooyin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "oo kulligiin"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "laxoodooda"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "waa la baajiyay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:19:01.736984824Z",
+  "model": "glm-5.3"
+}

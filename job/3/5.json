@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Hoditaanku iyo odayga mowdku ha qabsadaan ⟨isa⟩, daruurre dushiisa ha degto, sida mugga maalinta ha cabsi-geliyaan ⟨isa⟩.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "ha qabsadaan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hoditaanku"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "iyo odayga mowdku"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ha degto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dushiisa"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "daruurre"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "ha cabsi-geliyaan"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "sida mugga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:58.578774868Z",
+  "model": "glm-5.3"
+}

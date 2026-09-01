@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Wuxuuna yidhi: Tan waa sharaynta. Wuxuuna tuuray ⟨את⟩ haweeneyda dhexdii ephaha, wuxuuna tuuray ⟨את⟩ dhagaxii birta ahaa afkeeda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wuxuuna yidhi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tan"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "sharaynta"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "Wuxuuna tuuray"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haweeneyda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "dhexdii"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ephaha"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "Wuxuuna tuuray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhagaxii birta ahaa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "dhagaxii"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "birta ahaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "afkeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T07:27:58.740273464Z",
+  "model": "glm-5.3"
+}

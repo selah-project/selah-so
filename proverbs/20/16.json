@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Dharkiisa qaado kan shisheeye u dhaqan-garabya, oo kan ajnabiga ah rafad ka qaado.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "qaado"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "dharkiisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "u dhaqan-garabya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "shisheeye"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "oo kan"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "ajnabiga ah"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "rafad ka qaado"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:15.399099487Z",
+  "model": "glm-5.3"
+}

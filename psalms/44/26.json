@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Waayo, nefasheenna waxay dhulka hoostiis u dhacday, caloosheennana dhulkay ku dhegtahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo,"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "waxay u dhacday"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "boodada"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefasheenna"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ku dhegtahay"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "caloosheenna"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:04.132031647Z",
+  "model": "glm-5.3"
+}

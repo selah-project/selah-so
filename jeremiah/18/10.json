@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 18,
+  "translation": "hadday sameeyaan waxa sharka ah ⟨xagga⟩ indhahayga, si aysan dhegeysan codkayga, waan ka noqon doonaa wanaagga aan idhi inaan u sameeyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hadday sameeyaan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "waxa sharka ah"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨xagga⟩ indhahayga"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "si aysan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dhegeysan"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "codkayga"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "waan ka noqon doonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wanaagga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "idhi"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "inaan u sameeyo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wanaagga la yeelanayo (iyaga)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:08:51.706605717Z",
+  "model": "glm-5.3"
+}

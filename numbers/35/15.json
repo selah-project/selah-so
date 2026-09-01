@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 35:15",
+  "book": "numbers",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Wiilasha Israa'iil iyo guri-gelinyaasha iyo kuwa dhexdooda deggan, lix magaalo oo qariso (maklaan) ayay noqon doontaa — si qof kastoo naf (nefesh) ku dilo si aan qorshe ahn uu ugu cararo halkaas.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "iyo guri-gelinyaasha"
+    },
+    {
+      "surface": "ולתושב",
+      "gloss": "iyo kuwa deggan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "dhexdooda"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ayay noqon doontaa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lix"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "magaalo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "qariso (maklaan)"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "si uu ugu cararo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "halkaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qof kastoo"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ku dilo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "naf (nefesh)"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "si aan qorshe ahn"
+    }
+  ],
+  "timestamp": "2026-09-01T01:59:20.568997074Z",
+  "model": "glm-5.3"
+}

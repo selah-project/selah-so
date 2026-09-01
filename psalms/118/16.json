@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 118,
+  "translation": "Gacanta midig ee Yahweh way la saraysaa, gacanta midig ee Yahweh waxay sameysaa geesinimo.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "gacanta midig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "way la saraysaa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "gacanta midig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waxay sameysaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "geesinimo"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:25.638755343Z",
+  "model": "glm-5.3"
+}

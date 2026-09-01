@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Oo Axab, inanka Amri, wuxuu shar sameeyay indhaha Yahweh ka hor, ka sii badan waxa dhan oo ka horreeyay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inanka"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Amri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sharka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka sii badan waxa dhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka horreeyay"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:14.747305698Z",
+  "model": "glm-5.3"
+}

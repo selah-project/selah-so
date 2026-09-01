@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Ha jirin cid khesed u soo jiiddata, ha jirna mid deeq-siinaya agoontiisa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha jirin"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ha jirna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "משך",
+      "gloss": "soo jiiddata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha jirna"
+    },
+    {
+      "surface": "יהי",
+      "gloss": ""
+    },
+    {
+      "surface": "חונן",
+      "gloss": "deeq-siinaya"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "agoontiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:22:33.611379666Z",
+  "model": "glm-5.3"
+}

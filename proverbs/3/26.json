@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 3,
+  "translation": "Waa maxay sababtu — Yahweh wuxuu noqon doonaa kalsoonidaada, wuxuuna ilaalin doonaa cagtaada si aan laga qabsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "waa maxay sababtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wuxuu noqon doonaa"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "kalsoonidaada"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "wuxuuna ilaalin doonaa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "cagtaada"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "si aan laga qabsan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:30:01.635761415Z",
+  "model": "glm-5.3"
+}

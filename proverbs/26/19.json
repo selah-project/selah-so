@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "sidaas oo kale waa ninka khiyaamaynaya ⟨את⟩ saaxiibkiisa, markaasna odhaya: Ma aanan ciyaarin miyaa?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sidaas oo kale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "khiyaamaynaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saaxiibkiisa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "saaxiibkiisa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "markaasna odhaya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ma... miyaa"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ciyaarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:37:06.025534485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Kii gacmihiisu nadiif yihiin iyo kii qalbiga ah oo daahir ah, kii aan uu ololayn nefshiisa wax burbur ah, kii aan u dhaaran been.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "nadiif yihiin"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "gacmihiisu"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "iyo kii ... daahir ah"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbiga ah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ololayn"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "wax burbur ah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefshiisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "u dhaaran"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "been"
+    }
+  ],
+  "timestamp": "2026-09-01T07:29:24.358058027Z",
+  "model": "glm-5.3"
+}

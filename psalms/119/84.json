@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Immisa maalmood ayaa adoonkaagu leeyahay? Goormaad ku abuuri doontaa kuwa i raacda xukun?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "immisa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adoonkaagu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "goormaad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ku abuuri doontaa"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "kuwa i raacda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "xukun"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:51.053667715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 119,
+  "translation": "Sidaas darteed qawaanadaada oo dhan dhanka wax kasta waan toosnayn waana xaqnayn, jidadka beenlaha ah oo dhan waan necbayahay.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sidaas darteed"
+    },
+    {
+      "surface": "כן",
+      "gloss": "darteed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "qawaanadaada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wax kasta"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "waan toosnayn waana xaqnayn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jidadka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "beenlaha ah"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "waan necbayahay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:24:54.466497127Z",
+  "model": "glm-5.3"
+}

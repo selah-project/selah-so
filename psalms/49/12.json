@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 49,
+  "translation": "Qalbigoodu wuxuu odhan yahay: guryuhoodu ⟨waa⟩ weligood, degaanadoodu jiil kastaaba; magacyadooda baa la bixiyay dhulka u dhow.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "qalbigoodu"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "guryuhoodu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligood"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "degaanadoodu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jiil kastaaba"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "jiil kastaaba"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "la bixiyay"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "magacyadooda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u dhow"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "dhulka"
+    }
+  ],
+  "timestamp": "2026-09-01T07:30:29.485244138Z",
+  "model": "glm-5.3"
+}

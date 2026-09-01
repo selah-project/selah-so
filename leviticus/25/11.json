@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yubel bay tahay, sanadka kontonaad; sanad ayay idiin noqon doontaa; ma sinaysaan, iyo ma goysaysaan ⟨את⟩ midhaha iskeed baxay, iyo ma ururaysaan ⟨את⟩ inantiisa aan la taallayn.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bay tahay"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sanadka"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "kontonaad"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sanad"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ayay noqon doontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "sinaysaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "goysaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midhaha iskeed baxay"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "midhaha iskeed baxay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iyo ma"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "ururaysaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inantiisa aan la taallayn"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "inantiisa aan la taallayn"
+    }
+  ],
+  "timestamp": "2026-09-01T06:55:48.138637030Z",
+  "model": "glm-5.3"
+}

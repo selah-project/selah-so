@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Waxayba naceyseen (baquud-dhigteen) waligiinnii qaddimiintayda, waxayna wasakhnayeen ⟨את⟩ Sabtayada.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "waligiinnii qaddimiintayda"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "naceyseen (baquud-dhigteen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabtayada"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabtayada"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wasakhnayeen (xaq-dhigteen)"
+    }
+  ],
+  "timestamp": "2026-09-01T08:27:06.733374597Z",
+  "model": "glm-5.3"
+}

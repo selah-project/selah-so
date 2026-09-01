@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Wuxuuna allabaray wuxuna u shiday qoomamayaal meelaha sarreeyay iyo buuraha, iyo hoostii mid kasta oo geed ah oo cagaaran.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wuxuuna allabaray"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wuxuuna u shiday qoomamayaal"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "meelaha sarreeyay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "buuraha"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "iyo hoostii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mid kasta oo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "geed ah oo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "cagaaran"
+    }
+  ],
+  "timestamp": "2026-09-01T03:31:52.335245441Z",
+  "model": "glm-5.3"
+}

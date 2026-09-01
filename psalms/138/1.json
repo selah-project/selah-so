@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 138,
+  "translation": "(Psalm-ka Dahweed) Waan ku mahadnaqaa dhammaan qalbigayga; hortii Elohim waan kuu qaadaysaa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "(Psalm-ka Dahweed)"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Waan ku mahadnaqaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbigayga"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "hortii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "waan kuu qaadaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:52.152580047Z",
+  "model": "glm-5.3"
+}

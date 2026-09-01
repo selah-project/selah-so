@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Xaqnimadaada, Elohim, waxay gaartaa maroom (kor sare), adiga oo sameeyay waxyaalaha waaweyn; Elohim, yaa la mid ah adiga?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waxay gaartaa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "maroom (kor sare)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "adiga oo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sameeyay"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "waxyaalaha waaweyn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "la mid ah adiga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:09.420705636Z",
+  "model": "glm-5.3"
+}

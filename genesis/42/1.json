@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 42,
+  "translation": "Yaakobna wuxuu arkay in shubker (badeecad la jajabiyay) jirto Mitsrayim, Yaakobna wuxuu wiilashiisa ku yidhi: Maxaad isu eegaysaan?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wuxuu arkay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "in"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jirto"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "shubker (badeecad la jajabiyay)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu ku yidhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobna"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "wiilashiisa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maxaad"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "isu eegaysaan?"
+    }
+  ],
+  "timestamp": "2026-09-01T01:00:09.974707298Z",
+  "model": "glm-5.3"
+}

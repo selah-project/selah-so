@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 105,
+  "translation": "Boqorku wuxuu diray oo wuu xoreeyay; taliyaha shacabkana wuu ka furay.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "wuxuu diray"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "oo wuu xoreeyay"
+    },
+    {
+      "surface": "משל",
+      "gloss": "taliyaha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "shacabka"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "wuu ka furay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:21:29.791323639Z",
+  "model": "glm-5.3"
+}

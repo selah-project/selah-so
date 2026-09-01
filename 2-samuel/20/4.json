@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 20,
+  "translation": "Oo boqorku wuxuu yidhi Camasaa: I yeer ⟨את⟩ ragga Yahuudah saddex maalmood gudahood, adiguna halkan istaag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Camasaa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "I yeer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ragga Yahuudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ragga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "saddex"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adiguna"
+    },
+    {
+      "surface": "פה",
+      "gloss": "halkan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "istaag"
+    }
+  ],
+  "timestamp": "2026-09-01T03:06:07.888408509Z",
+  "model": "glm-5.3"
+}

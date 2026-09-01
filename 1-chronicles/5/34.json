@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Achituubna wuxuu dhalay ⟨את⟩ Tsadok, Tsadokna wuxuu dhalay ⟨את⟩ Achimachts.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Achituubna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadokna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimachts"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimachts"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:32.264501214Z",
+  "model": "glm-5.3"
+}

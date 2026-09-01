@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 128,
+  "translation": "Hawadaydu sidii canab firigelay ayay tahay dhinca gurigeeda; caruurteeda sidaa geedaha saydaa oo ku wareegsan miiskeeda.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Hawadaydu"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "sidii canab"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "firigelay"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "dhinca (qolka dambe)"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "gurigeeda"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "caruurteeda"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "sidaa geedaha (beeran)"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "saydaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku wareegsan"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "miiskeeda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:13.064678653Z",
+  "model": "glm-5.3"
+}

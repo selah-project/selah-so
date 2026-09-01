@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 90,
+  "translation": "Yaa garanaya xoogga cadhadaada? Cadhadaada iyo cabsida ⟨ee⟩ lay qabo adiga.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "garanaya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "xoogga"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cadhadaada"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "cabsida ⟨ee⟩ lay qabo adiga"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "cadhadaada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:35.561436381Z",
+  "model": "glm-5.3"
+}

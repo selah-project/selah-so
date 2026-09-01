@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Kooxdii ordayaashuna way taagan qaabeen, nin kasta qalabiisana gacantiisa, lugga midigta ee guriga ilaa lugga bidixda ee guriga, allabariga iyo gurigaba, boqorka agtiisa dhan.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "way taagan qaabeen"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "kooxdii ordayaashuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nin kasta"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "qalabiisana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "lugga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ee guriga"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "midigta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "lugga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ee guriga"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bidixda"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "allabariga"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "iyo gurigaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "agtiisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dhan"
+    }
+  ],
+  "timestamp": "2026-09-01T03:29:18.229873839Z",
+  "model": "glm-5.3"
+}

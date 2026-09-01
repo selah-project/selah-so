@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 65,
+  "translation": "Daahirtu waa la huwiyay adhi, oo baadiyaduna baa la daboolay badeecad; way qayliyaan farxadda, bal way heestaan.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "waa la huwiyay"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "adhi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "daahirtu"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "oo baadiyaduna"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "baa la daboolay"
+    },
+    {
+      "surface": "בר",
+      "gloss": "badeecad"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "way qayliyaan farxadda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "way heestaan"
+    }
+  ],
+  "timestamp": "2026-09-01T05:11:54.168790836Z",
+  "model": "glm-5.3"
+}

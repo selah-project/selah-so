@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Albaabada dhexdeeda, magaalada afka ku dhow, iyadoo ka soo gurxaan albaabaha soo galayaba ayay si cod dheer u qaylishaa.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "dhexdeeda \/ cagahta"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "albaabada"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "afka ku dhow"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "magaalada"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "soo galayaba \/ soo gurxaan"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "albaabaha"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ayay si cod dheer u qaylishaa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:31:24.953048248Z",
+  "model": "glm-5.3"
+}

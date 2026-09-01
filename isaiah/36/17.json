@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 36,
+  "translation": "ilay aan imidoo aan idinka qaado ⟨את⟩ dhul la mid ah dhulkii (dhoobo) — dhul galeen iyo khamri, dhul rooti iyo beero canab.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "באי",
+      "gloss": "aan imidoo"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "aan idinka qaado"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ idinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(dhoobo)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "la mid ah dhulkii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "galeen"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "iyo khamri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhul"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rooti"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "iyo beero canab"
+    }
+  ],
+  "timestamp": "2026-09-01T07:15:44.716206099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Wuxuu sameeyay Yahweh ⟨את⟩ ereygaas berriyadii dambeysay, waxaana dhintay xoolaha Mitsrayim oo dhan, laakiin xoolaha wiilasha Israaiil mid kama dhiman.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wuxuu sameeyay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereygaas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ereygaas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "berriyadii dambeysay"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "waxaana dhintay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "xoolaha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "laakiin xoolaha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israaiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dhimin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mid ka"
+    }
+  ],
+  "timestamp": "2026-09-01T01:08:40.416829663Z",
+  "model": "glm-5.3"
+}

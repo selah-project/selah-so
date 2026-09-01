@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Wuxuu dirayaa ereeggiisa oo ⟨wuxuu ka dhalaaliyaa⟩; wuxuu kaxaynayaa ruuxiisii, oo biyahu waa socdaan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wuxuu dirayaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ereeggiisa"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "oo ⟨wuxuu ka dhalaaliyaa⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wuxuu kaxaynayaa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruuxiisii"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "waa socdaan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "biyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:31.289485983Z",
+  "model": "glm-5.3"
+}

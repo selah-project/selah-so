@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 72,
+  "translation": "Wuu xukumi doonaa ⟨dadkaaga⟩ xaqnimo, iyo ⟨maskiintaada⟩ caddaalad.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "wuu xukumi doonaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dadkaaga"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "xaqnimo"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "iyo maskiintaada"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "caddaalad"
+    }
+  ],
+  "timestamp": "2026-09-01T05:14:08.100008098Z",
+  "model": "glm-5.3"
+}

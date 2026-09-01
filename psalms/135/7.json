@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 135,
+  "translation": "Ka soo kiciya daruuraha dhulka geysihiisa, uu sameeyay biriq roobaba, soo saaraya ruuxa bakhaarradiisa.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ka soo kiciya"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "daruuraha"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dhulka geysihiisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "biriq"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "roobaba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uu sameeyay"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "soo saaraya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuxa"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "bakhaarradiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T05:26:31.085708539Z",
+  "model": "glm-5.3"
+}

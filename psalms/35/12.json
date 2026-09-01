@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waxay ii abaal-marin siinayaan shar xagga wanaag; lumitaan dhabta ah oo nafayda.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "waxay ii abaal-marin siinayaan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "shar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "xagga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wanaag"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "lumitaan dhabta ah"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "oo nafayda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:33.446056733Z",
+  "model": "glm-5.3"
+}

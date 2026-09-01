@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 19,
+  "translation": "Ma jiro hadal, uma jiraan erayo, ⟨is⟩ aan la maqal codkooda.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ma jiro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hadal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uma jiraan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "erayo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "la maqal"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "codkooda"
+    }
+  ],
+  "timestamp": "2026-09-01T05:04:31.483974992Z",
+  "model": "glm-5.3"
+}

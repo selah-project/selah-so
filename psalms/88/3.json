@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 88,
+  "translation": "Baryaday ha keento wajigaaga hortii; dhegtada u dheji codkaygii oonayn",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ha keento"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "wajigaaga hortii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Baryaday"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "u dheji"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dhegtada"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "codkaygii oonayn"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:16.122283257Z",
+  "model": "glm-5.3"
+}

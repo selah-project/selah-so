@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 115,
+  "translation": "Yahweh wuu xusay inaga; wuu barakaa, wuu barakaa ⟨את⟩ reerka Yisra'iil, wuu barakaa ⟨את⟩ reerka Aaron.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "wuu xusay inaga"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wuu barakaa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wuu barakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reerka Yisra'iil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reerka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "wuu barakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reerka Aaron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reerka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    }
+  ],
+  "timestamp": "2026-09-01T05:23:37.240622892Z",
+  "model": "glm-5.3"
+}

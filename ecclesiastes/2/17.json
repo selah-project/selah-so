@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "so",
+  "chapter": 2,
+  "translation": "Oo waan neceb qabay nolosha ⟨את⟩, maxaydee waa shar in ii tahay shuqulkii la sameeyay hoos qoraxda, maxaydee waa keliya hebel iyo xanuun ruux.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "waan neceb qabay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nolosha"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nolosha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaydee"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "in ii tahay"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "shuqulkii"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "la sameeyay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hoos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "qoraxda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maxaydee"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "waa keliya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "iyo xanuun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruux"
+    }
+  ],
+  "timestamp": "2026-09-01T05:58:59.500170156Z",
+  "model": "glm-5.3"
+}

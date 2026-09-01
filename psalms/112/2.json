@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 112,
+  "translation": "Faraciisu dhulka waxaa ku noqon doonaa ⟨adhi-adag⟩, jiilka toosan oo dhan waa la barakaysanayaa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "adhi-adag"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waxaa ku noqon doonaa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Faraciisu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jiilka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toosan oo dhan"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "waa la barakaysanayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:36.786628425Z",
+  "model": "glm-5.3"
+}

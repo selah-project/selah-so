@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 137,
+  "translation": "Xusuusow, Yahweh, wiilasha Edom ⟨את⟩ maalinta Yeruushaalaym, kuwii odhanaya: Dumisa, dumisa, ilaa aasaaskeedii!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "xusuusow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wiilasha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalinta Yeruushaalaym"
+    },
+    {
+      "surface": "יום",
+      "gloss": "maalinta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruushaalaym"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kuwii odhanaya"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dumisa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dumisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "aasaaskeedii"
+    },
+    {
+      "surface": "בה",
+      "gloss": "keedii"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:45.950844068Z",
+  "model": "glm-5.3"
+}

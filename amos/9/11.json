@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "so",
+  "chapter": 9,
+  "translation": "Maalintaas waxaan taagi doonaa ⟨את⟩ kiibadda Daawud ee dhacday, waana xirihi doonaa ⟨את⟩ boosaskaheeda, burburkeedana waan taagi doonaa, waana dhisaa sida maalmihii qabyadii hore.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Maalintaas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aas"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "waxaan taagi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiibadda Daawud"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "kiibadda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "ee dhacday"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "waana xirihi doonaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boosaskaheeda"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "boosaskaheeda"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "burburkeeda"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "waan taagi doonaa"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "waana dhisaa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sida maalmihii"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qabyadii hore"
+    }
+  ],
+  "timestamp": "2026-09-01T04:49:49.897335105Z",
+  "model": "glm-5.3"
+}

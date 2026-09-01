@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Haddii aad disho, Eloah, shariifka — ehelka dhiigga ah, iaga dhaqaaqaa!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haddii"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "aad disho"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "shariifka"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ehelka"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dhiigga ah"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "iaga dhaqaaqaa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iaga"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:22.946768949Z",
+  "model": "glm-5.3"
+}

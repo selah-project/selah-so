@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Si aad uga saarto ⟨את⟩ cadowgaaga oo dhan ka horreeyaaga, sida uu Yahweh ku sheegay.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "si aad uga saarto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cadowgaaga oo dhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oo dhan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "cadowgaaga"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ka horreeyaaga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uu ku sheegay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T02:02:13.927816164Z",
+  "model": "glm-5.3"
+}

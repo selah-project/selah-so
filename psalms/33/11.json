@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 33,
+  "translation": "Taladda Yahweh weligeed bay taagan tahay; qorsheyaasha qalbigiisa jiil kasta oo jiil.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Taladda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "weligeed"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "bay taagan tahay"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "qorsheyaasha"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbigiisa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jiil kasta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "oo jiil"
+    }
+  ],
+  "timestamp": "2026-09-01T05:06:44.805749158Z",
+  "model": "glm-5.3"
+}

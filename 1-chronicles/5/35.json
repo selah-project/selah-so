@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Achimachtsna wuxuu dhalay ⟨את⟩ Azarjah, Azarjaana wuxuu dhalay ⟨את⟩ Yoojanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Achimachtsna"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjaana"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wuxuu dhalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoojanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoojanan"
+    }
+  ],
+  "timestamp": "2026-09-01T06:23:32.264619465Z",
+  "model": "glm-5.3"
+}

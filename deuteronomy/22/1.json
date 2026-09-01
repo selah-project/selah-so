@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Lo' sha ahayd oo walaalkaa ama adhigiisa lumiyo ma arki kartid, aadna nafta ka qarisid; celin buuta u celin walaalkaaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "arki kartid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo' sha ahayd oo walaalkaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lo'"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "walaalkaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adhigiisa"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "adhigiisa"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "lumiyo"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "nafta ka qarisid"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "השב",
+      "gloss": "celin"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "buuta u celin"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "walaalkaaga"
+    }
+  ],
+  "timestamp": "2026-09-01T02:10:28.517555640Z",
+  "model": "glm-5.3"
+}

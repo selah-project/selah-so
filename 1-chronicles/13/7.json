@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Way saareen ⟨את⟩ sanduuqa Elohim gaari cusub laga bilaabo guriga Abiinadaab, Uzza iyo walaalkiisna gaariga bay wateen.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "Way saareen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduuqa Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduuqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "(gaari) lug"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "gaari"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "cusub"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "laga bilaabo guriga"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abiinadaab"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uzza iyo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "walaalkiisna"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "wateen"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "gaariga"
+    }
+  ],
+  "timestamp": "2026-09-01T06:28:38.373989511Z",
+  "model": "glm-5.3"
+}

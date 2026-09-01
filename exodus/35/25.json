@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "O dhammaan haweenkii xariifka ah ee wadnaheeda gacmeheeda bay dhigteen, waxayna keeneen wixii la dhigay: ⟨את⟩ midabka buluuga ah iyo ⟨את⟩ buniga, ⟨את⟩ diidada casaanka iyo ⟨את⟩ linen-ka fiican.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "o dhammaan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "haweenkii"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "xariifka ah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wadnaheeda"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "gacmeheeda"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "bay dhigteen"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waxayna keeneen"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "wixii la dhigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midabka buluuga ah"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "midabka buluuga ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "buniga"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "buniga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diidada casaanka"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "diidada"
+    },
+    {
+      "surface": "השני",
+      "gloss": "casaanka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "linen-ka fiican"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linen-ka fiican"
+    }
+  ],
+  "timestamp": "2026-09-01T06:54:49.565207387Z",
+  "model": "glm-5.3"
+}

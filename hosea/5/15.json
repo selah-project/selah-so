@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 5,
+  "translation": "Waxaan tegi doonaa, waxaan laaban doonaa meeshaydii; ilaa ay dembi ogaadaan oo ay wajiga iigo doondhooraan — cidhibtadooda dhibku ku dhacdo waxay i doondhoori doonaan dabadeed.",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "Waxaan tegi doonaa"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "waxaan laaban doonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "meeshaydii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "dembi ogaadaan"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "oo ay... doondhooraan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajiga iiga"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dhibku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cidhibtadooda"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "waxay i doondhoori doonaan"
+    }
+  ],
+  "timestamp": "2026-09-01T04:43:54.321478436Z",
+  "model": "glm-5.3"
+}

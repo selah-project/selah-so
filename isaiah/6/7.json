@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "so",
+  "chapter": 6,
+  "translation": "Wuuna taabtay afkay, wuxuuna yidhi, Bal eeg, kan wuxuu taabtay afkaaga, xumahaadana wuu ka dhaafay, dembigaagna waa la dhaafiyaa ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "wuuna taabtay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "afkay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuuna yidhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "wuxuu taabtay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "wuu ka dhaafay"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "xumahaada"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "dembigaaga"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "waa la dhaafiyaa"
+    }
+  ],
+  "timestamp": "2026-09-01T03:38:47.045816667Z",
+  "model": "glm-5.3"
+}

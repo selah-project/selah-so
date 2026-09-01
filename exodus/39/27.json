@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 39,
+  "translation": "Waxayna sameeyeen ⟨את⟩ dhaarka hoose (tunikada) linen cad, shuqul mareeg (fure), Axroon iyo wiilashiisa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "waxayna sameeyeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunikada"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tunikada (dhaarka hoose)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen cad"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "shuqul"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "mareeg (fure)"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Axroon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "iyo wiilashiisa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:25:31.138668862Z",
+  "model": "glm-5.3"
+}

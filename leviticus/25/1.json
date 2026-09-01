@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "Yahweh wuxuu ku hadlay Muuse buurta Siinayi ⟨isagoo dhihi⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu hadlay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "buurta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨isagoo dhihi⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T01:38:07.965721954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Dawud wuxuu yidhi: Dhiiggagu wuu ku sugnaaday madaxaaga, waayo afkaaga baa kaga markhaati furay adigoo leh: Aniga ayaan dilay ⟨את⟩ Masiixka Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wuxuu yidhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "(isaga)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "dhiiggagu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku sugnaaday"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "madaxaaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "afkaaga"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "baa markhaati furay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kaga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "adigoo leh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ayaan dilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Masiixka Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Masiixka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:55.851064500Z",
+  "model": "glm-5.3"
+}

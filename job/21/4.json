@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "so",
+  "chapter": 21,
+  "translation": "Anniguba ma ninka ayaan u layli oo la hadlayaa? Haddii sidaas tahay, maxay ruuxdaydu u gaaban waydoon?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "anniguba"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ninka ... u"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ayaan ... layli oo la hadlayaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haddii sidaas tahay"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maxay ... u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ... waydoon"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "gaaban tahay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuxdaydu"
+    }
+  ],
+  "timestamp": "2026-09-01T05:45:32.635300151Z",
+  "model": "glm-5.3"
+}

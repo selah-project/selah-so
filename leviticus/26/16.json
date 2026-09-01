@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "so",
+  "chapter": 26,
+  "translation": "Aniguna waan idinku sameyn doonaa tan: waan idinka soo dhiibi doonaa argagax iyo ⟨את⟩ daalka (shaheysta) iyo ⟨את⟩ qandhada gubata, oo indhaha engegaysa iyo nafta daciifaysa; waxaad si madhnaan ah beeran doontaan abuurtiinna, waxayna cuni doontaan cadawwiinnu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Aniguna (sidoo kale)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aniga"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "waan sameyn doonaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "idiin"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "waan idinka soo dhiibi doonaa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "idinka"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "argagax"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daalka (shaheysta)"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "daalka (shaheysta)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "qandhada gubata"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "qandhada gubata"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "engegaysa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "indhaha"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "daciifaysa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafinta"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "waxaad beeran doontaan"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "si madhnaan ah"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "abuurtiinna"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "waxayna cuni doontaan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cadawwiinnu"
+    }
+  ],
+  "timestamp": "2026-09-01T01:39:12.068860758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 147,
+  "translation": "Wuxuu siiyaa bheelda cuntoodeed, iyo ilmaha tukeennada oo dhawaaqa (yiqraaju).",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Wuxuu siiyaa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "bheelda"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "cuntoodeed"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ilmaha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tukeennada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "dhawaaqa (yiqraaju)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:28:09.534564993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 139,
+  "translation": "Waayo, erey carrabkayga ku ma jiro, bal eeg, Yahweh, adigu waad dhammaystiran tahay inaad ogaato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jiro"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "erey"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "carrabkayga ku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bal eeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waad ogaato"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dhammaystiran"
+    }
+  ],
+  "timestamp": "2026-09-01T05:27:23.704725914Z",
+  "model": "glm-5.3"
+}

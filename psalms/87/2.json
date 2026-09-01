@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 87,
+  "translation": "Yahweh wuxuu jecel yahay iriddaha Siyoon, in ka badan dhammaan hoyaha Yacquub.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "wuxuu jecel yahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "iriddaha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "in ka badan dhammaan"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "hoyaha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yacquub"
+    }
+  ],
+  "timestamp": "2026-09-01T05:18:14.615189672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 35,
+  "translation": "Waayo, aan sabab la'aan bay ii qariyeen godkii, shabakadooda; aan sabab la'aan bay noloshayda kaga qudmeen god.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Waayo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "aan sabab la'aan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bay qariyeen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "godkii"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "shabakadooda"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "aan sabab la'aan"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bay qudmeen god"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "noloshayda (nefesh-dayda)"
+    }
+  ],
+  "timestamp": "2026-09-01T05:07:19.989145340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "so",
+  "chapter": 22,
+  "translation": "Ha ku dhacin nasiibka cidhiidhiyahay, waayo wuu cidhiidhi yahay; ha-na tumancidhiidhiyahay baabaca ù bacadashada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ku dhacin nasiibka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "cidhiidhiyahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "cidhiidhi yahay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wuu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ha-na"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "tumid"
+    },
+    {
+      "surface": "עני",
+      "gloss": "baabaca"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "bacadashada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:35:43.337966191Z",
+  "model": "glm-5.3"
+}

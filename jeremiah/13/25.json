@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 13,
+  "translation": "Kani waa qismadaada, qaybta la cabiray ee ⟨את⟩ igaga ah, ayaa Yahweh odhan, maxaadnee — adigu waxaad ilowday ⟨את⟩ aniga, oo waxaad ku tala-xarrigtay sharta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kani"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "qismadaada"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "qaybta"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "la cabiray (cabirkaada)"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ igaga",
+      "marks": "qaybta la cabiray"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ayaa odhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maxaadnee"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "waxaad ilowday"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aniga",
+      "marks": "waxaad ilowday"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "waxaad ku tala-xarrigtay"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "sharta (beenta)"
+    }
+  ],
+  "timestamp": "2026-09-01T04:06:42.409291070Z",
+  "model": "glm-5.3"
+}

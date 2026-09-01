@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "so",
+  "chapter": 1,
+  "translation": "Malaggii Yahweh wuxuu ku hadlay Eliyaah: Deg hoos la socda ⟨את⟩ isaga, ha ka cabsan wajigiisa; wuxuuse kacay, hoosna u degay ⟨את⟩ isaga ilaa ⟨boqorka⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wuxuu ku hadlay"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malaggii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ugu)"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Deg hoos"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "la socda ⟨את⟩ isaga",
+      "marks": "hogaamiyihii saddexaad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka cabsan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "wajigiisa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wuxuuse kacay"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "hoosna u degay"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "la socda ⟨את⟩ isaga",
+      "marks": "boqorka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorka"
+    }
+  ],
+  "timestamp": "2026-09-01T03:24:18.366194125Z",
+  "model": "glm-5.3"
+}

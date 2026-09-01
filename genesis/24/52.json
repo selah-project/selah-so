@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "so",
+  "chapter": 24,
+  "translation": "Waxaana noqday markii adeegaha Abraham maqlay ⟨את⟩ ereyadoodii, inuu dhulka u sujuuday Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Waxaana noqday"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "markii"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maqlay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adeegaha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ereyadoodii"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ereyadoodii"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "inuu sujuuday"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dhulka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T00:49:23.367171301Z",
+  "model": "glm-5.3"
+}

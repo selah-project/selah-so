@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "so",
+  "chapter": 34,
+  "translation": "Lix maalmood ayaad shaqaynaysaa, maalintii toddobaadbana waad nasanaysaa; waqtigaa dallinta iyo waqtigaa goosista waad nasanaysaa.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Lix"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maalmood"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ayaad shaqaynaysaa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "toddobaadbana"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "waad nasanaysaa"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "waqtigaa dallinta"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "iyo waqtigaa goosista"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "waad nasanaysaa"
+    }
+  ],
+  "timestamp": "2026-09-01T01:21:34.273967482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 71,
+  "translation": "Afkeygu wuu sheegi doonaa xaqnimadaada, maalintii oo dhan badbaadadaada; waayo, tirada uma yaqiin.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "afkeygu"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "wuu sheegi doonaa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "xaqnimadaada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintii"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "badbaadadaada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yaqiin"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "tirada"
+    }
+  ],
+  "timestamp": "2026-09-01T05:13:47.798187375Z",
+  "model": "glm-5.3"
+}

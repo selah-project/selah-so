@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 8,
+  "translation": "Daawudna wuxuu garaacay ⟨את⟩ Hadadezer inka Rekhob boqorka Tsowahah, markuu tegey inuu celin gacantiisa Webiga (Eufrates).",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wuxuuna garaacay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inka"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "boqorka"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsowahah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "markuu tegey"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "inuu celin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "gacantiisa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "Webiga (Eufrates)"
+    }
+  ],
+  "timestamp": "2026-09-01T02:59:06.263580827Z",
+  "model": "glm-5.3"
+}

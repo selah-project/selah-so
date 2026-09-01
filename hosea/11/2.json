@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 11,
+  "translation": "Way u yeedheen, laakiin way ka tageen wajigoodii; Baalimbay allabbari u dhejiyeen, sanamymmadaana qoonsi u shiidayeen.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "u yeedheen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(u)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "laakiin (sidaas)"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "way tageen"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "wajigoodii ka"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalim (u)"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "allabbari u dhejiyeen"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "sanamymmada (u)"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "qoonsi u shiidayeen"
+    }
+  ],
+  "timestamp": "2026-09-01T04:46:16.898745498Z",
+  "model": "glm-5.3"
+}

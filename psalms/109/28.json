@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 109,
+  "translation": "Waxay naarta ha ahaato, laakiin adigu barakee; way soo kici bayna walbahaaraan, laakiin addoonkaagu wuu farxayaa.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Waxay naarta ha ahaato"
+    },
+    {
+      "surface": "המה",
+      "gloss": "way"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "laakiin adigu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "barakee"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "soo kici"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "bayna walbahaaraan"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "laakiin addoonkaagu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wuu farxayaa"
+    }
+  ],
+  "timestamp": "2026-09-01T07:32:28.493962216Z",
+  "model": "glm-5.3"
+}

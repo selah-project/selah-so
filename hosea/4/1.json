@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "so",
+  "chapter": 4,
+  "translation": "Maqla ereyga Yahweh, wiilashiina Israa'iil, waayo, doon Yahweh wuxuu la jiraan la dagaallamayaa degganaha ⟨dhulka⟩, waayo, run ma jirto, iyo khesed ma jiro, iyo gar Elohim dhulka laguma jiro.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Maqla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ereyga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wiilashiina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "degganaha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨dhulka⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma jirto"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "run"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo khesed ma jiro"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "iyo gar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dhulka laguma jiro"
+    }
+  ],
+  "timestamp": "2026-09-01T04:44:48.145463488Z",
+  "model": "glm-5.3"
+}

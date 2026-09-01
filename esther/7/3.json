@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "so",
+  "chapter": 7,
+  "translation": "Ester boqoradddana waxay ka jawaabtay oo waxay tidhi: Haddaan anigu siin ugulaabo indhahaaga, boqorkow, oo hadday boqorku ku fiican tahay, nafsadayda i sii codsatadaydii, oo dadkayna dacweeddaydii.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "waxay ka jawaabtay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "boqoraddda"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "oo waxay tidhi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haddaan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "siin ugulaabo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "siin"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "indhahaaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorkow"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "oo hadday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "boqorku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fiican tahay"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "i sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anigu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsadaydii"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "codsatadaydii"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "oo dadkayna"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "dacweeddaydii"
+    }
+  ],
+  "timestamp": "2026-09-01T06:03:32.247811276Z",
+  "model": "glm-5.3"
+}

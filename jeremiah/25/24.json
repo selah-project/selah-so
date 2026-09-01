@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "so",
+  "chapter": 25,
+  "translation": "iyo ⟨את⟩ dhammaan boqoradii Arab, iyo ⟨את⟩ dhammaan boqoradiii dadka isku-dhacan ee ku nool keymta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan boqoradii Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iyo ⟨את⟩",
+      "marks": "dhammaan boqoradii dadka isku-dhacan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boqoradii"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "dadka isku-dhacan"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "ku nool"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "keymta"
+    }
+  ],
+  "timestamp": "2026-09-01T04:10:16.334385467Z",
+  "model": "glm-5.3"
+}

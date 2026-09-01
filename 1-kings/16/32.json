@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "so",
+  "chapter": 16,
+  "translation": "Wuxuuna dhisay allabarri Baal ugu talagalay gurigii Baal, oo uu dhisay Shomroon.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Wuxuuna dhisay (oo taagay)"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "allabarri"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal ugu talagalay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gurigii"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uu dhisay"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroon"
+    }
+  ],
+  "timestamp": "2026-09-01T03:19:14.747632371Z",
+  "model": "glm-5.3"
+}

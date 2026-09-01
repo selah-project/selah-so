@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "so",
+  "chapter": 10,
+  "translation": "Wuxuuna Xanuun qaatay ⟨את⟩ addoomadii Daawud, wuxuuna jaray gebigooda waaweyn barkeedii, wuxuuna go'yay ⟨את⟩ dhararkooda bartanka, ilaa fadhiyadooda (dulcelintooda), wuxuuna ugula baxshay.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wuxuuna qaatay"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Xanuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "addoomadii"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "addoomadii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "wuxuuna jaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barkeedii"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "barkeedii"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "gebigooda waaweyn"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wuxuuna go'yay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhararkooda"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "dhararkooda"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "bartanka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ilaa"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "fadhiyadooda (dulcelintooda)"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wuxuuna ugula baxshay"
+    }
+  ],
+  "timestamp": "2026-09-01T07:06:29.872008130Z",
+  "model": "glm-5.3"
+}

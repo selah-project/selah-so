@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "so",
+  "chapter": 44,
+  "translation": "Maalintuba ceebtaydu waa igu hortaal, iyo waxa wajigayga xannibay wuu i daboolay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dhammaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maalintuba"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ceebtaydu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "waa igu hortaal"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "iyo wajigayga xannibay"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajigayga"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "wuu i daboolay"
+    }
+  ],
+  "timestamp": "2026-09-01T05:09:12.813036982Z",
+  "model": "glm-5.3"
+}
