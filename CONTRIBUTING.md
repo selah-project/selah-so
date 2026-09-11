@@ -25,3 +25,8 @@ Haddii aad isticmaashay model luqadeed weyn ama tarjumaad mashiin ah — si cad 
 ## Shatiga iyo hubinta
 
 Adigoo wax ku darsanaya waxaad ogolaanaysaa in wax kasta oo la aqbalo lagu daabaco [CC BY-SA 4.0](LICENSE.md). Taariikhda Git-ku waxay furan haysaa diiwaanka iyo sababaha. Kuwa hubiya waxay soo jeedinta la barbar dhigaan Cibraaniga, xeerarka, tixraacyada iyo is-barbar-socodka.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
