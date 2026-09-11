@@ -50,3 +50,9 @@ Tarjumaaddan waa furan tahay shatiga CC BY-SA 4.0. Haddii shaqadani ay wax kuu t
 ## Kaalay oo hubi
 
 Akhristayaal, arday Cibraani barta, tarjumaayaal, kuwa Soomaaliga ku hadla tan iyo caruurnimo — dhammaantiin soo dhawaada. Intaadan khalad soo sheegin ama hagaajin soo jeedin, marka hore akhri [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
