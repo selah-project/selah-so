@@ -6,7 +6,7 @@ Mahadsanid — waxaad ka caawinaysaa in tarjumaaddan ay noqoto mid cad, mid muuq
 
 - Haddii eray dood u baahan yahay, ama uu mid ka badan akhris leeyahay — fur **Issue**.
 - Haddii khaladka iyo hagaajintuba labaduba cad yihiin — fur **Pull request**.
-- Su'aalaha barnaamijka ama ammaankiisa — [Selah Support](https://selahproject.com/support).
+- Su'aalaha barnaamijka ama ammaankiisa — [Selah Support](https://s33k3r.com/learn/support).
 
 ## Xeerarka wax ka beddelidda faylasha
 
